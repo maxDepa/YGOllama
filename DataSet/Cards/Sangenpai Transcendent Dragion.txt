@@ -1,0 +1,14 @@
+Sangenpai Transcendent Dragion
+Card Type: Synchro Monster
+
+Description: 1 Dragon Tuner + 1+ non-Tuner Dragon monsters
+All monsters your opponent controls must attack, if able. Your opponent cannot activate cards or effects during the Battle Phase. If this card is Synchro Summoned: You can change all monsters on the field to Attack Position. If 3 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your GY, then you can destroy 1 card on the field. You can only use this effect of "Sangenpai Transcendent Dragion" once per Duel.
+
+Type: Dragon
+Attribute: FIRE
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: Sangen
+Present in Sets:
+- Legacy of Destruction

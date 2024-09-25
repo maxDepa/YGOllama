@@ -1,0 +1,18 @@
+Frightfur Leo
+Card Type: Fusion Monster
+
+Description: "Edge Imp Saw" + 1 "Fluffal" monster
+Must be Fusion Summoned and cannot be Special Summoned by other ways. You can target 1 face-up monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. You can only use this effect of "Frightfur Leo" once per turn. This card cannot attack your opponent directly during the turn you activate this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Edge Imp
+Present in Sets:
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 M

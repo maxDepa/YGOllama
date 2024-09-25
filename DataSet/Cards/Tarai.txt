@@ -1,0 +1,13 @@
+Tarai
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 face-up monster in the Main Monster Zone that has activated its effect on the field this turn; destroy it, and if you do, Special Summon this card to the zone that monster was in. You can only use this effect of "Tarai" once per turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Age of Overlord

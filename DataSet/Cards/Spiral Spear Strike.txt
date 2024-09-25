@@ -1,0 +1,17 @@
+Spiral Spear Strike
+Card Type: Spell Card
+
+Description: If "Gaia The Fierce Knight", "Swift Gaia the Fierce Knight", or "Gaia the Dragon Champion" you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. If "Gaia the Dragon Champion" inflicts battle damage with this effect: Draw 2 cards, then discard 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Millennium Pack
+- Speed Duel Starter Decks: Match of the Millennium

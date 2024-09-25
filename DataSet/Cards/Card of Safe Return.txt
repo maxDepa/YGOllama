@@ -1,0 +1,20 @@
+Card of Safe Return
+Card Type: Spell Card
+
+Description: When a monster is Special Summoned from your Graveyard, you can draw 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Hobby League 7 participation card E
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Structure Deck: Zombie Madness
+- Zombie World Structure Deck

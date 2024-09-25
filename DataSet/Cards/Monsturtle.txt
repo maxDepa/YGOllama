@@ -1,0 +1,12 @@
+Monsturtle
+Card Type: Normal Monster
+
+Description: Protected by a spiked shell, this turtle has a very nasty disposition.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:

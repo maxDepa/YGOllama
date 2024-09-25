@@ -1,0 +1,15 @@
+Moai Interceptor Cannons
+Card Type: Effect Monster
+
+Description: Once per turn, you can flip this card into face-down Defense Position.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Structure Deck: Invincible Fortress
+- The Lost Millennium

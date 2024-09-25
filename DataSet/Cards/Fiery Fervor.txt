@@ -1,0 +1,13 @@
+Fiery Fervor
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster's original ATK, the ATK of the equipped monster becomes double the equipped monster's original ATK, during the Damage Step only.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

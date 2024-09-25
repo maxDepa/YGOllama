@@ -1,0 +1,17 @@
+Peten the Dark Clown
+Card Type: Effect Monster
+
+Description: When this card is sent to your Graveyard: You can banish this card from your Graveyard; Special Summon 1 "Peten the Dark Clown" from your hand or Deck.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Pack: Kaiba
+- Exclusive Pack
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Structure Deck: Seto Kaiba

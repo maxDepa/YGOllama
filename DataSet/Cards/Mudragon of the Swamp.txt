@@ -1,0 +1,18 @@
+Mudragon of the Swamp
+Card Type: Fusion Monster
+
+Description: 2 monsters with the same Attribute but different Types
+Your opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.
+
+Type: Wyrm
+Attribute: WATER
+Level: 4
+Attack: 1900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tins
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- OTS Tournament Pack 21
+- Toon Chaos

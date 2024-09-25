@@ -1,0 +1,14 @@
+Prominence, Molten Swordsman
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's turn: You can banish 1 "Laval" monster from your Graveyard; this card gains 300 ATK until the End Phase.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

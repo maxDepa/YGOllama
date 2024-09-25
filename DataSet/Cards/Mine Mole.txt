@@ -1,0 +1,14 @@
+Mine Mole
+Card Type: Effect Monster
+
+Description: Once per turn, this card cannot be destroyed by battle. If this card is sent to the Graveyard as a Synchro Material Monster of a Beast-Type monster, draw 1 card. If this card is removed from the field by your opponent's card effect, remove this card from play.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- Ghosts From the Past

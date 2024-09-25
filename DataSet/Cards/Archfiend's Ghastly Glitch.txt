@@ -1,0 +1,14 @@
+Archfiend's Ghastly Glitch
+Card Type: Trap Card
+
+Description: If you control a Fiend monster: Target 1 card on the field; destroy it, then, you can send 1 Fiend monster from your Deck to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

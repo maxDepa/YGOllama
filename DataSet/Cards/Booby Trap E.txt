@@ -1,0 +1,13 @@
+Booby Trap E
+Card Type: Trap Card
+
+Description: Discard 1 card; Set 1 Continuous Trap Card from your hand or Graveyard to your field. That Set card can be activated during this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Wing Raiders

@@ -1,0 +1,14 @@
+Bird of Roses
+Card Type: Effect Monster
+
+Description: When this face-up Attack Position card is destroyed by battle with an opponent's attacking monster and sent to the Graveyard, you can Special Summon 2 Plant-Type Tuner monsters from your Deck in face-up Defense Position.
+
+Type: Plant
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- The Shining Darkness

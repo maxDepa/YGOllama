@@ -1,0 +1,14 @@
+Stardust Synchron
+Card Type: Tuner Monster
+
+Description: If this card is in your hand or GY: You can Tribute 1 monster; Special Summon this card, but banish it when it leaves the field, also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand that mentions "Stardust Dragon". You can only use each effect of "Stardust Synchron" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Stardust
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

@@ -1,0 +1,13 @@
+Duck Fighter
+Card Type: Effect Monster
+
+Description: If this card is in your hand or Graveyard: You can Tribute Tokens whose total Levels equal 3 or more; Special Summon this card. You can only use the effect of "Duck Fighter" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

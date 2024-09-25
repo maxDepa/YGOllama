@@ -1,0 +1,14 @@
+Scarred Dragon Archfiend
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner DARK monsters
+This card's name becomes "Red Dragon Archfiend" while on the field or in the GY. If this card is sent from the Monster Zone to the GY: You can Special Summon 1 "Red Dragon Archfiend" from your Extra Deck (this is treated as a Synchro Summon), then, if this card was sent to the GY as Synchro Material for a DARK Dragon Synchro Monster, you can destroy all Attack Position monsters your opponent controls. You can only use this effect of "Scarred Dragon Archfiend" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Archfiend
+Present in Sets:
+- Structure Deck: The Crimson King

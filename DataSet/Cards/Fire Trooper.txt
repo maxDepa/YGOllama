@@ -1,0 +1,13 @@
+Fire Trooper
+Card Type: Effect Monster
+
+Description: When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Phantom Darkness

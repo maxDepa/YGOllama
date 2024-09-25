@@ -1,0 +1,16 @@
+Level Warrior
+Card Type: Effect Monster
+
+Description: If there are no monsters on the field, you can Normal Summon this card as a Level 2 monster. If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) as a Level 4 monster.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 300
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Pack: Yusei 2
+- Raging Battle

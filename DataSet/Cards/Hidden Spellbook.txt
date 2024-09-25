@@ -1,0 +1,15 @@
+Hidden Spellbook
+Card Type: Trap Card
+
+Description: During your turn: Target 2 Spell Cards in your Graveyard; shuffle those targets into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Magician's Force

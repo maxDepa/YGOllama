@@ -1,0 +1,21 @@
+Rare Metalmorph
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 Machine-Type monster on the field; it gains 500 ATK. Once, negate a Spell effect that targets that monster. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 3
+- Geargia Rampage Structure Deck
+- Machina Mayhem Structure Deck
+- Rise of Destiny
+- Rise of Destiny
+- Speed Duel: Battle City Box
+- Structure Deck: Machine Re-Volt

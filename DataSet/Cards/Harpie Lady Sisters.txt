@@ -1,0 +1,26 @@
+Harpie Lady Sisters
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned with "Elegant Egotist".
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 1950
+Defence: 2100
+Archetype: Harpie
+Present in Sets:
+- Dark Beginning 1
+- Dark Beginning 1
+- Dark Legends
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 1
+- Structure Deck: Lord of the Storm

@@ -1,0 +1,18 @@
+Return of the Monarchs
+Card Type: Spell Card
+
+Description: You cannot Special Summon monsters from the Extra Deck. When you Tribute Summon a monster: You can activate 1 of these effects;
+● Add, from your Deck to your hand, 1 monster with 2400 ATK and 1000 DEF with a different name from that Tribute Summoned monster.
+● Add, from your Deck to your hand, 1 monster with 2800 ATK and 1000 DEF with a different name from that Tribute Summoned monster.
+The Tribute Summoned monster must be face-up on the field to activate and to resolve this effect. You can only use this effect of "Return of the Monarchs" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Monarch
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Emperor of Darkness Structure Deck
+- Shadow Specters

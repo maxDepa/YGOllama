@@ -1,0 +1,14 @@
+Gather Your Mind
+Card Type: Spell Card
+
+Description: Add 1 "Gather Your Mind" card from your Deck to your hand. Your Deck is then shuffled. You can only use 1 "Gather Your Mind" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

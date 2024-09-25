@@ -1,0 +1,19 @@
+Dragoons of Draconia
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if a Normal Monster you control destroys an opponent's monster by battle, after damage calculation: You can add 1 Level 4 or higher Normal Monster from your Deck to your hand.
+
+[ Monster Effect ] 
+''Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.''
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Draconia
+Present in Sets:
+- Demo Deck 2016
+- Secrets of Eternity
+- Secrets of Eternity Sneak Peek Participation Card

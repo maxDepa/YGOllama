@@ -1,0 +1,16 @@
+Chthonian Alliance
+Card Type: Spell Card
+
+Description: The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- Elemental Energy

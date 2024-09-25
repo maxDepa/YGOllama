@@ -1,0 +1,14 @@
+Hunter Owl
+Card Type: Effect Monster
+
+Description: This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Yu-Gi-Oh! GX Spirit Caller promotional cards

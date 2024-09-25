@@ -1,0 +1,14 @@
+Cosmic Horror Gangi'el
+Card Type: Effect Monster
+
+Description: If you're Tributing a monster on your side of the field that is owned by your opponent, this card can be Normal Summoned with 1 Tribute. Once per turn, you can place 1 A-Counter on a monster on your opponent's side of the field. (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)
+
+Type: Reptile
+Attribute: LIGHT
+Level: 7
+Attack: 2600
+Defence: 2000
+Archetype: Alien
+Present in Sets:
+- Power of the Duelist
+- Power of the Duelist

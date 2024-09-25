@@ -1,0 +1,23 @@
+Blowback Dragon
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 card your opponent controls; toss a coin 3 times and destroy that target if at least 2 of the results are heads.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Five
+- Dark Revelation Volume 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Master Collection Volume 2
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City

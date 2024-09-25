@@ -1,0 +1,13 @@
+Blackwing - Sharnga the Waning Moon
+Card Type: Tuner Monster
+
+Description: If a monster with 2000 or more ATK is on the field, you can Special Summon this card (from your hand). You can only Special Summon "Blackwing - Sharnga the Waning Moon" once per turn this way. If you control a "Blackwing" Synchro Monster (Quick Effect): You can banish this card from your GY, then target 1 face-up card your opponent controls; destroy it. You can only use this effect of "Blackwing - Sharnga the Waning Moon" once per Duel.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

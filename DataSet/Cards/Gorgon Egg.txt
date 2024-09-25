@@ -1,0 +1,12 @@
+Gorgon Egg
+Card Type: Normal Monster
+
+Description: The gorgon egg's massive eyes are said to reflect the fate of its enemies.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 300
+Defence: 1300
+Archetype: //
+Present in Sets:

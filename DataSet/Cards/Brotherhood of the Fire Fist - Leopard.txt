@@ -1,0 +1,14 @@
+Brotherhood of the Fire Fist - Leopard
+Card Type: Effect Monster
+
+Description: During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute 1 "Fire Fist" monster; Set 1 "Fire Formation" Spell/Trap Card directly from your Deck. You can only use the effect of "Brotherhood of the Fire Fist - Leopard" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 3
+Attack: 0
+Defence: 200
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

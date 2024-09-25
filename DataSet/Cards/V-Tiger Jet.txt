@@ -1,0 +1,17 @@
+V-Tiger Jet
+Card Type: Normal Monster
+
+Description: This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: ABC
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- Legendary Collection Kaiba Mega Pack
+- Speed Duel GX: Duel Academy Box

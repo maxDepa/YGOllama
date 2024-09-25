@@ -1,0 +1,13 @@
+Fortune Fairy Chee
+Card Type: Effect Monster
+
+Description: When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can make each player draw 1 card. You can only use each effect of "Fortune Fairy Chee" once per turn.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 6
+Attack: 0
+Defence: 0
+Archetype: Fortune Fairy
+Present in Sets:
+- Battles of Legend: Hero's Revenge

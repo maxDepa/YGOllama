@@ -1,0 +1,20 @@
+Triangle Ecstasy Spark
+Card Type: Spell Card
+
+Description: Until the end of this turn, the ATK of all "Harpie Lady Sisters" currently on the field becomes 2700, your opponent cannot activate any Trap Cards, also negate all your opponent's Trap effects on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Rise of Destiny
+- Rise of Destiny
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Lord of the Storm

@@ -1,0 +1,17 @@
+D.D.M. - Different Dimension Master
+Card Type: Effect Monster
+
+Description: Once per turn, you can discard 1 Spell Card to Special Summon 1 of your removed from play monsters.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1700
+Defence: 1500
+Archetype: D.D.
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel GX: Duelists of Shadows
+- The Dark Emperor Structure Deck

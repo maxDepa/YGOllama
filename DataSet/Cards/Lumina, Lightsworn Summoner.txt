@@ -1,0 +1,21 @@
+Lumina, Lightsworn Summoner
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 card, then target 1 Level 4 or lower "Lightsworn" monster in your GY; Special Summon that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Lightsworn
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Champion Pack: Game Eight
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction
+- Ra Yellow Mega Pack
+- Realm of Light Structure Deck
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2022

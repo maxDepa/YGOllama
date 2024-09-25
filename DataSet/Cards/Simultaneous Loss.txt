@@ -1,0 +1,14 @@
+Simultaneous Loss
+Card Type: Trap Card
+
+Description: Each player sends the top card of their Deck to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy

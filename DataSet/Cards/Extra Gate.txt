@@ -1,0 +1,13 @@
+Extra Gate
+Card Type: Spell Card
+
+Description: Declare a Level between 1 and 12; your opponent banishes 1 monster of that Level from their Extra Deck. If your opponent does not have a monster of that Level in their Extra Deck, you discard 1 card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

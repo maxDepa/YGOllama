@@ -1,0 +1,15 @@
+Windwitch - Glass Bell
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Windwitch" monster from your Deck to your hand, except "Windwitch - Glass Bell", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of "Windwitch - Glass Bell" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Windwitch
+Present in Sets:
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Raging Tempest

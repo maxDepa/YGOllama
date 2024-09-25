@@ -1,0 +1,16 @@
+Superdimensional Robot Galaxy Destroyer
+Card Type: XYZ Monster
+
+Description: 3 Level 10 monsters
+Once per turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards your opponent controls. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.
+
+Type: Machine
+Attribute: LIGHT
+Level: 10
+Attack: 5000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Maximum Gold
+- Return of the Duelist
+- Return of the Duelist

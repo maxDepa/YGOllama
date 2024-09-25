@@ -1,0 +1,16 @@
+Dragonic Diagram
+Card Type: Spell Card
+
+Description: All "True Draco" and "True King" monsters on the field gain 300 ATK/DEF. The first time each Tribute Summoned "True Draco" or "True King" monster would be destroyed by battle each turn, it is not destroyed. Once per turn: You can destroy 1 other card you control or in your hand, and if you do, add 1 "True Draco" or "True King" card from your Deck to your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: True Draco
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- Maximum Crisis

@@ -1,0 +1,17 @@
+Link Bumper
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+Once per turn, at the end of the Damage Step, if your monster this card points to attacked an opponent's Link Monster: You can activate this effect; the monster that attacked gains 1 additional attack on an opponent's Link Monster during this Battle Phase for each Link Monster you currently control, except this card. Your monsters (except that monster) cannot attack the turn you activate this effect.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 0
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Circuit Break
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

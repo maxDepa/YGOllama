@@ -1,0 +1,26 @@
+Odd-Eyes Pendulum Dragon
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can reduce the battle damage you take from an attack involving a Pendulum Monster you control to 0. During your End Phase: You can destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand. You can only use each Pendulum Effect of "Odd-Eyes Pendulum Dragon" once per turn.
+
+[ Monster Effect ] 
+If this card battles an opponent's monster, any battle damage this card inflicts to your opponent is doubled.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: -Eyes Dragon
+Present in Sets:
+- 2015 Mega-Tins
+- Duel Power
+- Duelist Alliance
+- Duelist Alliance
+- Legendary Dragon Decks
+- Legendary Dragon Decks
+- Master of Pendulum Structure Deck
+- Pendulum Evolution
+- Star Pack ARC-V
+- Starter Deck: Yuya

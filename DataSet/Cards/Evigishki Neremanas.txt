@@ -1,0 +1,13 @@
+Evigishki Neremanas
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Gishki" Ritual Spell. If this card is Ritual Summoned: You can target 1 WATER monster in your GY; Special Summon it. Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. Once per turn, when your opponent activates a monster effect (Quick Effect): You can return 1 "Gishki" Ritual Monster you control to the hand, and if you do, negate the activation, and if you do that, shuffle it into the Deck.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 10
+Attack: 3000
+Defence: 1800
+Archetype: Gishki
+Present in Sets:
+- Photon Hypernova

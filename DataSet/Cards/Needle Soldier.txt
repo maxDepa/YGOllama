@@ -1,0 +1,13 @@
+Needle Soldier
+Card Type: Effect Monster
+
+Description: If this card is used as a Synchro Material Monster for a Synchro Monster, during battle between that Synchro Monster and a Defense Position monster whose DEF is lower than the ATK of that Synchro Monster, inflict the difference as Battle Damage to your opponent.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Starstrike Blast

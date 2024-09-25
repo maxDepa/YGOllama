@@ -1,0 +1,18 @@
+Heavymetalfoes Amalgam
+Card Type: Link Monster
+
+Description: 2 "Metalfoes" monsters
+If this card is sent from the Monster Zone to the GY by a card effect: You can activate 1 of these effects;
+● Target 1 "Metalfoes" monster you control; equip this card to it. It gains 1000 ATK.
+● Target 1 "Metalfoes" card you control; destroy it, and if you do, Special Summon this card.
+You can only use this effect of "Heavymetalfoes Amalgam" once per turn.
+
+Type: Psychic
+Attribute: FIRE
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Metalfoes
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

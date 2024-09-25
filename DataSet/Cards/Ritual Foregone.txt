@@ -1,0 +1,14 @@
+Ritual Foregone
+Card Type: Spell Card
+
+Description: Pay 1000 LP; Special Summon 1 Ritual Monster from your hand, but it cannot attack, also destroy it during the End Phase. You can only activate 1 "Ritual Foregone" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Hidden Summoners

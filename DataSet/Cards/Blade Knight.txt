@@ -1,0 +1,27 @@
+Blade Knight
+Card Type: Effect Monster
+
+Description: Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Champion Pack: Game Six
+- Collectible Tins 2004
+- Dark Beginning 2
+- Dark Beginning 2
+- Duel Terminal 4
+- Duelist League 2010 participation cards
+- Legendary Decks II
+- Saber Force Starter Deck
+- Speed Duel Tournament Pack 4
+- Speed Duel: Attack from the Deep
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Kaiba Reloaded
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

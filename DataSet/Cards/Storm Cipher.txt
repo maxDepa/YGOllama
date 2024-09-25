@@ -1,0 +1,13 @@
+Storm Cipher
+Card Type: Effect Monster
+
+Description: Cannot attack directly, or attack monsters in the Extra Monster Zone. Unaffected by monster effects activated in the Extra Monster Zone. Cannot be destroyed by battle with monsters in the Extra Monster Zone.
+
+Type: Cyberse
+Attribute: DARK
+Level: 4
+Attack: 2400
+Defence: 0
+Archetype: Cipher
+Present in Sets:
+- Structure Deck: Powercode Link

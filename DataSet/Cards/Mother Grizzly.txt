@@ -1,0 +1,26 @@
+Mother Grizzly
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Beginning 1
+- Dark Legends
+- Duelist League 2 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Realm of the Sea Emperor Structure Deck
+- Retro Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Streets of Battle City
+- Spell Ruler
+- Spell Ruler
+- Structure Deck: Fury from the Deep

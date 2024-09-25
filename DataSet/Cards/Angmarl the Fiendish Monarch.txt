@@ -1,0 +1,13 @@
+Angmarl the Fiendish Monarch
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned: You can banish 1 Spell Card from your Graveyard; add 1 card with the same name as the banished Spell Card from your Deck to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- Premium Gold: Infinite Gold

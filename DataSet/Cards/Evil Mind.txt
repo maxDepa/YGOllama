@@ -1,0 +1,19 @@
+Evil Mind
+Card Type: Spell Card
+
+Description: If you control a Fiend monster: Activate 1 of these effects, based on the number of monsters in your opponent's GY;
+● 1+: Draw 1 card.
+● 4+: Add 1 "HERO" monster or 1 "Dark Fusion" from your Deck to your hand.
+● 10+: Add 1 "Polymerization" Spell or 1 "Fusion" Spell from your Deck to your hand.
+You can only activate 1 "Evil Mind" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evil HERO
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows

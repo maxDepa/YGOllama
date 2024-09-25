@@ -1,0 +1,16 @@
+Ally of Justice Reverse Break
+Card Type: Effect Monster
+
+Description: If a face-up LIGHT monster is on the field, destroy this card. If this card attacks a face-down Defense Position monster, destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

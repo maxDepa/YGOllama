@@ -1,0 +1,20 @@
+Thestalos the Firestorm Monarch
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned: Discard 1 random card from your opponent's hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 100.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 3 participation cards
+- Emperor of Darkness Structure Deck
+- Gold Series 2009
+- Rise of Destiny
+- Rise of Destiny
+- Structure Deck: Blaze of Destruction
+- Tournament Pack 8

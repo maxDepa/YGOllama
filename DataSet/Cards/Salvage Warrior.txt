@@ -1,0 +1,13 @@
+Salvage Warrior
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned, you can Special Summon 1 Tuner monster from your hand or Graveyard.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 1900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Extreme Victory

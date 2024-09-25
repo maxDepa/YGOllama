@@ -1,0 +1,15 @@
+Life Equalizer
+Card Type: Trap Card
+
+Description: Activate only when the difference between both players' Life Points is 8000 or more. Both players' Life Points become 3000.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice

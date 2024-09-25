@@ -1,0 +1,16 @@
+Anti-Aircraft Flower
+Card Type: Effect Monster
+
+Description: By Tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent's Life Points.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 1600
+Archetype: Anti
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos

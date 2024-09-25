@@ -1,0 +1,23 @@
+Magical Dimension
+Card Type: Spell Card
+
+Description: If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Two
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Maximum Gold: El Dorado
+- Spellcaster's Command Structure Deck
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Spellcaster's Judgment
+- Turbo Pack: Booster Six
+- Turbo Pack: Booster Two
+- Yugi's Legendary Decks

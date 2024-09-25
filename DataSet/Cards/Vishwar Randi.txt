@@ -1,0 +1,12 @@
+Vishwar Randi
+Card Type: Normal Monster
+
+Description: This lady warrior with unquenchable bloodlust serves the forces of darkness.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:

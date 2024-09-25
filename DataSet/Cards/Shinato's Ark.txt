@@ -1,0 +1,15 @@
+Shinato's Ark
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Shinato, King of a Higher Plane". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

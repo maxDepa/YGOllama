@@ -1,0 +1,18 @@
+Amazoness Archer
+Card Type: Effect Monster
+
+Description: You can Tribute 2 monsters; inflict 1200 damage to your opponent.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: Amazoness
+Present in Sets:
+- Dark Beginning 1
+- Gold Series 3
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Duelists

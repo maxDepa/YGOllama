@@ -1,0 +1,14 @@
+Vanquishing Light
+Card Type: Trap Card
+
+Description: When a monster(s) would be Summoned: Tribute 1 "Lightsworn" monster; negate the Summon, and if you do, destroy that monster(s).
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Light of Destruction
+- Realm of Light Structure Deck

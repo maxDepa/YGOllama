@@ -1,0 +1,14 @@
+Remote Rebirth
+Card Type: Trap Card
+
+Description: Target 1 monster in your opponent's GY; Special Summon it in an opponent's Main Monster Zone your Link Monster points to.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

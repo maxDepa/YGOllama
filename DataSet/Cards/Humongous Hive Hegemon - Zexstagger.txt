@@ -1,0 +1,13 @@
+Humongous Hive Hegemon - Zexstagger
+Card Type: Effect Monster
+
+Description: Gains 300 ATK for each Insect monster on the field, except this card. You can only use each of the following effects of "Humongous Hive Hegemon - Zexstagger" once per turn. If an Insect monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. During the End Phase: Activate this effect; each player can Special Summon 1 Insect monster from their hand or GY, but negate its effects.
+
+Type: Insect
+Attribute: WIND
+Level: 8
+Attack: 1500
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Photon Hypernova

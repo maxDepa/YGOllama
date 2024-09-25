@@ -1,0 +1,22 @@
+Toon Table of Contents
+Card Type: Spell Card
+
+Description: Add 1 "Toon" card from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Toon
+Present in Sets:
+- Dark Beginning 2
+- Dark Saviors
+- Duelist Pack: Battle City
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 1
+- Tournament Pack 6

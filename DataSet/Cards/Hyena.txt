@@ -1,0 +1,15 @@
+Hyena
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of "Hyenas" from your Deck.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 300
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Dark Revelation Volume 3
+- Flaming Eternity

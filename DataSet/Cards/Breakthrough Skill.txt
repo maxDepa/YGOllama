@@ -1,0 +1,21 @@
+Breakthrough Skill
+Card Type: Trap Card
+
+Description: Target 1 face-up Effect Monster your opponent controls; that face-up monster your opponent controls has its effects negated until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; that target has its effects negated until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Cosmo Blazer
+- Cosmo Blazer
+- Premium Gold: Infinite Gold
+- Realm of Light Structure Deck
+- Rise of the True Dragons Structure Deck

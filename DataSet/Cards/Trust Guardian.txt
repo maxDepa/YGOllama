@@ -1,0 +1,13 @@
+Trust Guardian
+Card Type: Tuner Monster
+
+Description: This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Level 7 or higher Synchro Monster. Once per turn, that Synchro Monster cannot be destroyed by battle. Each time this effect is applied, that Synchro Monster loses 400 ATK and DEF at the end of the Damage Step.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 800
+Archetype: Guardian
+Present in Sets:
+- The Shining Darkness

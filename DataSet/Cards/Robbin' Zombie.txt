@@ -1,0 +1,16 @@
+Robbin' Zombie
+Card Type: Trap Card
+
+Description: If your monster inflicts battle damage to your opponent: Send the top card of their Deck to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel: Attack from the Deep

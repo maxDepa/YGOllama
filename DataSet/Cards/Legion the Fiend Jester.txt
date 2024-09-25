@@ -1,0 +1,15 @@
+Legion the Fiend Jester
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can Tribute Summon 1 Spellcaster monster in face-up Attack Position, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card is sent from the field to the GY: You can add 1 Spellcaster Normal Monster from your Deck or GY to your hand. You can only use this effect of "Legion the Fiend Jester" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1500
+Archetype: Jester
+Present in Sets:
+- Duelist Pack: Battle City
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel: Streets of Battle City

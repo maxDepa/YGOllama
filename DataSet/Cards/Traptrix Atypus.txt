@@ -1,0 +1,15 @@
+Traptrix Atypus
+Card Type: Link Monster
+
+Description: 2+ monsters, including an Insect or Plant monster
+This Link Summoned card is unaffected by Trap effects. All "Traptrix" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls, up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can apply this effect.
+ ● Banish 1 Normal Trap from your GY, and if you do, destroy 1 of those targeted face-up cards.
+
+Type: Insect
+Attribute: EARTH
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: Traptrix
+Present in Sets:
+- Structure Deck: Beware of Traptrix

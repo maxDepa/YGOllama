@@ -1,0 +1,13 @@
+Mass Hypnosis
+Card Type: Trap Card
+
+Description: Activate only while you control an "Alien" monster. Select and take control of up to 3 of your opponent's monsters that each have an A-Counter(s) on them. This card is destroyed during the End Phase of the turn it is activated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Force of the Breaker

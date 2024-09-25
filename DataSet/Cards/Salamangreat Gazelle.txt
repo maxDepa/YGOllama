@@ -1,0 +1,15 @@
+Salamangreat Gazelle
+Card Type: Effect Monster
+
+Description: If a "Salamangreat" monster is sent to your GY, except "Salamangreat Gazelle" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can send 1 "Salamangreat" card from your Deck to the GY, except "Salamangreat Gazelle". You can only use each effect of "Salamangreat Gazelle" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: Salamangreat
+Present in Sets:
+- Battles of Legend: Armageddon
+- Legendary Duelists: Soulburning Volcano
+- Structure Deck: Soulburner

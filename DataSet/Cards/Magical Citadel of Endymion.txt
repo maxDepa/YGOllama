@@ -1,0 +1,17 @@
+Magical Citadel of Endymion
+Card Type: Spell Card
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from a card you control, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Endymion
+Present in Sets:
+- Dark Saviors
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters

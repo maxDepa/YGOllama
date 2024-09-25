@@ -1,0 +1,14 @@
+Gem-Knight Lazuli
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard by a card effect: You can target 1 Normal Monster in your Graveyard; add that target to your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 1
+Attack: 600
+Defence: 100
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

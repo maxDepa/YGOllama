@@ -1,0 +1,13 @@
+Quick Charger
+Card Type: Spell Card
+
+Description: Add 2 Level 4 or lower "Batteryman" monsters from your Graveyard to your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Batteryman
+Present in Sets:
+- Light of Destruction

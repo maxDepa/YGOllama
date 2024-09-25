@@ -1,0 +1,18 @@
+FaSolfachord Fancia
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Pendulum Summons of your "Solfachord" Pendulum Monsters cannot be negated.
+
+[ Monster Effect ] 
+While you have an odd Pendulum Scale in your Pendulum Zone, if your "Solfachord" Pendulum Monster would be destroyed by battle, you can destroy this card instead. During your Main Phase: You can add 1 "Solfachord" Pendulum Monster from your Deck to your Extra Deck face-up, except "FaSolfachord Fancia". You can only use this effect of "FaSolfachord Fancia" once per turn.
+
+Type: Fairy
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: Solfachord
+Present in Sets:
+- Ancient Guardians
+- Ancient Guardians

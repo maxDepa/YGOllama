@@ -1,0 +1,23 @@
+Black Luster Soldier - Soldier of Chaos
+Card Type: Link Monster
+
+Description: 3 monsters with different names
+If this card was Link Summoned using a Level 7 or higher monster(s) as material, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card destroys an opponent's monster by battle: You can activate 1 of these effects;
+● This card gains 1500 ATK.
+● This card can make a second attack during the Battle Phase of your next turn.
+● Banish 1 card on the field.
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Black Luster Soldier
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Ghosts From the Past
+- Magnificent Mavens
+- Magnificent Mavens
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)

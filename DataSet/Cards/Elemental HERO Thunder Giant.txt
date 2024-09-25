@@ -1,0 +1,21 @@
+Elemental HERO Thunder Giant
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Sparkman" + "Elemental HERO Clayman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1500
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 1
+- Speed Duel GX: Duel Academy Box
+- The Lost Millennium
+- The Lost Millennium
+- Yu-Gi-Oh! Elemental Hero Collection 2

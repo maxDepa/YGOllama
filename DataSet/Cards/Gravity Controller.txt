@@ -1,0 +1,15 @@
+Gravity Controller
+Card Type: Link Monster
+
+Description: 1 non-Link Monster in an Extra Monster Zone
+Cannot be used as Link Material the turn it is Link Summoned. This card in the Extra Monster Zone cannot be destroyed by battle with a monster in the Main Monster Zone. At the start of the Damage Step, if this card battles an opponent's monster in the Extra Monster Zone: You can return both that opponent's monster and this card to the Deck.
+
+Type: Psychic
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

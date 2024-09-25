@@ -1,0 +1,16 @@
+Bonding - H2O
+Card Type: Spell Card
+
+Description: Tribute 2 "Hydrogeddon" and 1 "Oxygeddon"; Special Summon 1 "Water Dragon" from your hand, Deck, or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bonding
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Legendary Duelists
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,15 @@
+Germ Infection
+Card Type: Spell Card
+
+Description: The ATK of a non Machine-Type monster equipped with this card is decreased by 300 points at each of its Standby Phases.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,13 @@
+"A" Cell Scatter Burst
+Card Type: Spell Card
+
+Description: Select 1 face-up "Alien" monster you control. Destroy it and distribute new A-Counters equal to its Level among your opponent's face-up monsters.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Strike of Neos

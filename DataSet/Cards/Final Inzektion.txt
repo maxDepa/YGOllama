@@ -1,0 +1,13 @@
+Final Inzektion
+Card Type: Spell Card
+
+Description: Send 5 face-up "Inzektor" cards you control to the Graveyard; destroy all cards your opponent controls, also, during the Battle Phase of this turn, your opponent cannot activate monster effects that activate in the hand or Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Galactic Overlord

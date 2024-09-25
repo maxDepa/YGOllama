@@ -1,0 +1,14 @@
+D/D/D Dragonbane King Beowulf
+Card Type: Fusion Monster
+
+Description: 1 "D/D/D" monster + 1 "D/D" monster
+If a "D/D" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your Standby Phase: You can destroy all cards in the Spell & Trap Zones.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

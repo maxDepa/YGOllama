@@ -1,0 +1,16 @@
+Labyrinth Tank
+Card Type: Fusion Monster
+
+Description: "Giga-Tech Wolf" + "Cannon Soldier"
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

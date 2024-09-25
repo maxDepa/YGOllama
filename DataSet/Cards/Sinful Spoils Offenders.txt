@@ -1,0 +1,12 @@
+Sinful Spoils Offenders
+Card Type: Trap Card
+
+Description: If your opponent Special Summons a monster(s) from the Deck and/or Extra Deck and you control a "Diabellstar" Monster Card: Target 1 monster they control; shuffle it into the Deck. During the Damage Step, if your "Diabellstar" monster battles an opponent's monster: You can banish this card from your GY; that opponent's monster's ATK becomes halved until the end of this turn. You can only use each effect of "Sinful Spoils Offenders" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sinful Spoils
+Present in Sets:

@@ -1,0 +1,13 @@
+Brotherhood of the Fire Fist - Swallow
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by sending 3 face-up "Fire Formation" Spell/Trap Cards you control to the Graveyard. When this card is Normal or Special Summoned: You can Set 1 "Fire Formation" Trap Card directly from your Deck. You can only use this effect of "Brotherhood of the Fire Fist - Swallow" once per turn. Face-up Beast-Warrior-Type monsters you control cannot be targeted by your opponent's card effects.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 800
+Archetype: Fire Fist
+Present in Sets:
+- Cosmo Blazer

@@ -1,0 +1,13 @@
+Brotherhood of the Fire Fist - Eland
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Fire Formation - Domei". You can discard 1 monster; Set 1 "Fire Formation" Spell/Trap directly from your Deck or GY. When your opponent activates a monster effect (Quick Effect): You can send 1 face-up "Fire Fist" or "Fire Formation" card you control to the GY, except "Brotherhood of the Fire Fist - Eland"; negate that effect. You can only use each effect of "Brotherhood of the Fire Fist - Eland" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: Fire Fist
+Present in Sets:
+- Fists of the Gadgets

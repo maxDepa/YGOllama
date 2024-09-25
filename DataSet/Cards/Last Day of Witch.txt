@@ -1,0 +1,14 @@
+Last Day of Witch
+Card Type: Spell Card
+
+Description: Destroy all face-up Spellcaster-Type monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League Series 9 participation card
+- Speed Duel: Streets of Battle City

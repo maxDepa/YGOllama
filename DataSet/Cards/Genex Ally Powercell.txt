@@ -1,0 +1,14 @@
+Genex Ally Powercell
+Card Type: Effect Monster
+
+Description: Other face-up monsters you control with the same Attribute as this card gain 500 ATK.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph

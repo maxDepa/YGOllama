@@ -1,0 +1,13 @@
+Fortune Fairy Hu
+Card Type: Effect Monster
+
+Description: When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 of your banished Spellcaster monsters; add it to your hand. You can only use each effect of "Fortune Fairy Hu" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 0
+Archetype: Fortune Fairy
+Present in Sets:
+- Battles of Legend: Hero's Revenge

@@ -1,0 +1,16 @@
+Destiny HERO - Destroyer Phoenix Enforcer
+Card Type: Fusion Monster
+
+Description: 1 Level 6 or higher "HERO" monster + 1 "Destiny HERO" monster
+Monsters your opponent controls lose 200 ATK for each "HERO" card in your GY. You can only use each of the following effects of "Destiny HERO - Destroyer Phoenix Enforcer" once per turn. (Quick Effect): You can destroy both 1 card you control and 1 card on the field. If this card is destroyed by battle or card effect: You can activate this effect; Special Summon 1 "Destiny HERO" monster from your GY during the Standby Phase of the next turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2100
+Archetype: Destiny HERO
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny
+- Power of the Elements

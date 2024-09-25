@@ -1,0 +1,15 @@
+Forced Back
+Card Type: Trap Card
+
+Description: Negate the Normal Summon or Flip Summon of a monster and return it to its owner's hand.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice

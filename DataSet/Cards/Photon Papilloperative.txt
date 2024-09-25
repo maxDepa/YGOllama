@@ -1,0 +1,17 @@
+Photon Papilloperative
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster on the field; change it to face-up Attack Position, and if you do, it loses 600 ATK.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 1800
+Archetype: Photon
+Present in Sets:
+- Astral Pack Two
+- Galactic Overlord
+- Star Pack 2014
+- Star Pack 2014

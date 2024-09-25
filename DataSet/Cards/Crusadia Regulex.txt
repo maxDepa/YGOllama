@@ -1,0 +1,15 @@
+Crusadia Regulex
+Card Type: Link Monster
+
+Description: 2 Effect Monsters, including a "Crusadia" monster
+Gains ATK equal to the combined original ATK of all monsters this card points to. Monsters this card points to cannot attack. If an Effect Monster(s) is Special Summoned to a zone(s) this card points to (except during the Damage Step): You can add 1 "Crusadia" Spell/Trap from your Deck to your hand. You can only use this effect of "Crusadia Regulex" once per turn.
+
+Type: Beast
+Attribute: LIGHT
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Crusadia
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

@@ -1,0 +1,21 @@
+Plaguespreader Zombie
+Card Type: Tuner Monster
+
+Description: If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Dark Saviors
+- Duelist Saga
+- Gold Series 3
+- Premium Gold
+- Synchron Extreme Structure Deck

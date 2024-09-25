@@ -1,0 +1,13 @@
+Evoltile Gephyro
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can target 1 "Evolsaur" monster in your Graveyard; Special Summon that target.
+
+Type: Reptile
+Attribute: FIRE
+Level: 1
+Attack: 200
+Defence: 400
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave

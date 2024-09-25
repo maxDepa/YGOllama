@@ -1,0 +1,21 @@
+Noble Knight Artorigus
+Card Type: Normal Monster
+
+Description: No one shall ever know the truth behind
+That fateful day. Artorigus went forth
+To where the brilliant sword didst lay.
+‘Twas the first of many feats so great,
+A legend through and through. We sing of him,
+Artorigus, the Noble and the brave.
+-From the Tales of the Noble Knights
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1800
+Archetype: Noble Knight
+Present in Sets:
+- Galactic Overlord
+- Galactic Overlord Sneak Peek Participation Card
+- Noble Knights of the Round Table Box Set

@@ -1,0 +1,12 @@
+Bolt Escargot
+Card Type: Normal Monster
+
+Description: After rendering an opponent immobile by spitting a sticky goo, this monster closes in for the attack.
+
+Type: Thunder
+Attribute: WATER
+Level: 5
+Attack: 1400
+Defence: 1500
+Archetype: //
+Present in Sets:

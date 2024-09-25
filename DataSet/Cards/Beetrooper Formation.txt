@@ -1,0 +1,14 @@
+Beetrooper Formation
+Card Type: Spell Card
+
+Description: You can target 1 "Beetrooper" monster in your GY; Special Summon it, but it cannot attack this turn, also you lose LP equal to its original ATK. If a face-up Insect monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 "Beetrooper Token" (Insect/EARTH/Level 3/ATK 1000/DEF 1000). You can only use each effect of "Beetrooper Formation" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

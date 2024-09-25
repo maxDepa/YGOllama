@@ -1,0 +1,17 @@
+Merlin
+Card Type: Effect Monster
+
+Description: You can only use each effect of "Merlin" once per turn.
+● You can Tribute this card; Special Summon 1 "Noble Knight" monster from your Deck. You cannot Special Summon monsters the turn you activate this effect, except "Noble Knight" monsters.
+● (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Synchro Summon 1 "Noble Knight" Synchro Monster using monsters you control.
+● (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 "Noble Knight" Xyz Monster using monsters you control.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 500
+Archetype: Noble Knight
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Noble Knights of the Round Table Box Set

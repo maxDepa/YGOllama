@@ -1,0 +1,16 @@
+Flame Bufferlo
+Card Type: Effect Monster
+
+Description: If this face-up card leaves the field: You can discard 1 Cyberse monster, and if you do, draw 2 cards. You can only use this effect of "Flame Bufferlo" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 3
+Attack: 1400
+Defence: 200
+Archetype: //
+Present in Sets:
+- Maximum Gold
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Structure Deck: Powercode Link

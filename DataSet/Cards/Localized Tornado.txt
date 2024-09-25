@@ -1,0 +1,14 @@
+Localized Tornado
+Card Type: Trap Card
+
+Description: Shuffle all cards from your hand and Graveyard into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- Extreme Victory

@@ -1,0 +1,17 @@
+Circle of the Fire Kings
+Card Type: Spell Card
+
+Description: Target 1 FIRE monster you control and 1 FIRE monster in your GY; destroy that monster you control, and if you do, Special Summon that other monster from your GY. You can only activate 1 "Circle of the Fire Kings" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire King
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Fire Kings
+- Structure Deck: Soulburner

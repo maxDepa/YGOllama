@@ -1,0 +1,16 @@
+Split Mirror of the Underworld
+Card Type: Trap Card
+
+Description: When you take damage from your opponent's card effect or their monster's attack: Apply the appropriate effect based on the type of damage.
+● Battle: Special Summon 1 monster from your GY, with ATK less than or equal to the damage, and if you do, end the Battle Phase after the Damage Step.
+● Effect: Inflict double the damage you took to your opponent.
+You can only activate 1 "Split Mirror of the Underworld" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Nexus

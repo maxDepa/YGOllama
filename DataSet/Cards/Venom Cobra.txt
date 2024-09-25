@@ -1,0 +1,13 @@
+Venom Cobra
+Card Type: Normal Monster
+
+Description: Hard scales cover all parts of this gigantic cobra. It hunts by shooting out massive amounts of venom, but because of its large size, its attack pattern is easily predicted.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: Venom
+Present in Sets:
+- Tactical Evolution

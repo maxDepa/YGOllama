@@ -1,0 +1,14 @@
+Dinowrestler Capoeiraptor
+Card Type: Effect Monster
+
+Description: This Attack Position card cannot be destroyed by battle. If this card is attacked, change it to Defense Position at the end of the Damage Step. During the Standby Phase, if this card is in Defense Position: You can Special Summon 1 "Dinowrestler Capoeiraptor" from your Deck. You can only use this effect of "Dinowrestler Capoeiraptor" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

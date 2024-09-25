@@ -1,0 +1,13 @@
+Evoltile Westlo
+Card Type: Flip Effect Monster
+
+Description: FLIP: Special Summon 1 "Evolsaur" monster from your Deck.
+
+Type: Reptile
+Attribute: FIRE
+Level: 3
+Attack: 700
+Defence: 1900
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave

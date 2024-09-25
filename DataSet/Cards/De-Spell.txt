@@ -1,0 +1,20 @@
+De-Spell
+Card Type: Spell Card
+
+Description: Target 1 face-up Spell, or 1 Set Spell/Trap, on the field; destroy that target if it is a Spell. (If the target is Set, reveal it.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Arena of Lost Souls
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi

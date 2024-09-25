@@ -1,0 +1,17 @@
+Blackland Fire Dragon
+Card Type: Normal Monster
+
+Description: A dragon that dwells in the depths of darkness, its vulnerability lies in its poor eyesight.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

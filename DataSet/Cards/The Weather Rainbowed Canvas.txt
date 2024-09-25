@@ -1,0 +1,15 @@
+The Weather Rainbowed Canvas
+Card Type: Trap Card
+
+Description: You can only control 1 "The Weather Rainbowed Canvas". "The Weather" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.
+● If your opponent controls a monster (Quick Effect): You can banish this card; Special Summon 1 "The Weather" monster with a different name from your Deck, also you cannot Special Summon other monsters from the Deck for the rest of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: The Weather
+Present in Sets:
+- Dark Neostorm
+- Maximum Gold: El Dorado

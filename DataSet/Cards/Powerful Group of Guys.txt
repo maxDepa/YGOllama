@@ -1,0 +1,13 @@
+Powerful Group of Guys
+Card Type: Skill Card
+
+Description: While you control exactly 1 "Destiny HERO" monster (and no other monsters), and your opponent controls more monsters than you, Special Summon 1 "Destiny HERO" monster from your hand or Deck with a lower Level than the monster you control. You can only Summon "Destiny HERO" monsters during the turn you activate this Skill. Flip this card over at the end of the turn you activated this Skill.
+
+Type: Aster Phoenix
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

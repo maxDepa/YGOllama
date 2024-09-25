@@ -1,0 +1,15 @@
+The Furious Sea King
+Card Type: Normal Monster
+
+Description: Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

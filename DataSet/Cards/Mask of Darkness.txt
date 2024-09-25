@@ -1,0 +1,28 @@
+Mask of Darkness
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 Trap in your GY; add that target to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 900
+Defence: 400
+Archetype: Mask
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dark Legends
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 4
+- Speed Duel: Scars of Battle
+- Speed Duel: Streets of Battle City
+- Starter Deck: Jaden Yuki
+- Starter Deck: Pegasus
+- Starter Deck: Syrus Truesdale

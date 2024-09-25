@@ -1,0 +1,13 @@
+Volcanic Cannon
+Card Type: Skill Card
+
+Description: Once per Duel, you can send 1 face-up "Tri-Blaze Accelerator" you control to the GY, then Special Summon 1 "Volcanic Doomfire" from your hand, Deck, or GY, ignoring its Summoning conditions. Your opponent takes no effect damage the turn you activate this Skill.
+
+Type: Axel Brodie
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Volcanic
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

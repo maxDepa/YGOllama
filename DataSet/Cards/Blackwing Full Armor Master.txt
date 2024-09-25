@@ -1,0 +1,16 @@
+Blackwing Full Armor Master
+Card Type: Synchro Monster
+
+Description: 1 "Blackwing" Tuner + 1+ non-Tuner monsters
+Unaffected by other cards' effects. Each time a monster your opponent controls activates its effect, place 1 Wedge Counter on that opponent's monster (max. 1) after that effect resolves. Once per turn: You can target 1 monster your opponent controls with a Wedge Counter; take control of it. Once per turn, during your End Phase: You can destroy all monsters on the field that have a Wedge Counter.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

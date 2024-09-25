@@ -1,0 +1,17 @@
+Mythical Beast Jackal
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you have no card in your other Pendulum Zone: You can target 1 face-up card you control that you can place a Spell Counter on; destroy this card, and if you do, place 1 Spell Counter on that card. You can only use this effect of "Mythical Beast Jackal" once per turn.
+
+[ Monster Effect ] 
+Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. You can remove 3 Spell Counters from your field and Tribute this card; Special Summon 1 "Mythical Beast" Effect Monster from your Deck, except "Mythical Beast Jackal".
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 1400
+Archetype: Mythical Beast
+Present in Sets:
+- Extreme Force

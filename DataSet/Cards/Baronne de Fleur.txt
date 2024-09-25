@@ -1,0 +1,18 @@
+Baronne de Fleur
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Once per turn: You can target 1 card on the field; destroy it. Once while face-up on the field, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use the previous effect of "Baronne de Fleur" once per turn. Once per turn, during the Standby Phase: You can target 1 Level 9 or lower monster in your GY; return this card to the Extra Deck, and if you do, Special Summon that monster.
+
+Type: Warrior
+Attribute: WIND
+Level: 10
+Attack: 3000
+Defence: 2400
+Archetype: Fleur
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Legendary Duelists: Synchro Storm
+- Maze of Memories
+- Maze of Memories

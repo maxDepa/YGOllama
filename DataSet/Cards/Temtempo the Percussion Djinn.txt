@@ -1,0 +1,16 @@
+Temtempo the Percussion Djinn
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; detach 1 Xyz Material from that monster, and if you do, all "Djinn" Xyz Monsters you currently control gain 500 ATK.
+
+Type: Fiend
+Attribute: EARTH
+Level: 3
+Attack: 1700
+Defence: 1000
+Archetype: Djinn
+Present in Sets:
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Xyz Symphony

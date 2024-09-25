@@ -1,0 +1,12 @@
+Ocean of Regeneration
+Card Type: Spell Card
+
+Description: You can target 1 WATER monster with 1000 or less ATK in your GY; Special Summon it, but destroy it during the End Phase. You can only use this effect of "Ocean of Regeneration" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

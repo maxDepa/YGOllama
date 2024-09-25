@@ -1,0 +1,18 @@
+Amazoness Sage
+Card Type: Effect Monster
+
+Description: At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 700
+Archetype: Amazoness
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Revolution
+- Space-Time Showdown Power-Up Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Duelists of Tomorrow

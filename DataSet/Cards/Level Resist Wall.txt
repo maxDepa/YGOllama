@@ -1,0 +1,13 @@
+Level Resist Wall
+Card Type: Trap Card
+
+Description: If a monster(s) you control is destroyed by battle or an opponent's card effect: Target 1 of those monsters; Special Summon monster(s) from your Deck in Defense Position so their combined Levels equal the Level of that monster, but negate their effects. You can only activate 1 "Level Resist Wall" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Obelisk the Tormentor

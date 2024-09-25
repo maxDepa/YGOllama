@@ -1,0 +1,16 @@
+Gravekeeper's Vassal
+Card Type: Effect Monster
+
+Description: Any battle damage this card inflicts to your opponent is treated as effect damage instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 500
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Destiny Masters

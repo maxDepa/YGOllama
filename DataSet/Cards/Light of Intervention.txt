@@ -1,0 +1,18 @@
+Light of Intervention
+Card Type: Trap Card
+
+Description: While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duel Terminal 2
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Starter Deck: Kaiba Evolution

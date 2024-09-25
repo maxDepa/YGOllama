@@ -1,0 +1,24 @@
+Magic Drain
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Duelist League 13 participation cards
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Invincible Fortress
+- Tournament Pack 4

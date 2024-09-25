@@ -1,0 +1,15 @@
+Invoked Cocytus
+Card Type: Fusion Monster
+
+Description: "Aleister the Invoker" + 1 WATER monster
+Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. This card can attack while in face-up Defense Position. If it does, apply its ATK for damage calculation.
+
+Type: Dragon
+Attribute: WATER
+Level: 6
+Attack: 1800
+Defence: 2900
+Archetype: Invoked
+Present in Sets:
+- Fusion Enforcers
+- Genesis Impact

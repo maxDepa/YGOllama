@@ -1,0 +1,14 @@
+Gaia Blaze, the Force of the Sun
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row. Once per turn, at the end of the Battle Phase: You can target FIRE monsters in your GY up to the number of monsters this card destroyed by battle this turn; add them to your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 7
+Attack: 2600
+Defence: 2100
+Archetype: Gaia Knight
+Present in Sets:
+- Duelist Nexus

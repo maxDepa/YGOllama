@@ -1,0 +1,14 @@
+The Agent of Miracles - Jupiter
+Card Type: Effect Monster
+
+Description: Once per turn, you can remove from play 1 "The Agent" monster in your Graveyard to select 1 face-up LIGHT Fairy-Type monster you control. The selected monster gains 800 ATK until the End Phase. While "The Sanctuary in the Sky" is face-up on the field, once per turn, you can discard 1 Fairy-Type monster to select 1 of your removed from play LIGHT Fairy-Type monster, and Special Summon it.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: The Agent
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Lost Sanctuary Structure Deck

@@ -1,0 +1,16 @@
+Howling Insect
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Insect-Type monster with 1500 or less ATK from your Deck.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 13 participation cards
+- Soul of the Duelist
+- Speed Duel: Streets of Battle City

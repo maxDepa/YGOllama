@@ -1,0 +1,14 @@
+Temple of Skulls
+Card Type: Normal Monster
+
+Description: A mysterious temple of skulls and bones that pulls in unsuspecting enemies.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 900
+Defence: 1300
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 2
+- Tournament Pack 8

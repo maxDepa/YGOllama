@@ -1,0 +1,16 @@
+Acrobat Monkey
+Card Type: Normal Monster
+
+Description: An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Starter Deck: Syrus Truesdale

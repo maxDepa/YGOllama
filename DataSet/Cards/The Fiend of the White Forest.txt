@@ -1,0 +1,12 @@
+The Fiend of the White Forest
+Card Type: Spell Card
+
+Description: Tribute 1 Synchro Monster, then target 1 face-up card on the field; negate its effects (until the end of this turn), then, if you Tributed a "White Forest" Synchro Monster at activation, you can Special Summon 1 Illusion monster from your GY. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "The Fiend of the White Forest" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: White Forest
+Present in Sets:

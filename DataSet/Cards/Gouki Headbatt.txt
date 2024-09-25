@@ -1,0 +1,14 @@
+Gouki Headbatt
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can send 1 other "Gouki" monster from your hand to the GY, then target 1 "Gouki" monster you control; Special Summon this card in Defense Position, and if you do, the targeted monster gains 800 ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 "Gouki" card from your Deck to your hand, except "Gouki Headbatt". You can only use each effect of "Gouki Headbatt" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

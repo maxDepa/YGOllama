@@ -1,0 +1,22 @@
+Number 107: Galaxy-Eyes Tachyon Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+Once per Battle Phase, at the start of your Battle Phase: You can detach 1 material from this card; all other face-up monsters currently on the field have their effects negated, also their ATK/DEF become their original ATK/DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Galaxy-Eyes
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy
+- Maximum Gold
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)

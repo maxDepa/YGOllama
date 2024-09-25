@@ -1,0 +1,16 @@
+World Legacy - "World Wand"
+Card Type: Effect Monster
+
+Description: This Normal Summoned/Set card cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of "World Legacy - "World Wand"" once per turn.
+● If this card is sent to the GY: You can Special Summon 1 "World Legacy" monster from your hand.
+● You can banish this card from your GY, then target 1 of your banished "Orcust" monsters; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except DARK monsters.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 500
+Defence: 2500
+Archetype: World Legacy
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

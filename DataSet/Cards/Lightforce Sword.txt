@@ -1,0 +1,22 @@
+Lightforce Sword
+Card Type: Trap Card
+
+Description: Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 5
+- Yugi's Legendary Decks

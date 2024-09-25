@@ -1,0 +1,15 @@
+Blackwing - Mistral the Silver Shield
+Card Type: Tuner Monster
+
+Description: If this card on the field is destroyed and sent to the Graveyard: Reduce the next battle damage you would take this turn to 0.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 2
+Attack: 100
+Defence: 1800
+Archetype: Blackwing
+Present in Sets:
+- Ancient Prophecy
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack

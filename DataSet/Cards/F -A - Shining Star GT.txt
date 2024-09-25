@@ -1,0 +1,15 @@
+F.A. Shining Star GT
+Card Type: Link Monster
+
+Description: 2 Machine monsters
+Gains ATK equal to the total Levels of the "F.A." monsters this card points to x 300. Neither player takes any battle damage from attacks involving this card. Each time a "F.A." Spell/Trap Card or effect is activated: Place 1 Athlete Counter on this card. When your opponent activates a monster effect (Quick Effect): You can remove 1 Athlete Counter from this card; negate the activation, and if you do, destroy it. You can only use this effect of "F.A. Shining Star GT" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: F.A.
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

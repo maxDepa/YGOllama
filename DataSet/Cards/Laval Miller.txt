@@ -1,0 +1,14 @@
+Laval Miller
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can send 2 "Laval" monsters from your Deck to the Graveyard.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 300
+Defence: 400
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

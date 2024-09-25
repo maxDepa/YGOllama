@@ -1,0 +1,19 @@
+Blackwing Armed Wing
+Card Type: Synchro Monster
+
+Description: 1 "Blackwing" Tuner + 1 or more non-Tuner monsters
+If this card attacks a Defense Position monster, it gains 500 ATK during the Damage Step only, also inflict piercing battle damage to your opponent.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 20
+- Premium Gold
+- Raging Battle

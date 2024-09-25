@@ -1,0 +1,19 @@
+Cyber Harpie Lady
+Card Type: Effect Monster
+
+Description: (This card's name is always treated as "Harpie Lady".)
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1300
+Archetype: Harpie
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Dark Legends
+- Flaming Eternity Sneak Peek Participation Card
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Retro Pack
+- Speed Duel: Battle City Box

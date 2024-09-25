@@ -1,0 +1,15 @@
+Some Summer Summoner
+Card Type: Link Monster
+
+Description: 2 Thunder monsters
+Once per opponent's turn (Quick Effect): You can discard 1 card, then target 1 Thunder monster in your GY, except a Link Monster; Special Summon it to your zone this card points to.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

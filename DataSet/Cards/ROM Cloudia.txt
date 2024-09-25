@@ -1,0 +1,13 @@
+ROM Cloudia
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Cyberse monster in your GY, except "ROM Cloudia"; add it to your hand. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower Cyberse monster from your Deck, except "ROM Cloudia".
+
+Type: Cyberse
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Cyberse Link

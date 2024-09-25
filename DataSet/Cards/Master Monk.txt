@@ -1,0 +1,15 @@
+Master Monk
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Monk Fighter". This card can attack twice during the same turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 1900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

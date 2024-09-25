@@ -1,0 +1,12 @@
+Spiked Snail
+Card Type: Normal Monster
+
+Description: A very fast, bipedal snail with a pair of lethal arms.
+
+Type: Insect
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 1300
+Archetype: //
+Present in Sets:

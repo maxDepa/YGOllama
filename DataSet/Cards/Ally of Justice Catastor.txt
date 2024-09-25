@@ -1,0 +1,21 @@
+Ally of Justice Catastor
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+At the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- 2013 Collectible Tins Wave 1
+- Duel Devastator
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Turbo Pack: Booster Seven

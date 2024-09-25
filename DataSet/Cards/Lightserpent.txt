@@ -1,0 +1,14 @@
+Lightserpent
+Card Type: Effect Monster
+
+Description: If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Photon Shockwave

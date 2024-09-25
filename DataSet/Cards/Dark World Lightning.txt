@@ -1,0 +1,19 @@
+Dark World Lightning
+Card Type: Spell Card
+
+Description: Target 1 Set card on the field; destroy that target, then discard 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 4
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Dark World

@@ -1,0 +1,17 @@
+Vaylantz Voltage Viscount
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can Special Summon this card to your Main Monster Zone in its same column, also you cannot Special Summon non-"Vaylantz" monsters for the rest of this turn, except from the Extra Deck. You can only use this effect of "Vaylantz Voltage Viscount" once per turn.
+
+[ Monster Effect ] 
+During your Main Phase, if you control this Special Summoned card: You can place 1 face-up "Vaylantz" Pendulum Monster from your Extra Deck, face-up in your Spell & Trap Zone as a Continuous Spell. If this card in the Monster Zone moves to another Monster Zone: You can place 1 face-up "Vaylantz" Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use each effect of "Vaylantz Voltage Viscount" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: Vaylantz
+Present in Sets:
+- Tactical Masters

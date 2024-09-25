@@ -1,0 +1,14 @@
+Marincess Aqua Argonaut
+Card Type: Link Monster
+
+Description: 2+ WATER monsters
+While this card is in the Extra Monster Zone, your opponent's monsters cannot attack any monsters, except this one. You can only use each of the following effects of "Marincess Aqua Argonaut" once per turn. You can target 1 WATER monster you control and 1 card your opponent controls; return them to the hand. During your opponent's turn, when a Spell/Trap Card or effect is activated on the field (Quick Effect): You can Special Summon 1 of your "Marincess" Monster Cards equipped to this card, and if you do, negate that activated effect.
+
+Type: Cyberse
+Attribute: WATER
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Marincess
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

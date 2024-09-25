@@ -1,0 +1,25 @@
+Knightmare Unicorn
+Card Type: Link Monster
+
+Description: 2+ monsters with different names
+If this card is Link Summoned: You can discard 1 card, then target 1 card on the field; shuffle it into the Deck, then, if this card was co-linked when this effect was activated, you can draw 1 card. You can only use this effect of "Knightmare Unicorn" once per turn. While any co-linked "Knightmare" monsters are on the field, for your normal draw in your Draw Phase, draw 1 card for each different card name among those co-linked "Knightmare" monsters, instead of drawing just 1 card.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: Knightmare
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Flames of Destruction
+- Genesis Impact
+- Genesis Impact
+- Maximum Gold: El Dorado

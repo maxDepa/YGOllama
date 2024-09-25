@@ -1,0 +1,17 @@
+Darklord Edeh Arae
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned from the Graveyard, it gains this effect.
+● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Fairy
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 2000
+Archetype: Darklord
+Present in Sets:
+- Destiny Soldiers
+- Legendary Collection 2: The Duel Academy Years
+- Yu-Gi-Oh! Championship Series 2010 Prize Cards
+- Yu-Gi-Oh! Championship Series 2010 Prize Cards

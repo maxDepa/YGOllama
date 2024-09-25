@@ -1,0 +1,15 @@
+Relinquished Anima
+Card Type: Link Monster
+
+Description: 1 Level 1 monster, except a Token
+You can target 1 face-up monster this card points to; equip that face-up monster to this card (max. 1). You can only use this effect of "Relinquished Anima" once per turn. This card gains ATK equal to that equipped monster's.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Eyes Restrict
+Present in Sets:
+- Brothers of Legend
+- Duel Overload

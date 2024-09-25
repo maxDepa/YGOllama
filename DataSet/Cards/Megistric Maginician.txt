@@ -1,0 +1,13 @@
+Megistric Maginician
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. During the End Phase: You can remove 3 Spell Counters from this card, then target 1 of your banished Spells; add 1 card with the target's name from your Deck to your hand. You can only use this effect of "Megistric Maginician" once per turn.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 1
+Attack: 0
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Rising Rampage

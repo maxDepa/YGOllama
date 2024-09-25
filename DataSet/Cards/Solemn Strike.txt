@@ -1,0 +1,21 @@
+Solemn Strike
+Card Type: Trap Card
+
+Description: When a monster(s) would be Special Summoned, OR a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solemn
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Breakers of Shadow
+- Code of the Duelist Special Edition
+- Duel Devastator
+- OTS Tournament Pack 4
+- Structure Deck: Mechanized Madness
+- The Grand Creators
+- The Grand Creators

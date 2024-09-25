@@ -1,0 +1,16 @@
+Hate Buster
+Card Type: Trap Card
+
+Description: When a Fiend-Type monster you control is targeted for an attack: Target the opponent's attacking monster and that monster you control; destroy both targets, and if you do, inflict damage to your opponent equal to the original ATK of the opponent's destroyed monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 4
+- Phantom Darkness

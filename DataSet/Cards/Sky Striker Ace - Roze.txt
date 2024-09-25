@@ -1,0 +1,17 @@
+Sky Striker Ace - Roze
+Card Type: Effect Monster
+
+Description: If a "Sky Striker Ace" monster(s) is Normal or Special Summoned, except "Sky Striker Ace - Roze" (except during the Damage Step): You can Special Summon this card from your hand. If an opponent's monster in the Extra Monster Zone is destroyed by battle, or leaves the field because of your card effect, while this card is in your GY: You can Special Summon this card, then you can negate the effects of 1 face-up monster your opponent controls, until the end of this turn. You can only use each effect of "Sky Striker Ace - Roze" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Sky Striker
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Battles of Legend: Terminal Revenge
+- Ignition Assault
+- Ignition Assault
+- Maximum Gold: El Dorado

@@ -1,0 +1,15 @@
+Lady Ninja Yae
+Card Type: Effect Monster
+
+Description: By discarding 1 WIND monster from your hand to the Graveyard, return all Spell and Trap Cards on your opponent's side of the field to the owner's hand.
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 1100
+Defence: 200
+Archetype: Ninja
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Structure Deck: Lord of the Storm

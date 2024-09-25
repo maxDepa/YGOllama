@@ -1,0 +1,16 @@
+Electromagnetic Bagworm
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 Machine-Type monster your opponent controls; take control of that target until your next End Phase.
+If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
+
+Type: Insect
+Attribute: LIGHT
+Level: 3
+Attack: 200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League

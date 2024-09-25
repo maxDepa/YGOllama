@@ -1,0 +1,14 @@
+Batteryman D
+Card Type: Effect Monster
+
+Description: Your opponent cannot select a Thunder-Type monster you control as an attack target (except "Batteryman D").
+
+Type: Thunder
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 1900
+Archetype: Batteryman
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice

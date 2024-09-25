@@ -1,0 +1,13 @@
+Golgoil
+Card Type: Normal Monster
+
+Description: An iron giant that appears from a dimensional rift.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Speed Duel: Streets of Battle City

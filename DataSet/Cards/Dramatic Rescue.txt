@@ -1,0 +1,16 @@
+Dramatic Rescue
+Card Type: Trap Card
+
+Description: Activate only when a card is activated that targets an "Amazoness" monster. Return the targeted monster to its owner's hand and Special Summon 1 other monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series 3
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows

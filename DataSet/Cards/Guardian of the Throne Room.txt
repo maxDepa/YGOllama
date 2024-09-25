@@ -1,0 +1,16 @@
+Guardian of the Throne Room
+Card Type: Normal Monster
+
+Description: A robot guard built to protect throne rooms, it is armed with homing missiles.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1650
+Defence: 1600
+Archetype: Guardian
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

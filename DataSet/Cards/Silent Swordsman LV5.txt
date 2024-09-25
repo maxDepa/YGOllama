@@ -1,0 +1,21 @@
+Silent Swordsman LV5
+Card Type: Effect Monster
+
+Description: Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 "Silent Swordsman LV7" from your hand or Deck.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2300
+Defence: 1000
+Archetype: Silent Swordsman
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 5b
+- Duelist Pack: Rivals of the Pharaoh
+- Elemental Energy: Special Edition
+- Flaming Eternity
+- Flaming Eternity
+- Legendary Collection 3: Yugi's World Mega Pack
+- Starter Deck: Yugi Reloaded
+- Yugi's Legendary Decks

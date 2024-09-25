@@ -1,0 +1,13 @@
+Gadget Arms
+Card Type: Flip Effect Monster
+
+Description: FLIP: Select 1 "Morphtronic" Spell or Trap Card in your Graveyard and add it to your hand.
+
+Type: Machine
+Attribute: WATER
+Level: 2
+Attack: 200
+Defence: 400
+Archetype: Gadget
+Present in Sets:
+- Raging Battle

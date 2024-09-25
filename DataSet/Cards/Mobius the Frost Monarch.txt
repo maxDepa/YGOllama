@@ -1,0 +1,25 @@
+Mobius the Frost Monarch
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned: You can target up to 2 Spell/Trap Cards on the field; destroy those targets.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Duelist League 2 participation cards
+- Emperor of Darkness Structure Deck
+- Gold Series 2009
+- Soul of the Duelist
+- Soul of the Duelist
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Structure Deck: Fury from the Deep
+- Tournament Pack 8

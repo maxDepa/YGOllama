@@ -1,0 +1,15 @@
+Power Filter
+Card Type: Spell Card
+
+Description: Neither player can Special Summon monsters with 1000 or less ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- The Duelist Genesis

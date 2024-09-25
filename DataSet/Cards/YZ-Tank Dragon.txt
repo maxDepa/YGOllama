@@ -1,0 +1,17 @@
+YZ-Tank Dragon
+Card Type: Fusion Monster
+
+Description: "Y-Dragon Head" + "Z-Metal Tank"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use "Polymerization".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down monster your opponent controls; destroy that target.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 2200
+Archetype: ABC
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist Pack: Rivals of the Pharaoh
+- Magician's Force
+- Speed Duel: Battle City Box

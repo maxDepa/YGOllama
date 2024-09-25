@@ -1,0 +1,16 @@
+Dragonroid
+Card Type: Effect Monster
+
+Description: Once per turn, if this card is in your GY: You can make this card become a Dragon monster while in the GY, until the end of this turn. You can discard this card, then activate 1 of these effects;
+● Add 1 non-WIND "roid" monster from your Deck to your hand.
+● This turn, the activation of your cards and effects that include an effect that Fusion Summons a Fusion Monster cannot be negated, also your opponent cannot activate cards or effects when a monster is Fusion Summoned this way.
+You can only use this effect of "Dragonroid" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 8
+Attack: 2900
+Defence: 1000
+Archetype: roid
+Present in Sets:
+- Brothers of Legend

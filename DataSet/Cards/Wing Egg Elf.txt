@@ -1,0 +1,12 @@
+Wing Egg Elf
+Card Type: Normal Monster
+
+Description: This fairy in an eggshell uses massive wings to blow back almost any projectile attack.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 1300
+Archetype: //
+Present in Sets:

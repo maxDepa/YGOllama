@@ -1,0 +1,15 @@
+Meklord Army of Skiel
+Card Type: Effect Monster
+
+Description: This card gains 200 ATK for each "Meklord" monster on the field, except this card. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "Meklord Army" monster from your Deck.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: Meklord
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Rage of Ra

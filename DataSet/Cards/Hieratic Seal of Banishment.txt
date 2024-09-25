@@ -1,0 +1,14 @@
+Hieratic Seal of Banishment
+Card Type: Trap Card
+
+Description: Tribute 1 "Hieratic" monster to target 1 card your opponent controls; banish that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hieratic
+Present in Sets:
+- Galactic Overlord
+- Ghosts From the Past

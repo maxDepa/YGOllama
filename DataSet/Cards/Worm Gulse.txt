@@ -1,0 +1,14 @@
+Worm Gulse
+Card Type: Effect Monster
+
+Description: Each time a face-down Defense Position monster is flipped face-up, place 1 Worm Counter on this card. This card gains 300 ATK for each Worm Counter on it.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 300
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Gold Series 3

@@ -1,0 +1,12 @@
+Rekindling the Ashened
+Card Type: Spell Card
+
+Description: Place 1 of your "Ashened" cards that is banished or in your GY on the bottom of your Main Deck, except "Rekindling the Ashened", then target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only activate 1 "Rekindling the Ashened" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ashened
+Present in Sets:

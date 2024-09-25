@@ -1,0 +1,14 @@
+Claw Reacher
+Card Type: Normal Monster
+
+Description: Stretching arms and razor-sharp claws make this monster a formidable opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Starter Deck: Yugi
+- Starter Deck: Yugi

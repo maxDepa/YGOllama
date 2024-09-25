@@ -1,0 +1,17 @@
+Magician of Black Chaos
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "Black Magic Ritual".
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Pack (TCG)
+- Speed Duel Tournament Pack 6
+- Speed Duel: Trials of the Kingdom
+- Yugi's Legendary Decks

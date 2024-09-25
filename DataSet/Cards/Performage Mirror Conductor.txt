@@ -1,0 +1,18 @@
+Performage Mirror Conductor
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+Once per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 600
+Defence: 1400
+Archetype: Performage
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

@@ -1,0 +1,15 @@
+Vylon Ohm
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Target 1 Equip Spell Card in your Graveyard; banish that target, and if you do, add it to your hand during your next Standby Phase.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 200
+Archetype: Vylon
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Photon Shockwave

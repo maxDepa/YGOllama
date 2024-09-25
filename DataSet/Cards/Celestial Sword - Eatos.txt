@@ -1,0 +1,15 @@
+Celestial Sword - Eatos
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Noble Arms" card.)
+The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: You can target 1 "Guardian Eatos" you control; it gains 500 ATK for each banished monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Noble Knight
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

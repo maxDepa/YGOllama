@@ -1,0 +1,15 @@
+Magical Contract Door
+Card Type: Spell Card
+
+Description: Add 1 Spell Card from your hand to your opponent's hand, then add 1 Level 7 or 8 DARK monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

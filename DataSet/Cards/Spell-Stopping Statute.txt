@@ -1,0 +1,15 @@
+Spell-Stopping Statute
+Card Type: Trap Card
+
+Description: Activate only when your opponent activates a Continuous Spell Card. Negate the activation and the effect of the card and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

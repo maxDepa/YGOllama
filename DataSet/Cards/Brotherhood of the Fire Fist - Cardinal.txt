@@ -1,0 +1,16 @@
+Brotherhood of the Fire Fist - Cardinal
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Fire Fist" monsters
+You can detach 2 materials from this card, then target 2 "Fire Fist" / "Fire Formation" cards in your GY and/or face-up field, and 2 cards in your opponent's GY and/or face-up field; shuffle those targets into the Deck. You can only use this effect of "Brotherhood of the Fire Fist - Cardinal" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 2200
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Fists of the Gadgets
+- Lord of the Tachyon Galaxy

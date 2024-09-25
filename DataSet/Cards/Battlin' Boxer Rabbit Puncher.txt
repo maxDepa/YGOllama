@@ -1,0 +1,15 @@
+Battlin' Boxer Rabbit Puncher
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Soulburning Volcano
+- Shadow Specters

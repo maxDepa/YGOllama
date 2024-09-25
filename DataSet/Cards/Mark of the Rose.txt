@@ -1,0 +1,21 @@
+Mark of the Rose
+Card Type: Spell Card
+
+Description: Activate this card by banishing 1 Plant monster from your GY, then target 1 face-up monster your opponent controls; equip this card to it. Take control of the equipped monster. Once per turn, during your End Phase: Negate this card's effect until your next Standby Phase.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rose Dragon
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Duel Power
+- Duel Terminal 2
+- Fusion Enforcers
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

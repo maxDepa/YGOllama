@@ -1,0 +1,15 @@
+Fusion of Fire
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Salamangreat" card.)
+Fusion Summon 1 "Salamangreat" Fusion Monster from your Extra Deck, using monsters from your hand and/or either field as Fusion Material. You can only activate 1 "Fusion of Fire" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

@@ -1,0 +1,16 @@
+Number C106: Giant Red Hand
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+If this card has a "Number" monster as an Xyz Material, it gains this effect.
+● Once per turn, during either player's turn, when a card or effect is activated on the field: Detach 1 Xyz Material from this card, and if you do, negate the effects of all other face-up cards currently on the field until the end of this turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

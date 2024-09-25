@@ -1,0 +1,14 @@
+LANphorhynchus
+Card Type: Link Monster
+
+Description: 2 monsters
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Devastator
+- Structure Deck: Powercode Link

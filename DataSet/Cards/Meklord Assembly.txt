@@ -1,0 +1,15 @@
+Meklord Assembly
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Meklord" monster from your Deck to your hand. You can only activate 1 "Meklord Assembly" per turn. You can only use each of the following effects of "Meklord Assembly" once per turn.
+● You can discard 1 card, then target 1 monster you control; destroy it.
+● If a face-up "Meklord" monster(s) you control is destroyed by battle or card effect: You can target 1 other face-up Spell/Trap on the field; destroy it.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Legendary Duelists: Rage of Ra

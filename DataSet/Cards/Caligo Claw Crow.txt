@@ -1,0 +1,15 @@
+Caligo Claw Crow
+Card Type: Effect Monster
+
+Description: If you control a DARK monster, you can Special Summon this card (from your hand). You can only Special Summon "Caligo Claw Crow" once per turn this way.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 2
+Attack: 900
+Defence: 600
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Slifer the Sky Dragon
+- Maximum Gold
+- Super Starter: V for Victory

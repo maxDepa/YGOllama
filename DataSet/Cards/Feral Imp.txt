@@ -1,0 +1,25 @@
+Feral Imp
+Card Type: Normal Monster
+
+Description: A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- OTS Tournament Pack 5
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Destiny Masters
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

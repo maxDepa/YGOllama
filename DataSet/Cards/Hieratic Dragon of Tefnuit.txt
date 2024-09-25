@@ -1,0 +1,17 @@
+Hieratic Dragon of Tefnuit
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon Normal Monster from your hand, Deck, or GY, but make its ATK/DEF 0.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 1400
+Archetype: Hieratic
+Present in Sets:
+- Astral Pack One
+- Duel Power
+- Galactic Overlord
+- Ghosts From the Past
+- Saga of Blue-Eyes White Dragon Structure Deck

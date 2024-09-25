@@ -1,0 +1,13 @@
+Mutant Mindmaster
+Card Type: Effect Monster
+
+Description: When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 0
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Phantom Darkness: Special Edition

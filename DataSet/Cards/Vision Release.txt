@@ -1,0 +1,14 @@
+Vision Release
+Card Type: Spell Card
+
+Description: Target 1 "Vision HERO" Monster Card in your Spell & Trap Zone; Special Summon it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Vision HERO" monster in your GY; add it to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vision HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge

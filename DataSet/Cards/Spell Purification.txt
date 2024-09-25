@@ -1,0 +1,15 @@
+Spell Purification
+Card Type: Trap Card
+
+Description: Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Speed Duel: Battle City Box

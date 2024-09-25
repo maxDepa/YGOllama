@@ -1,0 +1,14 @@
+Contact with Gusto
+Card Type: Spell Card
+
+Description: Target 2 "Gusto" monsters in your Graveyard and 1 card your opponent controls; shuffle both targets in your Graveyard into the Deck, then destroy the opponent's target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

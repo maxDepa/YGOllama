@@ -1,0 +1,13 @@
+Ritual Beast's Bond
+Card Type: Spell Card
+
+Description: Banish 2 "Ritual Beast" monsters you control; Special Summon 1 "Ritual Beast" monster from your Extra Deck, ignoring its Summoning conditions.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

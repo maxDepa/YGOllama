@@ -1,0 +1,15 @@
+Gravi-Crush Dragon
+Card Type: Effect Monster
+
+Description: You can send 1 face-up Continuous Spell Card you control to the Graveyard, then target 1 monster your opponent controls; destroy that target.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Legion Starter Deck
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker

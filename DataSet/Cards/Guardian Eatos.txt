@@ -1,0 +1,17 @@
+Guardian Eatos
+Card Type: Effect Monster
+
+Description: If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 of your Equip Spell Cards equipped to this card to the Graveyard, then target up to 3 monsters in your opponent's Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn.
+
+Type: Fairy
+Attribute: WIND
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Guardian
+Present in Sets:
+- Collectible Tins 2011 Wave 2
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Legendary Collection 3: Yugi's World
+- Stardust Overdrive

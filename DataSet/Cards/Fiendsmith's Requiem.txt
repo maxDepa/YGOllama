@@ -1,0 +1,15 @@
+Fiendsmith's Requiem
+Card Type: Link Monster
+
+Description: 1 LIGHT Fiend monster
+You can only Special Summon "Fiendsmith's Requiem(s)" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 "Fiendsmith" monster from your hand or Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell that gives it 600 ATK. You can only use this effect of "Fiendsmith's Requiem" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 0
+Attack: 600
+Defence: 0
+Archetype: Fiendsmith
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

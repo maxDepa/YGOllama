@@ -1,0 +1,16 @@
+Shiranui Spiritmaster
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Shiranui" monster from your hand or GY, except "Shiranui Spiritmaster", but banish it when it leaves the field. If this card is banished: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of "Shiranui Spiritmaster" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Hidden Summoners
+- OTS Tournament Pack 6

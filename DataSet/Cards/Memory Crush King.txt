@@ -1,0 +1,13 @@
+Memory Crush King
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent by a direct attack, remove from play all Synchro Monsters in your opponent's Graveyard, and inflict 1000 damage to your opponent for each monster removed.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Shining Darkness

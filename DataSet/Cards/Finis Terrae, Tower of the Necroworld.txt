@@ -1,0 +1,13 @@
+Finis Terrae, Tower of the Necroworld
+Card Type: Effect Monster
+
+Description: If you control a Level 10 monster, you can Special Summon this card (from your hand). You can only Special Summon "Finis Terrae, Tower of the Necroworld" once per turn this way. If this card is sent to the GY: You can target 1 face-up card on the field; that card cannot be destroyed by card effects this turn. You can only use this effect of "Finis Terrae, Tower of the Necroworld" once per turn.
+
+Type: Zombie
+Attribute: WATER
+Level: 10
+Attack: 1000
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Duelist Nexus

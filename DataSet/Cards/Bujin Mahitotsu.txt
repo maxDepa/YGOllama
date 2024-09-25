@@ -1,0 +1,16 @@
+Bujin Mahitotsu
+Card Type: Effect Monster
+
+Description: You can send 1 other "Bujin" card from your hand to the GY; Special Summon this card from your hand. You can activate 1 of these effects;
+● Send 1 "Bujin" monster from your hand to the GY; add 1 "Bujin" monster with a different name from your GY to your hand.
+● Banish 1 "Bujin" monster from your GY; send 1 "Bujin" monster with a different name from your Deck to the GY.
+You can only use the Summoning effect, and the other effect, of "Bujin Mahitotsu" each once per turn.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: Bujin
+Present in Sets:
+- Lightning Overdrive

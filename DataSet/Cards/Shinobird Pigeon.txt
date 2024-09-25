@@ -1,0 +1,14 @@
+Shinobird Pigeon
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. Once per turn: You can target 1 other Spirit monster on the field; return it to the hand. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Shinobird
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

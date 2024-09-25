@@ -1,0 +1,17 @@
+Spirit of the Pot of Greed
+Card Type: Effect Monster
+
+Description: While this card is in face-up Attack Position on the field, if a player activates "Pot of Greed", they can draw 1 more card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Greed
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- The Pot Collection

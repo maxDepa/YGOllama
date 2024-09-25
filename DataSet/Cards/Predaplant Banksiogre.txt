@@ -1,0 +1,13 @@
+Predaplant Banksiogre
+Card Type: Tuner Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 1 opponent's monster with a Predator Counter. If this card is sent from the field to the GY: Place 1 Predator Counter on each face-up monster your opponent controls, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.
+
+Type: Plant
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 100
+Archetype: Predaplant
+Present in Sets:
+- Code of the Duelist

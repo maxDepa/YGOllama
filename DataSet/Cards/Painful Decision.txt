@@ -1,0 +1,17 @@
+Painful Decision
+Card Type: Spell Card
+
+Description: Send 1 Level 4 or lower Normal Monster from your Deck to the Graveyard, and if you do, add 1 card with the same name as that card from your Deck to your hand. You can only activate 1 "Painful Decision" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Dinosmasher's Fury Structure Deck
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)

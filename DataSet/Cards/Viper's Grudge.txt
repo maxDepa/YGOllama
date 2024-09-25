@@ -1,0 +1,13 @@
+Viper's Grudge
+Card Type: Trap Card
+
+Description: Non-Reptile monsters you control cannot attack, also you cannot activate their effects. You can only use each of the following effects of "Viper's Grudge" once per turn. If a face-up Reptile monster(s) you control is destroyed by battle or sent to the GY: You can Special Summon 1 Level 4 or lower Reptile monster from your Deck. If this card is destroyed in the Spell & Trap Zone: You can return all your banished Reptile monsters to your GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

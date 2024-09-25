@@ -1,0 +1,17 @@
+Hero Barrier
+Card Type: Trap Card
+
+Description: Negate 1 attack from an opponent's monster. You must control a face-up "Elemental HERO" monster to resolve this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Elemental Energy
+- Elemental Energy
+- Legendary Collection 2: The Duel Academy Years Mega Pack

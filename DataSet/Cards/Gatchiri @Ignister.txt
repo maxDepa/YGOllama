@@ -1,0 +1,16 @@
+Gatchiri @Ignister
+Card Type: Effect Monster
+
+Description: The first time each Cyberse monster you control would be destroyed by a card effect each turn, it is not destroyed. You can only use each of the following effects of "Gatchiri @Ignister" once per turn.
+● You can target 1 Cyberse Effect Monster you control; negate its effects, and if you do, Special Summon this card from your hand.
+● If this card is sent from the field to your GY: You can target 1 face-up monster you control; that target is unaffected by your opponent's card effects until the end of your opponent's turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 8
+Attack: 0
+Defence: 3000
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

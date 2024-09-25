@@ -1,0 +1,20 @@
+Ryu Kokki
+Card Type: Effect Monster
+
+Description: At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Gold Series: Haunted Mine
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Zombie Madness
+- Zombie World Structure Deck

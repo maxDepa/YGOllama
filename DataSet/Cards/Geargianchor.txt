@@ -1,0 +1,14 @@
+Geargianchor
+Card Type: Effect Monster
+
+Description: Once per turn: You can change this card to face-down Defense Position. If this card is flipped face-up: You can destroy monsters on the field, up to the number of other "Geargia" monsters you currently control.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 500
+Archetype: Geargia
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

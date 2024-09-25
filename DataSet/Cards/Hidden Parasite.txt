@@ -1,0 +1,13 @@
+Hidden Parasite
+Card Type: Skill Card
+
+Description: Once per turn, you can change all monsters on the field to Insect until the end of this turn, also any battle damage your opponent takes for the rest of this turn is halved. You can only use this Skill up to twice per Duel. 
+
+Type: Weevil
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators

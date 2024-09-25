@@ -1,0 +1,13 @@
+Mermail Abysshilde
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: You can Special Summon 1 "Mermail" monster from your hand, except "Mermail Abysshilde". You can only use the effect of "Mermail Abysshilde" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1300
+Defence: 400
+Archetype: Mermail
+Present in Sets:
+- Abyss Rising

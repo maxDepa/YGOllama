@@ -1,0 +1,13 @@
+Terrible Deal
+Card Type: Trap Card
+
+Description: Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker

@@ -1,0 +1,16 @@
+Visas Starfrost
+Card Type: Tuner Monster
+
+Description: If this card is in your hand: You can target 1 monster you control with a different Type and Attribute than this card; destroy that monster, and if you do, Special Summon this card. You can only use this effect of "Visas Starfrost" once per turn. When this card destroys an opponent's monster by battle: You can make this card gain ATK equal to half the original ATK or DEF of that monster (whichever is higher, your choice if tied).
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Cyberstorm Access
+- Dimension Force

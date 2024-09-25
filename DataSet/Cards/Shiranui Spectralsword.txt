@@ -1,0 +1,15 @@
+Shiranui Spectralsword
+Card Type: Tuner Monster
+
+Description: If this card is in your GY, except the turn this card was sent to the GY: You can target 1 non-Tuner Zombie monster in your GY; banish both it and this card, and if you do, Special Summon 1 Zombie Synchro Monster from your Extra Deck whose Level equals the total Levels those 2 monsters had. You can only use this effect of "Shiranui Spectralsword" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 2
+Attack: 800
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Hidden Summoners

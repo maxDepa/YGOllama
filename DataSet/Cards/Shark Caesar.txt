@@ -1,0 +1,14 @@
+Shark Caesar
+Card Type: XYZ Monster
+
+Description: 3 or more (max. 5) Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card; place 1 Shark Counter on this card. If this card attacks or is attacked, it gains 1000 ATK for each Shark Counter on it, during the Damage Step only.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1800
+Defence: 2000
+Archetype: Shark
+Present in Sets:
+- Judgment of the Light

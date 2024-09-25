@@ -1,0 +1,15 @@
+Construction Train Signal Red
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can Special Summon this card from your hand, and if you do, change the attack target to this card and proceed to damage calculation. This card cannot be destroyed by that battle.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1300
+Archetype: Train
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Legendary Duelists: Sisters of the Rose

@@ -1,0 +1,13 @@
+Mighty Dino King Rex
+Card Type: Effect Monster
+
+Description: If this attacking card destroys an opponent's monster by battle: It can make a second attack during this Battle Phase. Once per turn, if you control this card that was not Summoned this turn: You can target up to 2 monsters your opponent controls; destroy them.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 9
+Attack: 3200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Nexus

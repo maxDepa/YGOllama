@@ -1,0 +1,16 @@
+Hyper Psychic Blaster
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Psychic-Type Monsters
+If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. At the end of the Damage Step, if this card attacked a Defense Position monster and that monster's DEF is lower than this card's ATK (use its original values if the other monster is no longer on the field): Gain LP equal to the surplus.
+
+Type: Psychic
+Attribute: EARTH
+Level: 9
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis
+- Legendary Collection 5D's Mega Pack

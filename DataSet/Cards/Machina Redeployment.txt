@@ -1,0 +1,16 @@
+Machina Redeployment
+Card Type: Spell Card
+
+Description: Activate 1 of these effects.
+● Discard 1 card; add 2 "Machina" monsters with different names from each other from your Deck to your hand.
+● Discard 1 "Machina" card; add 2 "Machina" cards with different names from each other from your Deck to your hand, except "Machina Redeployment".
+You can only activate 1 "Machina Redeployment" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Machina
+Present in Sets:
+- Structure Deck: Mechanized Madness

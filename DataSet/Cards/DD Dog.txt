@@ -1,0 +1,17 @@
+D/D Dog
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card. You can only use this effect of "D/D Dog" once per turn.
+
+[ Monster Effect ] 
+Once per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s) (except during the Damage Step): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2000
+Archetype: D/D
+Present in Sets:
+- Rise of the Duelist

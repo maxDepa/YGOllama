@@ -1,0 +1,13 @@
+Sunseed Shadow
+Card Type: Effect Monster
+
+Description: If you control a Plant Normal Monster: You can Special Summon this card from your hand. You can banish this card from your GY, then target 1 linked Link-2 or lower "Sunavalon" or "Sunvine" monster you control; Special Summon 1 monster with the same name from your Extra Deck, but negate its effects, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of "Sunseed Shadow" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 400
+Archetype: Sunseed
+Present in Sets:
+- Ghosts From the Past

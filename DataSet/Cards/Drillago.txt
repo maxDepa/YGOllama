@@ -1,0 +1,19 @@
+Drillago
+Card Type: Effect Monster
+
+Description: If the only cards your opponent controls are face-up monsters with 1600 or more ATK, this card can attack your opponent directly.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 5
+- Structure Deck: Marik (TCG)

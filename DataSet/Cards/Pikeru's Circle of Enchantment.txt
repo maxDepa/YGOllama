@@ -1,0 +1,17 @@
+Pikeru's Circle of Enchantment
+Card Type: Trap Card
+
+Description: Damage to you from card effects becomes 0 until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- Speed Duel GX: Midterm Paradox

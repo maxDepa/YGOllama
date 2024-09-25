@@ -1,0 +1,15 @@
+Laval Cannon
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can target 1 of your banished "Laval" monsters; Special Summon that target.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 900
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz
+- OTS Tournament Pack 16 (POR)

@@ -1,0 +1,15 @@
+Raidraptor - Rising Rebellion Falcon
+Card Type: XYZ Monster
+
+Description: 5 Level 13 Winged Beast monsters
+Unaffected by other cards' effects. If this card is Xyz Summoned: You can destroy as many cards your opponent controls as possible, then if this card has 3 or more "Raidraptor" Xyz Monsters with different names as material, inflict damage to your opponent equal to the combined original ATK of the destroyed monsters. Once per turn: You can detach 3 materials from this card, then target 1 "Raidraptor" Xyz Monster in your GY; this card gains that monster's effects until the End Phase.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 13
+Attack: 4000
+Defence: 3500
+Archetype: Raidraptor
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

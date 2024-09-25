@@ -1,0 +1,15 @@
+Mischief of the Gnomes
+Card Type: Trap Card
+
+Description: This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Machine Reactor Structure Deck
+- OTS Tournament Pack 21
+- Secrets of Eternity

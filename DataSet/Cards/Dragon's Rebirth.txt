@@ -1,0 +1,16 @@
+Dragon's Rebirth
+Card Type: Trap Card
+
+Description: Target 1 Dragon monster you control; banish that target, and if you do, Special Summon 1 Dragon monster from your hand or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons Collide Structure Deck
+- Rise of the True Dragons Structure Deck
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 5

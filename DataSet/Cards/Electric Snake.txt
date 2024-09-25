@@ -1,0 +1,17 @@
+Electric Snake
+Card Type: Effect Monster
+
+Description: When this card is discarded from your hand to the Graveyard by an effect of a card controlled by your opponent, draw 2 cards from your Deck.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

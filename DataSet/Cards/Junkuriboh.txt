@@ -1,0 +1,14 @@
+Junkuriboh
+Card Type: Effect Monster
+
+Description: When your opponent activates a card or effect that would inflict damage to you (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Junk
+Present in Sets:
+- Premium Gold: Infinite Gold
+- Yu-Gi-Oh! Advent Calendar (2019)

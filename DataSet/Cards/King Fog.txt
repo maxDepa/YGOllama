@@ -1,0 +1,15 @@
+King Fog
+Card Type: Normal Monster
+
+Description: A fiend that dwells in a blinding curtain of smoke.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

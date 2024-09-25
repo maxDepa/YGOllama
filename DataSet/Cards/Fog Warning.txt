@@ -1,0 +1,13 @@
+Fog Warning
+Card Type: Skill Card
+
+Description: Each time you place a Fog Counter(s) on a monster(s), give it an additional Fog Counter.
+
+Type: Adrian Gecko
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,14 @@
+Eka the Flame Buddy
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 face-up Monster Card in either player's Spell & Trap Zone; Special Summon it to your field. You can target 1 other face-up monster you control; equip that face-up monster to this card as an Equip Spell that gives it 500 ATK. You can only use each effect of "Eka the Flame Buddy" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 200
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

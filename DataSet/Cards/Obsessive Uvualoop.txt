@@ -1,0 +1,15 @@
+Obsessive Uvualoop
+Card Type: Tuner Monster
+
+Description: If this card is in your hand: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, Special Summon this card. If this card is in your GY: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, add this card to your hand. You can only use each effect of "Obsessive Uvualoop" once per turn.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2021 Tin of Ancient Battles
+- Ignition Assault

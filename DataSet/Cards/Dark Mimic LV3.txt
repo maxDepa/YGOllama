@@ -1,0 +1,17 @@
+Dark Mimic LV3
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the GY: Draw 1 card, but if this card was Special Summoned by the effect of "Dark Mimic LV1", draw 2 cards instead.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Gold Series: Haunted Mine
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel Starter Decks: Twisted Nightmares

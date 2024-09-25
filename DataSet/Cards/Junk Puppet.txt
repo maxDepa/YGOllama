@@ -1,0 +1,14 @@
+Junk Puppet
+Card Type: Spell Card
+
+Description: Target 1 "Gimmick Puppet" monster in your GY; Special Summon it. You can only activate 1 "Junk Puppet" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Premium Gold

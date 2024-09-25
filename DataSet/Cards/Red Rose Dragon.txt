@@ -1,0 +1,14 @@
+Red Rose Dragon
+Card Type: Tuner Monster
+
+Description: If this card is sent to the GY as Synchro Material: You can Special Summon 1 "Rose Dragon" monster from your hand or Deck, except "Red Rose Dragon", then, if it was sent for the Synchro Summon of "Black Rose Dragon" or a Plant Synchro Monster, you can also add 1 "Frozen Rose" or 1 "Blooming of the Darkest Rose" from your Deck to your hand. You can only use this effect of "Red Rose Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1800
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

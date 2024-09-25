@@ -1,0 +1,13 @@
+Oshaleon
+Card Type: Effect Monster
+
+Description: While you control this face-up Attack Position card, your opponent cannot select a monster other than "Oshaleon" as an attack target. When this card is destroyed by battle and sent to the Graveyard, you can add 1 Reptile-Type monster with 500 or less ATK from your Deck to your hand.
+
+Type: Reptile
+Attribute: WATER
+Level: 3
+Attack: 1400
+Defence: 800
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

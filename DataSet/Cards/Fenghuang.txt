@@ -1,0 +1,13 @@
+Fenghuang
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Destroy all Set Spell/Trap Cards your opponent controls.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Photon Shockwave

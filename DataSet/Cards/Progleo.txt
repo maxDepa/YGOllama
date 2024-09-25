@@ -1,0 +1,15 @@
+Progleo
+Card Type: Link Monster
+
+Description: 2 monsters, except Tokens
+During your Main Phase, if you control this Link Summoned card: You can banish this card and 1 of your monsters this card points to, then target 1 Link Monster in either GY; Special Summon it, but banish it when it leaves the field. You can only use this effect of "Progleo" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Toon Chaos
+- Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards

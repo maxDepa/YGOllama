@@ -1,0 +1,18 @@
+Odd-Eyes Phantom Dragon
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when an attack is declared involving your face-up monster and an opponent's monster, if you have an "Odd-Eyes" card in your other Pendulum Zone: You can make that monster you control gain 1200 ATK until the end of the Battle Phase (even if this card leaves the field).
+
+[ Monster Effect ] 
+When this Pendulum Summoned card inflicts battle damage to your opponent by attacking: You can inflict damage to your opponent equal to the number of "Odd-Eyes" cards in your Pendulum Zones x 1200. You can only use this effect of "Odd-Eyes Phantom Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: -Eyes Dragon
+Present in Sets:
+- Legendary Dragon Decks
+- Yu-Gi-Oh! ARC-V Volume 1 promotional card

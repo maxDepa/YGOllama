@@ -1,0 +1,14 @@
+Floowandereeze and the Dreaming Town
+Card Type: Trap Card
+
+Description: During the Main Phase: Immediately after this effect resolves, Normal Summon 1 Level 4 or lower Winged Beast monster. If you Tribute Summon a Level 7 or higher monster while this card is in your GY: You can banish this card; change all monsters your opponent controls to face-down Defense Position. You can only use this effect of "Floowandereeze and the Dreaming Town" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Floowandereeze
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

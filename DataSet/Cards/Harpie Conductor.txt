@@ -1,0 +1,20 @@
+Harpie Conductor
+Card Type: Link Monster
+
+Description: 2 WIND monsters
+This card's name becomes "Harpie Lady" while on the field or in the GY. You can only use each of the following effects of "Harpie Conductor" once per turn.
+● If a "Harpie" monster(s) you control would be destroyed by battle or card effect, you can destroy 1 Spell/Trap you control instead.
+● If another face-up "Harpie" monster you control returns to your hand (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; return it to the hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 0
+Attack: 1900
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Legendary Duelists: Season 2
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 N

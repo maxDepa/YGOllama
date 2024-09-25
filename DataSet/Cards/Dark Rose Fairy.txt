@@ -1,0 +1,14 @@
+Dark Rose Fairy
+Card Type: Effect Monster
+
+Description: If a Tuner(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 card from your hand or field to the GY; place this card on the top or bottom of your Deck. You can only use each effect of "Dark Rose Fairy" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

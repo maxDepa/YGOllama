@@ -1,0 +1,20 @@
+Naturia Beast
+Card Type: Synchro Monster
+
+Description: 1 EARTH Tuner + 1+ non-Tuner EARTH monsters 
+When a Spell Card is activated (Quick Effect): You can send the top 2 cards of your Deck to the GY; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 2200
+Defence: 1700
+Archetype: Naturia
+Present in Sets:
+- Duel Power
+- Duel Terminal 2
+- Gold Series: Haunted Mine
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 5D's Mega Pack
+- Premium Gold: Return of the Bling

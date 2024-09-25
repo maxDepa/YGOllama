@@ -1,0 +1,13 @@
+Big One Warrior
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can send 1 Level 1 monster, except this card, from your hand to the Graveyard to Special Summon this card from your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 600
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3

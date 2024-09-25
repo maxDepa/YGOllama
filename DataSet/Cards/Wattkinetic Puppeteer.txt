@@ -1,0 +1,14 @@
+Wattkinetic Puppeteer
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can send this card from your hand or field to the GY, then target 1 monster your opponent controls; move that target to another of their Main Monster Zones.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

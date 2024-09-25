@@ -1,0 +1,14 @@
+Karakuri Super Shogun mdl 00N "Bureibu"
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner Machine monsters
+If this card is Synchro Summoned: You can Special Summon 1 "Karakuri" monster from your Deck. Monsters you control in Defense Position cannot be destroyed by battle. Once per turn, if the battle position of a face-up "Karakuri" monster(s) you control is changed (except during the Damage Step): You can target 1 card your opponent controls; banish it.
+
+Type: Machine
+Attribute: EARTH
+Level: 9
+Attack: 3000
+Defence: 1500
+Archetype: Karakuri
+Present in Sets:
+- Ignition Assault

@@ -1,0 +1,13 @@
+Crop Circles
+Card Type: Trap Card
+
+Description: Send any number of monsters from your side of the field to the Graveyard to activate this card. Select from your Deck 1 "Alien" monster whose Level is equal to the total Levels of the sent monsters, and Special Summon it. If you fail to find a monster to Special Summon, you take 2000 damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Power of the Duelist

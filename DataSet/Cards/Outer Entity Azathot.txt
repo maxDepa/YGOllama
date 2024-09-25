@@ -1,0 +1,14 @@
+Outer Entity Azathot
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+You can also Xyz Summon this card by using an "Outer Entity" Xyz Monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. After this card was Xyz Summoned, your opponent cannot activate monster effects for the rest of that turn. If this card has at least 3 Xyz Materials (1 Fusion, 1 Synchro, and 1 Xyz Monster): You can detach 1 material from this card; destroy all cards your opponent controls.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shadows in Valhalla

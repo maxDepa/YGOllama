@@ -1,0 +1,13 @@
+Synchronized Realm
+Card Type: Spell Card
+
+Description: Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Synchron
+Present in Sets:
+- Starter Deck: Yu-Gi-Oh! 5D's

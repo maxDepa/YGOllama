@@ -1,0 +1,13 @@
+Meteor Rush - Monochroid
+Card Type: Effect Monster
+
+Description: During the Battle Phase, if 5 or more attacks have been declared this turn (Quick Effect): You can Special Summon this card from your hand. You can only use this effect of "Meteor Rush - Monochroid" once per turn. If this card battles, it gains 1000 ATK for each attack declared this turn, during the Damage Step only.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: roid
+Present in Sets:
+- Photon Hypernova

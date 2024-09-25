@@ -1,0 +1,15 @@
+Sealmaster Meisei
+Card Type: Normal Monster
+
+Description: One of the few people who has a good command of Talismans. His history is a mystery.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 900
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel: Streets of Battle City

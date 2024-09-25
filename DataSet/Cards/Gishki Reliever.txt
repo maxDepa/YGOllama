@@ -1,0 +1,14 @@
+Gishki Reliever
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can target 1 other monster you control; return that target to the hand. You must control another face-up "Gishki" monster to activate and to resolve this effect.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 800
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

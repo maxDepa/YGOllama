@@ -1,0 +1,21 @@
+Monster Gate
+Card Type: Spell Card
+
+Description: Tribute 1 monster; excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set. Special Summon it, also send the other excavated cards to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 2
+- Dragons Collide Structure Deck
+- Duelist Saga
+- Mystic Fighters
+- OTS Tournament Pack 1
+- Structure Deck: Zombie Horde

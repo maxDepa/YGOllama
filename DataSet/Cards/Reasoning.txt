@@ -1,0 +1,24 @@
+Reasoning
+Card Type: Spell Card
+
+Description: Your opponent declares a monster Level from 1 to 12. Excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set, then, if that monster is the same Level as the one declared by your opponent, send all excavated cards to the GY. If not, Special Summon the excavated monster, also send the remaining cards to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Astral Pack Four
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 1
+- Dragons Collide Structure Deck
+- Pharaonic Guardian
+- Premium Gold: Infinite Gold
+- Star Pack 2014
+- Star Pack 2014
+- Structure Deck: Powercode Link

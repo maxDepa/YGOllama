@@ -1,0 +1,14 @@
+Dinowrestler Systegosaur
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can add 1 "Dinowrestler" monster or 1 "World Dino Wrestling" from your Deck to your hand. During the End Phase, if this card is in the GY because it was sent there this turn, and your opponent controls more monsters than you do: You can target 1 "Dinowrestler" monster in your GY, except "Dinowrestler Systegosaur"; Special Summon it. You can only use each effect of "Dinowrestler Systegosaur" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

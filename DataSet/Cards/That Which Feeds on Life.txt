@@ -1,0 +1,13 @@
+That Which Feeds on Life
+Card Type: Normal Monster
+
+Description: A monster that feeds on the energy of other creatures.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares

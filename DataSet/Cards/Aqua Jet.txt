@@ -1,0 +1,14 @@
+Aqua Jet
+Card Type: Spell Card
+
+Description: Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- Realm of the Sea Emperor Structure Deck

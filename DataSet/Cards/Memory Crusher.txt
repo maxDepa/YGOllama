@@ -1,0 +1,16 @@
+Memory Crusher
+Card Type: Effect Monster
+
+Description: If this card successfully attacks directly, inflict 100 damage to your opponent for each card in their Extra Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 600
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity

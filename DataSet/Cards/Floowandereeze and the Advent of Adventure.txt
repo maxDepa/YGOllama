@@ -1,0 +1,14 @@
+Floowandereeze and the Advent of Adventure
+Card Type: Spell Card
+
+Description: Banish 1 Winged Beast monster from your hand or face-up field; add 1 "Floowandereeze" monster or "Floowandereeze" Field Spell from your Deck to your hand, then gain 500 LP. You can only activate 1 "Floowandereeze and the Advent of Adventure" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Floowandereeze
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

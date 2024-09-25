@@ -1,0 +1,13 @@
+Dark Effigy
+Card Type: Effect Monster
+
+Description: If you Tribute Summon a DARK Normal Monster, you can treat this 1 monster as 2 Tributes.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

@@ -1,0 +1,13 @@
+Tellarknight Genesis
+Card Type: Spell Card
+
+Description: Destroy Spell/Trap Cards on the field equal to the number of other "tellarknight" cards you control.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tellarknight
+Present in Sets:
+- Invasion: Vengeance

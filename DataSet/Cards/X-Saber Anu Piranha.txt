@@ -1,0 +1,14 @@
+X-Saber Anu Piranha
+Card Type: Normal Monster
+
+Description: A female X-Saber Warrior, known for her graceful attacks and calm decision making in battle. Her ambition is merciless, and strikes fear in the hearts of her enemies.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1100
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 1
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

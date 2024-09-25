@@ -1,0 +1,19 @@
+Dark Doriado
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+All EARTH, WATER, FIRE, and WIND monsters you control gain 200 ATK/DEF for every different Attribute among the monsters you control.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can choose 4 monsters from your Deck (1 EARTH, 1 WATER, 1 FIRE, and 1 WIND), then place them on top of the Deck in any order.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Dark counterpart
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Structure Deck: Spirit Charmers

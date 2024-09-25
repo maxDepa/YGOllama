@@ -1,0 +1,18 @@
+Elemental HERO Darkbright
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Sparkman" + "Elemental HERO Necroshade"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this card attacks, change it to Defense Position at the end of the Damage Step. If this card is destroyed: Target 1 monster your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1000
+Archetype: Elemental HERO
+Present in Sets:
+- Duel Terminal 4
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Tactical Evolution
+- Tactical Evolution

@@ -1,0 +1,13 @@
+Ghostrick Shot
+Card Type: Spell Card
+
+Description: Special Summon 1 "Ghostrick" monster from your hand or GY, then you can change 1 face-down "Ghostrick" monster you control to face-up Attack Position. You can banish this card from your GY, then target 1 "Ghostrick" Xyz Monster you control; attach 1 "Ghostrick" card from your GY to that monster as material. You can only use each effect of "Ghostrick Shot" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- Battle of Chaos

@@ -1,0 +1,19 @@
+Evil HERO Malicious Fiend
+Card Type: Fusion Monster
+
+Description: "Evil HERO Malicious Edge" + 1 Level 6 or higher Fiend monster
+Must be Special Summoned with "Dark Fusion". During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card, if able.
+
+Type: Fiend
+Attribute: FIRE
+Level: 8
+Attack: 3500
+Defence: 2100
+Archetype: Evil HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

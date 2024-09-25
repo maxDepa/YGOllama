@@ -1,0 +1,13 @@
+Saber Vault
+Card Type: Spell Card
+
+Description: Each face-up "X-Saber" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: X-Saber
+Present in Sets:
+- The Shining Darkness

@@ -1,0 +1,18 @@
+Salamangreat Circle
+Card Type: Spell Card
+
+Description: Activate 1 of these effects.
+● Add 1 "Salamangreat" monster from your Deck to your hand.
+● Target 1 "Salamangreat" Link Monster you control that was Link Summoned using a monster with its same name as material; that Link Monster is unaffected by monster effects this turn, except its own.
+You can only activate 1 "Salamangreat Circle" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Legendary Duelists: Soulburning Volcano
+- Structure Deck: Soulburner

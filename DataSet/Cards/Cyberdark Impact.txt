@@ -1,0 +1,18 @@
+Cyberdark Impact!
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Cyberdark Dragon" from your Extra Deck, by returning 1 each of "Cyberdark Horn", "Cyberdark Edge", and "Cyberdark Keel" from your hand, GY, and/or anywhere on your field, to the Deck, as Fusion Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyberdark
+Present in Sets:
+- Duel Terminal 5b
+- Legendary Duelists: Season 1
+- Shadows in Valhalla
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Cyber Strike
+- Tactical Evolution

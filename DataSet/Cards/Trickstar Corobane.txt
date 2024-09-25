@@ -1,0 +1,14 @@
+Trickstar Corobane
+Card Type: Effect Monster
+
+Description: If you control no monsters, or all monsters you control are "Trickstar" monsters: You can Special Summon this card from your hand. During the Damage Step, when your "Trickstar" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; that monster you control gains ATK equal to its original ATK until the end of this turn. You can only use 1 "Trickstar Corobane" effect per turn, and only once that turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1000
+Archetype: Trickstar
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

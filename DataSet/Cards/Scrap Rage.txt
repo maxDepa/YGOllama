@@ -1,0 +1,13 @@
+Scrap Rage
+Card Type: Trap Card
+
+Description: Activate only during damage calculation, if a Defense Position "Scrap" monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

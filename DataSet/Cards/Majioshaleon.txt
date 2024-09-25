@@ -1,0 +1,14 @@
+Majioshaleon
+Card Type: Effect Monster
+
+Description: Your opponent cannot select this card as an attack target while they control any Spell/Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+
+Type: Reptile
+Attribute: WATER
+Level: 5
+Attack: 2000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok
+- Storm of Ragnarok

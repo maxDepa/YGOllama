@@ -1,0 +1,16 @@
+Revived King Ha Des
+Card Type: Synchro Monster
+
+Description: "Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monsters
+Negate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2450
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Crossroads of Chaos
+- Crossroads of Chaos

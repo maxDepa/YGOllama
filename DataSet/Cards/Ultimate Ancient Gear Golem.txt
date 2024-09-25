@@ -1,0 +1,21 @@
+Ultimate Ancient Gear Golem
+Card Type: Fusion Monster
+
+Description: "Ancient Gear Golem" + 2 "Ancient Gear" monsters
+Must be Fusion Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this card is destroyed: You can target 1 "Ancient Gear Golem" in your GY; Special Summon it, ignoring its Summoning conditions.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 4400
+Defence: 3400
+Archetype: Ancient Gear
+Present in Sets:
+- Duel Terminal 3
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Light of Destruction
+- Light of Destruction
+- OTS Tournament Pack 5
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box

@@ -1,0 +1,17 @@
+Relieve Monster
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Target 1 monster you control; return that target to the hand, then Special Summon 1 Level 4 monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Legends
+- Dragunity Legion Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Limited Edition 1
+- Retro Pack

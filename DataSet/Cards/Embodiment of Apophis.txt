@@ -1,0 +1,21 @@
+Embodiment of Apophis
+Card Type: Trap Card
+
+Description: During either player's Main Phase: Special Summon this card as a Normal Monster (Reptile-Type/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap Card.)
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cybernetic Revolution Sneak Peek Participation Card
+- Dark Legends
+- Duel Terminal 6b
+- Duelist Pack: Battle City
+- Gold Series: Haunted Mine
+- Retro Pack
+- Speed Duel: Battle City Box

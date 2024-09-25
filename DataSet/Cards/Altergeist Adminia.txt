@@ -1,0 +1,15 @@
+Altergeist Adminia
+Card Type: Link Monster
+
+Description: 2+ "Altergeist" monsters
+If this card is Link Summoned: You can Set 1 "Altergeist" Trap directly from your Deck. Once while this card is face-up on the field, during the Main Phase (Quick Effect): You can send 1 card you control to the GY, then target 1 Effect Monster your opponent controls; take control of that target, and if you do, it is also treated as an "Altergeist" monster. You can only use each effect of "Altergeist Adminia" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- Duelist Nexus
+- Duelist Nexus

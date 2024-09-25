@@ -1,0 +1,14 @@
+Old Entity Hastorr
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is sent from the Monster Zone to the Graveyard: You can target 1 face-up monster your opponent controls; equip this card from your Graveyard to that monster. That monster cannot attack, also its effects are negated. If this card leaves the field while equipped to an opponent's monster by this effect: Take control of the monster this card was equipped to.
+
+Type: Reptile
+Attribute: WIND
+Level: 4
+Attack: 2300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tins

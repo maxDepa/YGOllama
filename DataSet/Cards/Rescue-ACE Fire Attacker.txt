@@ -1,0 +1,13 @@
+Rescue-ACE Fire Attacker
+Card Type: Effect Monster
+
+Description: If a "Rescue-ACE" monster(s) is Normal or Special Summoned to your field, except "Rescue-ACE Fire Attacker" (except during the Damage Step): You can Special Summon this card from your hand. If a card(s) is added to your opponent's hand, except by drawing it (except during the Damage Step): You can draw 2 cards, then discard 1 card. You can only use each effect of "Rescue-ACE Fire Attacker" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 6
+Attack: 2200
+Defence: 2200
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders

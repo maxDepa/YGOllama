@@ -1,0 +1,16 @@
+Artorigus, King of the Noble Knights
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Noble Knight" monsters
+When this card is Xyz Summoned: You can target up to 3 "Noble Arms" Equip Spell Cards with different names in your Graveyard; equip those targets to this card. Once per turn: You can detach 1 Xyz Material from this card; destroy any number of Spell/Trap Cards on the field, up to the number of "Noble Arms" Equip Spell Cards you control.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: Noble Knight
+Present in Sets:
+- Cosmo Blazer
+- Cosmo Blazer
+- Noble Knights of the Round Table Box Set

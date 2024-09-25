@@ -1,0 +1,20 @@
+Curse of the Masked Beast
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "The Masked Beast". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mask
+Present in Sets:
+- Dark Beginning 1
+- Duelist Pack: Battle City
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Speed Duel: Battle City Box

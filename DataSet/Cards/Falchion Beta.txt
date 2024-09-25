@@ -1,0 +1,17 @@
+Falchion Beta
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle: Activate 1 of these effects.
+● Send 1 LIGHT Machine-Type monster with 1200 or less ATK from your Deck to your Graveyard.
+● Target 1 LIGHT Machine-Type monster with 1200 or less ATK in your Graveyard; Special Summon that target.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Cyber Dragon Revolution Structure Deck
+- Speed Duel: Battle City Box

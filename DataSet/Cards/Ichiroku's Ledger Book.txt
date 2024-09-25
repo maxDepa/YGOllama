@@ -1,0 +1,14 @@
+Ichiroku's Ledger Book
+Card Type: Trap Card
+
+Description: Target up to 2 monsters your opponent controls; banish them until the End Phase, then your opponent gains 1000 LP for each monster that left the field by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

@@ -1,0 +1,14 @@
+Psychic Lifetrancer
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Once per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to gain 1200 Life Points.
+
+Type: Psychic
+Attribute: EARTH
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

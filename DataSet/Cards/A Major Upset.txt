@@ -1,0 +1,15 @@
+A Major Upset
+Card Type: Trap Card
+
+Description: Tribute 1 face-up Attack Position Level 2 or lower monster you control; return all Level 7 or higher Special Summoned monsters to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Speed Duel Tournament Pack 5
+- Speed Duel: Scars of Battle

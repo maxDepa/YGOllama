@@ -1,0 +1,15 @@
+Elder of the Six Samurai
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Extreme Victory
+- Samurai Assault
+- Samurai Warlords Structure Deck

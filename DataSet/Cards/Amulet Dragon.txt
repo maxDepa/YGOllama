@@ -1,0 +1,17 @@
+Amulet Dragon
+Card Type: Fusion Monster
+
+Description: "Dark Magician" + 1 Dragon monster
+Must be Fusion Summoned with the above Fusion Materials or with "The Eye of Timaeus". If this card is Special Summoned: Target any number of Spells in any GY(s) (min.1); banish those targets, and if you do, this card gains 100 ATK for each card banished by this effect. If this card is destroyed: You can target 1 Spellcaster monster in your GY; Special Summon that target.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2500
+Archetype: Dark Magician
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Dragon Decks

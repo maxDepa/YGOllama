@@ -1,0 +1,19 @@
+Gravekeeper's Oracle
+Card Type: Effect Monster
+
+Description: You can Tribute 3 monsters or 1 "Gravekeeper's" monster to Tribute Summon (but not Set) this card. When this card is Tribute Summoned: You can activate any of these effects, and resolve in sequence, up to the number of "Gravekeeper's" monsters Tributed for its Summon;
+● This card gains ATK equal to the combined Levels that all monsters Tributed for its Tribute Summon had on the field x 100.
+● Destroy all Set monsters your opponent controls.
+● All monsters your opponent currently controls lose 2000 ATK/DEF.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 10
+Attack: 2000
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 1

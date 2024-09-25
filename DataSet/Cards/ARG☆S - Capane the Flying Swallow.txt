@@ -1,0 +1,13 @@
+ARG☆S - Capane the Flying Swallow
+Card Type: Trap Card
+
+Description: Your Warrior monsters cannot be destroyed by battle. Once per turn, if a Continuous Trap is in the Monster Zone: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 1800/DEF 1800) with the following effect (this card is also still a Trap), then, if you have any banished "ARG☆S" monster(s), gain 500 LP.
+● Once per turn (Quick Effect): You can place this card in your Spell & Trap Zone face-up.
+
+Type: Warrior
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: ARG☆S
+Present in Sets:

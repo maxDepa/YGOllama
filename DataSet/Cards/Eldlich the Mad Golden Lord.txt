@@ -1,0 +1,15 @@
+Eldlich the Mad Golden Lord
+Card Type: Fusion Monster
+
+Description: 1 "Eldlich" monster + 1 Level 5 or higher Zombie monster
+This card's name becomes "Eldlich the Golden Lord" while on the field. Cannot be destroyed by battle or card effects. You can Tribute 1 Zombie monster, then target 1 face-up monster your opponent controls; take control of it, but it cannot attack or activate its effects this turn. You can only use this effect of "Eldlich the Mad Golden Lord" once per turn.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 10
+Attack: 3800
+Defence: 3500
+Archetype: Eldlich
+Present in Sets:
+- Blazing Vortex
+- Maximum Gold: El Dorado

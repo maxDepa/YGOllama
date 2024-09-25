@@ -1,0 +1,15 @@
+Invoked Caliga
+Card Type: Fusion Monster
+
+Description: "Aleister the Invoker" + 1 DARK monster
+If a player's monster effect attempts to activate, none of that player's monsters can activate their effects for the rest of this turn while this card is face-up on the field. Each player can attack with only 1 monster during each Battle Phase.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Invoked
+Present in Sets:
+- Battles of Legend: Armageddon
+- Fusion Enforcers

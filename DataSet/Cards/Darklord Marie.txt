@@ -1,0 +1,17 @@
+Darklord Marie
+Card Type: Effect Monster
+
+Description: Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1700
+Defence: 1200
+Archetype: Darklord
+Present in Sets:
+- Dark Beginning 1
+- Destiny Soldiers
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

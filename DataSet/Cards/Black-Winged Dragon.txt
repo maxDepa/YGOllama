@@ -1,0 +1,22 @@
+Black-Winged Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Collectible Tins 2010 Wave 1
+- Darkwing Blast
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: White Dragon Abyss
+- The Shining Darkness
+- The Shining Darkness
+- The Shining Darkness

@@ -1,0 +1,15 @@
+Black Veloci
+Card Type: Effect Monster
+
+Description: If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 400 ATK during the Damage Step only.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 300
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Phantom Darkness

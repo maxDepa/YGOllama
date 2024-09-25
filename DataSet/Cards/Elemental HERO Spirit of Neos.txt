@@ -1,0 +1,14 @@
+Elemental HERO Spirit of Neos
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can Special Summon this card from your hand in Defense Position, and if you do, it cannot be destroyed by battle. If this card is Special Summoned: You can add from your Deck to your hand 1 "Polymerization" or 1 Spell/Trap that mentions an "Elemental HERO" monster's card name. During your Main Phase: You can shuffle this card into the Deck, and if you do, Special Summon 1 "Elemental HERO" Normal Monster from your Deck. You can only use each effect of "Elemental HERO Spirit of Neos" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

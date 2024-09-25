@@ -1,0 +1,14 @@
+The Traveler and the Burning Abyss
+Card Type: Trap Card
+
+Description: Target any number of "Burning Abyss" monsters in your Graveyard that were sent there this turn; Special Summon them in Defense Position. You can only activate 1 "The Traveler and the Burning Abyss" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Burning Abyss
+Present in Sets:
+- Duelist Alliance
+- Premium Gold: Infinite Gold

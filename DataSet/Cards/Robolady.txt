@@ -1,0 +1,14 @@
+Robolady
+Card Type: Normal Monster
+
+Description: A warrior fully covered with metal. It upgrades by fusing with "Roboyarou".
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 450
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legacy of Darkness
+- Legacy of Darkness

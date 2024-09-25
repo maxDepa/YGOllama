@@ -1,0 +1,23 @@
+Judgment Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 4 or more "Lightsworn" monsters with different names in your GY. You can pay 1000 LP; destroy all other cards on the field. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2600
+Archetype: Lightsworn
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Duelist Saga
+- Gold Series 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction
+- Premium Gold
+- Ra Yellow Mega Pack
+- Realm of Light Structure Deck
+- Turbo Pack: Booster One

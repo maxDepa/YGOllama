@@ -1,0 +1,14 @@
+Different Dimension Encounter
+Card Type: Trap Card
+
+Description: If both players have at least 1 banished monster that can be Special Summoned: Each player Special Summons 1 of their banished monsters in face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows
+- The New Challengers

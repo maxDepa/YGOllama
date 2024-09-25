@@ -1,0 +1,14 @@
+Key Mace #2
+Card Type: Normal Monster
+
+Description: This fiend brings out the worst in everyone.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1050
+Defence: 1200
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

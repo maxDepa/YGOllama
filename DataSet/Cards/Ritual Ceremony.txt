@@ -1,0 +1,15 @@
+Ritual Ceremony
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Once per Duel, you can reveal 1 Ritual Monster from your hand, then add 1 Ritual Spell from your Deck to your hand that can Ritual Summon that monster.
+
+Type: Emma
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards

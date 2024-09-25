@@ -1,0 +1,15 @@
+Chronicle Sorceress
+Card Type: Effect Monster
+
+Description: You can activate 1 of these effects based on the Attributes in your GY;
+● LIGHT: Send 1 "Blue-Eyes White Dragon" or 1 card that mentions it from your Deck to the GY, except "Chronicle Sorceress".
+● DARK: Send 1 "Dark Magician" or 1 card that mentions it from your Deck to the GY, except "Chronicle Sorceress".
+You can only use this effect of "Chronicle Sorceress" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1250
+Defence: 1250
+Archetype: //
+Present in Sets:

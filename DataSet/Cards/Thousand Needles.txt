@@ -1,0 +1,15 @@
+Thousand Needles
+Card Type: Effect Monster
+
+Description: When this Defense Position card is attacked and if the DEF of this card is higher than the ATK of the attacking monster, destroy the attacking monster at the end of the Damage Step.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

@@ -1,0 +1,15 @@
+Science Soldier
+Card Type: Normal Monster
+
+Description: Soldiers equipped with state-of-the-art weaponry to face unknown creatures.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

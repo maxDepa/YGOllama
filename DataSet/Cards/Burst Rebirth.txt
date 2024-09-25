@@ -1,0 +1,13 @@
+Burst Rebirth
+Card Type: Trap Card
+
+Description: Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shadow Specters

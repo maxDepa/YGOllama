@@ -1,0 +1,15 @@
+Windmill Genex
+Card Type: Synchro Monster
+
+Description: "Genex Controller" + 1 or more non-Tuner WIND monsters
+This card gains 300 ATK for each face-down Spell and Trap Card on the field. You can send 1 card from your hand to the Graveyard to select and destroy 1 face-down Spell or Trap Card.
+
+Type: Machine
+Attribute: WIND
+Level: 7
+Attack: 2000
+Defence: 1600
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

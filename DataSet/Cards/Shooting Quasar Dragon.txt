@@ -1,0 +1,15 @@
+Shooting Quasar Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
+Must be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, during either player's turn, when a card or effect is activated: You can negate the activation, and if you do, destroy it. When this card leaves the field: You can Special Summon 1 "Shooting Star Dragon" from your Extra Deck.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+Attack: 4000
+Defence: 4000
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's
+- Shonen Jump December 2011 subscription bonus

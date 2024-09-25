@@ -1,0 +1,17 @@
+Galaxy Hundred
+Card Type: Spell Card
+
+Description: When this card is activated: You can send 1 "Photon" or "Galaxy" card from your Deck to the GY. If "Galaxy-Eyes Photon Dragon" is Special Summoned to your field (except during the Damage Step): You can look at your opponent's Extra Deck, then you can apply 1 of these effects.
+● Banish 1 monster from it.
+● Special Summon 1 "Number" monster from it to your field.
+You can only use this effect of "Galaxy Hundred" once per turn. You can only activate 1 "Galaxy Hundred" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Galaxy
+Present in Sets:
+- OTS Tournament Pack 22
+- Photon Hypernova

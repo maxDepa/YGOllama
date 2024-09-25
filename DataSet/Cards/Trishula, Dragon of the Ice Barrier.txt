@@ -1,0 +1,24 @@
+Trishula, Dragon of the Ice Barrier
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 2+ non-Tuner monsters
+When this card is Synchro Summoned: You can banish up to 1 card each from your opponent's hand, field, and GY. (The card in the hand is chosen at random.)
+
+Type: Dragon
+Attribute: WATER
+Level: 9
+Attack: 2700
+Defence: 2000
+Archetype: Ice Barrier
+Present in Sets:
+- Astral Pack Eight
+- Battles of Legend: Light's Revenge
+- Blazing Vortex
+- Duel Devastator
+- Duel Terminal 4
+- Duelist Saga
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- High-Speed Riders
+- Maximum Gold: El Dorado
+- Structure Deck: Freezing Chains

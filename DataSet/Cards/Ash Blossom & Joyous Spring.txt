@@ -1,0 +1,28 @@
+Ash Blossom & Joyous Spring
+Card Type: Tuner Monster
+
+Description: When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.
+● Add a card from the Deck to the hand.
+● Special Summon from the Deck.
+● Send a card from the Deck to the GY.
+You can only use this effect of "Ash Blossom & Joyous Spring" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duel Devastator
+- Duel Power
+- Legendary Collection Kaiba Mega Pack
+- Maximum Crisis
+- Maximum Gold
+- Shadows in Valhalla
+- Structure Deck: Beware of Traptrix
+- Structure Deck: Legend of the Crystal Beasts
+- Structure Deck: Soulburner

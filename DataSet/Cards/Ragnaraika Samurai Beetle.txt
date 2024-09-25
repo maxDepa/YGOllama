@@ -1,0 +1,13 @@
+Ragnaraika Samurai Beetle
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by placing 1 of your banished Insect, Plant, or Reptile monsters on the bottom of your Main Deck. You can only Special Summon "Ragnaraika Samurai Beetle" once per turn this way. If this card is sent to the GY as material for a "Ragnaraika" Link Monster: You can target 1 Level 4 or lower Insect, Plant, or Reptile monster in your GY, except "Ragnaraika Samurai Beetle"; Special Summon it in Defense Position. You can only use this effect of "Ragnaraika Samurai Beetle" once per turn.
+
+Type: Insect
+Attribute: LIGHT
+Level: 3
+Attack: 1500
+Defence: 0
+Archetype: Ragnaraika
+Present in Sets:
+- Legacy of Destruction

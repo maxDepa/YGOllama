@@ -1,0 +1,13 @@
+ZW - Phoenix Bow
+Card Type: Effect Monster
+
+Description: You can target 1 face-up "Number C39: Utopia Ray" you control; equip this card from your hand to that target. It gains 1100 ATK. When the equipped monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent. You can only control 1 face-up "ZW - Phoenix Bow".
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 3
+Attack: 1100
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Return of the Duelist

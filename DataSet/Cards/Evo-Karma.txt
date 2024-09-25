@@ -1,0 +1,13 @@
+Evo-Karma
+Card Type: Spell Card
+
+Description: When a monster(s) is Special Summoned by the effect of an "Evoltile" monster you control, your opponent cannot activate cards or effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evoltile
+Present in Sets:
+- Photon Shockwave

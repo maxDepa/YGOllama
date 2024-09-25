@@ -1,0 +1,13 @@
+Intercept
+Card Type: Trap Card
+
+Description: Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

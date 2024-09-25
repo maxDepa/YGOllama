@@ -1,0 +1,15 @@
+Simorgh of Darkness
+Card Type: Effect Monster
+
+Description: While face-up on the field, this card is also WIND-Attribute. You can only use each of the following effects of "Simorgh of Darkness" once per turn.
+● If you Tribute Summon a DARK or WIND monster: You can Special Summon this card from the GY (if it was there when the monster was Tribute Summoned) or hand (even if not).
+● When a Spell/Trap Card or effect is activated (Quick Effect): You can Tribute 1 WIND Winged Beast monster; negate the activation, and if you do, destroy that card.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2000
+Archetype: Simorgh
+Present in Sets:
+- Rising Rampage

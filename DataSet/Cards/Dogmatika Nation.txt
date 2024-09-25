@@ -1,0 +1,16 @@
+Dogmatika Nation
+Card Type: Spell Card
+
+Description: Neither player can target "Dogmatika" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of "Dogmatika Nation" once per turn.
+● After damage calculation, if your "Dogmatika" monster battled an opponent's monster: Destroy that opponent's monster.
+● If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dogmatika
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

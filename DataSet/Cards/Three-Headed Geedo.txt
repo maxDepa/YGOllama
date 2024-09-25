@@ -1,0 +1,15 @@
+Three-Headed Geedo
+Card Type: Normal Monster
+
+Description: A three-headed nocturnal monster that is absolutely ruthless when fighting.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

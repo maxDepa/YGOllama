@@ -1,0 +1,13 @@
+Doodlebook - Uh uh uh!
+Card Type: Trap Card
+
+Description: When your Dinosaur monster is targeted for an attack: Negate that attack, then you can Special Summon 1 "Doodle Beast" monster from your GY. It cannot be destroyed by battle, also destroy it during the End Phase. If this card is in your GY, except the turn it was sent there: You can banish this card from your GY; add 1 Level 5 or higher Dinosaur monster from your Deck to your hand. You can only use each effect of "Doodlebook - Uh uh uh!" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Doodlebook
+Present in Sets:
+- Battles of Legend: Crystal Revenge

@@ -1,0 +1,15 @@
+Absolute End
+Card Type: Trap Card
+
+Description: Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

@@ -1,0 +1,13 @@
+SPYGAL Misty
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); reveal the top card of your opponent's Deck, and if you do, draw 1 card if it is a card of that type. Once per turn, during either player's turn: You can target 1 "SPYRAL Super Agent" you control and 1 monster your opponent controls; return both monsters to the hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: SPYRAL
+Present in Sets:
+- Raging Tempest

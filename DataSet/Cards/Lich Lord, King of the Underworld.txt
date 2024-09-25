@@ -1,0 +1,15 @@
+Lich Lord, King of the Underworld
+Card Type: Effect Monster
+
+Description: If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card effect and sent to the GY: Add this card from your GY to your hand.
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Gold Series 4: Pyramids Edition
+- Structure Deck: Lair of Darkness

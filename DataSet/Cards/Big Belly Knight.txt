@@ -1,0 +1,13 @@
+Big Belly Knight
+Card Type: Effect Monster
+
+Description: If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can Special Summon 1 Level 3 or lower monster from your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Premium Gold

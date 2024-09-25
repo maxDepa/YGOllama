@@ -1,0 +1,15 @@
+Induced Explosion
+Card Type: Trap Card
+
+Description: When a card(s) you control is destroyed by a Spell effect (except during the Damage Step): Target 1 card your opponent controls; destroy it. During either player's turn, except the turn this card was sent to the Graveyard, when a card(s) you control is destroyed by a Spell effect (except during the Damage Step): You can banish this card from your Graveyard, then target 1 card your opponent controls; destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

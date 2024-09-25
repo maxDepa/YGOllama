@@ -1,0 +1,14 @@
+Sinful Spoils of Subversion - Snake-Eye
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only activate 1 "Sinful Spoils of Subversion - Snake-Eye" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Nexus
+- Duelist Nexus

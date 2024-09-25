@@ -1,0 +1,19 @@
+Mythical Beast Cerberus
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 500 ATK for each Spell Counter on it. At the end of the Battle Phase, if this card battled, remove all Spell Counters on it.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Spellcaster's Judgment

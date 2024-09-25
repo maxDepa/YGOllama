@@ -1,0 +1,16 @@
+Fabled Dyf
+Card Type: Effect Monster
+
+Description: When a "Fabled" monster is sent from the hand to your Graveyard, you can Tribute this card to select that monster, and Special Summon it from the Graveyard.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 3
+Attack: 1400
+Defence: 1700
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

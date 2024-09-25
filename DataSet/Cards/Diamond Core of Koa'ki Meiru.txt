@@ -1,0 +1,13 @@
+Diamond Core of Koa'ki Meiru
+Card Type: Spell Card
+
+Description: Add 1 "Koa'ki Meiru" card from your Deck to your hand, except "Diamond Core of Koa'ki Meiru". You can banish this card from your Graveyard; for the rest of this turn, "Koa'ki Meiru" monsters you control cannot be destroyed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Primal Origin

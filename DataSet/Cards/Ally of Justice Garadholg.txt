@@ -1,0 +1,16 @@
+Ally of Justice Garadholg
+Card Type: Effect Monster
+
+Description: If this card battles a LIGHT monster, it gains 200 ATK during the Damage Step only.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

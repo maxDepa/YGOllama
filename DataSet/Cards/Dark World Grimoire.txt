@@ -1,0 +1,14 @@
+Dark World Grimoire
+Card Type: Spell Card
+
+Description: During your End Phase, if you discard a monster(s) to the Graveyard because you had more cards than your hand size limit: You can target 1 of those monsters; Special Summon that target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Phantom Darkness

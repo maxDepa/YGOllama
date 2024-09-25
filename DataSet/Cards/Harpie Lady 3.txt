@@ -1,0 +1,21 @@
+Harpie Lady 3
+Card Type: Effect Monster
+
+Description: (This card's name is always treated as "Harpie Lady".)
+An opponent's monster that battles this card cannot declare an attack during your opponent's next 2 turns.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: Harpie
+Present in Sets:
+- Dark Revelation Volume 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Rise of Destiny
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Lord of the Storm

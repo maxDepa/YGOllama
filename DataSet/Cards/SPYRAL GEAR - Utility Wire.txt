@@ -1,0 +1,13 @@
+SPYRAL GEAR - Utility Wire
+Card Type: Trap Card
+
+Description: If you control "SPYRAL Super Agent": Target 1 face-up card your opponent controls; place it on top of the Deck. You can only activate 1 "SPYRAL GEAR - Utility Wire" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: SPYRAL
+Present in Sets:
+- Raging Tempest

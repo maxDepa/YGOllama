@@ -1,0 +1,15 @@
+Mimir of the Nordic Ascendant
+Card Type: Effect Monster
+
+Description: Once per turn, at the start of your Standby Phase, if you control a "Nordic" monster and this card is in your GY: You can send 1 Spell from your hand to the GY; Special Summon this card.
+
+Type: Fairy
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 0
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

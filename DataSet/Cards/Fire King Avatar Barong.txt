@@ -1,0 +1,14 @@
+Fire King Avatar Barong
+Card Type: Effect Monster
+
+Description: If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Add 1 "Fire King" card from your Deck to your hand, except "Fire King Avatar Barong".
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Fire King
+Present in Sets:
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Fire Kings

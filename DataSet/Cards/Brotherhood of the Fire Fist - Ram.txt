@@ -1,0 +1,13 @@
+Brotherhood of the Fire Fist - Ram
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can discard 1 card, then target 1 "Fire Formation" Spell/Trap you control; Set 1 "Fire Formation" Spell/Trap with a different name directly from your Deck. If this card is Special Summoned by the effect of a "Fire Fist" monster: You can Set 1 "Fire Formation" Spell/Trap directly from your Deck, with a different name from the cards in your GY. You can only use each effect of "Brotherhood of the Fire Fist - Ram" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 200
+Archetype: Fire Fist
+Present in Sets:
+- Fists of the Gadgets

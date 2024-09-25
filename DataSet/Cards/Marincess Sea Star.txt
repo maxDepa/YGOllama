@@ -1,0 +1,14 @@
+Marincess Sea Star
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the GY, then target 1 "Marincess" monster you control; it gains 800 ATK until the end of this turn. You can use this effect of "Marincess Sea Star" up to twice per turn.
+
+Type: Cyberse
+Attribute: WATER
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: Marincess
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

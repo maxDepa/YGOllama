@@ -1,0 +1,13 @@
+Earthshattering Event
+Card Type: Spell Card
+
+Description: If a card(s) is sent from the Deck to the Graveyard: Target 1 card in either player's Graveyard; shuffle it into the Deck, also neither player can send cards from the Deck to the Graveyard for the rest of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Superstars

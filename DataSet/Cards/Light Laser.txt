@@ -1,0 +1,13 @@
+Light Laser
+Card Type: Spell Card
+
+Description: Equip only to a LIGHT Warrior-Type monster. Remove from play any monsters that battle with it at the end of Damage Step.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2

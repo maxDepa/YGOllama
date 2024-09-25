@@ -1,0 +1,15 @@
+Everlasting Alloy
+Card Type: Spell Card
+
+Description: If you control "Jinzo": Activate 1 of these effects;
+● All Machine monsters you currently control cannot be destroyed by your opponent's card effects, until the end of this turn.
+● When a card or effect is activated that targets a Machine monster(s) you control: Negate that effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Jinzo
+Present in Sets:
+- Legendary Duelists: Rage of Ra

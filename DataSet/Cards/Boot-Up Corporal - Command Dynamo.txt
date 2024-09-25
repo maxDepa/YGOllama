@@ -1,0 +1,13 @@
+Boot-Up Corporal - Command Dynamo
+Card Type: Effect Monster
+
+Description: You can target up to 2 Machine "Gadget" monsters you control or in your GY with different names; Special Summon this card from your hand, then equip those targets to this card (regardless of their Type). You can only use this effect of "Boot-Up Corporal - Command Dynamo" once per turn. Gains 1000 ATK for each monster equipped to this card by this effect.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Boot-Up
+Present in Sets:
+- Fists of the Gadgets

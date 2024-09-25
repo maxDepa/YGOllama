@@ -1,0 +1,15 @@
+Minefieldriller
+Card Type: Effect Monster
+
+Description: When this face-up card you control leaves the field and is still in your possession: You can target 1 Field Spell Card in your Graveyard; add that target to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Geargia Rampage Structure Deck
+- Machine Reactor Structure Deck

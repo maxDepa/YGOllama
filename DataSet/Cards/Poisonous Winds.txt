@@ -1,0 +1,13 @@
+Poisonous Winds
+Card Type: Spell Card
+
+Description: WIND monsters cannot be Special Summoned. All face-up WIND monsters on the field lose 500 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

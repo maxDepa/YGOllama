@@ -1,0 +1,13 @@
+Mementotlan Cranium Burst
+Card Type: Trap Card
+
+Description: While you control a "Memento" monster, your opponent's monsters that can attack must attack the "Memento" monster you control with the highest ATK (their choice, if tied). When your opponent activates a monster effect on the field (except during the Damage Step): You can target 1 "Mementoal Tecuhtlica - Combined Creation" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of "Mementotlan Cranium Burst" once per Chain.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Memento
+Present in Sets:
+- Valiant Smashers

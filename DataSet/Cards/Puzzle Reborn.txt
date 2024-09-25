@@ -1,0 +1,13 @@
+Puzzle Reborn
+Card Type: Trap Card
+
+Description: If exactly 1 monster you control (and no other cards) is destroyed by a card effect: Target that monster; Special Summon that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Super Starter: V for Victory

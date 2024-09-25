@@ -1,0 +1,16 @@
+Sprite's Blessing
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any LIGHT Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- 2022 Tin of the Pharaoh's Gods
+- Amazing Defenders
+- Invasion: Vengeance

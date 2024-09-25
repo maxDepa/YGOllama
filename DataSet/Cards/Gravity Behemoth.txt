@@ -1,0 +1,13 @@
+Gravity Behemoth
+Card Type: Effect Monster
+
+Description: If it is not the first turn of the Duel and there are no cards on the field, you can Normal Summon this card without Tributing. You can destroy all Field Spell Cards on the field. This card cannot attack the turn you activate this effect.
+
+Type: Beast
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight

@@ -1,0 +1,15 @@
+Hunter Dragon
+Card Type: Normal Monster
+
+Description: This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first it is vulnerable to a counter-attack.
+
+Type: Dragon
+Attribute: DARK
+Level: 3
+Attack: 1700
+Defence: 100
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duel Academy Box
+- Super Starter: Space-Time Showdown
+- Tactical Evolution

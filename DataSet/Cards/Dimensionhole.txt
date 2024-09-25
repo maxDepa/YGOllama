@@ -1,0 +1,16 @@
+Dimensionhole
+Card Type: Spell Card
+
+Description: Select 1 monster on your side of the field and remove it from play until your next Standby Phase. While the monster is removed from play, the Monster Card Zone of the selected monster cannot be used.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

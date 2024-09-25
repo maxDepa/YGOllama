@@ -1,0 +1,14 @@
+Unformed Void
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+Once per turn, during your opponent's Main Phase: You can detach 1 Xyz Material from this card; this card gains ATK and DEF equal to the total ATK of all face-up Xyz Monsters your opponent currently controls (this is a Quick Effect).
+
+Type: Aqua
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Number Hunters

@@ -1,0 +1,15 @@
+Giant Orc
+Card Type: Effect Monster
+
+Description: If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows

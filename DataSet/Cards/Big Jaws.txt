@@ -1,0 +1,18 @@
+Big Jaws
+Card Type: Effect Monster
+
+Description: At the end of the Battle Phase, if this card attacked: Banish it.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1800
+Defence: 300
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 7a
+- Generation Force
+- Star Pack 2013
+- Star Pack 2013

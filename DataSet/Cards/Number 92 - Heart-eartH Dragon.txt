@@ -1,0 +1,18 @@
+Number 92: Heart-eartH Dragon
+Card Type: XYZ Monster
+
+Description: 3 Level 9 monsters
+This card cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's End Phase: You can detach 1 Xyz Material from this card; banish all cards your opponent currently controls that were Normal or Special Summoned, or were Set, this turn. If this card is destroyed while it has Xyz Material: You can Special Summon this card from the Graveyard. When you do: It gains 1000 ATK for every card currently banished.
+
+Type: Dragon
+Attribute: DARK
+Level: 9
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- Cosmo Blazer
+- Cosmo Blazer
+- Cosmo Blazer

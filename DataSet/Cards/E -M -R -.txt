@@ -1,0 +1,14 @@
+E.M.R.
+Card Type: Trap Card
+
+Description: Tribute 1 Machine monster, then target 1 card on the field for every 1000 original ATK of the Tributed monster; destroy those cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

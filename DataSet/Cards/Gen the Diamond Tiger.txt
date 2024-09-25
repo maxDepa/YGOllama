@@ -1,0 +1,13 @@
+Gen the Diamond Tiger
+Card Type: Effect Monster
+
+Description: Once per turn, at the end of the Battle Phase: Return this card from the field to the hand. You can only use each of the following effects of "Gen the Diamond Tiger" once per turn. During your Main Phase: You can Special Summon 1 "Ken the Warrior Dragon" from your hand or Deck to your opponent's field in Defense Position. If this card is Special Summoned by the effect of "Ken the Warrior Dragon": Discard 1 card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Age of Overlord

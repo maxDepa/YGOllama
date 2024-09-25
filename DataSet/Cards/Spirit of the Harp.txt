@@ -1,0 +1,20 @@
+Spirit of the Harp
+Card Type: Normal Monster
+
+Description: A spirit that soothes the soul with the music of its heavenly harp.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Joey
+- Starter Deck: Xyz Symphony
+- Tournament Pack: 3rd Season

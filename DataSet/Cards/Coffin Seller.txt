@@ -1,0 +1,17 @@
+Coffin Seller
+Card Type: Trap Card
+
+Description: Each time a monster(s) is sent to your opponent's GY: Inflict 300 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)

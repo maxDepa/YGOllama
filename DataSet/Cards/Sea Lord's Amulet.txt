@@ -1,0 +1,13 @@
+Sea Lord's Amulet
+Card Type: Spell Card
+
+Description: Send this card to the Graveyard during your opponent's 3rd End Phase after activation. WATER monsters you control cannot be destroyed by your opponent's card effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Saga

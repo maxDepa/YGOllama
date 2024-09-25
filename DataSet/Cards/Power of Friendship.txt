@@ -1,0 +1,13 @@
+Power of Friendship
+Card Type: Skill Card
+
+Description: You take no effect damage from your opponent's card effects during your turn.
+
+Type: Tea Gardner
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

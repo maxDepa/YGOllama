@@ -1,0 +1,14 @@
+Divine Dragon Ragnarok
+Card Type: Normal Monster
+
+Description: A legendary dragon sent by the gods as their instrument. Legends say that if provoked, the whole world will sink beneath the sea.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

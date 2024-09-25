@@ -1,0 +1,18 @@
+Ally of Justice Clausolas
+Card Type: Normal Monster
+
+Description: A mighty monster in Mist Valley, and the ultimate weapon designed from Claiomh Solais. Its surprise attacks from above baffle invaders.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- 2-Player Starter Set
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Speed Duel: Battle City Box

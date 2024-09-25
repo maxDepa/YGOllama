@@ -1,0 +1,14 @@
+Genex Worker
+Card Type: Effect Monster
+
+Description: You can Tribute this card to Special Summon 1 "Genex" monster from your hand.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 1200
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 1
+- Duelist Revolution

@@ -1,0 +1,13 @@
+Clear Effector
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard as a Synchro Material: Draw 1 card. A Synchro Monster that used this card as a Synchro Material cannot be destroyed by card effects.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 900
+Archetype: //
+Present in Sets:
+- Duelist Saga

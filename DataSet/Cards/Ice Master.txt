@@ -1,0 +1,14 @@
+Ice Master
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 2 WATER monsters. Once per turn: You can target 1 face-up monster on the field; place an Ice Counter on that target. You can Tribute this card; destroy all monsters with an Ice Counter(s).
+
+Type: Spellcaster
+Attribute: WATER
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- The Duelist Genesis

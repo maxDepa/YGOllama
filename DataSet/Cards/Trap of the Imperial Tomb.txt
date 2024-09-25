@@ -1,0 +1,15 @@
+Trap of the Imperial Tomb
+Card Type: Trap Card
+
+Description: When a Zombie monster(s) is Special Summoned from your opponent's GY to your field: Target 2 cards on the field; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Zombie Horde

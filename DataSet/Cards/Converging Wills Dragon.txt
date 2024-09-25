@@ -1,0 +1,14 @@
+Converging Wills Dragon
+Card Type: Tuner Monster
+
+Description: Cannot be used as Synchro Material, except for the Synchro Summon of a "Majestic" monster. This card's name becomes "Majestic Dragon" while on the field or in the GY. When you draw this card: You can reveal it; Special Summon it from your hand, then, if you control a Level 8 or higher Dragon Synchro Monster, you can Special Summon 1 Level 1 Dragon monster from your Deck. You can only Special Summon "Converging Wills Dragon(s)" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Majestic
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

@@ -1,0 +1,17 @@
+Ragnaraika Bloom
+Card Type: Spell Card
+
+Description: Insect, Plant, and Reptile monsters on the field gain 300 ATK/DEF, also all other monsters on the field lose 300 ATK/DEF. During your Main Phase: You can activate 1 of these effects;
+● Add 1 "Ragnaraika" monster from your Deck to your hand, then discard 1 card.
+● Special Summon 1 of your "Ragnaraika" monsters from your hand, GY, or banishment, in Defense Position.
+You can only use this effect of "Ragnaraika Bloom" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ragnaraika
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

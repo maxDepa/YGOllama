@@ -1,0 +1,13 @@
+Metaphys Daedalus
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Metaphys" monster: You can banish all other face-up Special Summoned monsters on the field. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; banish 1 "Metaphys" card from your Deck, except "Metaphys Daedalus".
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 7
+Attack: 2600
+Defence: 1500
+Archetype: Metaphys
+Present in Sets:
+- Circuit Break

@@ -1,0 +1,17 @@
+Legacy of Yata-Garasu
+Card Type: Trap Card
+
+Description: Activate 1 of these effects:
+● Draw 1 card.
+● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Premium Pack (TCG)
+- Premium Pack (TCG)

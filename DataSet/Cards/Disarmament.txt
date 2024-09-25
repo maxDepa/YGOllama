@@ -1,0 +1,14 @@
+Disarmament
+Card Type: Trap Card
+
+Description: Destroy all Equip Cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

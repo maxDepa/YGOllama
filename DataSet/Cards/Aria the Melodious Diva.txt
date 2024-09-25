@@ -1,0 +1,16 @@
+Aria the Melodious Diva
+Card Type: Effect Monster
+
+Description: While this Special Summoned card is on the field, "Melodious" monsters you control cannot be targeted by card effects, or be destroyed by battle.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

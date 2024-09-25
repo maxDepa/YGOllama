@@ -1,0 +1,15 @@
+Gem-Knight Lady Rose Diamond
+Card Type: Fusion Monster
+
+Description: 1 "Gem-Knight" monster + 1 Fairy monster
+Once per opponent's turn, the first time a "Gem-Knight" monster(s) you control would be destroyed by card effect, it is not destroyed. During your turn, when your opponent activates a monster effect (Quick Effect): You can banish 1 "Gem-Knight" card from your GY, then target 1 face-up card your opponent controls; destroy it.
+
+Type: Fairy
+Attribute: EARTH
+Level: 8
+Attack: 2700
+Defence: 2400
+Archetype: Gem-
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

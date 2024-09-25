@@ -1,0 +1,13 @@
+Xyz Territory
+Card Type: Spell Card
+
+Description: When an Xyz Monster battles another monster, that Xyz Monster gains 200 ATK & DEF x its Rank, during damage calculation only. If this face-up card on the field would be destroyed by a card effect, you can detach 1 Xyz Material from a monster you control instead.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

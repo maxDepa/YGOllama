@@ -1,0 +1,14 @@
+A.I. Shadow
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 "@Ignister" monster you control. That monster gains 800 ATK, also all monsters your opponent controls must attack that monster you control, if able. If this face-up card in its owner's Spell & Trap Zone has left the field because of an opponent's effect, and is now in the GY or banished: Draw 1 card. You can only use this effect of "A.I. Shadow" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

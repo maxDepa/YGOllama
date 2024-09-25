@@ -1,0 +1,15 @@
+Stealthroid
+Card Type: Effect Monster
+
+Description: If this card attacks, destroy 1 Spell or Trap Card at the end of the Battle Phase if you control another "roid" monster.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 0
+Archetype: Roid
+Present in Sets:
+- Gladiator's Assault
+- OTS Tournament Pack 13 (POR)
+- Speed Duel GX: Midterm Paradox

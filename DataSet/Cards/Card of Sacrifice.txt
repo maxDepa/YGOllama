@@ -1,0 +1,13 @@
+Card of Sacrifice
+Card Type: Trap Card
+
+Description: Draw 2 cards, if the combined ATK of all your face-up Attack Position monsters (minimum 2) is less than the ATK of your opponent's face-up monster with the lowest ATK. You cannot Summon or change Battle Position the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3

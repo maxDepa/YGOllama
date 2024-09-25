@@ -1,0 +1,14 @@
+Water Dragon Cluster
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned with the effect of a "Bonding" Spell/Trap. If this card is Special Summoned: You can activate this effect; Effect Monsters your opponent currently controls cannot activate their effects for the rest of this turn, also change their ATK to 0 until the end of this turn. (Quick Effect): You can Tribute this card; Special Summon 2 "Water Dragon" from your hand and/or Deck in Defense Position, ignoring their Summoning conditions.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 10
+Attack: 2800
+Defence: 2600
+Archetype: Bonding
+Present in Sets:
+- Legendary Duelists
+- Speed Duel GX: Midterm Paradox

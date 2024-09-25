@@ -1,0 +1,13 @@
+Psychic Snail
+Card Type: Effect Monster
+
+Description: You can pay 800 Life Points and select 1 other face-up Psychic-Type monster you control. That monster can attack twice during each Battle Phase. This card cannot attack the turn you activate this effect.
+
+Type: Psychic
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

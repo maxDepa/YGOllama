@@ -1,0 +1,15 @@
+Infinitrack Fortress Megaclops
+Card Type: Link Monster
+
+Description: 3 Xyz Monsters
+Unaffected by other monsters' effects, except those of Xyz Monsters. Cannot be destroyed by battle, except with an Xyz Monster. You can target 1 Xyz Monster in your GY and 1 card your opponent controls; Special Summon that monster from your GY, and if you do, attach that opponent's card to it as material, also for the rest of this turn, any damage your opponent takes is halved. You can only use this effect of "Infinitrack Fortress Megaclops" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 0
+Attack: 4000
+Defence: 0
+Archetype: Infinitrack
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

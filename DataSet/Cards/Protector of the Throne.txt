@@ -1,0 +1,15 @@
+Protector of the Throne
+Card Type: Normal Monster
+
+Description: While the king is away, this queen protects his throne with a mighty defense.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,13 @@
+Traffic Ghost
+Card Type: Link Monster
+
+Description: 3 monsters
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Powercode Link

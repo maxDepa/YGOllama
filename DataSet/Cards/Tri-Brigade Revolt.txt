@@ -1,0 +1,16 @@
+Tri-Brigade Revolt
+Card Type: Trap Card
+
+Description: Special Summon a number of your Beast, Beast-Warrior, and/or Winged Beast monsters, that are banished and/or in your GY, but negate their effects, then, immediately after this effect resolves, Link Summon 1 "Tri-Brigade" Link Monster using only those monsters. You can only activate 1 "Tri-Brigade Revolt" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tri-Brigade
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Phantom Rage

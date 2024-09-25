@@ -1,0 +1,14 @@
+Gagagawind
+Card Type: Spell Card
+
+Description: Special Summon 1 "Gagaga" monster from your hand as a Level 4 monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gagaga
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

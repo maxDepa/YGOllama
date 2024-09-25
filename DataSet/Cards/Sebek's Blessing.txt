@@ -1,0 +1,15 @@
+Sebek's Blessing
+Card Type: Spell Card
+
+Description: If your monster inflicts battle damage to your opponent by a direct attack: Gain the same amount of LP.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters
+- Structure Deck: Dinosaur's Rage
+- Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards

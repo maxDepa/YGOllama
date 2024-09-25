@@ -1,0 +1,13 @@
+Amores of Prophecy
+Card Type: Effect Monster
+
+Description: Once per turn: You can reveal 1 "Spellbook" Spell Card in your hand; Special Summon 1 Level 4 or lower Spellcaster-Type monster from your hand.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 2000
+Archetype: Spellbook
+Present in Sets:
+- Return of the Duelist

@@ -1,0 +1,14 @@
+Morphtronic Videon
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: This card gains 800 ATK for each Equip Card equipped to it. 
+● While in Defense Position: This card gains 800 DEF for each Equip Card equipped to it.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Morphtronic
+Present in Sets:
+- Raging Battle

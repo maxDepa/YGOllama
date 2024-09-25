@@ -1,0 +1,16 @@
+Mist Valley Shaman
+Card Type: Tuner Monster
+
+Description: Once per turn, you can return 1 other monster you control to the hand, to have this card gain 500 ATK until the End Phase.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 1200
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

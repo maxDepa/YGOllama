@@ -1,0 +1,13 @@
+Phantom Bounzer
+Card Type: Effect Monster
+
+Description: If this card on the field is destroyed and sent to the Graveyard: You can add 2 "Bounzer" cards from your Deck to your hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: Bounzer
+Present in Sets:
+- Galactic Overlord

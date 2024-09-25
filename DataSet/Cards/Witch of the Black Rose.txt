@@ -1,0 +1,16 @@
+Witch of the Black Rose
+Card Type: Tuner Monster
+
+Description: Cannot be Special Summoned. If this card is Normal Summoned, and you control no other cards: Draw 1 card and show it, then, if it is not a monster, send it to the GY, also destroy this card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Rose Dragon
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

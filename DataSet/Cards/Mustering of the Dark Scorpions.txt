@@ -1,0 +1,16 @@
+Mustering of the Dark Scorpions
+Card Type: Spell Card
+
+Description: If you control a face-up "Don Zaloog": You can Special Summon any number of "Dark Scorpion" monsters from your hand, but only 1 copy of each.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Scorpion
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine

@@ -1,0 +1,14 @@
+Tuning Magician
+Card Type: Tuner Monster
+
+Description: If you have 2 "Magician" cards in your Pendulum Zones, while this card is in your hand or Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Tuning Magician" once per turn. If this card is Normal or Special Summoned: Your opponent gains 400 LP, then you take 400 damage.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Breakers of Shadow
+- Pendulum Evolution

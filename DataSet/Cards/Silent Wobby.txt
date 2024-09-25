@@ -1,0 +1,13 @@
+Silent Wobby
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can Special Summon this card from your hand to your opponent's side of the field. When Summoned this way: Draw 1 card, and if you do, your opponent gains 2000 Life Points. You can only use this effect of "Silent Wobby" once per turn. The hand size limit of this card's controller becomes 3.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Premium Gold

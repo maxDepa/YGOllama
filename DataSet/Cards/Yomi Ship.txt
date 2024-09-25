@@ -1,0 +1,21 @@
+Yomi Ship
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Duelists
+- Pharaonic Guardian
+- Speed Duel Demo Deck 2020
+- Speed Duel Tournament Pack 5
+- Speed Duel: Attack from the Deep
+- Starter Deck: Kaiba Reloaded
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,13 @@
+Fire Formation - Domei
+Card Type: Spell Card
+
+Description: When this card is activated: You can Ritual Summon 1 Beast-Warrior Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. If this face-up card is sent from the Spell & Trap Zone to the GY: You can target 1 "Fire Fist" monster in your GY; Special Summon it. You can only use this effect of "Fire Formation - Domei" once per turn. You can only activate 1 "Fire Formation - Domei" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- Fists of the Gadgets

@@ -1,0 +1,13 @@
+Wattcastle
+Card Type: Spell Card
+
+Description: Any monster that attacks a "Watt" monster loses 1000 ATK after damage calculation.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Starstrike Blast

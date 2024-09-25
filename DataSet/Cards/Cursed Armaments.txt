@@ -1,0 +1,17 @@
+Cursed Armaments
+Card Type: Spell Card
+
+Description: The equipped monster loses 600 ATK for each monster you control. When this card is sent from the field to the Graveyard: You can target 1 face-up monster your opponent controls; equip it with this card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Revolution

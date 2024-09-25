@@ -1,0 +1,21 @@
+Harpie's Pet Baby Dragon
+Card Type: Effect Monster
+
+Description: This card gains effects based on the number of "Harpie" monsters you control, except "Harpie's Pet Baby Dragon".
+● 1 or more: Your opponent cannot target "Harpie" monsters you control for attacks, except "Harpie's Pet Baby Dragon".
+● 2 or more: Double the original ATK and DEF of this card.
+● 3 or more: Once per turn: You can target 1 card your opponent controls; destroy that target.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Structure Deck: Lord of the Storm

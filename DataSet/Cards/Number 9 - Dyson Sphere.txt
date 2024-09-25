@@ -1,0 +1,16 @@
+Number 9: Dyson Sphere
+Card Type: XYZ Monster
+
+Description: 2 Level 9 monsters
+Once per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.
+
+Type: Machine
+Attribute: LIGHT
+Level: 9
+Attack: 2800
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Abyss Rising
+- Maximum Gold: El Dorado

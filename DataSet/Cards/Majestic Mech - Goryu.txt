@@ -1,0 +1,18 @@
+Majestic Mech - Goryu
+Card Type: Effect Monster
+
+Description: You can Tribute Summon (but not Set) this card with 1 Tribute. If Summoned this way, during the End Phase: Send it to the Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2900
+Defence: 1800
+Archetype: Majestic
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice
+- Rise of the Dragon Lords Structure Deck
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

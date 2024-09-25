@@ -1,0 +1,15 @@
+Flying Fish
+Card Type: Normal Monster
+
+Description: Three wishes are granted to those fortunate enough to see this monster in flight.
+
+Type: Fish
+Attribute: WIND
+Level: 4
+Attack: 800
+Defence: 500
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

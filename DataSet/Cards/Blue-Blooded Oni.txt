@@ -1,0 +1,13 @@
+Blue-Blooded Oni
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: It is changed to Defense Position. Once per turn: You can detach 1 Xyz Material you control to target 1 Level 4 Zombie-Type monster in your Graveyard; Special Summon that target.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Generation Force

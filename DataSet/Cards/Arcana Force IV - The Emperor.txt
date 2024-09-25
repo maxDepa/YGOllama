@@ -1,0 +1,13 @@
+Arcana Force IV - The Emperor
+Card Type: Effect Monster
+
+Description: When this card is Summoned, toss a coin: ● Heads: All "Arcana Force" monsters you control gain 500 ATK. ● Tails: All "Arcana Force" monsters you control lose 500 ATK.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction

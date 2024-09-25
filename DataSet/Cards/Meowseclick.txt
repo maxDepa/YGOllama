@@ -1,0 +1,14 @@
+Meowseclick
+Card Type: Effect Monster
+
+Description: If a Field Spell Card is activated: You can Special Summon this card from your hand, then, if face-up cards are in both Field Zones, this card cannot be destroyed by battle or card effects this turn. You can only use this effect of "Meowseclick" once per turn. During your turn, the effects of the face-up card in your opponent's Field Zone are negated. During your opponent's turn, the effects of the face-up card in your Field Zone are negated.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1100
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

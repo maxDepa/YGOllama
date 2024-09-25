@@ -1,0 +1,17 @@
+Strategist of the Ice Barrier
+Card Type: Effect Monster
+
+Description: Once per turn, you can send 1 "Ice Barrier" monster from your hand to the Graveyard to draw 1 card.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

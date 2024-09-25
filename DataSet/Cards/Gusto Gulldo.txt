@@ -1,0 +1,14 @@
+Gusto Gulldo
+Card Type: Tuner Monster
+
+Description: When this card is sent from the field to the Graveyard: You can Special Summon 1 Level 2 or lower "Gusto" monster from your Deck.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Satellarknight Deneb
+Card Type: Effect Monster
+
+Description: If this card is Summoned: You can add 1 "tellarknight" monster from your Deck to your hand, except "Satellarknight Deneb". You can only use this effect of "Satellarknight Deneb" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Tellarknight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

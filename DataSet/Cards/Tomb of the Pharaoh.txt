@@ -1,0 +1,16 @@
+Tomb of the Pharaoh
+Card Type: Skill Card
+
+Description: [At the start of the Duel, place this card in your Field Zone and flip it over.]
+
+This card's name is always treated as "Necrovalley".
+All "Gravekeeper's" monsters on the field gain 200 ATK/DEF.
+
+Type: Ishizu
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Arena of Lost Souls

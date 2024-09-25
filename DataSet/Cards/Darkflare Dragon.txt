@@ -1,0 +1,15 @@
+Darkflare Dragon
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can send 1 Dragon monster from your hand and 1 Dragon monster from your Deck to the GY, then target 1 card in either GY; banish that target.
+
+Type: Dragon
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dragons Collide Structure Deck
+- Premium Gold
+- Toon Chaos

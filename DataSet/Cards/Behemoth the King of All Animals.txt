@@ -1,0 +1,16 @@
+Behemoth the King of All Animals
+Card Type: Effect Monster
+
+Description: This card can be Normal Summoned or Set with 1 Tribute. In that case, the original ATK of this card becomes 2000. When this card is Tribute Summoned, you can return from your Graveyard to the owner's hand a number of Beast-Type monsters equal to the number of Tributed monsters.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Speed Duel: Battle City Box

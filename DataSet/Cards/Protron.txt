@@ -1,0 +1,13 @@
+Protron
+Card Type: Normal Monster
+
+Description: Ancestral species found in electronic space. No one knows how much information it holds.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Flames of Destruction

@@ -1,0 +1,13 @@
+Nidhogg, Generaider Boss of Ice
+Card Type: Effect Monster
+
+Description: You can only control 1 "Nidhogg, Generaider Boss of Ice". When your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 "Generaider" monster or 1 Wyrm monster; negate the Summon, and if you do, destroy that monster(s). You can only use this effect of "Nidhogg, Generaider Boss of Ice" once per turn.
+
+Type: Wyrm
+Attribute: WATER
+Level: 9
+Attack: 2100
+Defence: 2600
+Archetype: Generaider
+Present in Sets:
+- Mystic Fighters

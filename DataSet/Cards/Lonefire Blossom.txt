@@ -1,0 +1,25 @@
+Lonefire Blossom
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 face-up Plant monster; Special Summon 1 Plant monster from your Deck.
+
+Type: Plant
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Astral Pack Four
+- Champion Pack: Game Seven
+- Fusion Enforcers
+- Mystic Fighters
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Phantom Darkness
+- Premium Gold
+- Secret Slayers
+- Structure Deck: Beware of Traptrix
+- Yu-Gi-Oh! Advent Calendar (2018)

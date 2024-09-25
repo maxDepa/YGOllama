@@ -1,0 +1,14 @@
+Constellar Star Chart
+Card Type: Spell Card
+
+Description: Once per turn, when a "Constellar" Xyz Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can draw 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

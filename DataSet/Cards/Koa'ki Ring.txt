@@ -1,0 +1,13 @@
+Koa'ki Ring
+Card Type: Spell Card
+
+Description: Reveal 1 "Iron Core of Koa'ki Meiru" in your hand to select 1 face-up monster on the field. Destroy that monster, and both players take 1000 damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Starstrike Blast

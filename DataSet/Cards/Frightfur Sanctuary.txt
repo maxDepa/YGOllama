@@ -1,0 +1,14 @@
+Frightfur Sanctuary
+Card Type: Spell Card
+
+Description: Activate this card by discarding 1 card and sending 2 "Frightfur" monsters from your Extra Deck to the Graveyard. All Fusion Monsters you control are also treated as "Frightfur" monsters. If this card is sent to the Graveyard: You can target 1 "Frightfur" Fusion Monster in your Graveyard; return it to the Extra Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Frightfur
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

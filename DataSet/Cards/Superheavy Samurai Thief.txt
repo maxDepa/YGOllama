@@ -1,0 +1,16 @@
+Superheavy Samurai Thief
+Card Type: Effect Monster
+
+Description: If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except "Superheavy Samurai" monsters. You can Tribute this card, then activate 1 of these effects;
+● Destroy 1 card in your opponent's Spell & Trap Zone, then you can Set the destroyed Spell/Trap Card on your side of the field.
+● Destroy 1 card in your opponent's Pendulum Zone, then you can place the destroyed card in your Pendulum Zone.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 1000
+Defence: 1000
+Archetype: Superheavy
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

@@ -1,0 +1,13 @@
+Psychic Trigger
+Card Type: Trap Card
+
+Description: Activate only while your Life Points are lower than your opponent's. Select 2 Psychic-Type monsters in your Graveyard. Remove them from play and draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

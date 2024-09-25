@@ -1,0 +1,13 @@
+Made to Order Mermaid Outfit Outfitter
+Card Type: Spell Card
+
+Description: Target 1 card in your opponent's GY; banish it, then you can add 1 card from your Deck to your hand with the same name as that banished card. You can only activate 1 "Made to Order Mermaid Outfit Outfitter" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,17 @@
+Majestic Mech - Ohka
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1400
+Archetype: Majestic
+Present in Sets:
+- Champion Pack: Game Six
+- Dark Revelation Volume 4
+- Demo Pack
+- Enemy of Justice
+- Enemy of Justice

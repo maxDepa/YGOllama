@@ -1,0 +1,16 @@
+Sinister Yorishiro
+Card Type: Trap Card
+
+Description: Each turn, 1 Level 5 or higher Fiend monster you Normal Summon can be Summoned without Tributing. If exactly 1 Normal Summoned/Set Level 5 or higher Fiend monster (and no other cards) would be destroyed, you can send this card to the GY instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Pendulum Domination Structure Deck
+- Shadow Specters
+- Structure Deck: Lair of Darkness

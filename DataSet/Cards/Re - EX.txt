@@ -1,0 +1,14 @@
+Re: EX
+Card Type: Effect Monster
+
+Description: If this card battles a monster in the Extra Monster Zone, it gains 800 ATK and DEF during the Damage Step only.
+
+Type: Dinosaur
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

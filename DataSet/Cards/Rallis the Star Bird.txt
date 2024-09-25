@@ -1,0 +1,13 @@
+Rallis the Star Bird
+Card Type: Effect Monster
+
+Description: This card gains ATK equal to the Level of the monster that it battles x 200 during the Damage Step only. If this card attacks, it is removed from play at the end of the Damage Step and returned to your side of the field in face-up Attack Position at the beginning of your next turn's Battle Phase.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Power of the Duelist

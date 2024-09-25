@@ -1,0 +1,15 @@
+Galaxy Mirror Sage
+Card Type: Flip Effect Monster
+
+Description: FLIP: You gain 500 LP for each "Galaxy" monster in your Graveyard.
+When this card is destroyed and sent from the field to the Graveyard after being flipped face-up: You can Special Summon 1 Level 4 or lower "Galaxy" monster from your Deck or Graveyard in face-down Defense Position. Banish it when it leaves the field.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin

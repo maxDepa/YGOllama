@@ -1,0 +1,13 @@
+Koa'ki Meiru Rooklord
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. You can Tribute Summon this card by Tributing 1 "Koa'ki Meiru" monster. When this card is Normal Summoned, you can remove from play 1 "Koa'ki Meiru" card in your Graveyard to destroy up to 2 cards your opponent controls.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2800
+Defence: 2200
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Stardust Overdrive

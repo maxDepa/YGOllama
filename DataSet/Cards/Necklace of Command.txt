@@ -1,0 +1,19 @@
+Necklace of Command
+Card Type: Spell Card
+
+Description: When a monster you control that's equipped with this card is destroyed by battle, and this card is sent to the Graveyard, you can either:
+● Draw 1 card. OR
+● Discard 1 random card from your opponent's hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- Starter Deck: Jaden Yuki
+- Structure Deck: Blaze of Destruction

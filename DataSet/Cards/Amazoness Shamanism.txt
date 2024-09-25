@@ -1,0 +1,14 @@
+Amazoness Shamanism
+Card Type: Trap Card
+
+Description: Destroy all face-up "Amazoness" monsters you control. Then, you can Special Summon any number of Level 4 or lower "Amazoness" monsters from your Graveyard in face-up Defense Position, up to the number of monsters destroyed by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- Duelist Revolution
+- OTS Tournament Pack 20

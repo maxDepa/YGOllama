@@ -1,0 +1,54 @@
+Polymerization
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Advanced Demo Deck Extra Pack
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 4
+- Duelist Pack: Jaden Yuki
+- Duelist Pack: Kaiba
+- Duelist Pack: Yugi
+- Fusion Enforcers
+- HERO Strike Structure Deck
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Decks II
+- Legendary Hero Decks
+- Master of Pendulum Structure Deck
+- Maximum Gold
+- Retro Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Midterm Paradox
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Starter Deck: Joey
+- Structure Deck: Rokket Revolt
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

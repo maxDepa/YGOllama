@@ -1,0 +1,13 @@
+Dragon Mastery
+Card Type: Spell Card
+
+Description: Each monster you control that is equipped with a "Dragunity" monster(s) gains 500 ATK. Once per turn, you can select 1 face-up monster you control, and equip it with 1 Dragon-Type "Dragunity" monster from your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck

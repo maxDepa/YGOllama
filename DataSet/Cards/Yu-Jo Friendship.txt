@@ -1,0 +1,13 @@
+Yu-Jo Friendship
+Card Type: Spell Card
+
+Description: Offer your opponent a handshake. If they accept your handshake, each player's Life Points become half the combined Life Points of both players. If you have "Unity" in your hand and show it to your opponent, they must accept the handshake.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shonen Jump May 2006 subscription bonus

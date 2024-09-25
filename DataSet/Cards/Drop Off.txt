@@ -1,0 +1,18 @@
+Drop Off
+Card Type: Trap Card
+
+Description: When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box

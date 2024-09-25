@@ -1,0 +1,14 @@
+Mimighoul Master
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle or card effects while your opponent controls any face-down monsters or you control a "Mimighoul" monster other than "Mimighoul Master". You can only use each of the following effects of "Mimighoul Master" once per turn. If this card is Normal or Special Summoned: You can add 1 "Mimighoul" monster from your Deck to your hand, except "Mimighoul Master". During your opponent's Main Phase (Quick Effect): You can change 1 face-down monster on the field to face-up Attack or Defense Position.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Mimighoul
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

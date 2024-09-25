@@ -1,0 +1,14 @@
+Morphtronic Lantron
+Card Type: Tuner Monster
+
+Description: ● While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.
+● While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Morphtronic
+Present in Sets:
+- Extreme Victory

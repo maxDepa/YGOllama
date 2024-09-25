@@ -1,0 +1,12 @@
+Dokuroizo the Grim Reaper
+Card Type: Normal Monster
+
+Description: A messenger of doom that steals a soul with a single blow.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 1200
+Archetype: //
+Present in Sets:

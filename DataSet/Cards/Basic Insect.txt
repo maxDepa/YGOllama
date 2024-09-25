@@ -1,0 +1,17 @@
+Basic Insect
+Card Type: Normal Monster
+
+Description: Usually found traveling in swarms, this creature's ideal environment is the forest.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Ultimate Predators

@@ -1,0 +1,13 @@
+End of the Line
+Card Type: Trap Card
+
+Description: If your LP are lower than 100: Draw 2 cards, then, if your LP are lower than 10, draw 2 additional cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle of Chaos

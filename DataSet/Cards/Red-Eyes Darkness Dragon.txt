@@ -1,0 +1,19 @@
+Red-Eyes Darkness Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Red-Eyes B. Dragon" and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard.
+
+Type: Dragon
+Attribute: DARK
+Level: 9
+Attack: 2400
+Defence: 2000
+Archetype: Red-Eyes
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 1
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Dragon's Roar
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

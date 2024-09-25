@@ -1,0 +1,17 @@
+Troop Dragon
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the GY: Special Summon 1 "Troop Dragon" from your Deck.
+
+Type: Dragon
+Attribute: WIND
+Level: 2
+Attack: 700
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Scars of Battle

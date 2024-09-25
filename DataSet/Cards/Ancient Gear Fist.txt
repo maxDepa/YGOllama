@@ -1,0 +1,13 @@
+Ancient Gear Fist
+Card Type: Spell Card
+
+Description: Equip only to an "Ancient Gear" monster. At the end of the Damage Step, if the equipped monster battled a monster and is still on the field: Destroy the monster it battled.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Structure Deck: Machine Re-Volt

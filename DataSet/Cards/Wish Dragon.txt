@@ -1,0 +1,13 @@
+Wish Dragon
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 2 "Dragon Tokens" (Dragon/EARTH/Level 1/ATK 0/DEF 0), also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Level 5 or higher Dragon monsters. You can only use this effect of "Wish Dragon" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 2
+Attack: 700
+Defence: 100
+Archetype: //
+Present in Sets:
+- Cyberstorm Access

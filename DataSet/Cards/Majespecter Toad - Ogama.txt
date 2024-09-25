@@ -1,0 +1,14 @@
+Majespecter Toad - Ogama
+Card Type: Pendulum Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can Set 1 "Majespecter" Spell/Trap Card directly from your Deck, but it cannot activate this turn. You can only use this effect of "Majespecter Toad - Ogama" once per turn. Cannot be targeted or destroyed by your opponent's card effects.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 500
+Archetype: Majespecter
+Present in Sets:
+- Breakers of Shadow
+- Maze of Millennia

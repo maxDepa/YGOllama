@@ -1,0 +1,13 @@
+Unlocking the Power
+Card Type: Skill Card
+
+Description: When you Special Summon "Uria, Lord of Searing Flames", "Hamon, Lord of Striking Thunder", or "Raviel, Lord of Phantasms" using the method mentioned on that card, you can use face-up Fiend monsters, Continuous Spells, and/or Continuous Traps you control, regardless of the card type the text requires.
+
+Type: Kagemaru
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,17 @@
+D/D Proud Ogre
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can pay 500 LP, then target 1 "D/D" monster you control; it gains 500 ATK (even if this card leaves the field). Unless you have a "D/D" card in your other Pendulum Zone, this card's Pendulum Scale becomes 5.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can Special Summon 1 face-up DARK Pendulum Monster from your Extra Deck, but it has its effects negated, also you cannot Special Summon monsters for the rest of this turn, except "D/D" monsters.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1500
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

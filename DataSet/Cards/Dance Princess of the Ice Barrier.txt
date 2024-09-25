@@ -1,0 +1,16 @@
+Dance Princess of the Ice Barrier
+Card Type: Effect Monster
+
+Description: Once per turn, if you control another face-up "Ice Barrier" monster, you can reveal any number of "Ice Barrier" monsters in your hand to select an equal number of Set Spell/Trap cards your opponent controls. Return the selected Set Spell/Trap cards your opponent controls to the hand.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 900
+Archetype: Ice Barrier
+Present in Sets:
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Starstrike Blast
+- Structure Deck: Freezing Chains

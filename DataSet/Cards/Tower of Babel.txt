@@ -1,0 +1,16 @@
+Tower of Babel
+Card Type: Trap Card
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Spellcaster's Command Structure Deck

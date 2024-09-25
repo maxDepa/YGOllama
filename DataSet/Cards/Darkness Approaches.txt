@@ -1,0 +1,16 @@
+Darkness Approaches
+Card Type: Spell Card
+
+Description: Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

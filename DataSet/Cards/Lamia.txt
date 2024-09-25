@@ -1,0 +1,13 @@
+Lamia
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Level 8 Reptile monster from your Deck to your hand. If this card is banished: You can target 1 Reptile monster you control; it cannot be destroyed by card effects until the end of the next turn. You can only use each effect of "Lamia" once per turn.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

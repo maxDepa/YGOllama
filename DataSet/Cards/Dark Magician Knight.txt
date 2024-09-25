@@ -1,0 +1,15 @@
+Dark Magician Knight
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned with "Knight's Title" and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Yu-Gi-Oh! Double Pack promotional cards
+- Yu-Gi-Oh! Reshef of Destruction promotional cards

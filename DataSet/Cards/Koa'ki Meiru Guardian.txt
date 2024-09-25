@@ -1,0 +1,17 @@
+Koa'ki Meiru Guardian
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the GY or reveal 1 Rock monster in your hand. When a monster effect is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that monster.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Pack Collection Tin 2009
+- Raging Battle
+- Secret Slayers

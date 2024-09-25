@@ -1,0 +1,19 @@
+Ancient Rules
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 5 or higher Normal Monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven
+- Duelist League 13 participation cards
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Starter Deck: Yugi Reloaded
+- Strike of Neos
+- Strike of Neos

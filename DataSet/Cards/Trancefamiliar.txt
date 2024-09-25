@@ -1,0 +1,14 @@
+Trancefamiliar
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 monster you control; move that target to another of your Main Monster Zones.
+
+Type: Psychic
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

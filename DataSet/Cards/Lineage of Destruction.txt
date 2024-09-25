@@ -1,0 +1,13 @@
+Lineage of Destruction
+Card Type: Trap Card
+
+Description: Activate only during a turn in which you destroyed a Defense Position monster your opponent controlled. Select 1 Level 8 monster you control. During this turn, the selected monster can attack twice.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

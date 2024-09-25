@@ -1,0 +1,15 @@
+Adamancipator Risen - Raptite
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Rock monster in Defense Position, also place the rest on the bottom of your Deck in any order. During your opponent's turn, if a WIND monster is in your GY (Quick Effect): You can target 1 card in your opponent's GY; banish it. You can only use each effect of "Adamancipator Risen - Raptite" once per turn.
+
+Type: Rock
+Attribute: WIND
+Level: 6
+Attack: 2200
+Defence: 2800
+Archetype: Adamancipator
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Secret Slayers

@@ -1,0 +1,14 @@
+Number 69: Heraldry Crest
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+When this card is Special Summoned: Negate the effects of all other face-up Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name and original effect become the same as that monster. You can only use this effect of "Number 69: Heraldry Crest" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 4
+Attack: 2600
+Defence: 1400
+Archetype: Heraldry
+Present in Sets:
+- Lord of the Tachyon Galaxy

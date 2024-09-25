@@ -1,0 +1,14 @@
+Predaplant Heliamphorhynchus
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster with a Predator Counter: You can Special Summon this card from your hand. If this card in its owner's possession is destroyed by your opponent's card: You can target 1 DARK Dragon or 1 DARK Plant monster in your GY, except "Predaplant Heliamphorhynchus"; Special Summon it. You can only use each effect of "Predaplant Heliamphorhynchus" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 8
+Attack: 1200
+Defence: 2400
+Archetype: Predaplant
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

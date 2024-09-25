@@ -1,0 +1,13 @@
+Thousand-Eyes Jellyfish
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Ocean's Keeper". Your opponent must play with their hand revealed.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 300
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Tactical Evolution

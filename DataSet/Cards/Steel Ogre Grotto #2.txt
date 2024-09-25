@@ -1,0 +1,16 @@
+Steel Ogre Grotto #2
+Card Type: Normal Monster
+
+Description: A mechanized iron doll with tremendous strength.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 2200
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

@@ -1,0 +1,18 @@
+Double Iris Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 DARK Spellcaster-Type monster you control; apply this effect to it, then destroy this card. Once applied, double any battle damage that monster inflicts to your opponent this turn if it battles an opponent's monster.
+
+[ Monster Effect ] 
+(This card is always treated as a "Pendulum Dragon" card.)
+If this card is destroyed by battle or card effect: You can add 1 "Pendulumgraph" card from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Magician
+Present in Sets:
+- Pendulum Evolution

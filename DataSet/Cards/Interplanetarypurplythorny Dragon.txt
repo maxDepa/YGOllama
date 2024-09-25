@@ -1,0 +1,18 @@
+Interplanetarypurplythorny Dragon
+Card Type: Effect Monster
+
+Description: If a monster you control is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon this card from your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Astral Pack Two
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Order of Chaos
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Seto Kaiba

@@ -1,0 +1,14 @@
+Anti Raigeki
+Card Type: Trap Card
+
+Description: When your opponent activates "Raigeki": Negate its effect, and if you do, destroy all monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Anti
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Tournament Pack: 3rd Season

@@ -1,0 +1,15 @@
+Cards of the Red Stone
+Card Type: Spell Card
+
+Description: Send 1 Level 7 "Red-Eyes" monster from your hand to the Graveyard; draw 2 cards, then you can send 1 Level 7 "Red-Eyes" monster from your Deck to the Graveyard. You can only activate 1 "Cards of the Red Stone" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Clash of Rebellions
+- Legendary Decks II
+- Legendary Duelists: Season 1

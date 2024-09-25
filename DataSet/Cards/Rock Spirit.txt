@@ -1,0 +1,12 @@
+Rock Spirit
+Card Type: Normal Monster
+
+Description: A fairy of boulders that looks like an earthenware statue. It is quite strong in terms of both attack and defense.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 5
+Attack: 1650
+Defence: 1900
+Archetype: //
+Present in Sets:

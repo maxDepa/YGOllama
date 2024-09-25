@@ -1,0 +1,14 @@
+Kozaky
+Card Type: Normal Monster
+
+Description: A workaholic fiend who devotes everything to his research into the languages of Dark World. His mind has collapsed because of working too hard.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 400
+Archetype: Dark World
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

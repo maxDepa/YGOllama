@@ -1,0 +1,18 @@
+Ancient Gear Gadjiltron Chimera
+Card Type: Effect Monster
+
+Description: This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.
+● Green Gadget: This card gains 300 ATK.
+● Red Gadget: If this card inflicts battle damage to your opponent by a direct attack: Inflict 500 damage to your opponent.
+● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 700 damage to your opponent.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 1300
+Archetype: Ancient Gear
+Present in Sets:
+- Geargia Rampage Structure Deck
+- Machine Reactor Structure Deck
+- Structure Deck: Machine Re-Volt

@@ -1,0 +1,18 @@
+The Last Warrior from Another Planet
+Card Type: Fusion Monster
+
+Description: "Zombyra the Dark" + "Maryokutai"
+If this card is Special Summoned: Destroy all other monsters you control. Neither player can Summon monsters.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2350
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duel Overload
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

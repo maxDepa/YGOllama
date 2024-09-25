@@ -1,0 +1,14 @@
+Constellar Zubeneschamali
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can add 1 "Constellar" monster from your Deck to your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 5
+Attack: 2100
+Defence: 1400
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

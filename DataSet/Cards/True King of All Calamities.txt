@@ -1,0 +1,15 @@
+True King of All Calamities
+Card Type: XYZ Monster
+
+Description: 2+ Level 9 monsters
+Once per turn (Quick Effect): You can detach 1 material from this card and declare 1 Attribute; this turn, all face-up monsters on the field become that Attribute, also all monsters in your opponent's possession with that Attribute cannot activate their effects or attack. Monsters that "True Draco" and "True King" monsters in your hand would destroy with their effects can be chosen from your opponent's field.
+
+Type: Wyrm
+Attribute: DARK
+Level: 9
+Attack: 3000
+Defence: 3000
+Archetype: True Draco
+Present in Sets:
+- Maximum Crisis
+- Mystic Fighters

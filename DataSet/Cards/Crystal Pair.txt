@@ -1,0 +1,15 @@
+Crystal Pair
+Card Type: Trap Card
+
+Description: When a "Crystal Beast" monster you control is destroyed by battle and sent to the Graveyard: Place 1 "Crystal Beast" monster from your Deck face-up in your Spell & Trap Card Zone as a Continuous Spell Card, then you take no Battle Damage for the rest of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Structure Deck: Legend of the Crystal Beasts

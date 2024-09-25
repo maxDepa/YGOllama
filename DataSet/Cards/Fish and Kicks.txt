@@ -1,0 +1,13 @@
+Fish and Kicks
+Card Type: Spell Card
+
+Description: If you have 3 or more banished Fish, Sea Serpent, or Aqua-Type monsters: Target 1 card on the field; banish it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

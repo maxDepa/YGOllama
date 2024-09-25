@@ -1,0 +1,18 @@
+Performapal Gongato
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when an opponent's monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).
+
+[ Monster Effect ] 
+Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; you take no battle damage from that battle.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

@@ -1,0 +1,13 @@
+Core Transport Unit
+Card Type: Spell Card
+
+Description: Once per turn, you can discard 1 card to add 1 "Iron Core of Koa'ki Meiru" from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Absolute Powerforce

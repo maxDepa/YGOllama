@@ -1,0 +1,17 @@
+Raidraptor - Readiness
+Card Type: Trap Card
+
+Description: This turn, "Raidraptor" monsters you control cannot be destroyed by battle. If you have a "Raidraptor" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Raidraptor
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Wing Raiders

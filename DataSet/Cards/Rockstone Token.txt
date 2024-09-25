@@ -1,0 +1,12 @@
+Rockstone Token
+Card Type: Token
+
+Description: Special Summon with the effect of "Rockstone Warrior". This Token cannot be used as a Tribute for a Tribute Summon.
+
+Type: Rock
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

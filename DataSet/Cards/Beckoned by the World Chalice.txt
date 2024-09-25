@@ -1,0 +1,14 @@
+Beckoned by the World Chalice
+Card Type: Normal Monster
+
+Description: His battle with the Mekkstrosities never seems to end. Even when their forest was invaded by Mekkstrocious Insects, he stood his ground and inspired the other defenders around him.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: World Chalice
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

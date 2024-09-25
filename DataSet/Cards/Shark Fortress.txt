@@ -1,0 +1,15 @@
+Shark Fortress
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Your opponent cannot target monsters for attacks, except this one. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.
+
+Type: Fish
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 1800
+Archetype: Shark
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

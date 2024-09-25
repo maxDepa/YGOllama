@@ -1,0 +1,14 @@
+Magnet Force
+Card Type: Trap Card
+
+Description: This turn, all monsters on the field whose original Types are Machine or Rock, are unaffected by your opponent's monster effects (except their own).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Speed Duel: Battle City Box

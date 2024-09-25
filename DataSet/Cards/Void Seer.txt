@@ -1,0 +1,15 @@
+Void Seer
+Card Type: Spell Card
+
+Description: Target 1 "Infernoid" monster you control; that target is unaffected by the opponent's card effects this turn. If an "Infernoid" monster(s) you control would be destroyed by a card effect, you can banish this card from your Graveyard instead of destroying 1 of those monsters.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernoid
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition

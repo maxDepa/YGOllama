@@ -1,0 +1,14 @@
+Advanced Crystal Beast Cobalt Eagle
+Card Type: Effect Monster
+
+Description: If "Advanced Dark" is not in a Field Zone, send this monster to the GY. You can send this card from your hand or field to the GY; add 1 "Advanced Dark" from your Deck to your hand. Once per turn: You can target 1 "Advanced Crystal Beast" card you control; return it to the hand or place it on top of the Deck. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 800
+Archetype: Advanced Crystal Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Battles of Legend: Crystal Revenge

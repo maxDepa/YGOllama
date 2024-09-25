@@ -1,0 +1,14 @@
+Redbeard, the Plunder Patroll Matey
+Card Type: Effect Monster
+
+Description: During your opponent's turn (Quick Effect): You can Special Summon 1 "Plunder Patroll" monster from your Extra Deck with the same Attribute as a monster your opponent controls or is in their GY, and if you do, equip this card you control to it. If this card is sent from the hand or Monster Zone to the GY: You can target 1 "Plunder Patroll" monster you control, except "Redbeard, the Plunder Patroll Matey"; equip this card to it. You can only use each effect of "Redbeard, the Plunder Patroll Matey" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Plunder Patroll
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Ignition Assault

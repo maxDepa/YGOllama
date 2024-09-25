@@ -1,0 +1,13 @@
+Ancient Warriors - Loyal Guan Yun
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster: You can Special Summon this card from your hand. Your opponent cannot target other "Ancient Warriors" monsters you control with card effects. If your opponent controls more monsters than you do: You can target 1 monster your opponent controls; destroy it. You can only use this effect of "Ancient Warriors - Loyal Guan Yun" once per turn.
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 7
+Attack: 2500
+Defence: 1800
+Archetype: Ancient Warriors
+Present in Sets:
+- Ignition Assault

@@ -1,0 +1,13 @@
+Photon Stream of Destruction
+Card Type: Spell Card
+
+Description: If you control a "Galaxy-Eyes" monster: Target 1 card on the field; banish that target. You can only activate this card during your turn, unless you control "Galaxy-Eyes Photon Dragon".
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Galaxy-Eyes
+Present in Sets:
+- World Superstars

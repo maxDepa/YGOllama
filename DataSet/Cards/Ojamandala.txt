@@ -1,0 +1,12 @@
+Ojamandala
+Card Type: Spell Card
+
+Description: Pay 1000 Life Points. Special Summon 1 "Ojama Green", "Ojama Yellow" and "Ojama Black" from your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:

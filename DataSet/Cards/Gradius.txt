@@ -1,0 +1,17 @@
+Gradius
+Card Type: Normal Monster
+
+Description: A high-performance jet fighter with power capsules for variable attack capabilities.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

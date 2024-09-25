@@ -1,0 +1,13 @@
+Mystical Refpanel
+Card Type: Trap Card
+
+Description: Activate only when a Spell Card that targets 1 player is activated. The effect of that Spell Card is applied to the other player instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

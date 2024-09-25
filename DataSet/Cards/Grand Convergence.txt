@@ -1,0 +1,19 @@
+Grand Convergence
+Card Type: Spell Card
+
+Description: If you control "Macro Cosmos": Inflict 300 damage to your opponent and destroy all monsters on the field.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023 I

@@ -1,0 +1,14 @@
+Fishborg Archer
+Card Type: Tuner Monster
+
+Description: If this card is in your Graveyard and you control no monsters during either of your Main Phases: You can discard 1 WATER monster; Special Summon this card from your Graveyard, but destroy all monsters you control at the beginning of this turn's Battle Phase, except for WATER monsters. You can only use the effect of "Fishborg Archer" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: Fishborg
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

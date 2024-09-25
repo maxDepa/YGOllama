@@ -1,0 +1,14 @@
+Theinen the Great Sphinx
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by paying 500 Life Points when both "Andro Sphinx" and "Sphinx Teleia" on your side of the field are destroyed at the same time; then you can Special Summon this monster from your hand or Deck. When this card is Special Summoned, by paying 500 Life Points, increase the ATK of this card by 3000 points until the end of the End Phase.
+
+Type: Beast
+Attribute: LIGHT
+Level: 10
+Attack: 3500
+Defence: 3000
+Archetype: Sphinx
+Present in Sets:
+- Exclusive Pack
+- Master Collection Volume 2

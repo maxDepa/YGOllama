@@ -1,0 +1,16 @@
+Light Wing Shield
+Card Type: Spell Card
+
+Description: When a monster's attack is negated: Activate 1 of these effects;
+● It becomes the End Phase of this turn.
+● Target 1 "Utopia" Xyz Monster you control; its ATK becomes double its original ATK until the end of this turn.
+If a "Utopia" Xyz Monster you control would detach exactly 1 Xyz Material to activate its effect, you can banish this card from your Graveyard instead.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Duelist Saga

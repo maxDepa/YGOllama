@@ -1,0 +1,14 @@
+Anotherverse Dragon
+Card Type: Normal Monster
+
+Description: ''This secretive dragon has conquered many dimensions, but can only be seen by the champion of time.''
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Championship Series 2022 prize card
+- Yu-Gi-Oh! Championship Series 2022 prize card

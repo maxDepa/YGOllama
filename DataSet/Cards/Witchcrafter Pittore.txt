@@ -1,0 +1,14 @@
+Witchcrafter Pittore
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 "Witchcrafter" monster from your Deck, except "Witchcrafter Pittore". You can banish this card from your GY; draw 1 card, then send 1 "Witchcrafter" card from your hand to the GY, or, if you have none, banish your entire hand. You can only use each effect of "Witchcrafter Pittore" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 3
+Attack: 1000
+Defence: 1500
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

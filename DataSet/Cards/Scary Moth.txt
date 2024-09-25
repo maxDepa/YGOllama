@@ -1,0 +1,13 @@
+Scary Moth
+Card Type: Effect Monster
+
+Description: Each player can only Special Summon a monster(s) once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 6
+Attack: 1800
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

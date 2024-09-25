@@ -1,0 +1,13 @@
+Millennium Golem
+Card Type: Normal Monster
+
+Description: For nearly a millennium, this golem has served as guardian of an ancient treasure trove.
+
+Type: Rock
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Tournament Pack 7

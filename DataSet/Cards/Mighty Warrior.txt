@@ -1,0 +1,14 @@
+Mighty Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

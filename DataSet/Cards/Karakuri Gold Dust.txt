@@ -1,0 +1,13 @@
+Karakuri Gold Dust
+Card Type: Spell Card
+
+Description: Activate only during the Battle Phase. Select 2 face-up "Karakuri" monsters in Attack Position. Change 1 of the selected monsters to Defense Position, and the other gains ATK equal to the ATK of the monster changed to Defense Position, until the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Karakuri
+Present in Sets:
+- Storm of Ragnarok

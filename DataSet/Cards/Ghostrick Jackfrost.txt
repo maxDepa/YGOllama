@@ -1,0 +1,18 @@
+Ghostrick Jackfrost
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When an opponent's monster declares a direct attack: You can change that opponent's monster to face-down Defense Position, and if you do, Special Summon this card from your hand in face-down Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 800
+Defence: 100
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legacy of the Valiant
+- Legacy of the Valiant: Deluxe Edition
+- Yu-Gi-Oh! Advent Calendar (2018)

@@ -1,0 +1,17 @@
+Traptrix Dionaea
+Card Type: Effect Monster
+
+Description: This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can target 1 "Traptrix" monster in your Graveyard; Special Summon that target in Defense Position. When this card is Special Summoned: You can target 1 "Hole" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of "Traptrix Dionaea" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1100
+Archetype: Traptrix
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Maximum Gold
+- Premium Gold: Return of the Bling
+- Primal Origin
+- Structure Deck: Beware of Traptrix

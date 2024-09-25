@@ -1,0 +1,17 @@
+Mecha Phantom Beast Tetherwolf
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Special Summon 1 "Mecha Phantom Beast Token" (Machine/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per battle, during the Damage Step, when this card battles an opponent's monster (Quick Effect): You can Tribute 1 Token; this card gains 800 ATK, until the end of this turn.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Structure Deck: Powercode Link
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

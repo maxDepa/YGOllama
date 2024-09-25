@@ -1,0 +1,17 @@
+Abyss Actor - Evil Heel
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can Tribute 1 "Abyss Actor" monster, then target 1 face-up monster your opponent controls; it loses ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each "Abyss Actor" monster you currently control, until the end of this turn. When this card destroys an opponent's monster by battle: You can target 1 "Abyss Script" Spell Card in your Graveyard; Set that card.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: Abyss Actor
+Present in Sets:
+- Destiny Soldiers

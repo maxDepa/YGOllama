@@ -1,0 +1,15 @@
+Hi-Speedroid Puzzle
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+At the start of the Damage Step, if this card battles a Special Summoned monster: You can make this card's ATK become double its current ATK until the end of the Damage Step. Once per turn, during the End Phase, if this card is in the Graveyard because this Synchro Summoned card was sent there from the field this turn: You can target 1 "Speedroid" monster in your Graveyard, except "Hi-Speedroid Puzzle"; add it to your hand.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 1600
+Archetype: Hi-Speedroid
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

@@ -1,0 +1,27 @@
+Fire Formation - Tenki
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 "Fire Formation - Tenki" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- Astral Pack Three
+- Cosmo Blazer
+- Duelist League 18 participation cards
+- Fire Fists: Special Edition
+- Fists of the Gadgets
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Premium Gold
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Structure Deck: Fire Kings
+- The Secret Forces
+- Wild Survivors
+- Wild Survivors

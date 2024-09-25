@@ -1,0 +1,13 @@
+Fortune Fairy Swee
+Card Type: Effect Monster
+
+Description: When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 other face-up monster on the field; banish it until the Standby Phase of your next turn. You can only use each effect of "Fortune Fairy Swee" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Fortune Fairy
+Present in Sets:
+- Battles of Legend: Hero's Revenge

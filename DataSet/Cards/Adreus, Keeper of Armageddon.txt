@@ -1,0 +1,16 @@
+Adreus, Keeper of Armageddon
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card your opponent controls; destroy it.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Generation Force

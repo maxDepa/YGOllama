@@ -1,0 +1,18 @@
+Ectoplasmer
+Card Type: Spell Card
+
+Description: Once per turn, during each player's End Phase: The turn player must Tribute 1 face-up monster, and if they do, inflict damage to their opponent equal to half the original ATK of the Tributed monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist
+- Soul of the Duelist
+- Structure Deck: Invincible Fortress
+- Yugi's Legendary Decks

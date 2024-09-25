@@ -1,0 +1,14 @@
+Watch Cat
+Card Type: Effect Monster
+
+Description: If you control no monsters: You can Special Summon this card from your hand. During your End Phase, if this card was Special Summoned this turn: You can banish this card; Set 1 Continuous Spell directly from your Deck. You can only use each effect of "Watch Cat" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

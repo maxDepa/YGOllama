@@ -1,0 +1,13 @@
+Vengeful Servant
+Card Type: Spell Card
+
+Description: When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis

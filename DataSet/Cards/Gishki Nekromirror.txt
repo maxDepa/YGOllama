@@ -1,0 +1,13 @@
+Gishki Nekromirror
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Gishki" Ritual Monster. You must also Tribute monsters from your hand or field, whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon, OR Tribute 1 face-up monster your opponent controls. If you Ritual Summon using this card, you lose LP equal to the original ATK of the Ritual Summoned monster. If this card is in your GY: You can target 1 "Gishki" monster in your GY; place that card on top of the Deck, and if you do, place this card on the bottom of the Deck.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gishki
+Present in Sets:
+- Photon Hypernova

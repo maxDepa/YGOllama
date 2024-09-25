@@ -1,0 +1,14 @@
+Scareclaw Arrival
+Card Type: Spell Card
+
+Description: Target 1 "Scareclaw" monster or "Visas Starfrost" in your GY; Special Summon it in Defense Position. If a "Scareclaw" Link Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use this effect of "Scareclaw Arrival" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Scareclaw
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

@@ -1,0 +1,13 @@
+Union Controller
+Card Type: Fusion Monster
+
+Description: 1 LIGHT Machine monster + "Y-Dragon Yearhead" or "Z-Zillion Tank"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. If this card is Special Summoned from the Extra Deck: You can add 1 Spell/Trap from your Deck to your hand that mentions "Union monster" in its text. You can only use this effect of "Union Controller" once per turn. Once per turn, during your Main Phase: You can Special Summon 1 LIGHT Machine Normal or Union monster from your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 1900
+Archetype: //
+Present in Sets:

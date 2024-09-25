@@ -1,0 +1,13 @@
+Dig Beak
+Card Type: Normal Monster
+
+Description: This beast coils like a snake, and strikes quickly with its snapping beak.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Tournament Pack 7

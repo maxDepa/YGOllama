@@ -1,0 +1,15 @@
+Hyosube
+Card Type: Normal Monster
+
+Description: This amphibian is strong on the attack, but leaves much to be desired when defending.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 900
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

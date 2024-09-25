@@ -1,0 +1,17 @@
+Worm Jetelikpse
+Card Type: Flip Effect Monster
+
+Description: FLIP: When this card is destroyed and sent to the Graveyard this turn: Special Summon it from the Graveyard in face-up Defense Position.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 0
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Duel Terminal 1
+- Storm of Ragnarok
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

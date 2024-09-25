@@ -1,0 +1,13 @@
+Hieratic Chant
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Discard your entire hand (min. 1), add 1 "The Winged Dragon of Ra" from your Deck or GY to your hand, and if you do, you can Tribute Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set.
+
+Type: Yami Marik
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

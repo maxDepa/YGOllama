@@ -1,0 +1,17 @@
+Purrely Sleepy Memory
+Card Type: Spell Card
+
+Description: The next battle or effect damage you take this turn will become 0. You can also immediately apply the following effect.
+● Discard 1 card, and if you do, Special Summon 1 Level 1 "Purrely" monster from your Deck.
+A "Purrely" Xyz Monster that has this card as material gains the following effect.
+● Once per turn, during your opponent's Standby Phase: You can draw 1 card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Purrely
+Present in Sets:
+- Cyberstorm Access
+- OTS Tournament Pack 24

@@ -1,0 +1,13 @@
+Prinzessin
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can Special Summon 1 "Pumpkin Carriage" from your hand or Deck, then, if "Golden Castle of Stromberg" is in a Field Zone, you can equip 1 "Glass Slippers" from your Deck to this card. You can only use this effect of "Prinzessin" once per turn. When this card inflicts battle damage to your opponent by a direct attack: You can target 1 "Glass Slippers" equipped to this card and 1 face-up monster on the field; equip that "Glass Slippers" to that target.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 300
+Defence: 600
+Archetype: Golden Castle of Stromberg
+Present in Sets:
+- Battles of Legend: Relentless Revenge

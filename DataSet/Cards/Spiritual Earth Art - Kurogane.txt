@@ -1,0 +1,15 @@
+Spiritual Earth Art - Kurogane
+Card Type: Trap Card
+
+Description: Tribute 1 EARTH monster. Special Summon 1 Level 4 or lower EARTH monster from your Graveyard, except the Tributed monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Structure Deck: Spirit Charmers

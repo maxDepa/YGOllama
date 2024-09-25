@@ -1,0 +1,17 @@
+Xing Zhen Hu
+Card Type: Trap Card
+
+Description: Activate by selecting 2 Set Spell or Trap Cards on the field. The selected Spell or Trap Cards cannot be activated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Gold Series 4: Pyramids Edition
+- Rise of Destiny
+- Rise of Destiny
+- Structure Deck: Fury from the Deep

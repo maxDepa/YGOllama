@@ -1,0 +1,15 @@
+Prank-Kids Dodo-Doodle-Doo
+Card Type: Link Monster
+
+Description: 2 "Prank-Kids" monsters
+If this card is Link Summoned: You can add 1 "Prank-Kids" Spell/Trap from your Deck to your hand. You can Tribute this card, then target 2 "Prank-Kids" cards with different names in your GY, except Link Monsters; add them to your hand. You can only use each effect of "Prank-Kids Dodo-Doodle-Doo" once per turn.
+
+Type: Thunder
+Attribute: WIND
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Prank-Kids
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold: El Dorado

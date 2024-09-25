@@ -1,0 +1,15 @@
+Yosenju Tsujik
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of these effects of "Yosenju Tsujik" once per turn.
+● During either player's Damage Step, when a "Yosenju" monster you control battles an opponent's monster: You can discard this card; that monster you control gains 1000 ATK until the end of this turn.
+● You can target 1 "Yosenju" monster on the field; it gains 1000 ATK until the end of this turn.
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 0
+Archetype: Yosenju
+Present in Sets:
+- Secrets of Eternity

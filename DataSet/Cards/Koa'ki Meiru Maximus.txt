@@ -1,0 +1,14 @@
+Koa'ki Meiru Maximus
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 "Iron Core of Koa'ki Meiru" from your hand. During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" or 1 "Koa'ki Meiru" monster from your hand to the Graveyard. Once per turn, during your Main Phase, you can select and destroy 1 card your opponent controls.
+
+Type: Dragon
+Attribute: WIND
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Stardust Overdrive
+- Stardust Overdrive

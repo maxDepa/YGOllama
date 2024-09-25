@@ -1,0 +1,15 @@
+Pharaoh's Servant
+Card Type: Normal Monster
+
+Description: An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,16 @@
+Mad Archfiend
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this face-up Attack Position card is targeted for an attack: Change it to Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Crossroads of Chaos
+- Dark Legion Starter Deck
+- Duel Terminal 2

@@ -1,0 +1,13 @@
+Lunalight White Rabbit
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Lunalight" monster in your Graveyard, except "Lunalight White Rabbit"; Special Summon it in Defense Position. Once per turn: You can target Spell/Trap Cards your opponent controls, up to the number of other "Lunalight" cards you control; return them to the hand.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: Lunalight
+Present in Sets:
+- Shining Victories

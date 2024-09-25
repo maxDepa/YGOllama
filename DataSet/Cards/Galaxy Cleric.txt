@@ -1,0 +1,14 @@
+Galaxy Cleric
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 "Photon" or "Galaxy" Xyz Monster you control; attach this card to it as material. If this card is Normal or Special Summoned: You can target 5 "Photon" and/or "Galaxy" cards with different names in your GY; shuffle them into the Deck, then draw 2 cards. You can only use 1 "Galaxy Cleric" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

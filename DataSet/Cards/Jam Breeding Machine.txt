@@ -1,0 +1,18 @@
+Jam Breeding Machine
+Card Type: Spell Card
+
+Description: During each of your Standby Phases: Special Summon 1 "Slime Token" (Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) in Attack Position. You cannot Summon any monsters, except "Slime Tokens" (but you can Set).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Slime
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Streets of Battle City

@@ -1,0 +1,16 @@
+Athena
+Card Type: Effect Monster
+
+Description: If another Fairy monster(s) is Summoned: Inflict 600 damage to your opponent. Once per turn: You can send 1 face-up Fairy monster you control to the GY, except "Athena", then target 1 Fairy monster in your GY, except "Athena"; Special Summon that target.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2600
+Defence: 800
+Archetype: //
+Present in Sets:
+- Duel Terminal 6a
+- Lost Sanctuary Structure Deck
+- Premium Pack 2 (TCG)
+- Structure Deck: Wave of Light

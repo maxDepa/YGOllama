@@ -1,0 +1,14 @@
+Jurrac Aeolo
+Card Type: Tuner Monster
+
+Description: You can Tribute this card to select 1 Level 4 or lower "Jurrac" monster in your Graveyard, except "Jurrac Aeolo". Special Summon that monster from the Graveyard.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph

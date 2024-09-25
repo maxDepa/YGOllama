@@ -1,0 +1,13 @@
+Original Bamboo Sword
+Card Type: Spell Card
+
+Description: The equipped monster gains 0 ATK. When the equipped monster inflicts battle damage by a direct attack: You can destroy all monsters your opponent controls. You can send this equipped card to the GY; equip 1 "Bamboo Sword" Equip Spell from your Deck to 1 face-up monster on the field, except "Original Bamboo Sword".
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bamboo Sword
+Present in Sets:
+- Darkwing Blast

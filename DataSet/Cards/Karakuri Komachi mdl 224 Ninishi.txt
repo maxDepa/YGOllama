@@ -1,0 +1,13 @@
+Karakuri Komachi mdl 224 "Ninishi"
+Card Type: Tuner Monster
+
+Description: This card must attack if able. When this face-up card is selected as an attack target, change its battle position. While this card is face-up on the field, once per turn during your Main Phase, you can Normal Summon 1 "Karakuri" monster in addition to your Normal Summon or Set. (You can only gain this effect once per turn.)
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 1900
+Archetype: Karakuri
+Present in Sets:
+- Extreme Victory

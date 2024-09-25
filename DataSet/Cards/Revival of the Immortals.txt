@@ -1,0 +1,15 @@
+Revival of the Immortals
+Card Type: Trap Card
+
+Description: Target 1 "Earthbound Immortal" monster in your Graveyard; Special Summon it, but it cannot declare an attack this turn, also your opponent takes no battle damage from attacks involving it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:
+- Ancient Prophecy
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 3

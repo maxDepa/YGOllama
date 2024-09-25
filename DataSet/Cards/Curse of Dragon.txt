@@ -1,0 +1,23 @@
+Curse of Dragon
+Card Type: Normal Monster
+
+Description: A wicked dragon that taps into dark forces to execute a powerful attack.
+
+Type: Dragon
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1500
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Yugi's Legendary Decks

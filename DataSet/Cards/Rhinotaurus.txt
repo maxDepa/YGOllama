@@ -1,0 +1,15 @@
+Rhinotaurus
+Card Type: Effect Monster
+
+Description: If 2 or more of your opponent's monsters are destroyed by battle with your monsters during the same Battle Phase, this card can make a second attack during that Battle Phase.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Revolution

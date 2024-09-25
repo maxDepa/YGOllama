@@ -1,0 +1,16 @@
+Wattchimera
+Card Type: Synchro Monster
+
+Description: 1 "Watt" Tuner + 1 or more non-Tuner Thunder-Type monsters
+This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, place 1 random card from your opponent's hand on top of their Deck.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 6
+Attack: 1400
+Defence: 1200
+Archetype: Watt
+Present in Sets:
+- Duelist Revolution
+- Duelist Revolution
+- OTS Tournament Pack 23

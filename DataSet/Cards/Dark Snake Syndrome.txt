@@ -1,0 +1,15 @@
+Dark Snake Syndrome
+Card Type: Spell Card
+
+Description: During each of your Standby Phases: Inflict damage to both players. This damage begins at 200 and is doubled during each of your following Standby Phases.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian

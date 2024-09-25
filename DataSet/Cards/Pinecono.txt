@@ -1,0 +1,13 @@
+Pinecono
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard by the effect of "Acorno": You can Special Summon this card from the Graveyard.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 400
+Defence: 200
+Archetype: //
+Present in Sets:
+- Photon Shockwave

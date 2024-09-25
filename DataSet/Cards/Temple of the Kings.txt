@@ -1,0 +1,15 @@
+Temple of the Kings
+Card Type: Spell Card
+
+Description: You can activate 1 Trap Card the turn it was Set. You can send 1 "Mystical Beast of Serket" in your Monster Zone and this card you control to the Graveyard; Special Summon 1 monster from your hand or Deck, or 1 Fusion Monster from your Extra Deck. You can only use each effect of "Temple of the Kings" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Premium Gold: Return of the Bling
+- Structure Deck: Marik (TCG)

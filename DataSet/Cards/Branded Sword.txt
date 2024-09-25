@@ -1,0 +1,14 @@
+Branded Sword
+Card Type: Trap Card
+
+Description: Banish any number of "Branded" Spells/Traps from your GY; Special Summon that many "Iceblade Tokens" (Dragon/DARK/Level 8/ATK 2500/DEF 2000). You can banish this card from your GY, then target 1 of your banished monsters that is "Fallen of Albaz" or mentions it; add that monster to your hand. You can only use 1 "Branded Sword" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Structure Deck: Albaz Strike

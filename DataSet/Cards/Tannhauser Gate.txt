@@ -1,0 +1,14 @@
+Tannhauser Gate
+Card Type: Spell Card
+
+Description: Target 2 monsters you control of the same Type with 1000 or less ATK; both monsters' Levels become the combined Levels of those 2 monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- The Infinity Chasers

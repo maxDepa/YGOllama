@@ -1,0 +1,17 @@
+Toon Alligator
+Card Type: Normal Monster
+
+Description: An alligator monster straight from the cartoons.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: Alligator
+Present in Sets:
+- Legendary Duelists: Season 1
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Pegasus

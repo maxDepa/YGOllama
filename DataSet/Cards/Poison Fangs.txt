@@ -1,0 +1,14 @@
+Poison Fangs
+Card Type: Spell Card
+
+Description: Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

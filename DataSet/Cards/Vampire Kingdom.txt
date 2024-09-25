@@ -1,0 +1,16 @@
+Vampire Kingdom
+Card Type: Spell Card
+
+Description: Zombie-Type monsters gain 500 ATK during damage calculation only. Once per turn, when a card(s) is sent from your opponent's Deck to the Graveyard: Target 1 card on the field; send 1 DARK "Vampire" monster from your hand or Deck to the Graveyard, and if you do, destroy that target.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vampire
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- Judgment of the Light: Deluxe Edition
+- Shadow Specters

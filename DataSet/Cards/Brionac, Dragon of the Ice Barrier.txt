@@ -1,0 +1,21 @@
+Brionac, Dragon of the Ice Barrier
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of "Brionac, Dragon of the Ice Barrier" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 6
+Attack: 2300
+Defence: 1400
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Devastator
+- Duel Terminal 1
+- Duelist Saga
+- Gold Series: Haunted Mine
+- Hidden Arsenal
+- Hidden Arsenal 5: Steelswarm Invasion: Special Edition
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

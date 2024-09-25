@@ -1,0 +1,15 @@
+Mermail Abyssmander
+Card Type: Effect Monster
+
+Description: You can banish this card from your Graveyard to activate 1 of these effects;
+● Increase the Levels of all "Mermail" monsters you currently control by 1.
+● Increase the Levels of all "Mermail" monsters you currently control by 2.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: Mermail
+Present in Sets:
+- Abyss Rising

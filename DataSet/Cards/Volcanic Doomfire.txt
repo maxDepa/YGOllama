@@ -1,0 +1,18 @@
+Volcanic Doomfire
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending a face-up "Tri-Blaze Accelerator" you control to the Graveyard. During your opponent's Battle Phase, your opponent must attack this monster with any Attack Position monsters they control. When this card destroys a monster and sends it to the Graveyard, destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect.
+
+Type: Pyro
+Attribute: FIRE
+Level: 8
+Attack: 3000
+Defence: 1800
+Archetype: Volcanic
+Present in Sets:
+- Collectible Tins 2007 Wave 2
+- Force of the Breaker
+- Force of the Breaker
+- Legendary Duelists: Soulburning Volcano
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box

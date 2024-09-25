@@ -1,0 +1,14 @@
+Morphtronic Slingen
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: Once per turn, you can Tribute 1 "Morphtronic" monster, except "Morphtronic Slingen", to destroy 1 card on the field.
+● While in Defense Position: If this card would be destroyed, you can destroy another "Morphtronic" monster you control instead.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: Morphtronic
+Present in Sets:
+- Crimson Crisis

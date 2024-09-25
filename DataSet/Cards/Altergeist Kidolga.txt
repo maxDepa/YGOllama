@@ -1,0 +1,15 @@
+Altergeist Kidolga
+Card Type: Link Monster
+
+Description: 2 "Altergeist" monsters
+When another "Altergeist" monster you control inflicts battle damage to your opponent: You can target 1 monster in their GY; Special Summon it to your zone this card points to, but each turn, it cannot attack unless this card has already declared an attack that turn. If this card is destroyed by battle: You can target 1 "Altergeist" card in your GY; add it to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

@@ -1,0 +1,21 @@
+Performapal Drummerilla
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can target that monster you control; it gains 600 ATK until the end of the Battle Phase (even if this card leaves the field).
+
+[ Monster Effect ] 
+If there are no monsters on the field, you can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, its Level becomes 4. Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can target that monster you control; it gains 600 ATK until the end of the Battle Phase.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 900
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Star Pack Battle Royal
+- Star Pack Battle Royal
+- Starter Deck: Yuya

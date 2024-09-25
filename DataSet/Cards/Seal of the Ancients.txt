@@ -1,0 +1,14 @@
+Seal of the Ancients
+Card Type: Spell Card
+
+Description: Pay 1000 Life Points. Pick up and see all face-down cards on your opponent's side of the field, then return them to their original positions. (The effects of the face-down cards are not activated.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards
+- Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge promotional cards

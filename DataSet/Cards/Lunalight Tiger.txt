@@ -1,0 +1,17 @@
+Lunalight Tiger
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 "Lunalight" monster in your Graveyard; Special Summon it, but it cannot attack, its effects are negated, also it is destroyed during the End Phase.
+
+[ Monster Effect ] 
+If this card on the field is destroyed by battle or card effect: You can target 1 "Lunalight" monster in your Graveyard; Special Summon it. You can only use this effect of "Lunalight Tiger" once per turn.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Lunalight
+Present in Sets:
+- Shining Victories

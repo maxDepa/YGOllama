@@ -1,0 +1,14 @@
+Darkfall
+Card Type: Trap Card
+
+Description: When your opponent Special Summons 2 or more face-up monsters at the same time: Send those monsters to the Graveyard, then send all monsters in the opponent's hand and Deck to the Graveyard that have the same name as the monsters sent to the Graveyard by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League 16 participation cards
+- Starstrike Blast

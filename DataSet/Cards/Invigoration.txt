@@ -1,0 +1,14 @@
+Invigoration
+Card Type: Spell Card
+
+Description: An EARTH monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

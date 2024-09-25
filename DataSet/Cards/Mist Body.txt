@@ -1,0 +1,15 @@
+Mist Body
+Card Type: Spell Card
+
+Description: The equipped monster cannot be destroyed by battle.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series
+- McDonald's Promotional Cards 2
+- Spellcaster's Command Structure Deck

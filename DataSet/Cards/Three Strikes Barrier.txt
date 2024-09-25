@@ -1,0 +1,20 @@
+Three Strikes Barrier
+Card Type: Trap Card
+
+Description: If your opponent controls exactly 3 cards: Activate 1 of these effects;
+● This turn, your monsters cannot be destroyed by battle.
+● This turn, you take no battle damage.
+● This turn, each time your monster inflicts battle damage to your opponent, you gain the same amount of LP.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

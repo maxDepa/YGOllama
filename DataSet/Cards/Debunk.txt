@@ -1,0 +1,15 @@
+Debunk
+Card Type: Trap Card
+
+Description: When a monster effect is activated in the hand or GY: Negate the activation, and if you do, banish it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Structure Deck: Powercode Link

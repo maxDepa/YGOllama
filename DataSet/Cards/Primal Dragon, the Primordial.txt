@@ -1,0 +1,13 @@
+Primal Dragon, the Primordial
+Card Type: Effect Monster
+
+Description: Your opponent takes no battle damage from attacks involving this card. You can only use each of the following effects of "Primal Dragon, the Primordial" once per turn. You can banish 1 Dragon monster from your GY; this card gains ATK/DEF equal to that banished monster's ATK until the end of the next turn. If this card is Tributed: You can target 1 monster you control; it can make a second attack during each Battle Phase this turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

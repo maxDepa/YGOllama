@@ -1,0 +1,14 @@
+Heroic Challenger - Double Lance
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Heroic Challenger - Double Lance" from your hand or Graveyard in face-up Defense Position. This card cannot be used as a Synchro Material Monster. This card cannot be used as an Xyz Material, except for the Xyz Summon of a Warrior-Type monster.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 900
+Archetype: Heroic
+Present in Sets:
+- OTS Tournament Pack 19 (POR)
+- Return of the Duelist

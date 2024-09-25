@@ -1,0 +1,14 @@
+Night Sword Serpent
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY by a card effect: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Night Sword Serpent" once per turn.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 500
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

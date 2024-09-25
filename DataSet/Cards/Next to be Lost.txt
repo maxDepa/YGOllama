@@ -1,0 +1,14 @@
+Next to be Lost
+Card Type: Trap Card
+
+Description: Select 1 face-up monster you control. Send 1 card from your Deck to the Graveyard with the same name as the selected card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

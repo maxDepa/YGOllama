@@ -1,0 +1,17 @@
+Cyber Gymnast
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 card, then target 1 face-up Attack Position monster your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Speed Duel GX: Duel Academy Box
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

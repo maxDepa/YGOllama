@@ -1,0 +1,14 @@
+Diceversity
+Card Type: Trap Card
+
+Description: Once per turn: You can target 1 monster on the field whose current Level is different from its original Level; roll a six-sided die and that monster's Level becomes the same as the result.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

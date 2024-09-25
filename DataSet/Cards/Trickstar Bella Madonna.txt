@@ -1,0 +1,15 @@
+Trickstar Bella Madonna
+Card Type: Link Monster
+
+Description: 2+ "Trickstar" monsters
+While this Link Summoned card points to no monsters, it is unaffected by other cards' activated effects. If this card points to no monsters: You can inflict 200 damage to your opponent for each "Trickstar" monster in your GY with a different name. You can only use this effect of "Trickstar Bella Madonna" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

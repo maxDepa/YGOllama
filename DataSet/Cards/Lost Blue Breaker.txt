@@ -1,0 +1,15 @@
+Lost Blue Breaker
+Card Type: Effect Monster
+
+Description: If there is another face-up Fish, Sea Serpent, or Aqua monster on the field: You can Tribute this card, then target 1 Spell/Trap on the field; destroy that target.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 3
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- Realm of the Sea Emperor Structure Deck
+- Speed Duel: Attack from the Deep

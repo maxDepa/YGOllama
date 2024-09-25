@@ -1,0 +1,13 @@
+Chronomaly Tula Guardian
+Card Type: Effect Monster
+
+Description: If there is a face-up Field Spell Card on the field, you can Special Summon this card (from your hand). You can only control 1 "Chronomaly Tula Guardian".
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 900
+Archetype: Chronomaly
+Present in Sets:
+- Premium Gold

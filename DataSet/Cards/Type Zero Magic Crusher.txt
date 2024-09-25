@@ -1,0 +1,16 @@
+Type Zero Magic Crusher
+Card Type: Trap Card
+
+Description: Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

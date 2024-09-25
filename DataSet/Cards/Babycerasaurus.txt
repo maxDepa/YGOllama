@@ -1,0 +1,21 @@
+Babycerasaurus
+Card Type: Effect Monster
+
+Description: If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or lower Dinosaur-Type monster from your Deck.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dinosmasher's Fury Structure Deck
+- Duelist League 13 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Power of the Duelist
+- Structure Deck: Dinosaur's Rage
+- Wild Survivors

@@ -1,0 +1,16 @@
+Light End Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner LIGHT monsters
+At attack declaration, if this card battles another monster: You can have this card lose 500 ATK and DEF (permanently), and the monster this card is battling loses 1500 ATK and DEF until the End Phase.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2600
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Raging Battle

@@ -1,0 +1,18 @@
+Whiptail Crow
+Card Type: Normal Monster
+
+Description: Attacks from the skies with a whip-like tail.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1650
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Arena of Lost Souls
+- Spell Ruler
+- Spell Ruler

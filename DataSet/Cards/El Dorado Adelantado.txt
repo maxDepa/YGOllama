@@ -1,0 +1,17 @@
+El Dorado Adelantado
+Card Type: Trap Card
+
+Description: If you control an "Eldlich" monster: Activate 1 of these effects;
+● Shuffle 3 of your banished "Eldlixir" Spells/Traps with different names into your Deck, and if you do, destroy all cards on the field.
+● Shuffle 3 of your banished "Golden Land" Spells/Traps with different names into your Deck, and if you do, halve your opponent's LP, then you gain LP equal to their LP.
+You can only activate 1 "El Dorado Adelantado" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Eldlich
+Present in Sets:
+- Maximum Gold: El Dorado
+- Secret Slayers

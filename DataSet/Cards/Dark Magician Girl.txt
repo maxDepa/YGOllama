@@ -1,0 +1,45 @@
+Dark Magician Girl
+Card Type: Effect Monster
+
+Description: Gains 300 ATK for every "Dark Magician" or "Magician of Black Chaos" in the GY.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1700
+Archetype: Dark Magician
+Present in Sets:
+- 2-Player Starter Set
+- 2022 Tin of the Pharaoh's Gods
+- Collectible Tins 2005
+- Duel Terminal 6b
+- Duelist League 18 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Event Pack Speed Duel
+- Ghosts From the Past: The 2nd Haunting
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Dragon Decks
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Magician's Force
+- Magnificent Mavens
+- Premium Gold
+- Rise of Destiny: Special Edition
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 1
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Yugi Muto
+- The Lost Art Promotion 2020 G
+- The Lost Art Promotion 2021 E
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

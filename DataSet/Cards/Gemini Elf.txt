@@ -1,0 +1,23 @@
+Gemini Elf
+Card Type: Normal Monster
+
+Description: Elf twins that alternate their attacks.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Invasion of Chaos: Special Edition
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Starter Deck: Jaden Yuki
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Spellcaster's Judgment
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 I

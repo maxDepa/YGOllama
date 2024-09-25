@@ -1,0 +1,14 @@
+Night's End Administrator
+Card Type: Synchro Monster
+
+Description: "Night's End Sorcerer" + 1+ non-Tuner monsters
+If this card is Special Summoned, or if another Spellcaster monster(s) is Special Summoned to your field: You can target 1 card in your opponent's GY; banish it. If this card is destroyed by battle, or if this card in its owner's Monster Zone is destroyed by an opponent's card effect: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon it. You can only use this effect of "Night's End Administrator" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 6
+Attack: 2300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dawn of Majesty

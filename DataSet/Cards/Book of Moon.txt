@@ -1,0 +1,50 @@
+Book of Moon
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; change that target to face-down Defense Position.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Book of
+Present in Sets:
+- 2-Player Starter Set
+- Astral Pack Five
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Battles of Legend: Armageddon
+- Champion Pack: Game One
+- Dark Beginning 2
+- Dragons Collide Structure Deck
+- Duel Terminal 3
+- Egyptian God Deck: Slifer the Sky Dragon
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Maximum Gold: El Dorado
+- Noble Knights of the Round Table Box Set
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Pharaonic Guardian
+- Premium Gold: Return of the Bling
+- Retro Pack 2
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 5
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yugi Reloaded
+- Starter Deck: Yuya
+- Structure Deck: Marik (TCG)
+- Trials of the Pharaoh - Speed Duel: Battle City Box promotional card
+- Turbo Pack: Booster One
+- Turbo Pack: Booster Seven

@@ -1,0 +1,14 @@
+Flamvell Archer
+Card Type: Tuner Monster
+
+Description: Once per turn, you can Tribute 1 face-up Pyro-Type monster you control to have all "Flamvell" monsters on the field gain 800 ATK until the End Phase.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Duelist Revolution

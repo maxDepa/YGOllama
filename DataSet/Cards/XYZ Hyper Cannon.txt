@@ -1,0 +1,16 @@
+XYZ Hyper Cannon
+Card Type: Trap Card
+
+Description: You must control "XYZ-Dragon Cannon", or a Fusion Monster that lists "XYZ-Dragon Cannon" as material, to activate this card's effect. This card's effect depends on whose turn it is.
+● Your turn: You can target 1 of your banished Union monsters; place it on the bottom of your Deck, and if you do, draw 1 card.
+● Your opponent's turn: You can discard any number of cards, then target the same number of cards your opponent controls; destroy those cards.
+You can only use this effect of "XYZ Hyper Cannon" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: ABC
+Present in Sets:
+- King's Court

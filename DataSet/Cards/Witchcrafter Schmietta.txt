@@ -1,0 +1,14 @@
+Witchcrafter Schmietta
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 "Witchcrafter" monster from your Deck, except "Witchcrafter Schmietta". You can banish this card from your GY; send 1 "Witchcrafter" card from your Deck to the GY, except "Witchcrafter Schmietta". You can only use each effect of "Witchcrafter Schmietta" once per turn.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

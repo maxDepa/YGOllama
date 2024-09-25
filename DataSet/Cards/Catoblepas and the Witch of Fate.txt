@@ -1,0 +1,13 @@
+Catoblepas and the Witch of Fate
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster(s), you can remove from play 1 monster with ? ATK from your Graveyard to destroy that Special Summoned monster(s).
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

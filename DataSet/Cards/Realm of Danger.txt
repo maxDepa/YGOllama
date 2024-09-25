@@ -1,0 +1,14 @@
+Realm of Danger!
+Card Type: Spell Card
+
+Description: Your opponent cannot target "Danger!" monsters you control with card effects during the turn they are Special Summoned. Once per turn: You can target 1 "Danger!" monster you control; while you control that face-up monster and this face-up card, that monster can attack directly, also your opponent's monsters cannot target it for attacks, but it does not prevent your opponent from attacking you directly.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Danger!
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

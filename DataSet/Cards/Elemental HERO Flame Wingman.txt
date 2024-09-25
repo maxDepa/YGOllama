@@ -1,0 +1,25 @@
+Elemental HERO Flame Wingman
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Avian" + "Elemental HERO Burstinatrix"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.
+
+Type: Warrior
+Attribute: WIND
+Level: 6
+Attack: 2100
+Defence: 1200
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 3
+- Duelist Pack: Jaden Yuki
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 3
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- The Lost Millennium
+- The Lost Millennium
+- Yu-Gi-Oh! Elemental Hero Collection 1

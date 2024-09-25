@@ -1,0 +1,16 @@
+Ally of Justice Thunder Armor
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. During the battle between an attacking "Ally of Justice" monster you control and a Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 2200
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

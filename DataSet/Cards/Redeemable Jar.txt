@@ -1,0 +1,14 @@
+Redeemable Jar
+Card Type: Trap Card
+
+Description: You can banish 1 Trap from your GY; add from your GY to your hand, 1 Trap with a different original name from that banished card. You can only use this effect of "Redeemable Jar" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

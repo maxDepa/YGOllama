@@ -1,0 +1,13 @@
+Play of the Tistina
+Card Type: Spell Card
+
+Description: Special Summon 1 "Tistina" monster from your hand or GY in Defense Position, but return it to the hand during the End Phase. You can only activate 1 "Play of the Tistina" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tistina
+Present in Sets:
+- Age of Overlord

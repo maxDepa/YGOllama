@@ -1,0 +1,14 @@
+Melffy Wally
+Card Type: Effect Monster
+
+Description: If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the hand, then you can Special Summon 2 "Melffy" monsters from your Deck with different names from each other, except "Melffy Wally". During your End Phase: You can Special Summon this card from your hand. You can only use each effect of "Melffy Wally" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 400
+Archetype: Melffy
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

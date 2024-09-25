@@ -1,0 +1,14 @@
+Ironhammer the Giant
+Card Type: Effect Monster
+
+Description: If you control "D.D. Esper Star Sparrow", "Beast-Warrior Puma" and "Phoenix Beast Gairuda", you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot change its battle position. Once per turn: You can target 1 monster you control; it can attack your opponent directly this turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 900
+Defence: 3500
+Archetype: //
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

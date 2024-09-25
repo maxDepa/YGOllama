@@ -1,0 +1,13 @@
+Lacrima the Scarlet Sorrow
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Fiendsmith" card.)
+If this card is Normal or Special Summoned: You can send 1 "Fiendsmith" card from your Deck to the GY, except "Lacrima the Scarlet Sorrow". During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 "Fiendsmith" Link Monster in your GY; shuffle this card into the Deck, and if you do, Special Summon that monster. You can only use each effect of "Lacrima the Scarlet Sorrow" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: Fiendsmith
+Present in Sets:

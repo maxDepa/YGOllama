@@ -1,0 +1,15 @@
+Nin-Ken Dog
+Card Type: Normal Monster
+
+Description: A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

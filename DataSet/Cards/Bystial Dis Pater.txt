@@ -1,0 +1,14 @@
+Bystial Dis Pater
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner Dragon monsters
+You can target 1 banished LIGHT or DARK monster; Special Summon it to your field. When your opponent activates a monster effect (Quick Effect): You can target 1 banished card; shuffle it into the Deck, then if you shuffled it into your Deck, destroy that monster, or if you shuffled it into your opponent's Deck, negate that activated effect. You can only use each effect of "Bystial Dis Pater" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 3500
+Defence: 3500
+Archetype: Bystial
+Present in Sets:
+- Cyberstorm Access

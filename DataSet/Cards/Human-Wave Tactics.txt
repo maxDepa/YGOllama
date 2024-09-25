@@ -1,0 +1,15 @@
+Human-Wave Tactics
+Card Type: Trap Card
+
+Description: During the End Phase of each turn, select a number of Level 2 or lower Normal Monsters from your Deck equal to the number of your Level 2 or lower Normal Monsters destroyed as a result of battle during that turn, and Special Summon them to your side of the field. The Deck is then shuffled.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,14 @@
+Mystical Sheep #1
+Card Type: Effect Monster
+
+Description: You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1150
+Defence: 900
+Archetype: //
+Present in Sets:
+- Tournament Pack 5
+- Tournament Pack: 2nd Season

@@ -1,0 +1,16 @@
+Aromaseraphy Sweet Marjoram
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+While your LP are higher than your opponent's, your opponent cannot target Plant monsters you control with card effects. You can only use each of the following effects of "Aromaseraphy Sweet Marjoram" once per turn.
+● If this card is Synchro Summoned: You can add 1 "Humid Winds", "Dried Winds", or "Blessed Winds" from your Deck to your hand.
+● If you gain LP: Target 1 card your opponent controls; destroy it.
+
+Type: Plant
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 2000
+Archetype: Aroma
+Present in Sets:
+- Chaos Impact

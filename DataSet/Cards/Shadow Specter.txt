@@ -1,0 +1,13 @@
+Shadow Specter
+Card Type: Normal Monster
+
+Description: Powerful in groups, this animal spirit can be found in the wastelands.
+
+Type: Zombie
+Attribute: DARK
+Level: 1
+Attack: 500
+Defence: 200
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Match of the Millennium

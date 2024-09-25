@@ -1,0 +1,14 @@
+Constellar Star Cradle
+Card Type: Spell Card
+
+Description: Target 2 "Constellar" monsters in your Graveyard; add those targets to your hand. You cannot conduct your Battle Phase the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

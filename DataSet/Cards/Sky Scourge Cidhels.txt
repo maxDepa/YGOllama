@@ -1,0 +1,15 @@
+Sky Scourge Cidhels
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. If this card is Tribute Summoned by Tributing one of the following monsters from the field: You can apply that effect.
+● LIGHT Fairy: Add 1 LIGHT Fairy or 1 DARK Fiend monster from your Deck to your hand.
+● DARK Fiend: Send 1 LIGHT Fairy monster and/or 1 DARK Fiend monster from your Deck to the GY.
+
+Type: Fiend
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 1600
+Archetype: Sky Scourge
+Present in Sets:
+- Lightning Overdrive

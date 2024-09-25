@@ -1,0 +1,16 @@
+Photon Cerberus
+Card Type: Effect Monster
+
+Description: During the turn this card was Normal Summoned, neither player can activate Trap Cards while this card is face-up on the field.
+
+Type: Beast
+Attribute: LIGHT
+Level: 3
+Attack: 1300
+Defence: 600
+Archetype: Photon
+Present in Sets:
+- Number Hunters
+- Photon Shockwave
+- Star Pack 2013
+- Star Pack 2013

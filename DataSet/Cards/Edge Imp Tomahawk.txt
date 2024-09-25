@@ -1,0 +1,13 @@
+Edge Imp Tomahawk
+Card Type: Effect Monster
+
+Description: You can send 1 "Edge Imp" monster from your hand to the Graveyard; inflict 800 damage to your opponent. You can send 1 "Edge Imp" monster from your Deck to the Graveyard, except "Edge Imp Tomahawk"; this card's name becomes the sent monster's name, until the End Phase. You can only use each effect of "Edge Imp Tomahawk" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Edge Imp
+Present in Sets:
+- Crossed Souls

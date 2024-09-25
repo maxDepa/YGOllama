@@ -1,0 +1,15 @@
+Level Retuner
+Card Type: Trap Card
+
+Description: Reduce the Level of 1 face-up monster you control by up to 2.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack Collection Tin 2009
+- Duelist Pack: Crow
+- Raging Battle

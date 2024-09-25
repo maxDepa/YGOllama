@@ -1,0 +1,13 @@
+Nordic Relic Svalinn
+Card Type: Trap Card
+
+Description: If you control an "Aesir" monster: You can negate the effects of all face-up cards your opponent currently controls, until the end of this turn. You can Tribute 1 "Nordic" monster, then target 1 "Aesir" monster in your GY; Special Summon it. You can only use 1 "Nordic Relic Svalinn" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nordic
+Present in Sets:
+- Battle of Chaos

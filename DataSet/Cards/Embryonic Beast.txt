@@ -1,0 +1,12 @@
+Embryonic Beast
+Card Type: Normal Monster
+
+Description: An imperfect monster with a belly vortex that sucks in opponents of any size.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 750
+Archetype: //
+Present in Sets:

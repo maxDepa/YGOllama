@@ -1,0 +1,12 @@
+Holactie the Creator of Light
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters whose original names are "Slifer the Sky Dragon", "Obelisk the Tormentor", and "The Winged Dragon of Ra". This card's Special Summon cannot be negated. The player that Special Summons this card wins the Duel.
+
+Type: Creator God
+Attribute: DIVINE
+Level: 12
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:

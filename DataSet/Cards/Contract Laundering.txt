@@ -1,0 +1,15 @@
+Contract Laundering
+Card Type: Trap Card
+
+Description: Destroy as many "Dark Contract" cards in your Spell & Trap Zone as possible, and if you do, draw the same number of cards you destroyed, then gain 1000 LP for each card you drew with this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Contract
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Pendulum Domination Structure Deck

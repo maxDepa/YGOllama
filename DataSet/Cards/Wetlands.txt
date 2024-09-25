@@ -1,0 +1,13 @@
+Wetlands
+Card Type: Spell Card
+
+Description: All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction

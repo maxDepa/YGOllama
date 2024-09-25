@@ -1,0 +1,13 @@
+Zombie Warrior
+Card Type: Fusion Monster
+
+Description: "Skull Servant" + "Battle Warrior"
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: Skull Servant
+Present in Sets:
+- OTS Tournament Pack 1

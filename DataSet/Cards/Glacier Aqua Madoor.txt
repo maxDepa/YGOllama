@@ -1,0 +1,14 @@
+Glacier Aqua Madoor
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if your Normal Monster battles an opponent's monster: You can reveal this card in your hand; discard 1 card, and if you do, your monster cannot be destroyed by that battle. At the start of the Damage Step, if this card battles an opponent's monster: You can reveal 1 Normal Monster in your hand; discard 1 card, and if you do, destroy that opponent's monster.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 6
+Attack: 1200
+Defence: 3000
+Archetype: Madoor
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

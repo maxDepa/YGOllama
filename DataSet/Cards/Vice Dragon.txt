@@ -1,0 +1,19 @@
+Vice Dragon
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved.
+
+Type: Dragon
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 2400
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Dragons Collide Structure Deck
+- Duel Disk - Yusei Version
+- Gold Series 3
+- High-Speed Riders
+- Legendary Collection 5D's Mega Pack
+- Structure Deck: The Crimson King

@@ -1,0 +1,16 @@
+Inner Conflict
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+Activate this Skill during your Main Phase. Once per Duel, you can pay half your LP and take control of 1 monster your opponent controls until the End Phase, but it cannot attack directly this turn.
+
+Type: Yami Bakura
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3

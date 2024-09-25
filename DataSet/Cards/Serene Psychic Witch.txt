@@ -1,0 +1,15 @@
+Serene Psychic Witch
+Card Type: Effect Monster
+
+Description: When this card on the field is destroyed and sent to the Graveyard: You can banish 1 Psychic-Type monster with 2000 or less ATK from your Deck. During the next Standby Phase, if this card stays in the Graveyard: Special Summon the monster banished by this card's effect.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Extreme Victory
+- High-Speed Riders

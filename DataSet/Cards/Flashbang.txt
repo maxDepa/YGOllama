@@ -1,0 +1,13 @@
+Flashbang
+Card Type: Trap Card
+
+Description: Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Strike of Neos

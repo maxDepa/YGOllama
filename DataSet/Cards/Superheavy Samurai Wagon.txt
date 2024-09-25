@@ -1,0 +1,14 @@
+Superheavy Samurai Wagon
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can change its battle position. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If you have no Spells/Traps in your GY: You can change this face-up Defense Position card you control to Attack Position, and if you do, add 1 "Superheavy Samurai Soul" monster from your Deck to your hand. You can only use this effect of "Superheavy Samurai Wagon" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Superheavy
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

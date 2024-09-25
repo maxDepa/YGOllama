@@ -1,0 +1,14 @@
+Everliving Underworld Cannon
+Card Type: Spell Card
+
+Description: Once per turn, when a Zombie-Type monster is Special Summoned to your side of the field: Inflict 800 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Legendary Collection 4: Joey's World Mega Pack

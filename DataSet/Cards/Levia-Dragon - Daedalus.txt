@@ -1,0 +1,21 @@
+Levia-Dragon - Daedalus
+Card Type: Effect Monster
+
+Description: You can send 1 face-up "Umi" you control to the GY; destroy all other cards on the field.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 7
+Attack: 2600
+Defence: 1500
+Archetype: Umi
+Present in Sets:
+- Dark Revelation Volume 2
+- Hobby League 1 participation cards B
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Duels From the Deep
+- Speed Duel Tournament Pack 4
+- Speed Duel: Attack from the Deep
+- Structure Deck: Fury from the Deep

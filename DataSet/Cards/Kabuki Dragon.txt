@@ -1,0 +1,13 @@
+Kabuki Dragon
+Card Type: Effect Monster
+
+Description: Once per turn, before damage calculation, if your monster attacked an opponent's monster: You can change the battle position of that monster your opponent controls. Once per turn, before damage calculation, if an opponent's monster attacked your monster: You can change the battle position of that monster you control.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2300
+Defence: 2100
+Archetype: //
+Present in Sets:
+- World Superstars

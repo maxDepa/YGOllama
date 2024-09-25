@@ -1,0 +1,14 @@
+Halfway to Forever
+Card Type: Trap Card
+
+Description: Target 2 monsters in your GY; Special Summon both, but negate their effects (if any), and if you do, immediately after this effect resolves, Xyz Summon 1 LIGHT "Utopia" or "Utopic" Xyz Monster using only those 2 monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Duelist Saga
+- Legendary Duelists: Magical Hero

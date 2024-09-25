@@ -1,0 +1,22 @@
+Shield & Sword
+Card Type: Spell Card
+
+Description: Switch the original ATK and DEF of all face-up monsters currently on the field, until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Demo Deck 2020
+- Speed Duel: Arena of Lost Souls
+- Starter Deck: Joey
+- Structure Deck: Invincible Fortress

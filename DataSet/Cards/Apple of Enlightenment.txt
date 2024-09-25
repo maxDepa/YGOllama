@@ -1,0 +1,14 @@
+Apple of Enlightenment
+Card Type: Trap Card
+
+Description: Target cards in your opponent's GY, up to the number of "Valkyrie" monsters you control; banish them. If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can draw cards equal to the number of "Valkyrie" monsters you control +1.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Valkyrie
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

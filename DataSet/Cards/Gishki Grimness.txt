@@ -1,0 +1,13 @@
+Gishki Grimness
+Card Type: Effect Monster
+
+Description: If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Tribute. If this card is Normal or Special Summoned: You can Special Summon 1 "Gishki" monster from your Deck, except "Gishki Grimness", also you can only declare attacks with Ritual Monsters until the end of this turn. You can only use this effect of "Gishki Grimness" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 700
+Archetype: Gishki
+Present in Sets:
+- Photon Hypernova

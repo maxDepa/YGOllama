@@ -1,0 +1,15 @@
+Ocean Dragon Lord - Neo-Daedalus
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Levia-Dragon - Daedalus". You can send "Umi" you control to the Graveyard to send all cards in both players' hands and on the field to the Graveyard, except this card.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 8
+Attack: 2900
+Defence: 1600
+Archetype: Umi
+Present in Sets:
+- Structure Deck: Fury from the Deep
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

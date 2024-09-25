@@ -1,0 +1,13 @@
+Queen's Bodyguard
+Card Type: Effect Monster
+
+Description: "Allure Queen" monsters on your side of the field cannot be selected as an attack target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Allure Queen
+Present in Sets:
+- Cyberdark Impact

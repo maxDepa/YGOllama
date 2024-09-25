@@ -1,0 +1,12 @@
+Machine Attacker
+Card Type: Normal Monster
+
+Description: This machine, created to lead charges into enemy territory, mows down enemies by rushing.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 1300
+Archetype: //
+Present in Sets:

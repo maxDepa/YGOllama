@@ -1,0 +1,14 @@
+Bujin Regalia - The Mirror
+Card Type: Spell Card
+
+Description: At the start of your Main Phase 1, if your opponent controls more monsters than you do and you control a Beast-Warrior-Type "Bujin" monster: Until the end of your opponent's next turn, Spell/Trap Cards, and their effects, cannot be activated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

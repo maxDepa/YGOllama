@@ -1,0 +1,13 @@
+Sari of the Silverwing Axe
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can target 1 face-up monster on the field; equip this card from your hand or field to it. It gains 100 ATK/DEF. You can only use this effect of "Sari of the Silverwing Axe" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 100
+Archetype: //
+Present in Sets:
+- Photon Hypernova

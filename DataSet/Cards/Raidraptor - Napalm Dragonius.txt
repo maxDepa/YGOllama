@@ -1,0 +1,14 @@
+Raidraptor - Napalm Dragonius
+Card Type: Effect Monster
+
+Description: Once per turn: You can inflict 600 damage to your opponent, also monsters in your possession cannot activate their effects for the rest of this turn, except "Raidraptor" monsters. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "Raidraptor" monster from your Deck, but it has its effects negated.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Raidraptor
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

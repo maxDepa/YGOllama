@@ -1,0 +1,13 @@
+Miracle Flipper
+Card Type: Effect Monster
+
+Description: If you control a "Miracle Flipper", you cannot Summon this card. Your opponent cannot select another face-up monster as an attack target. If this card is destroyed by battle, Special Summon it to your opponent's side of the field at the end of the Battle Phase. If this card is destroyed by the effect of a Spell or Trap Card, destroy 1 monster your opponent controls.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 300
+Defence: 500
+Archetype: //
+Present in Sets:
+- Light of Destruction

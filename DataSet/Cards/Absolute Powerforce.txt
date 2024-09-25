@@ -1,0 +1,17 @@
+Absolute Powerforce
+Card Type: Spell Card
+
+Description: Target 1 "Red Dragon Archfiend" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.
+● It gains 1000 ATK.
+● Your opponent cannot activate cards or effects.
+● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+● Any battle damage your opponent takes from that battle is doubled.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Signature move
+Present in Sets:
+- Structure Deck: The Crimson King

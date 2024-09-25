@@ -1,0 +1,17 @@
+Rainbow Gravity
+Card Type: Trap Card
+
+Description: If you have 7 "Crystal Beast" cards with different names on the field or in your Graveyard: Special Summon 1 "Ultimate Crystal" monster from your Deck or Graveyard, ignoring the Summoning conditions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- Light of Destruction
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box

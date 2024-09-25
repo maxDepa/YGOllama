@@ -1,0 +1,13 @@
+Darklord Ukoback
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "Darklord" card from your Deck to the Graveyard. You can only use this effect of "Darklord Ukoback" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 1000
+Archetype: Darklord
+Present in Sets:
+- Duelist Saga

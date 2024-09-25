@@ -1,0 +1,15 @@
+Disk Magician
+Card Type: Normal Monster
+
+Description: This monster hides in a saucer and only appears when executing an attack.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1350
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

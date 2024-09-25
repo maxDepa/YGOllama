@@ -1,0 +1,18 @@
+Rain Bozu
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in the Extra Decks x 100, until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+Gains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

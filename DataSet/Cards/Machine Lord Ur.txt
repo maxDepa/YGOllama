@@ -1,0 +1,15 @@
+Machine Lord Ur
+Card Type: Effect Monster
+
+Description: This card can attack all monsters your opponent controls once each. If this card attacks or is attacked, your opponent takes no battle damage.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Crossroads of Chaos

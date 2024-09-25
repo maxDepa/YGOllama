@@ -1,0 +1,13 @@
+Compulsory Escape Device
+Card Type: Trap Card
+
+Description: Each player chooses 1 monster they control, then shuffles it into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

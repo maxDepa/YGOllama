@@ -1,0 +1,15 @@
+Geargiagear
+Card Type: Trap Card
+
+Description: Special Summon 2 "Geargiano" monsters from your Deck and increase their Levels by 1. You can only activate 1 "Geargiagear" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Geargia
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Geargia Rampage Structure Deck
+- Lord of the Tachyon Galaxy

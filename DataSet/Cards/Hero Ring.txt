@@ -1,0 +1,15 @@
+Hero Ring
+Card Type: Trap Card
+
+Description: Target 1 Warrior-Type monster with 1500 or less ATK; equip this card to that target. Monsters your opponent controls with 1900 or more ATK cannot attack that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Midterm Paradox
+- Yu-Gi-Oh! GX Duel Academy promotional cards

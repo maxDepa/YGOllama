@@ -1,0 +1,14 @@
+Ally of Justice Unknown Crusher
+Card Type: Effect Monster
+
+Description: When this card battles a LIGHT monster, remove that monster from play after damage calculation.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 1
+- Starstrike Blast

@@ -1,0 +1,14 @@
+Behegon
+Card Type: Normal Monster
+
+Description: With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1350
+Defence: 1000
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 4
+- Tournament Pack 8

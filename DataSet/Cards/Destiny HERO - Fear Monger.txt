@@ -1,0 +1,17 @@
+Destiny HERO - Fear Monger
+Card Type: Effect Monster
+
+Description: During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 "Destiny HERO" monster in your Graveyard, except a "Destiny HERO - Fear Monger"; Special Summon that target.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Destiny HERO
+Present in Sets:
+- Champion Pack: Game Six
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box

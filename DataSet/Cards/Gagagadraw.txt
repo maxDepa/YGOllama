@@ -1,0 +1,13 @@
+Gagagadraw
+Card Type: Spell Card
+
+Description: Banish 3 "Gagaga" monsters from your Graveyard; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gagaga
+Present in Sets:
+- Cosmo Blazer

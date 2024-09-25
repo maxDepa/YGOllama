@@ -1,0 +1,15 @@
+The Wicked Dreadroot
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Wicked God
+Present in Sets:
+- Collectible Tins 2010 Wave 1
+- King's Court
+- Shonen Jump Vol. 6, Issue 1 promotional card

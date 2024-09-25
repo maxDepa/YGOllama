@@ -1,0 +1,14 @@
+Darkness Neosphere
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 Fiend-Type monster you control and 1 Fiend-Type monster from your hand to the Graveyard when your opponent's monster declares an attack. This card cannot be destroyed by battle. Once per turn, you can return all face-up Trap Cards you control to the hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: //
+Present in Sets:
+- Shonen Jump Vol. 7, Issue 11 promotional card
+- Turbo Pack: Booster Five

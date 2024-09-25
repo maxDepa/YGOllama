@@ -1,0 +1,15 @@
+Rafflesia Seduction
+Card Type: Flip Effect Monster
+
+Description: FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

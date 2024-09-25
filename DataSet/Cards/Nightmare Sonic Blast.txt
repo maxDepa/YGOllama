@@ -1,0 +1,18 @@
+Nightmare Sonic Blast!
+Card Type: Skill Card
+
+Description: You can activate this Skill while you control "Serpent Night Dragon". Once per turn, you can reveal the top 4 cards of your Deck, and use 1 of the following Skills, depending on the number of monsters revealed.
+1: Add one of the revealed cards to your hand.
+2: Destroy 1 card your opponent controls.
+3+: Apply both effects.
+Then, place the rest of the revealed cards on top of your Deck in any order. 
+
+Type: Rex
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 4

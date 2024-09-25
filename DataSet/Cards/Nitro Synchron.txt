@@ -1,0 +1,17 @@
+Nitro Synchron
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard for the Synchro Summon of a "Nitro" Synchro Monster: Draw 1 card.
+
+Type: Machine
+Attribute: FIRE
+Level: 2
+Attack: 300
+Defence: 100
+Archetype: Synchron
+Present in Sets:
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- The Duelist Genesis

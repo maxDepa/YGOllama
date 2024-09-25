@@ -1,0 +1,25 @@
+UFO Turtle
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 FIRE monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Duelist League 3 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Onslaught of the Fire Kings Structure Deck
+- Retro Pack
+- Speed Duel GX: Duel Academy Box
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Blaze of Destruction

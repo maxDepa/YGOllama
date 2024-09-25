@@ -1,0 +1,15 @@
+Penumbral Soldier Lady
+Card Type: Effect Monster
+
+Description: If this card battles a LIGHT monster, this card gains 1000 ATK during the Damage Step only.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

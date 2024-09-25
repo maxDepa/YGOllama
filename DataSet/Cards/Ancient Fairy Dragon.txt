@@ -1,0 +1,23 @@
+Ancient Fairy Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Once per turn: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn: You can destroy as many Field Spells on the field as possible, and if you do, gain 1000 LP, then you can add 1 Field Spell from your Deck to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2100
+Defence: 3000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Ancient Prophecy
+- Ancient Prophecy
+- Ancient Prophecy
+- Collectible Tins 2009 Wave 1
+- Legendary Collection 5D's Mega Pack
+- Legendary Collection 5D's Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Maze of Memories

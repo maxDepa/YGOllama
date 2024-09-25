@@ -1,0 +1,20 @@
+Theban Nightmare
+Card Type: Effect Monster
+
+Description: Gains 1500 ATK while you have no cards in your hand nor in your Spell & Trap Zones.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Ancient Sanctuary
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Six
+- Dark Legion Starter Deck
+- Dark Revelation Volume 2
+- Speed Duel: Attack from the Deep

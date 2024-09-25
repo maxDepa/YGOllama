@@ -1,0 +1,17 @@
+Cracking Dragon
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle with a monster with equal or lower Level. When your opponent Normal or Special Summons exactly 1 monster (and no other monsters are Summoned) while this monster is on the field: You can make that monster lose ATK equal to its Level x 200 (until the end of this turn), and if you do, inflict damage to your opponent equal to the ATK lost by this effect.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

@@ -1,0 +1,13 @@
+Aroma Healing
+Card Type: Trap Card
+
+Description: Gain 1000 LP for each "Aroma" monster you control with a different name. You can banish this card from your GY, then target 1 "Aroma" monster in your GY; Special Summon it (but banish it when it leaves the field), then gain 500 LP. You can only use 1 "Aroma Healing" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aroma
+Present in Sets:
+- Phantom Nightmare

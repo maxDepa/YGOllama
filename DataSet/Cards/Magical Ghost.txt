@@ -1,0 +1,15 @@
+Magical Ghost
+Card Type: Normal Monster
+
+Description: This creature casts a spell of terror and confusion just before attacking its enemies.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Speed Duel: Arena of Lost Souls
+- Starter Deck: Yugi
+- Starter Deck: Yugi

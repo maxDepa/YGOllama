@@ -1,0 +1,13 @@
+SPYRAL MISSION - Recapture
+Card Type: Trap Card
+
+Description: Destroy this card during your 3rd End Phase after activation. Once per turn, if a "SPYRAL" monster is Special Summoned to your field (except during the Damage Step): You can target 1 monster your opponent controls; take control of it until the End Phase, but it cannot attack directly this turn. If a "SPYRAL" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your Graveyard instead of destroying 1 of those "SPYRAL" monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: SPYRAL
+Present in Sets:
+- Raging Tempest

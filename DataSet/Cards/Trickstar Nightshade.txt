@@ -1,0 +1,14 @@
+Trickstar Nightshade
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as Link Material for the Link Summon of a "Trickstar" monster: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Trickstar Nightshade" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

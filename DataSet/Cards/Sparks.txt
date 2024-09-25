@@ -1,0 +1,15 @@
+Sparks
+Card Type: Spell Card
+
+Description: Inflict 200 points of damage to your opponent's Life Points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

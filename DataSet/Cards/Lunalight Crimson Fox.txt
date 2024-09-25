@@ -1,0 +1,15 @@
+Lunalight Crimson Fox
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY by a card effect: You can target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. When a card or effect is activated that targets a "Lunalight" monster(s) you control (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, each player gains 1000 LP.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: Lunalight
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Circuit Break

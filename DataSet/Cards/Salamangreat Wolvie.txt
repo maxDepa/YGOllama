@@ -1,0 +1,17 @@
+Salamangreat Wolvie
+Card Type: Effect Monster
+
+Description: A monster that was Link Summoned using this card as material cannot be destroyed by battle or card effect for the rest of that turn. You can only use 1 of the following effects of "Salamangreat Wolvie" per turn, and only once that turn.
+● If this card is Special Summoned from the GY: You can target 1 FIRE monster in your GY; add it to your hand.
+● If this card is added from your GY to your hand by an effect: You can reveal this card, then target 1 FIRE monster in your GY; add it to your hand.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Salamangreat
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike
+- Structure Deck: Soulburner

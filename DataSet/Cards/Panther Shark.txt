@@ -1,0 +1,13 @@
+Panther Shark
+Card Type: Effect Monster
+
+Description: If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing. If you control "Eagle Shark", you can Special Summon this card (from your hand). You can only control 1 "Panther Shark".
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

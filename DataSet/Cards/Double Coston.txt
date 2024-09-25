@@ -1,0 +1,20 @@
+Double Coston
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a DARK monster.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1650
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Champion Pack: Game Five
+- Dark Revelation Volume 2
+- Gold Series: Haunted Mine
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Zombie Madness

@@ -1,0 +1,13 @@
+Turn Silence
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; increase its Level by 3, also if you activated this card in response to your opponent's monster effect activation, while you control "Shining Sarcophagus" and a monster that mentions it, negate that opponent's effect. During damage calculation, if your monster that mentions "Shining Sarcophagus" battles: You can banish this card from your GY; end the Battle Phase. You can only activate 1 "Turn Silence" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shining Sarcophagus
+Present in Sets:
+- Legacy of Destruction

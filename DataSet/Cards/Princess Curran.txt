@@ -1,0 +1,15 @@
+Princess Curran
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Trial of the Princesses". During your Standby Phase, inflict 600 damage to your opponent for each monster they control.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity

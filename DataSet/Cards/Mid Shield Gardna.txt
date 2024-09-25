@@ -1,0 +1,15 @@
+Mid Shield Gardna
+Card Type: Effect Monster
+
+Description: Once per turn, you can flip this card into face-down Defense Position. Negate the activation of any Spell Card that targets this 1 face-down monster. At that time, flip this card into face-up Defense Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

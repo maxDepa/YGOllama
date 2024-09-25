@@ -1,0 +1,16 @@
+Masked Beast Des Gardius
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 monsters, including at least 1 "Grand Tiki Elder" or "Melchid the Four-Face Beast". When this card is sent from the field to the Graveyard, equip 1 "The Mask of Remnants" from your Deck to 1 monster on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3300
+Defence: 2500
+Archetype: Mask
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Tactical Evolution: Special Edition

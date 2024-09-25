@@ -1,0 +1,14 @@
+Jowls of Dark Demise
+Card Type: Flip Effect Monster
+
+Description: FLIP: Take control of 1 monster on your opponent's side of the field until the end of the turn that this card's effect is activated. When the controlled monster attacks, it can attack your opponent's Life Points directly.
+
+Type: Fiend
+Attribute: WATER
+Level: 2
+Attack: 200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian

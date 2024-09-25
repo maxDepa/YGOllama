@@ -1,0 +1,13 @@
+Gagaku-P.U.N.K. Crash Beat
+Card Type: Spell Card
+
+Description: If your opponent activates a card or effect that targets your "P.U.N.K." monster(s): You can target 1 card your opponent controls; destroy it. You can only use this effect of "Gagaku-P.U.N.K. Crash Beat" once per turn. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can activate this effect; this turn, your opponent cannot target "P.U.N.K." monsters you control with card effects, and they cannot be destroyed by your opponent's card effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: P.U.N.K.
+Present in Sets:
+- The Grand Creators

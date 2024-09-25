@@ -1,0 +1,14 @@
+Mist Bird Clausolas
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These changes last until the end of this turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Judgment of the Light

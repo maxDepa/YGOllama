@@ -1,0 +1,14 @@
+Evil HERO Sinister Necrom
+Card Type: Effect Monster
+
+Description: You can banish this card from your GY; Special Summon 1 "Evil HERO" monster from your hand or Deck, except "Evil HERO Sinister Necrom". You can only use this effect of "Evil HERO Sinister Necrom" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 1800
+Archetype: Evil HERO
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

@@ -1,0 +1,21 @@
+Ghost Ogre & Snow Rabbit
+Card Type: Tuner Monster
+
+Description: When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of "Ghost Ogre & Snow Rabbit" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tins
+- Crossed Souls
+- Duel Devastator
+- Duel Power
+- Legendary Collection Kaiba Mega Pack
+- Maximum Gold
+- OTS Tournament Pack 5
+- Premium Gold: Infinite Gold
+- Structure Deck: Albaz Strike

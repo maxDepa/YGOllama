@@ -1,0 +1,15 @@
+Rciela, Sinister Soul of the White Forest
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can send 1 Spell/Trap from your hand or field to the GY; add 1 "White Forest" card or 1 LIGHT Spellcaster monster from your Deck to your hand. You can only use this effect of "Rciela, Sinister Soul of the White Forest" once per turn. Illusion and Spellcaster Synchro Monsters you control gain 500 ATK, also they cannot be destroyed by your opponent's card effects.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 6
+Attack: 2000
+Defence: 1600
+Archetype: White Forest
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

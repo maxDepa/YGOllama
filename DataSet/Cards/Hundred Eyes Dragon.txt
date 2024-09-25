@@ -1,0 +1,17 @@
+Hundred Eyes Dragon
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1 or more non-Tuner Fiend-Type monsters
+Once per turn: You can banish 1 Level 6 or lower DARK Effect Monster from your Graveyard; until the End Phase, this card's name becomes that banished monster's, and replace this effect with that banished monster's original effects. If this card is destroyed and sent to the Graveyard: Add 1 "Earthbound Immortal" monster from your Deck to your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Earthbound
+Present in Sets:
+- Duelist Pack Collection Tin 2011
+- Legendary Collection 5D's Mega Pack
+- Maze of Millennia
+- Shonen Jump Vol. 8, Issue 5 promotional card

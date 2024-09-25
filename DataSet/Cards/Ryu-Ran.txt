@@ -1,0 +1,18 @@
+Ryu-Ran
+Card Type: Normal Monster
+
+Description: A vicious little dragon sheltered in an egg that looks deceptively harmless.
+
+Type: Dragon
+Attribute: FIRE
+Level: 7
+Attack: 2200
+Defence: 2600
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Pegasus

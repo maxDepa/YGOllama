@@ -1,0 +1,15 @@
+Mystery Shell Dragon
+Card Type: Normal Monster
+
+Description: Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.
+
+Type: Wyrm
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Starter Deck: Link Strike

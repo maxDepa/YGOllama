@@ -1,0 +1,15 @@
+Noritoshi in Darkest Rainment
+Card Type: Link Monster
+
+Description: 3+ Spellcaster Effect Monsters
+Must be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! World Championship 2018 prize cards
+- Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards

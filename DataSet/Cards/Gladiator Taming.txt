@@ -1,0 +1,15 @@
+Gladiator Taming
+Card Type: Spell Card
+
+Description: If a face-up "Gladiator Beast" monster is on the field, activate 1 of these effects:
+● Select 1 face-up monster your opponent controls, and change its battle position.
+● Select 1 face-up "Gladiator Beast" monster your opponent controls, and take control of it until the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Extreme Victory

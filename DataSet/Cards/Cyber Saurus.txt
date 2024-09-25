@@ -1,0 +1,17 @@
+Cyber Saurus
+Card Type: Fusion Monster
+
+Description: "Blast Juggler" + "Two-Headed King Rex"
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)

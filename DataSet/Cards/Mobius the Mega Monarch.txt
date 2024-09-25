@@ -1,0 +1,18 @@
+Mobius the Mega Monarch
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.
+● Your opponent cannot activate the targeted cards in response to this effect's activation.
+
+Type: Aqua
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Legacy of the Valiant
+- Star Pack ARC-V
+- Star Pack ARC-V

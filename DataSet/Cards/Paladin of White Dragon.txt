@@ -1,0 +1,17 @@
+Paladin of White Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "White Dragon Ritual". At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. You can Tribute this card; Special Summon 1 "Blue-Eyes White Dragon" from your hand or Deck, but "Blue-Eyes White Dragons" cannot attack for the rest of this turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Blue-Eyes
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist Pack: Kaiba
+- Magician's Force
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba Evolution

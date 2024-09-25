@@ -1,0 +1,14 @@
+Battlin' Boxer Counterpunch
+Card Type: Effect Monster
+
+Description: During the Damage Step of either player's turn, when a "Battlin' Boxer" monster you control is attacking or being attacked: You can banish this card from your hand or Graveyard; that monster gains 1000 ATK, until the end of this turn. You can only use the effect of "Battlin' Boxer Counterpunch" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 0
+Defence: 1100
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

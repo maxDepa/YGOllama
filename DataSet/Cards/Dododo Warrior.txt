@@ -1,0 +1,17 @@
+Dododo Warrior
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent's Graveyard, until the end of the Damage Step.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 900
+Archetype: Dododo
+Present in Sets:
+- Star Pack 2014
+- Star Pack 2014
+- War of the Giants Reinforcements
+- War of the Giants: Round 2
+- Zexal Collection Tin

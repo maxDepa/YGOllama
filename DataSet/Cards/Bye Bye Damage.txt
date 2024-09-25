@@ -1,0 +1,14 @@
+Bye Bye Damage
+Card Type: Trap Card
+
+Description: During damage calculation, if your monster is attacked: Your battling monster cannot be destroyed by that battle, also if you take battle damage from that battle, your opponent takes effect damage equal to double that amount. You can only apply this effect of "Bye Bye Damage" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

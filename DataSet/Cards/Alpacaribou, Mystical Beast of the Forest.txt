@@ -1,0 +1,15 @@
+Alpacaribou, Mystical Beast of the Forest
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: Attack Position Winged Beast, Insect, and Plant-Type monsters you control cannot be destroyed by battle.
+● While in Defense Position: Defense Position Winged Beast, Insect, and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2700
+Defence: 2100
+Archetype: Mystical Beast of the Forest
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

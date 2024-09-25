@@ -1,0 +1,19 @@
+Stray Lambs
+Card Type: Spell Card
+
+Description: Special Summon 2 "Lamb Tokens" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. You cannot Summon other monsters the turn you activate this card (but you can Set).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Two
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow

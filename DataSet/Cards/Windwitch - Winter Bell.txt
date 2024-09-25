@@ -1,0 +1,15 @@
+Windwitch - Winter Bell
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner WIND monsters
+You can target 1 "Windwitch" monster in your GY; inflict damage to your opponent equal to that target's Level x 200. During the Battle Phase (Quick Effect): You can target 1 "Windwitch" monster you control; Special Summon 1 monster from your hand with a Level less than or equal to that monster, but it cannot attack this turn. You can only use each effect of "Windwitch - Winter Bell" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Windwitch
+Present in Sets:
+- OTS Tournament Pack 6
+- Raging Tempest

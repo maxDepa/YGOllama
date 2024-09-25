@@ -1,0 +1,18 @@
+D/D/D Supersight King Zero Maxwell
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 face-up monster on the field; its DEF becomes 0 until the end of this turn (even if this card leaves the field). You can only use this effect of "D/D/D Supersight King Zero Maxwell" once per turn.
+
+[ Monster Effect ] 
+Before damage calculation, if this card attacks an opponent's Defense Position monster: You can change the DEF of that opponent's monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. You take no battle damage from battles involving this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 2500
+Archetype: D/D
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

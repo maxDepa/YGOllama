@@ -1,0 +1,13 @@
+Disarm
+Card Type: Trap Card
+
+Description: Return 1 "Gladiator Beast" card from your hand to the Deck, and negate the activation and effect of a Spell Card, and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault

@@ -1,0 +1,14 @@
+Albion the Sanctifire Dragon
+Card Type: Fusion Monster
+
+Description: "Fallen of Albaz" + 1 LIGHT Spellcaster monster
+Cannot be used as Fusion Material. Your opponent cannot target this card with card effects. You can only use each of the following effects of "Albion the Sanctifire Dragon" once per turn. During your opponent's turn (Quick Effect): You can target 2 monsters in any GY(s); Special Summon both monsters, 1 to each field. If this card is in your GY: You can Tribute 4 monsters, the 2 in the Extra Monster Zones and the 2 in the central Main Monster Zones, and if you do, Special Summon this card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Albaz Dragon
+Present in Sets:
+- Cyberstorm Access

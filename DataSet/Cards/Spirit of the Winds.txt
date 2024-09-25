@@ -1,0 +1,12 @@
+Spirit of the Winds
+Card Type: Normal Monster
+
+Description: A free-spirited wind elemental that flits about as it desires. It brings storms when it becomes upset.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 5
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:

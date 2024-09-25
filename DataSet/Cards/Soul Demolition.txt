@@ -1,0 +1,16 @@
+Soul Demolition
+Card Type: Trap Card
+
+Description: You can only activate this card's effect when you have a Fiend-Type monster on your side of the field. Pay 500 Life Points to use this effect. Both players select 1 Monster Card from their opponent's Graveyard. Remove the selected cards from play.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel: Battle City Box

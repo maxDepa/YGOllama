@@ -1,0 +1,13 @@
+Rai Rider
+Card Type: Effect Monster
+
+Description: If this card battles an opponent's monster: That monster cannot attack while it is face-up on the field.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Photon Shockwave

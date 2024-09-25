@@ -1,0 +1,18 @@
+Aqua Spirit
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WATER monster in your Graveyard. During each of your opponent's Standby Phases, you can change the battle position of 1 of your opponent's face-up Monster Cards. Once changed, the monster must remain in this position for the rest of the turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Freezing Chains

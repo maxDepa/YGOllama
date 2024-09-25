@@ -1,0 +1,17 @@
+Elemental HERO Aqua Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + "Neo-Spacian Aqua Dolphin"
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) Once per turn: You can discard 1 card; destroy 1 random card in your opponent's hand. During the End Phase: Shuffle this card into the Extra Deck.
+
+Type: Warrior
+Attribute: WATER
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist

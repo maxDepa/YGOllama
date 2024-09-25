@@ -1,0 +1,14 @@
+Predapractice
+Card Type: Spell Card
+
+Description: Special Summon 1 "Predaplant" monster from your hand, then add 1 "Predap" card from your Deck to your hand, except "Predapractice", also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters. You can only activate 1 "Predapractice" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Predaplant
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

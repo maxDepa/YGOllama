@@ -1,0 +1,12 @@
+Laughing Flower
+Card Type: Normal Monster
+
+Description: A flower whose laugh can confuse the minds of enemies.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 900
+Defence: 500
+Archetype: //
+Present in Sets:

@@ -1,0 +1,13 @@
+Oni-Gami Combo
+Card Type: Spell Card
+
+Description: Target 1 face-up Xyz Monster you control and detach all of its Xyz Material; this turn, that target can attack twice during the same Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

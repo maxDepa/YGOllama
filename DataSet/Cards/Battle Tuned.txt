@@ -1,0 +1,13 @@
+Battle Tuned
+Card Type: Spell Card
+
+Description: Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster's ATK.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

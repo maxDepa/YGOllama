@@ -1,0 +1,15 @@
+Gimmick Puppet Dreary Doll
+Card Type: Effect Monster
+
+Description: If this card is in your GY: You can banish 1 other "Gimmick Puppet" monster from your GY; Special Summon this card. You can only use this effect of "Gimmick Puppet Dreary Doll" once per turn. Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a "Gimmick Puppet" monster.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 0
+Defence: 0
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Premium Gold
+- The Lost Art Promotion 2024

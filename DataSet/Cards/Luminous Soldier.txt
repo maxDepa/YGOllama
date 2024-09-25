@@ -1,0 +1,15 @@
+Luminous Soldier
+Card Type: Effect Monster
+
+Description: If this card battles a DARK monster, increase the ATK of this card by 500 points during the Damage Step only.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2100
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Tournament Pack 5
+- Tournament Pack 7

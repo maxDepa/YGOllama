@@ -1,0 +1,16 @@
+Full Armored Black Ray Lancer
+Card Type: XYZ Monster
+
+Description: 3 Level 4 WATER monsters
+You can also Xyz Summon this card by using a Rank 3 WATER Xyz Monster you control that has no Xyz Materials as the Xyz Material. This card gains 200 ATK for each Xyz Material attached to it. If this face-up card would be destroyed, you can detach all of its Xyz Materials instead. If this card destroys an opponent's monster by battle: You can target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 4
+Attack: 2100
+Defence: 600
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- Legendary Duelists: Duels From the Deep
+- Maze of Millennia

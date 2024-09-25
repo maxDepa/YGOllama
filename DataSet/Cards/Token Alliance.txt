@@ -1,0 +1,12 @@
+Token Alliance
+Card Type: Spell Card
+
+Description: You can Tribute any number of Tokens, then target 1 monster you control with 0 ATK; until the end of this turn, it gains 1000 ATK for each Token Tributed, also it can make up to that many attacks on monsters during each Battle Phase. You can only use this effect of "Token Alliance" once per turn. At the end of your opponent's Battle Phase: You can Special Summon "Alliance Tokens" (Beast/EARTH/Level 1/ATK 0/DEF 0), up to the number of Tokens destroyed during this Battle Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

@@ -1,0 +1,14 @@
+Amulet of Ambition
+Card Type: Spell Card
+
+Description: Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels, during that damage calculation only. When this card is sent to the GY: You can place it on top of your Deck.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators
+- Tactical Evolution

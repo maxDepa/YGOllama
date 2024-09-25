@@ -1,0 +1,16 @@
+Leo, the Keeper of the Sacred Tree
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Your opponent cannot target this card with card effects, except during your Main Phase 2.
+
+Type: Beast
+Attribute: EARTH
+Level: 10
+Attack: 3100
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Legacy of the Valiant
+- Legendary Hero Decks

@@ -1,0 +1,15 @@
+Fiendish Rhino Warrior
+Card Type: Effect Monster
+
+Description: Fiend monsters you control, except "Fiendish Rhino Warrior", cannot be destroyed by battle or card effects. If this card is sent to the GY: You can send 1 Fiend monster from your Deck to the GY, except "Fiendish Rhino Warrior". You can only use this effect of "Fiendish Rhino Warrior" once per turn.
+
+Type: Fiend
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 900
+Archetype: //
+Present in Sets:
+- Breakers of Shadow
+- OTS Tournament Pack 2
+- Structure Deck: Lair of Darkness

@@ -1,0 +1,15 @@
+Fire Lake of the Burning Abyss
+Card Type: Trap Card
+
+Description: Send 2 face-up "Burning Abyss" monsters you control to the Graveyard, then target up to 3 cards on the field; destroy those targets.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Burning Abyss
+Present in Sets:
+- Premium Gold: Infinite Gold
+- The New Challengers
+- The New Challengers: Super Edition

@@ -1,0 +1,15 @@
+Invoked Augoeides
+Card Type: Fusion Monster
+
+Description: "Aleister the Invoker" + 1 Fusion Monster
+If this card is Special Summoned, or a monster(s) is Special Summoned to your opponent's field: You can target 1 monster your opponent controls; destroy it. You can only use this effect of "Invoked Augoeides" once per turn. Once per turn: You can banish 1 Fusion Monster from your GY; this card gains ATK equal to that banished monster's ATK, until the end of your opponent's turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2000
+Defence: 2800
+Archetype: Invoked
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

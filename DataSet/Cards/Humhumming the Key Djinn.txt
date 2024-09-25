@@ -1,0 +1,14 @@
+Humhumming the Key Djinn
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+When this card is Special Summoned: You can target 1 "Djinn" Xyz Monster in your Graveyard; Special Summon it, then you can attach up to 2 cards from your hand to it as Xyz Materials. Once per turn: You can detach 1 Xyz Material from this card, then target 1 "Djinn" Xyz Monster you control; this turn, it can attack your opponent directly.
+
+Type: Fiend
+Attribute: WATER
+Level: 3
+Attack: 1100
+Defence: 1800
+Archetype: Djinn
+Present in Sets:
+- World Superstars

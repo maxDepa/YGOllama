@@ -1,0 +1,13 @@
+Generaider Boss Bite
+Card Type: Trap Card
+
+Description: Tribute any number of "Generaider" monsters, then target 1 face-up Xyz Monster you control; attach exactly that many "Generaider" monsters from your hand, field, and/or GY to it, except the monsters Tributed to activate this effect. You can only activate 1 "Generaider Boss Bite" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Generaider
+Present in Sets:
+- Mystic Fighters

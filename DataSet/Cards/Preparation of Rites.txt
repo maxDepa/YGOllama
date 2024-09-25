@@ -1,0 +1,21 @@
+Preparation of Rites
+Card Type: Spell Card
+
+Description: Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell from your GY to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- Hidden Summoners
+- Maximum Gold
+- Premium Gold: Return of the Bling
+- Stardust Overdrive
+- The Secret Forces
+- Wild Survivors

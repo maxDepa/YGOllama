@@ -1,0 +1,18 @@
+Otohime
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 face-up monster your opponent controls; change that target's battle position.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legacy of Darkness
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

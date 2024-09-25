@@ -1,0 +1,16 @@
+Queen Bird
+Card Type: Normal Monster
+
+Description: This monster attacks enemies using its huge beak.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 1200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

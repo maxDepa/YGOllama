@@ -1,0 +1,15 @@
+Kuriphoton
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can send this card from your hand to the GY and pay 2000 LP; you take no damage this turn. If this card is in your GY: You can send 1 "Photon" monster from your hand to the GY, except "Kuriphoton"; add this card from your GY to your hand. You can only use this effect of "Kuriphoton" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Photon
+Present in Sets:
+- Legendary Duelists: White Dragon Abyss
+- Yu-Gi-Oh! Advent Calendar (2019)
+- Zexal Collection Tin

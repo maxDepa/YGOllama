@@ -1,0 +1,15 @@
+Revival Golem
+Card Type: Effect Monster
+
+Description: The effect of "Revival Golem" can only be used once per turn. When this card is sent from your Deck to the Graveyard: Activate 1 of these effects.
+● Special Summon this card from the Graveyard.
+● Add this card from the Graveyard to your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Return of the Duelist

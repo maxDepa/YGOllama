@@ -1,0 +1,13 @@
+Morphtronic Rusty Engine
+Card Type: Spell Card
+
+Description: Equip only to a "Morphtronic" monster. If the equipped monster is destroyed, inflict damage to each player equal to its original ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crimson Crisis

@@ -1,0 +1,16 @@
+Skull Knight
+Card Type: Fusion Monster
+
+Description: "Tainted Wisdom" + "Ancient Brain"
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2650
+Defence: 2250
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Trials of the Kingdom

@@ -1,0 +1,12 @@
+Madjinn Gunn
+Card Type: Normal Monster
+
+Description: A living weapon that spits projectiles.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 800
+Archetype: Djinn
+Present in Sets:

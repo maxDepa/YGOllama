@@ -1,0 +1,14 @@
+Temple of the Mind's Eye
+Card Type: Spell Card
+
+Description: Any battle damage a player takes becomes 1000.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

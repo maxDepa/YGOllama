@@ -1,0 +1,16 @@
+Needlebug Nest
+Card Type: Trap Card
+
+Description: Send the top 5 cards of your Deck to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Rise of the True Dragons Structure Deck
+- Structure Deck: Zombie Horde
+- The Duelist Genesis
+- Wing Raiders

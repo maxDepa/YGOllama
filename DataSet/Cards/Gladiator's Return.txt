@@ -1,0 +1,15 @@
+Gladiator's Return
+Card Type: Spell Card
+
+Description: Target 3 "Gladiator Beast" cards in your Graveyard; shuffle all 3 targets into the Deck, then draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack

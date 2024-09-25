@@ -1,0 +1,24 @@
+The Winged Dragon of Ra
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay LP so that you only have 100 left; this card gains ATK/DEF equal to the amount of LP paid. You can pay 1000 LP, then target 1 monster on the field; destroy that target.
+
+Type: Divine-Beast
+Attribute: DIVINE
+Level: 10
+Attack: -1
+Defence: -1
+Archetype: Egyptian God
+Present in Sets:
+- 2019 Gold Sarcophagus Tin
+- Battle Pack 2: War of the Giants
+- King's Court
+- King's Court
+- Legendary Decks II
+- Legendary Duelists: Rage of Ra
+- Legendary Duelists: Rage of Ra
+- Order of Chaos: Special Edition
+- Premium Gold
+- Shonen Jump Vol. 9, Issue 1 promotional card
+- Speed Duel: Battle City Box
+- WSJ Jump Pack Spring 2018 promotional card

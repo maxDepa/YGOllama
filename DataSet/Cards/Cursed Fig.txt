@@ -1,0 +1,15 @@
+Cursed Fig
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Target 2 Set Spell/Trap Cards on the field; while this card is in the Graveyard, those Set cards cannot be activated.
+
+Type: Plant
+Attribute: WATER
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

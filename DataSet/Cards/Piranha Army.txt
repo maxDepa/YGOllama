@@ -1,0 +1,14 @@
+Piranha Army
+Card Type: Effect Monster
+
+Description: The Battle Damage this card inflicts by attacking your opponent's Life Points directly is doubled.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 800
+Defence: 200
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

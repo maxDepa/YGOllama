@@ -1,0 +1,13 @@
+Ninjitsu Art of Mirage-Transformation
+Card Type: Trap Card
+
+Description: Tribute 1 "Ninja" monster, then target 1 monster in your opponent's GY; Special Summon it to your field. It is also treated as a "Ninja" monster while this card is face-up on the field. When this card leaves the field, send that monster to the GY. You can only activate 1 "Ninjitsu Art of Mirage-Transformation" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- Shadows in Valhalla

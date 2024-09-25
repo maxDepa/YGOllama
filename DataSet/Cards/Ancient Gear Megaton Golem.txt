@@ -1,0 +1,15 @@
+Ancient Gear Megaton Golem
+Card Type: Fusion Monster
+
+Description: 3 "Ancient Gear" monsters
+If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this card was Fusion Summoned using 2 or more "Ancient Gear Golem" and/or "Ancient Gear Golem - Ultimate Pound" as material, it can attack up to that many times during each Battle Phase. If this face-up Fusion Summoned card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 1 "Ultimate Ancient Gear Golem" from your Extra Deck, ignoring its Summoning conditions.
+
+Type: Machine
+Attribute: EARTH
+Level: 9
+Attack: 3300
+Defence: 3300
+Archetype: Ancient Gear
+Present in Sets:
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1

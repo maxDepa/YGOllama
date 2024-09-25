@@ -1,0 +1,15 @@
+Nimble Angler
+Card Type: Effect Monster
+
+Description: If this card is sent from the hand or Deck to the Graveyard: You can Special Summon up to 2 Level 3 or lower "Nimble" monsters from your Deck, except "Nimble Angler".
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 100
+Archetype: Nimble
+Present in Sets:
+- Abyss Rising
+- Maze of Memories
+- OTS Tournament Pack 22

@@ -1,0 +1,12 @@
+Abyss Flower
+Card Type: Normal Monster
+
+Description: A rarely seen flower that blossoms quietly on the edge of darkness.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 750
+Defence: 400
+Archetype: //
+Present in Sets:

@@ -1,0 +1,13 @@
+Speedroid Dupligate
+Card Type: Trap Card
+
+Description: Banish 1 WIND monster from your GY, then target 1 card your opponent controls; return it to the hand. During your Main Phase, if this card is in your GY: You can target 1 Level 2 or higher "Speedroid" monster you control; reduce its Level by 1, and if you do, Special Summon this card as a Normal Monster (Machine/Tuner/WIND/Level 1/ATK 0/DEF 0). (This card is NOT treated as a Trap.) You can only use this effect of "Speedroid Dupligate" once per Duel.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Speedroid
+Present in Sets:
+- Legendary Duelists: Synchro Storm

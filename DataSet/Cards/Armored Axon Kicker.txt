@@ -1,0 +1,13 @@
+Armored Axon Kicker
+Card Type: Effect Monster
+
+Description: If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.
+
+Type: Psychic
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

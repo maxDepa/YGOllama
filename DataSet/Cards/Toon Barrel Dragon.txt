@@ -1,0 +1,16 @@
+Toon Barrel Dragon
+Card Type: Toon Monster
+
+Description: Cannot attack the turn it is Summoned. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can target 1 card on the field; toss a coin 3 times and destroy it if at least 2 of the results are Heads.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 2200
+Archetype: Toon
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Match of the Millennium

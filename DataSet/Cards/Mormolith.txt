@@ -1,0 +1,14 @@
+Mormolith
+Card Type: Effect Monster
+
+Description: You can Tribute 1 face-up EARTH monster to destroy all face-up monsters with DEF equal to or less than the ATK of the Tributed card.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 900
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Tactical Evolution

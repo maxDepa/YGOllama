@@ -1,0 +1,16 @@
+Sekka's Light
+Card Type: Spell Card
+
+Description: If you have no Spells/Traps in your GY: Draw 2 cards, also, for the rest of this Duel after you activate this card, you cannot activate Spell/Trap Cards or effects, except "Sekka's Light". You can banish this card from your GY; reveal 1 monster in your hand, shuffle it into the Deck, then, draw 1 card. You can only use each effect of "Sekka's Light" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)

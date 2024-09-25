@@ -1,0 +1,15 @@
+Munin the Runick Wings
+Card Type: Fusion Monster
+
+Description: 2 "Runick" monsters
+If this card is Special Summoned from the Extra Deck: You can discard 1 card; add 1 "Runick" Continuous Spell from your Deck to your hand. When your opponent activates a card or effect that targets a "Runick" card(s) you control or a Set card(s) you control (Quick Effect): You can banish this card you control; negate the activation, and if you do, destroy that card. Once per turn, during the End Phase: Gain 1000 LP.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 2000
+Archetype: Runick
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

@@ -1,0 +1,16 @@
+Forest
+Card Type: Spell Card
+
+Description: All Insect, Beast, Plant, and Beast-Warrior monsters on the field gain 200 ATK/DEF.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Speed Duel Starter Decks: Ultimate Predators

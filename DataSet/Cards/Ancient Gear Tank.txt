@@ -1,0 +1,13 @@
+Ancient Gear Tank
+Card Type: Spell Card
+
+Description: Equip only to an "Ancient Gear" monster. It gains 600 ATK. When this card is destroyed and sent to the Graveyard: Inflict 600 damage to your opponent.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Structure Deck: Machine Re-Volt

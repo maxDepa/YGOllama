@@ -1,0 +1,23 @@
+Triple Tactics Talent
+Card Type: Spell Card
+
+Description: If your opponent has activated a monster effect during your Main Phase this turn: Activate 1 of these effects;
+● Draw 2 cards.
+● Take control of 1 monster your opponent controls until the End Phase.
+● Look at your opponent's hand, and choose 1 card from it to shuffle into the Deck.
+You can only activate 1 "Triple Tactics Talent" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Magnificent Mavens
+- Magnificent Mavens
+- Rise of the Duelist
+- Rise of the Duelist

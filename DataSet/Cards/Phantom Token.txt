@@ -1,0 +1,12 @@
+Phantom Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Number 48: Shadow Lich".
+
+Type: Fiend
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

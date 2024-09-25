@@ -1,0 +1,15 @@
+Dragonlark Pairen
+Card Type: XYZ Monster
+
+Description: 2 Level 6 monsters
+Cannot be destroyed by battle or card effect while a monster, other than "Dragonlark Pairen", is face-up on the field that was Special Summoned from the GY. During the Standby Phase: You can detach 1 material from this card, then target 1 Level 5 or lower monster in your GY; Special Summon it. You can only use this effect of "Dragonlark Pairen" once per turn.
+
+Type: Wyrm
+Attribute: WIND
+Level: 6
+Attack: 2700
+Defence: 1300
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

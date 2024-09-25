@@ -1,0 +1,17 @@
+Tri-Brigade Roar
+Card Type: Spell Card
+
+Description: If you control a Link Monster: Send 1 "Tri-Brigade" card from your Deck or Extra Deck to the GY, then target 1 Effect Monster on the field; apply the following effect based on the type of card sent to the GY.
+● Monster: Change the targeted monster's ATK to 0 until the end of this turn.
+● Spell: Negate that monster's effects until the end of this turn.
+● Trap: Return that monster to the hand.
+You can only activate 1 "Tri-Brigade Roar" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tri-Brigade
+Present in Sets:
+- Cyberstorm Access

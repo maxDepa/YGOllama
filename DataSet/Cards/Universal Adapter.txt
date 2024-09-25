@@ -1,0 +1,15 @@
+Universal Adapter
+Card Type: Trap Card
+
+Description: Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's current ATK, until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- Flames of Destruction Special Edition

@@ -1,0 +1,15 @@
+Dark Magician the Dragon Knight
+Card Type: Fusion Monster
+
+Description: "Dark Magician" + 1 Dragon monster
+This card's name becomes "Dark Magician" while on the field or in the GY. Your opponent cannot target Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Dark Magician
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Dragon Decks

@@ -1,0 +1,13 @@
+Xyz Dimension Splash
+Card Type: Trap Card
+
+Description: If this Set card is banished: You can Special Summon 2 Level 8 WATER monsters from your Deck. Their effects are negated, also they cannot declare an attack or be Tributed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

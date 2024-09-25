@@ -1,0 +1,14 @@
+Ghostrick Vanish
+Card Type: Trap Card
+
+Description: Reveal 1 "Ghostrick" monster in your hand; this turn, "Ghostrick" cards you control, and face-down Defense Position monsters you control, cannot be targeted by, or be destroyed by, card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

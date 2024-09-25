@@ -1,0 +1,13 @@
+Gemini Counter
+Card Type: Trap Card
+
+Description: Change 1 face-up Gemini monster you control to face-down Defense Position and negate the activation of an opponent's Spell Card, and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

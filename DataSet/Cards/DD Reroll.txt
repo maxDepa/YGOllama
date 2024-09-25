@@ -1,0 +1,13 @@
+D/D Reroll
+Card Type: Trap Card
+
+Description: "Dark Contract" cards you control cannot be destroyed by your opponent's card effects. You can banish this card from your Graveyard, then target up to 3 of your other banished "D/D" cards; shuffle them into the Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

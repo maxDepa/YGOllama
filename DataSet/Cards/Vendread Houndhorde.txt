@@ -1,0 +1,15 @@
+Vendread Houndhorde
+Card Type: Effect Monster
+
+Description: If this card is in your GY: You can discard 1 "Vendread" card; Special Summon this card, but banish it when it leaves the field. A "Vendread" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of "Vendread Houndhorde" once per turn.
+● Once per turn (Quick Effect): You can target 1 Spell/Trap your opponent controls; banish it.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 2100
+Archetype: Vendread
+Present in Sets:
+- Code of the Duelist
+- Code of the Duelist Sneak Peek Participation Card

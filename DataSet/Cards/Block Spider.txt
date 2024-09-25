@@ -1,0 +1,13 @@
+Block Spider
+Card Type: Effect Monster
+
+Description: Your opponent cannot target Insect-Type monsters for attacks, except this one. If this card is Special Summoned: You can Special Summon 1 "Block Spider" from your Deck. You can only use this effect of "Block Spider" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 100
+Archetype: //
+Present in Sets:
+- The New Challengers

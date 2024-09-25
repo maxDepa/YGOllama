@@ -1,0 +1,13 @@
+Testament of the Arcane Lords
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Spellcaster-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! World Championship 2006 prize cards

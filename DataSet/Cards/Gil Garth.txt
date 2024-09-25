@@ -1,0 +1,18 @@
+Gil Garth
+Card Type: Normal Monster
+
+Description: This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Demo Deck 2015
+- Gladiator's Assault
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)

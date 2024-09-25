@@ -1,0 +1,15 @@
+M-Warrior #2
+Card Type: Normal Monster
+
+Description: Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

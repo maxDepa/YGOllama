@@ -1,0 +1,13 @@
+Cyberse Sage
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Cynet Ritual". During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing materials mentioned on it from your field or GY, including a Cyberse monster. If this card is sent to the GY as Synchro Material: You can target 1 Cyberse monster or 1 Ritual Spell in your GY; add it to your hand. You can only use each effect of "Cyberse Sage" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Cyber
+Present in Sets:
+- Cyberstorm Access

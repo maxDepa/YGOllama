@@ -1,0 +1,13 @@
+Psychic Wave
+Card Type: Spell Card
+
+Description: If you control a Machine monster: Send 1 "Jinzo" from your hand or Deck to the GY; inflict 600 damage to your opponent. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Machine monster in your GY; send 1 "Jinzo" monster from your Deck to the GY, and if you do, add that targeted monster to your hand. You can only use this effect of "Psychic Wave" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Jinzo
+Present in Sets:
+- Battles of Legend: Armageddon

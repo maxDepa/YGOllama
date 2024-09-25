@@ -1,0 +1,17 @@
+Honeybot
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+Neither player can target monsters this card points to with card effects, and those monsters cannot be destroyed by battle.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Starter Deck: Link Strike

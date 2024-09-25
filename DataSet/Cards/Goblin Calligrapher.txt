@@ -1,0 +1,14 @@
+Goblin Calligrapher
+Card Type: Normal Monster
+
+Description: A Goblin who devotes himself to mastering perfect calligraphy of the word "False". He gives his all to each stroke.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist

@@ -1,0 +1,21 @@
+Goblindbergh
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Generation Force
+- Master of Pendulum Structure Deck
+- Star Pack 2013
+- Star Pack 2013
+- Starter Deck: Xyz Symphony
+- Structure Deck: Powercode Link
+- Super Starter: V for Victory

@@ -1,0 +1,14 @@
+Vouiburial, the Dragon Undertaker
+Card Type: Effect Monster
+
+Description: If this card battles a monster, neither can be destroyed by that battle. During the Main Phase, if a monster(s) your opponent controls is sent to the GY: You can activate the following effect, based on where this card is at activation (but you can only use each effect of "Vouiburial, the Dragon Undertaker" once per turn);
+● Hand: Special Summon this card.
+● Field: Make 1 Effect Monster your opponent controls lose 1500 ATK, then if its ATK becomes 0 by this effect, you can destroy it.
+
+Type: Illusion
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 0
+Archetype: //
+Present in Sets:

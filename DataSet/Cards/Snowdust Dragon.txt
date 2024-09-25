@@ -1,0 +1,13 @@
+Snowdust Dragon
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by removing 4 Ice Counters from anywhere on the field. Other monsters with Ice Counters cannot attack or change their battle positions.
+
+Type: Dragon
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Abyss Rising

@@ -1,0 +1,14 @@
+Terrors in the Hidden City
+Card Type: Spell Card
+
+Description: Your opponent cannot target face-down Defense Position monsters you control with card effects. Monsters you control that were flipped face-up while this card was face-up on the field gain 1500 ATK/DEF. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can target 1 monster in your GY; Special Summon it in face-down Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

@@ -1,0 +1,15 @@
+Illusion of Chaos
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Chaos Form". You can reveal this card in your hand; add 1 "Dark Magician", or 1 non-Ritual Monster that mentions it, from your Deck to your hand, then place 1 card from your hand on top of the Deck. When your opponent activates a monster effect (Quick Effect): You can return this card to the hand, and if you do, Special Summon 1 "Dark Magician" from your GY, and if you do that, negate that activated effect. You can only use each effect of "Illusion of Chaos" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2100
+Defence: 2500
+Archetype: Chaos
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos
+- Battle of Chaos

@@ -1,0 +1,19 @@
+Covering Fire
+Card Type: Trap Card
+
+Description: During the Damage Step, while an opponent's monster is attacking a monster you control: Target 1 other face-up monster you control; your attacked monster gains ATK equal to that target's ATK during the Damage Step only.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Machine Re-Volt
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,17 @@
+Air Cracking Storm
+Card Type: Spell Card
+
+Description: Equip only to a Machine monster. When that attacking monster destroys your opponent's monster by battle: You can activate this effect; it can make a second attack during this Battle Phase. Your other monsters cannot attack the turn you activate this effect.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

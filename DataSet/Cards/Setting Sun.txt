@@ -1,0 +1,13 @@
+Setting Sun
+Card Type: Skill Card
+
+Description: Once per turn, during your Main Phase, if you control a monster whose ATK was ? in the Deck, you can banish 1 card from your hand, then add 1 monster from your Deck to your hand with ? ATK, but with a different name than the cards you control. "Helios" monsters you control cannot be banished.
+
+Type: Amnael
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

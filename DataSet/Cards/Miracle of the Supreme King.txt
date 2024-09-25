@@ -1,0 +1,16 @@
+Miracle of the Supreme King
+Card Type: Trap Card
+
+Description: If you control "Supreme King Z-ARC": Activate 1 of these effects (but you can only use each effect of "Miracle of the Supreme King" once per turn);
+● Destroy 1 "Supreme King Z-ARC" you control, and if you do, Special Summon 1 "Odd-Eyes" Pendulum Monster or 1 LIGHT "Supreme King Z-ARC" from your Deck or Extra Deck, ignoring its Summoning conditions.
+● Place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone.
+● Set 1 Quick-Play Spell directly from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Supreme King
+Present in Sets:
+- Age of Overlord

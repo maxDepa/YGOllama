@@ -1,0 +1,15 @@
+Man Eater
+Card Type: Normal Monster
+
+Description: Man-eating plant with poison feelers for attacking enemies.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

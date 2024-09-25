@@ -1,0 +1,13 @@
+Soul Hunter
+Card Type: Fusion Monster
+
+Description: "Lord of the Lamp" + "Invader from Another Dimension"
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Astral Pack Seven

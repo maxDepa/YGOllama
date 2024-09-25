@@ -1,0 +1,19 @@
+Kabazauls
+Card Type: Normal Monster
+
+Description: A huge monster in the shape of a hippopotamus. The sneezing from his gigantic body is so fierce that people mistake it for a hurricane.
+
+Type: Dinosaur
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist League 14 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel Tournament Pack 2
+- Speed Duel: Scars of Battle
+- Structure Deck: Dinosaur's Rage

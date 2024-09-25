@@ -1,0 +1,14 @@
+Black Sonic
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack on a "Blackwing" monster you control: Banish all face-up Attack Position monsters your opponent controls. If you control exactly 3 "Blackwing" monsters (and no other monsters), you can activate this card from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

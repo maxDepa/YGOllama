@@ -1,0 +1,16 @@
+Miracle Contact
+Card Type: Spell Card
+
+Description: Shuffle into the Deck, from your hand, field, or GY, the Fusion Materials that are listed on an "Elemental HERO" Fusion Monster that lists "Elemental HERO Neos" as Fusion Material, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Maximum Gold
+- Return of the Duelist

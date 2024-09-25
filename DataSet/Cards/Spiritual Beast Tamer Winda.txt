@@ -1,0 +1,15 @@
+Spiritual Beast Tamer Winda
+Card Type: Effect Monster
+
+Description: If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can Special Summon 1 "Ritual Beast" monster from your Deck or Extra Deck, ignoring its Summoning conditions. You can only Special Summon "Spiritual Beast Tamer Winda(s)" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: Ritual Beast
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Battles of Legend: Terminal Revenge
+- Raging Tempest

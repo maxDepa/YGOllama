@@ -1,0 +1,12 @@
+Waterdragon Fairy
+Card Type: Normal Monster
+
+Description: A water fairy that is said to be able to summon a giant sea serpent.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1100
+Defence: 700
+Archetype: //
+Present in Sets:

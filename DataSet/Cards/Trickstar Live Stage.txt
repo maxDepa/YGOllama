@@ -1,0 +1,15 @@
+Trickstar Live Stage
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Trickstar" monster from your GY to your hand. You can only use each of the following effects of "Trickstar Live Stage" once per turn, also you cannot Special Summon monsters the turn you activate these effects, except "Trickstar" monsters (even if this card leaves the field).
+● If you control a "Trickstar" Link Monster: You can Special Summon 1 "Trickstar Token" (Fairy/LIGHT/Level 1/ATK 0/DEF 0).
+● If your opponent controls a card in their Spell & Trap Zone: You can Special Summon 1 "Trickstar Token".
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- Savage Strike

@@ -1,0 +1,12 @@
+DOG Fighter Token
+Card Type: Token
+
+Description: Summoned by the effect of "Kozmo DOG Fighter".
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kozmo
+Present in Sets:

@@ -1,0 +1,15 @@
+Cyber Falcon
+Card Type: Normal Monster
+
+Description: A jet-powered hawk that travels at the speed of sound.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

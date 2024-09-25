@@ -1,0 +1,19 @@
+Mechanicalchaser
+Card Type: Normal Monster
+
+Description: A hunter that relentlessly pursues its target by order of the Machine King.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1850
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Machine Re-Volt
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season
+- Tournament Pack: 3rd Season

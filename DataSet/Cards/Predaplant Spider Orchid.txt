@@ -1,0 +1,17 @@
+Predaplant Spider Orchid
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase, if this card was activated this turn: You can target 1 other face-up card in the Spell & Trap Zone; destroy it. You can only use this effect of "Predaplant Spider Orchid" once per turn.
+
+[ Monster Effect ] 
+During the End Phase, if this card was Normal or Special Summoned this turn: You can discard 1 Plant monster; add 1 Level 4 or lower Plant monster from your Deck to your hand. You can only use this effect of "Predaplant Spider Orchid" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Predap
+Present in Sets:
+- Duel Power

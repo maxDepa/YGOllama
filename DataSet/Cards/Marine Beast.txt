@@ -1,0 +1,13 @@
+Marine Beast
+Card Type: Fusion Monster
+
+Description: "Water Magician" + "Behegon"
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1700
+Defence: 1600
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 4

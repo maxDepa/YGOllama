@@ -1,0 +1,18 @@
+Hardened Armed Dragon
+Card Type: Effect Monster
+
+Description: (This card is not treated as an "Armed Dragon" card.)
+You can Special Summon this card (from your hand) by sending 1 Level 8 or higher monster from your hand to the Graveyard. If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.
+
+Type: Dragon
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Egyptian God Deck: Obelisk the Tormentor
+- Machine Reactor Structure Deck
+- Raging Battle

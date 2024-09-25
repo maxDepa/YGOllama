@@ -1,0 +1,13 @@
+Fortissimo
+Card Type: Spell Card
+
+Description: Once per turn: You can target 1 "Melodious" monster you control; it gains 800 ATK until your next Standby Phase (even if this card leaves the field). You can send this card to the Graveyard; Fusion Summon 1 "Melodious" Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Melodious
+Present in Sets:
+- Shining Victories

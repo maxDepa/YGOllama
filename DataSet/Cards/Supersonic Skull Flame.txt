@@ -1,0 +1,14 @@
+Supersonic Skull Flame
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 "Skull Flame" from your Graveyard. Once per turn, you can inflict 400 damage to your opponent for each "Burning Skull Head" in your Graveyard. When this card is sent from the field to the Graveyard, you can Special Summon 1 "Skull Flame" from your Graveyard.
+
+Type: Zombie
+Attribute: WIND
+Level: 10
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards
+- Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards

@@ -1,0 +1,16 @@
+Xyz Armor Torpedo
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Cannot attack unless it has material. You can detach 2 materials from this card; draw 1 card. You can only use this effect of "Xyz Armor Torpedo" once per turn. Apply these effects while this card is equipped to a monster.
+● If the equipped monster battles, until the end of the Damage Step, your opponent cannot activate cards or effects, also negate the effects of all face-up monsters they control.
+● If the equipped monster is an Xyz Monster, your opponent cannot target it with card effects.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 2500
+Defence: 800
+Archetype: Xyz
+Present in Sets:
+- Age of Overlord

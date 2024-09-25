@@ -1,0 +1,14 @@
+Battlewasp - Azusa the Ghost Bow
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When your opponent takes effect damage from another "Battlewasp" monster: You can inflict damage to your opponent equal to the original ATK of that monster. You can only use this effect of "Battlewasp - Azusa the Ghost Bow" once per turn. When a monster is destroyed by battle with your "Battlewasp" monster, while this card is in your GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field.
+
+Type: Insect
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 1600
+Archetype: Battlewasp
+Present in Sets:
+- Battles of Legend: Hero's Revenge

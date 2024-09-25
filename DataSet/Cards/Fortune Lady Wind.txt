@@ -1,0 +1,14 @@
+Fortune Lady Wind
+Card Type: Effect Monster
+
+Description: This card's ATK and DEF are equal to its Level x 300. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When this card is Normal Summoned, you can destroy a number of Spell or Trap Cards your opponent controls equal to the number of face-up "Fortune Lady" monsters you control.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: -1
+Defence: -1
+Archetype: Fortune Lady
+Present in Sets:
+- OTS Tournament Pack 11 (POR)
+- Stardust Overdrive

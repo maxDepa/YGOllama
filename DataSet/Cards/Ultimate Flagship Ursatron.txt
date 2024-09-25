@@ -1,0 +1,15 @@
+Ultimate Flagship Ursatron
+Card Type: Fusion Monster
+
+Description: (This card is always treated as an "Ursarctic" and "Drytron" card.)
+Must be Special Summoned with "Ursarctic Drytron". Once per turn, if another Effect Monster is Special Summoned to your field (except during the Damage Step): You can add 1 "Ursarctic" or "Drytron" monster from your Deck to your hand. Once per turn: You can target 1 of your banished "Ursarctic" or "Drytron" monsters; add it to your hand.
+
+Type: Machine
+Attribute: WATER
+Level: 7
+Attack: 2000
+Defence: 700
+Archetype: Ursarctic
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

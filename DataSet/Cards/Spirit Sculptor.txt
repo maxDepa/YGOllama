@@ -1,0 +1,14 @@
+Spirit Sculptor
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster; add 1 monster from your Deck to your hand, whose combined original ATK/DEF equals the combined original ATK/DEF of the Tributed monster. You can only use this effect of "Spirit Sculptor" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

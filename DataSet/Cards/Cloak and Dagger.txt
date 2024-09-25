@@ -1,0 +1,15 @@
+Cloak and Dagger
+Card Type: Trap Card
+
+Description: Declare 1 Monster Card name. If your opponent Normal Summons, Special Summons, or flips that monster(s) face-up, remove that monster(s) and this card from play.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Strike of Neos
+- Strike of Neos
+- Turbo Pack: Booster Three

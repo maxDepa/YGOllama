@@ -1,0 +1,14 @@
+Incarnated Machine Angel
+Card Type: Spell Card
+
+Description: Your "Cyber Angel" Ritual Monsters cannot be destroyed by battle. When you take damage by battle or an opponent's card effect: You can Tribute 1 "Cyber Angel" Ritual Monster from your hand or field; Special Summon 1 "Cyber Angel" Ritual Monster from your hand. (This is treated as a Ritual Summon.) You can only use this effect of "Incarnated Machine Angel" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Angel
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

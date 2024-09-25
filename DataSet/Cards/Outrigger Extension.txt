@@ -1,0 +1,14 @@
+Outrigger Extension
+Card Type: Spell Card
+
+Description: Your opponent cannot target Machine Xyz Monsters you control with card effects. Once per turn: You can target 1 "Infinitrack" Xyz Monster you control; Special Summon from your Extra Deck, 1 Machine monster that is 2 Ranks higher than that target, by using that target as material, also you cannot Special Summon monsters for the rest of this turn, except EARTH Machine monsters (even if this card leaves the field). (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infinitrack
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

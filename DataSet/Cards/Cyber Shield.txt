@@ -1,0 +1,16 @@
+Cyber Shield
+Card Type: Spell Card
+
+Description: Equip only to "Harpie Lady" or "Harpie Lady Sisters". It gains 500 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Storm of Ragnarok

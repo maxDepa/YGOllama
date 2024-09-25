@@ -1,0 +1,16 @@
+Evocator Chevalier
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● You can send 1 face-up Equip Card you control to the Graveyard, then target 1 card your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1900
+Defence: 900
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Warriors' Strike Structure Deck

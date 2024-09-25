@@ -1,0 +1,14 @@
+Illegal Knight
+Card Type: Effect Monster
+
+Description: During the Main Phase, if you control no monsters, or control an "Adventurer Token" (Quick Effect): You can Special Summon this card from your hand. If you control an "Adventurer Token" (Quick Effect): You can target up to 2 cards your opponent controls; give control of this card to your opponent, and if you do, return that card(s) to the hand. You can only use each effect of "Illegal Knight" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2000
+Defence: 2000
+Archetype: Adventurer Token
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

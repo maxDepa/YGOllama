@@ -1,0 +1,14 @@
+Masked HERO Dian
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "Mask Change". When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 Level 4 or lower "HERO" monster from your Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 3000
+Archetype: Masked HERO
+Present in Sets:
+- Premium Collection Tin
+- Toon Chaos

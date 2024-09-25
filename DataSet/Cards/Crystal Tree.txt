@@ -1,0 +1,18 @@
+Crystal Tree
+Card Type: Spell Card
+
+Description: Each time a "Crystal Beast" monster(s) is placed in either player's Spell & Trap Zone, place 1 Crystal Counter on this card. You can send this card to the GY; take a number of "Crystal Beast" monsters from your Deck equal to the number of Crystal Counters that were on this card, and place them face-up in your Spell & Trap Zone as Continuous Spells.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

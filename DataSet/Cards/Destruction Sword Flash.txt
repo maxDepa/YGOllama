@@ -1,0 +1,16 @@
+Destruction Sword Flash
+Card Type: Trap Card
+
+Description: If you control a Fusion Monster that lists "Buster Blader" as Material: Banish all monsters your opponent controls. When a card or effect is activated that targets a "Buster Blader" monster(s) you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect, and if you do, destroy that card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destruction Sword
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Clash of Rebellions: Special Edition
+- Dimension of Chaos: Special Edition

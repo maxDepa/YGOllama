@@ -1,0 +1,16 @@
+Neo Flamvell Origin
+Card Type: Tuner Monster
+
+Description: If you control a face-up "Flamvell" monster, except "Neo Flamvell Origin", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 2
+Attack: 500
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

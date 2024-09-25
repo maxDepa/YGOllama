@@ -1,0 +1,17 @@
+Crystal Seer
+Card Type: Flip Effect Monster
+
+Description: FLIP: Excavate the top 2 cards of your Deck, then add 1 of them to your hand, then place the other on the bottom of your Deck.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Scars of Battle
+- Spellcaster's Command Structure Deck
+- Tactical Evolution
+- Tactical Evolution

@@ -1,0 +1,15 @@
+Malevolent Mech - Goku En
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Send it to the GY, then take damage equal to its original ATK in the GY. This card must be the only Zombie monster on the field to activate and to resolve this effect.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Zombie Horde
+- Zombie World Structure Deck

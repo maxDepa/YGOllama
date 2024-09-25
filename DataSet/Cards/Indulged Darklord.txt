@@ -1,0 +1,14 @@
+Indulged Darklord
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can take 2 "Darklord" monsters from your hand or Deck with different Levels, except "Indulged Darklord", Special Summon 1 of them to your opponent's field in Defense Position and add the other to your hand, also you cannot activate monster effects for the rest of this turn, except Fairy monsters. You can only use this effect of "Indulged Darklord" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 0
+Archetype: Darklord
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

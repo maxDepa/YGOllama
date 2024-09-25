@@ -1,0 +1,13 @@
+Chrysalis Pinny
+Card Type: Effect Monster
+
+Description: You can Tribute this card while "Neo Space" is on the field to Special Summon 1 "Neo-Spacian Glow Moss" from your hand or Deck.
+
+Type: Plant
+Attribute: LIGHT
+Level: 2
+Attack: 100
+Defence: 700
+Archetype: Chrysalis
+Present in Sets:
+- Tactical Evolution

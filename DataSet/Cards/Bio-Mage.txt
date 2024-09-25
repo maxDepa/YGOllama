@@ -1,0 +1,15 @@
+Bio-Mage
+Card Type: Normal Monster
+
+Description: A mysterious priest created as a result of the latest advances in biotechnology.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1150
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

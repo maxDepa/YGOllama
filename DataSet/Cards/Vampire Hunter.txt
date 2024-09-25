@@ -1,0 +1,16 @@
+Vampire Hunter
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card battles a DARK monster: Destroy that monster.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Vampire
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

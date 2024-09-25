@@ -1,0 +1,16 @@
+Dimension Wall
+Card Type: Trap Card
+
+Description: Activate only when an opponent's monster declares an attack. Instead of you, your opponent takes the Battle Damage you would have taken from this battle.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Six
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4

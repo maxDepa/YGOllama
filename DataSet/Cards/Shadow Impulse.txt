@@ -1,0 +1,14 @@
+Shadow Impulse
+Card Type: Trap Card
+
+Description: When a Synchro Monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: Target 1 of those Synchro Monsters; Special Summon from your Extra Deck, 1 Synchro Monster with the same Level and Type as that monster, but with a different name. You can only activate 1 "Shadow Impulse" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

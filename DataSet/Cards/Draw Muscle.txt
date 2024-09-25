@@ -1,0 +1,15 @@
+Draw Muscle
+Card Type: Spell Card
+
+Description: Target 1 Defense Position monster you control with 1000 or less DEF; draw 1 card, also that monster cannot be destroyed by battle this turn. You can only activate 1 "Draw Muscle" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Starter Deck: Yuya
+- The New Challengers

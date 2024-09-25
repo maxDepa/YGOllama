@@ -1,0 +1,15 @@
+Sword of Dragon's Soul
+Card Type: Spell Card
+
+Description: Equip only to a Warrior monster. It gains 700 ATK. After damage calculation, if the equipped monster battled a Dragon monster: Destroy that monster at the end of that Battle Phase.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 5
+- Speed Duel: Arena of Lost Souls
+- Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards

@@ -1,0 +1,13 @@
+Goblin Biker Mean Merciless
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can Special Summon 1 "Goblin" monster from your hand, except "Goblin Biker Mean Merciless". During your Main Phase, if this card is in your GY: You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Goblin Biker Mean Merciless" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 3
+Attack: 1300
+Defence: 0
+Archetype: Goblin
+Present in Sets:
+- Phantom Nightmare

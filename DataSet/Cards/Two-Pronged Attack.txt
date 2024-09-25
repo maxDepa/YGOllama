@@ -1,0 +1,19 @@
+Two-Pronged Attack
+Card Type: Trap Card
+
+Description: Select and destroy 2 of your monsters and 1 of your opponent's monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Yugi
+- Starter Deck: Yugi

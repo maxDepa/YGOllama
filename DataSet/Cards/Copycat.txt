@@ -1,0 +1,23 @@
+Copycat
+Card Type: Effect Monster
+
+Description: If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Legends
+- Duel Terminal 6a
+- Legendary Collection 4: Joey's World Mega Pack
+- Limited Edition 1
+- Retro Pack
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Yu-Gi-Oh! 5D's

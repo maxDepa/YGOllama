@@ -1,0 +1,17 @@
+Headless Knight
+Card Type: Normal Monster
+
+Description: A haunted spirit of a falsely accused knight who wanders in search of truth and justice.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 1450
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel Starter Decks: Twisted Nightmares

@@ -1,0 +1,18 @@
+Cestus of Dagla
+Card Type: Spell Card
+
+Description: Equip only to a Fairy-Type monster. It gains 500 ATK. If it inflicts battle damage to your opponent: Gain LP equal to the damage inflicted.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel: Battle City Box

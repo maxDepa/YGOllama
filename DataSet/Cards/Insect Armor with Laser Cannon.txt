@@ -1,0 +1,14 @@
+Insect Armor with Laser Cannon
+Card Type: Spell Card
+
+Description: Equip only to an Insect monster. It gains 700 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Number Hunters
+- Speed Duel: Scars of Battle

@@ -1,0 +1,13 @@
+Batteryman Charger
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can Special Summon 1 "Batteryman" monster, except "Batteryman Charger", from your hand or Deck. This card gains 300 ATK and DEF for each Thunder-Type monster you control.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 5
+Attack: 1800
+Defence: 1200
+Archetype: Batteryman
+Present in Sets:
+- Light of Destruction

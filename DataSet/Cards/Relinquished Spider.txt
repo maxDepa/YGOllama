@@ -1,0 +1,13 @@
+Relinquished Spider
+Card Type: Effect Monster
+
+Description: If you have 4 or more Insect-Type monsters in your Graveyard, you can Tribute this card to destroy all face-up Defense Position monsters your opponent controls.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 500
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

@@ -1,0 +1,13 @@
+Silvy of the White Forest
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "White Forest" Spell/Trap from your Deck to your hand. If this card is in your GY (Quick Effect): You can target 1 "White Forest" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of "Silvy of the White Forest" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 200
+Archetype: White Forest
+Present in Sets:
+- The Infinite Forbidden

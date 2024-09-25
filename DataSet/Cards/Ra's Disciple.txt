@@ -1,0 +1,18 @@
+Ra's Disciple
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can Special Summon up to 2 "Ra's Disciple" from your hand and/or Deck. Cannot be Tributed, except for the Tribute Summon of "Slifer the Sky Dragon", "Obelisk the Tormentor", or "The Winged Dragon of Ra". You cannot Special Summon monsters, except by the effect of "Ra's Disciple".
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Duelists: Rage of Ra

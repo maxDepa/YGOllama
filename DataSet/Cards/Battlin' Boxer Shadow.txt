@@ -1,0 +1,14 @@
+Battlin' Boxer Shadow
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can detach 1 Xyz Material from a "Battlin' Boxer" Xyz Monster you control, and if you do, Special Summon this card from your hand. You can only use this effect of "Battlin' Boxer Shadow" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Battlin' Boxer
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano
+- World Superstars

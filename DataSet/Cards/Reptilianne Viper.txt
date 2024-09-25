@@ -1,0 +1,13 @@
+Reptilianne Viper
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.
+
+Type: Reptile
+Attribute: DARK
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Stardust Overdrive

@@ -1,0 +1,22 @@
+Soul Release
+Card Type: Spell Card
+
+Description: Target up to 5 cards in any GY(s); banish them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- OTS Tournament Pack 25
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Pegasus
+- The Dark Emperor Structure Deck
+- The Secret Forces

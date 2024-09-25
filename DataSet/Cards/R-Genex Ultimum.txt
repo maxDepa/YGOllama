@@ -1,0 +1,14 @@
+R-Genex Ultimum
+Card Type: Effect Monster
+
+Description: When this face-up card on the field is destroyed and sent to the Graveyard, you can select 2 "Genex" monsters from your Graveyard, and return them to the Deck.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

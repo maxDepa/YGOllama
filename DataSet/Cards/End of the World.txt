@@ -1,0 +1,15 @@
+End of the World
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Ruin, Queen of Oblivion" or "Demise, King of Armageddon". You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Demise
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Dark Revelation Volume 4
+- Shadow of Infinity

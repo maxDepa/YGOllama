@@ -1,0 +1,14 @@
+Bonding - D2O
+Card Type: Spell Card
+
+Description: Tribute 2 "Duoterion" and 1 "Oxygeddon" in your hand and/or field; Special Summon 1 "Water Dragon" or "Water Dragon Cluster" from your hand, Deck, or GY. (This is treated as a Special Summon with the effect of "Bonding - H2O".) If "Water Dragon" or "Water Dragon Cluster" is sent from the field to your GY while this card is in your GY: Add this card to your hand. You can only use this effect of "Bonding - D2O" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bonding
+Present in Sets:
+- Legendary Duelists
+- Speed Duel GX: Midterm Paradox

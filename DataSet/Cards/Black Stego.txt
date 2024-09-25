@@ -1,0 +1,19 @@
+Black Stego
+Card Type: Effect Monster
+
+Description: If this Attack Position card is targeted for an attack: Change this card to Defense Position.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist League 13 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Power of the Duelist
+- Speed Duel Starter Decks: Ultimate Predators
+- Structure Deck: Dinosaur's Rage

@@ -1,0 +1,14 @@
+Decisive Battle of Golgonda
+Card Type: Spell Card
+
+Description: This card's name becomes "Great Sand Sea - Gold Golgonda" while on the field or in the GY. Once per turn, if a card(s) you control would be destroyed by battle or card effect, you can send 1 Fusion Monster that mentions "Fallen of Albaz" as material from your Extra Deck to the GY, instead. During the End Phase, if you have "Fallen of Albaz" on your field or in your GY: You can Special Summon 1 "Springans" monster from your hand or Deck. You can only use this effect of "Decisive Battle of Golgonda" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

@@ -1,0 +1,17 @@
+Release Restraint
+Card Type: Spell Card
+
+Description: Tribute 1 "Gearfried the Iron Knight"; Special Summon 1 "Gearfried the Swordmaster" from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Scars of Battle
+- Structure Deck: Warrior's Triumph

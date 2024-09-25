@@ -1,0 +1,16 @@
+Arsenal Summoner
+Card Type: Flip Effect Monster
+
+Description: FLIP: Add 1 "Guardian" card from your Deck to your hand, except "Celtic Guardian", "Winged Dragon, Guardian of the Fortress #1", "Winged Dragon, Guardian of the Fortress #2", "Guardian of the Labyrinth", or "The Reliable Guardian".
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

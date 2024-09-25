@@ -1,0 +1,19 @@
+Painful Choice
+Card Type: Spell Card
+
+Description: Select 5 cards from your Deck and show them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the remaining cards to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler

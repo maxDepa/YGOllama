@@ -1,0 +1,15 @@
+Archfiend Zombie-Skull
+Card Type: Synchro Monster
+
+Description: "Plaguespreader Zombie" + 2+ non-Tuner Zombie monsters
+Zombie monsters you control cannot be destroyed by card effects.
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: Archfiend
+Present in Sets:
+- Ancient Prophecy
+- Battles of Legend: Light's Revenge

@@ -1,0 +1,15 @@
+Rose Bud
+Card Type: Spell Card
+
+Description: Tribute 1 "Elemental HERO Knospe"; Special Summon 1 "Elemental HERO Poison Rose" from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)

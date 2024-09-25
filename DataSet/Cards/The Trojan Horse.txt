@@ -1,0 +1,16 @@
+The Trojan Horse
+Card Type: Effect Monster
+
+Description: When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Starter Deck 2006

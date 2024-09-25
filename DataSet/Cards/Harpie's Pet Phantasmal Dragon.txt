@@ -1,0 +1,16 @@
+Harpie's Pet Phantasmal Dragon
+Card Type: XYZ Monster
+
+Description: 3 Level 4 WIND monsters
+This card's effects can only be applied/resolved while it has Xyz Material. This card can attack your opponent directly. Your opponent cannot target any "Harpie" monsters with effects or for attacks. During each of your End Phases: Detach 1 Xyz Material from this card.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 2000
+Defence: 2500
+Archetype: Harpie
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Maximum Gold

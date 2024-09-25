@@ -1,0 +1,16 @@
+Chevalier de Fleur
+Card Type: Synchro Monster
+
+Description: "Fleur Synchron" + 1 or more non-Tuner monsters
+Once during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.
+
+Type: Warrior
+Attribute: WIND
+Level: 8
+Attack: 2700
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Synchro Storm
+- Yu-Gi-Oh! 5D's Tag Force 5 promotional cards
+- Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards

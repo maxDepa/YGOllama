@@ -1,0 +1,15 @@
+Gandora-X the Dragon of Demolition
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest original ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

@@ -1,0 +1,15 @@
+Kuribon
+Card Type: Effect Monster
+
+Description: During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Duel Terminal 3
+- Yu-Gi-Oh! Advent Calendar (2019)

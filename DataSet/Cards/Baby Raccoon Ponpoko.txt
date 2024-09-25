@@ -1,0 +1,15 @@
+Baby Raccoon Ponpoko
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 2 Beast-Type monster from your Deck in face-down Defense Position, except "Baby Raccoon Ponpoko". You cannot Special Summon any monsters during the turn you activate this effect, except Beast-Type monsters.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- OTS Tournament Pack 22
+- Shadow Specters

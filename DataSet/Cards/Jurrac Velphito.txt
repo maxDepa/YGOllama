@@ -1,0 +1,15 @@
+Jurrac Velphito
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Dinosaur-Type monsters
+This card's ATK and DEF are equal to the total original ATK of the Synchro Material Monsters used for its Synchro Summon. If this card attacks a face-down Defense Position monster, you can destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 5
+Attack: -1
+Defence: -1
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

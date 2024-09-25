@@ -1,0 +1,13 @@
+Reptilianne Gardna
+Card Type: Effect Monster
+
+Description: When this card you control is destroyed and sent to the Graveyard, add 1 "Reptilianne" monster from your Deck to your hand.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Reptilianne
+Present in Sets:
+- Absolute Powerforce

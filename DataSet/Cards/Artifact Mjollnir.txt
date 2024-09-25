@@ -1,0 +1,14 @@
+Artifact Mjollnir
+Card Type: Effect Monster
+
+Description: You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. If this card is Special Summoned during your opponent's turn: Target 1 "Artifact" monster in your GY; Special Summon it in Defense Position, also you cannot Special Summon monsters until the end of the next turn, except "Artifact" monsters. You can only use this effect of "Artifact Mjollnir" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1300
+Defence: 1800
+Archetype: Artifact
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

@@ -1,0 +1,13 @@
+Ally of Justice Cyclone Creator
+Card Type: Tuner Monster
+
+Description: Once per turn, you can discard 1 card from your hand to return Spell/Trap Cards from the field to the hand equal to the number of face-up Tuner monsters on the field.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- Duelist Revolution

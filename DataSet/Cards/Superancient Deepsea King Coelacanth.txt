@@ -1,0 +1,17 @@
+Superancient Deepsea King Coelacanth
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate the activation, and if you do, destroy that card.
+
+Type: Fish
+Attribute: WATER
+Level: 7
+Attack: 2800
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Maze of Memories
+- Phantom Darkness
+- Phantom Darkness
+- Turbo Pack: Booster Three

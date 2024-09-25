@@ -1,0 +1,14 @@
+Non Aggression Area
+Card Type: Trap Card
+
+Description: You can only activate this card during your Standby Phase. Discard 1 card from your hand. Your opponent cannot Normal Summon, Set and/or Special Summon during his/her next turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian

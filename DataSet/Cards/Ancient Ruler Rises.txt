@@ -1,0 +1,15 @@
+Ancient Ruler Rises
+Card Type: Skill Card
+
+Description: Apply the following Skills:
+● Once per turn, you can send 1 Level 2 Zombie monster from your Deck to the GY and place 1 of your "The First Sarcophagus", "The Second Sarcophagus", or "The Third Sarcophagus" from your Deck, GY, or that is banished, face-up in your Spell & Trap Zone. (This is treated as being placed by the effect of "The First Sarcophagus".)
+● Each "Spirit of the Pharaoh" you control gains ATK equal to the total number of "Pharaoh's Servant" and "Pharaonic Protector" on your field and in your GY x 900.
+
+Type: Abidos the Th
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

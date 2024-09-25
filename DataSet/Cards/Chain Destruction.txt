@@ -1,0 +1,22 @@
+Chain Destruction
+Card Type: Trap Card
+
+Description: When a monster(s) with 2000 or less ATK is Summoned: Target 1 of them; destroy all cards with that name in its controller's hand and Main Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Structure Deck: Fire Kings
+- Tournament Pack 4
+- Yugi's Legendary Decks

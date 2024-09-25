@@ -1,0 +1,14 @@
+Rose Paladin
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card; Special Summon 1 Plant-Type monster from your hand or Deck in Defense Position. You can send this card from your hand to the Graveyard; add 1 Level 7 or higher Plant-Type monster from your Deck to your hand. You can only use this effect of "Rose Paladin" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Premium Gold: Return of the Bling

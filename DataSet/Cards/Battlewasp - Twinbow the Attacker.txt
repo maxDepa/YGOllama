@@ -1,0 +1,13 @@
+Battlewasp - Twinbow the Attacker
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect monsters. You can only use this effect of "Battlewasp - Twinbow the Attacker" once per turn. This card can make a second attack during each Battle Phase.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: Battlewasp
+Present in Sets:
+- Battles of Legend: Hero's Revenge

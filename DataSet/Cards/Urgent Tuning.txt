@@ -1,0 +1,17 @@
+Urgent Tuning
+Card Type: Trap Card
+
+Description: During the Battle Phase: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster using monsters you control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- Star Pack Battle Royal
+- Star Pack Battle Royal

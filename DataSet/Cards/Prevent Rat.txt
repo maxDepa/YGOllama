@@ -1,0 +1,15 @@
+Prevent Rat
+Card Type: Normal Monster
+
+Description: This creature is shielded with a tough hide of hair and is excellent at defending itself.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

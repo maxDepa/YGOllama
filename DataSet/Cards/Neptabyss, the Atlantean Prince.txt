@@ -1,0 +1,14 @@
+Neptabyss, the Atlantean Prince
+Card Type: Effect Monster
+
+Description: You can send 1 "Atlantean" monster from your Deck to the Graveyard, except "Neptabyss, the Atlantean Prince"; add 1 "Atlantean" card from your Deck to your hand, except "Neptabyss, the Atlantean Prince". If this card is sent to the Graveyard to activate a WATER monster's effect: Target 1 "Atlantean" monster in your Graveyard, except "Neptabyss, the Atlantean Prince"; Special Summon it. You can only use each effect of "Neptabyss, the Atlantean Prince" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 1
+Attack: 800
+Defence: 0
+Archetype: Atlantean
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

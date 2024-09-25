@@ -1,0 +1,15 @@
+Dark Lucius LV6
+Card Type: Effect Monster
+
+Description: If this card was Special Summoned by the effect of "Dark Lucius LV4", negate the effects of your opponent's monsters destroyed by battle with this card. Once per turn, during the Standby Phase of your next turn after this card negated your opponent's monster effect by this effect: You can send this card to the GY; Special Summon 1 "Dark Lucius LV8" from your hand or Deck.
+
+Type: Fiend
+Attribute: EARTH
+Level: 6
+Attack: 1700
+Defence: 600
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact
+- Speed Duel Starter Decks: Twisted Nightmares

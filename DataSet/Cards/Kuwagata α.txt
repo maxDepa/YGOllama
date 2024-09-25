@@ -1,0 +1,15 @@
+Kuwagata α
+Card Type: Normal Monster
+
+Description: A very vicious stag beetle that goes for the head.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1250
+Defence: 1000
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 19
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

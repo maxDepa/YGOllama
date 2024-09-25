@@ -1,0 +1,14 @@
+Crystron Phoenix
+Card Type: Synchro Monster
+
+Description: 1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters
+If this card is Synchro Summoned: You can banish all Spell and Trap Cards your opponent controls and in their Graveyard. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 other monster in your Graveyard; Special Summon it.
+
+Type: Machine
+Attribute: WATER
+Level: 9
+Attack: 2800
+Defence: 2000
+Archetype: Crystron
+Present in Sets:
+- Invasion: Vengeance

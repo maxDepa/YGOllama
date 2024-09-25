@@ -1,0 +1,14 @@
+Gravity Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: It gains 300 ATK for each face-up monster your opponent controls. Once per turn, during your opponent's Battle Phase: You can target 1 Defense Position monster your opponent controls; change it to face-up Attack Position, also it must attack this turn, if able.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Premium Collection Tin

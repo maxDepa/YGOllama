@@ -1,0 +1,15 @@
+F.A. Dawn Dragster
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Gains ATK equal to its Level x 300. If this card attacks a Defense Position monster, inflict piercing battle damage. Each time a "F.A." Spell/Trap Card or effect is activated: You can increase this card's Level by 1. Once per turn, when your opponent activates a Spell/Trap Card or effect (Quick Effect): You can reduce this card's Level by 2, and if you do, negate the activation, and if you do that, destroy that card.
+
+Type: Machine
+Attribute: LIGHT
+Level: 7
+Attack: 0
+Defence: 2000
+Archetype: F.A.
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

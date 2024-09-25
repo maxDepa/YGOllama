@@ -1,0 +1,14 @@
+Attraffic Control
+Card Type: Spell Card
+
+Description: If your opponent controls 3 or more monsters, they cannot declare an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Photon Shockwave

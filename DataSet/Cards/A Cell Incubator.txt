@@ -1,0 +1,13 @@
+"A" Cell Incubator
+Card Type: Spell Card
+
+Description: Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. When this card is destroyed, distribute the A-Counters on this card among face-up monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Gladiator's Assault

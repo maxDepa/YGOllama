@@ -1,0 +1,14 @@
+Cloudian Squall
+Card Type: Spell Card
+
+Description: During each of your Standby Phases, place 1 Fog Counter on every face-up monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cloudian
+Present in Sets:
+- Gladiator's Assault
+- Speed Duel GX: Duelists of Shadows

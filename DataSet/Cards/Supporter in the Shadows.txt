@@ -1,0 +1,12 @@
+Supporter in the Shadows
+Card Type: Normal Monster
+
+Description: A cute little elf that hides in the shadows and provides spiritual support.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:

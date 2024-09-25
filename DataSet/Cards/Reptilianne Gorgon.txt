@@ -1,0 +1,15 @@
+Reptilianne Gorgon
+Card Type: Effect Monster
+
+Description: If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.
+
+Type: Reptile
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 1400
+Archetype: Reptilianne
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Stardust Overdrive

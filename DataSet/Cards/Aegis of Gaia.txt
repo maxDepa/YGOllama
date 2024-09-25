@@ -1,0 +1,15 @@
+Aegis of Gaia
+Card Type: Trap Card
+
+Description: Gain 3000 Life Points. If this face-up card is removed from the field, take 3000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series 3
+- Speed Duel GX: Duelists of Shadows
+- Strike of Neos

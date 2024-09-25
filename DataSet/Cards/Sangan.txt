@@ -1,0 +1,31 @@
+Sangan
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of "Sangan" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 600
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Duelist Pack: Rivals of the Pharaoh
+- Gates of the Underworld Structure Deck
+- Gold Series 2009
+- Hobby League 2 participation card C
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 3
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Starter Deck: Joey
+- Starter Deck: Link Strike
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yugi Evolution
+- Toon Chaos
+- Turbo Pack: Booster Six

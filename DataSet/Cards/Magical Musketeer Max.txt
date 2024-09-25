@@ -1,0 +1,16 @@
+Magical Musketeer Max
+Card Type: Link Monster
+
+Description: 1 Level 8 or lower "Magical Musket" monster
+If this card is Link Summoned: You can activate 1 of these effects;
+● Add "Magical Musket" Spells/Traps with different names from your Deck to your hand, up to the number of monsters your opponent controls. ● Special Summon "Magical Musket" monsters with different names from your Deck, up to the number of Spells/Traps your opponent controls.
+You can only use this effect of "Magical Musketeer Max" once per turn. During either player's turn, you can activate "Magical Musket" Spell/Trap Cards from your hand.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Magical Musket
+Present in Sets:
+- Battles of Legend: Hero's Revenge

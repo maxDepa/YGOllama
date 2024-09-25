@@ -1,0 +1,17 @@
+Flick Clown
+Card Type: Effect Monster
+
+Description: If you control at least 2 other Cyberse monsters and have no cards in your hand: You can pay 1000 LP; draw 1 card. You can only use this effect of "Flick Clown" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

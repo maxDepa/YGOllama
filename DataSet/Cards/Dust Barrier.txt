@@ -1,0 +1,14 @@
+Dust Barrier
+Card Type: Spell Card
+
+Description: Face-up Normal Monsters on the field are unaffected by your opponent's Spell Cards. This card is destroyed during your second Standby Phase after activation.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

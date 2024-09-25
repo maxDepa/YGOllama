@@ -1,0 +1,13 @@
+Mannadium Torrid
+Card Type: Tuner Monster
+
+Description: If you control "Visas Starfrost" or a monster with 1500 ATK/2100 DEF, you can Special Summon this card (from your hand). You can only Special Summon "Mannadium Torrid" once per turn this way. If this card is destroyed by battle or card effect: You can Special Summon 1 "Mannadium" Tuner from your Deck. You can only use this effect of "Mannadium Torrid" once per turn.
+
+Type: Fairy
+Attribute: FIRE
+Level: 2
+Attack: 0
+Defence: 1500
+Archetype: Mannadium
+Present in Sets:
+- Duelist Nexus

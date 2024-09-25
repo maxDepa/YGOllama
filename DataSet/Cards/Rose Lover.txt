@@ -1,0 +1,16 @@
+Rose Lover
+Card Type: Effect Monster
+
+Description: You can banish this card from your GY; Special Summon 1 Plant monster from your hand, and if you do, it is unaffected by your opponent's Trap effects this turn. You can only use this effect of "Rose Lover" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 800
+Defence: 800
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Premium Gold: Return of the Bling
+- Secret Slayers
+- Structure Deck: Beware of Traptrix

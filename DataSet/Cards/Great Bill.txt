@@ -1,0 +1,14 @@
+Great Bill
+Card Type: Normal Monster
+
+Description: Nothing escapes from this beast's massive mouth.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1250
+Defence: 1300
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

@@ -1,0 +1,16 @@
+The Gates of Dark World
+Card Type: Spell Card
+
+Description: All Fiend-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 1 Fiend-Type monster from your Graveyard; discard 1 Fiend-Type monster, then draw 1 card.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Astral Pack One
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

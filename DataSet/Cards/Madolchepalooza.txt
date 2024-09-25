@@ -1,0 +1,13 @@
+Madolchepalooza
+Card Type: Trap Card
+
+Description: Special Summon any number of "Madolche" monsters from your hand, but shuffle them into the Deck during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Madolche
+Present in Sets:
+- Abyss Rising

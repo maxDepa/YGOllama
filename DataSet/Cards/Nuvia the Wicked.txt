@@ -1,0 +1,16 @@
+Nuvia the Wicked
+Card Type: Effect Monster
+
+Description: If this monster is Normal Summoned, destroy this card. If your opponent controls any monster, decrease the ATK of this card by 200 points for each monster on your opponents side of the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 800
+Archetype: Mask
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

@@ -1,0 +1,14 @@
+Thunder Sea Horse
+Card Type: Effect Monster
+
+Description: You can discard this card; add 2 Level 4 LIGHT Thunder-Type monsters of the same name with 1600 or less ATK from your Deck to your hand. You can only use the effect of "Thunder Sea Horse" once per turn. You cannot Special Summon during the turn you activate this effect.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2013 Collectible Tins Wave 2
+- Abyss Rising

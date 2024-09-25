@@ -1,0 +1,23 @@
+Summoner Monk
+Card Type: Effect Monster
+
+Description: While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dragons Collide Structure Deck
+- Fusion Enforcers
+- Gold Series 4: Pyramids Edition
+- HERO Strike Structure Deck
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Gold
+- Spellcaster's Command Structure Deck
+- Structure Deck: Albaz Strike
+- Structure Deck: Cyberse Link
+- Structure Deck: Order of the Spellcasters
+- Valiant Smashers

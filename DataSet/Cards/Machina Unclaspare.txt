@@ -1,0 +1,14 @@
+Machina Unclaspare
+Card Type: Effect Monster
+
+Description: If this card is added to your hand, except by drawing it: You can Special Summon it, also you cannot Special Summon for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send 1 "Machina" monster from your Deck to the GY, except "Machina Unclaspare". You can only use each effect of "Machina Unclaspare" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Machina
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

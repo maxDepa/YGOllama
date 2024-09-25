@@ -1,0 +1,14 @@
+Kryuel
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard as a result of battle, toss a coin and call it. If you call it right, destroy 1 monster on your opponent's side of the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian

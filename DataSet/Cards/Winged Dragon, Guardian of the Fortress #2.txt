@@ -1,0 +1,14 @@
+Winged Dragon, Guardian of the Fortress #2
+Card Type: Normal Monster
+
+Description: This monster's wings are capable of generating tornadoes.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

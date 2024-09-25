@@ -1,0 +1,14 @@
+Swallow Flip
+Card Type: Trap Card
+
+Description: Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle
+- Turbo Pack: Booster Four

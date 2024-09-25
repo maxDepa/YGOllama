@@ -1,0 +1,15 @@
+Talisman of Spell Sealing
+Card Type: Trap Card
+
+Description: You can only activate this card while there is a face-up "Sealmaster Meisei" on your side of the field. While this card is face-up on the field, Spell Cards cannot be activated and the effects of face-up Spell Cards on the field are negated. When "Sealmaster Meisei" is removed from the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel: Streets of Battle City

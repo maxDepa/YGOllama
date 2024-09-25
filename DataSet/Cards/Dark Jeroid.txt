@@ -1,0 +1,18 @@
+Dark Jeroid
+Card Type: Effect Monster
+
+Description: If this card is Summoned: Target 1 face-up monster on the field; it loses 800 ATK.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1500
+Archetype: Roid
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Retro Pack 2
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)

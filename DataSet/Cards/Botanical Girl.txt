@@ -1,0 +1,13 @@
+Botanical Girl
+Card Type: Effect Monster
+
+Description: When this card is sent from the field to the Graveyard, you can add 1 Plant-Type monster with 1000 or less DEF from your Deck to your hand.
+
+Type: Plant
+Attribute: WATER
+Level: 3
+Attack: 1300
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

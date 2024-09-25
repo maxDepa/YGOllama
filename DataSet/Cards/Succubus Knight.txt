@@ -1,0 +1,15 @@
+Succubus Knight
+Card Type: Normal Monster
+
+Description: A warrior wizard adept in casting bone-chilling spells.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 1650
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

@@ -1,0 +1,12 @@
+Akakieisu
+Card Type: Normal Monster
+
+Description: A sorcerer who utters spells that render monsters unconscious.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: //
+Present in Sets:

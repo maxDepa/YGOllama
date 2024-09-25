@@ -1,0 +1,14 @@
+Karakuri Muso mdl 818 "Haipa"
+Card Type: Effect Monster
+
+Description: This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 2100
+Defence: 1100
+Archetype: Karakuri
+Present in Sets:
+- Storm of Ragnarok
+- Storm of Ragnarok

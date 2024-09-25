@@ -1,0 +1,14 @@
+GranSolfachord Coolia
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Pendulum Monster
+Gains 100 ATK for each face-up Pendulum Monster in your Extra Deck. The activated effects of Pendulum Monsters this card points to cannot be negated. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 "Solfachord" card with an odd Pendulum Scale from your Pendulum Zone to your zone this card points to, and if you do, negate the activation, then you can add 1 "Solfachord" Pendulum Monster with an even Pendulum Scale from your Deck to your face-up Extra Deck.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2700
+Defence: 0
+Archetype: GranSolfachord
+Present in Sets:
+- Cyberstorm Access

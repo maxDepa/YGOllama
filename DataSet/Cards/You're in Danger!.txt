@@ -1,0 +1,13 @@
+You're in Danger!
+Card Type: Trap Card
+
+Description: Reveal 3 "Danger!" monsters with different names from your Deck, your opponent randomly picks 1 for you to Special Summon, and you shuffle the rest into the Deck. During the End Phase, destroy that Special Summoned monster. You can only activate 1 "You're in Danger!" per turn.
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Danger!
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

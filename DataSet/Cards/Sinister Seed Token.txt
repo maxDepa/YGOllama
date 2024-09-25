@@ -1,0 +1,12 @@
+Sinister Seed Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Sinister Seeds".
+
+Type: Plant
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

@@ -1,0 +1,12 @@
+Radian Token
+Card Type: Token
+
+Description: Special Summoned by the effect of "Radian, the Multidimensional Kaiju". Cannot be used as a Synchro Material monster.
+
+Type: Fiend
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kaiju
+Present in Sets:

@@ -1,0 +1,13 @@
+Leotron
+Card Type: Normal Monster
+
+Description: A territorial electronic monster that guards its own domain.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Codebreaker

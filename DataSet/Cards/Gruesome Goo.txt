@@ -1,0 +1,13 @@
+Gruesome Goo
+Card Type: Normal Monster
+
+Description: A slime boss that is definitely tougher than it looks.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1300
+Defence: 700
+Archetype: Slime
+Present in Sets:
+- Astral Pack Six

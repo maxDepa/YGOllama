@@ -1,0 +1,15 @@
+Battlin' Boxing Cross Counter
+Card Type: Trap Card
+
+Description: When your opponent activates a monster effect: Destroy 1 "Battlin' Boxer" or "Number" Xyz Monster you control, and if you do, negate the activation, and if you do that, destroy that monster, then you can apply the following effect.
+● Special Summon 1 "Battlin' Boxer" Xyz Monster from your Extra Deck with a different name than the first monster, and if you do, attach this card to it as material.
+You can only activate 1 "Battlin' Boxing Cross Counter" per turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Battlin' Boxing
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

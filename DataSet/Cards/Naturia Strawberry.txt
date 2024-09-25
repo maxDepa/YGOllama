@@ -1,0 +1,18 @@
+Naturia Strawberry
+Card Type: Effect Monster
+
+Description: Once per turn, when your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; this card gains 100 ATK x the Level of that monster, until the End Phase.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Naturia
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

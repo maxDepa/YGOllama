@@ -1,0 +1,16 @@
+Ally of Justice Omni-Weapon
+Card Type: Effect Monster
+
+Description: When this card destroys a LIGHT monster by battle and sends it to the Graveyard, draw 1 card. If that card is a Level 4 or lower DARK monster, you can reveal that card to Special Summon it.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 800
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

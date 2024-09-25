@@ -1,0 +1,12 @@
+Z-Zillion Tank
+Card Type: Union Effect Monster
+
+Description: If this card is Special Summoned: You can equip 1 of your banished Level 4 LIGHT Machine monsters to this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT monsters. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: A-to-Z
+Present in Sets:

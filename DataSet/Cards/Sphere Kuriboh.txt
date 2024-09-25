@@ -1,0 +1,23 @@
+Sphere Kuriboh
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Legendary Duelists
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 5
+- Speed Duel: Arena of Lost Souls
+- Speed Duel: Streets of Battle City
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards
+- Yu-Gi-Oh! Advent Calendar (2019)

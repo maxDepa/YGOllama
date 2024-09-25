@@ -1,0 +1,21 @@
+Enraged Battle Ox
+Card Type: Effect Monster
+
+Description: If a Beast, Beast-Warrior, or Winged Beast-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 2
+- Duelist League 15 participation cards
+- Duelist Pack: Kaiba
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel: Battle City Box
+- Structure Deck: Seto Kaiba

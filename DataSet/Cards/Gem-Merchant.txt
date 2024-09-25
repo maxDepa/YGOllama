@@ -1,0 +1,14 @@
+Gem-Merchant
+Card Type: Effect Monster
+
+Description: During the Damage Step, in either player's turn, when a face-up EARTH Normal Monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; that monster gains 1000 ATK and DEF until the End Phase.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Dinomist Charge
+Card Type: Spell Card
+
+Description: When this card is activated: Add 1 "Dinomist" monster from your Deck to your hand. Once per turn, if a "Dinomist" card(s) is added from the field to your Extra Deck face-up: Add 1 of those cards to your hand. You can only activate 1 "Dinomist Charge" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dinomist
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

@@ -1,0 +1,14 @@
+Skull Flame
+Card Type: Effect Monster
+
+Description: Once per turn, you can Special Summon 1 "Burning Skull Head" from your hand. You cannot conduct your Battle Phase the turn you activate this effect. You can add 1 "Burning Skull Head" from your Graveyard to your hand instead of conducting a normal draw in your Draw Phase.
+
+Type: Zombie
+Attribute: FIRE
+Level: 8
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards
+- Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards

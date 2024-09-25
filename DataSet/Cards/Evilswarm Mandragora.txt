@@ -1,0 +1,19 @@
+Evilswarm Mandragora
+Card Type: Effect Monster
+
+Description: If your opponent controls more monsters than you do, you can Special Summon this card (from your hand).
+
+Type: Plant
+Attribute: DARK
+Level: 4
+Attack: 1550
+Defence: 1450
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7a
+- Egyptian God Deck: Obelisk the Tormentor
+- Hidden Arsenal 7: Knight of Stars
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

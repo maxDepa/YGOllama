@@ -1,0 +1,15 @@
+Kagemusha of the Blue Flame
+Card Type: Normal Monster
+
+Description: Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

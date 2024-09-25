@@ -1,0 +1,15 @@
+Rocket Pilder
+Card Type: Spell Card
+
+Description: While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants

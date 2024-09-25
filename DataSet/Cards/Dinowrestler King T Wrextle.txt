@@ -1,0 +1,15 @@
+Dinowrestler King T Wrextle
+Card Type: Link Monster
+
+Description: 2+ "Dinowrestler" monsters
+If this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot attack with other monsters until that one has, and if it does not declare an attack, destroy it at the end of the Battle Phase.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

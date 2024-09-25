@@ -1,0 +1,16 @@
+Tri-Blaze Accelerator
+Card Type: Spell Card
+
+Description: Activate only by sending 1 face-up "Blaze Accelerator" on your side of the field to the Graveyard. You can send 1 Pyro-Type monster from your hand to the Graveyard to destroy 1 monster your opponent controls and inflict 500 damage to your opponent, but you cannot declare an attack during this turn if you do.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blaze Accelerator
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Legendary Duelists: Soulburning Volcano
+- Speed Duel GX: Duel Academy Box

@@ -1,0 +1,13 @@
+Canyon
+Card Type: Spell Card
+
+Description: If a Rock-Type monster in Defense Position is attacked, double any Battle Damage to the controller of the attacking monster.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Invincible Fortress

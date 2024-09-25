@@ -1,0 +1,29 @@
+The Legendary Fisherman
+Card Type: Effect Monster
+
+Description: While "Umi" is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 1850
+Defence: 1600
+Archetype: Umi
+Present in Sets:
+- Dark Beginning 1
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists
+- Legendary Duelists: Duels From the Deep
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Tournament Pack 2
+- Speed Duel: Attack from the Deep
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Star Pack Battle Royal
+- Star Pack Battle Royal
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 H

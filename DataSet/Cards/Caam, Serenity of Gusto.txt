@@ -1,0 +1,14 @@
+Caam, Serenity of Gusto
+Card Type: Effect Monster
+
+Description: Once per turn: You can shuffle 2 "Gusto" monsters from your Graveyard into the Main Deck; draw 1 card.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1100
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

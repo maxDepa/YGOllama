@@ -1,0 +1,15 @@
+Dark Factory of More Production
+Card Type: Trap Card
+
+Description: You can send 1 monster from your hand or field to the GY; draw 1 card. You can only use this effect of "Dark Factory of More Production" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike
+- Structure Deck: Sacred Beasts

@@ -1,0 +1,16 @@
+Naturia Cosmobeet
+Card Type: Tuner Monster
+
+Description: When your opponent Normal Summons or Sets a monster, you can Special Summon this card from your hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 1000
+Defence: 700
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,15 @@
+Mare Mare
+Card Type: Tuner Monster
+
+Description: Cannot be Special Summoned, except by the effect of a Wyrm-Type monster. During your Main Phase: You can reduce this card's Level by 1, and if you do, Special Summon 1 "Mini Mare Mare Token" (Wyrm-Type/WATER/Level 1/ATK 300/DEF 200). You can only use this effect of "Mare Mare" up to thrice per turn.
+
+Type: Wyrm
+Attribute: WATER
+Level: 7
+Attack: 2100
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Egyptian God Deck: Obelisk the Tormentor
+- Invasion: Vengeance

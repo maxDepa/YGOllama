@@ -1,0 +1,13 @@
+Cracking
+Card Type: Spell Card
+
+Description: Once per turn, when a monster(s) is sent from the field to the Graveyard by a card effect: Inflict 800 damage to the owner of the monster(s).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

@@ -1,0 +1,12 @@
+LaMoon
+Card Type: Normal Monster
+
+Description: A sorcerer that draws its power from the lunar landscape.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1200
+Defence: 1700
+Archetype: //
+Present in Sets:

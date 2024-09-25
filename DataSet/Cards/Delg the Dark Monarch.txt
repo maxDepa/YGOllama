@@ -1,0 +1,14 @@
+Delg the Dark Monarch
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- Duelist League 17 participation cards
+- Starstrike Blast

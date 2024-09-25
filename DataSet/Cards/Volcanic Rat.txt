@@ -1,0 +1,13 @@
+Volcanic Rat
+Card Type: Normal Monster
+
+Description: This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 500
+Defence: 500
+Archetype: Volcanic
+Present in Sets:
+- Tactical Evolution

@@ -1,0 +1,13 @@
+Bolt Penguin
+Card Type: Normal Monster
+
+Description: With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.
+
+Type: Thunder
+Attribute: WATER
+Level: 3
+Attack: 1100
+Defence: 800
+Archetype: Penguin
+Present in Sets:
+- Primal Origin

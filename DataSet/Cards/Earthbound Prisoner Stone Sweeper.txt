@@ -1,0 +1,13 @@
+Earthbound Prisoner Stone Sweeper
+Card Type: Effect Monster
+
+Description: If there is a card in a Field Zone, you can Special Summon this card (from your hand). You can only Special Summon "Earthbound Prisoner Stone Sweeper" once per turn this way. You can discard this card; add 1 Level 3 or lower Fiend Tuner from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion or Synchro Monsters. You can only use this effect of "Earthbound Prisoner Stone Sweeper" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 1600
+Archetype: Earthbound
+Present in Sets:
+- Maze of Millennia

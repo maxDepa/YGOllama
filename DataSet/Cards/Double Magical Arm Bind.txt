@@ -1,0 +1,14 @@
+Double Magical Arm Bind
+Card Type: Trap Card
+
+Description: Tribute 2 monsters, then target 2 face-up monsters your opponent controls; take control of both targets until your End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

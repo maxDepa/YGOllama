@@ -1,0 +1,14 @@
+Worm Warlord
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. Negate the effects of Effect Monsters destroyed by battle with this card. If this card destroys an opponent's monster by battle, it can attack once again in a row.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 6
+Attack: 2350
+Defence: 1800
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

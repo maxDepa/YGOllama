@@ -1,0 +1,16 @@
+Empress Mantis
+Card Type: Normal Monster
+
+Description: Queen of an army of giant mantises whose command moves legions.
+
+Type: Insect
+Attribute: WIND
+Level: 6
+Attack: 2200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Scars of Battle

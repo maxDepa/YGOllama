@@ -1,0 +1,22 @@
+Caius the Shadow Monarch
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist League 15 participation cards
+- Emperor of Darkness Structure Deck
+- Gold Series 2009
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Premium Gold
+- The Dark Emperor Structure Deck
+- Turbo Pack: Booster Three

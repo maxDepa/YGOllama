@@ -1,0 +1,15 @@
+Kuribabylon
+Card Type: Effect Monster
+
+Description: Gains 300 ATK/DEF for each "Kuriboh" monster you control and in your GY. You can only use 1 of the following effects of "Kuribabylon" per turn, and only once that turn.
+● If you have more monsters in your GY than your opponent: You can Special Summon this card from your hand.
+● During your Main or Battle Phase: You can return this card to the hand, and if you do, Special Summon 5 monsters (1 "Kuribah", 1 "Kuribee", 1 "Kuriboo", 1 "Kuribeh", and 1 "Kuriboh") from your hand and/or GY in Attack Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1500
+Defence: 1000
+Archetype: Kuriboh
+Present in Sets:
+- Brothers of Legend

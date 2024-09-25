@@ -1,0 +1,15 @@
+Metalfoes Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Metalfoes" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. If this card is in your Graveyard: You can shuffle it into the Deck, then draw 1 card. You can only use this effect of "Metalfoes Fusion" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Ghosts From the Past
+- The Dark Illusion

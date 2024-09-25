@@ -1,0 +1,20 @@
+Hayabusa Knight
+Card Type: Effect Monster
+
+Description: This card can make a second attack during each Battle Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Demo Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Starter Deck: Duelist Toolbox
+- Tournament Pack 4

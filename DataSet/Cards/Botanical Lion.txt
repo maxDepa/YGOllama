@@ -1,0 +1,18 @@
+Botanical Lion
+Card Type: Effect Monster
+
+Description: This card gains 300 ATK for each Plant-Type monster you control. Control of this face-up card on the field cannot switch.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Crossroads of Chaos
+- Duel Terminal 4

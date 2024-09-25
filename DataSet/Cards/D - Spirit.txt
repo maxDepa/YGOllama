@@ -1,0 +1,16 @@
+D - Spirit
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 4 or lower "Destiny HERO" monster from your hand. You must not control any face-up "Destiny HERO" monsters to activate and to resolve this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box

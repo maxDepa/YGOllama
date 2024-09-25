@@ -1,0 +1,13 @@
+Level Tuning
+Card Type: Spell Card
+
+Description: Reduce the Level of all face-up monsters you control by 1, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction

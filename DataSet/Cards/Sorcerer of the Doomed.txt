@@ -1,0 +1,14 @@
+Sorcerer of the Doomed
+Card Type: Normal Monster
+
+Description: A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1450
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Starter Deck: Yugi
+- Starter Deck: Yugi

@@ -1,0 +1,17 @@
+Reptilianne Rage
+Card Type: Spell Card
+
+Description: The equipped monster becomes Reptile-Type. It gains 800 ATK. If this card is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 800 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League

@@ -1,0 +1,21 @@
+Hydrogeddon
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 "Hydrogeddon" from your Deck.
+
+Type: Dinosaur
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Bonding
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Revelation Volume 4
+- Elemental Energy
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Midterm Paradox
+- Structure Deck: Dinosaur's Rage

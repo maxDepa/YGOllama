@@ -1,0 +1,13 @@
+S-Force Dog Tag
+Card Type: Effect Monster
+
+Description: During your Main Phase, your opponent cannot activate the effects of monsters in the same column as one of your "S-Force" monsters. If your opponent Normal or Special Summons a monster(s) while you control an "S-Force" monster (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of "S-Force Dog Tag" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 5
+Attack: 1600
+Defence: 2100
+Archetype: S-Force
+Present in Sets:
+- Lightning Overdrive

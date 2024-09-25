@@ -1,0 +1,14 @@
+Evolsaur Cerato
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: It gains 200 ATK. If this card was Special Summoned by the effect of an "Evoltile" monster, each time this card destroys an opponent's monster by battle: You can add 1 "Evoltile" monster from your Deck to your hand.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 4
+Attack: 1900
+Defence: 1400
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave
+- Photon Shockwave

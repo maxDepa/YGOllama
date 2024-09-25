@@ -1,0 +1,20 @@
+Molten Destruction
+Card Type: Spell Card
+
+Description: All FIRE monsters gain 500 ATK and lose 400 DEF.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler
+- Structure Deck: Blaze of Destruction

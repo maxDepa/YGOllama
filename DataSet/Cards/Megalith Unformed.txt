@@ -1,0 +1,15 @@
+Megalith Unformed
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● All monsters your opponent controls lose 500 ATK for each Ritual Monster on the field, until the end of this turn.
+● Ritual Summon 1 "Megalith" Ritual Monster from your Deck in Defense Position, by Tributing monsters from your hand or field whose total Levels equal exactly twice its Level.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Megalith
+Present in Sets:
+- Eternity Code

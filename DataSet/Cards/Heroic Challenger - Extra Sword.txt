@@ -1,0 +1,15 @@
+Heroic Challenger - Extra Sword
+Card Type: Effect Monster
+
+Description: An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.
+● When it is Xyz Summoned: It gains 1000 ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Heroic
+Present in Sets:
+- Abyss Rising
+- OTS Tournament Pack 19 (POR)

@@ -1,0 +1,15 @@
+Gozuki
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can send 1 Zombie monster from your Deck to the GY. If this card is sent to the GY: You can banish 1 Zombie monster from your GY, except "Gozuki"; Special Summon 1 Zombie monster from your hand. You can only use each effect of "Gozuki" once per turn.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- OTS Tournament Pack 6
+- Structure Deck: Zombie Horde

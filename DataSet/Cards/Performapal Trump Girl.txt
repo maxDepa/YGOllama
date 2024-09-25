@@ -1,0 +1,14 @@
+Performapal Trump Girl
+Card Type: Pendulum Effect Monster
+
+Description: Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card. If this card in the Pendulum Zone is destroyed: You can target 1 Dragon-Type Fusion Monster in your Graveyard; Special Summon it, but destroy it during the End Phase.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

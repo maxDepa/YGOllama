@@ -1,0 +1,18 @@
+Moon Dragon Quilla
+Card Type: Synchro Monster
+
+Description: "Supay" + 1+ non-Tuner monsters
+If this card is targeted for an attack: Gain LP equal to half the attacking monster's ATK. If this card on the field is destroyed: You can target 1 "Sun Dragon Inti" in your GY; Special Summon that target.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

@@ -1,0 +1,17 @@
+Winged Sage Falcos
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's face-up Attack Position monster by battle and sends it to their Graveyard: You can place that monster on top of their Deck.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Tournament Pack 5
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

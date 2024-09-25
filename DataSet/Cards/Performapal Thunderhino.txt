@@ -1,0 +1,16 @@
+Performapal Thunderhino
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls cannot target face-up "Performapal" monsters for attacks, except this one. If a "Performapal" card(s) you control, except "Performapal Thunderhino", would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.
+
+Type: Rock
+Attribute: LIGHT
+Level: 3
+Attack: 200
+Defence: 1800
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal

@@ -1,0 +1,16 @@
+Goddess Bow
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "The Claw of Hermos", using a Warrior monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. While this card is equipped to a monster by this effect, negate the first effect activated by your opponent during each Battle Phase, also, after that, the equipped monster can make a second attack during this Battle Phase.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: Legendary Knight
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Dragon Decks

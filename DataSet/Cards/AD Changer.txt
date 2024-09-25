@@ -1,0 +1,16 @@
+A/D Changer
+Card Type: Effect Monster
+
+Description: You can banish this card from your Graveyard, then target 1 monster on the field; change its battle position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Duelist Revolution
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

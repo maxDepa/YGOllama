@@ -1,0 +1,13 @@
+Dual Avatar Compact
+Card Type: Trap Card
+
+Description: During the Main Phase: Banish 1 "Dual Avatar" Spell/Trap from your GY, except "Dual Avatar Compact"; this card's effect becomes that Spell/Trap's effect when that card is activated. You can only activate 1 "Dual Avatar Compact" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dual Avatar
+Present in Sets:
+- Phantom Rage

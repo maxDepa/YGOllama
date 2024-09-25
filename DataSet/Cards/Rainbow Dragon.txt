@@ -1,0 +1,24 @@
+Rainbow Dragon
+Card Type: Effect Monster
+
+Description: (This card is always treated as an "Ultimate Crystal" card.)
+Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 "Crystal Beast" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all face-up "Crystal Beast" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all "Crystal Beast" monsters from your GY; shuffle all cards on the field into the Deck.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes
+- Collectible Tins 2007 Wave 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts
+- Tactical Evolution
+- Tactical Evolution

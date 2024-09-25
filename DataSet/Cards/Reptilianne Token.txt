@@ -1,0 +1,12 @@
+Reptilianne Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Reptilianne Spawn".
+
+Type: Reptile
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:

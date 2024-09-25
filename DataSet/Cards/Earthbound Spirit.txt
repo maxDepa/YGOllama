@@ -1,0 +1,18 @@
+Earthbound Spirit
+Card Type: Normal Monster
+
+Description: A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: Earthbound
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel Starter Decks: Twisted Nightmares

@@ -1,0 +1,13 @@
+Troposphere
+Card Type: Effect Monster
+
+Description: If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Shonen Jump Scholastic Edition Vol. 9, Issue 1 promotional card

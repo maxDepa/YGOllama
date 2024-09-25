@@ -1,0 +1,13 @@
+Silent Strider
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the Graveyard to reduce the Level of 1 monster on the field by 1, until the End Phase.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 700
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

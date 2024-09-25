@@ -1,0 +1,27 @@
+Lightning Vortex
+Card Type: Spell Card
+
+Description: Discard 1 card; destroy all face-up monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League Demo 2010
+- Flaming Eternity
+- Flaming Eternity
+- Rise of the Dragon Lords Structure Deck
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yuya
+- Structure Deck: Dinosaur's Rage
+- Structure Deck: Lord of the Storm
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Warrior's Triumph
+- Super Starter: Space-Time Showdown
+- The Dark Emperor Structure Deck

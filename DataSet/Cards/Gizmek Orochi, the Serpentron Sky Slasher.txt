@@ -1,0 +1,17 @@
+Gizmek Orochi, the Serpentron Sky Slasher
+Card Type: Effect Monster
+
+Description: If this card is in your hand or GY (Quick Effect): You can banish 8 cards from the top of your Deck face-down; Special Summon this card. You can banish 3 cards from your Extra Deck face-down, then target 1 face-up monster on the field; destroy it. You can only use 1 "Gizmek Orochi, the Serpentron Sky Slasher" effect per turn, and only once that turn.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2450
+Defence: 2450
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Amazing Defenders
+- Amazing Defenders
+- Rising Rampage
+- Structure Deck: Cyber Strike

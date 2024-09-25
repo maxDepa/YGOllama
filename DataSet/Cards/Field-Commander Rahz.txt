@@ -1,0 +1,15 @@
+Field-Commander Rahz
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: Choose 1 Level 4 or lower Warrior-Type monster from your Deck, except "Field-Commander Rahz", and place it on top of your Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Phantom Darkness
+- Starter Deck: Dawn of the Xyz
+- Warriors' Strike Structure Deck

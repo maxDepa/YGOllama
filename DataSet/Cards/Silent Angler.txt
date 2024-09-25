@@ -1,0 +1,16 @@
+Silent Angler
+Card Type: Effect Monster
+
+Description: If you control a WATER monster, you can Special Summon this card (from your hand), but you cannot Special Summon monsters from your hand for the rest of this turn.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- Legendary Duelists: Duels From the Deep
+- Maximum Gold
+- Structure Deck: Freezing Chains

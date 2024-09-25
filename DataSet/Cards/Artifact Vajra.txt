@@ -1,0 +1,14 @@
+Artifact Vajra
+Card Type: Effect Monster
+
+Description: You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. If this card is Special Summoned during your opponent's turn: Destroy all cards in your Spell & Trap Zones. When an opponent's monster declares a direct attack: You can Special Summon this card from your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1800
+Defence: 1900
+Archetype: Artifact
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis

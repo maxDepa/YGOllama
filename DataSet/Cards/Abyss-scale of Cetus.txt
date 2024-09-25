@@ -1,0 +1,13 @@
+Abyss-scale of Cetus
+Card Type: Spell Card
+
+Description: Equip only to a "Mermail" monster. It gains 800 ATK. When a Trap effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mermail
+Present in Sets:
+- Cosmo Blazer

@@ -1,0 +1,17 @@
+Altergeist Multifaker
+Card Type: Effect Monster
+
+Description: If you activate a Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Special Summon 1 "Altergeist" monster from your Deck in Defense Position, except "Altergeist Multifaker". You cannot Special Summon monsters the turn you activate this effect, except "Altergeist" monsters. You can only use each effect of "Altergeist Multifaker" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Altergeist
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- Maximum Gold: El Dorado
+- Maze of Millennia
+- Maze of Millennia

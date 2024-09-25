@@ -1,0 +1,15 @@
+Masterking Archfiend
+Card Type: Link Monster
+
+Description: 2 Fiend monsters
+Once per turn, during your Standby Phase, pay 500 LP or destroy this card. Once per Chain, if you pay LP (except during the Damage Step): You can send 1 Fiend monster from your Deck to the GY with ATK or DEF equal to the amount paid. Once per Chain, if a Fiend monster(s) is sent to your GY (except during the Damage Step): You can roll a six-sided die, then apply this effect on 1 of those monsters based on the result.
+● 1: Add it to your hand. ● 2, 3, 4, 5: Shuffle into the Deck. ● 6: Special Summon it.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Extreme Force

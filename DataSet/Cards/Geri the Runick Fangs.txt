@@ -1,0 +1,15 @@
+Geri the Runick Fangs
+Card Type: Fusion Monster
+
+Description: 2 "Runick" monsters
+Cannot be destroyed by card effects. If this card is Special Summoned from the Extra Deck: You can target 1 non-Quick-Play "Runick" Spell in your GY; add it to your hand. When this card is destroyed by battle: You can target 1 card on the field; destroy it.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 1000
+Archetype: Runick
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

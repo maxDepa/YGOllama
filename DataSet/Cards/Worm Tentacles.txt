@@ -1,0 +1,14 @@
+Worm Tentacles
+Card Type: Effect Monster
+
+Description: Once per turn, you can remove from play 1 Reptile-Type "Worm" monster in your Graveyard to allow this card to attack twice during the same Battle Phase.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 700
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

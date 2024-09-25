@@ -1,0 +1,14 @@
+Chaos Betrayer
+Card Type: Effect Monster
+
+Description: If this card is in your GY: You can banish 1 LIGHT and 1 DARK monster from your GY, except "Chaos Betrayer"; Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is Special Summoned: You can target 1 card in your opponent's GY; banish it. You can only use each effect of "Chaos Betrayer" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2000
+Archetype: Chaos
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

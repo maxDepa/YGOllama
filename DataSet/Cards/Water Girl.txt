@@ -1,0 +1,12 @@
+Water Girl
+Card Type: Normal Monster
+
+Description: A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1250
+Defence: 1000
+Archetype: //
+Present in Sets:

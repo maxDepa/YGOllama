@@ -1,0 +1,14 @@
+Aquarium Lighting
+Card Type: Spell Card
+
+Description: If an "Aquaactress" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK and DEF each become double its current ATK and DEF during that damage calculation only. If this card is sent from the field to the Graveyard: You can target 1 Aqua-Type monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua-Type monsters. You can only control 1 "Aquarium Lighting".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aquaactress
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

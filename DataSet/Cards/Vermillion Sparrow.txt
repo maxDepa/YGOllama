@@ -1,0 +1,13 @@
+Vermillion Sparrow
+Card Type: Fusion Monster
+
+Description: "Rhaimundos of the Red Sword" + "Fireyarou"
+
+Type: Pyro
+Attribute: FIRE
+Level: 5
+Attack: 1900
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Astral Pack Eight

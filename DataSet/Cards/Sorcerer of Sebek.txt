@@ -1,0 +1,14 @@
+Sorcerer of Sebek
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+When this card or your monster this card points to inflicts battle damage to your opponent: You can gain that much LP. If a player gains LP, even during the Damage Step: You can make each player take 1000 damage. You can only use each effect of "Sorcerer of Sebek" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Prophecy
+Present in Sets:
+- Phantom Nightmare

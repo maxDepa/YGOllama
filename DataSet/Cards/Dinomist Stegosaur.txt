@@ -1,0 +1,18 @@
+Dinomist Stegosaur
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If another "Dinomist" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.
+
+[ Monster Effect ] 
+If another Pendulum Monster you control battles an opponent's monster, after damage calculation: You can destroy those monsters.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: Dinomist
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

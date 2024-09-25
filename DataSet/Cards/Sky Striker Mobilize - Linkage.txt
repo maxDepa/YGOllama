@@ -1,0 +1,13 @@
+Sky Striker Mobilize - Linkage!
+Card Type: Spell Card
+
+Description: If you control no monsters in your Main Monster Zone: You cannot Special Summon monsters from the Extra Deck for the rest of this turn after this card resolves, except "Sky Striker Ace" monsters, also send 1 other card you control to the GY, and if you do, Special Summon 1 "Sky Striker Ace" monster from your Extra Deck to the Extra Monster Zone, and if you have at least 1 LIGHT and 1 DARK "Sky Striker Ace" monsters on your field and/or in your GY, the Summoned monster gains 1000 ATK.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- Magnificent Mavens

@@ -1,0 +1,18 @@
+Igknight Paladin
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+If you have an "Igknight" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.
+
+[ Monster Effect ] 
+''This Igknight has a reputation as a thinker with a cool head. But the truth is that his emotions just take longer to heat up.''
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1400
+Defence: 1900
+Archetype: Igknight
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

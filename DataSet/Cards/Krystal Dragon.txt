@@ -1,0 +1,15 @@
+Krystal Dragon
+Card Type: Effect Monster
+
+Description: Once per turn, during your Battle Step, if this card battled this turn: You can add 1 Level 8 Dragon-Type monster from your Deck to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Special Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

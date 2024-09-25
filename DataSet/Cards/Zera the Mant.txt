@@ -1,0 +1,15 @@
+Zera the Mant
+Card Type: Ritual Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Zera Ritual".
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Premium Pack (TCG)
+- Premium Pack (TCG)
+- Speed Duel: Streets of Battle City

@@ -1,0 +1,19 @@
+Spell Power Grasp
+Card Type: Spell Card
+
+Description: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target, then you can add 1 "Spell Power Grasp" from your Deck to your hand. You can only activate 1 "Spell Power Grasp" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Saviors
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Speed Duel: Scars of Battle
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters

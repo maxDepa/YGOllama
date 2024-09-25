@@ -1,0 +1,13 @@
+Brohunder
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 Level 4 LIGHT Thunder-Type monster from your Deck to your hand, except "Brohunder".
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 900
+Defence: 400
+Archetype: //
+Present in Sets:
+- Duelist Saga

@@ -1,0 +1,13 @@
+Starry Knight Sky
+Card Type: Spell Card
+
+Description: During your Main Phase, you can Normal Summon 1 "Starry Knight" monster, or 1 Level 7 LIGHT Dragon monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) During your turn, if a face-up Level 7 LIGHT Dragon monster you control returns to the hand: You can draw 1 card. You can only use this effect of "Starry Knight Sky" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

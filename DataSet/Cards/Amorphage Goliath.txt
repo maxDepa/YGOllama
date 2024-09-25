@@ -1,0 +1,18 @@
+Amorphage Goliath
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+While you control an "Amorphage" monster, any card sent to the GY is banished instead, except "Amorphage" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.
+
+[ Monster Effect ] 
+Neither player can Special Summon monsters from the Extra Deck, except "Amorphage" monsters.
+
+Type: Dragon
+Attribute: EARTH
+Level: 8
+Attack: 2750
+Defence: 0
+Archetype: Amorphage
+Present in Sets:
+- Fists of the Gadgets
+- Shining Victories

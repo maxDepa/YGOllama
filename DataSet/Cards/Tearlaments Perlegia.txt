@@ -1,0 +1,13 @@
+Tearlaments Perlegia
+Card Type: Spell Card
+
+Description: Fusion Monsters and "Tearlaments" monsters you control gain 500 ATK. If an Aqua "Tearlaments" monster is sent to your GY by card effect (except during the Damage Step): You can send 1 Level 4 or lower Aqua monster from your Deck to the GY, but if you sent a non-"Tearlaments" monster to the GY, for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as that sent card. You can only use this effect of "Tearlaments Perlegia" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tearlaments
+Present in Sets:
+- Photon Hypernova

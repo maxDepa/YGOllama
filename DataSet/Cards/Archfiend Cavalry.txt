@@ -1,0 +1,15 @@
+Archfiend Cavalry
+Card Type: Effect Monster
+
+Description: If this card on the field is destroyed by card effect and sent to the GY: You can target 1 "Archfiend" monster in your GY, except "Archfiend Cavalry"; Special Summon it, but it cannot attack this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Structure Deck: Lair of Darkness

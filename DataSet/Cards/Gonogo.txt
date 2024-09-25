@@ -1,0 +1,15 @@
+Gonogo
+Card Type: Effect Monster
+
+Description: At the end of the Damage Step, if this card battled an opponent's monster: Change that monster to face-down Defense Position.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1350
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- The Duelist Genesis

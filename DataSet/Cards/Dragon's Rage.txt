@@ -1,0 +1,18 @@
+Dragon's Rage
+Card Type: Trap Card
+
+Description: Dragon-Type monsters you control inflict piercing Battle Damage when they attack a Defense Position monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dragunity Legion Structure Deck
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Dragon's Roar

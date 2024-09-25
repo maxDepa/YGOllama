@@ -1,0 +1,13 @@
+Dice-nied
+Card Type: Trap Card
+
+Description: Each time your opponent Special Summons a monster(s): Roll a six-sided die, and return all of those Summoned monster(s) to the hand with a current Level that's the same as the result.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

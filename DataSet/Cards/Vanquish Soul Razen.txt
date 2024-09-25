@@ -1,0 +1,17 @@
+Vanquish Soul Razen
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 non-Warrior "Vanquish Soul" monster from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);
+● FIRE: This card cannot be destroyed by card effects this turn.
+● FIRE & DARK: Destroy all other monsters in this card's column.
+You can only use each effect of "Vanquish Soul Razen" once per turn, and cannot activate more than 1 in the same Chain.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Vanquish Soul
+Present in Sets:
+- Wild Survivors
+- Wild Survivors

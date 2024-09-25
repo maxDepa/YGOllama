@@ -1,0 +1,21 @@
+Sinister Serpent
+Card Type: Effect Monster
+
+Description: During your Standby Phase, if this card is in your GY: You can add it to your hand, also banish 1 "Sinister Serpent" from your GY during your opponent's next End Phase. You can only use this effect of "Sinister Serpent" once per turn.
+
+Type: Reptile
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 250
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Gold: Return of the Bling
+- Speed Duel Tournament Pack 5
+- Speed Duel: Attack from the Deep
+- Speed Duel: Streets of Battle City
+- Yu-Gi-Oh! World Championship Tournament 2004 promotional cards
+- Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards

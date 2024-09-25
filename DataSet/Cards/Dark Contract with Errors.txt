@@ -1,0 +1,15 @@
+Dark Contract with Errors
+Card Type: Trap Card
+
+Description: Once per turn, if you control a "D/D" monster: You can negate all Trap Card effects on the field (other than this card's) for the rest of this turn (even if this card leaves the field). Once per turn, during your Standby Phase: Take 1000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Pendulum Domination Structure Deck

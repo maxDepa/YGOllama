@@ -1,0 +1,14 @@
+Interplanetarypurplythorny Beast
+Card Type: Effect Monster
+
+Description: When a monster you control is destroyed by battle and sent to the Graveyard, while this card is in your Graveyard: You can Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field. You can only use the effect of "Interplanetarypurplythorny Beast" once per turn.
+
+Type: Beast
+Attribute: DARK
+Level: 5
+Attack: 1100
+Defence: 2200
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

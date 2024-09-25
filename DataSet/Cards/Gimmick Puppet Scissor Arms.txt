@@ -1,0 +1,13 @@
+Gimmick Puppet Scissor Arms
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 "Gimmick Puppet" monster from your Deck to the Graveyard.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 600
+Archetype: Gimmick Puppet
+Present in Sets:
+- Number Hunters

@@ -1,0 +1,17 @@
+Dragunity Primus Pilus
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type "Dragunity" monster you control. Equip it with 1 Level 3 or lower Dragon-Type "Dragunity" monster from your Deck.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 1600
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

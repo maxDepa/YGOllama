@@ -1,0 +1,14 @@
+G Golem Invalid Dolmen
+Card Type: Link Monster
+
+Description: 2+ EARTH monsters
+Co-linked monsters you control are unaffected by monster effects activated on your opponent's field. All monsters your opponent controls that can attack must attack this card. Once per turn: You can discard 1 Cyberse monster; draw 1 card. If this co-linked card is destroyed: You can negate the effects of all face-up cards your opponent currently controls.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: G Golem
+Present in Sets:
+- Battles of Legend: Crystal Revenge

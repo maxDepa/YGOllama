@@ -1,0 +1,14 @@
+Assault Counter
+Card Type: Trap Card
+
+Description: Activate only while you control an "/Assault Mode" monster. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- OTS Tournament Pack 10 (POR)

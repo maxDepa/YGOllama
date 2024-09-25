@@ -1,0 +1,13 @@
+Photon Slasher
+Card Type: Effect Monster
+
+Description: If a face-up Xyz Monster is on the field, you can Special Summon this card (from your hand) in face-up Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2100
+Defence: 1000
+Archetype: Photon
+Present in Sets:
+- Zexal Collection Tin

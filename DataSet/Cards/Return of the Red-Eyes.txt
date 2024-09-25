@@ -1,0 +1,16 @@
+Return of the Red-Eyes
+Card Type: Trap Card
+
+Description: If you control a "Red-Eyes" monster, except "Red-Eyes B. Chick": You can target 1 Normal Monster in your Graveyard; Special Summon it. If this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can target 1 "Red-Eyes" monster in your Graveyard, except "Red-Eyes B. Chick"; Special Summon it. You can only use each effect of "Return of the Red-Eyes" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Clash of Rebellions
+- Crossed Souls: Advance Edition
+- Legendary Decks II
+- Legendary Duelists: Season 1

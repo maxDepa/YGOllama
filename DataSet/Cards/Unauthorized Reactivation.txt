@@ -1,0 +1,13 @@
+Unauthorized Reactivation
+Card Type: Spell Card
+
+Description: Target 1 Machine monster you control; equip 1 appropriate Machine Union monster from your hand or Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 "Unauthorized Reactivation" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Machina
+Present in Sets:
+- Structure Deck: Mechanized Madness

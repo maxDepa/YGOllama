@@ -1,0 +1,14 @@
+Subterror Behemoth Stygokraken
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target Set cards on the field, equal to the number of "Subterror Behemoth" monsters you control; destroy them. You can only use this effect of "Subterror Behemoth Stygokraken" once per turn.
+When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.
+
+Type: Sea Serpent
+Attribute: EARTH
+Level: 5
+Attack: 1400
+Defence: 2600
+Archetype: Subterror
+Present in Sets:
+- Invasion: Vengeance

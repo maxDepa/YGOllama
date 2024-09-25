@@ -1,0 +1,15 @@
+Nitro Unit
+Card Type: Spell Card
+
+Description: Equip only to a monster on your opponent's side of the field. When the equipped monster is destroyed by battle and sent to the Graveyard, inflict damage to your opponent equal to the ATK of the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

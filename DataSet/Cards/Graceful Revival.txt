@@ -1,0 +1,15 @@
+Graceful Revival
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- The Duelist Genesis

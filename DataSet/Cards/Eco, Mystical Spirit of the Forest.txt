@@ -1,0 +1,14 @@
+Eco, Mystical Spirit of the Forest
+Card Type: Effect Monster
+
+Description: When you take damage from an opponent's card effect: You can Special Summon this card from your hand, and if you do, inflict damage to your opponent equal to the damage you took, also both players take no further effect damage this turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 17 (POR)
+- Return of the Duelist

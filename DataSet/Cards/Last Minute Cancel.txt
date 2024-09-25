@@ -1,0 +1,14 @@
+Last Minute Cancel
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack while you control an Attack Position monster(s): Change all monsters you control to Defense Position. For the rest of this turn after this card resolves, return any face-up "Performapal" monster you control that is destroyed by battle or card effect to the hand instead of sending it to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity

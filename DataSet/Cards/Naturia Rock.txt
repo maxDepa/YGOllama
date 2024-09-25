@@ -1,0 +1,16 @@
+Naturia Rock
+Card Type: Effect Monster
+
+Description: When a Trap Card is activated, you can send the top card of your Deck to the Graveyard to Special Summon this card from your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 1200
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

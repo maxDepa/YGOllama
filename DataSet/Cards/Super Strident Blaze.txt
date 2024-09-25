@@ -1,0 +1,14 @@
+Super Strident Blaze
+Card Type: Spell Card
+
+Description: Equip only to a Machine Fusion Monster. Your opponent cannot activate cards or effects during your Battle Phase. At the end of the Damage Step, if the equipped monster attacked an opponent's monster: You can banish 1 "Cyber Dragon" monster from your GY; the equipped monster can attack an opponent's monster again in a row. Your other monsters cannot attack the turn you activate this effect.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

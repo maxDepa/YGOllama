@@ -1,0 +1,14 @@
+Abare Ushioni
+Card Type: Effect Monster
+
+Description: Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

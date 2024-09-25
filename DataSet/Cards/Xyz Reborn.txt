@@ -1,0 +1,16 @@
+Xyz Reborn
+Card Type: Trap Card
+
+Description: Target 1 Xyz Monster in your Graveyard; Special Summon it, and if you do, attach this card to it as an Xyz Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Amazing Defenders
+- Order of Chaos
+- Wing Raiders

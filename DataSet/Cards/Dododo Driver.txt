@@ -1,0 +1,15 @@
+Dododo Driver
+Card Type: Effect Monster
+
+Description: Up to twice per turn, if this card was Special Summoned by the effect of a "Dododo" monster this turn: You can target 1 "Dododo" monster you control, then activate 1 of these effects;
+● Increase its Level by 1.
+● Reduce its Level by 1.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Dododo
+Present in Sets:
+- The New Challengers

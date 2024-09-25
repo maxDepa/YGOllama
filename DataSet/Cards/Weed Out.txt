@@ -1,0 +1,14 @@
+Weed Out
+Card Type: Trap Card
+
+Description: Pay 500 Life Points. Destroy all face-up Attack Position Level 3 monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy

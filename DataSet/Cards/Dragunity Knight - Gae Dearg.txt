@@ -1,0 +1,17 @@
+Dragunity Knight - Gae Dearg
+Card Type: Synchro Monster
+
+Description: 1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters
+Once per turn: You can add 1 Level 4 or lower Dragon or Winged Beast monster from your Deck to your hand, then discard 1 Dragon or Winged Beast monster.
+
+Type: Dragon
+Attribute: WIND
+Level: 6
+Attack: 2400
+Defence: 800
+Archetype: Dragunity
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Starstrike Blast

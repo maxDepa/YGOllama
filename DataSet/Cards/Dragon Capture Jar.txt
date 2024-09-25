@@ -1,0 +1,20 @@
+Dragon Capture Jar
+Card Type: Trap Card
+
+Description: Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Tournament Pack: 3rd Season

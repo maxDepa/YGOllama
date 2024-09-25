@@ -1,0 +1,16 @@
+Appointer of the Red Lotus
+Card Type: Trap Card
+
+Description: Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until your opponent's next End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Stardust Overdrive
+- Structure Deck: Freezing Chains

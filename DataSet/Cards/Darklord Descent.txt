@@ -1,0 +1,13 @@
+Darklord Descent
+Card Type: Trap Card
+
+Description: Pay half your LP; Special Summon up to 2 "Darklord" monsters from your Graveyard in Defense Position, with the same Level as 1 face-up monster your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Darklord
+Present in Sets:
+- Duelist Saga

@@ -1,0 +1,17 @@
+Witty Phantom
+Card Type: Normal Monster
+
+Description: Dressed in a night-black tuxedo, this creature presides over the darkness.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Yugi
+- Starter Deck: Yugi

@@ -1,0 +1,16 @@
+Plunder Patroll Shipyarrrd
+Card Type: Spell Card
+
+Description: "Plunder Patroll" monsters you control gain 500 ATK for each "Plunder Patroll" card in your Spell & Trap Zone. You can only use each of the following effects of "Plunder Patroll Shipyarrrd" once per turn.
+● You can discard 1 card; add 1 "Plunder Patroll" card from your Deck to your hand, except "Plunder Patroll Shipyarrrd".
+● If this card is in your GY: You can target 1 "Plunder Patroll" card in your Spell & Trap Zone; Set this card, and if you do, return that target to the hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Plunder Patroll
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Ignition Assault

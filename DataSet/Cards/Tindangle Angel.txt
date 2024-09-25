@@ -1,0 +1,13 @@
+Tindangle Angel
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 Flip monster from your hand or GY in face-down Defense Position, except "Tindangle Angel", then, if it is your opponent's Battle Phase, end the Battle Phase. You can only use this effect of "Tindangle Angel" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 500
+Defence: 1800
+Archetype: Tindangle
+Present in Sets:
+- Extreme Force

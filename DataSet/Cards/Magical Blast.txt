@@ -1,0 +1,15 @@
+Magical Blast
+Card Type: Spell Card
+
+Description: Inflict 200 damage to your opponent for each Spellcaster monster you control. During your Draw Phase, if this card is in your GY, before you draw: You can give up your normal draw this turn, and if you do, add this card to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Spellcaster's Judgment

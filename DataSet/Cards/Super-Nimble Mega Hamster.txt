@@ -1,0 +1,16 @@
+Super-Nimble Mega Hamster
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 Level 3 or lower Beast-Type monster from your Deck in face-down Defense Position.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 1800
+Archetype: Nimble
+Present in Sets:
+- Absolute Powerforce
+- Duelist League 15 participation cards
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Collection 5D's Mega Pack

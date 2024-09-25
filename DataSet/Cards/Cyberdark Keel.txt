@@ -1,0 +1,20 @@
+Cyberdark Keel
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card destroys an opponent's monster by battle: Inflict 300 damage to your opponent. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 800
+Archetype: Cyberdark
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact
+- Duel Terminal 5a
+- Duelist Pack: Zane Truesdale
+- Legendary Duelists
+- Legendary Duelists: Season 1
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Cyber Strike

@@ -1,0 +1,17 @@
+Kai-Den Kendo Spirit
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can choose 1 card in your Pendulum Zone, and send to the GY all cards your opponent controls in the same column as that card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.
+
+Type: Warrior
+Attribute: WIND
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: Martial Art Spirit
+Present in Sets:
+- Flames of Destruction

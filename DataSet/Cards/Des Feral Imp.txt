@@ -1,0 +1,18 @@
+Des Feral Imp
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 card in your Graveyard; shuffle that target into the Deck.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Seto Kaiba

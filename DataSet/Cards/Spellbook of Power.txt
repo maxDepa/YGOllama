@@ -1,0 +1,15 @@
+Spellbook of Power
+Card Type: Spell Card
+
+Description: Target 1 Spellcaster monster you control; this turn, it gains 1000 ATK. And if it does, each time it destroys an opponent's monster by battle this turn: You can add 1 "Spellbook" Spell from your Deck to your hand. You can only activate 1 "Spellbook of Power" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- Astral Pack Two
+- Return of the Duelist
+- Structure Deck: Order of the Spellcasters

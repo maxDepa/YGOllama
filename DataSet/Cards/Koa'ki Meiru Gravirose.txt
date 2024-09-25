@@ -1,0 +1,14 @@
+Koa'ki Meiru Gravirose
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Plant-Type monster in you hand. During each of your Standby Phases, you can send 1 Level 3 or lower monster from your Deck to your Graveyard.
+
+Type: Plant
+Attribute: FIRE
+Level: 4
+Attack: 1900
+Defence: 1300
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Ancient Prophecy
+- Ancient Prophecy

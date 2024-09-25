@@ -1,0 +1,20 @@
+Emergency Teleport
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 3 or lower Psychic-Type monster from your hand or Deck, but banish it during the End Phase of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- High-Speed Riders
+- Legendary Collection 5D's Mega Pack
+- Premium Gold: Infinite Gold
+- The Duelist Genesis
+- The Duelist Genesis
+- The Grand Creators
+- The Grand Creators

@@ -1,0 +1,13 @@
+Pride of the Weak
+Card Type: Spell Card
+
+Description: When a Level 2 or lower monster you control destroys an opponent's monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

@@ -1,0 +1,14 @@
+Vylon Stigma
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's turn: You can target 1 face-up "Vylon" Equip Card you control and 1 appropriate face-up monster; equip the first target to the second target.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

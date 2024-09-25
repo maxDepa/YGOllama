@@ -1,0 +1,14 @@
+Magical King Moonstar
+Card Type: Effect Monster
+
+Description: Cannot be used as a Synchro Material, except for the Synchro Summon of a DARK Synchro Monster. If you control a Tuner monster, you can Special Summon this card (from your hand). If this card is Normal or Special Summoned: You can target 1 other monster you control or in your Graveyard; until the end of this turn, this card's Level becomes the same as that monster's, also you cannot Special Summon, except by Synchro Summon.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 600
+Archetype: //
+Present in Sets:
+- Premium Gold: Infinite Gold
+- Structure Deck: The Crimson King

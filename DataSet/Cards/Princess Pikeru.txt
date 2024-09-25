@@ -1,0 +1,15 @@
+Princess Pikeru
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Trial of the Princesses". During your Standby Phase, gain 800 Life Points for each monster you control.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity

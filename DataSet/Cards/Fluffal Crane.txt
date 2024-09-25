@@ -1,0 +1,14 @@
+Fluffal Crane
+Card Type: Trap Card
+
+Description: When a face-up "Fluffal" monster(s) you control is destroyed by your opponent's attack or card effect and sent to your Graveyard: Target 1 of those destroyed monsters; add it to your hand, and if you do, draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fluffal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

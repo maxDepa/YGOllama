@@ -1,0 +1,22 @@
+Dangerous Machine Type-6
+Card Type: Spell Card
+
+Description: During each of your Standby Phases: Roll a six-sided die and apply the result.
+● 1: Discard 1 card.
+● 2: Your opponent discards 1 card.
+● 3: Draw 1 card.
+● 4: Your opponent draws 1 card.
+● 5: Destroy 1 monster your opponent controls.
+● 6: Destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League 3 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Light of Destruction
+- Light of Destruction

@@ -1,0 +1,14 @@
+Naturia Gaiastrio
+Card Type: Fusion Monster
+
+Description: 2 EARTH Synchro Monsters
+During either player's turn, when a card or effect is activated that targets exactly 1 card on the field (and no other cards): You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy that card.
+
+Type: Rock
+Attribute: EARTH
+Level: 10
+Attack: 3200
+Defence: 2100
+Archetype: Naturia
+Present in Sets:
+- World Superstars

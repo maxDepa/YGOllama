@@ -1,0 +1,19 @@
+Gravekeeper's Servant
+Card Type: Spell Card
+
+Description: Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler

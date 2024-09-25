@@ -1,0 +1,13 @@
+Blast Asmodian
+Card Type: Effect Monster
+
+Description: If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.
+
+Type: Fiend
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 300
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

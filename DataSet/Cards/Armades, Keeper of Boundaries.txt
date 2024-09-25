@@ -1,0 +1,16 @@
+Armades, Keeper of Boundaries
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 5
+Attack: 2300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Premium Gold: Return of the Bling

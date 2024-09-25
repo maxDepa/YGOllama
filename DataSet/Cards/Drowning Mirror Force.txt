@@ -1,0 +1,18 @@
+Drowning Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares a direct attack: Shuffle all your opponent's Attack Position monsters into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Dark Saviors
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Dragon Decks
+- Maximum Gold
+- Shining Victories

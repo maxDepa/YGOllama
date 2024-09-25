@@ -1,0 +1,19 @@
+Snipe Hunter
+Card Type: Effect Monster
+
+Description: You can discard 1 card, then target 1 card on the field; roll a six-sided die, and destroy that target unless you roll a 1 or 6.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 600
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Three
+- Cyberdark Impact
+- Dragons Collide Structure Deck
+- Duel Terminal 4
+- Gold Series 2009
+- Legendary Collection 4: Joey's World Mega Pack
+- Rise of the Dragon Lords Structure Deck

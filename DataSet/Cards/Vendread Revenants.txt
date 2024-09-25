@@ -1,0 +1,14 @@
+Vendread Revenants
+Card Type: Effect Monster
+
+Description: If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can Special Summon this card, but banish it when it leaves the field. A "Vendread" monster Ritual Summoned using this card on the field gains this effect. You can only use the preceding effect of "Vendread Revenants" once per turn.
+● Once per turn (Quick Effect): You can target 1 Special Summoned monster your opponent controls; banish it.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Vendread
+Present in Sets:
+- Code of the Duelist

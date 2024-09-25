@@ -1,0 +1,16 @@
+Priestess with Eyes of Blue
+Card Type: Tuner Monster
+
+Description: When a card or effect is activated that targets this card (Quick Effect): You can send 1 Effect Monster you control to the GY, and if you do, add up to 2 "Blue-Eyes" monsters with different names from your Deck to your hand. If this card is in your GY: You can target 1 "Blue-Eyes" monster you control; shuffle it into the Deck, and if you do, Special Summon this card. You can only use 1 "Priestess with Eyes of Blue" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Duelists: Season 2
+- Shining Victories

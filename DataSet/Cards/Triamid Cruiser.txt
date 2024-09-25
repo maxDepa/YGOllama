@@ -1,0 +1,13 @@
+Triamid Cruiser
+Card Type: Spell Card
+
+Description: Each time a Rock-Type monster is Normal Summoned, gain 500 LP. If a "Triamid" monster is Normal Summoned: You can draw 1 card, then discard 1 card. If this face-up card in the Field Zone is sent to the Graveyard: You can add 1 "Triamid" monster from your Deck to your hand. You can only use this effect of "Triamid Cruiser" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Triamid
+Present in Sets:
+- The Dark Illusion

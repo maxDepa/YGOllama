@@ -1,0 +1,22 @@
+Rope of Life
+Card Type: Trap Card
+
+Description: When a monster(s) is destroyed by battle and sent to your GY: Discard your entire hand (min.1), then target 1 of those monsters; Special Summon it, and if you do, it gains 800 ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Battle City Box
+- Starter Deck: Duelist Toolbox
+- Structure Deck: Deluxe Edition

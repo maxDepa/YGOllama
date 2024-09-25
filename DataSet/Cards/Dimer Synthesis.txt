@@ -1,0 +1,16 @@
+Dimer Synthesis
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● Add 1 "Catalyst Field" from your Deck to your hand.
+● Add 1 "Burnout", and 1 "Chemicritter" monster, from your Deck to your hand.
+You can banish this card from your GY, then target 2 face-up monsters you control, including a Gemini monster that is treated as an Effect Monster and has gained its effects; until the end of this turn, make 1 of those monster's ATK 0, and if you do, the second monster gains ATK equal to the first monster's original ATK. You can only use each effect of "Dimer Synthesis" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chemicritter
+Present in Sets:
+- Dawn of Majesty

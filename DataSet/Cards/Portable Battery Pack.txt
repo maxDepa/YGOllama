@@ -1,0 +1,13 @@
+Portable Battery Pack
+Card Type: Trap Card
+
+Description: Select 2 "Batteryman" monsters from your Graveyard and Special Summon them in Attack Position. When this card is removed from the field, destroy those monsters. When both of those monsters have been removed from the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Batteryman
+Present in Sets:
+- Light of Destruction

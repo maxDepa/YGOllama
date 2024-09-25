@@ -1,0 +1,15 @@
+Mermaid Knight
+Card Type: Effect Monster
+
+Description: While "Umi" is face-up on the field, this card can attack twice during the same Battle Phase.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 700
+Archetype: Umi
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Structure Deck: Fury from the Deep

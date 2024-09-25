@@ -1,0 +1,18 @@
+Archlord Kristya
+Card Type: Effect Monster
+
+Description: If you have exactly 4 Fairy monsters in your GY, you can Special Summon this card (from your hand). If Summoned this way: Target 1 Fairy monster in your GY; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the GY, place it on top of the Deck, instead.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Collectible Tins 2011 Wave 1
+- Destiny Soldiers
+- Stardust Overdrive
+- Structure Deck: Wave of Light
+- Valiant Smashers
+- Valiant Smashers

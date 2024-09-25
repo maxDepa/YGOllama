@@ -1,0 +1,14 @@
+XX-Saber Ragigura
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned, you can add 1 "X-Saber" monster from your Graveyard to your hand.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 1000
+Archetype: X-Saber
+Present in Sets:
+- Ancient Prophecy
+- Turbo Pack: Booster Three

@@ -1,0 +1,16 @@
+Cyber Dinosaur
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster from their hand (except during the Damage Step): You can Special Summon this card from your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Collectible Tins 2010 Wave 1
+- Cyber Dragon Revolution Structure Deck
+- Legendary Dragon Decks
+- Shonen Jump Vol. 6, Issue 5 promotional card

@@ -1,0 +1,13 @@
+Lucky Loan
+Card Type: Spell Card
+
+Description: Target 1 "Fortune Fairy" monster you control; Special Summon 1 Spellcaster monster from your hand or Deck, whose original Level is 1 lower than that monster's, also during your next turn after this card resolves, you cannot Normal or Special Summon monsters, except Spellcaster monsters. You can only activate 1 "Lucky Loan" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Fairy
+Present in Sets:
+- Battles of Legend: Hero's Revenge

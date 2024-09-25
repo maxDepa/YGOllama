@@ -1,0 +1,29 @@
+Black Pendant
+Card Type: Spell Card
+
+Description: The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Saber Force Starter Deck
+- Spell Ruler
+- Spell Ruler
+- Starter Deck 2006
+- Starter Deck: Pegasus
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yugi Reloaded
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

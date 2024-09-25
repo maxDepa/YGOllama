@@ -1,0 +1,13 @@
+Spirit of the Books
+Card Type: Normal Monster
+
+Description: This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

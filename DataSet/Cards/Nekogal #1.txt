@@ -1,0 +1,13 @@
+Nekogal #1
+Card Type: Normal Monster
+
+Description: A pussycat-fairy. Contrary to her lovely beauty, she claws on her enemies.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 900
+Archetype: //
+Present in Sets:
+- Tournament Pack 6

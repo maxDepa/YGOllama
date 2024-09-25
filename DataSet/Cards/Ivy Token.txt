@@ -1,0 +1,12 @@
+Ivy Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Wall of Ivy". When it is destroyed, the controller takes 300 damage.
+
+Type: Plant
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

@@ -1,0 +1,28 @@
+Mystical Elf
+Card Type: Normal Monster
+
+Description: A delicate elf that lacks offense, but has a terrific defense backed by mystical power.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Dark Beginning 1
+- Demo Deck 2016
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Saber Force Starter Deck
+- Speed Duel: Attack from the Deep
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Super Starter: Space-Time Showdown
+- Super Starter: V for Victory
+- Yugi's Legendary Decks

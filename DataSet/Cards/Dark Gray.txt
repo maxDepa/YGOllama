@@ -1,0 +1,15 @@
+Dark Gray
+Card Type: Normal Monster
+
+Description: Entirely gray, this beast has rarely been seen by mortal eyes.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

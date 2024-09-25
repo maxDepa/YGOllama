@@ -1,0 +1,13 @@
+Hundred-Footed Horror
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributing, but its original ATK becomes 1300.
+
+Type: Insect
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Primal Origin

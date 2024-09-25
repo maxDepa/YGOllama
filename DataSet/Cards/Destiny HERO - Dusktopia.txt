@@ -1,0 +1,16 @@
+Destiny HERO - Dusktopia
+Card Type: Fusion Monster
+
+Description: 1 "Destiny HERO" Fusion Monster + 1 "Destiny HERO" monster
+If this card is Fusion Summoned: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. Once per turn (Quick Effect): You can target 1 monster on the field; make it unable to be destroyed by battle or card effects, and if you do, neither player takes any battle damage from attacks involving that monster (these effects last until the end of this turn).
+
+Type: Warrior
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: Destiny HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Legendary Hero Decks

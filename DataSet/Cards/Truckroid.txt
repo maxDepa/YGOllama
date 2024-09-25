@@ -1,0 +1,16 @@
+Truckroid
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: Equip the destroyed monster to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Roid
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Gladiator's Assault
+- Speed Duel GX: Midterm Paradox

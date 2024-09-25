@@ -1,0 +1,18 @@
+Dragunity Knight - Trident
+Card Type: Synchro Monster
+
+Description: 1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters
+Once per turn, you can send up to 3 cards you control to the Graveyard to look at your opponent's Extra Deck and send an equal number of cards from there to the Graveyard.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2400
+Defence: 1700
+Archetype: Dragunity
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 8 (POR)

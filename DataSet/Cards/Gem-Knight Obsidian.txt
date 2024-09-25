@@ -1,0 +1,15 @@
+Gem-Knight Obsidian
+Card Type: Effect Monster
+
+Description: If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 1200
+Archetype: Gem-
+Present in Sets:
+- Astral Pack Eight
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

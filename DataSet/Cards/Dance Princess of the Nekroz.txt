@@ -1,0 +1,14 @@
+Dance Princess of the Nekroz
+Card Type: Effect Monster
+
+Description: Your opponent cannot activate cards or effects in response to the activation of a "Nekroz" Ritual Spell Card. "Nekroz" Ritual Monsters you control cannot be targeted by an opponent's card effects. If this card is Tributed by a card effect: You can target 1 of your banished "Necroz" monsters, except "Dance Princess of the Nekroz"; add it to your hand. You can only use this effect of "Dance Princess of the Nekroz" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Nekroz
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity

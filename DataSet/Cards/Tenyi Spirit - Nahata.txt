@@ -1,0 +1,15 @@
+Tenyi Spirit - Nahata
+Card Type: Effect Monster
+
+Description: If you control no Effect Monsters: You can Special Summon this card from your hand. When an attack is declared involving your face-up non-Effect Monster and an opponent's face-up monster: You can banish this card from your hand or GY; that opponent's monster loses 1500 ATK until the end of this turn. You can only use each effect of "Tenyi Spirit - Nahata" once per turn.
+
+Type: Wyrm
+Attribute: WIND
+Level: 4
+Attack: 800
+Defence: 1000
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- Rising Rampage

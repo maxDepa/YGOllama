@@ -1,0 +1,16 @@
+Soul Crossing
+Card Type: Spell Card
+
+Description: During the Main Phase: Immediately after this effect resolves, Tribute Summon 1 Divine-Beast monster. When you do, you can Tribute a monster(s) your opponent controls, even though you do not control them, but if you Tribute Summon this way, apply this effect.
+● Until the end of the next turn after this card resolves, you can only activate 1 card or effect per turn, not counting the effects of Divine-Beast monsters.
+You can only activate 1 "Soul Crossing" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Egyptian God
+Present in Sets:
+- Egyptian God Deck: Obelisk the Tormentor
+- Egyptian God Deck: Slifer the Sky Dragon

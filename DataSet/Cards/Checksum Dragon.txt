@@ -1,0 +1,13 @@
+Checksum Dragon
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can Special Summon this card from your hand, then, gain LP equal to half this card's DEF. This Attack Position card cannot be destroyed by battle.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 400
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Structure Deck: Rokket Revolt

@@ -1,0 +1,15 @@
+Scrap Archfiend
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+
+Type: Fiend
+Attribute: EARTH
+Level: 7
+Attack: 2700
+Defence: 1800
+Archetype: Archfiend
+Present in Sets:
+- Duelist Revolution
+- Duelist Revolution Sneak Peek Participation Card
+- OTS Tournament Pack 9 (POR)

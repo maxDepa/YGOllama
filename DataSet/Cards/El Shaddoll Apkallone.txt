@@ -1,0 +1,17 @@
+El Shaddoll Apkallone
+Card Type: Fusion Monster
+
+Description: 2 "Shaddoll" monsters with different Attributes
+Must first be Fusion Summoned. Cannot be destroyed by battle. You can only use each of the following effects of "El Shaddoll Apkallone" once per turn.
+● If this card is Special Summoned: You can target 1 face-up card on the field; negate its effects.
+● If this card is sent to the GY: You can add 1 "Shaddoll" card from your Deck or GY to your hand, then discard 1 card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: Shaddoll
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Structure Deck: Shaddoll Showdown

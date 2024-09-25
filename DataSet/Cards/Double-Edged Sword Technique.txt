@@ -1,0 +1,18 @@
+Double-Edged Sword Technique
+Card Type: Trap Card
+
+Description: Target 2 "Six Samurai" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters' ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Gladiator's Assault
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Spirit Warriors

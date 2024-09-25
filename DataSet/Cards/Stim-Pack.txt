@@ -1,0 +1,17 @@
+Stim-Pack
+Card Type: Spell Card
+
+Description: The equipped monster gains 700 ATK. During each of your Standby Phases, the equipped monster loses 200 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

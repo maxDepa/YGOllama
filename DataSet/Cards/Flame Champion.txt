@@ -1,0 +1,15 @@
+Flame Champion
+Card Type: Normal Monster
+
+Description: A warrior protected by a flaming shield that nullifies any attack.
+
+Type: Pyro
+Attribute: FIRE
+Level: 5
+Attack: 1900
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

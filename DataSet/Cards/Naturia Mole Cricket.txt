@@ -1,0 +1,14 @@
+Naturia Mole Cricket
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 "Naturia" monster from your Deck, or you can Special Summon 2 "Naturia" monsters if your opponent controls a monster with the highest ATK on the field (even if it's tied). If your opponent Special Summons a monster(s) from the Extra Deck or you Special Summon a "Naturia" monster(s) from the Extra Deck, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of "Naturia Mole Cricket" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Naturia
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

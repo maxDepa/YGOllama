@@ -1,0 +1,20 @@
+Beckoning Light
+Card Type: Trap Card
+
+Description: Discard your entire hand, then for each card you discarded to the GY by this effect, add 1 LIGHT monster from your GY to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Champion Pack: Game Eight
+- Dark Revelation Volume 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Lost Sanctuary Structure Deck
+- Realm of Light Structure Deck
+- Spirit Warriors
+- Turbo Pack: Booster Two

@@ -1,0 +1,19 @@
+Hero Flash!!
+Card Type: Spell Card
+
+Description: Banish "H - Heated Heart", "E - Emergency Call", "R - Righteous Justice" and "O - Oversoul" from your Graveyard; Special Summon 1 "Elemental HERO" Normal Monster from your Deck. All "Elemental HERO" Normal Monsters you currently control can attack your opponent directly this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 3
+- Ra Yellow Mega Pack

@@ -1,0 +1,15 @@
+Mimighoul Archfiend
+Card Type: Flip Effect Monster
+
+Description: FLIP: If it is the Main Phase: Apply these effects in sequence.
+● Your opponent draws 1 card. ● Send 1 card from your hand to the GY. ● Give control of this card to your opponent.
+During your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position. If this card is Normal or Special Summoned: You can change 1 face-down monster on the field to face-up Attack or Defense Position. You can only use each effect of "Mimighoul Archfiend" once per turn.
+
+Type: Fiend
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 1900
+Archetype: Archfiend
+Present in Sets:
+- The Infinite Forbidden

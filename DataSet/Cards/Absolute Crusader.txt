@@ -1,0 +1,14 @@
+Absolute Crusader
+Card Type: Effect Monster
+
+Description: If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Generation Force
+- Legendary Dragon Decks

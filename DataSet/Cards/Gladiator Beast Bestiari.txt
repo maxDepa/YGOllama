@@ -1,0 +1,17 @@
+Gladiator Beast Bestiari
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Gladiator Beast" monster: Target 1 Spell/Trap Card on the field; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Bestiari".
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: Gladiator Beast
+Present in Sets:
+- Astral Pack Seven
+- Champion Pack: Game Seven
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Turbo Pack: Booster One

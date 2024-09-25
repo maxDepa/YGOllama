@@ -1,0 +1,16 @@
+Toon Defense
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack targeting a face-up Level 4 or lower Toon Monster you control: You can make the attack a direct attack instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Toon
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Destiny Masters

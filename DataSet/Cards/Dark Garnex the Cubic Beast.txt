@@ -1,0 +1,15 @@
+Dark Garnex the Cubic Beast
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 "Cubic" monster you control to the Graveyard. If Summoned this way, this card gains 1000 ATK. When this card destroys a monster by battle: You can target up to 2 "Vijam the Cubic Seed" in your Graveyard; send this card to the Graveyard, and if you do, Special Summon them, then you can add 1 "Blade Garoodia the Cubic Beast" from your Deck to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Cubic
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

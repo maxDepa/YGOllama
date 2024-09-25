@@ -1,0 +1,19 @@
+Red-Eyes Wyvern
+Card Type: Effect Monster
+
+Description: During your End Phase, if you did not Normal Summon/Set a monster this turn: You can banish this card from your Graveyard; Special Summon 1 "Red-Eyes" monster from your Graveyard, except "Red-Eyes B. Chick".
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1600
+Archetype: Red-Eyes
+Present in Sets:
+- Ancient Prophecy: Special Edition
+- Astral Pack Eight
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 1
+- Rise of the True Dragons Structure Deck
+- Speed Duel GX: Duelists of Shadows
+- Yu-Gi-Oh! GX Tag Force 3 promotional cards

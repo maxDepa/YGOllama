@@ -1,0 +1,14 @@
+Xyz Burst
+Card Type: Spell Card
+
+Description: If you control a Rank 6 or higher Xyz Monster: Destroy all Set cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- Order of Chaos

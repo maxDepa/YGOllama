@@ -1,0 +1,16 @@
+Red-Eyes Black Dragon Sword
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "The Claw of Hermos", using a Dragon monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It gains 1000 ATK, and 500 ATK/DEF for each Dragon monster on the field and in the GYs.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Red-Eyes
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Dragon Decks

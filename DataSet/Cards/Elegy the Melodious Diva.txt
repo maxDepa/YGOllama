@@ -1,0 +1,14 @@
+Elegy the Melodious Diva
+Card Type: Effect Monster
+
+Description: Special Summoned "Melodious" monsters you control cannot be destroyed by card effects. If this card was Special Summoned, all Fairy-Type monsters you control gain 300 ATK.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1200
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

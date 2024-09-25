@@ -1,0 +1,15 @@
+Masked Ninja Ebisu
+Card Type: Effect Monster
+
+Description: Once per turn, if you control a face-up "Ninja" monster other than "Masked Ninja Ebisu", you can activate this effect: Return a number of your opponent's Spell/Trap Cards to the hand, equal to the number of "Ninja" monsters you control, also every face-up "Goe Goe the Gallant Ninja" you control can attack your opponent directly this turn.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023

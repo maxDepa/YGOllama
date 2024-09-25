@@ -1,0 +1,14 @@
+Armed Dragon LV10 White
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. You can banish "Armed Dragon" monsters from your field and/or GY whose total Levels equal 10; Special Summon this card from your hand, then you can add 1 "White Veil" from your Deck to your hand. You can only use this effect of "Armed Dragon LV10 White" once per turn. You take no effect damage. At the start of the Damage Step, if this card attacks: You can destroy 1 card on the field.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 2000
+Archetype: Armed Dragon
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

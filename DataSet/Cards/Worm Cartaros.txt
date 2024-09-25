@@ -1,0 +1,14 @@
+Worm Cartaros
+Card Type: Flip Effect Monster
+
+Description: FLIP: Add 1 Level 4 or lower Reptile-Type "Worm" monster from your Deck to your hand.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 500
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal

@@ -1,0 +1,16 @@
+Inzektor Exa-Stag
+Card Type: XYZ Monster
+
+Description: 2 Level 5 Insect-Type monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or in their Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster(s) equipped by this effect.
+
+Type: Insect
+Attribute: DARK
+Level: 5
+Attack: 800
+Defence: 800
+Archetype: Inzektor
+Present in Sets:
+- Galactic Overlord
+- Galactic Overlord
+- The Grand Creators

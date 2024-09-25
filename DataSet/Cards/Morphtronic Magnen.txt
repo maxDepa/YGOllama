@@ -1,0 +1,13 @@
+Morphtronic Magnen
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: If your opponent controls a face-up monster, this card can only select their highest ATK monster as an attack target. ● While in Defense Position: Your opponent cannot select another monster as an attack target.
+
+Type: Thunder
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

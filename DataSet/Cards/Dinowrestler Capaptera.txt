@@ -1,0 +1,14 @@
+Dinowrestler Capaptera
+Card Type: Effect Monster
+
+Description: If your opponent controls more monsters than you do: You can target 1 monster your opponent controls; send it to the GY. You can only use this effect of "Dinowrestler Capaptera" once per turn. If this card is sent to the GY as Link Material for the Link Summon of a "Dinowrestler" monster: You can activate this effect; the Link Monster that used this card as material gains 1000 ATK until the end of this turn.
+
+Type: Dinosaur
+Attribute: WIND
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

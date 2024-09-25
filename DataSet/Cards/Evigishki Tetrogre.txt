@@ -1,0 +1,14 @@
+Evigishki Tetrogre
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can declare 1 card type (Monster, Spell, or Trap); your opponent can discard 1 card to negate this card's effect, otherwise both players send 1 card of the declared type from their Main Deck to the Graveyard.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2600
+Defence: 2100
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

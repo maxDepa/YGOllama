@@ -1,0 +1,14 @@
+Fire Formation - Tensen
+Card Type: Trap Card
+
+Description: When this card is activated: Target 1 Beast-Warrior-Type monster you control; it gains 700 ATK until the end of this turn. (This ATK gain remains even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- Cosmo Blazer
+- Duelist League 18 participation cards

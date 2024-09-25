@@ -1,0 +1,14 @@
+Combo Master
+Card Type: Effect Monster
+
+Description: If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.
+
+Type: Warrior
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

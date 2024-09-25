@@ -1,0 +1,16 @@
+Flying "C"
+Card Type: Effect Monster
+
+Description: When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to the opponent's field in Defense Position. The controller of this card cannot Xyz Summon.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 700
+Archetype: "C"
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Judgment of the Light: Deluxe Edition
+- OTS Tournament Pack 1

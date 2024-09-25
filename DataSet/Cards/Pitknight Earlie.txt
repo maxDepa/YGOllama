@@ -1,0 +1,15 @@
+Pitknight Earlie
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+When a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of "Pitknight Earlie" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

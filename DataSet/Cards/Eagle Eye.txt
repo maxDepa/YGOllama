@@ -1,0 +1,14 @@
+Eagle Eye
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned successfully, no Trap Cards can be activated.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny

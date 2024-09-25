@@ -1,0 +1,13 @@
+Regulus
+Card Type: Effect Monster
+
+Description: Once per turn, you can select 1 Field Spell Card in your Graveyard. Return it to the Deck.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

@@ -1,0 +1,15 @@
+Gagaga Samurai
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per turn: You can detach 1 material from this card, then target 1 "Gagaga" monster you control; it can make a second attack during each Battle Phase this turn. When another monster you control is targeted for an attack while this card is in Attack Position: You can change this card to face-up Defense Position, and if you do, change the attack target to this card and perform damage calculation.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1600
+Archetype: Gagaga
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- World Superstars

@@ -1,0 +1,14 @@
+Gem-Knight Lady Brilliant Diamond
+Card Type: Fusion Monster
+
+Description: 3 "Gem-Knight" monsters
+Must first be Fusion Summoned with the above Fusion Materials. You can only Special Summon "Gem-Knight Lady Brilliant Diamond(s)" once per turn. Once per turn: You can send 1 face-up "Gem-Knight" monster you control to the Graveyard, and if you do, Special Summon 1 "Gem-Knight" Fusion Monster from your Extra Deck, ignoring its Summoning conditions.
+
+Type: Rock
+Attribute: EARTH
+Level: 10
+Attack: 3400
+Defence: 2000
+Archetype: Gem-
+Present in Sets:
+- Clash of Rebellions

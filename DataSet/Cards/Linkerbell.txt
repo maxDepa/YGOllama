@@ -1,0 +1,15 @@
+Linkerbell
+Card Type: Link Monster
+
+Description: 2 monsters
+You cannot Link Summon this card unless you have at least 3 more cards in your Extra Deck than your opponent's.
+
+Type: Fairy
+Attribute: EARTH
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

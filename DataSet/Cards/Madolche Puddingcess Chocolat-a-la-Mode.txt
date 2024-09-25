@@ -1,0 +1,15 @@
+Madolche Puddingcess Chocolat-a-la-Mode
+Card Type: XYZ Monster
+
+Description: 2 Level 5 EARTH monsters
+You can also Xyz Summon this card by using a Rank 4 or lower "Madolche" Xyz Monster you control as the material. (Transfer its materials to this card.) Once per turn: You can target 1 "Madolche" card in your GY; shuffle it into the Deck. While this card has "Madolche Puddingcess" as material, when a "Madolche" card(s) in your GY is shuffled into the Main Deck (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 "Madolche" monster from your Deck in Attack Position or face-down Defense Position.
+
+Type: Fairy
+Attribute: EARTH
+Level: 5
+Attack: 2500
+Defence: 2200
+Archetype: Madolche
+Present in Sets:
+- Crossed Souls
+- Duel Overload

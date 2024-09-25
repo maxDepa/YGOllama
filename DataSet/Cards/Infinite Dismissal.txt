@@ -1,0 +1,16 @@
+Infinite Dismissal
+Card Type: Trap Card
+
+Description: Level 3 or lower monsters are destroyed during the End Phase of the turn that they are Normal Summoned or Flip Summoned.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

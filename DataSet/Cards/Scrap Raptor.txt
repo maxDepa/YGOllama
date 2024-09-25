@@ -1,0 +1,16 @@
+Scrap Raptor
+Card Type: Tuner Monster
+
+Description: You can target 1 monster you control; destroy it, also, during your Main Phase this turn, you can Normal Summon 1 "Scrap" monster in addition to your Normal Summon/Set. If this card is destroyed by the effect of a "Scrap" card and sent to your GY: You can add 1 "Scrap Factory" or 1 non-Tuner "Scrap" monster from your Deck to your hand. You can only use each effect of "Scrap Raptor" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: Scrap
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)

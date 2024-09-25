@@ -1,0 +1,19 @@
+Gravekeeper's Chief
+Card Type: Effect Monster
+
+Description: You can only control 1 face-up "Gravekeeper's Chief". Your GY is unaffected by "Necrovalley". When this card is Tribute Summoned: You can target 1 "Gravekeeper's" monster in your GY; Special Summon that target.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 1900
+Defence: 1200
+Archetype: Gravekeeper's
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Retro Pack 2
+- Speed Duel Starter Decks: Destiny Masters
+- Structure Deck: Marik (TCG)

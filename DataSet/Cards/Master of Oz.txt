@@ -1,0 +1,16 @@
+Master of Oz
+Card Type: Fusion Monster
+
+Description: "Big Koala" + "Des Kangaroo"
+
+Type: Beast
+Attribute: EARTH
+Level: 9
+Attack: 4200
+Defence: 3700
+Archetype: Koala
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box

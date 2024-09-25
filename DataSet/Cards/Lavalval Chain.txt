@@ -1,0 +1,18 @@
+Lavalval Chain
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;
+● Send 1 card from your Deck to the Graveyard.
+● Choose 1 monster from your Deck and place it on top of your Deck.
+
+Type: Sea Serpent
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars
+- Premium Gold: Return of the Bling

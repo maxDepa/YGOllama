@@ -1,0 +1,12 @@
+Transient Titan of Tartarus
+Card Type: Effect Monster
+
+Description: If this card is sent from the Deck to the GY: Send as many cards you control as possible to the GY, and if you do, Special Summon this card, then send cards your opponent controls to the GY, up to the number of cards sent to the GY by this effect. Neither player can activate monster effects in response to this effect's activation. If this card is sent to the GY, except from the Deck: You can send 1 card from your hand to the GY; send 1 card on the field to the GY. You can only use 1 "Transient Titan of Tartarus" effect per turn, and only once that turn.
+
+Type: Zombie
+Attribute: EARTH
+Level: 9
+Attack: 2600
+Defence: 0
+Archetype: //
+Present in Sets:

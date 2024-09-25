@@ -1,0 +1,13 @@
+Brainwashing Beam
+Card Type: Trap Card
+
+Description: Select 1 monster with at least 1 A-Counter on your opponent's side of the field and take control of that monster. During each of your End Phases, remove 1 A-Counter from that controlled monster. If all A-Counters are removed from that monster, or that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Power of the Duelist

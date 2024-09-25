@@ -1,0 +1,17 @@
+Bujintei Susanowo
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Bujin" monsters
+This card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 "Bujin" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 "Bujintei Susanowo".
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2400
+Defence: 1600
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- 2014 Mega-Tins
+- Judgment of the Light
+- Judgment of the Light

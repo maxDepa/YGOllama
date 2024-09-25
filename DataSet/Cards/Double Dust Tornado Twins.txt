@@ -1,0 +1,14 @@
+Double Dust Tornado Twins
+Card Type: Trap Card
+
+Description: Target any number of Set cards in your Spell & Trap Zone; return this card to the hand, along with as many of those Set cards as possible (min. 1), then you can Set Spells/Traps from your hand equal to the number of cards returned to your hand by this effect. You can only activate 1 "Double Dust Tornado Twins" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

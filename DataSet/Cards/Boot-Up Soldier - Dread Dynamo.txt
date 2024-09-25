@@ -1,0 +1,15 @@
+Boot-Up Soldier - Dread Dynamo
+Card Type: Effect Monster
+
+Description: While you control a "Gadget" monster, this card gains 2000 ATK.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Gadget
+Present in Sets:
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Structure Deck: Machine Re-Volt

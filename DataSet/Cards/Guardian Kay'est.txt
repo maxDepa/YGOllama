@@ -1,0 +1,16 @@
+Guardian Kay'est
+Card Type: Effect Monster
+
+Description: Cannot be Summoned unless you control a face-up "Rod of Silence - Kay'est". This card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

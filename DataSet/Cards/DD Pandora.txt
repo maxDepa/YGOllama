@@ -1,0 +1,14 @@
+D/D Pandora
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, or when this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard, and you control no cards: You can draw 2 cards.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1700
+Defence: 2100
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

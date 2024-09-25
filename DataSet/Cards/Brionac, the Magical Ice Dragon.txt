@@ -1,0 +1,14 @@
+Brionac, the Magical Ice Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can discard 1 card, then target 1 card on the field; return it to the hand. If this card is Special Summoned from the GY: You can discard 1 card, then target 1 card on the field; return it to the hand. You can only use each effect of "Brionac, the Magical Ice Dragon" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 6
+Attack: 2300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge

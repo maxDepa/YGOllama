@@ -1,0 +1,14 @@
+Dinowrestler Eskrimamenchi
+Card Type: Effect Monster
+
+Description: If you control a "Dinowrestler" monster, you can Normal Summon this card without Tributing. During your turn, if your opponent Special Summons a monster(s) while this card is in your GY (except during the Damage Step): You can target 1 Level 4 or lower "Dinowrestler" monster in your GY; Special Summon it, then add this card to your hand. You can only use this effect of "Dinowrestler Eskrimamenchi" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

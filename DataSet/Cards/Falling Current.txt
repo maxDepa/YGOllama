@@ -1,0 +1,13 @@
+Falling Current
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord

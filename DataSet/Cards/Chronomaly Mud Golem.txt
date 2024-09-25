@@ -1,0 +1,13 @@
+Chronomaly Mud Golem
+Card Type: Effect Monster
+
+Description: If a "Chronomaly" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Chronomaly
+Present in Sets:
+- Number Hunters

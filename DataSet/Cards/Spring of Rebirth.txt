@@ -1,0 +1,15 @@
+Spring of Rebirth
+Card Type: Spell Card
+
+Description: Increase your Life Points by 500 points every time monsters return from the field to the owner's hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness

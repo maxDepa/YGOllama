@@ -1,0 +1,16 @@
+Photon Lizard
+Card Type: Effect Monster
+
+Description: You can Tribute this card; add 1 Level 4 or lower "Photon" monster from your Deck to your hand. You can only use this effect of "Photon Lizard" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 3
+Attack: 900
+Defence: 1200
+Archetype: Photon
+Present in Sets:
+- Number Hunters
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014

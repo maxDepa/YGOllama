@@ -1,0 +1,15 @@
+Gallis the Star Beast
+Card Type: Effect Monster
+
+Description: You can reveal this card in your hand; send the top card of your Deck to the Graveyard, then, if it was a monster, inflict damage to your opponent equal to its Level x 200 and Special Summon this card from your hand, otherwise destroy this card.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Yu-Gi-Oh! GX Tag Force 3 promotional cards

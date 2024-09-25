@@ -1,0 +1,13 @@
+Sword Arm of Dragon
+Card Type: Normal Monster
+
+Description: This Jurassic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 1750
+Defence: 2030
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

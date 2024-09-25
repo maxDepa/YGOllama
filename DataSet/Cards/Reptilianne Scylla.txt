@@ -1,0 +1,13 @@
+Reptilianne Scylla
+Card Type: Effect Monster
+
+Description: If this card destroys a monster with 0 ATK by battle, you can Special Summon that monster from the Graveyard to your side of the field in face-up Defense Position. The effect(s) of that monster is negated.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Reptilianne
+Present in Sets:
+- Stardust Overdrive

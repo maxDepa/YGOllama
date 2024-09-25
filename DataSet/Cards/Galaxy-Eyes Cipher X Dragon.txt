@@ -1,0 +1,14 @@
+Galaxy-Eyes Cipher X Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 10 monsters
+Once per turn, you can also Xyz Summon "Galaxy-Eyes Cipher X Dragon" by using a "Cipher Dragon" monster you control as material. (Transfer its materials to this card.) You can detach 2 materials from this card; your opponent cannot target LIGHT monsters you control with card effects, until the end of your opponent's turn. Once per turn, during your Standby Phase: You can return 1 Rank 9 or lower Dragon Xyz Monster from your GY to the Extra Deck, then you can Special Summon that monster from your Extra Deck, by using this card you control as material. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.)
+
+Type: Dragon
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 3000
+Archetype: Galaxy-Eyes
+Present in Sets:
+- Ghosts From the Past

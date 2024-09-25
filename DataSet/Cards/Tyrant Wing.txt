@@ -1,0 +1,17 @@
+Tyrant Wing
+Card Type: Trap Card
+
+Description: Target 1 Dragon monster on the field; equip this card to it. It gains 400 ATK/DEF, also it can make up to 2 attacks on monsters during each Battle Phase. Once per turn, during the End Phase, if the monster equipped with this card by this effect attacked an opponent's monster this turn: Destroy this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Collection Kaiba Mega Pack
+- Legendary Dragon Decks

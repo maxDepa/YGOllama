@@ -1,0 +1,16 @@
+Emblem of Dragon Destroyer
+Card Type: Spell Card
+
+Description: Add 1 "Buster Blader" from your Deck or Graveyard to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Battle City Box
+- Yugi's Legendary Decks

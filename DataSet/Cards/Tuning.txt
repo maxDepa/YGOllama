@@ -1,0 +1,20 @@
+Tuning
+Card Type: Spell Card
+
+Description: Add 1 "Synchron" Tuner from your Deck to your hand, then send the top card of your Deck to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Maximum Gold
+- Shadow Specters: Special Edition
+- Starstrike Blast
+- Starstrike Blast
+- Synchron Extreme Structure Deck

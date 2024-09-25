@@ -1,0 +1,17 @@
+Super-Ancient Dinobeast
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card in face-up Attack Position by Tributing 1 Dinosaur monster. When a Dinosaur monster(s) is Special Summoned from your GY while this monster is on the field (except during the Damage Step): You can draw 1 card.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 8
+Attack: 2700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dinosmasher's Fury Structure Deck
+- Duelist League 17 participation cards
+- Light of Destruction
+- Light of Destruction
+- Speed Duel Starter Decks: Ultimate Predators

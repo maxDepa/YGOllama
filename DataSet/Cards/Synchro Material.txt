@@ -1,0 +1,15 @@
+Synchro Material
+Card Type: Trap Card
+
+Description: Target 1 face-up monster your opponent controls; you can use that monster as Synchro Material this turn, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)

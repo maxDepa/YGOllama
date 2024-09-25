@@ -1,0 +1,13 @@
+Cold-Blooded Tactician
+Card Type: Skill Card
+
+Description: Once per turn, during your Main Phase, you can change the battle positions of monsters your opponent controls, up to the number of face-up Reptile monsters you control.
+
+Type: Thelonious Vi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

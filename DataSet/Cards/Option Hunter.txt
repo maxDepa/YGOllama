@@ -1,0 +1,15 @@
+Option Hunter
+Card Type: Trap Card
+
+Description: Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity

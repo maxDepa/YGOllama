@@ -1,0 +1,13 @@
+Texchanger
+Card Type: Effect Monster
+
+Description: Once per turn, when your monster is targeted for an attack: You can negate that attack, then Special Summon 1 Cyberse Normal Monster from your hand, Deck, or GY.
+
+Type: Cyberse
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Starter Deck: Codebreaker

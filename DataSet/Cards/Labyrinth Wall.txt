@@ -1,0 +1,20 @@
+Labyrinth Wall
+Card Type: Normal Monster
+
+Description: These walls form a labyrinth with no exit for enemies.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 0
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Maze of Memories
+- Speed Duel GX: Midterm Paradox
+- Spell Ruler
+- Spell Ruler

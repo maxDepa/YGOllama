@@ -1,0 +1,15 @@
+Fluffal Owl
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned from the hand: You can add 1 "Polymerization" from your Deck to your hand. You can pay 500 LP; Fusion Summon 1 "Frightfur" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. You can only use 1 "Fluffal Owl" effect per turn, and only once that turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 2
+Attack: 1000
+Defence: 1000
+Archetype: Fluffal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Fusion Enforcers
+- The New Challengers

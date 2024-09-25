@@ -1,0 +1,14 @@
+Void Feast
+Card Type: Trap Card
+
+Description: Send 1 "Void" Spell/Trap Card from your hand or face-up from your field to the Graveyard; Special Summon up to 3 "Infernoid" monsters from your Deck, whose total Levels exactly equal 8, ignoring their Summoning conditions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernoid
+Present in Sets:
+- Brothers of Legend
+- Raging Tempest

@@ -1,0 +1,13 @@
+Accumulated Fortune
+Card Type: Trap Card
+
+Description: Activate only as Chain Link 4 or higher. Draw 2 cards. You cannot activate this card if multiple cards/effects with the same name are in that Chain.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

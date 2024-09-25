@@ -1,0 +1,12 @@
+Minomushi Warrior
+Card Type: Normal Monster
+
+Description: A rock warrior that wields a heavy blade carved from stone.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1200
+Archetype: //
+Present in Sets:

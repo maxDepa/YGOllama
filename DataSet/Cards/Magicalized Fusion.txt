@@ -1,0 +1,16 @@
+Magicalized Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY. You can only activate 1 "Magicalized Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Dark Neostorm Special Edition

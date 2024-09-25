@@ -1,0 +1,13 @@
+Inferno Tempest
+Card Type: Spell Card
+
+Description: When you take 3000 or more Battle Damage from 1 attack, you can activate this card. Remove all monsters in each player's Deck and Graveyard from play.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Exclusive Pack

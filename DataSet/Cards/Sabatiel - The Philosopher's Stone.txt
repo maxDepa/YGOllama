@@ -1,0 +1,16 @@
+Sabatiel - The Philosopher's Stone
+Card Type: Spell Card
+
+Description: If you have a "Winged Kuriboh" monster in your GY: Pay half your LP; add 1 "Polymerization" Spell or "Fusion" Spell from your Deck to your hand. If this card is in your GY: You can banish 3 copies of "Sabatiel - The Philosopher's Stone" from your GY, then target 1 monster on the field; it gains ATK equal to the ATK of the monster on the field with the highest ATK (your choice, if tied), until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kuriboh
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Speed Duel GX: Midterm Paradox
+- Yu-Gi-Oh! Advent Calendar (2019)

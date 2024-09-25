@@ -1,0 +1,15 @@
+Saber Beetle
+Card Type: Effect Monster
+
+Description: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+
+Type: Insect
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

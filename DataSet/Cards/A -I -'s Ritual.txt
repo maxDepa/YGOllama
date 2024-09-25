@@ -1,0 +1,14 @@
+A.I.'s Ritual
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any Cyberse Ritual Monster. You must also Tribute "@Ignister" monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control an "@Ignister" monster when this effect is activated, you can also use "@Ignister" monster(s) in your GY, by banishing them.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

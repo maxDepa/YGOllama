@@ -1,0 +1,13 @@
+Samsara Dragon
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a Dragon monster. You can banish this card from your GY, then target 1 Level 5 or higher Dragon monster in your GY; add it to your hand, then immediately after this effect resolves, you can Tribute Summon it. You can only use this effect of "Samsara Dragon" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

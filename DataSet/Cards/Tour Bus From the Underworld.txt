@@ -1,0 +1,15 @@
+Tour Bus From the Underworld
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard: Target 1 monster in either player's Graveyard, except "Tour Bus From the Underworld"; shuffle that target into the Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Order of Chaos

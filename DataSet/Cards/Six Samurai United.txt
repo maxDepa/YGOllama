@@ -1,0 +1,17 @@
+Six Samurai United
+Card Type: Spell Card
+
+Description: Each time a "Six Samurai" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card (max. 2). You can send this card to the GY; draw 1 card for each Bushido Counter on this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Phantom Darkness
+- Samurai Warlords Structure Deck
+- Spirit Warriors
+- Turbo Pack: Booster Five

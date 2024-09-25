@@ -1,0 +1,17 @@
+Begone, Knave!
+Card Type: Trap Card
+
+Description: If a monster inflicts battle damage to a player: Return that monster to the hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Gold Series 2009
+- Invasion of Chaos
+- Invasion of Chaos
+- Structure Deck: Mechanized Madness

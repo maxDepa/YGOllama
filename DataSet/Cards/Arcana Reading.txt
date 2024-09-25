@@ -1,0 +1,17 @@
+Arcana Reading
+Card Type: Spell Card
+
+Description: Toss a coin and apply this effect. If "Light Barrier" is in your Field Zone, you can choose the effect instead.
+● Heads: Add 1 card from your Deck to your hand that has a coin tossing effect, except "Arcana Reading".
+● Tails: Your opponent adds 1 card from their Deck to their hand.
+You can banish this card from your GY; immediately after this effect resolves, Normal Summon 1 "Arcana Force" monster.
+You can only use each effect of "Arcana Reading" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Rage

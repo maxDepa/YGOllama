@@ -1,0 +1,13 @@
+Protostar Dragon of the Void
+Card Type: Fusion Monster
+
+Description: 1 LIGHT or DARK Dragon monster + 1 Dragon monster
+If this card is Fusion Summoned: You can target cards your opponent controls up to the number of your LIGHT and DARK monsters used as its Fusion Material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of "Protostar Dragon of the Void" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:

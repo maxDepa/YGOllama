@@ -1,0 +1,19 @@
+Heroic Champion - Excalibur
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Warrior-Type monsters
+Once per turn: You can detach 2 Xyz Materials from this card; this card's ATK becomes double its original ATK until your opponent's next End Phase.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: Heroic
+Present in Sets:
+- Collectible Tins 2012 Wave 1
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Return of the Duelist
+- Return of the Duelist
+- Return of the Duelist

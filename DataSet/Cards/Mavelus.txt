@@ -1,0 +1,13 @@
+Mavelus
+Card Type: Fusion Monster
+
+Description: "Tyhone" + "Wings of Wicked Flame"
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 900
+Archetype: //
+Present in Sets:
+- Astral Pack Four

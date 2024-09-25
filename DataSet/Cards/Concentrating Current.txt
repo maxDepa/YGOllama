@@ -1,0 +1,14 @@
+Concentrating Current
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; it gains ATK equal to its current DEF, until the end of this turn. Other monsters you control cannot attack during the turn you activate this card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

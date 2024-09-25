@@ -1,0 +1,28 @@
+Waboku
+Card Type: Trap Card
+
+Description: You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cyber Dragon Revolution Structure Deck
+- Duel Terminal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box
+- Starter Deck: Joey
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Invincible Fortress
+- Zombie World Structure Deck

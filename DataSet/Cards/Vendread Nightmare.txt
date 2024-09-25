@@ -1,0 +1,14 @@
+Vendread Nightmare
+Card Type: Spell Card
+
+Description: Once per turn: You can Tribute 1 or more "Vendread" monsters from your hand and/or field, then target 1 face-up monster you control; increase its Level by the number of monsters Tributed, until the end of this turn. When your attacking "Vendread" Ritual Monster destroys an opponent's monster by battle: You can have your monster gain 1000 ATK. You can only use this effect of "Vendread Nightmare" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vendread
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

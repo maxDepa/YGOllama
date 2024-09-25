@@ -1,0 +1,16 @@
+Respect Play
+Card Type: Trap Card
+
+Description: During their respective turns, each player must show their opponent their hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

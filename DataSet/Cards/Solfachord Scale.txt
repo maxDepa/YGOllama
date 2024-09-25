@@ -1,0 +1,17 @@
+Solfachord Scale
+Card Type: Spell Card
+
+Description: You can apply any of the following effects, in sequence, based on the number of "Solfachord" Pendulum Monster Cards you control with different names.
+● 3+: Return 1 card from your Pendulum Zone to the hand, and if you do, place 1 face-up "Solfachord" Pendulum Monster from your Extra Deck in your Pendulum Zone.
+● 5+: Special Summon 1 "Solfachord" Pendulum Monster from your hand.
+● 7+: Destroy all face-up cards your opponent controls.
+You can only activate 1 "Solfachord Scale" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solfachord
+Present in Sets:
+- Ancient Guardians

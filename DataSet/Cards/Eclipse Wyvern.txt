@@ -1,0 +1,15 @@
+Eclipse Wyvern
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: Banish 1 Level 7 or higher LIGHT or DARK Dragon-Type monster from your Deck. If this card is banished from your Graveyard: You can add the monster banished by this card's effect to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dragons Collide Structure Deck
+- Premium Gold
+- Rise of the True Dragons Structure Deck

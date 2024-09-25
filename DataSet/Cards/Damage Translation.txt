@@ -1,0 +1,13 @@
+Damage Translation
+Card Type: Trap Card
+
+Description: Halve all effect damage you take this turn. During the End Phase this turn, Special Summon 1 "Ghost Token" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position for each time you took effect damage this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

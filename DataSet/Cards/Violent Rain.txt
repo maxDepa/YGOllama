@@ -1,0 +1,13 @@
+Violent Rain
+Card Type: Normal Monster
+
+Description: This monster can call forth sudden torrents of battering rain.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1550
+Defence: 800
+Archetype: //
+Present in Sets:
+- Tournament Pack 8

@@ -1,0 +1,14 @@
+Trickstar Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Trickstar" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can banish this card from your GY, then target 1 "Trickstar" monster in your GY; add it to your hand, but you cannot Normal Summon/Set or Special Summon monsters with that name for the rest of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

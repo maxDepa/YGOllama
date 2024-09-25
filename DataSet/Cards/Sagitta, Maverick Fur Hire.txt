@@ -1,0 +1,14 @@
+Sagitta, Maverick Fur Hire
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can inflict 500 damage to your opponent for each monster "Fur Hire" you control with a different name, except "Sagitta, Maverick Fur Hire". You can only use this effect of "Sagitta, Maverick Fur Hire" once per turn. Your opponent cannot target monsters "Fur Hire" you control with card effects, except this one.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 1200
+Defence: 2400
+Archetype: Fur Hire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

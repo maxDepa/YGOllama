@@ -1,0 +1,13 @@
+Detonator Circle "A"
+Card Type: Trap Card
+
+Description: Destroy 1 face-up monster with an A-Counter(s), and then inflict 1000 damage to each player.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Gladiator's Assault

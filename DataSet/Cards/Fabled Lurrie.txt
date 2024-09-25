@@ -1,0 +1,16 @@
+Fabled Lurrie
+Card Type: Effect Monster
+
+Description: When this card is discarded to the Graveyard, Special Summon it.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 400
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

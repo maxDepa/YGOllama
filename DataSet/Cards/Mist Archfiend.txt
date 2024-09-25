@@ -1,0 +1,16 @@
+Mist Archfiend
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing. Once per turn, during the End Phase, if this card was Summoned this way: Destroy this card, and if you do, take 1000 damage.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Force of the Breaker
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Lair of Darkness
+- Turbo Pack: Booster Two

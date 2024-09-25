@@ -1,0 +1,17 @@
+Number 25: Force Focus
+Card Type: XYZ Monster
+
+Description: 2 Level 6 monsters
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Level 5 or higher Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of the turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2800
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Galactic Overlord
+- Star Pack 2014
+- Star Pack 2014

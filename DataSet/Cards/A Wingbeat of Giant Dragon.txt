@@ -1,0 +1,19 @@
+A Wingbeat of Giant Dragon
+Card Type: Spell Card
+
+Description: Return 1 Level 5 or higher Dragon-Type monster you control to the hand, and if you do, destroy all Spell and Trap Cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dragons Collide Structure Deck
+- Legacy of Darkness
+- Legacy of Darkness
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck
+- Saga of Blue-Eyes White Dragon Structure Deck

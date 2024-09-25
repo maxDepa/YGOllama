@@ -1,0 +1,18 @@
+D/D Swirl Slime
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can Fusion Summon 1 "D/D/D" Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Materials, including this card. You can banish this card from your Graveyard; Special Summon 1 "D/D" monster from your hand. You can only use each effect of "D/D Swirl Slime" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 4
+- Star Pack Battle Royal
+- Star Pack Battle Royal

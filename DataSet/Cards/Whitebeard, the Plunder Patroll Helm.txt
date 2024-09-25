@@ -1,0 +1,14 @@
+Whitebeard, the Plunder Patroll Helm
+Card Type: Tuner Monster
+
+Description: During your opponent's turn (Quick Effect): You can Special Summon 1 "Plunder Patroll" monster from your Extra Deck with the same Attribute as a monster your opponent controls or is in their GY, and if you do, equip this card you control to it. If this card is sent from the hand or Monster Zone to the GY: You can activate this effect; Special Summon 1 "Plunder Patroll" monster from your Deck, except "Whitebeard, the Plunder Patroll Helm", also you cannot Special Summon monsters for the rest of this turn, except "Plunder Patroll" monsters. You can only use each effect of "Whitebeard, the Plunder Patroll Helm" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Plunder Patroll
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Ignition Assault

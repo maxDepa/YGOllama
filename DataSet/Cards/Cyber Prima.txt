@@ -1,0 +1,19 @@
+Cyber Prima
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2300
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Dimensional Guardians
+- Enemy of Justice
+- Enemy of Justice
+- Speed Duel GX: Duel Academy Box
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

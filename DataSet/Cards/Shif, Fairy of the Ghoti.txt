@@ -1,0 +1,13 @@
+Shif, Fairy of the Ghoti
+Card Type: Tuner Monster
+
+Description: You can banish this card from your GY, then target 1 Fish monster you control; it gains 500 ATK until the end of this turn. During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. During your opponent's Main Phase, if this card was Special Summoned this turn, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of "Shif, Fairy of the Ghoti" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 500
+Archetype: Ghoti
+Present in Sets:
+- Power of the Elements

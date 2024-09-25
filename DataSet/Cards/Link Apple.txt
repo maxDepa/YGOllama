@@ -1,0 +1,14 @@
+Link Apple
+Card Type: Effect Monster
+
+Description: You can reveal this card in your hand; banish (face-up) 1 random face-down card from your Extra Deck, then, Special Summon this card if the banished card was a Link Monster. Otherwise, discard this card, and if you do, draw 1 card. You can only use this effect of "Link Apple" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

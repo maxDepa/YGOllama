@@ -1,0 +1,15 @@
+Decoy Dragon
+Card Type: Effect Monster
+
+Description: If this card is targeted for an attack: Target 1 Level 7 or higher Dragon-Type monster in your Graveyard; Special Summon it, and if you do, change the attack target to it and perform damage calculation.
+
+Type: Dragon
+Attribute: FIRE
+Level: 2
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Season 2
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck

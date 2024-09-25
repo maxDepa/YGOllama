@@ -1,0 +1,13 @@
+Orcustrated Einsatz
+Card Type: Spell Card
+
+Description: If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can take 1 "Orcust" or "World Legacy" monster from your hand or Deck, and either send it to the GY or banish it. You can only use this effect of "Orcustrated Einsatz" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- Soul Fusion

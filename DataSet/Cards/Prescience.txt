@@ -1,0 +1,16 @@
+Prescience
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+If your opponent's LP is more than twice your LP, activate this Skill.
+You may look at the top card of both your and your opponent's Deck at any time.
+
+Type: Ishizu
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters

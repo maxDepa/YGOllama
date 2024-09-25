@@ -1,0 +1,14 @@
+Trickstar Mandrake
+Card Type: Effect Monster
+
+Description: If this card is sent from the hand to the GY: You can Special Summon this card in Defense Position, but banish it when it leaves the field. If this card is sent to the GY as Link Material for the Link Summon of a "Trickstar" monster: You can target 1 monster an opponent's Link Monster points to; destroy it. You can only use each effect of "Trickstar Mandrake" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 1000
+Archetype: Trickstar
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

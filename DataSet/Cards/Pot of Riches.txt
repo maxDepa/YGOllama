@@ -1,0 +1,17 @@
+Pot of Riches
+Card Type: Spell Card
+
+Description: Shuffle 3 Pendulum Monsters into the Deck, from your GY and/or face-up from your Extra Deck, then draw 2 cards. You can only activate 1 "Pot of Riches" per turn. You cannot Special Summon the turn you activate this card, except by Pendulum Summon.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Ancient Guardians
+- Legendary Dragon Decks
+- Secrets of Eternity
+- The Pot Collection

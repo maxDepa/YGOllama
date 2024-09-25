@@ -1,0 +1,13 @@
+Shadow Ghoul of the Labyrinth
+Card Type: Effect Monster
+
+Description: You can discard this card; add 1 "Labyrinth Wall" card from your Deck to your hand. At the start of the Damage Step, if your opponent's monster battles, while you control a "Labyrinth Wall" card: You can banish this card from your GY; destroy that opponent's monster. You can only use each effect of "Shadow Ghoul of the Labyrinth" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Maze of Memories

@@ -1,0 +1,14 @@
+Three-Legged Zombies
+Card Type: Normal Monster
+
+Description: A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards

@@ -1,0 +1,14 @@
+Hieroglyph Lithograph
+Card Type: Spell Card
+
+Description: Pay 1000 Life Points. During the current Duel, your hand size limit becomes 7.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian

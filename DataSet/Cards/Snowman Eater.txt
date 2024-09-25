@@ -1,0 +1,18 @@
+Snowman Eater
+Card Type: Effect Monster
+
+Description: If this card is flipped face-up: Target 1 face-up monster on the field; destroy that target.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 0
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Raging Battle
+- Realm of the Sea Emperor Structure Deck
+- Turbo Pack: Booster Five
+- Yu-Gi-Oh! Advent Calendar (2018)

@@ -1,0 +1,15 @@
+Garura, Wings of Resonant Life
+Card Type: Fusion Monster
+
+Description: 2 monsters with the same Type and Attribute, but different names
+Any battle damage your opponent takes from battles involving this card is doubled. If this card is sent to the GY: You can draw 1 card. You can only use this effect of "Garura, Wings of Resonant Life" once per turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 6
+Attack: 1500
+Defence: 2400
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

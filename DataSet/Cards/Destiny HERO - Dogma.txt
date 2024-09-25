@@ -1,0 +1,19 @@
+Destiny HERO - Dogma
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters, including at least 1 "Destiny HERO" monster. Once per turn, if you still control this face-up card during your opponent's next Standby Phase after you Special Summoned it this way: Halve your opponent's LP.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 3400
+Defence: 2400
+Archetype: Destiny HERO
+Present in Sets:
+- Destiny Soldiers
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box

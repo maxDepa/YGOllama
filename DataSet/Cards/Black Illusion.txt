@@ -1,0 +1,13 @@
+Black Illusion
+Card Type: Trap Card
+
+Description: Until the end of this turn, all DARK Spellcaster-Type monsters with 2000 or more ATK you currently control cannot be destroyed by battle, their effects are negated, also they are unaffected by your opponent's card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yugi's Legendary Decks

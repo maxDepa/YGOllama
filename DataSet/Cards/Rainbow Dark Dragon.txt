@@ -1,0 +1,21 @@
+Rainbow Dark Dragon
+Card Type: Effect Monster
+
+Description: (This card is always treated as an "Ultimate Crystal" card.)
+Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your GY. You can banish all other DARK monsters from your field and GY; this card gains 500 ATK for each card banished this way.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- Phantom Darkness
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts
+- Structure Deck: Sacred Beasts

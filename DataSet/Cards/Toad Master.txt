@@ -1,0 +1,12 @@
+Toad Master
+Card Type: Normal Monster
+
+Description: A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Frog
+Present in Sets:

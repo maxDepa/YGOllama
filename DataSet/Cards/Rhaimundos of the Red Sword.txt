@@ -1,0 +1,13 @@
+Rhaimundos of the Red Sword
+Card Type: Normal Monster
+
+Description: Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Astral Pack Eight

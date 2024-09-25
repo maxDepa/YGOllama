@@ -1,0 +1,13 @@
+Fiendsmith in Paradise
+Card Type: Trap Card
+
+Description: Target 1 Level 7 or higher LIGHT Fiend monster you control; send all cards on the field to the GY that are not that monster. If your opponent Special Summons a monster(s), while this card is in your GY: You can banish this card; send 1 "Fiendsmith" monster from your Deck or Extra Deck to the GY. You can only use each effect of "Fiendsmith in Paradise" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fiendsmith
+Present in Sets:
+- The Infinite Forbidden

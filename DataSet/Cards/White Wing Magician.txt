@@ -1,0 +1,18 @@
+White Wing Magician
+Card Type: Pendulum Tuner Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when an activated card or effect resolves that targets a DARK Spellcaster-Type monster you control, negate that effect, then destroy this card.
+
+[ Monster Effect ] 
+(This card is always treated as a "Synchro Dragon" card.)
+If this Pendulum Summoned card is used for a Synchro Summon, banish it.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Magician
+Present in Sets:
+- Pendulum Evolution

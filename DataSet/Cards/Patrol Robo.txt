@@ -1,0 +1,15 @@
+Patrol Robo
+Card Type: Effect Monster
+
+Description: During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 900
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season
+- Tournament Pack: 3rd Season

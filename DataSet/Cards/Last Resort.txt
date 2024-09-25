@@ -1,0 +1,14 @@
+Last Resort
+Card Type: Trap Card
+
+Description: Activate only when your opponent's monster declares an attack. You can select 1 "Ancient City - Rainbow Ruins" from your Deck and activate it. If your opponent had an active Field Spell Card when this card was activated, they can draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker

@@ -1,0 +1,14 @@
+R-Genex Magma
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can add 1 Level 2 "R-Genex" monster from your Deck to your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 200
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

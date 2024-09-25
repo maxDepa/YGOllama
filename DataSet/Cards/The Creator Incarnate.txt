@@ -1,0 +1,16 @@
+The Creator Incarnate
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 1 "The Creator" from your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Rise of Destiny
+- Rise of the Dragon Lords Structure Deck

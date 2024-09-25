@@ -1,0 +1,14 @@
+Paradox Fusion
+Card Type: Trap Card
+
+Description: When a monster(s) would be Special Summoned, OR a Spell/Trap Card is activated: Banish 1 face-up Fusion Monster you control; negate the Special Summon or activation, and if you do, destroy that card, also during your 2nd End Phase, return the banished Fusion Monster to your field in face-up Attack Position.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- Fusion Enforcers

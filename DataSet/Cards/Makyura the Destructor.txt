@@ -1,0 +1,17 @@
+Makyura the Destructor
+Card Type: Effect Monster
+
+Description: If this card is sent from the Monster Zone to the GY: You can activate 1 Trap Card from your hand this turn. You can only use this effect of "Makyura the Destructor" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Rage of Ra

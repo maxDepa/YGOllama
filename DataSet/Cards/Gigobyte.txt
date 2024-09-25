@@ -1,0 +1,14 @@
+Gigobyte
+Card Type: Normal Monster
+
+Description: He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil....
+
+Type: Reptile
+Attribute: WATER
+Level: 1
+Attack: 350
+Defence: 300
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

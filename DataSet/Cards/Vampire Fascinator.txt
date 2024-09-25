@@ -1,0 +1,14 @@
+Vampire Fascinator
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Zombie monster
+If this card is Link Summoned: You can target 1 monster in your opponent's GY; Special Summon it to your field in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can Tribute 1 "Vampire" monster, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of "Vampire Fascinator" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: Vampire
+Present in Sets:
+- Battle of Chaos

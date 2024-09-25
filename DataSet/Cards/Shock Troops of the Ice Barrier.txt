@@ -1,0 +1,16 @@
+Shock Troops of the Ice Barrier
+Card Type: Effect Monster
+
+Description: You can Tribute this card to select 1 face-up WATER monster on the field, destroy it, and add 1 "Ice Barrier" monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 3
+Attack: 1500
+Defence: 800
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,14 @@
+Time Wizard of Tomorrow
+Card Type: Fusion Monster
+
+Description: "Time Wizard" + 1 Effect Monster
+Once per turn, while you control this Fusion Summoned card: You can toss a coin and call it. Destroy as many monsters on the field as possible, and if you do, inflict damage equal to half the total original ATK of the destroyed face-up monsters. If you called the coin toss right, your opponent takes the damage, if you called it wrong, you take the damage.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series

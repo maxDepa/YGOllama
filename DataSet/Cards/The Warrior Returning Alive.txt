@@ -1,0 +1,35 @@
+The Warrior Returning Alive
+Card Type: Spell Card
+
+Description: Target 1 Warrior-Type monster in your Graveyard; add that target to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Demo Pack
+- Duelist Pack: Jaden Yuki
+- HERO Strike Structure Deck
+- King's Court
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Rise of the True Dragons Structure Deck
+- Samurai Warlords Structure Deck
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Battle City Box
+- Starter Deck 2006
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Warrior's Triumph
+- Super Starter: V for Victory
+- Synchron Extreme Structure Deck

@@ -1,0 +1,20 @@
+Aqua Madoor
+Card Type: Normal Monster
+
+Description: A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 2000
+Archetype: Madoor
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Pegasus

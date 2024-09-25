@@ -1,0 +1,13 @@
+Necro Defender
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can remove from play this card from your Graveyard to select 1 monster you control. Until your opponent's next End Phase, that monster cannot be destroyed by battle, and you take no Battle Damage from battles involving it.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 0
+Defence: 800
+Archetype: //
+Present in Sets:
+- Extreme Victory

@@ -1,0 +1,18 @@
+Therion "Duke" Yul
+Card Type: Effect Monster
+
+Description: You can only use the 1st of the following effects of "Therion "Duke" Yul" once per turn.
+● You can target 1 "Therion" monster or 1 Psychic monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.
+● While you control an Equip Card, "Therion" monsters you control cannot be destroyed by your opponent's card effects.
+A "Therion" monster equipped with this card gains 700 ATK, also it gains the 2nd effect listed above as if it were "Therion "Duke" Yul".
+
+Type: Psychic
+Attribute: LIGHT
+Level: 8
+Attack: 2100
+Defence: 2800
+Archetype: Therion
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force
+- Magnificent Mavens

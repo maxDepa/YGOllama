@@ -1,0 +1,15 @@
+Minerva, the Athenian Lightsworn
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+"Lightsworn" monsters you control cannot be banished by card effects. You can only use each of the following effects of "Minerva, the Athenian Lightsworn" once per turn. If this card is Synchro Summoned: You can send "Lightsworn" monsters with different Types from your Deck to the GY, up to the number of "Lightsworn" monsters used as this card's material. You can banish up to 4 "Lightsworn" monsters from your GY; send that many cards from the top of your Deck to the GY.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 1800
+Archetype: Lightsworn
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

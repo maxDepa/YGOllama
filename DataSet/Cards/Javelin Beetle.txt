@@ -1,0 +1,14 @@
+Javelin Beetle
+Card Type: Ritual Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Javelin Beetle Pact".
+
+Type: Insect
+Attribute: EARTH
+Level: 8
+Attack: 2450
+Defence: 2550
+Archetype: //
+Present in Sets:
+- Premium Pack (TCG)
+- Premium Pack (TCG)

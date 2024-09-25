@@ -1,0 +1,15 @@
+CXyz Battleship Cherry Blossom
+Card Type: XYZ Monster
+
+Description: 4 Level 4 monsters
+Once per turn, during your opponent's End Phase, if your opponent has more cards in their hand than you do: They discard 1 card. If this card has "Battlecruiser Dianthus" as an Xyz Material, it gains this effect.
+● You can detach 1 Xyz Material from this card; inflict 300 damage to your opponent for each card on the field. You can only use this effect of "CXyz Battleship Cherry Blossom" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 2400
+Defence: 2000
+Archetype: CXyz
+Present in Sets:
+- Number Hunters

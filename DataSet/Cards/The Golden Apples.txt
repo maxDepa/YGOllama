@@ -1,0 +1,20 @@
+The Golden Apples
+Card Type: Trap Card
+
+Description: When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 "Malus Token" (Fiend/DARK/Level 1/ATK ?/DEF ?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Egyptian God Deck: Slifer the Sky Dragon
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 3
+- Storm of Ragnarok

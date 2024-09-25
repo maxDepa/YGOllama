@@ -1,0 +1,13 @@
+Heraldic Beast Basilisk
+Card Type: Effect Monster
+
+Description: After damage calculation: Destroy any opponent's monster that battles this card.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1400
+Archetype: Heraldic
+Present in Sets:
+- Cosmo Blazer

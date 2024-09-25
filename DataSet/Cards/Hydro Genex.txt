@@ -1,0 +1,15 @@
+Hydro Genex
+Card Type: Synchro Monster
+
+Description: "Genex Controller" + 1 or more non-Tuner WATER monsters
+When this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.
+
+Type: Machine
+Attribute: WATER
+Level: 6
+Attack: 2300
+Defence: 1800
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 1
+- The Shining Darkness

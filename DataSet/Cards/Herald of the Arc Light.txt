@@ -1,0 +1,20 @@
+Herald of the Arc Light
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Any monster sent from the hand or Main Deck to the GY is banished instead. When a Spell/Trap Card, or monster effect, is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy that card. If this card is sent to the GY: You can add 1 Ritual Monster or 1 Ritual Spell from your Deck to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 600
+Defence: 1000
+Archetype: Herald
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battles of Legend: Hero's Revenge
+- Maximum Gold
+- The New Challengers
+- The New Challengers: Super Edition

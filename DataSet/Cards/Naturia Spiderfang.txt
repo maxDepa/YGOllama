@@ -1,0 +1,16 @@
+Naturia Spiderfang
+Card Type: Effect Monster
+
+Description: This card cannot declare an attack unless your opponent activated a Spell, Trap, Spell/Trap effect, or Monster effect this turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 2100
+Defence: 400
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

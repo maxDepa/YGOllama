@@ -1,0 +1,14 @@
+Aurora Paragon
+Card Type: Effect Monster
+
+Description: Neither player can Special Summon monsters. When another monster is Normal Summoned to either player's side of the field, destroy this card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- Extreme Victory

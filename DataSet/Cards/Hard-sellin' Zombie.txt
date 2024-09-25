@@ -1,0 +1,13 @@
+Hard-sellin' Zombie
+Card Type: Trap Card
+
+Description: Each time a monster you control inflicts Battle Damage to your opponent, select 1 card from your opponent's Graveyard and return it to the bottom of their Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker

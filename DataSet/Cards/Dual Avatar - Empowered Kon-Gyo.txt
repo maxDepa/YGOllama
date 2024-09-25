@@ -1,0 +1,14 @@
+Dual Avatar - Empowered Kon-Gyo
+Card Type: Fusion Monster
+
+Description: "Dual Avatar Fists - Yuhi" + 2 "Dual Avatar" monsters
+If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. If this card attacks, after damage calculation: You can return 1 monster your opponent controls to the hand. When your opponent's Spell/Trap Card or effect is activated that targets this card on the field, while you control 2 or more Fusion Monsters (Quick Effect): You can negate the activation. You can only use this effect of "Dual Avatar - Empowered Kon-Gyo" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 1700
+Archetype: Dual Avatar
+Present in Sets:
+- Phantom Rage

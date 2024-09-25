@@ -1,0 +1,17 @@
+Skull Kraken
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 face-up Spell Card your opponent controls; destroy that target. Once per turn: You can change the battle position of this card.
+
+Type: Aqua
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Generation Force
+- Star Pack 2013
+- Star Pack 2013
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

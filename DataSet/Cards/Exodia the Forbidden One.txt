@@ -1,0 +1,32 @@
+Exodia the Forbidden One
+Card Type: Effect Monster
+
+Description: If you have "Right Leg of the Forbidden One", "Left Leg of the Forbidden One", "Right Arm of the Forbidden One" and "Left Arm of the Forbidden One" in addition to this card in your hand, you win the Duel.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Exodia
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes
+- Battles of Legend: Crystal Revenge
+- Dark Beginning 1
+- Dark Legends
+- Duelist League 2 participation cards
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Master Collection Volume 1
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 25
+- Premium Gold: Return of the Bling
+- Retro Pack
+- The Lost Art Promotion (series)
+- The Lost Art Promotion D
+- Yu-Gi-Oh! Dark Duel Stories promotional cards
+- Yu-Gi-Oh! GX Ultimate Beginner's Pack
+- Yugi's Legendary Decks

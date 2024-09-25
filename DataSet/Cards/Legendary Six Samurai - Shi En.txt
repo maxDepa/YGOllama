@@ -1,0 +1,17 @@
+Legendary Six Samurai - Shi En
+Card Type: Synchro Monster
+
+Description: 1 Warrior Tuner + 1+ non-Tuner "Six Samurai" monsters
+Once per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can negate the activation, and if you do, destroy it. If this card on the field would be destroyed by battle or card effect, you can destroy another "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 2500
+Defence: 1400
+Archetype: Six Samurai
+Present in Sets:
+- Ra Yellow Mega Pack: Special Edition
+- Spirit Warriors
+- Storm of Ragnarok
+- Storm of Ragnarok

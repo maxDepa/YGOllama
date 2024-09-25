@@ -1,0 +1,15 @@
+Coach Goblin
+Card Type: Effect Monster
+
+Description: While this card is face-up on your side of the field, you can return 1 Normal Monster Card in your hand to the bottom of your Deck during your End Phase to draw 1 card from your Deck. You can only use this effect once per turn.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

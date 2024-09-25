@@ -1,0 +1,18 @@
+Blazing Inpachi
+Card Type: Normal Monster
+
+Description: A wicked wooden spirit now burning in flames. Its fire attack is powerful, but it will soon be nothing but ashes.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1850
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Duelist Toolbox
+- Structure Deck: Blaze of Destruction

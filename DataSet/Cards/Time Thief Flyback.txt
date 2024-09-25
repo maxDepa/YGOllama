@@ -1,0 +1,15 @@
+Time Thief Flyback
+Card Type: Trap Card
+
+Description: Target 1 "Time Thief" Xyz Monster you control; attach 1 "Time Thief" card from your hand or Deck to it as material. You can banish this card from your GY, then target 1 "Time Thief" Xyz Monster you control; attach 1 card from your opponent's GY to it as material. You can only use 1 "Time Thief Flyback" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Time Thief
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past
+- Savage Strike

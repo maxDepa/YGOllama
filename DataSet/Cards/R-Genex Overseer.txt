@@ -1,0 +1,14 @@
+R-Genex Overseer
+Card Type: Tuner Monster
+
+Description: When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower "Genex" monster from your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 100
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

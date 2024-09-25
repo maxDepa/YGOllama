@@ -1,0 +1,18 @@
+Hand Destruction
+Card Type: Spell Card
+
+Description: Each player sends 2 cards from their hand to the GY, then draws 2 cards.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Machina Mayhem Structure Deck
+- Onslaught of the Fire Kings Structure Deck
+- Rise of the True Dragons Structure Deck
+- Structure Deck: Lair of Darkness
+- Turbo Pack: Booster One

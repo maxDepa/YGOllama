@@ -1,0 +1,14 @@
+Sky Striker Maneuver - Scissors Cross
+Card Type: Spell Card
+
+Description: If you control no monsters in your Main Monster Zone: Target 1 Level 4 "Sky Striker Ace" monster in your GY; add it to your hand, or if you have 3 or more Spells in your GY, you can Special Summon it instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- Ignition Assault
+- Ignition Assault Sneak Peek Participation Card

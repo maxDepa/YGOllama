@@ -1,0 +1,23 @@
+Armed Dragon LV5
+Card Type: Effect Monster
+
+Description: You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with ATK less than or equal to the sent monster's ATK; destroy that target. During the End Phase, if this card destroyed a monster by battle this turn: You can send this card to the GY; Special Summon 1 "Armed Dragon LV7" from your hand or Deck.
+
+Type: Dragon
+Attribute: WIND
+Level: 5
+Attack: 2400
+Defence: 1700
+Archetype: Armed Dragon
+Present in Sets:
+- Dark Revelation Volume 3
+- Dragunity Legion Structure Deck
+- Duelist Pack: Chazz Princeton
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Ancient Millennium
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Dragon's Roar

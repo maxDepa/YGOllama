@@ -1,0 +1,19 @@
+7 Colored Fish
+Card Type: Normal Monster
+
+Description: A rare rainbow fish that has never been caught by mortal man.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Gold Series
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Streets of Battle City
+- Starter Deck: Joey
+- Structure Deck: Fury from the Deep

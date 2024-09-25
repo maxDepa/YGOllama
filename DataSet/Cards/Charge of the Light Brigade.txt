@@ -1,0 +1,19 @@
+Charge of the Light Brigade
+Card Type: Spell Card
+
+Description: Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower "Lightsworn" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Astral Pack Five
+- Dragons Collide Structure Deck
+- Premium Gold: Return of the Bling
+- Realm of Light Structure Deck
+- Rise of the True Dragons Structure Deck
+- Stardust Overdrive: Special Edition
+- The Duelist Genesis

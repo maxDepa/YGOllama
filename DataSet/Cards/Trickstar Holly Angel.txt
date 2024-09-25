@@ -1,0 +1,16 @@
+Trickstar Holly Angel
+Card Type: Link Monster
+
+Description: 2 "Trickstar" monsters
+Each time a "Trickstar" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. "Trickstar" monsters this card points to cannot be destroyed by battle or card effects. If your opponent takes damage by a "Trickstar" monster's effect: This card gains ATK equal to the damage they took, until the end of this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Duel Power

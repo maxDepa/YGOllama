@@ -1,0 +1,13 @@
+Lil-la Rap
+Card Type: Spell Card
+
+Description: Once per turn, if you Special Summon a monster(s) from the GY (except during the Damage Step): You can make your opponent lose 1000 LP, and if they do, you gain 500 LP. You can only activate this effect of "Lil-la Rap" once per Chain.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lil-la
+Present in Sets:
+- Age of Overlord

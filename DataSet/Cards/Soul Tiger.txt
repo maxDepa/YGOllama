@@ -1,0 +1,15 @@
+Soul Tiger
+Card Type: Normal Monster
+
+Description: The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

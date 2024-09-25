@@ -1,0 +1,12 @@
+Gate Deeg
+Card Type: Normal Monster
+
+Description: This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.
+
+Type: Beast
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 800
+Archetype: //
+Present in Sets:

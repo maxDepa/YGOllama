@@ -1,0 +1,64 @@
+Dark Magician
+Card Type: Normal Monster
+
+Description: ''The ultimate wizard in terms of attack and defense.''
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Dark Magician
+Present in Sets:
+- 2016 Mega-Tins
+- 2017 Mega-Tins
+- Battle of Chaos
+- Booster Pack Collectors Tins 2002
+- Collectible Tins 2003
+- Dark Beginning 1
+- Dark Legends
+- Duel Power
+- Duel Terminal - Preview Wave 1
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Duelist League 2 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Duelist Saga
+- Forbidden Legacy
+- Ghosts From the Past
+- KC Grand Tournament 2021 prize card
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Dragon Decks
+- Maximum Gold
+- Retro Pack
+- Shonen Jump Vol. 9, Issue 4 promotional card
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 1
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Yugi Muto
+- WSJ Jump Pack Fall 2016 promotional card
+- Yu-Gi-Oh! Dark Duel Stories promotional cards
+- Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards
+- Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Special Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

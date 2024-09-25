@@ -1,0 +1,13 @@
+Matriarch of Nephthys
+Card Type: Effect Monster
+
+Description: You can target 1 Level 4 or lower "Nephthys" monster in your GY, except "Matriarch of Nephthys"; destroy 1 card in your hand, and if you do, Special Summon the targeted monster in Defense Position, but negate its effects. During your next Standby Phase after this card was destroyed by card effect and sent to the GY: You can Special Summon this card from the GY. You can only use each effect of "Matriarch of Nephthys" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 2
+Attack: 600
+Defence: 600
+Archetype: Nephthys
+Present in Sets:
+- Hidden Summoners

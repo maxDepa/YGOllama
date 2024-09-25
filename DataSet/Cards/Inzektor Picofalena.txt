@@ -1,0 +1,20 @@
+Inzektor Picofalena
+Card Type: Link Monster
+
+Description: 2 Insect monsters
+If this card is Link Summoned: You can discard 1 card, then target 1 other Insect monster you control; equip 1 Insect monster from your Deck to it as an Equip Spell that gains this effect.
+● The equipped monster gains 500 ATK/DEF.
+You can target 3 Insect monsters in your GY; shuffle them into the Deck, then draw 1 card. You can only use each effect of "Inzektor Picofalena" once per turn.
+
+Type: Insect
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- The Grand Creators

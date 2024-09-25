@@ -1,0 +1,15 @@
+Ancient Gear Engineer
+Card Type: Effect Monster
+
+Description: Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1500
+Defence: 1500
+Archetype: Ancient Gear
+Present in Sets:
+- Machine Reactor Structure Deck
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Machine Re-Volt

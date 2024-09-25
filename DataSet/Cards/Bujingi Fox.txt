@@ -1,0 +1,14 @@
+Bujingi Fox
+Card Type: Effect Monster
+
+Description: During either player's turn: You can banish this card from your Graveyard and send 1 "Bujin" monster from your hand to the Graveyard; you take no damage this turn.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 200
+Defence: 2100
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

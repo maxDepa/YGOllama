@@ -1,0 +1,14 @@
+T.A.D.P.O.L.E.
+Card Type: Effect Monster
+
+Description: When this card you control is destroyed by battle and sent to your Graveyard, you can add any "T.A.D.P.O.L.E."(s) from your Deck to your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

@@ -1,0 +1,13 @@
+Final Psychic Ogre
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, you can pay 800 Life Points to select 1 Psychic-Type monster in your Graveyard, and add it to your hand.
+
+Type: Psychic
+Attribute: EARTH
+Level: 5
+Attack: 2200
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Duelist Revolution

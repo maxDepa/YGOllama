@@ -1,0 +1,13 @@
+Code A Ancient Ruins
+Card Type: Spell Card
+
+Description: Each time a face-up "Alien" monster(s) is destroyed, place 1 A-Counter on this card. Once per turn, you can remove 2 A-Counters from anywhere on the field to Special Summon 1 "Alien" monster from your Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Crimson Crisis

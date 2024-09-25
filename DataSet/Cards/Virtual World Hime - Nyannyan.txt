@@ -1,0 +1,15 @@
+Virtual World Hime - Nyannyan
+Card Type: Effect Monster
+
+Description: If a Level 3 monster(s) is Normal or Special Summoned to your field while this card is in your GY (except during the Damage Step): You can Special Summon this card as a Tuner, but banish it when it leaves the field, also for the rest of this turn, you can only Special Summon Level/Rank 3 or higher monsters. If this card is banished: You can target 1 of your other banished cards; shuffle it into the Deck. You can only use each effect of "Virtual World Hime - Nyannyan" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 1500
+Archetype: Virtual World
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage
+- The Grand Creators

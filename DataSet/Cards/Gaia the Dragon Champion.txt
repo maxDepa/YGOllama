@@ -1,0 +1,21 @@
+Gaia the Dragon Champion
+Card Type: Fusion Monster
+
+Description: "Gaia The Fierce Knight" + "Curse of Dragon"
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2600
+Defence: 2100
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Maximum Gold
+- Retro Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Yugi's Legendary Decks

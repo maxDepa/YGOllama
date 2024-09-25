@@ -1,0 +1,13 @@
+Mimimic
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control a Level 3 monster, you can Special Summon this card (from your hand). You can only Special Summon "Mimimic" once per turn this way.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

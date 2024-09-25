@@ -1,0 +1,18 @@
+Wonder Balloons
+Card Type: Spell Card
+
+Description: Once per turn: You can send any number of cards from your hand to the GY; place 1 Balloon Counter on this card for each card sent to the GY. All monsters your opponent controls lose 300 ATK for each Balloon Counter on this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance: Deluxe Edition
+- Legendary Duelists
+- Star Pack ARC-V
+- Star Pack ARC-V
+- The New Challengers

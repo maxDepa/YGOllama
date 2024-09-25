@@ -1,0 +1,14 @@
+Morgan, the Enchantress of Avalon
+Card Type: Effect Monster
+
+Description: When your opponent activates a card or effect, while you control a "Noble Knight" monster and a "Noble Arms" Equip Spell (Quick Effect): You can send this card from your hand to the GY; destroy 1 "Noble Arms" Equip Spell you control, and if you do, negate the activation. You can only use this effect of "Morgan, the Enchantress of Avalon" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 1600
+Archetype: Noble Knight
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

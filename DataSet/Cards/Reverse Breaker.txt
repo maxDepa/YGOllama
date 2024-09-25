@@ -1,0 +1,13 @@
+Reverse Breaker
+Card Type: Spell Card
+
+Description: Equip only to a "Utopia" monster. When the equipped monster declares an attack: Target 1 Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Primal Origin

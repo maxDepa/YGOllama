@@ -1,0 +1,16 @@
+Lavalval Dragun
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner FIRE monsters
+Once per turn: You can add 1 "Laval" monster from your Deck to your hand, then send 1 "Laval" monster from your hand to the Graveyard.
+
+Type: Dragon
+Attribute: FIRE
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz
+- OTS Tournament Pack 16 (POR)

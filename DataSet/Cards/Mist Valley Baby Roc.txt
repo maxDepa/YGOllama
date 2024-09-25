@@ -1,0 +1,17 @@
+Mist Valley Baby Roc
+Card Type: Tuner Monster
+
+Description: When this card is sent directly from the hand to the Graveyard, you can Special Summon it.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 400
+Defence: 600
+Archetype: //
+Present in Sets:
+- Duel Terminal 2
+- Ghosts From the Past
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

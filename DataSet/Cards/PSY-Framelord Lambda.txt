@@ -1,0 +1,16 @@
+PSY-Framelord Lambda
+Card Type: Link Monster
+
+Description: 2 monsters, except Tokens
+You can activate the effects of "PSY-Framegear" monsters in your hand even while you control a monster(s). If a face-up Psychic monster you control is banished face-up while you control this monster (except during the Damage Step): You can activate this effect; during the End Phase of this turn, add 1 "PSY-Frame" card from your Deck to your hand. You can only use this effect of "PSY-Framelord Lambda" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 0
+Attack: 1700
+Defence: 0
+Archetype: PSY-Frame
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Maximum Gold: El Dorado

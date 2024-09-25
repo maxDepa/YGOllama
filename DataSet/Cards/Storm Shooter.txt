@@ -1,0 +1,14 @@
+Storm Shooter
+Card Type: Effect Monster
+
+Description: Once per turn, you can select and activate 1 of these effects: ● Move this card to an adjacent (horizontal) unoccupied Monster Card Zone. ● Return 1 Spell, Trap or Monster Card on your opponent's side of the field in the same column as this card to its owner's hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 7
+Attack: 2300
+Defence: 500
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

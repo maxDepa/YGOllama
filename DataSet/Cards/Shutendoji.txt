@@ -1,0 +1,20 @@
+Shutendoji
+Card Type: Effect Monster
+
+Description: Once per turn: You can activate 1 of these effects.
+● Banish 2 Zombie monsters from your GY; draw 1 card.
+● Target 1 of your banished Zombie monsters; place that target on the top of your Deck.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Stardust Overdrive
+- Structure Deck: Zombie Horde

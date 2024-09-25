@@ -1,0 +1,20 @@
+Detonate
+Card Type: Spell Card
+
+Description: Destroy as many "Kuriboh" and "Kuriboh Tokens" you control as possible, then destroy cards your opponent controls, up to the number of cards destroyed by this effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kuriboh
+Present in Sets:
+- Brothers of Legend
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Yu-Gi-Oh! Advent Calendar (2019)
+- Yugi's Legendary Decks

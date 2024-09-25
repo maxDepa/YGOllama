@@ -1,0 +1,14 @@
+Cyber Egg Angel
+Card Type: Effect Monster
+
+Description: If this card is Summoned: You can add 1 "Machine Angel" Spell or 1 "Ritual Sanctuary" from your Deck to your hand. You can only use this effect of "Cyber Egg Angel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 200
+Defence: 300
+Archetype: Cyber Angel
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

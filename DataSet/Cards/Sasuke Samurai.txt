@@ -1,0 +1,17 @@
+Sasuke Samurai
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster.
+
+Type: Warrior
+Attribute: WIND
+Level: 2
+Attack: 500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel: Trials of the Kingdom
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

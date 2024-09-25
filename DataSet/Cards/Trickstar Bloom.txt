@@ -1,0 +1,15 @@
+Trickstar Bloom
+Card Type: Link Monster
+
+Description: 1 Level 2 or lower "Trickstar" monster
+If this card is Link Summoned: You can make your opponent draw 1 card. If a face-up "Trickstar" monster this card points to is destroyed by battle or card effect: You can inflict 200 damage to your opponent for each card in their hand. You can only use this effect of "Trickstar Bloom" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 100
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

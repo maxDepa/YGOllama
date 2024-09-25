@@ -1,0 +1,15 @@
+Dreamsprite
+Card Type: Effect Monster
+
+Description: When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.
+
+Type: Plant
+Attribute: LIGHT
+Level: 2
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

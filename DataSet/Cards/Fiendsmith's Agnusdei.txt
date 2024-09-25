@@ -1,0 +1,15 @@
+Fiendsmith's Agnusdei
+Card Type: Link Monster
+
+Description: 2+ monsters, including a LIGHT Fiend monster
+Once per turn (Quick Effect): You can target 1 LIGHT non-Link Fiend monster in your GY; Special Summon it, and if you do, equip this card you control to it as an Equip Spell with the following effects.
+● The equipped monster gains ATK equal to the total Link Rating of Link Monsters equipped to it x 600.
+● If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: Fiendsmith
+Present in Sets:

@@ -1,0 +1,14 @@
+The Bystial Alba Los
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 2 "Bystial" monsters. While this card, Summoned this way, is in the Monster Zone, negate the effects of all face-up Ritual, Fusion, Synchro, Xyz, and Link Monsters on the field. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can banish all face-down cards in the Extra Decks, face-up, until your opponent's End Phase.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+Attack: 3500
+Defence: 3500
+Archetype: Bystial
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

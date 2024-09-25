@@ -1,0 +1,15 @@
+Mathmech Diameter
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 4 Cyberse monster in your GY; Special Summon it, but it cannot activate its effects. A "Mathmech" monster that was Synchro or Xyz Summoned using this card on the field as material gains the following effect.
+● Once per turn, during the turn this card was Special Summoned, when your opponent activates a card or effect (Quick Effect): You can negate that effect.
+You can only use each effect of "Mathmech Diameter" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: Mathmech
+Present in Sets:
+- Rise of the Duelist

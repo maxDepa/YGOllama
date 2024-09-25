@@ -1,0 +1,14 @@
+Gladiator Beast's Battle Archfiend Shield
+Card Type: Spell Card
+
+Description: Equip only to a "Gladiator Beast" monster. If the equipped monster would be destroyed, destroy this card instead. When this card is sent to your Graveyard because the equipped monster you controlled was shuffled into your Deck: Return this card to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Astral Pack Three
+- Phantom Darkness

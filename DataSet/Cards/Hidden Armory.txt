@@ -1,0 +1,19 @@
+Hidden Armory
+Card Type: Spell Card
+
+Description: Send the top card of your Deck to the GY; add 1 Equip Spell from your Deck or GY to your hand. You cannot Normal Summon/Set the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Astral Pack One
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box
+- The Grand Creators
+- The Infinity Chasers
+- Warriors' Strike Structure Deck

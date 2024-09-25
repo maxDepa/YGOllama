@@ -1,0 +1,13 @@
+Change Slime
+Card Type: Normal Monster
+
+Description: A slime that can morph and adopt the shape and size of any monster it chooses.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 400
+Defence: 300
+Archetype: Slime
+Present in Sets:
+- Speed Duel: Trials of the Kingdom

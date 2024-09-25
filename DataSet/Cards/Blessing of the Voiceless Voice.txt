@@ -1,0 +1,13 @@
+Blessing of the Voiceless Voice
+Card Type: Spell Card
+
+Description: You can target 1 of your "Voiceless Voice" cards that is banished or in your GY, except "Blessing of the Voiceless Voice"; add it to your hand. If a non-Ritual Monster(s) is Normal or Special Summoned face-up (except during the Damage Step): You can Ritual Summon 1 LIGHT Ritual Monster (Warrior or Dragon) from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster, and if you do, it cannot be destroyed by battle. You can only use each effect of "Blessing of the Voiceless Voice" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Voiceless Voice
+Present in Sets:
+- Legacy of Destruction

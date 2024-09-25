@@ -1,0 +1,15 @@
+Red Gardna
+Card Type: Effect Monster
+
+Description: During either player's turn, when your opponent activates a card or effect while you control a "Red Dragon Archfiend" monster: You can send this card from your hand to the Graveyard; this turn, monsters you control cannot be destroyed by your opponent's card effects.
+
+Type: Fiend
+Attribute: FIRE
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Archfiend
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- The Dark Illusion

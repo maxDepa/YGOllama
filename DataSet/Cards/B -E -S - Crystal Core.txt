@@ -1,0 +1,16 @@
+B.E.S. Crystal Core
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, put 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 2100
+Defence: 1000
+Archetype: B.E.S.
+Present in Sets:
+- Champion Pack: Game Three
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4

@@ -1,0 +1,17 @@
+Skelesaurus
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with these effects.
+● This card becomes EARTH Dinosaur-Type. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position, and if you do, it becomes Zombie-Type.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dinosmasher's Fury Structure Deck
+- Shadow Specters

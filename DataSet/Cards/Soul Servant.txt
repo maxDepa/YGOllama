@@ -1,0 +1,14 @@
+Soul Servant
+Card Type: Spell Card
+
+Description: Place 1 card on top of the Deck from your hand, Deck, or GY, that is "Dark Magician" or specifically lists "Dark Magician" or "Dark Magician Girl" in its text, except "Soul Servant". During your Main Phase: You can banish this card from your GY; draw cards equal to the number of "Palladium" monsters, "Dark Magician", and/or "Dark Magician Girl", with different names, on the field and in the GYs. You can only use this effect of "Soul Servant" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

@@ -1,0 +1,18 @@
+Broww, Huntsman of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 800
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

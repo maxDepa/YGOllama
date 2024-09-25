@@ -1,0 +1,13 @@
+Lucky Punch
+Card Type: Trap Card
+
+Description: Once per turn, when an opponent's monster declares an attack: You can toss a coin 3 times. If the result is 3 heads, draw 3 cards, but if the result is 3 tails, destroy this card. If this face-up card on the field is destroyed: You lose 6000 Life Points.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

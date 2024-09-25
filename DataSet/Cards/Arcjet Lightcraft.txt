@@ -1,0 +1,14 @@
+Arcjet Lightcraft
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can target 1 Level 8 or lower Machine monster in your GY; Special Summon it in Defense Position, and if you do, its Level becomes 9, also negate its effects. You can only use this effect of "Arcjet Lightcraft" once per turn. You cannot Special Summon monsters from the Extra Deck, except Machine Xyz Monsters.
+
+Type: Machine
+Attribute: LIGHT
+Level: 9
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

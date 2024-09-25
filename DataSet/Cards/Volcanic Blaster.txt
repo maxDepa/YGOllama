@@ -1,0 +1,14 @@
+Volcanic Blaster
+Card Type: Effect Monster
+
+Description: When this card is destroyed and sent to the Graveyard by battle, you can place 1 "Volcanic" monster in your Deck on top of your Deck.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Volcanic
+Present in Sets:
+- Force of the Breaker
+- Speed Duel GX: Duel Academy Box

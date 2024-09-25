@@ -1,0 +1,16 @@
+Black Salvo
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 4 DARK Machine-Type monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 100
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Duel Terminal 5b
+- Legendary Collection 5D's Mega Pack
+- Turbo Pack: Booster Five

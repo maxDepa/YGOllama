@@ -1,0 +1,13 @@
+Ritual Buster
+Card Type: Trap Card
+
+Description: Activate only when a Ritual Monster is Ritual Summoned. Your opponent cannot activate any Spell or Trap Cards or use their effects until your next Standby Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

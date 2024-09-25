@@ -1,0 +1,24 @@
+Zombyra the Dark
+Card Type: Effect Monster
+
+Description: This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 2100
+Defence: 500
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Battle City Box
+- Starter Deck: Yugi Evolution
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023 F

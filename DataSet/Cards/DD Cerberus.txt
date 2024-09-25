@@ -1,0 +1,17 @@
+D/D Cerberus
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 "D/D" monster you control; change its Level to 4, and if you do, it gains 400 ATK and DEF (even if this card leaves the field).
+
+[ Monster Effect ] 
+When this card is Pendulum Summoned from the hand, while you control a "D/D" monster other than "D/D Cerberus": You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

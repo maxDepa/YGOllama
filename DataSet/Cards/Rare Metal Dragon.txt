@@ -1,0 +1,14 @@
+Rare Metal Dragon
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Exclusive Pack
+- Gold Series

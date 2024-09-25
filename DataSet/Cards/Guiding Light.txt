@@ -1,0 +1,14 @@
+Guiding Light
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 1 LIGHT monster in your GY; Special Summon that target.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Wave of Light
+- The New Challengers

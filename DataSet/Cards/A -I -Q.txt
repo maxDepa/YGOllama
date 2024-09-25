@@ -1,0 +1,14 @@
+A.I.Q
+Card Type: Trap Card
+
+Description: Activate only if you control an "@Ignister" monster. Once per turn, during your Standby Phase, Tribute 1 Link Monster, or destroy this card. Each player can only Link Summon a monster once per turn while this card is face-up on the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

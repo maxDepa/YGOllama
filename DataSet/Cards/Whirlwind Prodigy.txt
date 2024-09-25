@@ -1,0 +1,15 @@
+Whirlwind Prodigy
+Card Type: Effect Monster
+
+Description: When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.
+
+Type: Fairy
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Speed Duel GX: Midterm Paradox

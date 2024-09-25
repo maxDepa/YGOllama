@@ -1,0 +1,17 @@
+Evolzar Dolkka
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Dinosaur-Type monsters
+During either player's turn, when a monster effect activates: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that monster.
+
+Type: Dragon
+Attribute: FIRE
+Level: 4
+Attack: 2300
+Defence: 1700
+Archetype: Evolzar
+Present in Sets:
+- Collectible Tins 2012 Wave 1
+- King's Court
+- Maximum Gold: El Dorado
+- Photon Shockwave

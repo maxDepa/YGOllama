@@ -1,0 +1,15 @@
+Overpowering Eye
+Card Type: Spell Card
+
+Description: Target 1 Zombie monster you control with 2000 or less ATK; it can attack directly this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Storm of Ragnarok
+- Structure Deck: Zombie Horde

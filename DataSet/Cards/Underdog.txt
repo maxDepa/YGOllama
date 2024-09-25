@@ -1,0 +1,13 @@
+Underdog
+Card Type: Trap Card
+
+Description: During your turn, negate the effects of all face-up monsters your opponent controls. During your opponent's turn, negate the effects of all face-up monsters you control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Blazing Vortex

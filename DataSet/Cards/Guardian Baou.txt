@@ -1,0 +1,16 @@
+Guardian Baou
+Card Type: Effect Monster
+
+Description: Cannot be Summoned unless you control a face-up "Wicked-Breaking Flamberge - Baou". When this card destroys an opponent's monster by battle and sends it to the Graveyard: It gains 1000 ATK. Negate the effects of monsters destroyed by battle with this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 400
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

@@ -1,0 +1,19 @@
+Half or Nothing
+Card Type: Trap Card
+
+Description: During your opponent's Battle Phase (except during the Damage Step): Your opponent chooses 1 of these effects.
+● Halve the ATK of all monsters they currently control, until the end of the Battle Phase.
+● End the Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Crimson Crisis

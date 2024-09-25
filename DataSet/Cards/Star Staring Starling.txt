@@ -1,0 +1,17 @@
+Star Staring Starling
+Card Type: Effect Monster
+
+Description: This card gains an effect based on your Main Monster Zone it is in.
+● Leftmost: Increase its Level by 4.
+● Rightmost: Increase its Level by 3.
+● Center: Increase its Level by 2.
+● Others: Increase its Level by 1.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Neostorm

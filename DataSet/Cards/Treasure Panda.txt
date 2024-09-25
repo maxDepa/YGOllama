@@ -1,0 +1,14 @@
+Treasure Panda
+Card Type: Effect Monster
+
+Description: You can banish up to 3 Spells/Traps from your GY face-down; Special Summon 1 Normal Monster from your Deck, whose Level equals the number of cards banished to activate this effect.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

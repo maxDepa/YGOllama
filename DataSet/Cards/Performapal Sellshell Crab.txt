@@ -1,0 +1,18 @@
+Performapal Sellshell Crab
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when a "Performapal" monster you control is destroyed by battle: You can target 1 "Performapal" or "Odd-Eyes" card in your Pendulum Zone; Special Summon it.
+
+[ Monster Effect ] 
+Once per turn: You can target 1 Pendulum Monster you control; it gains 300 ATK for each "Performapal" monster you currently control, until the end of this turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 500
+Defence: 2500
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

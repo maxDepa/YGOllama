@@ -1,0 +1,16 @@
+Vylon Soldier
+Card Type: Effect Monster
+
+Description: When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets' battle positions.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Vylon
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

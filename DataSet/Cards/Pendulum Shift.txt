@@ -1,0 +1,16 @@
+Pendulum Shift
+Card Type: Spell Card
+
+Description: Target 1 card in either player's Pendulum Zone and declare a Pendulum Scale from 1 to 10; this turn, that card becomes that Pendulum Scale.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Master of Pendulum Structure Deck
+- Pendulum Evolution
+- Secrets of Eternity

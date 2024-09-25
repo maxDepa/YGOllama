@@ -1,0 +1,12 @@
+Soul Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Limit Impulse". This Token cannot be Tributed, except for a Tribute Summon.
+
+Type: Fiend
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chaos
+Present in Sets:

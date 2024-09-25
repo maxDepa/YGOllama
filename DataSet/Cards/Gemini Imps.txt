@@ -1,0 +1,14 @@
+Gemini Imps
+Card Type: Effect Monster
+
+Description: During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect that could make you discard when it resolves: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it. Then draw 1 card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Premium Pack (TCG)
+- Turbo Pack: Booster Eight

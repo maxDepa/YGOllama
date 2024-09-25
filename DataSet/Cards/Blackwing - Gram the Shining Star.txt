@@ -1,0 +1,16 @@
+Blackwing - Gram the Shining Star
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Must first be Synchro Summoned. When this card is Synchro Summoned: You can Special Summon 1 Level 4 or lower non-Tuner "Blackwing" monster from your hand, but its effects are negated.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 1500
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- The Dark Illusion: Special Edition
+- Yu-Gi-Oh! 5D's Volume 4 promotional card

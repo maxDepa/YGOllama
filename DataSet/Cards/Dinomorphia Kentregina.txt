@@ -1,0 +1,15 @@
+Dinomorphia Kentregina
+Card Type: Fusion Monster
+
+Description: 2 "Dinomorphia" monsters with different names
+Loses ATK equal to your LP. You can only use each of the following effects of "Dinomorphia Kentregina" once per turn. During the Main Phase (Quick Effect): You can pay half your LP and banish 1 "Dinomorphia" Normal Trap from your GY; this effect becomes that Trap's effect when that card is activated. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 or lower "Dinomorphia" monster from your GY.
+
+Type: Dinosaur
+Attribute: DARK
+Level: 6
+Attack: 4000
+Defence: 0
+Archetype: Dinomorphia
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

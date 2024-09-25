@@ -1,0 +1,18 @@
+Performapal Extra Slinger
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can inflict 300 damage to your opponent for each face-up Pendulum Monster in your Extra Deck. You can only use this effect of "Performapal Extra Slinger" once per turn. You cannot Pendulum Summon the turn you activate this effect.
+
+[ Monster Effect ] 
+Once per turn: You can banish 1 card from your Extra Deck, then target 1 card in a Pendulum Zone; destroy it, and if you do, inflict 300 damage to your opponent.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1100
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

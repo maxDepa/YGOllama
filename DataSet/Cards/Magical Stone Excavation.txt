@@ -1,0 +1,21 @@
+Magical Stone Excavation
+Card Type: Spell Card
+
+Description: Discard 2 cards, then target 1 Spell in your GY; add it to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Two
+- Dragons Collide Structure Deck
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Hero Decks
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)
+- Turbo Pack: Booster Two
+- Zombie World Structure Deck

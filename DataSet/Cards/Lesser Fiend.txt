@@ -1,0 +1,20 @@
+Lesser Fiend
+Card Type: Effect Monster
+
+Description: (This card is always treated as an "Archfiend" card.)
+Banish any monster destroyed by battle with this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2100
+Defence: 1000
+Archetype: Archfiend
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- The Lost Art Promotion (series)
+- The Lost Art Promotion H

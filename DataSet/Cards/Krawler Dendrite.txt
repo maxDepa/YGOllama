@@ -1,0 +1,14 @@
+Krawler Dendrite
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can send 1 monster from your Deck to the GY.
+If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 "Krawler" monsters with different names from your Deck in face-down Defense Position, except "Krawler Dendrite". You can only use each effect of "Krawler Dendrite" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 1300
+Defence: 600
+Archetype: Krawler
+Present in Sets:
+- Circuit Break

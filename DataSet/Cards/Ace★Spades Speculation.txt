@@ -1,0 +1,16 @@
+Ace★Spades Speculation
+Card Type: Fusion Monster
+
+Description: 1 monster with 2500 or more ATK + 1 face-down Defense Position monster with 2500 or less DEF
+You can only Special Summon "Ace★Spades Speculation(s)" once per turn. You can Tribute 1 Attack Position monster and 1 face-down Defense Position monster; Special Summon this card from your GY. This card gains the following effect based on its battle position.
+● Attack Position: Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied).
+● Defense Position: Cannot be destroyed by battle or card effects.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge

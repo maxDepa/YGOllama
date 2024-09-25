@@ -1,0 +1,14 @@
+Gusto Falco
+Card Type: Tuner Monster
+
+Description: When this face-up card on the field is sent to the Graveyard, except by battle: You can Special Summon 1 "Gusto" monster from your Deck in face-down Defense Position.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 600
+Defence: 1400
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

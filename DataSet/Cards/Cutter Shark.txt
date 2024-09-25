@@ -1,0 +1,12 @@
+Cutter Shark
+Card Type: Effect Monster
+
+Description: When 1 monster you control (and no other cards) is targeted for an attack or with a card effect, and this card is in your hand or GY (Quick Effect): You can Tribute that monster; Special Summon this card. If this card is Special Summoned: You can activate this effect; add 1 WATER monster from your GY to your hand during the End Phase of this turn, except "Cutter Shark". You can only use each effect of "Cutter Shark" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 0
+Defence: 2000
+Archetype: Shark
+Present in Sets:

@@ -1,0 +1,14 @@
+Aromaseraphy Rosemary
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+While your LP is higher than your opponent's, all Plant-Type monsters you control gain 500 ATK and DEF. Once per turn, if you gain LP: Target 1 face-up card your opponent controls; that face-up card has its effects negated until the end of this turn.
+
+Type: Plant
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 900
+Archetype: Aroma
+Present in Sets:
+- Invasion: Vengeance

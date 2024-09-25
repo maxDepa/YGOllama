@@ -1,0 +1,14 @@
+Zefra Divine Strike
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, is activated: Banish 1 face-up "Zefra" monster in your Extra Deck; negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Zefra
+Present in Sets:
+- Crossed Souls
+- Pendulum Evolution

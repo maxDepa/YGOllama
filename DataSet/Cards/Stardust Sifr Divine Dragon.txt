@@ -1,0 +1,15 @@
+Stardust Sifr Divine Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
+Must be Synchro Summoned and cannot be Special Summoned by other ways. The first time each card you control would be destroyed each turn, by battle or card effect, it is not destroyed. Once per turn, during either player's turn, when your opponent activates a monster effect: You can negate that effect, and if you do, destroy 1 card on the field. You can banish this card from your Graveyard, then target 1 Level 8 or lower "Stardust" monster in your Graveyard; Special Summon it.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+Attack: 4000
+Defence: 4000
+Archetype: Stardust
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

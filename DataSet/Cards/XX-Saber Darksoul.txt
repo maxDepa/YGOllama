@@ -1,0 +1,15 @@
+XX-Saber Darksoul
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card was sent from your side of the field to your Graveyard this turn: You can add 1 "X-Saber" monster from your Deck to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 100
+Defence: 100
+Archetype: X-Saber
+Present in Sets:
+- Collectible Tins 2011 Wave 2
+- The Shining Darkness
+- The Shining Darkness

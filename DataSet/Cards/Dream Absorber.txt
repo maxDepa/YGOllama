@@ -1,0 +1,12 @@
+Dream Absorber
+Card Type: Effect Monster
+
+Description: If your opponent activates a monster effect in the hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the effect was activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of "Dream Absorber" once per turn. Each time your opponent activates a monster effect, this card gains 1000 ATK immediately after it resolves.
+
+Type: Fairy
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

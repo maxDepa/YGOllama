@@ -1,0 +1,13 @@
+Red Zone
+Card Type: Trap Card
+
+Description: When your opponent activates a card or effect while you control "Red Dragon Archfiend" or a Synchro Monster that mentions it: You can target 1 card on the field; destroy it. You can target 1 of your banished DARK Dragon Synchro Monsters; Special Summon it. You can only use each effect of "Red Zone" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: The Crimson King

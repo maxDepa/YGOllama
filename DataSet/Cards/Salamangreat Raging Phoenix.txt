@@ -1,0 +1,14 @@
+Salamangreat Raging Phoenix
+Card Type: Link Monster
+
+Description: 2+ FIRE Effect Monsters
+If this card is Link Summoned using "Salamangreat Raging Phoenix" as material: You can add 1 "Salamangreat" card from your Deck to your hand. If a face-up FIRE monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can target 1 of those monsters; Special Summon this card, and if you do, this card gains ATK equal to that monster's ATK. You can only use each effect of "Salamangreat Raging Phoenix" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

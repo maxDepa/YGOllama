@@ -1,0 +1,14 @@
+F.A. Winners
+Card Type: Spell Card
+
+Description: If you control a "F.A." monster, this card cannot be destroyed by your opponent's card effects. When your "F.A." monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only activate this effect of "F.A. Winners" once per turn. If 3 of your "F.A." Field Spells with different names are currently banished, and were all banished by the effect of "F.A. Winners", you win the Duel.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: F.A.
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

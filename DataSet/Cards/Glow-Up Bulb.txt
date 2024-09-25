@@ -1,0 +1,17 @@
+Glow-Up Bulb
+Card Type: Tuner Monster
+
+Description: If this card is in your GY: You can send the top card of your Deck to the GY, and if you do, Special Summon this card. You can only use this effect of "Glow-Up Bulb" once per Duel.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Premium Gold: Return of the Bling
+- Starstrike Blast
+- Starstrike Blast
+- Structure Deck: Cyberse Link

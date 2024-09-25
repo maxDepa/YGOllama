@@ -1,0 +1,17 @@
+Superheavy Samurai Monk Big Benkei
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you control a "Superheavy Samurai" monster: You can add 1 "Superheavy Samurai Soul" monster from your Deck to your hand. You can only use this effect of "Superheavy Samurai Monk Big Benkei" once per turn.
+
+[ Monster Effect ] 
+If you have no Spells/Traps in your GY: You can send 1 "Superheavy Samurai Big Benkei" from your hand or Deck to the GY, and if you do, Special Summon this card from your hand. If this card is used as Synchro Material and added to your Extra Deck face-up: You can place this card in your Pendulum Zone. You can only use each effect of "Superheavy Samurai Monk Big Benkei" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 1000
+Defence: 3500
+Archetype: Superheavy Samurai
+Present in Sets:
+- Cyberstorm Access

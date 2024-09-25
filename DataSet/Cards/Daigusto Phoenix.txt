@@ -1,0 +1,15 @@
+Daigusto Phoenix
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up WIND monster you control; this turn, it can attack twice during each Battle Phase.
+
+Type: Pyro
+Attribute: WIND
+Level: 2
+Attack: 1500
+Defence: 1100
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

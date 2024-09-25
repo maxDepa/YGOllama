@@ -1,0 +1,14 @@
+Photon Hand
+Card Type: Spell Card
+
+Description: If you control a "Photon" or "Galaxy" monster: Pay 1000 LP, then target 1 monster your opponent controls; take control of it. If you do not control "Galaxy-Eyes Photon Dragon" at activation, you can only target an Xyz Monster. You can only activate 1 "Photon Hand" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

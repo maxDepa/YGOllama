@@ -1,0 +1,15 @@
+Madolche Hootcake
+Card Type: Effect Monster
+
+Description: When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. You can target 1 monster in your Graveyard; banish it, and if you do, Special Summon 1 "Madolche" monster from your Deck, except "Madolche Hootcake". You can only use this effect of "Madolche Hootcake" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 1100
+Archetype: Madolche
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Maximum Gold

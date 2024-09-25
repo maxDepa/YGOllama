@@ -1,0 +1,15 @@
+Bokoichi the Freightening Car
+Card Type: Normal Monster
+
+Description: A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Speed Duel: Scars of Battle

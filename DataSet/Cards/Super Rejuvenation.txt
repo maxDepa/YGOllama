@@ -1,0 +1,19 @@
+Super Rejuvenation
+Card Type: Spell Card
+
+Description: During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon monsters you discarded or Tributed from your hand or field this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Mystic Fighters
+- The Lost Art Promotion (series)
+- The Lost Art Promotion M

@@ -1,0 +1,13 @@
+Cannon Soldier MK-2
+Card Type: Effect Monster
+
+Description: You can Tribute 2 monsters to inflict 1500 damage to your opponent.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Phantom Darkness

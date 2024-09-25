@@ -1,0 +1,17 @@
+Raidraptor - Singing Lanius
+Card Type: Effect Monster
+
+Description: If you control a face-up Xyz Monster, you can Special Summon this card (from your hand). You can only Special Summon "Raidraptor - Singing Lanius" once per turn this way.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 100
+Archetype: Raidraptor
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Wing Raiders

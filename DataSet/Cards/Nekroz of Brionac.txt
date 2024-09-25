@@ -1,0 +1,16 @@
+Nekroz of Brionac
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Nekroz" Ritual Spell. Must be Ritual Summoned, without using "Nekroz of Brionac". You can only use each of these effects of "Nekroz of Brionac" once per turn.
+● You can discard this card; add 1 "Nekroz" monster from your Deck to your hand, except "Nekroz of Brionac".
+● You can target up to 2 face-up monsters on the field that were Special Summoned from the Extra Deck; shuffle them into the Deck.
+
+Type: Warrior
+Attribute: WATER
+Level: 6
+Attack: 2300
+Defence: 1400
+Archetype: Nekroz
+Present in Sets:
+- Duel Power
+- The Secret Forces

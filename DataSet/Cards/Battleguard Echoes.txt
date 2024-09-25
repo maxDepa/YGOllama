@@ -1,0 +1,16 @@
+Battleguard Echoes
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 Level 5 EARTH Warrior monster from your Deck to your hand, then discard 1 card. Once per turn, if a monster(s) is returned from the field to the hand, even during the Damage Step: You can activate 1 of these effects;
+● Add 1 "Battleguard Rage" or "Battleguard Howling" from your Deck to your hand.
+● Change 1 face-up monster on the field to face-down Defense Position.
+You can only activate 1 "Battleguard Echoes" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Battleguard
+Present in Sets:
+- Legacy of Destruction

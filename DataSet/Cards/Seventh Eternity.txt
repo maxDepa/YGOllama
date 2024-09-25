@@ -1,0 +1,16 @@
+Seventh Eternity
+Card Type: Trap Card
+
+Description: Target 1 "Number" Xyz Monster you control that has a number between "101" and "107" in its name, or 1 Xyz Monster you control that has any such monsters as material, then activate 1 of these effects;
+● Negate the effects of 1 monster your opponent controls with ATK less than or equal to the targeted monster's ATK, until the end of this turn.
+● Detach all materials from the targeted monster, then you can Special Summon 1 "Number" Xyz Monster from your GY.
+You can only use this effect of "Seventh Eternity" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Seventh
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

@@ -1,0 +1,15 @@
+Skull Knight #2
+Card Type: Effect Monster
+
+Description: If you Tribute Summon a Fiend-Type monster by Tributing this monster, Special Summon 1 "Skull Knight #2" from your Deck. Then shuffle your Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness

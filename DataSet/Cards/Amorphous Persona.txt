@@ -1,0 +1,15 @@
+Amorphous Persona
+Card Type: Spell Card
+
+Description: All "Amorphage" monsters on the field gain 300 ATK and DEF. Up to twice per turn, if an "Amorphage" monster(s) you control is Tributed, draw 1 card. You can banish this card from your Graveyard; Tribute Pendulum Monsters from your hand or field whose total Levels exactly equal 8, then Ritual Summon 1 "Amorphactor Pain, the Imagination Dracoverlord" from your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amorphage
+Present in Sets:
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Shining Victories

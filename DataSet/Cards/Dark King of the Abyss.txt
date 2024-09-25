@@ -1,0 +1,17 @@
+Dark King of the Abyss
+Card Type: Normal Monster
+
+Description: It's said that this King of the Netherworld once had the power to rule over the dark.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack

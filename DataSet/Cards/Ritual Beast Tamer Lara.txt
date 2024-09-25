@@ -1,0 +1,13 @@
+Ritual Beast Tamer Lara
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: You can target 1 "Ritual Beast" monster in your Graveyard; Special Summon it. You can only Special Summon "Ritual Beast Tamer Lara(s)" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 1
+Attack: 100
+Defence: 2000
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

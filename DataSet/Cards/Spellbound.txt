@@ -1,0 +1,14 @@
+Spellbound
+Card Type: Spell Card
+
+Description: All face-up monsters your opponent currently controls cannot be Tributed, or used as material for a Fusion, Synchro, Xyz, or Link Summon, until the end of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

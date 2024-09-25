@@ -1,0 +1,14 @@
+Zoodiac Barrage
+Card Type: Spell Card
+
+Description: You can target 1 face-up card you control; destroy it, and if you do, Special Summon 1 "Zoodiac" monster from your Deck. You can only use this effect of "Zoodiac Barrage" once per turn. If this card is destroyed by a card effect and sent to the Graveyard: You can target 1 "Zoodiac" Xyz Monster you control; attach this card from your Graveyard to that Xyz Monster as Xyz Material.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Zoodiac
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

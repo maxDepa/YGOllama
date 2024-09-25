@@ -1,0 +1,13 @@
+Jutte Fighter
+Card Type: Tuner Monster
+
+Description: Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 900
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

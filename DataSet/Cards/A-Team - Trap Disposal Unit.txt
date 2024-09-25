@@ -1,0 +1,15 @@
+A-Team: Trap Disposal Unit
+Card Type: Effect Monster
+
+Description: This effect can be used during either player's turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it.
+
+Type: Machine
+Attribute: FIRE
+Level: 2
+Attack: 300
+Defence: 400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

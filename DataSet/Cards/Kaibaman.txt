@@ -1,0 +1,23 @@
+Kaibaman
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 1 "Blue-Eyes White Dragon" from your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 200
+Defence: 700
+Archetype: Blue-Eyes
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Legends
+- Dark Revelation Volume 4
+- Dragons Collide Structure Deck
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Retro Pack
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards

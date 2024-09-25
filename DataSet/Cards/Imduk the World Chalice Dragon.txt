@@ -1,0 +1,16 @@
+Imduk the World Chalice Dragon
+Card Type: Link Monster
+
+Description: 1 Normal Monster, except a Token
+During your Main Phase, you can Normal Summon 1 "World Chalice" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) At the start of the Damage Step, if this card battles an opponent's monster this card points to: You can destroy that opponent's monster. If this card is sent from the field to the GY: You can Special Summon 1 "World Chalice" monster from your hand.
+
+Type: Dragon
+Attribute: WIND
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: World Chalice
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Code of the Duelist

@@ -1,0 +1,14 @@
+White Moray
+Card Type: Effect Monster
+
+Description: During the turn you Normal Summoned this card, it can attack your opponent directly. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 200
+Archetype: White
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge

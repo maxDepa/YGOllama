@@ -1,0 +1,13 @@
+Knight of Armor Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Armor Dragon Ritual". At the start of the Damage Step, if this card battles a monster that was Special Summoned from the Extra Deck: You can shuffle that monster into the Deck. You can Tribute this card; Special Summon 1 Level 5 or higher WIND Dragon monster from your hand or Deck. You can only use each effect of "Knight of Armor Dragon" once per turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Paladins of Dragons
+Present in Sets:
+- Blazing Vortex

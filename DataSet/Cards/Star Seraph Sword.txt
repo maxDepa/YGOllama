@@ -1,0 +1,13 @@
+Star Seraph Sword
+Card Type: Effect Monster
+
+Description: Once per turn: You can send 1 "Star Seraph" monster from your hand to the Graveyard; this card gains ATK equal to the original ATK of the sent monster, until the End Phase.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: Star Seraph
+Present in Sets:
+- Judgment of the Light

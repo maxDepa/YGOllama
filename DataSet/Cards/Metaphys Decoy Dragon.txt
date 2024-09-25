@@ -1,0 +1,17 @@
+Metaphys Decoy Dragon
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When your monster is targeted for an attack: You can target 1 of your "Metaphys" monsters that is banished or in your GY; banish this card, and if you do, Special Summon that monster in Attack Position. You can only use this effect of "Metaphys Decoy Dragon" once per turn.
+
+[ Monster Effect ] 
+When your monster is targeted for an attack: You can target 1 of your "Metaphys" monsters that is banished or in your GY; banish this card, and if you do, Special Summon that monster in Attack Position. During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. You can only use each effect of "Metaphys Decoy Dragon" once per turn.
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 2
+Attack: 300
+Defence: 200
+Archetype: Metaphys
+Present in Sets:
+- Cybernetic Horizon

@@ -1,0 +1,16 @@
+Dark Angel
+Card Type: Effect Monster
+
+Description: When your Fairy monster is targeted for an attack: You can Tribute it and send this card from your hand to the GY, then target 1 face-up monster you control; change the attack target to your targeted monster, and if you do, it gains ATK equal to the original ATK of the Tributed monster, until the end of this turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 5
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Circuit Break
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

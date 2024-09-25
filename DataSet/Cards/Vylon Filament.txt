@@ -1,0 +1,13 @@
+Vylon Filament
+Card Type: Spell Card
+
+Description: Equip only to a "Vylon" monster. If the equipped monster attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this face-up card on the field is sent to the Graveyard: You can add 1 "Vylon" Spell Card from your Deck to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vylon
+Present in Sets:
+- Generation Force

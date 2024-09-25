@@ -1,0 +1,18 @@
+Igknight Veteran
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+If you have an "Igknight" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.
+
+[ Monster Effect ] 
+''This grizzled leader of the bodyguards division acts as chaperone to the Cavalier, and is one of the few complainers about her recklessness (mostly to the Gallant, the only one who understands him).''
+
+Type: Warrior
+Attribute: FIRE
+Level: 6
+Attack: 1300
+Defence: 2700
+Archetype: Igknight
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

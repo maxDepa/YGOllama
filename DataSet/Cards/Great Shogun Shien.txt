@@ -1,0 +1,19 @@
+Great Shogun Shien
+Card Type: Effect Monster
+
+Description: If you control 2 or more face-up "Six Samurai" monsters, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn. If this card would be destroyed, you can destroy a face-up "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: FIRE
+Level: 7
+Attack: 2500
+Defence: 2400
+Archetype: Six Samurai
+Present in Sets:
+- Champion Pack: Game Eight
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 12 (POR)
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Strike of Neos
+- Strike of Neos

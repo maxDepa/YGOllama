@@ -1,0 +1,14 @@
+Pyroxene Fusion
+Card Type: Trap Card
+
+Description: Send, from your hand or your side of the field to the Graveyard, the Fusion Material Monsters that are listed on a "Gem-Knight" Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

@@ -1,0 +1,17 @@
+Number C102: Archfiend Seraph
+Card Type: XYZ Monster
+
+Description: 4 Level 5 LIGHT monsters
+If this face-up card would be destroyed, you can detach 2 Xyz Materials from this card instead. If the last Xyz Material(s) is detached from this card: Inflict 1500 damage to your opponent. If this card has "Number 102: Star Seraph Sentry" as an Xyz Material, it gains this effect.
+● Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; change that target's ATK to 0, and if you do, negate its effects.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2900
+Defence: 2400
+Archetype: Archfiend
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin
+- Primal Origin

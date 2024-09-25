@@ -1,0 +1,15 @@
+Darkfire Soldier #2
+Card Type: Normal Monster
+
+Description: A warrior who gained immeasurable power from the heart of a volcano.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

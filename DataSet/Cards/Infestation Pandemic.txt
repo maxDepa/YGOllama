@@ -1,0 +1,14 @@
+Infestation Pandemic
+Card Type: Spell Card
+
+Description: All face-up "lswarm" monsters you currently control are unaffected by other Spell/Trap effects this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infestation
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

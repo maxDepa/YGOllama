@@ -1,0 +1,19 @@
+Alligator's Sword
+Card Type: Normal Monster
+
+Description: ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: Alligator
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Turbo Pack: Booster Eight
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

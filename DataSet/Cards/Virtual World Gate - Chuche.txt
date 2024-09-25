@@ -1,0 +1,14 @@
+Virtual World Gate - Chuche
+Card Type: Trap Card
+
+Description: You can target 1 face-up card on the field; shuffle 2 of your banished "Virtual World" cards with different names from each other into the Deck, then destroy that card. During your Main Phase: You can banish this card from your GY, then target 1 "Virtual World" monster you control; increase or decrease its Level/Rank by 3 until the end of this turn. You can only use each effect of "Virtual World Gate - Chuche" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Virtual World
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

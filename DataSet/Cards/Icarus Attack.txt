@@ -1,0 +1,24 @@
+Icarus Attack
+Card Type: Trap Card
+
+Description: Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Dark Revelation Volume 4
+- Dragunity Legion Structure Deck
+- Duel Terminal 4
+- Duelist League 2 participation cards
+- Enemy of Justice
+- Gold Series 3
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Premium Gold
+- Structure Deck: Lord of the Storm
+- Wing Raiders

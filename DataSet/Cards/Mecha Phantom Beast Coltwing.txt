@@ -1,0 +1,16 @@
+Mecha Phantom Beast Coltwing
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: Special Summon 2 "Mecha Phantom Beast Tokens" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You must control another "Mecha Phantom Beast" monster to activate and to resolve this effect. This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 2 Tokens, then target 1 card your opponent controls; destroy that target, and if you do, banish it.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- Judgment of the Light
+- Maximum Gold

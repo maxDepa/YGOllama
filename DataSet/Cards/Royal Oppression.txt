@@ -1,0 +1,18 @@
+Royal Oppression
+Card Type: Trap Card
+
+Description: Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight
+- Dark Beginning 2
+- Duel Terminal 4
+- Gold Series 4: Pyramids Edition
+- Legacy of Darkness
+- Legacy of Darkness

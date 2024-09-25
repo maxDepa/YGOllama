@@ -1,0 +1,18 @@
+D/D Gryphon
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 Fiend monster you control; it gains 500 ATK (until the end of this turn) for each "Dark Contract" Spell/Trap with different names currently on your field or in your GY, then destroy this card. You can only use this effect of "D/D Gryphon" once per turn.
+
+[ Monster Effect ] 
+If you control a "D/D" monster: You can Special Summon this card from your hand in Defense Position. If this card is Pendulum Summoned: You can discard 1 "D/D" or "Dark Contract" card; draw 1 card. If this card is Special Summoned from the GY: You can add 1 "D/D" card from your Deck to your hand, except "D/D Gryphon". You can only use each effect of "D/D Gryphon" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: D/D
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

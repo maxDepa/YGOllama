@@ -1,0 +1,12 @@
+Approaching Machine
+Card Type: Spell Card
+
+Description: Add 1 monster that mentions "Enhanced Metalmorph" OR 1 "Metalmorph" Trap from your Deck or GY to your hand. If you control a "Metalmorph" Trap: You can banish this card from your GY, then target 1 opponent's Defense Position monster; change it to Attack Position. You can only use this effect of "Approaching Machine" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

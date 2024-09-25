@@ -1,0 +1,14 @@
+Worm Dimikles
+Card Type: Flip Effect Monster
+
+Description: FLIP: This card gains 300 ATK and DEF.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal

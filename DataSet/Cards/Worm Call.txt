@@ -1,0 +1,13 @@
+Worm Call
+Card Type: Spell Card
+
+Description: Once per turn, if your opponent controls a monster and you control no monsters, you can Special Summon 1 Reptile-Type "Worm" monster from your hand in face-down Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Worm
+Present in Sets:
+- The Shining Darkness

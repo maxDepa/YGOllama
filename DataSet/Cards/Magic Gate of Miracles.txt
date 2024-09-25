@@ -1,0 +1,13 @@
+Magic Gate of Miracles
+Card Type: Spell Card
+
+Description: If you control 2 or more Spellcaster monsters: Change 1 Attack Position monster your opponent controls to Defense Position, then take control of it, and if you do, it cannot be destroyed by battle.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Power

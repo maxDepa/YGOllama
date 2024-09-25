@@ -1,0 +1,17 @@
+Diviner of the Herald
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 Fairy monster from your Deck or Extra Deck to the GY, and if you do, increase this card's Level by that monster's Level, until the end of this turn. If this card is Tributed: You can Special Summon 1 Level 2 or lower Fairy monster from your hand or Deck, except "Diviner of the Herald". You can only use each effect of "Diviner of the Herald" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 500
+Defence: 300
+Archetype: Herald
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- Lightning Overdrive
+- OTS Tournament Pack 25

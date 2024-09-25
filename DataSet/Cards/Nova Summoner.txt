@@ -1,0 +1,17 @@
+Nova Summoner
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can Special Summon 1 LIGHT Fairy monster with 1500 or less ATK from your Deck. If "The Sanctuary in the Sky" is on the field, you can Special Summon 1 "Airknight Parshath" instead.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 800
+Archetype: Parshath
+Present in Sets:
+- Dark Legends
+- Gold Series 3
+- Lost Sanctuary Structure Deck
+- Strike of Neos
+- Structure Deck: Wave of Light

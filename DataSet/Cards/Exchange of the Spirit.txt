@@ -1,0 +1,18 @@
+Exchange of the Spirit
+Card Type: Trap Card
+
+Description: If both players have 15 or more cards in their Graveyards: Pay 1000 LP; each player swaps the cards in their Graveyard with the cards in their Deck, then shuffles their Deck. You can only activate 1 "Exchange of the Spirit" per Duel.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Legends
+- Duelist Pack: Rivals of the Pharaoh
+- Elemental Energy Sneak Peek Participation Card
+- Magnificent Mavens
+- Premium Gold: Return of the Bling
+- Retro Pack

@@ -1,0 +1,13 @@
+Machina Citadel
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. (Quick Effect): You can target 1 Machine monster you control; destroy that Machine monster and all monsters your opponent controls with ATK less than or equal to it. If a face-up EARTH Machine monster(s) you control, except "Machina Citadel", is destroyed by battle or card effect while this card is in your GY: You can Special Summon this card. You can only use each effect of "Machina Citadel" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 3000
+Defence: 2500
+Archetype: Machina
+Present in Sets:
+- Structure Deck: Mechanized Madness

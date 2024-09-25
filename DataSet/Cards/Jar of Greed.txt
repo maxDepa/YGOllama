@@ -1,0 +1,22 @@
+Jar of Greed
+Card Type: Trap Card
+
+Description: Draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 5
+- Starter Deck 2006
+- Starter Deck: Kaiba Evolution
+- Structure Deck: Blaze of Destruction
+- Super Starter: Space-Time Showdown

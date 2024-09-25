@@ -1,0 +1,18 @@
+Skull Red Bird
+Card Type: Normal Monster
+
+Description: This monster swoops down and attacks with a rain of knives stored in its wings.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1550
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution

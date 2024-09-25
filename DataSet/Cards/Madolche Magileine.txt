@@ -1,0 +1,14 @@
+Madolche Magileine
+Card Type: Effect Monster
+
+Description: If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. When this card is Normal or Flip Summoned: You can add 1 "Madolche" monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: Madolche
+Present in Sets:
+- Duel Overload
+- Return of the Duelist

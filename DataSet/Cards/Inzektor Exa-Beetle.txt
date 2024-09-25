@@ -1,0 +1,16 @@
+Inzektor Exa-Beetle
+Card Type: XYZ Monster
+
+Description: 2 Level 6 monsters
+When this card is Xyz Summoned: You can target 1 monster in either player's Graveyard; equip that target to this card. This card gains ATK and DEF equal to half the original ATK and DEF of the monster equipped by this effect. Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up card on each side of the field; send those targets to the Graveyard.
+
+Type: Insect
+Attribute: DARK
+Level: 6
+Attack: 1000
+Defence: 1000
+Archetype: Inzektor
+Present in Sets:
+- Brothers of Legend
+- Order of Chaos
+- The Grand Creators

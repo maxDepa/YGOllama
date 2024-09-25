@@ -1,0 +1,17 @@
+Assault Mode Activate
+Card Type: Trap Card
+
+Description: Tribute 1 Synchro Monster; Special Summon 1 "/Assault Mode" monster, whose name includes the Tributed monster's name, from your Deck in Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- Duelist Pack: Yusei 2
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Structure Deck: The Crimson King

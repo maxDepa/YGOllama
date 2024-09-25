@@ -1,0 +1,15 @@
+Chaos Goddess
+Card Type: Synchro Monster
+
+Description: 1 LIGHT Tuner + 2+ non-Tuner DARK monsters
+Once per turn: You can send 1 LIGHT monster from your hand to the GY, then target 1 Level 5 or higher DARK monster in your GY; Special Summon that monster, but it cannot be used as Synchro Material.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 1800
+Archetype: Chaos
+Present in Sets:
+- Duel Overload
+- The Shining Darkness

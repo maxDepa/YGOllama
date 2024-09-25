@@ -1,0 +1,14 @@
+Threshold Borg
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand) by discarding 1 Cyberse monster. All monsters your opponent controls lose 500 ATK.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

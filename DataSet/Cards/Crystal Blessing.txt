@@ -1,0 +1,19 @@
+Crystal Blessing
+Card Type: Spell Card
+
+Description: Target up to 2 "Crystal Beast" monsters in your Graveyard; place those targets face-up in your Spell & Trap Card Zone as Continuous Spell Cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

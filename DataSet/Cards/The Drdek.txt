@@ -1,0 +1,12 @@
+The Drdek
+Card Type: Normal Monster
+
+Description: A bipedal eyeball that seldom misses an enemy with its lethal talons.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 800
+Archetype: //
+Present in Sets:

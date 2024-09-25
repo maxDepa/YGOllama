@@ -1,0 +1,14 @@
+Raging Cloudian
+Card Type: Trap Card
+
+Description: Activate only when a "Cloudian" monster(s) you control is destroyed by its own effect and sent to the Graveyard. Special Summon 1 of those monsters from your Graveyard in Attack Position and place 1 Fog Counter on it. It cannot be changed to Defense Position by a card effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cloudian
+Present in Sets:
+- Light of Destruction
+- Speed Duel GX: Duelists of Shadows

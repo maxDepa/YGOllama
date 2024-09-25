@@ -1,0 +1,18 @@
+Token Stampede
+Card Type: Trap Card
+
+Description: All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Two
+- Legendary Duelists: Rage of Ra
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Speed Duel: Streets of Battle City
+- Storm of Ragnarok

@@ -1,0 +1,14 @@
+Majespecter Sonics
+Card Type: Spell Card
+
+Description: Target 1 "Majespecter" monster you control; until the end of this turn, its ATK and DEF become double its current ATK and DEF, also any battle damage it inflicts to your opponent is halved.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Majespecter
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

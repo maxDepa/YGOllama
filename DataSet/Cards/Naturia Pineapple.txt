@@ -1,0 +1,16 @@
+Naturia Pineapple
+Card Type: Effect Monster
+
+Description: All face-up monsters you control are treated as Plant-Type. During your Standby Phase, if you do not control a face-up "Naturia Pineapple", and have no monsters in your Graveyard except Plant or Beast-Type: You can Special Summon this card from your Graveyard. You must not control any Spell or Trap Cards to activate and resolve this effect.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 100
+Defence: 100
+Archetype: Naturia
+Present in Sets:
+- Duelist Revolution
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Special Edition

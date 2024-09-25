@@ -1,0 +1,18 @@
+Resonator Call
+Card Type: Spell Card
+
+Description: Add 1 "Resonator" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Resonator
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- Extreme Victory
+- Ghosts From the Past
+- High-Speed Riders
+- Legendary Collection 5D's Mega Pack
+- Structure Deck: The Crimson King

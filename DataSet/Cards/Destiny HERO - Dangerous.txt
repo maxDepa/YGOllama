@@ -1,0 +1,19 @@
+Destiny HERO - Dangerous
+Card Type: Fusion Monster
+
+Description: 1 "Destiny HERO" monster + 1 DARK Effect Monster
+(Quick Effect): You can discard 1 card; send 1 "Destiny HERO" monster from your hand or Deck to the GY, and if you do, "Destiny HERO" monsters you control gain 200 ATK for each "Destiny HERO" monster in your GY until the end of this turn. You can only use this effect of "Destiny HERO - Dangerous" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2600
+Archetype: Destiny HERO
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Code of the Duelist
+- Legendary Hero Decks
+- Speed Duel GX: Duel Academy Box

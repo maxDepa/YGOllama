@@ -1,0 +1,15 @@
+Constellar Caduceus
+Card Type: Effect Monster
+
+Description: If you control a "Constellar" monster, except "Constellar Caduceus": You can Special Summon this card from your hand. During your Main Phase: You can add 1 "Constellar" Spell/Trap from your Deck to your hand. You can only use each of the previous effects of "Constellar Caduceus" once per turn. A "Constellar" Xyz Monster that has this card as material gains this effect.
+● If this card battles a LIGHT or DARK monster, before damage calculation: You can banish that monster.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1550
+Archetype: Constellar
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

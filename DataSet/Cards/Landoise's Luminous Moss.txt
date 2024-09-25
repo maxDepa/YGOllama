@@ -1,0 +1,13 @@
+Landoise's Luminous Moss
+Card Type: Spell Card
+
+Description: Activate only if you control a face-up "Naturia" monster. The opponent's Effect Monsters cannot activate their effects this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Naturia
+Present in Sets:
+- Duelist Revolution

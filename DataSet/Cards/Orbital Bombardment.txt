@@ -1,0 +1,13 @@
+Orbital Bombardment
+Card Type: Trap Card
+
+Description: Send 1 "Alien" monster from your side of the field to the Graveyard to activate this card. Destroy 1 Spell or Trap Card on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Power of the Duelist

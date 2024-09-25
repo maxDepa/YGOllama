@@ -1,0 +1,13 @@
+Galaxy Queen's Light
+Card Type: Spell Card
+
+Description: Target 1 face-up Level 7 or higher monster you control; the Levels of all other face-up monsters you currently control become the current Level of that monster, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

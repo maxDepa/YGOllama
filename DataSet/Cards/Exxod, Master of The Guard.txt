@@ -1,0 +1,15 @@
+Exxod, Master of The Guard
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "sphinx" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 0
+Defence: 4000
+Archetype: Sphinx
+Present in Sets:
+- Structure Deck: Invincible Fortress
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

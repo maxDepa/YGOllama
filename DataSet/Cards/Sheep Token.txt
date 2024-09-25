@@ -1,0 +1,20 @@
+Sheep Token
+Card Type: Token
+
+Description: This card can be used as any Token.
+
+Type: Beast
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World
+- Legendary Collection 4: Joey's World
+- Legendary Collection 4: Joey's World
+- Legendary Collection 4: Joey's World
+- San Diego Comic-Con promotional cards
+- San Diego Comic-Con promotional cards
+- San Diego Comic-Con promotional cards
+- San Diego Comic-Con promotional cards

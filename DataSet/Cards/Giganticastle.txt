@@ -1,0 +1,14 @@
+Giganticastle
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+This card gains 200 ATK and DEF for each non-Tuner Synchro Material Monster used to Synchro Summon this card.
+
+Type: Rock
+Attribute: EARTH
+Level: 9
+Attack: 2900
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Shadow Specters

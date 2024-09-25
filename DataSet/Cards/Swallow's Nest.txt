@@ -1,0 +1,16 @@
+Swallow's Nest
+Card Type: Spell Card
+
+Description: Tribute 1 face-up Winged Beast-Type monster; Special Summon 1 Winged Beast-Type monster from your Deck with the same Level the Tributed monster had on the field.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Raging Battle
+- Wing Raiders

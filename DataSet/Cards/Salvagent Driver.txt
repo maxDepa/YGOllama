@@ -1,0 +1,17 @@
+Salvagent Driver
+Card Type: Effect Monster
+
+Description: If a Cyberse Link Monster you control is destroyed by an opponent's card effect while this card is in your hand or GY (except during the Damage Step): You can Special Summon this card. You can discard 1 Spell, then target 1 Cyberse monster in your GY; Special Summon it, but it cannot attack directly this turn. You can only use each effect of "Salvagent Driver" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

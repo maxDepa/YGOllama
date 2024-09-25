@@ -1,0 +1,15 @@
+Merry Melffys
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can target 1 face-up monster on the field; return it to the hand. If your opponent Normal or Special Summons a monster(s) (except during the Damage Step), or if an opponent's monster targets this card for an attack: You can return this card to the Extra Deck, then, you can Special Summon 1 "Melffy" Xyz Monster from your Extra Deck. You can only use each effect of "Merry Melffys" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Melffy
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

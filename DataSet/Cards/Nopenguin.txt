@@ -1,0 +1,13 @@
+Nopenguin
+Card Type: Effect Monster
+
+Description: During either player's turn, when an effect of a "Penguin" monster is activated: Special Summon this card from your Graveyard. You can only use this effect of "Nopenguin" once per turn. If a card would be returned from the field to the hand by the effect of a "Penguin" card, banish it instead.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1600
+Defence: 100
+Archetype: Penguin
+Present in Sets:
+- Primal Origin

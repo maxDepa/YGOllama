@@ -1,0 +1,13 @@
+Malefic Rainbow Dragon
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 "Rainbow Dragon" from your hand or Deck. There can only be 1 face-up "Malefic" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 0
+Archetype: Malefic
+Present in Sets:
+- Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack

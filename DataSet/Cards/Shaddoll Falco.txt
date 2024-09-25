@@ -1,0 +1,17 @@
+Shaddoll Falco
+Card Type: Tuner Monster
+
+Description: FLIP: You can target 1 "Shaddoll" monster in your GY, except "Shaddoll Falco"; Special Summon it in face-down Defense Position.
+If this card is sent to the GY by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 "Shaddoll Falco" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 1400
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

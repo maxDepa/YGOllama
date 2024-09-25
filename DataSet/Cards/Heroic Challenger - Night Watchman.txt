@@ -1,0 +1,15 @@
+Heroic Challenger - Night Watchman
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster your opponent controls, before damage calculation: You can destroy that monster.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 300
+Archetype: Heroic
+Present in Sets:
+- Abyss Rising
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

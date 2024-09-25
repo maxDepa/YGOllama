@@ -1,0 +1,13 @@
+G Golem Rock Hammer
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can discard 1 other Cyberse monster; reduce this card's Level by 2 until the end of this turn (even after it is Summoned/Set). You can Tribute this card; Special Summon 3 "G Golem Tokens" (Cyberse/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. You can only use each effect of "G Golem Rock Hammer" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 6
+Attack: 1800
+Defence: 2400
+Archetype: G Golem
+Present in Sets:
+- Battles of Legend: Crystal Revenge

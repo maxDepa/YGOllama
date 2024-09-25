@@ -1,0 +1,15 @@
+Crawling Dragon
+Card Type: Normal Monster
+
+Description: This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.
+
+Type: Dragon
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

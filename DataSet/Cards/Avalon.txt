@@ -1,0 +1,15 @@
+Avalon
+Card Type: Trap Card
+
+Description: Target 5 "Noble Knight" monsters in your Graveyard, including at least 1 "Artorigus" monster and at least 1 "Laundsallyn" monster; banish those targets, and if you do, destroy all cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Noble Knight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Noble Knights of the Round Table Box Set
+- Primal Origin

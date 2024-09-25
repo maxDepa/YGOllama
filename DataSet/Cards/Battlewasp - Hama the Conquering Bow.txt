@@ -1,0 +1,16 @@
+Battlewasp - Hama the Conquering Bow
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card was Synchro Summoned using a Synchro Monster as material, it can make a second attack during each Battle Phase. You can only use each of the following effects of "Battlewasp - Hama the Conquering Bow" once per turn.
+● When this card inflicts battle damage to your opponent: You can make all monsters your opponent currently controls lose 1000 ATK/DEF.
+● At the end of your Battle Phase, if your opponent has not taken any battle damage this Phase: You can inflict 300 damage to your opponent for each "Battlewasp" monster in your GY.
+
+Type: Insect
+Attribute: WIND
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: Battlewasp
+Present in Sets:
+- Battles of Legend: Hero's Revenge

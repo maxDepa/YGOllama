@@ -1,0 +1,18 @@
+Montage Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original Levels of the sent monsters x 300.
+
+Type: Dragon
+Attribute: EARTH
+Level: 8
+Attack: -1
+Defence: 0
+Archetype: //
+Present in Sets:
+- Collectible Tins Exclusive 2008
+- Duel Terminal 2
+- The Duelist Genesis
+- The Duelist Genesis
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

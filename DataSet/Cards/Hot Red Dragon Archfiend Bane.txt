@@ -1,0 +1,17 @@
+Hot Red Dragon Archfiend Bane
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 non-Tuner DARK Dragon Synchro Monster
+You can Tribute 1 monster, then target 1 "Red Dragon Archfiend" monster in your GY; Special Summon it. When this card inflicts battle damage to your opponent: You can Special Summon 2 Tuners with the same Level (1 from your Deck and 1 from your GY) in Defense Position. You can only use each effect of "Hot Red Dragon Archfiend Bane" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 3500
+Defence: 3000
+Archetype: Archfiend
+Present in Sets:
+- Duel Power
+- High-Speed Riders
+- Maximum Gold: El Dorado
+- Structure Deck: The Crimson King

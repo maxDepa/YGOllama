@@ -1,0 +1,15 @@
+Turmoil of Sea and Flames
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● Discard 1 WATER monster to the GY, then target 1 face-up monster your opponent controls; destroy it.
+● Destroy 1 FIRE monster in your hand, then you can draw 1 card.
+If only your opponent controls a monster: You can banish this card from your GY, then target 1 Level 7 or 8 WATER or FIRE monster in your GY; Special Summon it. You can only use each effect of "Turmoil of Sea and Flames" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

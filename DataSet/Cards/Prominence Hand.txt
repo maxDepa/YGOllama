@@ -1,0 +1,14 @@
+Prominence Hand
+Card Type: Effect Monster
+
+Description: If you control a "Magic Hand", "Fire Hand", or "Ice Hand", you can Special Summon this card (from your hand).
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

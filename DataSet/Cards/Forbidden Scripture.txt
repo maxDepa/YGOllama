@@ -1,0 +1,16 @@
+Forbidden Scripture
+Card Type: Spell Card
+
+Description: If a monster battles an opponent's monster, during damage calculation: Negate all other card effects on the field until the end of the Damage Step, also damage calculation for this battle uses each monster's original ATK and DEF.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Forbidden
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Primal Origin

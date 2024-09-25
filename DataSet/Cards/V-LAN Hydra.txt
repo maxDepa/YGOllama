@@ -1,0 +1,14 @@
+V-LAN Hydra
+Card Type: Link Monster
+
+Description: 2+ monsters, except Tokens
+Gains 300 ATK for each monster co-linked to this card. You can target 1 Link-3 or lower monster co-linked to this card; Tribute it, and if you do, Special Summon "V-LAN Tokens" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) equal to the Tributed monster's Link Rating, also you cannot Special Summon monsters with the same Link Rating as that targeted monster for the rest of this turn. You can only use this effect of "V-LAN Hydra" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dimension Force

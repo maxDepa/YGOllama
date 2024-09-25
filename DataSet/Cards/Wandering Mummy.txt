@@ -1,0 +1,14 @@
+Wandering Mummy
+Card Type: Effect Monster
+
+Description: You can flip this card into face-down Defense Position once per turn during your Main Phase. After you use this effect, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian

@@ -1,0 +1,14 @@
+Flower Cardian Zebra Grass
+Card Type: Effect Monster
+
+Description: While you control a Level 7 or lower "Flower Cardian" monster: You can Special Summon this card from your hand, also you cannot Normal or Special Summon monsters for the rest of this turn, except "Flower Cardian" monsters. If this card is Normal or Special Summoned: You can reveal any number of "Flower Cardian" monsters in your hand, shuffle them into the Deck, then draw the same number of cards.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 100
+Defence: 100
+Archetype: Flower Cardian
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

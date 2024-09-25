@@ -1,0 +1,14 @@
+Trap Hole of Spikes
+Card Type: Trap Card
+
+Description: When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Millennium Pack
+- OTS Tournament Pack 21

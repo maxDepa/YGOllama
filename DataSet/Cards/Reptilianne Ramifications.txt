@@ -1,0 +1,17 @@
+Reptilianne Ramifications
+Card Type: Spell Card
+
+Description: Send 1 card from your hand to the GY and activate 2 of these effects, in sequence;
+● Add 1 "Reptilianne" monster from your Deck to your hand.
+● Add 1 "Reptilianne" Spell/Trap from your Deck to your hand, except "Reptilianne Ramifications".
+● Change the ATK of 1 monster your opponent controls to 0.
+You can only activate 1 "Reptilianne Ramifications" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Burst of Destiny

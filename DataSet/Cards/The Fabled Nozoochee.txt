@@ -1,0 +1,16 @@
+The Fabled Nozoochee
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can discard 1 "Fabled" monster and Special Summon this card from your hand. When this card is Special Summoned this way, you can Special Summon 1 Level 2 or lower "Fabled" monster from your hand.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 1200
+Defence: 800
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

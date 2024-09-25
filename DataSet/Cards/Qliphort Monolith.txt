@@ -1,0 +1,20 @@
+Qliphort Monolith
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. Once per turn, during the End Phase, if you Tribute Summoned this turn: You can draw a number of cards equal to the number of "Qli" monsters you Tributed for Tribute Summons this turn.
+
+[ Monster Effect ] 
+''Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000
+Continue, ignoring this error? ...[ ]
+Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.''
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: Qli
+Present in Sets:
+- Pendulum Evolution
+- Secrets of Eternity

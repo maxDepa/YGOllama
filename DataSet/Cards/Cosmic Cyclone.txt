@@ -1,0 +1,27 @@
+Cosmic Cyclone
+Card Type: Spell Card
+
+Description: Pay 1000 LP, then target 1 Spell/Trap on the field; banish it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duel Devastator
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Structure Deck: Cyberse Link
+- Structure Deck: Legend of the Crystal Beasts
+- Structure Deck: Mechanized Madness
+- Tactical Masters
+- Tactical Masters
+- The Dark Illusion

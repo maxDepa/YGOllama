@@ -1,0 +1,14 @@
+Burner, Dragon Ruler of Sparks
+Card Type: Effect Monster
+
+Description: You can discard this card AND 1 Dragon-Type or FIRE monster; Special Summon 1 "Blaster, Dragon Ruler of Infernos" from your Deck. It cannot attack this turn. You can only use the effect of "Burner, Dragon Ruler of Sparks" once per turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 200
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy
+- Structure Deck: Fire Kings

@@ -1,0 +1,13 @@
+Nimble Manta
+Card Type: Effect Monster
+
+Description: When this card is sent from the field to the Graveyard by a card effect: You can Special Summon any number of "Nimble Manta" from your Deck.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 800
+Defence: 100
+Archetype: Nimble
+Present in Sets:
+- Galactic Overlord

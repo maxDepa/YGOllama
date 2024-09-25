@@ -1,0 +1,14 @@
+Anotherverse Gluttonia
+Card Type: Normal Monster
+
+Description: ''A massive, malevolent monstrosity, devourer of diverse dimensions, who molds multiple domains where only the mightiest dare dwell.''
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Championship Series 2023 prize card
+- Yu-Gi-Oh! Championship Series 2023 prize card

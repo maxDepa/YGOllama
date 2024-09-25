@@ -1,0 +1,13 @@
+Transaction Rollback
+Card Type: Trap Card
+
+Description: Pay half your LP, then target 1 Normal Trap in your opponent's GY, except "Transaction Rollback"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except "Transaction Rollback"; this effect becomes that card's activation effect. You can only use 1 "Transaction Rollback" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Maze of Millennia

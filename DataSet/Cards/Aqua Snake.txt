@@ -1,0 +1,12 @@
+Aqua Snake
+Card Type: Normal Monster
+
+Description: This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1050
+Defence: 900
+Archetype: //
+Present in Sets:

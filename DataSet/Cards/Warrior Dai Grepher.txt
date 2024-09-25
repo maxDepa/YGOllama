@@ -1,0 +1,20 @@
+Warrior Dai Grepher
+Card Type: Normal Monster
+
+Description: The warrior who can manipulate dragons. Nobody knows his mysterious past.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Grepher
+Present in Sets:
+- Dark Beginning 2
+- Demo Deck 2015
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel: Attack from the Deep
+- Starter Deck 2006
+- Starter Deck: Yugi Evolution
+- Super Starter: Space-Time Showdown

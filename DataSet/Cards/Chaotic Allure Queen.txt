@@ -1,0 +1,12 @@
+Chaotic Allure Queen
+Card Type: Effect Monster
+
+Description: You can discard 1 other LIGHT or DARK monster; Special Summon this card from your hand. You can target 1 monster in either GY; equip it to this card, and if you do, this card's name becomes that monster's (until the End Phase), then, if it is a LIGHT or DARK Monster Card, you can Special Summon 1 DARK "Allure Queen" monster from your Deck or GY. You can only use each effect of "Chaotic Allure Queen" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 7
+Attack: 1500
+Defence: 1500
+Archetype: Allure Queen
+Present in Sets:

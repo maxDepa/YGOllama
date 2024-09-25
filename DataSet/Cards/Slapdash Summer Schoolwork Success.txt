@@ -1,0 +1,12 @@
+Slapdash Summer Schoolwork Success
+Card Type: Trap Card
+
+Description: Activate this card by placing 5 Success Counters on it. If a monster(s) is Special Summoned from the Extra Deck, and/or a card(s) is sent from the Deck to the GY, by a Spell/Trap effect: Remove 1 Success Counter from this card, then, if there are no Success Counters on it, destroy it, and if you do, gain 4000 LP, then Set 1 "Schoolwork Success" Trap from your Deck or GY, then, if you have 1 or less cards in your Deck, you win the Duel.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Schoolwork Success
+Present in Sets:

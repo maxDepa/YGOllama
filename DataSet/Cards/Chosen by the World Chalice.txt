@@ -1,0 +1,14 @@
+Chosen by the World Chalice
+Card Type: Normal Monster
+
+Description: Inspired by the World Hero legends he heard as a boy, this crusader adds a piece to his armor from every Mekkstrosity he destroys. He has set out on a quest from Fairy Lee to recover the Seven World Legacies and save their world.
+
+Type: Psychic
+Attribute: FIRE
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: World Chalice
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

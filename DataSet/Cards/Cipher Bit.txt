@@ -1,0 +1,15 @@
+Cipher Bit
+Card Type: Trap Card
+
+Description: Target 1 "Galaxy-Eyes" or "Cipher" Xyz Monster you control; attach this card to it as an Xyz Material, and if you do, the next time it would be destroyed by battle or card effect this turn, it is not destroyed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cipher
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- Invasion: Vengeance

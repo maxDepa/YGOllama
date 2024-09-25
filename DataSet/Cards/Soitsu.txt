@@ -1,0 +1,14 @@
+Soitsu
+Card Type: Normal Monster
+
+Description: Apparently totally unreliable, he wonders if he has incredible potential.
+
+Type: Fairy
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

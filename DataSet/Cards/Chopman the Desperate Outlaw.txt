@@ -1,0 +1,15 @@
+Chopman the Desperate Outlaw
+Card Type: Effect Monster
+
+Description: When this card is Flip Summoned, you can equip 1 Equip Spell Card in your Graveyard to this card.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

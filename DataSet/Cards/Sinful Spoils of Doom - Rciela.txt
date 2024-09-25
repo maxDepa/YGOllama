@@ -1,0 +1,16 @@
+Sinful Spoils of Doom - Rciela
+Card Type: Spell Card
+
+Description: Target 1 Level 7 or higher Spellcaster monster you control; apply the following effects.
+● While face-up, that monster is unaffected by other monsters' effects this turn, and is sent to the GY during the Standby Phase of the next turn.
+● All monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, then if their ATK becomes 0 by this effect, destroy them.
+You can only activate 1 "Sinful Spoils of Doom - Rciela" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sinful Spoils
+Present in Sets:
+- Age of Overlord

@@ -1,0 +1,16 @@
+Heartfelt Appeal
+Card Type: Trap Card
+
+Description: When you take battle damage from your opponent's direct attack: Take control of the 1 face-up monster your opponent controls with the highest DEF, until your next End Phase. (If it's a tie, you get to choose.) Its effects are negated, also it cannot declare an attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave
+- Star Pack 2013
+- Star Pack 2013
+- Starter Deck: Xyz Symphony

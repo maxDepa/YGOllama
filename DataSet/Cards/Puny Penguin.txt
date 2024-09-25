@@ -1,0 +1,14 @@
+Puny Penguin
+Card Type: Effect Monster
+
+Description: When this card is sent from the field to the Graveyard after being flipped face-up: Target 1 "Penguin" monster in your Graveyard, except "Puny Penguin"; Special Summon that target in face-up Attack Position or face-down Defense Position.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 400
+Defence: 200
+Archetype: Penguin
+Present in Sets:
+- Abyss Rising
+- OTS Tournament Pack 17 (POR)

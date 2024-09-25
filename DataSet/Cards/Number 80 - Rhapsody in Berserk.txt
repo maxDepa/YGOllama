@@ -1,0 +1,15 @@
+Number 80: Rhapsody in Berserk
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 1200 ATK. You can detach 1 Xyz Material from this card, then target 1 card in your opponent's Graveyard; banish that target. You can use this effect of "Number 80: Rhapsody in Berserk" up to twice per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Primal Origin

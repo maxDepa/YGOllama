@@ -1,0 +1,12 @@
+Mechaleon
+Card Type: Normal Monster
+
+Description: A large chameleon with the ability to alter its body coloring. Using this ability, it can conceal itself in any location.
+
+Type: Reptile
+Attribute: WATER
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:

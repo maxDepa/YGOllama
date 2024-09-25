@@ -1,0 +1,17 @@
+Contact "C"
+Card Type: Effect Monster
+
+Description: When your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand to the opponent's field in Defense Position. This card's controller cannot Fusion, Synchro, Xyz, or Link Summon unless they use this card as material.
+
+Type: Insect
+Attribute: EARTH
+Level: 6
+Attack: 1500
+Defence: 2200
+Archetype: "C"
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Structure Deck: Legend of the Crystal Beasts

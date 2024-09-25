@@ -1,0 +1,19 @@
+Castle Walls
+Card Type: Trap Card
+
+Description: Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck 2006
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi

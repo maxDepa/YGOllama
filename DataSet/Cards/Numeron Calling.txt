@@ -1,0 +1,14 @@
+Numeron Calling
+Card Type: Spell Card
+
+Description: If "Numeron Network" is in your Field Zone and you control no monsters: Special Summon up to 4 "Numeron Gate" Xyz Monsters with different names from your Extra Deck, but banish them during the End Phase, also you can only Normal or Special Summon once for the rest of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Numeron
+Present in Sets:
+- Battles of Legend: Armageddon
+- Maximum Gold: El Dorado

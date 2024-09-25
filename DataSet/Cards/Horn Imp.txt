@@ -1,0 +1,12 @@
+Horn Imp
+Card Type: Normal Monster
+
+Description: A small fiend that dwells in the dark, its single horn makes it a formidable opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:

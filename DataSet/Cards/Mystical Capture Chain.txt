@@ -1,0 +1,12 @@
+Mystical Capture Chain
+Card Type: Normal Monster
+
+Description: A mystical chain that binds enemies, rendering them immobile.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 700
+Defence: 700
+Archetype: //
+Present in Sets:

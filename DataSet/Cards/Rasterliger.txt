@@ -1,0 +1,14 @@
+Rasterliger
+Card Type: Link Monster
+
+Description: 2+ monsters, except Tokens
+You can target 1 Link Monster in either GY; this card gains ATK equal to that target's ATK until the end of this turn. You can Tribute any number of your monsters this card points to; destroy an equal number of cards on the field. You can only use each effect of "Rasterliger" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Fists of the Gadgets

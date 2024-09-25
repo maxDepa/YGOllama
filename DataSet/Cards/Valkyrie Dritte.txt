@@ -1,0 +1,13 @@
+Valkyrie Dritte
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Valkyrie" card from your Deck to your hand, except "Valkyrie Dritte". You can only use this effect of "Valkyrie Dritte" once per turn. Gains 200 ATK for each of your opponent's banished monsters.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1600
+Archetype: Valkyrie
+Present in Sets:
+- Shadows in Valhalla

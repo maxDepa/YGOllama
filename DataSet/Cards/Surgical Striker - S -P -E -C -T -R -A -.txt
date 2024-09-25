@@ -1,0 +1,14 @@
+Surgical Striker - S.P.E.C.T.R.A.
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Link Monster
+(This card is always treated as a "Sky Striker Ace" card.)
+Must first be Link Summoned. Loses 3000 ATK while you have no Spells in your GY. When your opponent activates a card or effect as Chain Link 2 or higher (Quick Effect): You can banish 2 Spells from your hand and/or GY; negate that effect, then you can destroy 1 card your opponent controls. You can only use this effect of "Surgical Striker - S.P.E.C.T.R.A." once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:

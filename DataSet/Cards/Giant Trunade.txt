@@ -1,0 +1,30 @@
+Giant Trunade
+Card Type: Spell Card
+
+Description: Return all Spell and Trap Cards on the field to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Gold Series 2009
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Rise of the Dragon Lords Structure Deck
+- Spell Ruler
+- Spell Ruler
+- Spellcaster's Command Structure Deck
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Jaden Yuki
+- Starter Deck: Joey
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Warrior's Triumph
+- Structure Deck: Zombie Madness

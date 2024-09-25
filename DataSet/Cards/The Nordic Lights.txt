@@ -1,0 +1,16 @@
+The Nordic Lights
+Card Type: Spell Card
+
+Description: "Nordic" monsters on the field cannot be destroyed by battle. If this card on the field is destroyed: Destroy all "Nordic" monsters on the field.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok
+- Storm of Ragnarok

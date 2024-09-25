@@ -1,0 +1,15 @@
+Carboneddon
+Card Type: Effect Monster
+
+Description: If this card battles a FIRE monster, during damage calculation: This card gains 1000 ATK during damage calculation only. You can banish this card from your Graveyard; Special Summon, from your hand or Deck, 1 Level 7 or lower Dragon-Type Normal Monster in face-up Defense Position. You can only use this effect of "Carboneddon" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 600
+Archetype: Bonding
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Speed Duel GX: Midterm Paradox

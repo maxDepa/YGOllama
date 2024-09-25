@@ -1,0 +1,14 @@
+Number 94: Crystalzero
+Card Type: XYZ Monster
+
+Description: 2 Level 5 WATER monsters
+During either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; its ATK becomes half its current ATK until the end of your turn.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 2200
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Duelist Saga

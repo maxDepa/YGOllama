@@ -1,0 +1,22 @@
+Crystal Beast Ruby Carbuncle
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: You can Special Summon as many "Crystal Beast" Monster Cards as possible from your Spell & Trap Zones. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: Crystal Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Hobby League 5 participation card A
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

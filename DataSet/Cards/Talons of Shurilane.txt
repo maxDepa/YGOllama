@@ -1,0 +1,13 @@
+Talons of Shurilane
+Card Type: Effect Monster
+
+Description: If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of "Talons of Shurilane" once per turn. During your opponent's turn (Quick Effect): You can target 1 Fiend or Illusion monster you control, except "Talons of Shurilane"; return it to the hand, and if you do, Special Summon this card from your hand. When your opponent activates a card or effect that targets your card(s) (Quick Effect): You can target 1 monster your opponent controls; return this card from the field to the hand, and if you do, destroy that monster.
+
+Type: Illusion
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 2050
+Archetype: //
+Present in Sets:
+- Legacy of Destruction

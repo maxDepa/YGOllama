@@ -1,0 +1,15 @@
+Forbidden Apocrypha
+Card Type: Trap Card
+
+Description: Declare 1 monster card type (Fusion, Synchro, or Xyz); if 2 or more monsters of the declared type are on the field, make each player send all monsters of that type from their field to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Duel Devastator

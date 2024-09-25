@@ -1,0 +1,17 @@
+The Six Samurai - Irou
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. You must control a face-up "Six Samurai" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Strike of Neos

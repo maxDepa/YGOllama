@@ -1,0 +1,21 @@
+Despair from the Dark
+Card Type: Effect Monster
+
+Description: If this card is sent from your hand or Deck to your GY by an opponent's card effect: Special Summon this card.
+
+Type: Zombie
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Tournament Pack 6
+- Speed Duel: Trials of the Kingdom
+- Structure Deck: Zombie Madness

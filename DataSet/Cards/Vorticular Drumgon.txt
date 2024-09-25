@@ -1,0 +1,15 @@
+Vorticular Drumgon
+Card Type: Link Monster
+
+Description: 3 DARK Dragon monsters
+If this card is Special Summoned: You can draw 1 card. You can only use this effect of "Vorticular Drumgon" once per turn. If this effect resolves, the unused Monster Zones this card points to cannot be used for the rest of this turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

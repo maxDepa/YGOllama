@@ -1,0 +1,16 @@
+Beetron
+Card Type: Effect Monster
+
+Description: You can send 1 face-up Spell/Trap you control to the GY, then target 1 Level 4 or lower Insect monster in your GY; Special Summon that Insect monster in Defense Position. You can only use this effect of "Beetron" once per turn.
+
+Type: Insect
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 900
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Galactic Overlord
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 2

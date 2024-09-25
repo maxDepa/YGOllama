@@ -1,0 +1,17 @@
+Elemental HERO Electrum
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Avian" + "Elemental HERO Burstinatrix" + "Elemental HERO Clayman" + "Elemental HERO Bubbleman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also WIND, WATER, FIRE, and EARTH-Attribute. When this card is Fusion Summoned: Shuffle all banished cards into the Deck(s). This card gains 300 ATK for each monster your opponent controls that shares an Attribute with this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 10
+Attack: 2900
+Defence: 2600
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- McDonald's Promotional Cards 2
+- Ra Yellow Mega Pack
+- Speed Duel GX: Midterm Paradox

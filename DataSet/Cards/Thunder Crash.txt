@@ -1,0 +1,16 @@
+Thunder Crash
+Card Type: Spell Card
+
+Description: Destroy all monsters you control, and if you do, inflict 300 damage to your opponent for each monster destroyed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

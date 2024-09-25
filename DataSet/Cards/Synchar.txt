@@ -1,0 +1,12 @@
+Synchar
+Card Type: Normal Monster
+
+Description: This two-headed creature spits laser blasts at its enemies.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:

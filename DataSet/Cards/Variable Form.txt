@@ -1,0 +1,15 @@
+Variable Form
+Card Type: Trap Card
+
+Description: Once per turn, you can activate 1 of these effects.
+● Target 2 face-up "Inzektor" monsters you control; equip one to the other.
+● Target 1 "Inzektor" monster you control that is an Equip Card; Special Summon that target in face-up Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Order of Chaos

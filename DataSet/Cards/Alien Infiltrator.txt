@@ -1,0 +1,13 @@
+Alien Infiltrator
+Card Type: Effect Monster
+
+Description: Once per turn, this card can move to an adjacent (horizontal) unoccupied Monster Card Zone. If no Spell, Trap or Monster Card on your opponent's side of the field is in the same column as this card, it can attack your opponent directly.
+
+Type: Reptile
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: Alien
+Present in Sets:
+- Cyberdark Impact

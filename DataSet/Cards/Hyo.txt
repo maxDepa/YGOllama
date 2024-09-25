@@ -1,0 +1,12 @@
+Hyo
+Card Type: Normal Monster
+
+Description: None can survive the cold touch of this sub-zero warrior.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: //
+Present in Sets:

@@ -1,0 +1,12 @@
+Mabarrel
+Card Type: Normal Monster
+
+Description: This cannon-like creature fires eyeballs so fast they can't be seen.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:

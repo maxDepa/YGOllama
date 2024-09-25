@@ -1,0 +1,16 @@
+Starving Venom Predapower Fusion Dragon
+Card Type: Fusion Monster
+
+Description: 1 DARK Fusion Monster + 1 Fusion Monster
+(This card is always treated as a "Predaplant" card.)
+Once per turn, when a card or effect is activated (Quick Effect): You can Tribute 1 monster on either field with a Predator Counter, and if you do, negate the activation. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can target 1 DARK monster in your GY; Special Summon it. You can only use this effect of "Starving Venom Predapower Fusion Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 3600
+Defence: 2500
+Archetype: Predaplant
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

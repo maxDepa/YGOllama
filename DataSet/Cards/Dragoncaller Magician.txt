@@ -1,0 +1,18 @@
+Dragoncaller Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster on the field; it becomes Dragon-Type until the end of your opponent's turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+Once per turn: You can make this card become Dragon-Type until the end of this turn. A monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as Material gains this effect.
+● If this card battles a Dragon-Type monster, this card's ATK becomes double its original ATK during the Damage Step only.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 1000
+Archetype: Magician
+Present in Sets:
+- Raging Tempest

@@ -1,0 +1,15 @@
+Left Arm Offering
+Card Type: Spell Card
+
+Description: If you have 2 or more other cards in your hand: Banish your entire hand; add 1 Spell from your Deck to your hand. You cannot Set Spells/Traps during the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Rage of Ra
+- Millennium Pack
+- Structure Deck: Order of the Spellcasters

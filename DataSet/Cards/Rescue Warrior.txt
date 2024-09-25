@@ -1,0 +1,13 @@
+Rescue Warrior
+Card Type: Effect Monster
+
+Description: You take no Battle Damage from battles involving this card. If this card is destroyed by battle, select 1 face-up monster your opponent controls that you own, and take control of it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Starstrike Blast

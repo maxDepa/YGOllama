@@ -1,0 +1,15 @@
+Elephant Statue of Blessing
+Card Type: Effect Monster
+
+Description: When this card is sent from your hand to your Graveyard by an opponent's card effect: You gain 2000 Life Points.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Turbo Pack: Booster Eight

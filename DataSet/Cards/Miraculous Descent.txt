@@ -1,0 +1,18 @@
+Miraculous Descent
+Card Type: Trap Card
+
+Description: Target 1 of your banished Fairy monsters; Special Summon it. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice
+- Lost Sanctuary Structure Deck
+- Spirit Warriors
+- Structure Deck: Wave of Light

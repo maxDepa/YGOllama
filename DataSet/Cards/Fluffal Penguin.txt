@@ -1,0 +1,13 @@
+Fluffal Penguin
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can Special Summon 1 "Fluffal" monster from your hand, except "Fluffal Penguin". This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon of a "Frightfur" Fusion Monster: You can draw 2 cards, then discard 1 card. You can only use this effect of "Fluffal Penguin" once per turn.
+
+Type: Fairy
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1100
+Archetype: Fluffal
+Present in Sets:
+- Fusion Enforcers

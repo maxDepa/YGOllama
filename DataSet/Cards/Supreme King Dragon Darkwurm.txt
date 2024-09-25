@@ -1,0 +1,20 @@
+Supreme King Dragon Darkwurm
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if you control no monsters: You can place 1 "Supreme King Gate" Pendulum Monster from your Deck in your Pendulum Zone, also you cannot Pendulum Summon monsters for the rest of this turn, except DARK monsters.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can add 1 "Supreme King Gate" Pendulum Monster from your Deck to your hand. If this card is in your GY and you control no monsters: You can Special Summon this card. You can only use each monster effect of "Supreme King Dragon Darkwurm" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Supreme King
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Maximum Crisis
+- Maze of Millennia
+- OTS Tournament Pack 23

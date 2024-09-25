@@ -1,0 +1,13 @@
+Rose Princess
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). If Summoned this way, treat this card as a Tuner. You can only Special Summon "Rose Princess" once per turn this way. You can discard this card; add 1 "White Rose Cloister" from your Deck to your hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- King's Court

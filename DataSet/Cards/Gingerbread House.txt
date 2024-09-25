@@ -1,0 +1,14 @@
+Gingerbread House
+Card Type: Spell Card
+
+Description: During your opponent's Standby Phase: You can have as many monsters they control as possible gain 600 ATK, then destroy as many monsters they control as possible with 2500 or more ATK, and if you do, gain LP equal to the number of monsters destroyed x 500. (The ATK gain remains even if this card leaves the field.) You can only use this effect of "Gingerbread House" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge

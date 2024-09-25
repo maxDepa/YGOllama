@@ -1,0 +1,17 @@
+Plague Wolf
+Card Type: Effect Monster
+
+Description: Once per turn: You can make this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this effect was activated: Destroy this card.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Lair of Darkness
+- Zombie World Structure Deck

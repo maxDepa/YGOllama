@@ -1,0 +1,14 @@
+Protocol Gardna
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+Your opponent's monsters cannot target monsters this card points to for attacks. The first time this card would be destroyed by battle each turn, it is not destroyed, and you take no battle damage from that battle.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Chaos Impact

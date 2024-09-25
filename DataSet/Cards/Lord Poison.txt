@@ -1,0 +1,20 @@
+Lord Poison
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except "Lord Poison"; Special Summon that target.
+
+Type: Plant
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 2
+- Gold Series 2009
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack

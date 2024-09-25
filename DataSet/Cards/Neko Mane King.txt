@@ -1,0 +1,16 @@
+Neko Mane King
+Card Type: Effect Monster
+
+Description: During your opponent's turn, when this card in your possession is sent to your Graveyard by an opponent's card effect: It becomes the End Phase of this turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magician's Force
+- OTS Tournament Pack 20

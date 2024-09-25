@@ -1,0 +1,16 @@
+Cure Mermaid
+Card Type: Effect Monster
+
+Description: As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

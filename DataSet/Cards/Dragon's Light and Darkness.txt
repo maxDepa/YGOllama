@@ -1,0 +1,16 @@
+Dragon's Light and Darkness
+Card Type: Spell Card
+
+Description: Activate 1 of these effects (but you can only use each effect of "Dragon's Light and Darkness" once per turn);
+● Shuffle 1 Level 8 Dragon monster from your hand into the Deck and add 1 Level 8 Dragon monster with a different Attribute from your Deck to your hand.
+● Target 1 Dragon monster you control; it gains ATK equal to its Level x 200.
+● When a card or effect is activated that targets a Dragon monster you control: Negate that effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Light and Darkness Dragon
+Present in Sets:
+- The Infinite Forbidden

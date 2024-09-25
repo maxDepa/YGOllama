@@ -1,0 +1,13 @@
+Chronomaly Cabrera Trebuchet
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 other "Chronomaly" monster, then target 1 face-up monster your opponent controls; its ATK becomes 0 until the End Phase.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: Chronomaly
+Present in Sets:
+- Number Hunters

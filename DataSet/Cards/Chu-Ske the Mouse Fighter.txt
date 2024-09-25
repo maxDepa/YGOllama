@@ -1,0 +1,14 @@
+Chu-Ske the Mouse Fighter
+Card Type: Normal Monster
+
+Description: A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

@@ -1,0 +1,15 @@
+Beast Machine King Barbaros Ür
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 Machine-Type monster and 1 Beast-Warrior-Type monster from your hand, field, and/or Graveyard. If this card attacks or is attacked, your opponent takes no battle damage.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3800
+Defence: 1200
+Archetype: Barbaros
+Present in Sets:
+- Ancient Prophecy
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants

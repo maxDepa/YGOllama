@@ -1,0 +1,14 @@
+Kozmo Strawman
+Card Type: Effect Monster
+
+Description: During either player's turn: You can banish this card; Special Summon 1 Level 3 or higher "Kozmo" monster from your hand. You can only use this effect of "Kozmo Strawman" once per turn. Once per turn: You can pay 500 LP, then target 1 of your banished "Kozmo" monsters; Special Summon it, but its effects are negated, also destroy it during the End Phase.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 2
+Attack: 500
+Defence: 1800
+Archetype: Kozmo
+Present in Sets:
+- Dimension of Chaos
+- Premium Gold: Infinite Gold

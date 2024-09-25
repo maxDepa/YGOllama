@@ -1,0 +1,13 @@
+Fiend Kraken
+Card Type: Normal Monster
+
+Description: A giant squid that drags its enemies to a watery grave.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Speed Duel: Streets of Battle City

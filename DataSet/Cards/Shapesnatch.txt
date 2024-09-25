@@ -1,0 +1,13 @@
+Shapesnatch
+Card Type: Normal Monster
+
+Description: A bow tie with horrible power, it attacks an opponent by controlling others.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1200
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Pharaonic Guardian

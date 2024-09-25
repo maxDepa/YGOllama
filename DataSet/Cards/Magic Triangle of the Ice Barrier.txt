@@ -1,0 +1,14 @@
+Magic Triangle of the Ice Barrier
+Card Type: Spell Card
+
+Description: Reveal 3 "Ice Barrier" monsters with different names in your hand to select 1 card your opponent controls. Destroy the opponent's card and Special Summon 1 "Ice Barrier" monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ice Barrier
+Present in Sets:
+- Structure Deck: Freezing Chains
+- The Shining Darkness

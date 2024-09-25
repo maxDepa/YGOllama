@@ -1,0 +1,20 @@
+Mysterious Guard
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 face-up monster on the field, and if you control a face-up Warrior-Type monster, you can target 1 additional face-up monster on the field; return the first target to the top of the Deck, then return the additional target (if any) to the hand if you still control a face-up Warrior-Type monster.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game One
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box

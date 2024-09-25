@@ -1,0 +1,14 @@
+Dragon Revival Rhapsody
+Card Type: Spell Card
+
+Description: If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them. Your opponent takes no damage this turn. You can only activate 1 "Dragon Revival Rhapsody" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba
+- Legendary Collection Kaiba Mega Pack

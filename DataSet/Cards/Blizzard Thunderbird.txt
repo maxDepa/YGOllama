@@ -1,0 +1,14 @@
+Blizzard Thunderbird
+Card Type: Effect Monster
+
+Description: You can discard 1 card; Special Summon 2 WATER Winged Beast-Type monsters, 1 from your hand and 1 from your Graveyard, except "Blizzard Thunderbird", then return this card from the field to the hand. You can only use this effect of "Blizzard Thunderbird" once per turn.
+
+Type: Winged Beast
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin

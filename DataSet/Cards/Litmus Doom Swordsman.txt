@@ -1,0 +1,13 @@
+Litmus Doom Swordsman
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Litmus Doom Ritual". It is unaffected by Trap effects and cannot be destroyed by battle. Gains 3000 ATK/DEF while a Trap is on the field. If this Ritual Summoned card in its owner's control is destroyed by your opponent's card: You can target 1 Trap in either GY; Set it to your Spell & Trap Zone.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge

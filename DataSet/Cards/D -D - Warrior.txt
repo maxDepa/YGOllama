@@ -1,0 +1,16 @@
+D.D. Warrior
+Card Type: Effect Monster
+
+Description: After damage calculation, when this card battles a monster: Banish that monster, also banish this card.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: D.D.
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- The Dark Emperor Structure Deck
+- Tournament Pack 7
+- Warriors' Strike Structure Deck

@@ -1,0 +1,17 @@
+Hecatrice
+Card Type: Effect Monster
+
+Description: You can discard this card to the GY; add 1 "Valhalla, Hall of the Fallen" from your Deck to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Lost Sanctuary Structure Deck
+- OTS Tournament Pack 3
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)
+- Structure Deck: Wave of Light

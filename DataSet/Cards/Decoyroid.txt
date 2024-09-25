@@ -1,0 +1,13 @@
+Decoyroid
+Card Type: Effect Monster
+
+Description: While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except "Decoyroid".
+
+Type: Machine
+Attribute: WIND
+Level: 2
+Attack: 300
+Defence: 500
+Archetype: Roid
+Present in Sets:
+- Power of the Duelist

@@ -1,0 +1,15 @@
+Graydle Combat
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, that targets exactly 1 "Graydle" monster you control (and no other cards) is activated: Activate 1 of these effects;
+● The activated effect becomes "Destroy that monster".
+● Negate the activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Graydle
+Present in Sets:
+- Invasion: Vengeance

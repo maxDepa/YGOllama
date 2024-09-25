@@ -1,0 +1,15 @@
+Power Tool Mecha Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+During your turn, when an Equip Spell Card(s) is equipped to this card: You can draw 1 card. You can only use this effect of "Power Tool Mecha Dragon" once per turn. Once per turn, during either player's turn: You can target 1 appropriate face-up Equip Card on the field; equip that target to this card.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2300
+Defence: 2500
+Archetype: Power Tool
+Present in Sets:
+- OTS Tournament Pack 22
+- Premium Gold

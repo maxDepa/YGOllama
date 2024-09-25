@@ -1,0 +1,15 @@
+Meda Bat
+Card Type: Normal Monster
+
+Description: An eyeball fiend created by a servant of the wicked, it uses "Dark Blasts" to blow away its enemies.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

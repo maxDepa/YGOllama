@@ -1,0 +1,16 @@
+Dark Deal
+Card Type: Trap Card
+
+Description: When your opponent activates a Normal Spell Card: Pay 1000 Life Points; the effect of that Normal Spell Card becomes "Your opponent discards 1 random card".
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Speed Duel GX: Duelists of Shadows

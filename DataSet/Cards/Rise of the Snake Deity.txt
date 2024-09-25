@@ -1,0 +1,16 @@
+Rise of the Snake Deity
+Card Type: Trap Card
+
+Description: When a face-up "Vennominon the King of Poisonous Snakes" you control is destroyed, except by battle: Special Summon 1 "Vennominaga the Deity of Poisonous Snakes" from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Tactical Evolution

@@ -1,0 +1,14 @@
+Rose Bell of Revelation
+Card Type: Spell Card
+
+Description: Add 1 Plant monster with 2400 or more ATK from your Deck to your hand. You can banish this card from your GY; Special Summon 1 Plant monster with 2400 or more ATK from your hand. You can only use 1 "Rose Bell of Revelation" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Overload
+- Legendary Duelists: Season 2

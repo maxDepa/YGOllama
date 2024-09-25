@@ -1,0 +1,18 @@
+Stop Defense
+Card Type: Spell Card
+
+Description: Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Pegasus

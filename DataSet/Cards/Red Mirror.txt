@@ -1,0 +1,15 @@
+Red Mirror
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can send this card from your hand to the Graveyard, then target 1 FIRE Fiend-Type monster in your Graveyard, except "Red Mirror"; add it to your hand. If you Synchro Summon while this card is in your Graveyard (except during the Damage Step, or the turn this card was sent to the Graveyard): You can add this card to your hand. You can only use each effect of "Red Mirror" once per turn.
+
+Type: Fiend
+Attribute: FIRE
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- The Dark Illusion

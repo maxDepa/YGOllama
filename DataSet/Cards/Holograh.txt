@@ -1,0 +1,12 @@
+Holograh
+Card Type: Normal Monster
+
+Description: This machine generates illusions that leave an enemy wide open to attacks.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 700
+Archetype: //
+Present in Sets:

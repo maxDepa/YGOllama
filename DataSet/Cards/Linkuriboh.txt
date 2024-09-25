@@ -1,0 +1,18 @@
+Linkuriboh
+Card Type: Link Monster
+
+Description: 1 Level 1 Monster
+When an opponent's monster declares an attack: You can Tribute this card; change that opponent's monster's ATK to 0, until the end of this turn. If this card is in your GY (Quick Effect): You can Tribute 1 Level 1 monster; Special Summon this card. You can only use this effect of "Linkuriboh" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 300
+Defence: 0
+Archetype: Kuriboh
+Present in Sets:
+- Duel Power
+- Maximum Gold
+- Starter Deck: Codebreaker
+- Weekly Shonen Jump November 2017 membership promotional card
+- Yu-Gi-Oh! Advent Calendar (2019)

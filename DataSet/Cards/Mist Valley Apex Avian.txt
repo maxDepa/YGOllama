@@ -1,0 +1,16 @@
+Mist Valley Apex Avian
+Card Type: Effect Monster
+
+Description: Once per chain, when a card or effect is activated (Quick Effect): You can target 1 "Mist Valley" card you control; return that target to the hand, and if you do, negate the activation, and if you do that, destroy it.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 7
+Attack: 2700
+Defence: 2000
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Shadows in Valhalla

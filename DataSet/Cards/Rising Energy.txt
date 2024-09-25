@@ -1,0 +1,22 @@
+Rising Energy
+Card Type: Trap Card
+
+Description: Discard 1 card, then target 1 face-up monster on the field; that target gains 1500 ATK until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Demo Pack
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yugi Reloaded

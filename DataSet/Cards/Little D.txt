@@ -1,0 +1,13 @@
+Little D
+Card Type: Normal Monster
+
+Description: Yo, this tyrannosaurus tot's got a terrible temper.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

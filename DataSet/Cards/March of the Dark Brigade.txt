@@ -1,0 +1,13 @@
+March of the Dark Brigade
+Card Type: Spell Card
+
+Description: Target 1 "Lightsworn" monster in your GY that has a Level; add it to your hand, then banish a number of cards from the top of your Deck equal to the original Level of that monster in your hand. You can only activate 1 "March of the Dark Brigade" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Code of the Duelist

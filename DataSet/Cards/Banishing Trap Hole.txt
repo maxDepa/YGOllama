@@ -1,0 +1,13 @@
+Banishing Trap Hole
+Card Type: Trap Card
+
+Description: When your opponent Summons a monster(s) with 1500 or less ATK: Banish that monster(s) with 1500 or less ATK, face-down.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trap Hole
+Present in Sets:
+- Duelist Nexus

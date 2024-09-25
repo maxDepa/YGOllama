@@ -1,0 +1,15 @@
+Spikebot
+Card Type: Normal Monster
+
+Description: A mechanical soldier created by a wicked sorcerer, it attacks with the two steel balls attached to its arms.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1800
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

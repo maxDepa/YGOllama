@@ -1,0 +1,21 @@
+Ghost Reaper & Winter Cherries
+Card Type: Tuner Monster
+
+Description: If your opponent controls more monsters than you do (Quick Effect): You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of "Ghost Reaper & Winter Cherries" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- 2022 Tin of the Pharaoh's Gods
+- Duel Devastator
+- Duel Power
+- Legendary Collection Kaiba Mega Pack
+- Maximum Gold
+- OTS Tournament Pack 20
+- Shining Victories
+- Yu-Gi-Oh! Advent Calendar (2018)

@@ -1,0 +1,13 @@
+Fire King Sky Burn
+Card Type: Spell Card
+
+Description: Target an equal number of "Fire King" monsters you control and cards your opponent controls; destroy them. If a "Fire King" card(s) you control would be destroyed by card effect, you can banish this card from your GY instead. You can only use 1 "Fire King Sky Burn" effect per turn, and only once that turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire King
+Present in Sets:
+- Structure Deck: Fire Kings

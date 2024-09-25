@@ -1,0 +1,15 @@
+Flower Wolf
+Card Type: Fusion Monster
+
+Description: "Silver Fang" + "Darkworld Thorns"
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

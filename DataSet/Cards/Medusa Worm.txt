@@ -1,0 +1,15 @@
+Medusa Worm
+Card Type: Effect Monster
+
+Description: Once per turn, you can flip this card into face-down Defense Position. When this card is Flip Summoned, destroy 1 monster on your opponent's side of the field.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 600
+Archetype: Worm
+Present in Sets:
+- Dark Revelation Volume 3
+- Structure Deck: Invincible Fortress
+- The Lost Millennium

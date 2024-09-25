@@ -1,0 +1,21 @@
+X-Head Cannon
+Card Type: Normal Monster
+
+Description: A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: ABC
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Revelation Volume 1
+- Duelist Pack: Chazz Princeton
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack
+- Magician's Force
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Seto Kaiba

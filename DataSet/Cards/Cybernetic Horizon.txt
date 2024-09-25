@@ -1,0 +1,14 @@
+Cybernetic Horizon
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Cyberdark" card.)
+Send 2 Dragon and/or Machine "Cyber" monsters with different Attributes to the GY, 1 each from your hand and Deck; add 1 Dragon or Machine "Cyber" monster from your Deck to your hand, and if you do, send 1 Machine "Cyber" Fusion Monster from your Extra Deck to the GY. You can only activate 1 "Cybernetic Horizon" per turn. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Machine monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyberdark
+Present in Sets:
+- Structure Deck: Cyber Strike

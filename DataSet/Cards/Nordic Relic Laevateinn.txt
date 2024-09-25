@@ -1,0 +1,19 @@
+Nordic Relic Laevateinn
+Card Type: Trap Card
+
+Description: Target 1 face-up monster on the field that destroyed a monster by battle this turn; destroy it. Cards and effects cannot be activated in response to this card's activation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nordic
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

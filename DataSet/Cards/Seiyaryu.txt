@@ -1,0 +1,17 @@
+Seiyaryu
+Card Type: Normal Monster
+
+Description: A mystical dragon that burns away the unworthy with its mystic flames.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- Legendary Collection 4: Joey's World Mega Pack
+- Turbo Pack: Booster Seven
+- Yu-Gi-Oh! Dark Duel Stories promotional cards
+- Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards

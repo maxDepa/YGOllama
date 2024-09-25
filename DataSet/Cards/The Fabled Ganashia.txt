@@ -1,0 +1,16 @@
+The Fabled Ganashia
+Card Type: Effect Monster
+
+Description: When this card is discarded to the Graveyard, Special Summon it. If this card is Special Summoned this way, it gains 200 ATK and is removed from play when it is removed from the field.
+
+Type: Beast
+Attribute: LIGHT
+Level: 3
+Attack: 1600
+Defence: 1000
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

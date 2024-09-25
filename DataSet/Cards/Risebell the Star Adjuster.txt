@@ -1,0 +1,15 @@
+Risebell the Star Adjuster
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: You can target 1 face-up monster on the field; increase its Level by up to 3 until the end of this turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- The Grand Creators

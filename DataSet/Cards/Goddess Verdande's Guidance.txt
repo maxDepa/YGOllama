@@ -1,0 +1,13 @@
+Goddess Verdande's Guidance
+Card Type: Spell Card
+
+Description: When this card is activated: If all monsters you control are "Valkyrie" monsters (min. 1), you can add 1 "Goddess Urd's Verdict" from your Deck to your hand. Once per turn: You can declare 1 type of card (Monster, Spell, or Trap); reveal the top card of your opponent's Deck and if it was the declared type, they Set it to their field. Otherwise, they add it to their hand. You can only activate 1 "Goddess Verdande's Guidance" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Valkyrie
+Present in Sets:
+- Shadows in Valhalla

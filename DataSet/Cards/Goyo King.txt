@@ -1,0 +1,16 @@
+Goyo King
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Synchro Monsters
+When this card declares an attack on an opponent's monster: This card gains 400 ATK for each EARTH Warrior-Type Synchro Monster you control, until the end of the Damage Step. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can activate 1 of these effects;
+● Special Summon that monster to your side of the field.
+● Take control of 1 face-up monster your opponent controls.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Breakers of Shadow

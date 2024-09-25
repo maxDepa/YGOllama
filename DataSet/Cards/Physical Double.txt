@@ -1,0 +1,15 @@
+Physical Double
+Card Type: Trap Card
+
+Description: During your opponent's turn: Target 1 face-up monster your opponent controls; Special Summon 1 "Mirage Token" with the same Level, Type, Attribute, ATK, and DEF as that target. Destroy this Token during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Magician's Force

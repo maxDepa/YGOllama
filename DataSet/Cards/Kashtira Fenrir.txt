@@ -1,0 +1,15 @@
+Kashtira Fenrir
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Kashtira Fenrir" once per turn. During your Main Phase: You can add 1 "Kashtira" monster from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can target 1 face-up card your opponent controls; banish it, face-down.
+
+Type: Psychic
+Attribute: EARTH
+Level: 7
+Attack: 2400
+Defence: 2400
+Archetype: Kashtira
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast
+- OTS Tournament Pack 21

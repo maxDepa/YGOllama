@@ -1,0 +1,21 @@
+Dingirsu, the Orcust of the Evening Star
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+You can only Special Summon "Dingirsu, the Orcust of the Evening Star(s)" once per turn. You can also Xyz Summon this card by using an "Orcust" Link Monster you control as material. If a card(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. If this card is Special Summoned: You can activate 1 of these effects;
+● Send 1 card your opponent controls to the GY.
+● Attach 1 of your banished Machine monsters to this card as material.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 2100
+Archetype: Orcust
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Dark Neostorm
+- Duel Overload
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)

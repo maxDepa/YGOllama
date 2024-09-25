@@ -1,0 +1,13 @@
+Missing Force
+Card Type: Effect Monster
+
+Description: If you control no other monsters: You can Tribute this card to target 1 monster your opponent controls; take control of that target until the End Phase. You cannot Special Summon or conduct your Battle Phase during the turn you activate this effect.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Abyss Rising

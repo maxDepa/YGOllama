@@ -1,0 +1,13 @@
+Orcustrated Release
+Card Type: Trap Card
+
+Description: Tribute 2 Machine monsters, then target 1 monster in your GY; Special Summon it. If your opponent controls a Link Monster, you can target 2 monsters, instead. You can only activate 1 "Orcustrated Release" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- Savage Strike

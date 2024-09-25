@@ -1,0 +1,20 @@
+Number S39: Utopia the Lightning
+Card Type: XYZ Monster
+
+Description: 3 Level 5 LIGHT monsters
+You can also Xyz Summon this card by using a Rank 4 "Utopia" monster you control as material. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. Once per Chain, during damage calculation, if this card battles an opponent's monster while this card has a "Utopia" Xyz Monster as material (Quick Effect): You can detach 2 materials from this card; this card's ATK becomes 5000 during that damage calculation only.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2500
+Defence: 2000
+Archetype: Utopia
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Legendary Collection Kaiba Mega Pack
+- Maximum Gold
+- OTS Tournament Pack 4
+- The Dark Illusion: Special Edition
+- Yu-Gi-Oh! ZEXAL Volume 8 promotional card

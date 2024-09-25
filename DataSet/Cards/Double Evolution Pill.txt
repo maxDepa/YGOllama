@@ -1,0 +1,15 @@
+Double Evolution Pill
+Card Type: Spell Card
+
+Description: Banish 1 Dinosaur monster and 1 non-Dinosaur monster from your hand and/or GY; Special Summon 1 Level 7 or higher Dinosaur monster from your hand or Deck, ignoring its Summoning conditions. You can only activate 1 "Double Evolution Pill" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Duel Overload
+- Wild Survivors

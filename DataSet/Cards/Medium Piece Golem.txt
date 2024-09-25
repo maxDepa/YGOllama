@@ -1,0 +1,13 @@
+Medium Piece Golem
+Card Type: Effect Monster
+
+Description: When this card is Summoned, if you control a "Big Piece Golem", you can Special Summon 1 "Small Piece Golem" from your Deck. That monster's effect is negated while it is face-up on the field.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

@@ -1,0 +1,16 @@
+Laval Dual Slasher
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner FIRE monsters
+This card gains effects based on the number of "Laval" monsters in your Graveyard:
+● 2+: Once per turn, if this card attacks a Defense Position monster, it can attack once again in a row.
+● 3+: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2400
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Photon Shockwave

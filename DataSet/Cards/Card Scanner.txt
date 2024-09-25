@@ -1,0 +1,13 @@
+Card Scanner
+Card Type: Spell Card
+
+Description: Once per turn: You can declare 1 card type (Monster, Spell, or Trap); both players reveal the bottom card of their Decks, and if it was the declared card type, they add it to their hand. Otherwise, they place it on top of their Deck. If this face-up card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can make your opponent place 1 card from their hand on the bottom of the Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Age of Overlord

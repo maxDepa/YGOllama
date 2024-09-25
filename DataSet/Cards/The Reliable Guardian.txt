@@ -1,0 +1,19 @@
+The Reliable Guardian
+Card Type: Spell Card
+
+Description: Increase 1 face-up monster's DEF by 700 points until the end of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Joey
+- Starter Deck: Yugi Evolution

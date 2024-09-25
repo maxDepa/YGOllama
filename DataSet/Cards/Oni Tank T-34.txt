@@ -1,0 +1,15 @@
+Oni Tank T-34
+Card Type: Normal Monster
+
+Description: An armored tank possessed by a fiend that will pursue enemies until they're crushed.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

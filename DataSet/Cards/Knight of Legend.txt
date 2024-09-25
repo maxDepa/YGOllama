@@ -1,0 +1,17 @@
+Knight of Legend
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+Activate this Skill during your Main Phase. Each turn, 1 "Gaia The Fierce Knight" you Normal Summon can be Summoned without Tributing. Apply the following Skills while you control a "Gaia The Fierce Knight" monster or a "Gaia the Dragon Champion" monster.
+● If it attacks a Defense Position monster, inflict piercing battle damage. Once per turn, if it inflicts battle damage with this Skill, draw 2 cards, then discard 1 card.
+● You cannot activate Set cards in the Spell & Trap Zone.
+
+Type: Yami Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Match of the Millennium

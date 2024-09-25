@@ -1,0 +1,14 @@
+Geomathmech Magma
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When this card destroys a monster by battle: You can target up to 2 cards your opponent controls; destroy them. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 "Mathmech" Spell/Trap from your Deck to your hand. You can only use each effect of "Geomathmech Magma" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 8
+Attack: 2500
+Defence: 0
+Archetype: Mathmech
+Present in Sets:
+- Mystic Fighters

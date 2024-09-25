@@ -1,0 +1,19 @@
+Super Quantum Red Layer
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Super Quantum Red Layer" once per turn.
+● When this card is Normal or Special Summoned: You can target 1 "Super Quant" card in your GY; add it to your hand.
+● If this card is sent to the GY: You can target 1 "Super Quant" monster in your GY, except "Super Quantum Red Layer"; Special Summon it, but it cannot activate its effects.
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 800
+Archetype: Super Quant
+Present in Sets:
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Wing Raiders

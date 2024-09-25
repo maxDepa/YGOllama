@@ -1,0 +1,16 @@
+White Aura Bihamut
+Card Type: Synchro Monster
+
+Description: 1 Tuner Synchro Monster + 1+ non-Tuner monsters
+During your turn, when this card is Synchro Summoned: You can Special Summon 1 "Divine Dragon Token" (Fish/WATER/Level 10/ATK 3300/DEF 3000) in Defense Position. Once per opponent's turn, while you control no Tokens (Quick Effect): You can Special Summon 1 "Divine Dragon Token". If this card you control is destroyed by an opponent's card effect and sent to your GY, while you control a "Divine Dragon Token": You can Special Summon this card in Defense position.
+
+Type: Fish
+Attribute: WATER
+Level: 10
+Attack: 3300
+Defence: 3000
+Archetype: White
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Legendary Duelists: Rage of Ra
+- Yu-Gi-Oh! ARC-V Volume 4 promotional card

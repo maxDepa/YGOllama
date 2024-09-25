@@ -1,0 +1,16 @@
+Gemini Ablation
+Card Type: Trap Card
+
+Description: During the Main Phase: You can discard 1 card, then activate 1 of these effects;
+● Special Summon 1 Gemini monster from your Deck as an Effect Monster that gains its effects.
+● Tribute 1 Gemini monster, and if you do, Special Summon 1 FIRE Warrior monster from your hand or Deck. Then, if you Tributed a Gemini monster that was treated as an Effect Monster and had gained its effects, you can also destroy 1 card on the field.
+You can only use this effect of "Gemini Ablation" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Toon Chaos

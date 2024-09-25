@@ -1,0 +1,14 @@
+Atomic Firefly
+Card Type: Effect Monster
+
+Description: When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage.
+
+Type: Insect
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 200
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

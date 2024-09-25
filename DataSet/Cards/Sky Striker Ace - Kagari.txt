@@ -1,0 +1,20 @@
+Sky Striker Ace - Kagari
+Card Type: Link Monster
+
+Description: 1 non-FIRE "Sky Striker Ace" monster
+If this card is Special Summoned: You can target 1 "Sky Striker" Spell in your GY; add it to your hand. Gains 100 ATK for each Spell in your GY. You can only Special Summon "Sky Striker Ace - Kagari(s)" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors
+- Duel Overload
+- Magnificent Mavens
+- Maximum Gold
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)

@@ -1,0 +1,20 @@
+Dark Eruption
+Card Type: Spell Card
+
+Description: Target 1 DARK monster with 1500 or less ATK in your GY; add that target to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Gates of the Underworld Structure Deck
+- Legendary Hero Decks
+- Pendulum Domination Structure Deck
+- Phantom Darkness
+- Speed Duel Starter Decks: Twisted Nightmares
+- Synchron Extreme Structure Deck
+- Turbo Pack: Booster Three

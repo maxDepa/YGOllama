@@ -1,0 +1,14 @@
+Ultimate Crystal Rainbow Dragon Overdrive
+Card Type: Fusion Monster
+
+Description: 1 "Ultimate Crystal" monster + 7 "Crystal Beast" monsters
+Must be Special Summoned (from your Extra Deck) during a Duel you Special Summoned an "Ultimate Crystal" monster, by banishing the above monsters from your field and/or GY. While 7 or more of your "Crystal Beast" monsters with different names are banished, this card gains 7000 ATK. If this card has not battled this turn (Quick Effect): You can Tribute this card; shuffle as many cards on the field as possible into the Deck, and if you do, Special Summon any number of your banished "Crystal Beast" monsters.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+Attack: 4000
+Defence: 0
+Archetype: Crystal
+Present in Sets:
+- Structure Deck: Legend of the Crystal Beasts

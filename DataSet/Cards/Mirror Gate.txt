@@ -1,0 +1,16 @@
+Mirror Gate
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack targeting a face-up "Elemental HERO" monster you control: Switch control of the opponent's attacking monster with the targeted monster you control, then calculate damage. Control of both monsters switches back during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Tactical Evolution
+- Tactical Evolution

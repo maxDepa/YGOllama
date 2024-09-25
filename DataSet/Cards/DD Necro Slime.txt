@@ -1,0 +1,17 @@
+D/D Necro Slime
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can Fusion Summon 1 "D/D/D" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your Graveyard, including this card. You can only use this effect of "D/D Necro Slime" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 300
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Ghosts From the Past: The 2nd Haunting
+- Star Pack Battle Royal
+- Star Pack Battle Royal

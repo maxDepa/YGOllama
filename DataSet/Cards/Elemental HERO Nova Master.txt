@@ -1,0 +1,19 @@
+Elemental HERO Nova Master
+Card Type: Fusion Monster
+
+Description: 1 "Elemental HERO" monster + 1 FIRE monster
+Must be Fusion Summoned. If this card destroys an opponent's monster by battle: Draw 1 card.
+
+Type: Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2600
+Defence: 2100
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Generation Force
+- Generation Force
+- Speed Duel GX: Midterm Paradox
+- Speed Duel Tournament Pack 6

@@ -1,0 +1,15 @@
+Amazoness Blowpiper
+Card Type: Effect Monster
+
+Description: Select 1 face-up monster your opponent controls during each of your Standby Phases. It loses 500 ATK until the end of this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1500
+Archetype: Amazoness
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series 3
+- Magician's Force

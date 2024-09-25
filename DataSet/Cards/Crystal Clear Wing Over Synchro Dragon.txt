@@ -1,0 +1,13 @@
+Crystal Clear Wing Over Synchro Dragon
+Card Type: Synchro Monster
+
+Description: 2+ Tuners or 1 Tuner Synchro Monster + "Clear Wing Synchro Dragon"
+Must be Synchro Summoned. Once per turn, when another card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that card, and if it was a monster, this card gains ATK equal to that monster's original ATK until the end of this turn. If this face-up Synchro Summoned card in its owner's control leaves the field by your opponent: You can Special Summon 1 "Clear Wing" monster from your Extra Deck.
+
+Type: Dragon
+Attribute: WIND
+Level: 12
+Attack: 3500
+Defence: 3000
+Archetype: Clear Wing
+Present in Sets:

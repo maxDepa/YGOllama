@@ -1,0 +1,16 @@
+Spell of Mask (Skill Card)
+Card Type: Skill Card
+
+Description: Activate the following Skill(s).
+● If a Ritual Summoned "The Masked Beast" you control is destroyed by an opponent's card effect, you can Special Summon "Masked Beast Des Gardius" from your hand, Deck or GY, ignoring its Summoning conditions.
+● You can Tribute 1 "Masked Beast Des Gardius", then add 1 "The Masked Beast" and 1 "Curse of the Masked Beast" from your Deck and/or GY to your hand.
+Each of these Skills can only be used once per Duel.
+
+Type: Lumis and Umb
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

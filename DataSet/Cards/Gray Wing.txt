@@ -1,0 +1,15 @@
+Gray Wing
+Card Type: Effect Monster
+
+Description: Discard 1 card from your hand during your Main Phase 1. This monster can attack twice during the Battle Phase of this turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness

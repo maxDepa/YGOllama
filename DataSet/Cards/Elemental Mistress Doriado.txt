@@ -1,0 +1,15 @@
+Elemental Mistress Doriado
+Card Type: Ritual Effect Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Doriado's Blessing". The Attribute of this card is also treated as WIND, WATER, FIRE, and EARTH while it is face-up on the field.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 1400
+Archetype: Doriado
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

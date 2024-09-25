@@ -1,0 +1,16 @@
+Hieratic Sun Dragon Overlord of Heliopolis
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+Once per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2400
+Archetype: Hieratic
+Present in Sets:
+- Collectible Tins 2012 Wave 2
+- Galactic Overlord
+- Ghosts From the Past

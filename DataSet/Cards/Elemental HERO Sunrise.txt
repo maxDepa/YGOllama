@@ -1,0 +1,18 @@
+Elemental HERO Sunrise
+Card Type: Fusion Monster
+
+Description: 2 "HERO" monsters with different Attributes
+Must be Fusion Summoned. Monsters you control gain 200 ATK for each different Attribute you control. You can only use each of the following effects of "Elemental HERO Sunrise" once per turn.
+● If this card is Special Summoned: You can add 1 "Miracle Fusion" from your Deck to your hand.
+● When an attack is declared involving another "HERO" monster you control: You can target 1 card on the field; destroy it.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 1200
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

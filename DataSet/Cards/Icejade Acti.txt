@@ -1,0 +1,14 @@
+Icejade Acti
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 WATER monster from your hand to the GY; draw 1 card. If a face-up WATER monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; Special Summon 1 "Icejade" monster from your hand or GY, except "Icejade Acti". You can only use each effect of "Icejade Acti" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Icejade
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

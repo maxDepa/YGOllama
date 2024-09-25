@@ -1,0 +1,17 @@
+The End of Anubis
+Card Type: Effect Monster
+
+Description: While this card is face-up on the field, all effects of Spell, Trap, and Monster Cards that target a card(s) in the Graveyard or that activate in the Graveyard are negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battles of Legend: Terminal Revenge
+- Dark Revelation Volume 2
+- The Lost Millennium: Special Edition
+- Turbo Pack: Booster Four

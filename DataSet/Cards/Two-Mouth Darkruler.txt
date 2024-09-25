@@ -1,0 +1,15 @@
+Two-Mouth Darkruler
+Card Type: Normal Monster
+
+Description: A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

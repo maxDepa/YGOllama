@@ -1,0 +1,13 @@
+Triamid Loading
+Card Type: Spell Card
+
+Description: If a Field Spell is placed face-up in the Field Zone: You can add 1 "Triamid" Spell/Trap from your Deck to your hand, except "Triamid Loading". If a face-up Rock monster(s) you control is destroyed by battle or an opponent's card effect: You can Special Summon 1 "Triamid" monster with a different name from your Deck. You can only use each effect of "Triamid Loading" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Triamid
+Present in Sets:
+- Dawn of Majesty

@@ -1,0 +1,26 @@
+Pot of Avarice
+Card Type: Spell Card
+
+Description: Target 5 monsters in your GY; shuffle all 5 into the Deck, then draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Astral Pack Two
+- Champion Pack: Game One
+- Dark Revelation Volume 4
+- Egyptian God Deck: Obelisk the Tormentor
+- Egyptian God Deck: Slifer the Sky Dragon
+- Elemental Energy
+- Elemental Energy
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Machine Re-Volt
+- Structure Deck: Mechanized Madness
+- Structure Deck: Shaddoll Showdown
+- The Pot Collection
+- Zombie World Structure Deck

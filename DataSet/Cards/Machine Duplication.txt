@@ -1,0 +1,25 @@
+Machine Duplication
+Card Type: Spell Card
+
+Description: Target 1 Machine monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that face-up monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Astral Pack Eight
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Machine Reactor Structure Deck
+- Maximum Gold
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Rise of Destiny
+- Rise of Destiny
+- Structure Deck: Cyber Strike
+- Structure Deck: Machine Re-Volt

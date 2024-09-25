@@ -1,0 +1,18 @@
+Vampire Genesis
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 "Vampire Lord" you control, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 Zombie-Type monster to the Graveyard, then target 1 Zombie-Type monster in your Graveyard with a Level less than the discarded Zombie-Type monster's; Special Summon that target.
+
+Type: Zombie
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2100
+Archetype: Vampire
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Zombie Madness
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

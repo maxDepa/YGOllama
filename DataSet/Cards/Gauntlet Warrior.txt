@@ -1,0 +1,15 @@
+Gauntlet Warrior
+Card Type: Effect Monster
+
+Description: During either player's turn: You can Tribute this card; each Warrior-Type monster you currently control gains 500 ATK and DEF, until the end of the next Damage Step that monster attacks or is attacked.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Pack: Yusei 2

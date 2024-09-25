@@ -1,0 +1,14 @@
+Junk Defender
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1800
+Archetype: Junk
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Photon Shockwave

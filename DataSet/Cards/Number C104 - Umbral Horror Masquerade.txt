@@ -1,0 +1,16 @@
+Number C104: Umbral Horror Masquerade
+Card Type: XYZ Monster
+
+Description: 4 Level 5 monsters
+When this card is Special Summoned: You can target 1 Spell/Trap Card on the field; destroy that target. If this card has "Number 104: Masquerade" as an Xyz material, it gains this effect.
+● Once per turn, during either player's turn, when a monster effect is activated on your opponent's side of the field: You can detach 1 Xyz Material from this card; negate the activation, then you can send 1 random card from your opponent's hand to the Graveyard, and if you do, halve your opponent's Life Points.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 3000
+Defence: 1500
+Archetype: Umbral Horror
+Present in Sets:
+- Judgment of the Light
+- Judgment of the Light

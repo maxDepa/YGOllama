@@ -1,0 +1,24 @@
+Instant Fusion
+Card Type: Spell Card
+
+Description: Pay 1000 LP; Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck, but it cannot attack, also it is destroyed during the End Phase. (This is treated as a Fusion Summon.) You can only activate 1 "Instant Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Eight
+- Astral Pack Two
+- Champion Pack: Game Seven
+- Cyberdark Impact
+- Duel Terminal 4
+- Fusion Enforcers
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Magnificent Mavens
+- OTS Tournament Pack 4
+- Ra Yellow Mega Pack
+- Structure Deck: Shaddoll Showdown

@@ -1,0 +1,14 @@
+Mecha Phantom Beast Harrliard
+Card Type: Effect Monster
+
+Description: Once per turn, when a monster(s) you control is Tributed to activate a card or effect other than this card's: Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 1 Token; Special Summon 1 "Mecha Phantom Beast" monster from your hand.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

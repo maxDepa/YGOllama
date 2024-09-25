@@ -1,0 +1,13 @@
+Crystal Brilliance
+Card Type: Trap Card
+
+Description: You can only control 1 "Crystal Brilliance". Each "Crystal Beast" monster you control gains ATK equal to its original DEF. If a "Crystal Beast" card(s) is placed in your Spell & Trap Zone, even during the Damage Step: You can send this face-up card to the GY; Special Summon 1 "Crystal Beast" monster from your hand or GY, also any damage you take this turn is halved.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal
+Present in Sets:
+- Structure Deck: Legend of the Crystal Beasts

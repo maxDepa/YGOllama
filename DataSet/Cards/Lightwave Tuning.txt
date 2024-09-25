@@ -1,0 +1,13 @@
+Lightwave Tuning
+Card Type: Spell Card
+
+Description: Select 1 Level 4 LIGHT monster you control. It is treated as a Tuner monster while it is face-up on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

@@ -1,0 +1,18 @@
+Fox Fire
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card was destroyed by battle and sent to the Graveyard this turn and was face-up at the start of the Damage Step: Special Summon this card from the Graveyard. This face-up card cannot be Tributed for a Tribute Summon.
+
+Type: Pyro
+Attribute: FIRE
+Level: 2
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Onslaught of the Fire Kings Structure Deck
+- Rise of Destiny
+- Structure Deck: Blaze of Destruction

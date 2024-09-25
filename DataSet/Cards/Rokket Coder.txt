@@ -1,0 +1,13 @@
+Rokket Coder
+Card Type: Effect Monster
+
+Description: If this card would be used for the Link Summon of a "Borrel" monster, you can treat this card as a Dragon. You can only use each of the following effects of "Rokket Coder" once per turn. If a Cyberse monster you control would be used as Link Material for a "Code Talker" monster, this card in your hand can also be used as material. If this card you control would be used as Link Material for a "Borrel" monster, 1 DARK monster in your hand can also be used as material.
+
+Type: Cyberse
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 300
+Archetype: Rokket
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

@@ -1,0 +1,15 @@
+Wattlemur
+Card Type: Effect Monster
+
+Description: If this card in its owner's possession is destroyed by your opponent's card (either by battle or by card effect): Your opponent cannot conduct their Battle Phase during their next turn.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 100
+Archetype: Watt
+Present in Sets:
+- Duelist Revolution
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,14 @@
+Fandora, the Flying Furtress
+Card Type: Spell Card
+
+Description: During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 monster "Fur Hire" from your Deck to your hand. If you control 5 or more monsters "Fur Hire" with different names: You can send this card from the Field Zone to the GY; destroy all cards your opponent controls, also, for the rest of this turn, your opponent takes no damage.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fur Hire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

@@ -1,0 +1,15 @@
+Voltanis the Adjudicator
+Card Type: Effect Monster
+
+Description: After 1 of your Counter Trap Cards has been activated and has resolved, you can Tribute all monsters you control to Special Summon this card. If this card is Special Summoned in this way, you can destroy cards your opponent controls up to the number of Fairy-Type monsters you Tributed.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice

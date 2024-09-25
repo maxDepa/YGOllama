@@ -1,0 +1,19 @@
+Flame Manipulator
+Card Type: Normal Monster
+
+Description: This Spellcaster attacks enemies with fire-related spells such as "Sea of Flames" and "Wall of Fire".
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 3
+Attack: 900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Joey

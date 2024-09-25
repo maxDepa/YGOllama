@@ -1,0 +1,13 @@
+A Shattered, Colorless Realm
+Card Type: Trap Card
+
+Description: If "Vicious Astraloud" is on the field: Target 1 card on the field; destroy it, then, if the destroyed card's original name was "Vicious Astraloud", you can Special Summon 1 of your banished "Visas Starfrost", or if it was not, you can make 1 "Vicious Astraloud" you control gain 1500 ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberstorm Access

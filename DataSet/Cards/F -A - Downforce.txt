@@ -1,0 +1,14 @@
+F.A. Downforce
+Card Type: Spell Card
+
+Description: Target 1 "F.A." monster you control; increase its Level by 2 until the end of this turn. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "F.A." monster you control; increase its Level by 2 until the end of this turn. You can only use each effect of "F.A. Downforce" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: F.A.
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

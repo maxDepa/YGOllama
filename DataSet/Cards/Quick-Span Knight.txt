@@ -1,0 +1,13 @@
+Quick-Span Knight
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Premium Collection Tin

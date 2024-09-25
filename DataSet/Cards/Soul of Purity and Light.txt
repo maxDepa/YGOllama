@@ -1,0 +1,18 @@
+Soul of Purity and Light
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 LIGHT monsters in your Graveyard. All monsters your opponent controls lose 300 ATK during their Battle Phase only.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Six
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Lost Sanctuary Structure Deck

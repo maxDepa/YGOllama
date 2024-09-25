@@ -1,0 +1,14 @@
+Peropero Cerperus
+Card Type: Effect Monster
+
+Description: If you take damage by battle or an opponent's card effect while this card is in the GY: You can banish this card from the GY, then target 1 card on the field; destroy it.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Premium Gold: Return of the Bling
+- Structure Deck: Shaddoll Showdown

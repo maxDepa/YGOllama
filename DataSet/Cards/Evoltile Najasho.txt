@@ -1,0 +1,14 @@
+Evoltile Najasho
+Card Type: Effect Monster
+
+Description: If this card on the field is Tributed: You can Special Summon 1 "Evolsaur" monster from your Deck.
+
+Type: Reptile
+Attribute: FIRE
+Level: 2
+Attack: 100
+Defence: 2000
+Archetype: Evolsaur
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 22

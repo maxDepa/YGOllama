@@ -1,0 +1,15 @@
+Key Mace
+Card Type: Normal Monster
+
+Description: Enemies' hearts will melt at the sight of this small fairy's cuteness.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Turbo Pack: Booster Four
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

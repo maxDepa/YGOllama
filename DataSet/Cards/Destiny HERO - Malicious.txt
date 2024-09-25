@@ -1,0 +1,23 @@
+Destiny HERO - Malicious
+Card Type: Effect Monster
+
+Description: You can banish this card from your GY; Special Summon 1 "Destiny HERO - Malicious" from your Deck.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 800
+Defence: 800
+Archetype: Destiny HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Dark Legends
+- Destiny Soldiers
+- Duel Terminal 3
+- Duelist Pack: Aster Phoenix
+- Gold Series 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Legendary Hero Decks
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box

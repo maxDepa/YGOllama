@@ -1,0 +1,16 @@
+Royal Rhino with Deceitful Dice
+Card Type: Effect Monster
+
+Description: Once per turn, when a card or effect is activated, even during the Damage Step (Quick Effect): You can roll a six-sided die, then apply the appropriate effect, depending on the Chain Link number of this effect.
+● 2: This card gains ATK equal to the result x 500 until the end of this turn.
+● 3: Inflict damage to your opponent equal to the result x 500.
+● 4+: Destroy cards on the field up to the result.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 600
+Defence: 600
+Archetype: //
+Present in Sets:
+- Phantom Nightmare

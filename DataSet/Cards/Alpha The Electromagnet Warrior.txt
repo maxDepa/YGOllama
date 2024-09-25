@@ -1,0 +1,13 @@
+Alpha The Electromagnet Warrior
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Level 8 "Magna Warrior" monster from your Deck to your hand. You can only use this effect of "Alpha The Electromagnet Warrior" once per turn. During your opponent's turn: You can Tribute this card; Special Summon 1 Level 4 "Magnet Warrior" monster from your Deck (this is a Quick Effect).
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1700
+Defence: 1100
+Archetype: Magnet Warrior
+Present in Sets:
+- Structure Deck: Yugi Muto

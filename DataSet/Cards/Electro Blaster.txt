@@ -1,0 +1,13 @@
+Electro Blaster
+Card Type: Effect Monster
+
+Description: If you Normal or Special Summon a FIRE monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then you can send 1 Level 8 Pyro monster from your Deck to the GY. You can only use this effect of "Electro Blaster" once per turn. Once per turn, if a Spell Card is activated (except during the Damage Step): You can make all FIRE monsters you currently control gain 300 ATK.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge

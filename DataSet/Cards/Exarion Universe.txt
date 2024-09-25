@@ -1,0 +1,20 @@
+Exarion Universe
+Card Type: Effect Monster
+
+Description: During your Battle Step, if this card attacks a Defense Position monster: You can make this card lose exactly 400 ATK, and if it does, it will inflict piercing battle damage. These effects last until the end of this turn.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Collectible Tins 2005
+- Dark Revelation Volume 4
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

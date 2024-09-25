@@ -1,0 +1,13 @@
+Iron Core Immediate Disposal
+Card Type: Spell Card
+
+Description: Select and send 1 "Iron Core of Koa'ki Meiru" from your Deck to your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Raging Battle

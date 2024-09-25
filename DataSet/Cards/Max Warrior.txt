@@ -1,0 +1,14 @@
+Max Warrior
+Card Type: Effect Monster
+
+Description: If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 2
+- Stardust Overdrive

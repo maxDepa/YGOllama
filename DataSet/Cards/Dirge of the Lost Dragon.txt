@@ -1,0 +1,14 @@
+Dirge of the Lost Dragon
+Card Type: Spell Card
+
+Description: Activate this card by declaring 1 card name. Each time the declared card, or its effect, is activated, halve its owner's LP immediately after it resolves. During the End Phase, if this card halved a player's LP this turn, send this card to the GY. While your opponent controls a monster, this card cannot be destroyed by card effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

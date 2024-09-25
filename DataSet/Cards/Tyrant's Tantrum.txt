@@ -1,0 +1,13 @@
+Tyrant's Tantrum
+Card Type: Trap Card
+
+Description: Activate by Tributing 2 monsters. Your opponent cannot activate a Spell Card unless they also send 1 Spell Card from the Deck to the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory

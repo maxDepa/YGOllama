@@ -1,0 +1,15 @@
+The Statue of Easter Island
+Card Type: Normal Monster
+
+Description: A stone monument from Easter Island that launches laser blasts from its rock-hewn lips.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

@@ -1,0 +1,14 @@
+Mayakashi Return
+Card Type: Spell Card
+
+Description: Take 1 "Mayakashi" card from your Deck, except "Mayakashi Return", and either add it to your hand or send it to the GY. You can only activate 1 "Mayakashi Return" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mayakashi
+Present in Sets:
+- Hidden Summoners
+- Magnificent Mavens

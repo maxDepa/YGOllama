@@ -1,0 +1,15 @@
+Acid Rain
+Card Type: Spell Card
+
+Description: Destroy all face-up Machine-Type monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 2
+- Duelist League Series 8 participation card
+- Speed Duel: Streets of Battle City

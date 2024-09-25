@@ -1,0 +1,16 @@
+Keldo
+Card Type: Effect Monster
+
+Description: When this card is destroyed and sent to the Graveyard as a result of battle, select 2 cards from your opponent's Graveyard, add them to your opponent's Deck and the Deck is then shuffled.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel: Battle City Box

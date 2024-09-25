@@ -1,0 +1,14 @@
+Geargiauger
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type monster from your Deck to your hand, except "Geargiauger", also you cannot declare attacks, nor Special Summon monsters except Machine-Type monsters, for the rest of this turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 500
+Archetype: Geargia
+Present in Sets:
+- Geargia Rampage Structure Deck
+- Machine Reactor Structure Deck

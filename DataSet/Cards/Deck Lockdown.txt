@@ -1,0 +1,15 @@
+Deck Lockdown
+Card Type: Spell Card
+
+Description: Neither player can add cards from the Deck to their hand except by drawing them. Monsters cannot be Special Summoned from the Main Deck. Destroy this card during your 2nd Standby Phase after activation.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Duel Overload
+- Light of Destruction

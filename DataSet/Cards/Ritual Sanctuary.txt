@@ -1,0 +1,16 @@
+Ritual Sanctuary
+Card Type: Spell Card
+
+Description: You can discard 1 Spell; add 1 LIGHT Ritual Monster or 1 Ritual Spell from your Deck to your hand. You can shuffle any number of Spells from your GY into the Deck, then target 1 LIGHT Fairy monster in your GY whose Level equals the number of cards you shuffled into the Deck; Special Summon it. You can only use each effect of "Ritual Sanctuary" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians
+- Legendary Duelists: Sisters of the Rose

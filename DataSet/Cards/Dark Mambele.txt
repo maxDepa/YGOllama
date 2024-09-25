@@ -1,0 +1,14 @@
+Dark Mambele
+Card Type: Spell Card
+
+Description: If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Order of Chaos

@@ -1,0 +1,19 @@
+Des Mosquito
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: Place 2 counters on it. It gains 500 ATK for each of these counters. If this card would be destroyed by battle, remove 1 of these counters instead.
+
+Type: Insect
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Legends
+- Starter Deck: Kaiba Reloaded
+- Yu-Gi-Oh! GX Card Almanac promotional cards

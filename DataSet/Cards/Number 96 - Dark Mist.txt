@@ -1,0 +1,18 @@
+Number 96: Dark Mist
+Card Type: XYZ Monster
+
+Description: 3 Level 2 monsters
+Once per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Genesis Impact
+- Order of Chaos
+- Order of Chaos
+- Star Pack 2013
+- Star Pack 2013

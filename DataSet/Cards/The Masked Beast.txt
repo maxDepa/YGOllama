@@ -1,0 +1,22 @@
+The Masked Beast
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "Curse of the Masked Beast".
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3200
+Defence: 1800
+Archetype: Mask
+Present in Sets:
+- Dark Beginning 1
+- Duelist League Series 2 participation cards
+- Duelist League Series 2 participation cards
+- Duelist Pack: Battle City
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box

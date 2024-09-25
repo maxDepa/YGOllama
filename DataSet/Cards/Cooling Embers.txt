@@ -1,0 +1,13 @@
+Cooling Embers
+Card Type: Effect Monster
+
+Description: If a player gains LP (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, if a player gains LP while this card is in the Monster Zone (except during the Damage Step): You can make 1 player gain 1000 LP.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Legacy of Destruction

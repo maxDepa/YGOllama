@@ -1,0 +1,14 @@
+Ursarctic Grand Chariot
+Card Type: Synchro Monster
+
+Description: Cannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 monsters you control with a Level difference of 7 to the GY (1 Level 8 or higher Tuner and 1 non-Tuner Synchro Monster). If this card is Special Summoned: You can target up to 2 other cards on the field; destroy them. Once per turn, when a card or effect is activated that targets an "Ursarctic" card you control (Quick Effect): You can Tribute 1 monster from your hand or field; negate the activation.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 7
+Attack: 2700
+Defence: 700
+Archetype: Ursarctic
+Present in Sets:
+- Ancient Guardians
+- Ancient Guardians

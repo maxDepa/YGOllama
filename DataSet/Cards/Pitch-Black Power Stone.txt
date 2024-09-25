@@ -1,0 +1,20 @@
+Pitch-Black Power Stone
+Card Type: Trap Card
+
+Description: Activate this card by placing 3 Spell Counters on it. Once per turn, during your turn: You can target 1 other face-up card on the field that you can place a Spell Counter on; remove 1 Spell Counter from this card, and if you do, place 1 Spell Counter on that target. When the last Spell Counter(s) is removed from this card, destroy it.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Spellcaster's Judgment

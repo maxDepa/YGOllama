@@ -1,0 +1,17 @@
+Hoshiningen
+Card Type: Effect Monster
+
+Description: All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 500
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Yu-Gi-Oh! Advent Calendar (2018)

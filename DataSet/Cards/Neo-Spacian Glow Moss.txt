@@ -1,0 +1,19 @@
+Neo-Spacian Glow Moss
+Card Type: Effect Monster
+
+Description: If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.
+● Monster: End the Battle Phase of this turn.
+● Spell: If this card is attacking, you can change it to a direct attack instead.
+● Trap: Change this card to Defense Position.
+
+Type: Plant
+Attribute: LIGHT
+Level: 3
+Attack: 300
+Defence: 900
+Archetype: Neo-Spacian
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Shadows in Valhalla
+- Strike of Neos

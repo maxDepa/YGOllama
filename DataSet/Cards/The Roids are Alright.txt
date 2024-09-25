@@ -1,0 +1,13 @@
+The Roids are Alright
+Card Type: Skill Card
+
+Description: "Vehicroid Connection Zone" can be used to Fusion Summon any "roid" monsters from your Extra Deck. All "roid" monsters whose original Level is 6 or lower can be Normal Summoned/Set without Tributing. If a non-Fusion "roid" Machine monster you control whose original Level is 6 or lower attacks an opponent's monster, it gains ATK equal to its own Level x 100 during the Damage Step only. If you control a non-Machine monster, flip this card over.
+
+Type: Syrus Truesda
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: roid
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

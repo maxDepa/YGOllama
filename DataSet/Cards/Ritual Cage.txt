@@ -1,0 +1,14 @@
+Ritual Cage
+Card Type: Spell Card
+
+Description: You take no battle damage from attacks involving a Ritual Monster you control. Ritual Monsters you control cannot be targeted by, or destroyed by, monster effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- The Secret Forces

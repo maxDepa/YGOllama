@@ -1,0 +1,14 @@
+Dinomorphia Sonic
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell/Trap Card, while you control a "Dinomorphia" monster: Pay half your LP; negate the activation, and if you do, destroy that card, then, destroy 1 "Dinomorphia" monster you control. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 "Dinomorphia Sonic" per turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dinomorphia
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

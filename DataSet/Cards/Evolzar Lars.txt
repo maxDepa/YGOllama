@@ -1,0 +1,15 @@
+Evolzar Lars
+Card Type: XYZ Monster
+
+Description: 2 Level 6 monsters
+While this card has material, your opponent cannot target it with monster effects. When your opponent activates a card or effect (Quick Effect): You can detach 2 materials from this card, or just 1 material if all this card's materials are Reptile and/or Dinosaur, then target 1 face-up card your opponent controls; negate its effects until the end of this turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 6
+Attack: 2500
+Defence: 1500
+Archetype: Evol
+Present in Sets:
+- Duelist Nexus
+- Duelist Nexus

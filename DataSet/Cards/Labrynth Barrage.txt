@@ -1,0 +1,14 @@
+Labrynth Barrage
+Card Type: Trap Card
+
+Description: When you activate a Set Normal Trap Card, except "Labrynth Barrage": This effect becomes that Normal Trap's effect when that card is activated, also until the end of your opponent's next turn after this card resolves, your opponent takes no effect damage from your card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Labrynth
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

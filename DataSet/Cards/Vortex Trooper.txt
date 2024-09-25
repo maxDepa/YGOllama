@@ -1,0 +1,17 @@
+Vortex Trooper
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can shuffle 2 cards from your hand into the Deck, then draw 2 cards. If this card is destroyed: Draw 1 card.
+
+Type: Aqua
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Gladiator's Assault: Special Edition
+- Legendary Duelists: Ancient Millennium
+- Speed Duel GX: Duelists of Shadows

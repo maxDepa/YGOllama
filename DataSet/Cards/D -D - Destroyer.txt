@@ -1,0 +1,14 @@
+D.D. Destroyer
+Card Type: Effect Monster
+
+Description: When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: D.D.
+Present in Sets:
+- Duelist Revolution
+- Speed Duel GX: Duelists of Shadows

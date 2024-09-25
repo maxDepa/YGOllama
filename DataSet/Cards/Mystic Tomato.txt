@@ -1,0 +1,29 @@
+Mystic Tomato
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+
+Type: Plant
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Dark Saviors
+- Dragons Collide Structure Deck
+- Duel Terminal 6a
+- Duelist League 2010 participation cards
+- Hobby League 3 participation card E
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Marik (TCG)
+- Tournament Pack 4

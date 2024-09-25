@@ -1,0 +1,16 @@
+Brotherhood of the Fire Fist - Raven
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the GY: You can Set 1 "Fire Formation" Spell directly from your Deck. "Fire Formation" Spells/Traps you control cannot be destroyed by your opponent's card effects.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 3
+Attack: 200
+Defence: 1800
+Archetype: Fire Fist
+Present in Sets:
+- Astral Pack Two
+- Cosmo Blazer
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)

@@ -1,0 +1,15 @@
+Geargiano Mk-II
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can Special Summon 1 "Geargia" monster from your hand or Graveyard in Defense Position.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: Geargia
+Present in Sets:
+- Duelist League 18 participation cards
+- Geargia Rampage Structure Deck
+- Return of the Duelist

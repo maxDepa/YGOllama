@@ -1,0 +1,14 @@
+R-Genex Oracle
+Card Type: Tuner Monster
+
+Description: If this card is added from your Deck to your hand by the effect of a "Genex" monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a "Genex" monster.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 300
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

@@ -1,0 +1,15 @@
+Master Craftsman Gamil
+Card Type: Effect Monster
+
+Description: During the Damage Step, when a face-up monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 300 ATK until the end of this turn.
+
+Type: Pyro
+Attribute: FIRE
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Speed Duel: Scars of Battle

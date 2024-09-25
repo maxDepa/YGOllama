@@ -1,0 +1,14 @@
+Doriado's Blessing
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Elemental Mistress Doriado". You must also Tribute monsters whose total Levels equal 3 or more from the field or your hand.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Doriado
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

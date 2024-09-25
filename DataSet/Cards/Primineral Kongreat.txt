@@ -1,0 +1,13 @@
+Primineral Kongreat
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If a monster is sent from your opponent's hand or Deck to the GY (except during the Damage Step): You can Special Summon this card from your hand in face-down Defense Position. If this card is flipped face-up: You can target up to 2 cards on the field; destroy them.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Chaos Impact

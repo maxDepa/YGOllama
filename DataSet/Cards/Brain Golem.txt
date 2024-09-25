@@ -1,0 +1,13 @@
+Brain Golem
+Card Type: Effect Monster
+
+Description: Effects of face-up LIGHT monsters are negated. If this card destroys a LIGHT monster by battle, it can attack once again in a row.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Raging Battle

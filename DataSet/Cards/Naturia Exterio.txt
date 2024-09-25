@@ -1,0 +1,17 @@
+Naturia Exterio
+Card Type: Fusion Monster
+
+Description: "Naturia Beast" + "Naturia Barkion"
+A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While this card is face-up on the field, you can negate the activation of a Spell/Trap Card, and destroy it, by removing from play 1 card from your Graveyard, then sending the top card of your Deck to the Graveyard.
+
+Type: Beast
+Attribute: EARTH
+Level: 10
+Attack: 2800
+Defence: 2400
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

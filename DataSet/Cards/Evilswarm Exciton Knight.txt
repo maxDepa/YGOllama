@@ -1,0 +1,17 @@
+Evilswarm Exciton Knight
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per chain, during your Main Phase or your opponent's Battle Phase, if your opponent has more total cards in their hand and field than you do (Quick Effect): You can detach 1 material from this card; destroy all other cards on the field, also your opponent takes no further damage this turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: Lswarm
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Legacy of the Valiant

@@ -1,0 +1,17 @@
+Ojamagic
+Card Type: Spell Card
+
+Description: If this card is sent from the hand or field to the GY: Add 1 each of "Ojama Green", "Ojama Yellow" and "Ojama Black" from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- Legendary Duelists: Ancient Millennium
+- Speed Duel GX: Duel Academy Box

@@ -1,0 +1,20 @@
+H - Heated Heart
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Enemy of Justice
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 3
+- Ra Yellow Mega Pack
+- Speed Duel GX: Midterm Paradox

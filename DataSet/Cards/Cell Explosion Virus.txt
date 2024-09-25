@@ -1,0 +1,14 @@
+Cell Explosion Virus
+Card Type: Trap Card
+
+Description: Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Champion Pack: Game Eight
+- Gladiator's Assault

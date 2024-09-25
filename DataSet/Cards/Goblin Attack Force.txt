@@ -1,0 +1,28 @@
+Goblin Attack Force
+Card Type: Effect Monster
+
+Description: If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2300
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Warrior's Triumph
+- Tournament Pack 7

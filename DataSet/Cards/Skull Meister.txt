@@ -1,0 +1,17 @@
+Skull Meister
+Card Type: Effect Monster
+
+Description: When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 400
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Ancient Guardians
+- Code of the Duelist Special Edition
+- Starstrike Blast
+- Structure Deck: Powercode Link

@@ -1,0 +1,14 @@
+Lunalight Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Lunalight" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If your opponent controls a monster that was Special Summoned from the Extra Deck, you can also use 1 "Lunalight" monster in your Deck or Extra Deck as Fusion Material. You can only activate 1 "Lunalight Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

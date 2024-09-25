@@ -1,0 +1,14 @@
+Jester Confit
+Card Type: Effect Monster
+
+Description: You can only control 1 "Jester Confit". You can Special Summon this card (from your hand) in Attack Position. If Summoned this way, during your opponent's next End Phase: Target 1 face-up monster your opponent controls; return both that target and this face-up card to the hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Jester
+Present in Sets:
+- Ancient Prophecy
+- Structure Deck: Cyberse Link

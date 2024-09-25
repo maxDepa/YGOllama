@@ -1,0 +1,13 @@
+Painful Return
+Card Type: Spell Card
+
+Description: Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

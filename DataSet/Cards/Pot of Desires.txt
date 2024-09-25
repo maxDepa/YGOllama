@@ -1,0 +1,23 @@
+Pot of Desires
+Card Type: Spell Card
+
+Description: Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 "Pot of Desires" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- 2017 Mega-Tins
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Sacred Beasts
+- The Dark Illusion
+- The Pot Collection
+- Toon Chaos
+- Toon Chaos

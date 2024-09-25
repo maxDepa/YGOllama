@@ -1,0 +1,18 @@
+Shinonome the Vaylantz Priestess
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can Special Summon this card to your Main Monster Zone in its same column, also you cannot Special Summon non-"Vaylantz" monsters for the rest of this turn, except from the Extra Deck. You can only use this effect of "Shinonome the Vaylantz Priestess" once per turn.
+
+[ Monster Effect ] 
+During your Main Phase, if you control this Special Summoned card: You can add 1 "Vaylantz" Spell from your Deck to your hand. If this card in the Monster Zone moves to another Monster Zone: You can add 1 "Vaylantz" monster from your Deck to your hand, except "Shinonome the Vaylantz Priestess". You can only use each effect of "Shinonome the Vaylantz Priestess" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Vaylantz
+Present in Sets:
+- Tactical Masters
+- Tactical Masters

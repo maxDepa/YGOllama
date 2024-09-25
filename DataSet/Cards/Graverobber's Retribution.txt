@@ -1,0 +1,16 @@
+Graverobber's Retribution
+Card Type: Trap Card
+
+Description: During each of your Standby Phases, inflict 100 points of damage to your opponent's Life Points for each of your opponent's monsters that have been removed from play.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

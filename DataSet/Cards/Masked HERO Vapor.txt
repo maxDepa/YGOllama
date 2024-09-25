@@ -1,0 +1,14 @@
+Masked HERO Vapor
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "Mask Change". Cannot be destroyed by card effects.
+
+Type: Warrior
+Attribute: WATER
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: Masked HERO
+Present in Sets:
+- Generation Force
+- Toon Chaos

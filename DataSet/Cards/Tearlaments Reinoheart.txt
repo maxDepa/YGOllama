@@ -1,0 +1,14 @@
+Tearlaments Reinoheart
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "Tearlaments" monster from your Deck to the GY, except "Tearlaments Reinoheart". If this card is sent to the GY by card effect: You can Special Summon this card (but banish it when it leaves the field), and if you do, send 1 "Tearlaments" card from your hand to the GY. You can only use each effect of "Tearlaments Reinoheart" once per turn.
+
+Type: Warrior
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 2100
+Archetype: Tearlaments
+Present in Sets:
+- OTS Tournament Pack 21
+- Power of the Elements

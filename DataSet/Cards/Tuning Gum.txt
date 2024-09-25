@@ -1,0 +1,14 @@
+Tuning Gum
+Card Type: Tuner Monster
+
+Description: You can target 1 face-up monster you control; that face-up monster is treated as a Tuner this turn. You can only use this effect of "Tuning Gum" once per turn. You can only attack with Synchro Monsters during the turn you activate this effect. During either player's turn, when a card or effect is activated that targets exactly 1 Synchro Monster you control (and no other cards): You can banish this card from your Graveyard; negate the activation.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

@@ -1,0 +1,13 @@
+Lair Wire
+Card Type: Trap Card
+
+Description: Remove from play 1 Insect-Type monster from your Graveyard and select 1 monster your opponent controls. Destroy the selected monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

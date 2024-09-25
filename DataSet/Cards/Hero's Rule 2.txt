@@ -1,0 +1,13 @@
+Hero's Rule 2
+Card Type: Trap Card
+
+Description: Negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) in the Graveyard, and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3

@@ -1,0 +1,15 @@
+One-Shot Wand
+Card Type: Spell Card
+
+Description: Equip only to a Spellcaster-Type monster. It gains 800 ATK. If the equipped monster attacks or is attacked, after damage calculation: You can destroy this card, and if you do, draw 1 card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League

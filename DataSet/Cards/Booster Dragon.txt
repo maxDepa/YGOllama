@@ -1,0 +1,15 @@
+Booster Dragon
+Card Type: Link Monster
+
+Description: 2 "Rokket" monsters
+Once per turn: You can target 1 other face-up monster on the field; it gains 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. If this Link Summoned card is destroyed by battle or card effect and sent to the GY: You can target 1 other Dragon monster in your GY; Special Summon it. You can only use this effect of "Booster Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 1900
+Defence: 0
+Archetype: Rokket
+Present in Sets:
+- Duel Power
+- Structure Deck: Rokket Revolt

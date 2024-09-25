@@ -1,0 +1,13 @@
+The Immortal Bushi Mourns the Mortal Body
+Card Type: Spell Card
+
+Description: All monsters in your GY become Warrior monsters. Once per turn, during the End Phase: You can destroy all monsters you control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Age of Overlord

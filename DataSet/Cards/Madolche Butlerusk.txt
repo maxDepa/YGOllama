@@ -1,0 +1,13 @@
+Madolche Butlerusk
+Card Type: Effect Monster
+
+Description: When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can add 1 Field Spell Card from your Deck to your hand. There must be another face-up "Madolche" monster on the field to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: Madolche
+Present in Sets:
+- Return of the Duelist

@@ -1,0 +1,13 @@
+Tellus the Little Angel
+Card Type: Effect Monster
+
+Description: If this card is sent from the Monster Zone to the GY: You can Special Summon 1 "Tellus Wing Token" (Fairy/LIGHT/Level 1/ATK 0/DEF 0). While you control a "Tellus Wing Token": You can banish this card from your GY and 1 Spell from your hand; Special Summon 2 "Tellus Wing Tokens", also you cannot Special Summon for the rest of this turn, except from your hand. You can only use each effect of "Tellus the Little Angel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Slifer the Sky Dragon

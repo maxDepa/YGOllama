@@ -1,0 +1,14 @@
+X-Saber Uruz
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Tribute this card to return the destroyed card to the top of its owner's Deck.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal

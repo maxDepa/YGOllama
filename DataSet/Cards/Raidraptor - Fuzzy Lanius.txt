@@ -1,0 +1,15 @@
+Raidraptor - Fuzzy Lanius
+Card Type: Effect Monster
+
+Description: If you control a "Raidraptor" monster other than "Raidraptor - Fuzzy Lanius": You can Special Summon this card from your hand. If this card is sent to the Graveyard: You can add 1 "Raidraptor - Fuzzy Lanius" from your Deck to your hand. You can only use each effect of "Raidraptor - Fuzzy Lanius" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except "Raidraptor" monsters.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 500
+Defence: 1500
+Archetype: Raidraptor
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Wing Raiders

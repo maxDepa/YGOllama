@@ -1,0 +1,18 @@
+The Eye of Timaeus
+Card Type: Spell Card
+
+Description: (This card is also always treated as "Legendary Dragon Timaeus".)
+Target 1 "Dark Magician" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the Fusion Material. You can only activate 1 "The Eye of Timaeus" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Dragon Decks

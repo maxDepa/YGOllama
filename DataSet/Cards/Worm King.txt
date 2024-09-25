@@ -1,0 +1,14 @@
+Worm King
+Card Type: Effect Monster
+
+Description: This card can be Tribute Summoned in face-up Attack Position by Tributing 1 Reptile-Type "Worm" monster. You can Tribute 1 Reptile-Type "Worm" monster to select 1 card your opponent controls, and destroy it.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 8
+Attack: 2700
+Defence: 1100
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Storm of Ragnarok

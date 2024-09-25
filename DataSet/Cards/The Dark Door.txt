@@ -1,0 +1,17 @@
+The Dark Door
+Card Type: Spell Card
+
+Description: Only 1 monster can attack during each Battle Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 3: Yugi's World Mega Pack

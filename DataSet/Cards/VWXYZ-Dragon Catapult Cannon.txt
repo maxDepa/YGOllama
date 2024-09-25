@@ -1,0 +1,21 @@
+VWXYZ-Dragon Catapult Cannon
+Card Type: Fusion Monster
+
+Description: "VW-Tiger Catapult" + "XYZ-Dragon Cannon"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use "Polymerization".) Once per turn: You can target 1 card your opponent controls; banish that target. When this card declares an attack on an opponent's monster: You can target the attack target; change that attack target's battle position. (Flip Effects are not activated.)
+
+Type: Machine
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2800
+Archetype: ABC
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- Elemental Energy
+- Legendary Duelists: Ancient Millennium
+- Speed Duel GX: Duel Academy Box
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 B

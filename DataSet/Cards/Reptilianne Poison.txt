@@ -1,0 +1,14 @@
+Reptilianne Poison
+Card Type: Spell Card
+
+Description: Activate only if you control a face-up "Reptilianne" monster. Change 1 Defense Position monster your opponent controls to face-up Attack Position and reduce its ATK to 0.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- OTS Tournament Pack 17 (POR)
+- Stardust Overdrive

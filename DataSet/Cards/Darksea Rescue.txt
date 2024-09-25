@@ -1,0 +1,13 @@
+Darksea Rescue
+Card Type: Effect Monster
+
+Description: If this card is used for a Synchro Summon and sent to the Graveyard, the owner of this card draws 1 card.
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

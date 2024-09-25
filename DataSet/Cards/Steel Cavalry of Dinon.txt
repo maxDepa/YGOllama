@@ -1,0 +1,14 @@
+Steel Cavalry of Dinon
+Card Type: Pendulum Effect Monster
+
+Description: At the start of the Damage Step, if this card battles a Pendulum Monster: This card's ATK and DEF become half its current ATK and DEF until the end of the Damage Step.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Breakers of Shadow
+- Breakers of Shadow Sneak Peek Participation Card

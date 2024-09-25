@@ -1,0 +1,16 @@
+Dragonic Tactics
+Card Type: Spell Card
+
+Description: Tribute 2 Dragon monsters; Special Summon 1 Level 8 Dragon monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years
+- Legendary Collection Kaiba Mega Pack
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Starter Deck: Kaiba Reloaded

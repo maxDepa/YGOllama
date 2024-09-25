@@ -1,0 +1,18 @@
+Maxx "C"
+Card Type: Effect Monster
+
+Description: During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 "Maxx "C"" per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 200
+Archetype: "C"
+Present in Sets:
+- Astral Pack Four
+- Collectible Tins 2012 Wave 2
+- Legendary Collection 5D's Mega Pack
+- Machine Reactor Structure Deck
+- Premium Gold: Infinite Gold
+- Storm of Ragnarok

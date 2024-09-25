@@ -1,0 +1,15 @@
+Gravedigger Ghoul
+Card Type: Spell Card
+
+Description: Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

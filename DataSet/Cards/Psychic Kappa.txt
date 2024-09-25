@@ -1,0 +1,16 @@
+Psychic Kappa
+Card Type: Normal Monster
+
+Description: An amphibian with a myriad of powers to shield it from enemy attacks.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

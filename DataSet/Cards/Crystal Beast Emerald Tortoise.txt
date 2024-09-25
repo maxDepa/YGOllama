@@ -1,0 +1,21 @@
+Crystal Beast Emerald Tortoise
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 monster you control that attacked this turn; change that target to Defense Position. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 600
+Defence: 2000
+Archetype: Crystal Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- OTS Tournament Pack 7 (POR)
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

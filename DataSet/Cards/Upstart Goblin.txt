@@ -1,0 +1,25 @@
+Upstart Goblin
+Card Type: Spell Card
+
+Description: Draw 1 card, then your opponent gains 1000 LP.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Beginning 1
+- Dark Legends
+- Demo Pack
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Maximum Gold: El Dorado
+- Retro Pack
+- Secret Slayers
+- Spell Ruler
+- Spell Ruler
+- Turbo Pack: Booster Eight

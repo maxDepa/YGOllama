@@ -1,0 +1,14 @@
+Dinomic Powerload
+Card Type: Spell Card
+
+Description: All "Dinomist" monsters on the field gain 300 ATK and DEF. If a "Dinomist" monster you control battles, your opponent cannot activate cards or effects until the end of the Damage Step.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dinomist
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

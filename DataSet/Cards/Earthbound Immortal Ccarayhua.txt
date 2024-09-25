@@ -1,0 +1,16 @@
+Earthbound Immortal Ccarayhua
+Card Type: Effect Monster
+
+Description: There can only be 1 "Earthbound Immortal" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot target this card for attacks. This card can attack your opponent directly. If this card is destroyed by a card effect, except by its own effect: Destroy all cards on the field.
+
+Type: Reptile
+Attribute: DARK
+Level: 10
+Attack: 2800
+Defence: 1800
+Archetype: Earthbound
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 3
+- Stardust Overdrive
+- Stardust Overdrive

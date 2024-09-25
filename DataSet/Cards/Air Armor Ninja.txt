@@ -1,0 +1,15 @@
+Air Armor Ninja
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can target 1 "Ninja" monster you control; reduce its Level by 1.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- Star Pack 2013
+- Star Pack 2013

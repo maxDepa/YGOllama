@@ -1,0 +1,13 @@
+War Rock Bashileos
+Card Type: Effect Monster
+
+Description: During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can activate this effect; this card can attack directly this turn, also all "War Rock" monsters you currently control gain 200 ATK until the end of your opponent's turn. While this card is in your hand or GY, when your EARTH Warrior monster is destroyed by battle: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "War Rock Bashileos" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2700
+Defence: 2700
+Archetype: War Rock
+Present in Sets:
+- Blazing Vortex

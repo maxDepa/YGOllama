@@ -1,0 +1,13 @@
+Electromagnetic Shield
+Card Type: Spell Card
+
+Description: Level 3 or lower Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Shining Darkness

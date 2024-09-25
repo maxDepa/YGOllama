@@ -1,0 +1,15 @@
+Hunter Spider
+Card Type: Normal Monster
+
+Description: This monster feeds on whatever it catches in its web.
+
+Type: Insect
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

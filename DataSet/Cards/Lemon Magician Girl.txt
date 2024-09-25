@@ -1,0 +1,15 @@
+Lemon Magician Girl
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 "Magician Girl" monster, except "Lemon Magician Girl"; add 1 Spellcaster-Type monster from your Deck to your hand. Once per turn, if this card is targeted for an attack: You can Special Summon 1 Spellcaster-Type monster from your hand, but its effects (if any) are negated, then change the attack target to it, and if you do, the attacking monster's ATK becomes half its current ATK.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: Magician Girl
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

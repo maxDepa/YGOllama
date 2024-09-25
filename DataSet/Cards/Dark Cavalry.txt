@@ -1,0 +1,14 @@
+Dark Cavalry
+Card Type: Fusion Monster
+
+Description: "Dark Magician" + 1 Warrior monster
+Gains 100 ATK for each Spell/Trap on the field and in the GYs. If this card attacks a Defense Position monster, inflict piercing battle damage. When a card or effect is activated that targets a card on the field (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2300
+Archetype: Dark Magician
+Present in Sets:
+- Duel Power

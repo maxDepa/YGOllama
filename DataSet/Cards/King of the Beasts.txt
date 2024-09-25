@@ -1,0 +1,13 @@
+King of the Beasts
+Card Type: Effect Monster
+
+Description: You can Tribute 1 face-up "Moja" you control to Special Summon this card from your hand or Graveyard. There can only be 1 face-up "King of the Beasts" on the field.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Raging Battle

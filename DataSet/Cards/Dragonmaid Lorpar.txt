@@ -1,0 +1,15 @@
+Dragonmaid Lorpar
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of "Dragonmaid Lorpar" once per turn.
+● You can discard this card, then target 1 face-up monster on the field; players cannot activate that target's effects on the field this turn.
+● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 "Dragonmaid" monster from your hand.
+
+Type: Dragon
+Attribute: WIND
+Level: 8
+Attack: 2700
+Defence: 1700
+Archetype: Dragonmaid
+Present in Sets:
+- Mystic Fighters

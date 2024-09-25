@@ -1,0 +1,16 @@
+Pixie Ring
+Card Type: Trap Card
+
+Description: While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 3

@@ -1,0 +1,13 @@
+Burning Dragon
+Card Type: Effect Monster
+
+Description: If your opponent controls 2 or more monsters and this card is in your hand: You can Special Summon this card. If this card is Normal or Special Summoned: You can discard 1 Spell; destroy all Spells and Traps on the field. You can only use each effect of "Burning Dragon" once per turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 8
+Attack: 2500
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Age of Overlord

@@ -1,0 +1,16 @@
+Rapid-Fire Magician
+Card Type: Effect Monster
+
+Description: Inflict 400 damage to your opponent each time you activate a Normal Spell Card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Structure Deck: Spellcaster's Judgment

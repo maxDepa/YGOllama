@@ -1,0 +1,12 @@
+Hitodenchak
+Card Type: Normal Monster
+
+Description: A rabid starfish that spits a lethal acid that can melt almost anything.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 700
+Archetype: //
+Present in Sets:

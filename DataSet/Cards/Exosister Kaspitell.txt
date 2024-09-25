@@ -1,0 +1,15 @@
+Exosister Kaspitell
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Cannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of "Exosister Kaspitell" once per turn. If this card is Xyz Summoned using an "Exosister" monster as material: Neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 "Exosister" monster from your Deck to your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2300
+Defence: 800
+Archetype: Exosister
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- The Grand Creators

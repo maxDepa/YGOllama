@@ -1,0 +1,12 @@
+B. Dragon Jungle King
+Card Type: Normal Monster
+
+Description: A jet-black dragon found in the deepest jungles who normally devours trees.
+
+Type: Dragon
+Attribute: EARTH
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:

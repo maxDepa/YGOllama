@@ -1,0 +1,13 @@
+Koa'ki Meiru Hydro Barrier
+Card Type: Effect Monster
+
+Description: You can return 1 "Iron Core of Koa'ki Meiru" from your hand to the top of the Deck. If you do, the effect(s) of all face-up Effect Monsters are negated until the Standby Phase of your next turn, except "Koa'ki Meiru" monsters.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1000
+Defence: 1900
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Ancient Prophecy

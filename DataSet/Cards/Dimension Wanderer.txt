@@ -1,0 +1,13 @@
+Dimension Wanderer
+Card Type: Effect Monster
+
+Description: When a monster is banished by the effect of "Galaxy-Eyes Photon Dragon": You can send this card from your hand to the Graveyard; inflict 3000 damage to your opponent. You can only use the effect of "Dimension Wanderer" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Galaxy-Eyes
+Present in Sets:
+- Zexal Collection Tin

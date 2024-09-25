@@ -1,0 +1,15 @@
+Giga-Tech Wolf
+Card Type: Normal Monster
+
+Description: An iron wolf with razor-sharp fangs that can penetrate any armor.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

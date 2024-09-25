@@ -1,0 +1,17 @@
+Fabled Grimro
+Card Type: Effect Monster
+
+Description: If you control a face-up "Fabled" monster: You can send this card from your hand to the Graveyard; add 1 "Fabled" monster from your Deck to your hand, except "Fabled Grimro".
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 2
+- Gold Series: Haunted Mine
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 15 (POR)

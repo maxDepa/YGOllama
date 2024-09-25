@@ -1,0 +1,17 @@
+Treacherous Trap Hole
+Card Type: Trap Card
+
+Description: If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Crossroads of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Maze of Memories
+- Premium Gold: Infinite Gold
+- Turbo Pack: Booster Three

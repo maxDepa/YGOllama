@@ -1,0 +1,17 @@
+Violet Crystal
+Card Type: Spell Card
+
+Description: (This card is not treated as a "Crystal" card.)
+Equip only to a Zombie monster. It gains 300 ATK/DEF.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Speed Duel: Arena of Lost Souls

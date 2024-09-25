@@ -1,0 +1,17 @@
+Return from the Different Dimension
+Card Type: Trap Card
+
+Description: Pay half your Life Points; Special Summon as many of your banished monsters as possible. During the End Phase, banish all monsters that were Special Summoned by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Duelist Pack: Kaiba
+- Exclusive Pack
+- Lost Sanctuary Structure Deck
+- The Dark Emperor Structure Deck

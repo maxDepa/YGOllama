@@ -1,0 +1,13 @@
+Familiar-Possessed - Dharc
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand or Deck) by sending 1 face-up "Dharc the Dark Charmer" you control and 1 face-up DARK monster you control to the Graveyard. When you do: You can add 1 Level 3 or 4 LIGHT Spellcaster-Type monster from your Deck to your hand. If this card was Special Summoned by this effect and attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1850
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- Order of Chaos

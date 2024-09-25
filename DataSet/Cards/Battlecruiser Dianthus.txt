@@ -1,0 +1,14 @@
+Battlecruiser Dianthus
+Card Type: XYZ Monster
+
+Description: 3 Level 3 monsters
+You can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of "Battlecruiser Dianthus" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Number Hunters

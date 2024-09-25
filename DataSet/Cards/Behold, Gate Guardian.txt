@@ -1,0 +1,14 @@
+Behold, Gate Guardian!
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Shuffle your entire hand into the Deck, then add 1 Level 11 monster from your Deck to your hand, and if you do, you can Special Summon up to 2 Level 7 monsters with different Attributes from your Deck and/or GY, but their ATK/DEF become 0, also their effects are negated. While you control "Gate Guardian", it gains the following effect.
+● Once while face-up on the field, when this card is targeted for an attack: You can change the attacking monster's ATK to 0, until the end of the Damage Step.
+
+Type: Paradox Broth
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardian
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,14 @@
+Oh Tokenbaum!
+Card Type: Trap Card
+
+Description: Tribute 2 or more Tokens with the same Level, then target monsters in your GY with that same Level, up to the number of Tokens Tributed; Special Summon them, but their effects are negated, also destroy them during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shadow Specters
+- Yu-Gi-Oh! Advent Calendar (2018)

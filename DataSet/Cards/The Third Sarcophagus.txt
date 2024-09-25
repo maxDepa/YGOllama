@@ -1,0 +1,15 @@
+The Third Sarcophagus
+Card Type: Spell Card
+
+Description: This card can only be placed on the field by the effect of "The First Sarcophagus".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Duelists of Shadows

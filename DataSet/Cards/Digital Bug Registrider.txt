@@ -1,0 +1,14 @@
+Digital Bug Registrider
+Card Type: Effect Monster
+
+Description: Cannot be used as Xyz Material for an Xyz Summon, except the Xyz Summon of an Insect monster. When you Normal Summon a Level 3 Insect monster: You can Special Summon this card from your hand, then you can make both this card and that monster Level 5 or 7. If this card is Special Summoned from the hand: You can change the battle position of 1 Insect monster you control. An Xyz Monster that was Summoned using this card on the field as material gains this effect.
+● This card gains 1000 ATK/DEF.
+
+Type: Insect
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Digital Bug
+Present in Sets:
+- Blazing Vortex

@@ -1,0 +1,23 @@
+Infinite Impermanence
+Card Type: Trap Card
+
+Description: Target 1 face-up monster your opponent controls; negate its effects (until the end of this turn), then, if this card was Set before activation and is on the field at resolution, for the rest of this turn all other Spell/Trap effects in this column are negated. If you control no cards, you can activate this card from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duel Overload
+- Duel Power
+- Flames of Destruction
+- Magnificent Mavens
+- Maximum Gold
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Structure Deck: Cyber Strike
+- Structure Deck: Fire Kings

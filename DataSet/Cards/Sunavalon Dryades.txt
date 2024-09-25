@@ -1,0 +1,14 @@
+Sunavalon Dryades
+Card Type: Link Monster
+
+Description: 2 Plant monsters, including a "Sunavalon" Link Monster
+This card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Twice per turn, if you take battle or effect damage: You can gain that much LP, and if you do, Special Summon 1 "Sunvine" monster from your Extra Deck.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sunavalon
+Present in Sets:
+- Ghosts From the Past

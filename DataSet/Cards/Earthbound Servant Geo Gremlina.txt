@@ -1,0 +1,14 @@
+Earthbound Servant Geo Gremlina
+Card Type: Fusion Monster
+
+Description: 1 "Earthbound" monster + 1 DARK monster
+If this card is Special Summoned: You can add 1 "Earthbound" monster from your Deck to your hand. You can target 1 DARK Synchro Monster you control; it can attack directly this turn. If a monster(s) your opponent controls is destroyed by an "Earthbound" card effect (except during the Damage Step): You can target 1 of those destroyed monsters; inflict damage to your opponent equal to that monster's original ATK. You can only use each effect of "Earthbound Servant Geo Gremlina" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1000
+Archetype: Earthbound
+Present in Sets:
+- Age of Overlord

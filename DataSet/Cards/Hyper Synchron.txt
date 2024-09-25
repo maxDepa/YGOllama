@@ -1,0 +1,17 @@
+Hyper Synchron
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard for the Synchro Summon of a Dragon-Type monster: That monster gains 800 ATK, also banish that face-up monster during the End Phase.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Synchron
+Present in Sets:
+- Crimson Crisis
+- Duel Terminal 2
+- Duelist League 17 participation cards
+- Duelist Pack: Yusei 2
+- Legendary Collection 5D's Mega Pack

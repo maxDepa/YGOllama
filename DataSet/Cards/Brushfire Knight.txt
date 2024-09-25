@@ -1,0 +1,13 @@
+Brushfire Knight
+Card Type: Effect Monster
+
+Description: When a FIRE monster is destroyed and sent to your Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. When this card is destroyed and sent to the Graveyard: Send 1 FIRE monster from your Deck to the Graveyard. You can only use 1 "Brushfire Knight" effect per turn, and only once that turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

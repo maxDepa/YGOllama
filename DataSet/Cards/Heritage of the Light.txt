@@ -1,0 +1,14 @@
+Heritage of the Light
+Card Type: Spell Card
+
+Description: If a monster is Ritual, Fusion, Synchro, or Xyz Summoned, while a monster with the same card type (Ritual, Fusion, Synchro, or Xyz) is on the field: You can draw 1 card. You can only use this effect of "Heritage of the Light" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

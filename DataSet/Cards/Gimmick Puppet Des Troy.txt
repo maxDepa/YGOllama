@@ -1,0 +1,14 @@
+Gimmick Puppet Des Troy
+Card Type: Effect Monster
+
+Description: Once while face-up on the field: You can target 1 "Gimmick Puppet" monster on the field; destroy it. When this card is sent from the field to the GY: You can Special Summon 1 or 2 "Gimmick Puppet" monsters from your hand.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 2000
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Primal Origin

@@ -1,0 +1,15 @@
+Life Absorbing Machine
+Card Type: Trap Card
+
+Description: During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven
+- Legacy of Darkness
+- Legacy of Darkness

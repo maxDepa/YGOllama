@@ -1,0 +1,13 @@
+Fire King Avatar Rangbali
+Card Type: Effect Monster
+
+Description: If a face-up "Fire King" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. When a Spell/Trap Card or effect is activated, while this card is on the field (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster in your hand or face-up field. You can only use each effect of "Fire King Avatar Rangbali" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 200
+Archetype: Fire King
+Present in Sets:
+- Structure Deck: Fire Kings

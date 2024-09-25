@@ -1,0 +1,16 @@
+Worm Barses
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: Target 1 Defense Position monster; change that target to face-up Attack Position.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 3
+Attack: 1400
+Defence: 1500
+Archetype: Worm
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 1
+- Hidden Arsenal

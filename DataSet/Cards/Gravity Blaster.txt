@@ -1,0 +1,13 @@
+Gravity Blaster
+Card Type: Spell Card
+
+Description: Equip only to a Machine-Type monster. Once per turn: You can activate this effect; it permanently gains 400 ATK. (This ATK gain remains even if this card leaves the field or the monster becomes unaffected by card effects.) If it battles an opponent's monster, that monster's effect is negated during the Battle Phase only.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising

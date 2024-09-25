@@ -1,0 +1,14 @@
+Witchcrafter Patronus
+Card Type: Trap Card
+
+Description: You can target 1 of your Spellcaster monsters that is banished or in your GY; shuffle it into the Deck, and if you do, add 1 "Witchcrafter" Spell from your Deck to your hand. If this card is in your GY, except the turn it was sent there: You can banish this card, then target any number of your banished "Witchcrafter" Spells with different names; add them to your hand. You can only use each effect of "Witchcrafter Patronus" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Witchcrafter
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

@@ -1,0 +1,13 @@
+Alien Mars
+Card Type: Effect Monster
+
+Description: The effects of Effect Monsters with A-Counters are negated, except for "Alien Mars".
+
+Type: Reptile
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Alien
+Present in Sets:
+- Cyberdark Impact

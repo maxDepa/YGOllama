@@ -1,0 +1,13 @@
+Evolsaur Elias
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: You can Special Summon 1 Level 6 or lower FIRE Dinosaur-Type monster from your hand.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 6
+Attack: 100
+Defence: 2400
+Archetype: Evolsaur
+Present in Sets:
+- Order of Chaos

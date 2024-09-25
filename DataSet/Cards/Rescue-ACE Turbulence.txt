@@ -1,0 +1,15 @@
+Rescue-ACE Turbulence
+Card Type: Effect Monster
+
+Description: You can banish 2 "Rescue-ACE" cards from your GY; Special Summon this card from your hand. During your Main Phase: You can Set up to 4 "Rescue-ACE" Quick-Play Spells / Normal Traps, with different names, directly from your Deck. If another card(s) you control leaves the field by an opponent's card effect (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use each effect of "Rescue-ACE Turbulence" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 9
+Attack: 3000
+Defence: 3000
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders
+- Amazing Defenders
+- Maze of Millennia

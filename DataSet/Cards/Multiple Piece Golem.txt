@@ -1,0 +1,15 @@
+Multiple Piece Golem
+Card Type: Fusion Monster
+
+Description: "Big Piece Golem" + "Medium Piece Golem"
+At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Extra Deck. Then, if all of the Fusion Material Monsters that were used for the Fusion Summon of this card are in your Graveyard, you can Special Summon them.
+
+Type: Rock
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1300
+Archetype: //
+Present in Sets:
+- The Duelist Genesis
+- The Duelist Genesis

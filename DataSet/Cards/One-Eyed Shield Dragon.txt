@@ -1,0 +1,15 @@
+One-Eyed Shield Dragon
+Card Type: Normal Monster
+
+Description: This dragon wears a shield not only for its own protection, but also for ramming its enemies.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 700
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

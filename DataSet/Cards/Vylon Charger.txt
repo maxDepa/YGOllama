@@ -1,0 +1,15 @@
+Vylon Charger
+Card Type: Effect Monster
+
+Description: All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 5
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

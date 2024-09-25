@@ -1,0 +1,17 @@
+Ayers Rock Sunrise
+Card Type: Spell Card
+
+Description: Target 1 Beast-Type monster in your Graveyard; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast-Type monster currently in your Graveyard, until the end of this turn. You can only activate 1 "Ayers Rock Sunrise" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

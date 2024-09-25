@@ -1,0 +1,14 @@
+Bujingi Crow
+Card Type: Effect Monster
+
+Description: When a Beast-Warrior-Type "Bujin" monster you control is targeted for an attack by an opponent's monster: You can send this card from your hand to the Graveyard; negate the attack, and if you do, inflict damage to your opponent equal to half the attacker's ATK. You can only use the effect of "Bujingi Crow" once per turn.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

@@ -1,0 +1,13 @@
+Crystal Transcendence
+Card Type: Skill Card
+
+Description: You can only Summon/Set "Crystal" monsters and Dragon monsters while this Skill is face-up. Once per turn, during your Main Phase, you can send up to 3 cards from your hand to your GY, then choose that many "Crystal Beast" monster(s) with different names from your Deck and place them in your Spell & Trap Zone as Continuous Spell Card(s). This Skill can be used twice per Duel.
+
+Type: Jesse Anderso
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

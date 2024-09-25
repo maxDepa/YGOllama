@@ -1,0 +1,14 @@
+Genex Turbine
+Card Type: Effect Monster
+
+Description: All face-up "Genex" monsters you control gain 400 ATK.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

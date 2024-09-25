@@ -1,0 +1,16 @@
+Constellar Sombre
+Card Type: Effect Monster
+
+Description: You can only use each effect of "Constellar Sombre" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 "Constellar" monster for 1 less Tribute.
+You can banish 1 "Constellar" monster from your Graveyard, then target 1 "Constellar" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.
+● This turn: You can activate this effect; Normal Summon 1 "Constellar" monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1550
+Defence: 1600
+Archetype: Constellar
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

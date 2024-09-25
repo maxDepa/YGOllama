@@ -1,0 +1,17 @@
+Dark Mimic LV1
+Card Type: Flip Effect Monster
+
+Description: FLIP: Draw 1 card.
+Once per turn, during your Standby Phase: You can send this card to the GY; Special Summon 1 "Dark Mimic LV3" from your hand or Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Gold Series: Haunted Mine
+- Soul of the Duelist
+- Speed Duel Starter Decks: Twisted Nightmares

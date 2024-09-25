@@ -1,0 +1,15 @@
+Armed Protector Dragon
+Card Type: Effect Monster
+
+Description: Face-up Equip Cards you control cannot be destroyed by card effects. This card gains 500 ATK for each Equip Card equipped to this card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2000
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Rise of the True Dragons Structure Deck
+- Shadow Specters

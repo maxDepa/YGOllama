@@ -1,0 +1,14 @@
+Performance Hurricane
+Card Type: Spell Card
+
+Description: Target cards your opponent controls, up to the number of "Performapal" monsters you control; return them to the hand. You can only activate 1 "Performance Hurricane" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

@@ -1,0 +1,13 @@
+Core of Chaos
+Card Type: Tuner Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If this face-up card would leave the field, banish it instead. You can only use each of the following effects of "Core of Chaos" once per turn. You can banish 1 DARK monster from your hand or GY; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except LIGHT or DARK Synchro Monsters. If this card is Special Summoned: You can target 1 of your banished "Shell of Chaos"; Special Summon it.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 1600
+Archetype: Chaos
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,16 @@
+Mozarta the Melodious Maestra
+Card Type: Effect Monster
+
+Description: Once per turn: You can Special Summon 1 LIGHT Fairy-Type monster from your hand. You cannot Special Summon other monsters the turn you activate this effect, except for LIGHT monsters.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2600
+Defence: 2000
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

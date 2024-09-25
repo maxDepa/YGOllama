@@ -1,0 +1,14 @@
+Marshmallon Glasses
+Card Type: Spell Card
+
+Description: While "Marshmallon" is in your Monster Zone, your opponent cannot target monsters other than "Marshmallon" for attacks.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Premium Pack (TCG)
+- Yugi's Legendary Decks

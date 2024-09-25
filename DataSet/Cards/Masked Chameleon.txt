@@ -1,0 +1,14 @@
+Masked Chameleon
+Card Type: Tuner Monster
+
+Description: Cannot be Normal Summoned if you control a Level 5 or higher monster. When this card is Normal Summoned: You can target 1 monster with 0 DEF in your Graveyard; Special Summon that target in face-up Defense Position. Its effects are negated. You cannot Special Summon any other monsters, except from the Extra Deck, during the turn you activate this effect.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1100
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

@@ -1,0 +1,14 @@
+Speedroid Skull Marbles
+Card Type: Effect Monster
+
+Description: Once per turn, during the Standby Phase, if your opponent controls a face-up monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. Cannot be destroyed by battle with a Normal Summoned/Set monster. Your opponent takes any battle damage you would have taken from battles involving this card. You can only use this effect of "Speedroid Skull Marbles" once per turn. If you control a face-up monster that is not a "Speedroid" monster, destroy this card.
+
+Type: Machine
+Attribute: WIND
+Level: 7
+Attack: 0
+Defence: 3000
+Archetype: Roid
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis

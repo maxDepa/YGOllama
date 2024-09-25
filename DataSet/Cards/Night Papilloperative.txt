@@ -1,0 +1,14 @@
+Night Papilloperative
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+ Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Number Hunters

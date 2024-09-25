@@ -1,0 +1,13 @@
+Runaway Karakuri
+Card Type: Spell Card
+
+Description: Select 1 face-up "Karakuri" monster on the field. Until the End Phase, it gains 1000 ATK but its effect(s) is negated.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Karakuri
+Present in Sets:
+- Extreme Victory

@@ -1,0 +1,15 @@
+Fusion Party!
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Once per Duel, you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.
+
+Type: Christine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards

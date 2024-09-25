@@ -1,0 +1,14 @@
+Shire, Lightsworn Spirit
+Card Type: Effect Monster
+
+Description: This card gains 300 ATK for each "Lightsworn" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 400
+Defence: 1400
+Archetype: Lightsworn
+Present in Sets:
+- Realm of Light Structure Deck
+- Stardust Overdrive

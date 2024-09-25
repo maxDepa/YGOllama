@@ -1,0 +1,15 @@
+Electromagnetic Turtle
+Card Type: Effect Monster
+
+Description: During your opponent's Battle Phase (Quick Effect): You can banish this card from your GY; end the Battle Phase. You can only use this effect of "Electromagnetic Turtle" once per Duel.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Slifer the Sky Dragon
+- Structure Deck: Shaddoll Showdown
+- Yugi's Legendary Decks

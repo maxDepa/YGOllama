@@ -1,0 +1,16 @@
+Guard Penalty
+Card Type: Spell Card
+
+Description: Select 1 monster on the field. If it is changed to Defense Position this turn, draw 1 card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Enemy of Justice

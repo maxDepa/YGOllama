@@ -1,0 +1,20 @@
+Performapal Odd-Eyes Seer
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 "Performapal" or "Odd-Eyes" card in your GY; add it to your hand, then destroy this card. You can only use this effect of "Performapal Odd-Eyes Seer" once per turn.
+
+[ Monster Effect ] 
+During your Main Phase, if you control this Pendulum Summoned card: You can activate the following effect, based on its battle position;
+● Attack Position: You can banish this card, then target 1 "Performapal" or "Odd-Eyes" monster in your GY; Special Summon it.
+● Defense Position: Take 1 "Performapal" or "Odd-Eyes" Pendulum Monster from your Deck, and either add it to your face-up Extra Deck or send it to the GY.
+You can only use this effect of "Performapal Odd-Eyes Seer" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 100
+Defence: 1800
+Archetype: Odd-Eyes
+Present in Sets:
+- Battles of Legend: Crystal Revenge

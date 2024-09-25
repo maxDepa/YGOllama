@@ -1,0 +1,18 @@
+Gallant Granite
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can detach 1 material from this card, then activate 1 of these effects;
+● Add 1 Rock monster from your Deck to your hand.
+● Special Summon 1 Rock monster from your hand in face-down Defense Position.
+You can only use this effect of "Gallant Granite" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 2300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

@@ -1,0 +1,17 @@
+Vanguard of the Dragon
+Card Type: Effect Monster
+
+Description: You can send 1 Dragon-Type monster from your hand to the Graveyard; this card gains 300 ATK. When this card you control is sent to your Graveyard by your opponent's card effect: You can target 1 Dragon-Type Normal Monster in either player's Graveyard; Special Summon that target.
+
+Type: Dragon
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Raging Battle
+- Speed Duel GX: Duelists of Shadows
+- Starter Deck: Kaiba Reloaded

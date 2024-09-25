@@ -1,0 +1,16 @@
+Time Thief Perpetua
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+During the Standby Phase: You can detach 1 material from this card, then target 1 "Time Thief" monster in your GY, except "Time Thief Perpetua"; Special Summon that monster. (Quick Effect): You can target 1 other Xyz Monster you control; attach 1 "Time Thief" card from your Deck to it as material. You can only use each effect of "Time Thief Perpetua" once per turn.
+
+Type: Psychic
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 2500
+Archetype: Time Thief
+Present in Sets:
+- Ghosts From the Past
+- Ignition Assault
+- Ignition Assault

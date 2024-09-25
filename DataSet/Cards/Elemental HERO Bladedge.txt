@@ -1,0 +1,23 @@
+Elemental HERO Bladedge
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Elemental Energy
+- Elemental Energy
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 3
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Midterm Paradox
+- Starter Deck 2006
+- Starter Deck: Jaden Yuki

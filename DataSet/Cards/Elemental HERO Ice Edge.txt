@@ -1,0 +1,14 @@
+Elemental HERO Ice Edge
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent by a direct attack: You can target 1 Set card in your opponent's Spell & Trap Card Zone; destroy that target. Once per turn, during your Main Phase 1: You can discard 1 card; this card can attack your opponent directly this turn.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: Elemental HERO
+Present in Sets:
+- Astral Pack One
+- Storm of Ragnarok

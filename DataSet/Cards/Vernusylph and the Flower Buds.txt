@@ -1,0 +1,13 @@
+Vernusylph and the Flower Buds
+Card Type: Trap Card
+
+Description: Target face-up cards your opponent controls, up to the number of EARTH monsters you control with different names that were Special Summoned from the GY; return EARTH monsters you control to the hand equal to the number of targets, and if you returned at least 1 to the hand, return the targeted cards to the hand. You can only activate 1 "Vernusylph and the Flower Buds" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vernusylph
+Present in Sets:
+- Power of the Elements

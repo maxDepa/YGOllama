@@ -1,0 +1,16 @@
+Gilford the Legend
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. When this card is Normal Summoned: You can equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Warrior's Triumph
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

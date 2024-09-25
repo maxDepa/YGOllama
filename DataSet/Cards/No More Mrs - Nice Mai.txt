@@ -1,0 +1,14 @@
+No More Mrs. Nice Mai!
+Card Type: Skill Card
+
+Description: Once per turn, at the end of your Battle Phase, if a monster you control inflicted battle damage to your opponent this turn, you can destroy 1 Spell/Trap on the field.
+
+Type: Mai Valentine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box

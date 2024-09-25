@@ -1,0 +1,15 @@
+The Inexperienced Spy
+Card Type: Spell Card
+
+Description: Select and see 1 card in your opponent's hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution

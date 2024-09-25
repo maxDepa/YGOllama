@@ -1,0 +1,17 @@
+Catch of the Day
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+If you control "The Legendary Fisherman", you can activate "Umi" directly from your Deck or GY. This Skill can only be used once per Duel.
+Once per turn, when "The Legendary Fisherman" you control destroys a monster by battle or inflicts battle damage to your opponent, you can Special Summon 1 Level 4 or lower WATER monster from your Deck or GY in Defense Position.
+
+Type: Mako
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Umi
+Present in Sets:
+- Speed Duel Tournament Pack 6
+- Speed Duel: Attack from the Deep

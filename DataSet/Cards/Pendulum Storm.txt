@@ -1,0 +1,15 @@
+Pendulum Storm
+Card Type: Spell Card
+
+Description: Destroy as many cards in the Pendulum Zones as possible, then you can destroy 1 Spell/Trap your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Breakers of Shadow
+- Legendary Dragon Decks
+- Pendulum Evolution

@@ -1,0 +1,17 @@
+Minerva, the Exalted Lightsworn
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can detach 1 material from this card; send the top 3 cards of your Deck to the GY, then draw cards equal to the number of "Lightsworn" cards sent to the GY by this effect. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can send the top 3 cards of your Deck to the GY, then you can destroy cards on the field up to the number of "Lightsworn" cards sent to the GY by this effect. You can only use each effect of "Minerva, the Exalted Lightsworn" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 800
+Archetype: Lightsworn
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Yu-Gi-Oh! Championship Series 2015 Prize Card
+- Yu-Gi-Oh! Championship Series 2015 Prize Card

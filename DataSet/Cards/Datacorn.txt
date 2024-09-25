@@ -1,0 +1,13 @@
+Datacorn
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can Special Summon 1 "Data Acorn Token" (Cyberse/DARK/Level 1/ATK 0/DEF 0). You can only use this effect of "Datacorn" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Powercode Link

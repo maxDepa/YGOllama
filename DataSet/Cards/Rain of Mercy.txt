@@ -1,0 +1,16 @@
+Rain of Mercy
+Card Type: Spell Card
+
+Description: Increases the Life Points of both players by 1000 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

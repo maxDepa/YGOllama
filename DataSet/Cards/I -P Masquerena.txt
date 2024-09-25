@@ -1,0 +1,17 @@
+I:P Masquerena
+Card Type: Link Monster
+
+Description: 2 non-Link Monsters
+During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Link Monster using materials you control, including this card. You can only use this effect of "I:P Masquerena" once per turn. A Link Monster that used this card as material cannot be destroyed by your opponent's card effects.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact
+- Chaos Impact
+- Maximum Gold: El Dorado

@@ -1,0 +1,16 @@
+Reaper of the Cards
+Card Type: Flip Effect Monster
+
+Description: FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1380
+Defence: 1930
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

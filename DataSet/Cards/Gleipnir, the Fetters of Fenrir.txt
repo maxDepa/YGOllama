@@ -1,0 +1,17 @@
+Gleipnir, the Fetters of Fenrir
+Card Type: Trap Card
+
+Description: Add 1 "Nordic" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nordic
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok
+- Storm of Ragnarok

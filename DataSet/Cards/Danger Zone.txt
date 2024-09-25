@@ -1,0 +1,13 @@
+Danger! Zone
+Card Type: Trap Card
+
+Description: Draw 3 cards, then discard 2 cards including at least 1 "Danger!" card, or, if you have no "Danger!" cards in your hand, show your entire hand and shuffle it into the Deck. You can only activate 1 "Danger! Zone" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Danger!
+Present in Sets:
+- Cybernetic Horizon

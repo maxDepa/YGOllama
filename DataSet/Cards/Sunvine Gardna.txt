@@ -1,0 +1,14 @@
+Sunvine Gardna
+Card Type: Link Monster
+
+Description: 1 Plant Normal Monster
+If a "Sunavalon" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a "Sunavalon" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 600
+Defence: 0
+Archetype: Sunvine
+Present in Sets:
+- Ghosts From the Past

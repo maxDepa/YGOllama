@@ -1,0 +1,13 @@
+Vice Berserker
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard as a Synchro Material Monster, inflict 2000 damage to the player that Synchro Summoned, and the Synchro Monster that used this card as a Synchro Material Monster gains 2000 ATK until the End Phase.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Starstrike Blast

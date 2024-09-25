@@ -1,0 +1,12 @@
+Graveyard and the Hand of Invitation
+Card Type: Normal Monster
+
+Description: A graveyard that serves as a power source for zombies.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 900
+Archetype: //
+Present in Sets:

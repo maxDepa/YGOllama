@@ -1,0 +1,15 @@
+Shien's Smoke Signal
+Card Type: Spell Card
+
+Description: Add 1 Level 3 or lower "Six Samurai" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Samurai Warlords Structure Deck
+- Spirit Warriors
+- Storm of Ragnarok

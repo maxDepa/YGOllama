@@ -1,0 +1,17 @@
+Formation Union
+Card Type: Trap Card
+
+Description: Select and activate 1 of the following effects:
+● Equip 1 Union Monster on your side of the field to an appropriate monster on your side of the field as an Equip Spell Card.
+● Unequip 1 of your equipped Union Monsters and Special Summon it to your side of the field in face-up Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Battle City Box

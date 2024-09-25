@@ -1,0 +1,15 @@
+Number 51: Finisher the Strong Arm
+Card Type: XYZ Monster
+
+Description: 3 Level 3 monsters
+Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: You can detach 1 Xyz Material from this card; place 1 Counter on this card (max. 3). At the end of the Battle Phase, if this card battled, and has 3 of these Counters: You can destroy all cards your opponent controls.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 2600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

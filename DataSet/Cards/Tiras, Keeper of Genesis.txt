@@ -1,0 +1,16 @@
+Tiras, Keeper of Genesis
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+This card's effects can only be applied/resolved while it has Xyz Material. This card cannot be destroyed by card effects. At the end of the Battle Phase, if this card attacked or was attacked: Target 1 card your opponent controls; destroy that target. During each of your End Phases: Detach 1 Xyz Material from this card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Generation Force

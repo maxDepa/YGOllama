@@ -1,0 +1,71 @@
+Mystical Space Typhoon
+Card Type: Spell Card
+
+Description: Target 1 Spell/Trap on the field; destroy that target.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- 2-Player Starter Deck: Yuya & Declan
+- 2-Player Starter Set
+- Astral Pack Eight
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Cyber Dragon Revolution Structure Deck
+- Dark Beginning 1
+- Dark Beginning 1
+- Dark Legends
+- Dark Legion Starter Deck
+- Duel Overload
+- Duel Terminal 1
+- Duelist League 2010 participation cards
+- Duelist Pack: Zane Truesdale
+- Gold Series 3
+- Gold Series: Haunted Mine
+- Hidden Arsenal: Chapter 1
+- High-Speed Riders
+- Hobby League 2 participation card B
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Legendary Hero Decks
+- Magic Ruler
+- Magic Ruler
+- Master of Pendulum Structure Deck
+- Noble Knights of the Round Table Power-Up Pack
+- Premium Gold
+- Retro Pack
+- Saber Force Starter Deck
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Codebreaker
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Link Strike
+- Starter Deck: Pegasus
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Starter Deck: Yuya
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Dinosaur's Rage
+- Structure Deck: Dragon's Roar
+- Structure Deck: Fury from the Deep
+- Structure Deck: Invincible Fortress
+- Structure Deck: Lord of the Storm
+- Structure Deck: Machine Re-Volt
+- Structure Deck: Marik (TCG)
+- Structure Deck: Sacred Beasts
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Warrior's Triumph
+- Structure Deck: Zombie Madness
+- Super Starter Power-Up Pack
+- Super Starter: Space-Time Showdown
+- The Dark Emperor Structure Deck
+- Warriors' Strike Structure Deck
+- Wing Raiders

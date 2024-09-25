@@ -1,0 +1,18 @@
+Sky Striker Ace - Hayate
+Card Type: Link Monster
+
+Description: 1 non-WIND "Sky Striker Ace" monster
+You can only Special Summon "Sky Striker Ace - Hayate(s)" once per turn. This card can attack directly. After damage calculation, if this card battled: You can send 1 "Sky Striker" card from your Deck to the GY.
+
+Type: Machine
+Attribute: WIND
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- Magnificent Mavens
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)

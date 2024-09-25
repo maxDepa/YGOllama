@@ -1,0 +1,13 @@
+Orcust Crescendo
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, is activated while you control an "Orcust" Link Monster: Negate the activation, and if you do, banish that card. You can banish this card from your GY; add to your hand 1 of your DARK Machine monsters that is banished or in your Deck. You cannot Special Summon monsters the turn you activate this effect, except DARK Machine monsters. You can only use 1 "Orcust Crescendo" effect per turn, and only once that turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- Dark Neostorm

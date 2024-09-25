@@ -1,0 +1,15 @@
+Vampire Awakening
+Card Type: Trap Card
+
+Description: Special Summon 1 "Vampire" monster from your Deck, but destroy it during the End Phase of this turn. You can only activate 1 "Vampire Awakening" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vampire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors
+- Speed Duel GX: Duelists of Shadows

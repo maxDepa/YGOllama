@@ -1,0 +1,15 @@
+Volcanic Hammerer
+Card Type: Effect Monster
+
+Description: Once per turn, you can inflict damage to your opponent equal to the number of "Volcanic" monsters in your Graveyard x 200. If you activate this effect, this card cannot attack during this turn.
+
+Type: Pyro
+Attribute: FIRE
+Level: 5
+Attack: 2400
+Defence: 1500
+Archetype: Volcanic
+Present in Sets:
+- Force of the Breaker
+- Legendary Duelists: Soulburning Volcano
+- Speed Duel GX: Duel Academy Box

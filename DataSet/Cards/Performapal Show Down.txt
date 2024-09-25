@@ -1,0 +1,13 @@
+Performapal Show Down
+Card Type: Trap Card
+
+Description: Target any number of face-up monsters your opponent controls, up to the number of face-up Spell Cards you control; change those monsters to face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Performapal
+Present in Sets:
+- Starter Deck: Yuya

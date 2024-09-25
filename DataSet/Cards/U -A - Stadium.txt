@@ -1,0 +1,14 @@
+U.A. Stadium
+Card Type: Spell Card
+
+Description: If a "U.A." monster is Normal Summoned to your side of the field: You can add 1 "U.A." monster from your Deck to your hand. Once per turn, if a "U.A." monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK (even if this card leaves the field).
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: U.A.
+Present in Sets:
+- Astral Pack Eight
+- Duelist Alliance

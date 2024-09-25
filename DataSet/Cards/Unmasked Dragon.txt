@@ -1,0 +1,14 @@
+Unmasked Dragon
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Wyrm-Type monster with 1500 or less DEF from your Deck.
+
+Type: Wyrm
+Attribute: FIRE
+Level: 3
+Attack: 1400
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Obelisk the Tormentor
+- The New Challengers

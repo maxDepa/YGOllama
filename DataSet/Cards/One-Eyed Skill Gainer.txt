@@ -1,0 +1,14 @@
+One-Eyed Skill Gainer
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+You can detach 1 Xyz Material from this card to target 1 face-up Xyz Monster your opponent controls; this card's name and original effect become the same as that monster. This effect can only be used once while this card is face-up on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2500
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Abyss Rising

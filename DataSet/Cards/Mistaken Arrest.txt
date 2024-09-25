@@ -1,0 +1,15 @@
+Mistaken Arrest
+Card Type: Spell Card
+
+Description: Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Clash of Rebellions
+- Maximum Gold
+- Premium Gold: Infinite Gold

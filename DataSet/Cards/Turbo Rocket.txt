@@ -1,0 +1,13 @@
+Turbo Rocket
+Card Type: Tuner Monster
+
+Description: While attacking, this card cannot be destroyed by battle. If this card attacks, after damage calculation, inflict damage equal to half the ATK of the attack target to your opponent.
+
+Type: Machine
+Attribute: WIND
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

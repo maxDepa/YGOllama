@@ -1,0 +1,20 @@
+Zolga
+Card Type: Effect Monster
+
+Description: When a monster is Tribute Summoned by Tributing this card: The owner of this card gains 2000 Life Points.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel: Battle City Box

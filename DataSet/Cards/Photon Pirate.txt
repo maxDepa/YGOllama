@@ -1,0 +1,13 @@
+Photon Pirate
+Card Type: Effect Monster
+
+Description: You can banish 1 "Photon" monster from your Graveyard; this card gains 1000 ATK until the End Phase. You can use the effect of "Photon Pirate" up to twice per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Photon
+Present in Sets:
+- Zexal Collection Tin

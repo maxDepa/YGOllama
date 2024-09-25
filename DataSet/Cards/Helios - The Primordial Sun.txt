@@ -1,0 +1,16 @@
+Helios - The Primordial Sun
+Card Type: Effect Monster
+
+Description: This card's ATK and DEF are each equal to the number of removed from play monsters x 100.
+
+Type: Pyro
+Attribute: LIGHT
+Level: 4
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- The Dark Emperor Structure Deck
+- Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards

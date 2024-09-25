@@ -1,0 +1,16 @@
+Level Up!
+Card Type: Spell Card
+
+Description: Send 1 face-up "LV" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is listed in the sent monster's text, ignoring its Summoning conditions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist
+- Speed Duel Starter Decks: Twisted Nightmares

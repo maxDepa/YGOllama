@@ -1,0 +1,21 @@
+Starlight Road
+Card Type: Trap Card
+
+Description: When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 "Stardust Dragon" from your Extra Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Brothers of Legend
+- Duelist League 17 participation cards
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei 3
+- Gold Series: Haunted Mine
+- Legendary Collection 5D's Mega Pack
+- Maximum Gold: El Dorado
+- Premium Gold: Return of the Bling
+- Toon Chaos

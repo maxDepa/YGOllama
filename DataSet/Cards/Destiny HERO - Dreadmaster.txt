@@ -1,0 +1,18 @@
+Destiny HERO - Dreadmaster
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by "Clock Tower Prison": Destroy all monsters you control, except "Destiny HERO" monsters, also, after that, you can Special Summon up to 2 "Destiny HERO" monsters from your GY. After this card is Special Summoned, for the rest of this turn, "Destiny HERO" monsters you control cannot be destroyed, also you take no battle damage when they battle. The ATK/DEF of this card are equal to the combined original ATK of all other "Destiny HERO" monsters you control.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: -1
+Defence: -1
+Archetype: Destiny HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks

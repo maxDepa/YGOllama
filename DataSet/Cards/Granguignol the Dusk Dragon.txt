@@ -1,0 +1,16 @@
+Granguignol the Dusk Dragon
+Card Type: Fusion Monster
+
+Description: "Blazing Cartesia, the Virtuous" + 1 LIGHT or DARK monster
+If this card is Fusion Summoned: You can send 1 Level 6 or higher LIGHT or DARK monster from your Deck or Extra Deck to the GY. If a monster is Special Summoned by your opponent's activated monster effect (except during the Damage Step): You can banish this card from your field or GY; Special Summon 1 "Dogmatika" monster from your Deck or 1 "Despia" monster from your Extra Deck. You can only use each effect of "Granguignol the Dusk Dragon" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Photon Hypernova
+- Photon Hypernova

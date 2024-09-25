@@ -1,0 +1,14 @@
+Tristan, Knight of the Underworld
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Zombie monster with 0 DEF in your GY; add it to your hand. Gains 300 ATK if you control another Zombie monster(s).
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Premium Gold: Return of the Bling
+- Structure Deck: Zombie Horde

@@ -1,0 +1,13 @@
+Cursed Bill
+Card Type: Spell Card
+
+Description: When the equipped monster is destroyed and this card is sent to the Graveyard, inflict damage to the player who controlled the equipped monster, equal to the monster's original DEF.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starstrike Blast

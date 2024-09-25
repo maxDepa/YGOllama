@@ -1,0 +1,19 @@
+Droll & Lock Bird
+Card Type: Effect Monster
+
+Description: If a card(s) is added from the Main Deck to your opponent's hand, except during the Draw Phase (Quick Effect): You can send this card from your hand to the GY; for the rest of this turn, cards cannot be added from either player's Main Deck to the hand.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Maximum Gold
+- OTS Tournament Pack 1
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Starstrike Blast
+- Structure Deck: Order of the Spellcasters

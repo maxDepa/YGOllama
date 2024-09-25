@@ -1,0 +1,17 @@
+The Agent of Wisdom - Mercury
+Card Type: Effect Monster
+
+Description: During your Standby Phase, if you controlled this face-up card and had no cards in your hand at the end of the opponent's last End Phase: Draw 1 card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 1700
+Archetype: The Agent
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Collection 3: Yugi's World Mega Pack
+- Lost Sanctuary Structure Deck

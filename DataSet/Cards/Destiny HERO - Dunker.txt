@@ -1,0 +1,14 @@
+Destiny HERO - Dunker
+Card Type: Effect Monster
+
+Description: You can send 1 "Destiny HERO" card from your hand to the Graveyard; inflict 500 damage to your opponent.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1700
+Archetype: Destiny HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Phantom Darkness

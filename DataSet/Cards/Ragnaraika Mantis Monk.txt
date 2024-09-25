@@ -1,0 +1,14 @@
+Ragnaraika Mantis Monk
+Card Type: Link Monster
+
+Description: 2+ monsters, including an Insect, Plant, or Reptile monster
+You can banish 2 Insect, Plant, and/or Reptile monsters from your GY; add 1 "Ragnaraika" Trap from your Deck to your hand. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use each effect of "Ragnaraika Mantis Monk" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Ragnaraika
+Present in Sets:
+- Legacy of Destruction

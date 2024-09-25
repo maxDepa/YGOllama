@@ -1,0 +1,14 @@
+SIMM Tablir
+Card Type: Effect Monster
+
+Description: You can reveal this card in your hand, then target 1 Level 4 Cyberse monster in your GY; Special Summon this card from your hand to your zone a linked Link Monster you control points to, and if you do, return the targeted monster to the hand. You can only use this effect of "SIMM Tablir" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 5
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

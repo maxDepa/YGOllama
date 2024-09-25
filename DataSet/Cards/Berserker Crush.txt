@@ -1,0 +1,17 @@
+Berserker Crush
+Card Type: Spell Card
+
+Description: Banish 1 monster from your GY, then target 1 "Winged Kuriboh" you control; that target's ATK/DEF become equal to the ATK/DEF of the monster that was banished, until the end of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kuriboh
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Yu-Gi-Oh! Advent Calendar (2019)

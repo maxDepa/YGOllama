@@ -1,0 +1,13 @@
+Metal Guardian
+Card Type: Normal Monster
+
+Description: A fiend guarding the treasures of the netherworld, it's most at home in the dark.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1150
+Defence: 2150
+Archetype: Guardian
+Present in Sets:
+- McDonald's Promotional Cards 2

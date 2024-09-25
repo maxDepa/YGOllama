@@ -1,0 +1,15 @@
+Kurama
+Card Type: Normal Monster
+
+Description: A vicious bird that attacks from the skies with its whip-like tail.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

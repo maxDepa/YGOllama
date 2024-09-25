@@ -1,0 +1,16 @@
+Supreme King Dragon Dark Rebellion
+Card Type: XYZ Monster
+
+Description: 2 Level 4 DARK Pendulum Monsters
+Once per turn, before damage calculation, if this card battles an opponent's monster: You can detach 1 material from this card; until the end of this turn, change the ATK of that face-up opponent's monster to 0, and if you do, this card gains ATK equal to the original ATK of that opponent's monster. During the Battle Phase (Quick Effect): You can return this card to the Extra Deck; Special Summon up to 2 face-up "Supreme King Dragon" and/or "Supreme King Gate" Pendulum Monsters from your Extra Deck in Defense Position.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2500
+Defence: 2000
+Archetype: Supreme King
+Present in Sets:
+- Code of the Duelist
+- Legendary Dragon Decks
+- Maze of Millennia

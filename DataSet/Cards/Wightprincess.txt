@@ -1,0 +1,15 @@
+Wightprincess
+Card Type: Effect Monster
+
+Description: This card's name becomes "Skull Servant" while it is in the Graveyard. If this card is Normal or Special Summoned: You can send 1 "Wightprince" from your Deck to the Graveyard. During either player's turn: You can send this card from your hand or field to the Graveyard; all monsters currently on the field lose ATK and DEF equal to their own Level/Rank x 300, until the end of this turn.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: Skull Servant
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- OTS Tournament Pack 25
+- Raging Tempest

@@ -1,0 +1,20 @@
+Trap Stun
+Card Type: Trap Card
+
+Description: Negate all other Trap effects on the field this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Two
+- Cyber Dragon Revolution Structure Deck
+- Duel Terminal 5a
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 5D's Mega Pack
+- Premium Gold
+- Raging Battle
+- Structure Deck: Powercode Link

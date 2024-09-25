@@ -1,0 +1,16 @@
+Red-Eyes Retro Dragon
+Card Type: Effect Monster
+
+Description: If a Level 7 or lower "Red-Eyes" monster(s) you control is destroyed by your opponent's attack or card effect and sent to your GY, while this card is in your hand: You can Special Summon this card in Defense Position, and if you do, Special Summon as many of those destroyed monsters as possible in the same position they were in when destroyed. You can Tribute this card; you can Normal Summon 1 "Red-Eyes" monster during your Main Phase this turn in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Red-Eyes
+Present in Sets:
+- Breakers of Shadow
+- Legendary Decks II
+- Legendary Duelists
+- Legendary Duelists: Season 1

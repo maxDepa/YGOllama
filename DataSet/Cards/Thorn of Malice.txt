@@ -1,0 +1,15 @@
+Thorn of Malice
+Card Type: Spell Card
+
+Description: Equip only to "Black Rose Dragon" or a Plant-Type monster. It gains 600 ATK. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If the equipped monster attacks a monster, after damage calculation: The attacked monster loses 600 ATK and DEF. An opponent's monster that battles with the equipped monster cannot be destroyed by that battle.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Raging Battle

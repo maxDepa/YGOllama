@@ -1,0 +1,14 @@
+Star Seraph Sovereignty
+Card Type: Effect Monster
+
+Description: Cannot be used as material for an Xyz Summon, except for an Xyz Summon that uses 3 or more monsters as material. If you Normal or Special Summon a "Star Seraph" monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, draw 1 card, then you can Special Summon it if it is a "Star Seraph" monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: Star Seraph
+Present in Sets:
+- Duel Power
+- World Superstars

@@ -1,0 +1,13 @@
+Call of the Reaper
+Card Type: Trap Card
+
+Description: Activate only when a monster(s) is Special Summoned from your Graveyard. Select and Special Summon 1 "Supay" or 1 "Fire Ant Ascator" from your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

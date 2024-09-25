@@ -1,0 +1,14 @@
+Samurai Destroyer
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card battles an opponent's monster, your opponent cannot activate cards or effects until the end of the Damage Step, also that opponent's monster has its effects negated during the Battle Phase only. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can target 1 Machine monster in your GY; Special Summon it.
+
+Type: Machine
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Circuit Break

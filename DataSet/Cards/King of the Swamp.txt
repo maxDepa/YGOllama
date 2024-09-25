@@ -1,0 +1,20 @@
+King of the Swamp
+Card Type: Effect Monster
+
+Description: This card can be used as a substitute for any 1 Fusion Material whose name is specifically listed on the Fusion Monster Card, but the other Fusion Material(s) must be correct. You can discard this card to the Graveyard; add 1 "Polymerization" from your Deck to your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 500
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Duel Terminal 4
+- Fusion Enforcers
+- Hobby League 1 participation cards C
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- OTS Tournament Pack 20

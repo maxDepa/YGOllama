@@ -1,0 +1,13 @@
+Pumpkin Carriage
+Card Type: Effect Monster
+
+Description: "Prinzessin" you control can attack directly. Your opponent cannot target "Golden Castle of Stromberg" you control with card effects, also it cannot be destroyed by card effects.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 300
+Archetype: Golden Castle of Stromberg
+Present in Sets:
+- Battles of Legend: Relentless Revenge

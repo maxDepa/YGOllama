@@ -1,0 +1,19 @@
+Medium of the Ice Barrier
+Card Type: Effect Monster
+
+Description: If your opponent controls 4 or more cards than you do, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 7
+Attack: 2200
+Defence: 1600
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

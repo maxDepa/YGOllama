@@ -1,0 +1,13 @@
+Alien Stealthbuster
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: You can target 1 face-up monster on the field; place 2 A-Counters on it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 card with an A-Counter; destroy it. You can only use each effect of "Alien Stealthbuster" once per turn.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: Alien
+Present in Sets:
+- Dawn of Majesty

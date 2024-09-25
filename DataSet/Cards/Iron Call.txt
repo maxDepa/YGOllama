@@ -1,0 +1,15 @@
+Iron Call
+Card Type: Spell Card
+
+Description: If you control a Machine monster: Target 1 Level 4 or lower Machine monster in your GY; Special Summon that target, but its effects are negated, also destroy it during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars
+- Structure Deck: Mechanized Madness

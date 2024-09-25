@@ -1,0 +1,13 @@
+Spell Recycler
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target 1 Spell Card in your Graveyard; send the top card of your Deck to the Graveyard, and if you do, return the target to the bottom of your Deck.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

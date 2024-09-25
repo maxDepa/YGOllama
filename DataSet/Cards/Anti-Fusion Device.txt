@@ -1,0 +1,13 @@
+Anti-Fusion Device
+Card Type: Trap Card
+
+Description: Destroy 1 face-up Fusion Monster on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Anti
+Present in Sets:
+- Strike of Neos

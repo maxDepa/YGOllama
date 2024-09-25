@@ -1,0 +1,14 @@
+Savage Colosseum
+Card Type: Spell Card
+
+Description: If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During each End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Stardust Overdrive

@@ -1,0 +1,17 @@
+Cyber-Stein
+Card Type: Effect Monster
+
+Description: You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Dark Beginning 2
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Shonen Jump Championship 2004 Prize Card

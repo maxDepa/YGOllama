@@ -1,0 +1,14 @@
+Stronghold Guardian
+Card Type: Effect Monster
+
+Description: If a Defense Position monster you control is attacked, you can send this card from your hand to the Graveyard during the Damage Step to have your attacked monster gain 1500 DEF until the End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 1500
+Archetype: Guardian
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Duelist Revolution

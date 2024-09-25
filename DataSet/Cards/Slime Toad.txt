@@ -1,0 +1,14 @@
+Slime Toad
+Card Type: Normal Monster
+
+Description: A slime with the head of a frog, it attacks by croaking terribly.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 700
+Defence: 500
+Archetype: Frog
+Present in Sets:
+- McDonald's Promotional Cards
+- OTS Tournament Pack 3

@@ -1,0 +1,13 @@
+Fairy Tail - Rochka
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can make your opponent gain 500 LP, then your opponent looks at the top 3 cards in your Deck, and chooses 1 of them for you to add to your hand, also shuffle the rest back into the Deck. You can only use this effect of "Fairy Tail - Rochka" once per turn. Once per battle, if this card battles, before damage calculation: You can send this card to the GY.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1850
+Defence: 1000
+Archetype: Fairy Tail
+Present in Sets:
+- Ghosts From the Past

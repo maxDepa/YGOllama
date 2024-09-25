@@ -1,0 +1,14 @@
+Dual Avatar Fists - Armored Ah-Gyo
+Card Type: Fusion Monster
+
+Description: 2 "Dual Avatar" monsters
+If this card is Special Summoned: You can target 1 Attack Position monster your opponent controls; destroy it, also this card cannot attack directly for the rest of this turn. You can only use this effect of "Dual Avatar Fists - Armored Ah-Gyo" once per turn. While you control a "Dual Avatar" Fusion Monster that was Fusion Summoned using an Effect Monster as material, all "Dual Avatar" Fusion Monsters you control gain 300 ATK/DEF.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 1500
+Archetype: Dual Avatar
+Present in Sets:
+- Phantom Rage

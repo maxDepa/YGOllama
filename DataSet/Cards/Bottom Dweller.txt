@@ -1,0 +1,15 @@
+Bottom Dweller
+Card Type: Normal Monster
+
+Description: This is one sea creature whose wrath is something monsters fear to face.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1650
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,16 @@
+Doomstar Magician
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 card, then target 1 card in either player's Pendulum Zone; destroy that card, and if you do, draw 1 card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 300
+Archetype: Magician
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Demo Deck 2016
+- Duelist Alliance
+- Pendulum Evolution

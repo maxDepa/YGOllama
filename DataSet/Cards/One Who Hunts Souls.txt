@@ -1,0 +1,12 @@
+One Who Hunts Souls
+Card Type: Normal Monster
+
+Description: This dangerous creature brandishes a soul-sucking sword.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 1000
+Archetype: //
+Present in Sets:

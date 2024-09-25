@@ -1,0 +1,13 @@
+Catche Eve L2
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 Level 3 or higher monster you control; reduce its Level by exactly 2, and if you do, Special Summon this card. You can only use this effect of "Catche Eve L2" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Savage Strike

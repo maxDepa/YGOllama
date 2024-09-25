@@ -1,0 +1,15 @@
+Gravekeeper's Recruiter
+Card Type: Effect Monster
+
+Description: If this card you control is sent to your GY: Add 1 "Gravekeeper's" monster with 1500 or less DEF from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Destiny Masters
+- Starstrike Blast

@@ -1,0 +1,15 @@
+Creation Resonator
+Card Type: Tuner Monster
+
+Description: If you control a Level 8 or higher Synchro Monster, you can Special Summon this card (from your hand).
+
+Type: Fiend
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 600
+Archetype: Resonator
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Starstrike Blast
+- Structure Deck: The Crimson King

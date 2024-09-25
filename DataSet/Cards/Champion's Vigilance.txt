@@ -1,0 +1,16 @@
+Champion's Vigilance
+Card Type: Trap Card
+
+Description: If you control a Level 7 or higher Normal Monster, when a monster would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 4

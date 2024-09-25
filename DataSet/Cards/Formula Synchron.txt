@@ -1,0 +1,21 @@
+Formula Synchron
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1 non-Tuner monster
+When this card is Synchro Summoned: You can draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Machine
+Attribute: LIGHT
+Level: 2
+Attack: 200
+Defence: 1500
+Archetype: Synchron
+Present in Sets:
+- Duelist Saga
+- Gold Series: Haunted Mine
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Premium Gold: Return of the Bling
+- Starstrike Blast

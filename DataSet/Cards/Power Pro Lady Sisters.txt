@@ -1,0 +1,15 @@
+Power Pro Lady Sisters
+Card Type: Normal Monster
+
+Description: ''The three Power Pro girls are best friends! And their passion for baseball soars like a home run!
+Aoi Hayakawa was the first female player in the league. Her signature pitch is a submariner she calls The Marine Ball!
+Mizuki Tachibana is more of a tomboy than her senpai, best known for her Crescent Moon Pitch and her love for the pudding sold down at Pawado!
+Hijiri Rokudo is a catcher with a rare gift for baseball! She's been best friends with Mizuki since junior high and her favorite at Pawado is the Kintsuba!''
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 1950
+Defence: 2100
+Archetype: //
+Present in Sets:

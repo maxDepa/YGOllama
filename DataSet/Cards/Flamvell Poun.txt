@@ -1,0 +1,15 @@
+Flamvell Poun
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can add 1 monster with 200 DEF from your Deck to your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Duelist Revolution
+- Onslaught of the Fire Kings Structure Deck

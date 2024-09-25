@@ -1,0 +1,13 @@
+Performapal Dramatic Theater
+Card Type: Spell Card
+
+Description: Monsters you control gain 200 ATK for each monster you control with a different Type. Once per turn, if you control 4 "Performapal" monsters with different Types: You can Special Summon 1 "Odd-Eyes" monster from your hand, Deck, or Graveyard.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Odd-Eyes
+Present in Sets:
+- Starter Deck: Yuya

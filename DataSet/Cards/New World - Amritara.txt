@@ -1,0 +1,17 @@
+New World - Amritara
+Card Type: Spell Card
+
+Description: Activate only while "Visas Starfrost" is on the field. Once per turn, if a monster(s) you control is destroyed by battle or card effect, and sent to the GY or banished: You can activate 1 of these effects;
+● Special Summon 1 of those monsters in Defense Position.
+● 1 Tuner on the field gains ATK equal to half the original ATK of 1 of those monsters.
+● Shuffle 1 of those monsters into the Deck, and if you do, draw 1 card.
+● Shuffle this card into the Deck, and if you do, add 1 Field Spell from your GY to your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Nexus

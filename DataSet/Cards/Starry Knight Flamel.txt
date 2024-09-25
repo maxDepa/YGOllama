@@ -1,0 +1,13 @@
+Starry Knight Flamel
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can send this card from your hand or face-up field to the GY; Special Summon 1 Level 7 LIGHT Dragon monster from your hand. (Quick Effect): You can banish this card from your GY, then target 1 Level 7 LIGHT Dragon monster you control or in your GY; return it to your hand. You can only use 1 "Starry Knight Flamel" effect per turn, and only once that turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

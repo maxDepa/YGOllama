@@ -1,0 +1,15 @@
+Number C88: Gimmick Puppet Disaster Leo
+Card Type: XYZ Monster
+
+Description: 4 Level 9 monsters
+Must be Special Summoned with a "Rank-Up-Magic" Spell Card targeting "Number 88: Gimmick Puppet of Leo", and cannot be Special Summoned by other ways. This card cannot be targeted by card effects. Once per turn: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent. During your End Phase, if your opponent's Life Points are 2000 or less, and this card has no Xyz Materials, you win the Duel.
+
+Type: Machine
+Attribute: DARK
+Level: 9
+Attack: 3500
+Defence: 2500
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Season 3
+- Premium Gold

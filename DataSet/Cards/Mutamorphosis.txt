@@ -1,0 +1,14 @@
+Mutamorphosis
+Card Type: Spell Card
+
+Description: Tribute 1 Fusion or Synchro Monster; Special Summon 1 monster from your Deck with the same Level as the Tributed monster's original Level, but return it to the hand during the End Phase. You can only activate 1 "Mutamorphosis" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

@@ -1,0 +1,14 @@
+Arkbrave Dragon
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned from the Graveyard: You can banish as many face-up Spell/Trap Cards your opponent controls as possible, and if you do, this card gains 200 ATK and DEF for each card banished. Once per turn, during the Standby Phase, if this card is in the Graveyard because it was sent there last turn: You can target 1 Level 7 or 8 Dragon-Type monster in your Graveyard, except "Arkbrave Dragon"; Special Summon it.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- Rise of the True Dragons Structure Deck

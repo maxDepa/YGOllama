@@ -1,0 +1,13 @@
+BIG Win!?
+Card Type: Trap Card
+
+Description: Declare a Level between 1 and 12; each player tosses a coin, and if both are Heads, the Levels of all face-up monsters you currently control become the declared Level. If both are tails, you lose Life Points equal to the declared Level x 500.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shadow Specters

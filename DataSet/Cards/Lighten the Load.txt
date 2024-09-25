@@ -1,0 +1,15 @@
+Lighten the Load
+Card Type: Spell Card
+
+Description: Once per turn, you can add 1 Level 7 or higher monster from your hand to your Deck and shuffle it, then draw 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

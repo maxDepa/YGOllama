@@ -1,0 +1,15 @@
+Monster Egg
+Card Type: Normal Monster
+
+Description: A warrior hidden within an egg that attacks enemies by flinging eggshells.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

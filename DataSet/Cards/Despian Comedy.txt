@@ -1,0 +1,15 @@
+Despian Comedy
+Card Type: Effect Monster
+
+Description: When your opponent activates a card or effect that targets a face-up "Despia" card(s) you control (Quick Effect): You can discard this card; negate that effect. If this card is in your GY (Quick Effect): You can Tribute 1 Fusion Monster; Special Summon this card. You can only use 1 "Despian Comedy" effect per turn, and only once that turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 2000
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty
+- Ghosts From the Past: The 2nd Haunting

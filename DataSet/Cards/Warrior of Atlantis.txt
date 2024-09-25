@@ -1,0 +1,16 @@
+Warrior of Atlantis
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard; add 1 "A Legendary Ocean" from your Deck to your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Realm of the Sea Emperor Structure Deck
+- Speed Duel: Streets of Battle City

@@ -1,0 +1,13 @@
+Chronomaly Temple - Trilithon
+Card Type: Spell Card
+
+Description: If you control no monsters, or all monsters you control are "Chronomaly" monsters: You can pay 500 LP; immediately after this effect resolves, Normal Summon 1 "Chronomaly" monster from your hand. If a "Chronomaly" or "Number" Xyz Monster you control would activate an effect by detaching material, you can send this card to the GY instead of 1 of those materials. You can only use each effect of "Chronomaly Temple - Trilithon" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chronomaly
+Present in Sets:
+- Dawn of Majesty

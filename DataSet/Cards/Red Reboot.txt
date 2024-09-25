@@ -1,0 +1,18 @@
+Red Reboot
+Card Type: Trap Card
+
+Description: When your opponent activates a Trap Card: Negate the activation, and if you do, Set that card face-down, then they can Set 1 other Trap directly from their Deck. For the rest of this turn after this card resolves, your opponent cannot activate Trap Cards. You can activate this card from your hand by paying half your LP.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Duel Devastator
+- Flames of Destruction
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Structure Deck: Rokket Revolt

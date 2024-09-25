@@ -1,0 +1,13 @@
+Iron Chain Repairman
+Card Type: Effect Monster
+
+Description: When this card destroys a monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent. Once per turn, you can Special Summon 1 Level 4 or lower "Iron Chain" monster from your Graveyard, except "Iron Chain Repairman". This card cannot attack the turn you activate this effect.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Iron Chain
+Present in Sets:
+- Crossroads of Chaos

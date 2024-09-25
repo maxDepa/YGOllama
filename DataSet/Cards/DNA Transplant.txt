@@ -1,0 +1,16 @@
+DNA Transplant
+Card Type: Trap Card
+
+Description: Activate by declaring 1 monster Attribute. All face-up monsters become that Attribute.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack

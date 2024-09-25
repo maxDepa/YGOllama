@@ -1,0 +1,15 @@
+Number 73: Abyss Splash
+Card Type: XYZ Monster
+
+Description: 2 Level 5 WATER monsters
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; double this card's ATK until the end of your opponent's turn, also, any battle damage it inflicts to your opponent this turn is halved.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 2400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

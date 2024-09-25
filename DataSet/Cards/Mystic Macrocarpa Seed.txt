@@ -1,0 +1,13 @@
+Mystic Macrocarpa Seed
+Card Type: Tuner Monster
+
+Description: Cannot be used as a Synchro Material Monster, except for the Synchro Summon of an EARTH monster. You can target 1 EARTH monster on the field; reduce its Level by 1. You can use the effect of "Mystic Macrocarpa Seed" up to twice per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

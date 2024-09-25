@@ -1,0 +1,18 @@
+Superheavy Samurai General Coral
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+While you have a Spell/Trap Card(s) in your Graveyard, this card's Pendulum Scale becomes 4. Once per turn, when a "Superheavy Samurai" monster you control destroys an opponent's monster by battle: You can activate this effect; that monster can make a second attack in a row (even if this card leaves the field).
+
+[ Monster Effect ] 
+If you have no Spell/Trap Cards in your Graveyard: You can Tribute up to 2 "Superheavy Samurai" monsters; draw that many cards. You can only use this effect of "Superheavy Samurai General Coral" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 300
+Defence: 500
+Archetype: Superheavy
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

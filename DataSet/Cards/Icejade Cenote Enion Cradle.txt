@@ -1,0 +1,14 @@
+Icejade Cenote Enion Cradle
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 of your "Icejade" monsters that is banished or in your GY to your hand. Once per turn, if a monster(s) is Normal or Special Summoned (except during the Damage Step): You can target 1 WATER monster you control; that monster, along with any face-up monsters your opponent currently controls, loses ATK equal to the targeted monster's original ATK, until the end of this turn. You can only activate 1 "Icejade Cenote Enion Cradle" per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Icejade
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

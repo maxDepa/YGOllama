@@ -1,0 +1,15 @@
+Big Burn
+Card Type: Trap Card
+
+Description: You can only activate this card when your opponent activates a card that targets a monster in the Graveyard. Remove from play all monsters in both players' Graveyards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

@@ -1,0 +1,16 @@
+Photon Orbital
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can target 1 "Photon" or "Galaxy" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 "Photon" or "Galaxy" monster from your Deck to your hand, except "Photon Orbital". You can only use this effect of "Photon Orbital" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: Photon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- Maze of Memories
+- Maze of Memories

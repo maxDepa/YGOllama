@@ -1,0 +1,16 @@
+Branded Banishment
+Card Type: Trap Card
+
+Description: Target 1 "Despia" monster or 1 Level 8 or higher Fusion Monster in your GY; Special Summon it, then you can apply this effect.
+● Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from either field.
+You can only activate 1 "Branded Banishment" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

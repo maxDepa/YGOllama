@@ -1,0 +1,17 @@
+Morphtronic Converter
+Card Type: Spell Card
+
+Description: Target 1 Machine monster you control; apply the following effect depending on its battle position.
+● Attack Position: Special Summon 1 "Morphtronic" monster from your Deck with a different name than that targeted monster, then place that targeted monster on top of the Deck.
+● Defense Position: Change that targeted monster to Attack Position, and if you do, Special Summon 1 Level 4 or lower Machine monster from your hand.
+You can only activate 1 "Morphtronic Converter" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

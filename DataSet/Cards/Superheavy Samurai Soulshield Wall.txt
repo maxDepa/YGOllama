@@ -1,0 +1,14 @@
+Superheavy Samurai Soulshield Wall
+Card Type: Effect Monster
+
+Description: You can target 1 "Superheavy Samurai" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1200 DEF. When the monster equipped with this card by this effect is targeted for an attack: You can send this Equip Card to the Graveyard; negate that attack, but the equipped monster's DEF becomes 0.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 1200
+Archetype: Superheavy
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

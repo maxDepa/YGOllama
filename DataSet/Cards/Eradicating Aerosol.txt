@@ -1,0 +1,15 @@
+Eradicating Aerosol
+Card Type: Spell Card
+
+Description: Destroy all Insect monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Streets of Battle City

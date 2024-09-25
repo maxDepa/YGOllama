@@ -1,0 +1,13 @@
+Ancient Warriors - Rebellious Lu Feng
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling the highest ATK "Ancient Warriors" monster on the field (even if it's tied). You can only Special Summon "Ancient Warriors - Rebellious Lu Feng" once per turn this way. Once per turn, during the Main Phase (Quick Effect): You can destroy the 1 face-up monster your opponent controls with the highest ATK (your choice, if tied), also you cannot activate monster effects the turn you activate this effect, except "Ancient Warriors" monsters'. Once per turn, during the End Phase, if your opponent controls a monster with the highest ATK on the field (even if tied): Give control of this card to your opponent.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2200
+Archetype: Ancient Warriors
+Present in Sets:
+- Blazing Vortex

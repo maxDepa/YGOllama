@@ -1,0 +1,17 @@
+Jack Wyvern
+Card Type: Effect Monster
+
+Description: You can banish this card and 1 face-up Machine monster you control, then target 1 DARK monster in your GY; Special Summon it. You can only use this effect of "Jack Wyvern" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

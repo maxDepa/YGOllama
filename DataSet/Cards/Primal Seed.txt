@@ -1,0 +1,16 @@
+Primal Seed
+Card Type: Spell Card
+
+Description: If "Black Luster Soldier - Envoy of the Beginning" or "Chaos Emperor Dragon - Envoy of the End" is on the field: Target 2 of your banished cards; add both those targets to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Black Luster Soldier
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Turbo Pack: Booster Seven

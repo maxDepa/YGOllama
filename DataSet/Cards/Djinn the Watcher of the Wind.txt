@@ -1,0 +1,12 @@
+Djinn the Watcher of the Wind
+Card Type: Normal Monster
+
+Description: This creature generates gale-force winds and tornadoes to blow its enemies away.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 700
+Defence: 900
+Archetype: Djinn
+Present in Sets:

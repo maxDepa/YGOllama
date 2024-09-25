@@ -1,0 +1,16 @@
+Fireyarou
+Card Type: Normal Monster
+
+Description: A malevolent creature wrapped in flames that attacks enemies with intense fire.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Astral Pack Eight
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

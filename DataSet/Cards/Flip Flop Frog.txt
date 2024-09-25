@@ -1,0 +1,13 @@
+Flip Flop Frog
+Card Type: Effect Monster
+
+Description: Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up "Frog" monsters you control, except "Frog the Jam".
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 200
+Archetype: Frog
+Present in Sets:
+- Crimson Crisis

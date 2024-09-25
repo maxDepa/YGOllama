@@ -1,0 +1,14 @@
+Ritual Beast Ulti-Apelio
+Card Type: Fusion Monster
+
+Description: 1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
+Must be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) If this card attacks, it is unaffected by other cards' effects until the end of the Damage Step. During either player's turn: You can return this card you control to the Extra Deck, then target 2 of your banished monsters (1 "Ritual Beast Tamer" monster and 1 "Spiritual Beast" monster); Special Summon them in Defense Position.
+
+Type: Pyro
+Attribute: WIND
+Level: 6
+Attack: 2600
+Defence: 400
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

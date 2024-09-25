@@ -1,0 +1,15 @@
+Promethean Princess, Bestower of Flames
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+You cannot Special Summon monsters, except FIRE monsters. You can only use each of the following effects of "Promethean Princess, Bestower of Flames" once per turn. During your Main Phase: You can Special Summon 1 FIRE monster from your GY. If a monster(s) is Special Summoned to your opponent's field, while this card is in your GY (except during the Damage Step): You can target 1 FIRE monster you control and 1 monster your opponent controls; destroy them, and if you do, Special Summon this card.
+
+Type: Fiend
+Attribute: FIRE
+Level: 0
+Attack: 2700
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

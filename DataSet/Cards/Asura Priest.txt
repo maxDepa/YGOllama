@@ -1,0 +1,19 @@
+Asura Priest
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. This card can attack all monsters your opponent controls once each.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Hobby League 4 participation card C
+- Legacy of Darkness
+- Legacy of Darkness
+- Retro Pack 2

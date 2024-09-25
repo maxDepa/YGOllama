@@ -1,0 +1,15 @@
+Elemental HERO The Shining
+Card Type: Fusion Monster
+
+Description: 1 "Elemental HERO" monster + 1 LIGHT monster
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each of your banished "Elemental HERO" monsters. When this card is sent from the field to the Graveyard: You can target up to 2 of your banished "Elemental HERO" monsters; add those targets to your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2600
+Defence: 2100
+Archetype: Elemental HERO
+Present in Sets:
+- Premium Collection Tin
+- Yu-Gi-Oh! GX Volume 6 promotional card

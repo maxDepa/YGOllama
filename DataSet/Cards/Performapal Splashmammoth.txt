@@ -1,0 +1,18 @@
+Performapal Splashmammoth
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when a Fusion Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 face-up "Odd-Eyes" Pendulum Monster from your Extra Deck.
+
+[ Monster Effect ] 
+During your Main Phase: You can Fusion Summon 1 Dragon-Type Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials. You can only use this effect of "Performapal Splashmammoth" once per Duel.
+
+Type: Beast
+Attribute: WATER
+Level: 6
+Attack: 1900
+Defence: 2300
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

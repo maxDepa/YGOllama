@@ -1,0 +1,17 @@
+Fear from the Dark
+Card Type: Effect Monster
+
+Description: When this card is sent from your hand or Deck to your Graveyard by an opponent's card effect: Special Summon this card.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack

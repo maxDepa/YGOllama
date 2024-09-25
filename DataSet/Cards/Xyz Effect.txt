@@ -1,0 +1,17 @@
+Xyz Effect
+Card Type: Trap Card
+
+Description: When you Xyz Summon a monster: You can target 1 card on the field; destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony
+- Super Starter: V for Victory

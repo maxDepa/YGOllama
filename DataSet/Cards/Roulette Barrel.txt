@@ -1,0 +1,15 @@
+Roulette Barrel
+Card Type: Effect Monster
+
+Description: Once per turn: You can roll a six-sided die twice, choose 1 result, and destroy 1 monster on the field whose Level is equal to that result.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magician's Force

@@ -1,0 +1,15 @@
+Vindikite R-Genex
+Card Type: Synchro Monster
+
+Description: 1 "Genex" Tuner + 1 or more non-Tuner WIND monsters
+Your opponent cannot select this card as an attack target. If this card destroys an opponent's monster by battle, you can add 1 "Genex" monster from your Deck to your hand.
+
+Type: Machine
+Attribute: WIND
+Level: 8
+Attack: 2400
+Defence: 1000
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

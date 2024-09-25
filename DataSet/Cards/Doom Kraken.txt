@@ -1,0 +1,13 @@
+Doom Kraken
+Card Type: Effect Monster
+
+Description: If "Umi" is on the field (Quick Effect): You can target 1 WATER monster you control, except "Doom Kraken", and 1 monster your opponent controls; Special Summon this card from your hand, and if you do, return that monster you control to the hand, and if you do that, destroy that opponent's monster. When an opponent's monster declares an attack: You can return this card to the hand, and if you do, negate that attack. You can only use each effect of "Doom Kraken" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: Umi
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

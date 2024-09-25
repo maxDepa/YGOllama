@@ -1,0 +1,15 @@
+Battlin' Boxer Headgeared
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 "Battlin' Boxer" monster from your Deck to the Graveyard. Once per turn, this face-up Attack Position card cannot be destroyed by battle.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Soulburning Volcano
+- Lord of the Tachyon Galaxy

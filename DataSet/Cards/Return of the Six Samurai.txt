@@ -1,0 +1,17 @@
+Return of the Six Samurai
+Card Type: Trap Card
+
+Description: Target 1 "Six Samurai" monster in your GY; Special Summon that target. Destroy it during the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Samurai Warlords Structure Deck
+- Spirit Warriors
+- Strike of Neos

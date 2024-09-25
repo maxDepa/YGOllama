@@ -1,0 +1,16 @@
+Marincess Marbled Rock
+Card Type: Link Monster
+
+Description: 2+ WATER monsters
+You can target 1 "Marincess" card in your GY, except "Marincess Marbled Rock"; add it to your hand. You can only use this effect of "Marincess Marbled Rock" once per turn. When an opponent's monster declares an attack: You can send 1 "Marincess" monster from your hand to the GY; for that battle, monsters cannot be destroyed by battle, also you take no battle damage.
+
+Type: Cyberse
+Attribute: WATER
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: Marincess
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Legendary Duelists: Duels From the Deep
+- Rising Rampage

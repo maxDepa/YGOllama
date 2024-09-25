@@ -1,0 +1,24 @@
+Senju of the Thousand Hands
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 5b
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Arena of Lost Souls
+- Spell Ruler
+- Spell Ruler
+- Tournament Pack 4

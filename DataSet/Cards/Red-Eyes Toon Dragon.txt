@@ -1,0 +1,14 @@
+Red-Eyes Toon Dragon
+Card Type: Toon Monster
+
+Description: Cannot attack the turn it is Summoned. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can Special Summon 1 Toon monster from your hand, except "Red-Eyes Toon Dragon", ignoring its Summoning conditions.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Toon
+Present in Sets:
+- Legendary Duelists: Season 1
+- Shining Victories

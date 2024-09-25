@@ -1,0 +1,13 @@
+Mind Pollutant
+Card Type: Spell Card
+
+Description: Discard 1 monster to target 1 monster of that Level your opponent controls; take control of that target until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising

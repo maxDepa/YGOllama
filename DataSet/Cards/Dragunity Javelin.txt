@@ -1,0 +1,17 @@
+Dragunity Javelin
+Card Type: Tuner Monster
+
+Description: If this face-up card is destroyed while in the Monster Card Zone, you can equip it to 1 face-up Winged Beast-Type "Dragunity" monster you control, instead of sending it to the Graveyard.
+
+Type: Dragon
+Attribute: WIND
+Level: 2
+Attack: 1200
+Defence: 800
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

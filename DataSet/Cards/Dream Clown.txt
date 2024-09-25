@@ -1,0 +1,18 @@
+Dream Clown
+Card Type: Effect Monster
+
+Description: When this card is changed from Attack Position to face-up Defense Position, select 1 monster your opponent controls and destroy it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Pegasus

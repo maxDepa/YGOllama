@@ -1,0 +1,18 @@
+Possessed Dark Soul
+Card Type: Effect Monster
+
+Description: You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel: Arena of Lost Souls

@@ -1,0 +1,18 @@
+Majestic Red Dragon
+Card Type: Synchro Monster
+
+Description: "Majestic Dragon" + "Red Dragon Archfiend" + 1 non-Tuner monster
+Cannot be destroyed by card effects. After damage calculation, if this card attacks: Destroy all Defense Position monsters on the field. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects, and if you do, this card gains ATK equal to that monster's ATK. These changes last until the end of this turn. During the End Phase: Target 1 "Red Dragon Archfiend" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 3000
+Archetype: Archfiend
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce
+- Absolute Powerforce
+- Collectible Tins 2010 Wave 1
+- Legendary Collection 5D's Mega Pack

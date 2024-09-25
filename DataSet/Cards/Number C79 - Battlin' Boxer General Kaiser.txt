@@ -1,0 +1,15 @@
+Number C79: Battlin' Boxer General Kaiser
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+Gains 200 ATK for each material attached to it. Once per turn, when your opponent would Special Summon a monster(s) (Quick Effect): You can detach 2 materials from this card, and if you do, negate the Summon, and if you do that, destroy that monster(s). If this card has "Number 79: Battlin' Boxer Nova Kaiser" as material, it gains this effect.
+● Once per turn, when an attack is declared involving your "Battlin' Boxer" monster and an opponent's monster: You can send 1 "Battlin' Boxer" monster from your hand or Deck to the GY, and if you do, attach that opponent's monster to this card as material.
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2600
+Defence: 2000
+Archetype: Battlin' Boxer
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

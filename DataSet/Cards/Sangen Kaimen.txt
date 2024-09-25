@@ -1,0 +1,16 @@
+Sangen Kaimen
+Card Type: Spell Card
+
+Description: Apply 1 of these effects, or if you activated this card during the Battle Phase, you can apply any of them, in sequence.
+● Add 1 Level 4 or lower FIRE Dragon monster from your Deck to your hand.
+● Special Summon 1 FIRE Dragon monster from your hand.
+You can only activate 1 "Sangen Kaimen" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sangen
+Present in Sets:
+- Legacy of Destruction

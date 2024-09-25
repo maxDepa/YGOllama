@@ -1,0 +1,14 @@
+Ansatsu
+Card Type: Normal Monster
+
+Description: A silent and deadly warrior specializing in assassinations.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Starter Deck: Yugi
+- Starter Deck: Yugi

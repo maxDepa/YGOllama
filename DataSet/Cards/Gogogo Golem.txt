@@ -1,0 +1,25 @@
+Gogogo Golem
+Card Type: Effect Monster
+
+Description: Once per turn, this Defense Position card cannot be destroyed by battle.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Gogogo
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 7a
+- Duelist League 15 participation cards
+- Generation Force
+- Number Hunters
+- Star Pack 2013
+- Star Pack 2013
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Xyz Symphony

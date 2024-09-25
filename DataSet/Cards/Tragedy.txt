@@ -1,0 +1,18 @@
+Tragedy
+Card Type: Trap Card
+
+Description: When a face-up Attack Position monster(s) your opponent controls is changed to face-up Defense Position: Destroy all Defense Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 R
+- Yugi's Legendary Decks

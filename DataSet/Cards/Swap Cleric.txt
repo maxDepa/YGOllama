@@ -1,0 +1,13 @@
+Swap Cleric
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as Link Material: You can have that Link Monster lose 500 ATK, then draw 1 card. You can only use this effect of "Swap Cleric" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Fists of the Gadgets

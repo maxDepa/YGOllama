@@ -1,0 +1,13 @@
+Dragoroar
+Card Type: Spell Card
+
+Description: Banish 1 EARTH, 1 WATER, 1 FIRE, and 1 WIND monster from your Graveyard; shuffle 1 card on the field into the Deck.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Superstars

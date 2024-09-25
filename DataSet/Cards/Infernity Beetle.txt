@@ -1,0 +1,14 @@
+Infernity Beetle
+Card Type: Tuner Monster
+
+Description: While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 "Infernity Beetle" from your Deck.
+
+Type: Insect
+Attribute: DARK
+Level: 2
+Attack: 1200
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- OTS Tournament Pack 14 (POR)
+- The Shining Darkness

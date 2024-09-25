@@ -1,0 +1,14 @@
+Ice Beast Zerofyne
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Winged Beast-Type monsters
+Once per turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up cards your opponent currently controls, and if you do, this card gains 300 ATK for each face-up card currently on the field, except this card (these effects are applied until your next Standby Phase).
+
+Type: Winged Beast
+Attribute: WATER
+Level: 4
+Attack: 2000
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

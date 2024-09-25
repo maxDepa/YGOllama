@@ -1,0 +1,13 @@
+Bubble Bringer
+Card Type: Trap Card
+
+Description: Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising

@@ -1,0 +1,14 @@
+Lightsworn Barrier
+Card Type: Trap Card
+
+Description: When a "Lightsworn" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Realm of Light Structure Deck
+- The Duelist Genesis

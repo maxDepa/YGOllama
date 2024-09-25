@@ -1,0 +1,13 @@
+Snake Whistle
+Card Type: Trap Card
+
+Description: Activate only when a Reptile-Type monster you control is destroyed. Special Summon 1 Level 4 or lower Reptile-Type monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

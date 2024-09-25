@@ -1,0 +1,17 @@
+Performapal Swincobra
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when a monster you control inflicts battle damage to your opponent: You can send the top card of your opponent's Deck to the Graveyard.
+
+[ Monster Effect ] 
+This card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 300
+Defence: 1800
+Archetype: Performapal
+Present in Sets:
+- Starter Deck: Yuya

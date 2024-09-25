@@ -1,0 +1,15 @@
+Vylon Alpha
+Card Type: Synchro Monster
+
+Description: 1 "Vylon" Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: You can target 1 Equip Spell Card in your Graveyard; equip that target to this card. While this card is equipped with an Equip Card, it cannot be destroyed by Spell/Trap effects, except for Equip Cards.
+
+Type: Machine
+Attribute: LIGHT
+Level: 9
+Attack: 2200
+Defence: 1100
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

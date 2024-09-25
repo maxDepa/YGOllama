@@ -1,0 +1,16 @@
+Tatsunoko
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this Synchro Summoned monster would be used as a Synchro Material, 1 monster in your hand can be used as 1 of the other materials. Unaffected by other monsters' effects.
+
+Type: Wyrm
+Attribute: WATER
+Level: 3
+Attack: 1700
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Hidden Summoners

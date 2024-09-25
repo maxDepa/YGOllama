@@ -1,0 +1,13 @@
+Single Purchase
+Card Type: Spell Card
+
+Description: If you have 3 or more cards in your hand (other than this card), and none of them are monsters: Banish your entire hand face-up; add 1 monster from your Deck to your hand. If you do, you cannot Normal or Special Summon any monsters for the rest of this turn, except monsters with that name.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

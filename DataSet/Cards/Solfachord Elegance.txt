@@ -1,0 +1,17 @@
+Solfachord Elegance
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● Place 1 "Solfachord" Pendulum Monster from your Deck in your Pendulum Zone.
+● Add 1 "Solfachord" Pendulum Monster from your hand to your Extra Deck face-up, then, place 2 "Solfachord" Pendulum Monsters, 1 odd and 1 even Pendulum Scale, from your Deck in your Pendulum Zones.
+● Add 2 cards, 1 odd and 1 even Pendulum Scale, from your Pendulum Zones to the Extra Deck face-up, and if you do, draw 2 cards.
+You can only activate 1 "Solfachord Elegance" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solfachord
+Present in Sets:
+- Ancient Guardians

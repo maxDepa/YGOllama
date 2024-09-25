@@ -1,0 +1,35 @@
+Jinzo
+Card Type: Effect Monster
+
+Description: Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1500
+Archetype: Jinzo
+Present in Sets:
+- Anniversary Pack
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Collectible Tins 2003
+- Dark Beginning 1
+- Duelist League 3 participation cards
+- Duelist Pack: Battle City
+- Duelist Saga
+- Gold Series
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Rage of Ra
+- Mystic Fighters
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Premium Gold
+- Retro Pack 2
+- Speed Duel Tournament Pack 5
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Trials of the Pharaoh - Match of the Millennium & Twisted Nightmares promotional card

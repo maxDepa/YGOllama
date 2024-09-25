@@ -1,0 +1,14 @@
+Vylon Hept
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 "Vylon" Monster Card you control that is an Equip Card; Special Summon that target in face-up Defense Position. Banish it when it leaves the field.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

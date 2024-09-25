@@ -1,0 +1,16 @@
+Blackwing - Gust the Backblast
+Card Type: Effect Monster
+
+Description: If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a "Blackwing" monster you control, the attacking monster loses 300 ATK during the Damage Step only.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 2
+Attack: 900
+Defence: 1400
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- The Shining Darkness

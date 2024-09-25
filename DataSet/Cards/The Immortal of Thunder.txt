@@ -1,0 +1,16 @@
+The Immortal of Thunder
+Card Type: Flip Effect Monster
+
+Description: FLIP: Increase your Life Points by 3000 points. When this card is sent from the field to the Graveyard, you lose 5000 Life Points.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

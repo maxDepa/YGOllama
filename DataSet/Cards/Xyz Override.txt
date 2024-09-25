@@ -1,0 +1,13 @@
+Xyz Override
+Card Type: Spell Card
+
+Description: If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

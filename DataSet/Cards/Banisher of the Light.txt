@@ -1,0 +1,19 @@
+Banisher of the Light
+Card Type: Effect Monster
+
+Description: Any card sent to the Graveyard is banished instead.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Speed Duel: Battle City Box
+- Spell Ruler
+- Spell Ruler

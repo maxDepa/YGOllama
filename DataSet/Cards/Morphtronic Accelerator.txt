@@ -1,0 +1,13 @@
+Morphtronic Accelerator
+Card Type: Spell Card
+
+Description: Return 1 "Morphtronic" monster from your hand to the Deck. Destroy 1 card on the field, and draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

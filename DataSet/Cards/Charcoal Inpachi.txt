@@ -1,0 +1,19 @@
+Charcoal Inpachi
+Card Type: Normal Monster
+
+Description: A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Yu-Gi-Oh! 5D's

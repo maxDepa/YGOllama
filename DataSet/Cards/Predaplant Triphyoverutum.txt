@@ -1,0 +1,17 @@
+Predaplant Triphyoverutum
+Card Type: Fusion Monster
+
+Description: 3 DARK monsters on the field
+Gains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of "Predaplant Triphyoverutum" once per turn.
+● When your opponent Special Summons a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).
+● If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.
+
+Type: Plant
+Attribute: DARK
+Level: 9
+Attack: 3000
+Defence: 3000
+Archetype: Predaplant
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

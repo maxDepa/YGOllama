@@ -1,0 +1,13 @@
+Necrolancer the Time-lord
+Card Type: Normal Monster
+
+Description: The one-eyed Necrolancer launches his onslaught from a dimensional ring that can appear out of thin air.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:
+- Tournament Pack 8

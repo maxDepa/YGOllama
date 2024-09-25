@@ -1,0 +1,17 @@
+Skyscraper 2 - Hero City
+Card Type: Spell Card
+
+Description: Once per turn, during your Main Phase, if you control this card: You can target 1 "Elemental HERO" monster in your Graveyard that was destroyed by battle; Special Summon that target.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Midterm Paradox
+- Strike of Neos
+- Strike of Neos

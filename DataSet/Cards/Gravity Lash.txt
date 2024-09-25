@@ -1,0 +1,14 @@
+Gravity Lash
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; it loses ATK equal to its DEF until the end of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

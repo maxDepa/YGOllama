@@ -1,0 +1,14 @@
+Junk Servant
+Card Type: Effect Monster
+
+Description: If you control a "Junk" monster, you can Special Summon this card (from your hand).
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Junk
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

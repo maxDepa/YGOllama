@@ -1,0 +1,15 @@
+Gottoms' Emergency Call
+Card Type: Trap Card
+
+Description: If a face-up "X-Saber" monster is on the field: Target 2 "X-Saber" monsters in any Graveyard; Special Summon both to your side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 7a
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Turbo Pack: Booster Four

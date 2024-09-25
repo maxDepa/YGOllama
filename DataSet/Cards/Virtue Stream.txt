@@ -1,0 +1,12 @@
+Virtue Stream
+Card Type: Trap Card
+
+Description: Target 1 Fish, Sea Serpent, or Aqua monster you control and 2 cards your opponent controls; destroy them. You can banish this card from your GY, then target 1 face-up monster on the field; if it is a WATER monster, the next time it would be destroyed by card effect this turn, it is not destroyed. Otherwise, its Attribute becomes WATER. You can only use each effect of "Virtue Stream" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Signature move
+Present in Sets:

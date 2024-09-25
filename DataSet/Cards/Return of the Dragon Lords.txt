@@ -1,0 +1,15 @@
+Return of the Dragon Lords
+Card Type: Spell Card
+
+Description: Target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it. If a Dragon monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Rise of the True Dragons Structure Deck
+- Structure Deck: Rokket Revolt

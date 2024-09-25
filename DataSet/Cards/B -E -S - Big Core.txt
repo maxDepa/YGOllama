@@ -1,0 +1,16 @@
+B.E.S. Big Core
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Place 3 counters on it. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1100
+Archetype: B.E.S.
+Present in Sets:
+- Dark Revelation Volume 3
+- OTS Tournament Pack 4
+- Rise of Destiny
+- Rise of Destiny

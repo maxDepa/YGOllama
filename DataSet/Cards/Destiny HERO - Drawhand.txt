@@ -1,0 +1,14 @@
+Destiny HERO - Drawhand
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "HERO" monster: You can make each player draw 1 card. During the next Standby Phase after this card was sent to the GY: You can Special Summon this card from your GY, but banish it when it leaves the field. You can only use each effect of "Destiny HERO - Drawhand" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Destiny HERO
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

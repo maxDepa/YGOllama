@@ -1,0 +1,15 @@
+D.3.S. Frog
+Card Type: Fusion Monster
+
+Description: "Des Frog" + "Des Frog" + "Des Frog"
+A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains 500 ATK for each "Treeborn Frog" in your Graveyard.
+
+Type: Aqua
+Attribute: WATER
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Frog
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

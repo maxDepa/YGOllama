@@ -1,0 +1,14 @@
+Morphtronic Boarden
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: "Morphtronic" monsters you control can attack your opponent directly.
+● While in Defense Position: Other "Morphtronic" monsters you control cannot be destroyed by battle.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1800
+Archetype: Morphtronic
+Present in Sets:
+- Crimson Crisis

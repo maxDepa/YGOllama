@@ -1,0 +1,15 @@
+Ganbara Knight
+Card Type: Effect Monster
+
+Description: When this face-up Attack Position card is targeted for an attack: You can change it to Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony
+- Super Starter: V for Victory

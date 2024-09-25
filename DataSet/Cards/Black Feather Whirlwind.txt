@@ -1,0 +1,14 @@
+Black Feather Whirlwind
+Card Type: Spell Card
+
+Description: Once per turn, if you Special Summon a DARK Synchro Monster from the Extra Deck (except during the Damage Step): You can target 1 of your "Blackwing" monsters, or "Black-Winged Dragon", that is banished or in your GY, with less ATK than that Special Summoned monster; Special Summon it. Once per turn, if a DARK monster you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

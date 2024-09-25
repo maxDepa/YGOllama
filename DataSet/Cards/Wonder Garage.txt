@@ -1,0 +1,14 @@
+Wonder Garage
+Card Type: Trap Card
+
+Description: When this face-down card is destroyed and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Machine-Type "roid" monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Roid
+Present in Sets:
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox

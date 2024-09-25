@@ -1,0 +1,18 @@
+Blustering Winds
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Demo Deck 2015
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony
+- Super Starter: V for Victory

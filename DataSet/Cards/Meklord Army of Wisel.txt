@@ -1,0 +1,15 @@
+Meklord Army of Wisel
+Card Type: Effect Monster
+
+Description: This card gains 100 ATK for each "Meklord" monster on the field, except this card. Once per turn, when another "Meklord" monster you control declares an attack on a Defense Position monster your opponent controls: You can activate this effect; during that battle, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Rage of Ra

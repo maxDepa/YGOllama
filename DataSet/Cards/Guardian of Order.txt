@@ -1,0 +1,15 @@
+Guardian of Order
+Card Type: Effect Monster
+
+Description: If you control 2 or more LIGHT monsters, you can Special Summon this card (from your hand). You can only control 1 "Guardian of Order".
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 1200
+Archetype: Guardian
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Light of Destruction
+- Light of Destruction Sneak Peek Participation Card

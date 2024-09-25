@@ -1,0 +1,17 @@
+Chaosrider Gustaph
+Card Type: Effect Monster
+
+Description: Once per turn, you can remove from play up to 2 Spell Cards from your Graveyard. This card gains 300 ATK for each card removed, until the end of your opponent's next turn.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1500
+Archetype: Chaos
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duelists of Shadows
+- The Dark Emperor Structure Deck

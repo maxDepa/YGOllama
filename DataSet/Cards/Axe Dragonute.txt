@@ -1,0 +1,18 @@
+Axe Dragonute
+Card Type: Effect Monster
+
+Description: If this card attacks, it is changed to Defense Position at the end of the Damage Step.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Legion Starter Deck
+- Dragons Collide Structure Deck
+- Extreme Victory

@@ -1,0 +1,14 @@
+The Phantom Knights of Tomb Shield
+Card Type: Trap Card
+
+Description: Special Summon this card in Attack Position as a Normal Monster (Warrior/DARK/Level 3/ATK 0/DEF 0). (This card is NOT treated as a Trap.) During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Trap your opponent controls; negate its effects until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Phantom Knights
+Present in Sets:
+- Legendary Hero Decks
+- Premium Gold: Infinite Gold

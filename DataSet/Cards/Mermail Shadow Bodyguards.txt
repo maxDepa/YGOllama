@@ -1,0 +1,13 @@
+Mermail Shadow Bodyguards
+Card Type: Effect Monster
+
+Description: (This card is always treated as an "Atlantean" card.)
+You can discard 1 card to the GY; the Levels of all WATER monsters you currently control become 7 until the end of this turn. If this card is sent to the GY to activate a WATER monster's effect: Special Summon 1 Level 4 or lower "Atlantean" or "Mermail" monster from your Deck, except "Mermail Shadow Bodyguards", also you cannot Special Summon from the Extra Deck for the rest of this turn, except WATER monsters. You can only use each effect of "Mermail Shadow Bodyguards" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 3
+Attack: 0
+Defence: 1900
+Archetype: Atlantean
+Present in Sets:

@@ -1,0 +1,14 @@
+Assault Dog
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of "Assault Dog" from your Deck.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

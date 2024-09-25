@@ -1,0 +1,14 @@
+Silent Swordsman Zero
+Card Type: Effect Monster
+
+Description: Once per turn, during the Standby Phase: Increase this card's Level by 1. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a card or effect that targets "Shining Sarcophagus", or a monster(s) that mentions it, that you control (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Swordsman Zero" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Silent Swordsman
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

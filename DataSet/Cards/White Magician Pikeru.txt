@@ -1,0 +1,16 @@
+White Magician Pikeru
+Card Type: Effect Monster
+
+Description: During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 1200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Midterm Paradox
+- Structure Deck: Spellcaster's Judgment

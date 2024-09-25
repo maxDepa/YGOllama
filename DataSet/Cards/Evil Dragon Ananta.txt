@@ -1,0 +1,14 @@
+Evil Dragon Ananta
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard. This card's ATK and DEF are each equal to the number of monsters you removed x 600. During each of your End Phases, destroy 1 card on the field.
+
+Type: Reptile
+Attribute: DARK
+Level: 8
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Premium Pack 2 (TCG)

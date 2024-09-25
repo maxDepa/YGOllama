@@ -1,0 +1,13 @@
+Time Engine
+Card Type: Trap Card
+
+Description: (This card is always treated as a "Metalmorph" card.)
+If a monster(s) you control is destroyed by battle or an opponent's card effect: Target 1 of them; Special Summon it, then, if it is a Level 5 or higher Machine monster and you have another "Metalmorph" Trap on your field or in your GY, you can destroy as many monsters your opponent controls as possible, then you can inflict damage to them equal to the Summoned monster's original ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Metalmorph
+Present in Sets:

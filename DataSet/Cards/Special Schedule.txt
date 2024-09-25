@@ -1,0 +1,16 @@
+Special Schedule
+Card Type: Spell Card
+
+Description: Target 1 Machine monster in your GY with 3000 or more ATK; Special Summon that target in Defense Position. If this Set card is sent from the field to the GY: You can target 1 Level 10 Machine monster in your GY; add that target to your hand. You can only activate 1 "Special Schedule" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Train
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Duelists: Sisters of the Rose
+- Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards

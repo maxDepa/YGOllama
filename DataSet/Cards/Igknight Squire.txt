@@ -1,0 +1,18 @@
+Igknight Squire
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+If you have an "Igknight" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.
+
+[ Monster Effect ] 
+''The cold steel armor of this young squire cannot hide the keen, burning mind contained within.''
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 0
+Defence: 2000
+Archetype: Igknight
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

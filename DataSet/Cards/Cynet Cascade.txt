@@ -1,0 +1,14 @@
+Cynet Cascade
+Card Type: Trap Card
+
+Description: If you Link Summon a Link Monster: You can target 1 monster in your GY used as its material; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

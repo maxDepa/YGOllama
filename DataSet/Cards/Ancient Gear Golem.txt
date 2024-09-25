@@ -1,0 +1,27 @@
+Ancient Gear Golem
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 3000
+Archetype: Ancient Gear
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Duelist League 18 participation cards
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Machine Reactor Structure Deck
+- Mattel Action Figure promotional cards: Series 3
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Machine Re-Volt
+- The Lost Millennium
+- The Lost Millennium

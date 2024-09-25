@@ -1,0 +1,13 @@
+Night Flight
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; return that face-up monster to the hand, and if you do, for the rest of this turn, neither player can activate the effects of cards with the returned card's name.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Burst of Destiny

@@ -1,0 +1,17 @@
+Vampire Retainer
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can pay 500 LP; add 1 "Vampire" Spell/Trap from your Deck to your hand. If this card is in your GY: You can send 1 "Vampire" card from your hand or face-up field to the GY; Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Vampire Retainer" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 1200
+Defence: 0
+Archetype: Vampire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Speed Duel GX: Duelists of Shadows

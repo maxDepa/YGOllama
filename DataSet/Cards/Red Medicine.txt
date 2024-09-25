@@ -1,0 +1,17 @@
+Red Medicine
+Card Type: Spell Card
+
+Description: Increase your Life Points by 500 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck 2006

@@ -1,0 +1,13 @@
+United Front
+Card Type: Trap Card
+
+Description: When a Trap Card is activated while you control 2 or more face-up monsters with the same Level: Negate the activation and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

@@ -1,0 +1,22 @@
+Performapal Trump Witch
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.
+
+[ Monster Effect ] 
+You can Tribute this card; add 1 "Polymerization" from your Deck or Graveyard to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Fusion Enforcers
+- Master of Pendulum Structure Deck
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V

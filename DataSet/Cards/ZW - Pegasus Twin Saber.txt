@@ -1,0 +1,14 @@
+ZW - Pegasus Twin Saber
+Card Type: Effect Monster
+
+Description: You can only control 1 "ZW - Pegasus Twin Saber". If your opponent's LP are at least 2000 higher than yours, you can Special Summon this card (from your hand). You can target 1 "Utopia" monster you control; equip this card you control to it as an Equip Spell that gives it 1000 ATK. Once per turn, while this card is equipped to a monster, you can negate a monster effect activated on your opponent's field.
+
+Type: Beast
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2100
+Archetype: Saber
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

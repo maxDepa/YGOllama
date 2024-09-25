@@ -1,0 +1,13 @@
+Kitsuni Kitsunebi
+Card Type: Effect Monster
+
+Description: All face-up monsters on the field become FIRE. If your opponent has a FIRE monster on their field or in their GY, while this card is in your GY: You can Special Summon this card. You can only use this effect of "Kitsuni Kitsunebi" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 200
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Cyberstorm Access

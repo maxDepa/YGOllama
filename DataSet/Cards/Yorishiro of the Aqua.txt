@@ -1,0 +1,17 @@
+Yorishiro of the Aqua
+Card Type: Effect Monster
+
+Description: You can target 1 WATER monster in your GY; apply 1 of these effects, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters.
+● (Only if the target has a Level) until the End Phase, this card's Level, also its name, become the same as that monster's.
+● (Only if "Umi" is on the field), Special Summon that monster in Defense Position.
+You can banish this card from your GY, then target 1 "Umi" in your GY; add it to your hand. You can only use each effect of "Yorishiro of the Aqua" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 700
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

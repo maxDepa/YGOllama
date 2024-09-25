@@ -1,0 +1,14 @@
+Desertapir
+Card Type: Flip Effect Monster
+
+Description: FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select "Desertapir".
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 300
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

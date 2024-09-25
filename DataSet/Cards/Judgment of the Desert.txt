@@ -1,0 +1,14 @@
+Judgment of the Desert
+Card Type: Trap Card
+
+Description: The Battle Positions of face-up monsters that are flipped face-up after activation of this card cannot be changed, except with a card effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

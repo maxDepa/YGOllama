@@ -1,0 +1,13 @@
+Watch Dog
+Card Type: Effect Monster
+
+Description: During your Main Phase 2, if this card was Normal Summoned this turn: You can send 1 Spell Card from your hand to the Graveyard; Set 1 Continuous Spell Card directly from your Deck. You can only use this effect of "Watch Dog" once per turn. You cannot Special Summon during the turn you activate this effect.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The New Challengers

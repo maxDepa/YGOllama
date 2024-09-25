@@ -1,0 +1,16 @@
+Zaborg the Mega Monarch
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 monster on the field; destroy it, then, if it was a LIGHT monster, both players send as many cards as possible from their Extra Deck to the GY, but not more than the original Level/Rank of that destroyed monster. If this card was Tribute Summoned by Tributing a LIGHT monster, add this additional effect.
+● You choose the cards your opponent sends to the GY.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duel Power
+- The New Challengers

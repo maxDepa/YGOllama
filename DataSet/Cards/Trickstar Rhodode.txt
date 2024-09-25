@@ -1,0 +1,13 @@
+Trickstar Rhodode
+Card Type: Effect Monster
+
+Description: You can discard 1 "Trickstar" card, then target 1 "Trickstar" Link Monster in your GY; Special Summon it. You can only use this effect of "Trickstar Rhodode" once per turn. Each time a card(s) is banished from your opponent's GY, immediately inflict 200 damage to your opponent for each card banished.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1900
+Archetype: Trickstar
+Present in Sets:
+- Flames of Destruction

@@ -1,0 +1,13 @@
+Brain Hazard
+Card Type: Trap Card
+
+Description: Select 1 of your removed from play Psychic-Type monsters, and Special Summon it. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory

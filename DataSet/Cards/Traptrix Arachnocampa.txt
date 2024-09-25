@@ -1,0 +1,13 @@
+Traptrix Arachnocampa
+Card Type: Effect Monster
+
+Description: Unaffected by the effects of "Hole" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed. During the Main Phase, if you control a "Traptrix" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect or Plant monsters. You can only use this effect of "Traptrix Arachnocampa" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1500
+Archetype: Traptrix
+Present in Sets:
+- Structure Deck: Beware of Traptrix

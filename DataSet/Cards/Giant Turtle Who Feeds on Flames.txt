@@ -1,0 +1,16 @@
+Giant Turtle Who Feeds on Flames
+Card Type: Normal Monster
+
+Description: A crimson-shelled tortoise that feeds on flames.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

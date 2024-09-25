@@ -1,0 +1,20 @@
+Needle Ceiling
+Card Type: Trap Card
+
+Description: When there are 4 or more monsters on the field: Destroy all face-up monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Gold Series
+- Pharaonic Guardian
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

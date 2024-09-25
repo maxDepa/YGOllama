@@ -1,0 +1,16 @@
+Mermail Abyssteus
+Card Type: Effect Monster
+
+Description: You can discard 1 other WATER monster to the GY; Special Summon this card from your hand. When Summoned this way: You can add 1 Level 4 or lower "Mermail" monster from your Deck to your hand. You can only use this effect of "Mermail Abyssteus" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 7
+Attack: 1700
+Defence: 2400
+Archetype: Mermail
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Cosmo Blazer
+- Cosmo Blazer
+- Shadows in Valhalla

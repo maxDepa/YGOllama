@@ -1,0 +1,14 @@
+Sonata the Melodious Diva
+Card Type: Effect Monster
+
+Description: If you control a "Melodious" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 1000
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

@@ -1,0 +1,16 @@
+Rude Kaiser
+Card Type: Normal Monster
+
+Description: With an axe in each hand, this monster delivers heavy damage.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Legendary Collection 4: Joey's World Mega Pack
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

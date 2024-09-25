@@ -1,0 +1,17 @@
+White Magical Hat
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent's Life Points, your opponent discards 1 card randomly from his/her hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Joey

@@ -1,0 +1,19 @@
+Borreload Savage Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can equip 1 Link Monster from your GY to this card, and if you do, place Borrel Counters on this card equal to that Link Monster's Link Rating. This card gains ATK equal to half the ATK of the monster equipped to it by its effect. When your opponent activates a card or effect (Quick Effect): You can remove 1 Borrel Counter from this card; negate the activation. You can only use this effect of "Borreload Savage Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Borrel
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battles of Legend: Crystal Revenge
+- Battles of Legend: Crystal Revenge
+- Savage Strike

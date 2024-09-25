@@ -1,0 +1,14 @@
+Prediction Princess Astromorrigan
+Card Type: Flip Effect Monster
+
+Description: FLIP: During the End Phase of this turn, destroy as many Defense Position monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed.
+
+Type: Fairy
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 0
+Archetype: Prediction Princess
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

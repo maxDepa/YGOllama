@@ -1,0 +1,15 @@
+CXyz Comics Hero Legend Arthur
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+Once per turn, this card cannot be destroyed by battle. If this card has "Comics Hero King Arthur" as an Xyz Material, it gains this effect.
+● When this card destroys a monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; banish the destroyed monster, and if you do, inflict damage to your opponent equal to its original ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 3000
+Defence: 2400
+Archetype: CXyz
+Present in Sets:
+- Number Hunters

@@ -1,0 +1,14 @@
+Symbol of Heritage
+Card Type: Spell Card
+
+Description: Activate only while there are 3 Monster Cards with the same name in your Graveyard. Select 1 of those monsters, Special Summon it, and equip it with this card. When this card is destroyed, destroy the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

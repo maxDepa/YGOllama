@@ -1,0 +1,14 @@
+Nightmare Apprentice
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by discarding 1 card. You can only Special Summon "Nightmare Apprentice" once per turn this way. If this card battles a monster, neither can be destroyed by that battle. If this card is Normal or Special Summoned: You can add 1 Illusion monster from your Deck to your hand, except "Nightmare Apprentice". You can only use this effect of "Nightmare Apprentice" once per turn.
+
+Type: Illusion
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

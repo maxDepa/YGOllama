@@ -1,0 +1,14 @@
+Hidden Soldiers
+Card Type: Trap Card
+
+Description: When your opponent Normal or Flip Summons a monster: Special Summon 1 Level 4 or lower DARK monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Power of the Duelist Sneak Peek Participation Card

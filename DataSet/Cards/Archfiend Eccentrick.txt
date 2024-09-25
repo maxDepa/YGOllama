@@ -1,0 +1,21 @@
+Archfiend Eccentrick
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 other Spell/Trap on the field; destroy both it and this card. You can only use this effect of "Archfiend Eccentrick" once per turn.
+
+[ Monster Effect ] 
+You can Tribute this card, then target 1 monster on the field; destroy it. You can only use this effect of "Archfiend Eccentrick" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: Archfiend
+Present in Sets:
+- Clash of Rebellions
+- OTS Tournament Pack 22
+- Pendulum Evolution
+- Premium Gold: Infinite Gold
+- Starter Deck: Yuya

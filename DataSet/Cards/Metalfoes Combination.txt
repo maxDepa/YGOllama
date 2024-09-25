@@ -1,0 +1,15 @@
+Metalfoes Combination
+Card Type: Trap Card
+
+Description: Once per turn, if a Fusion Monster is Fusion Summoned: You can target 1 "Metalfoes" monster in your Graveyard with a lower Level than that Fusion Monster; Special Summon it. If this card is sent from the field to the Graveyard: You can add 1 "Metalfoes" monster from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Ghosts From the Past
+- The Dark Illusion

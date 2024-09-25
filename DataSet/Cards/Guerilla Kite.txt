@@ -1,0 +1,13 @@
+Guerilla Kite
+Card Type: Tuner Monster
+
+Description: If this card is sent from the field to the Graveyard: Inflict 500 damage to your opponent. You can only use this effect of "Guerilla Kite" once per turn.
+
+Type: Fiend
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 200
+Archetype: //
+Present in Sets:
+- World Superstars

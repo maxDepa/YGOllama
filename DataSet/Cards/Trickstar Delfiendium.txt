@@ -1,0 +1,15 @@
+Trickstar Delfiendium
+Card Type: Link Monster
+
+Description: 2+ "Trickstar" monsters
+When this card declares an attack while pointing to a "Trickstar" monster: You can target your banished "Trickstar" cards, up to the number of Link Monsters your opponent controls; add them to your hand, and if you do, this card gains 1000 ATK for each card added, until the end of this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

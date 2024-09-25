@@ -1,0 +1,13 @@
+Torapart
+Card Type: Tuner Monster
+
+Description: This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Warrior-Type Synchro Monster. If the Synchro Monster that used this card as a Synchro Material Monster attacks, your opponent cannot activate Trap Cards until the end of the Damage Step.
+
+Type: Warrior
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 600
+Archetype: //
+Present in Sets:
+- Raging Battle

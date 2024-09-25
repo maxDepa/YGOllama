@@ -1,0 +1,16 @@
+Super Rush Recklessly
+Card Type: Trap Card
+
+Description: Target 1 Beast-Type monster you control and 1 monster your opponent controls; destroy the first target, and if you do, shuffle the second target into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Revolution
+- Speed Duel GX: Duel Academy Box

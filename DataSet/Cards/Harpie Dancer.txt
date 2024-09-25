@@ -1,0 +1,17 @@
+Harpie Dancer
+Card Type: Effect Monster
+
+Description: You can target 1 WIND monster you control; return it to the hand, then you can Normal Summon 1 WIND monster. You can only use this effect of "Harpie Dancer" once per turn. This card's name becomes "Harpie Lady" while on the field or in the GY.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: Harpie
+Present in Sets:
+- Duel Power
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 K

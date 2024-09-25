@@ -1,0 +1,14 @@
+Frozen Fitzgerald
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1 non-Tuner Beast-Type monster
+If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.
+
+Type: Fiend
+Attribute: WATER
+Level: 5
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Duelist Pack Collection Tin 2011

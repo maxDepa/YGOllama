@@ -1,0 +1,16 @@
+Fury of Thunder
+Card Type: Skill Card
+
+Description: Activate the following Skill(s).
+● During your Main Phase, while you control "Slifer the Sky Dragon", draw until you have 4 cards in your hand.
+● If "Slifer the Sky Dragon" is sent to the GY, you can shuffle it back into your Deck.
+Each of these Skills can only be used once per Duel.
+
+Type: Yami Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

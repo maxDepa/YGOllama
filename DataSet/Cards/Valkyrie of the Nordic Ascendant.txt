@@ -1,0 +1,18 @@
+Valkyrie of the Nordic Ascendant
+Card Type: Tuner Monster
+
+Description: (This card is not treated as a "Valkyrie" card.)
+When this card is Normal Summoned, if your opponent controls a monster and you control no other cards: You can banish 2 "Nordic" monsters from your hand; Special Summon 2 "Einherjar Tokens" (Warrior/EARTH/Level 4/ATK 1000/DEF 1000) in Defense Position.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 400
+Defence: 800
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Star Pack 2014
+- Star Pack 2014
+- Storm of Ragnarok

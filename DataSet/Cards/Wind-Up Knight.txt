@@ -1,0 +1,13 @@
+Wind-Up Knight
+Card Type: Effect Monster
+
+Description: When a face-up "Wind-Up" monster you control is targeted for an attack: You can negate the attack. This effect can only be used once while this card is face-up on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Wind-Up
+Present in Sets:
+- Photon Shockwave

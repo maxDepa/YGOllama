@@ -1,0 +1,14 @@
+Pendulum Halt
+Card Type: Spell Card
+
+Description: If you have 3 or more face-up Pendulum Monsters with different names in your Extra Deck: Draw 2 cards. You cannot add cards from the Deck to your hand for the rest of this turn after this card resolves.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

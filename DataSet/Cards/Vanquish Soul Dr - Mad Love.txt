@@ -1,0 +1,17 @@
+Vanquish Soul Dr. Mad Love
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Vanquish Soul" Spell/Trap from your Deck to your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);
+● DARK: 1 face-up monster your opponent controls loses 500 ATK/DEF.
+● DARK & EARTH: Return the 1 monster with the lowest DEF on the field to the hand (your choice, if tied).
+You can only use each effect of "Vanquish Soul Dr. Mad Love" once per turn, and cannot activate more than 1 in the same Chain.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 2000
+Archetype: Vanquish Soul
+Present in Sets:
+- Wild Survivors
+- Wild Survivors

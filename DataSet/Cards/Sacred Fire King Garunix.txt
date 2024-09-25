@@ -1,0 +1,13 @@
+Sacred Fire King Garunix
+Card Type: Effect Monster
+
+Description: If your monster(s) that was originally FIRE is destroyed by battle or card effect: You can Special Summon this card from your GY (if it was there when the monster was destroyed) or hand (even if not). If this card is Normal or Special Summoned: You can destroy 1 FIRE Beast, Beast-Warrior, or Winged Beast monster in your hand, Deck, or face-up field, except "Sacred Fire King Garunix", and if you do, this card gains ATK equal to half the destroyed monster's ATK it had there, until the end of this turn. You can only use each effect of "Sacred Fire King Garunix" once per turn.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 8
+Attack: 2700
+Defence: 1700
+Archetype: Fire King
+Present in Sets:
+- Structure Deck: Fire Kings

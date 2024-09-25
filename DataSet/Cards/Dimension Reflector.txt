@@ -1,0 +1,15 @@
+Dimension Reflector
+Card Type: Trap Card
+
+Description: Activate this card by banishing 2 monsters you control, then target 1 face-up monster your opponent controls; Special Summon this card in Attack Position as an Effect Monster (Spellcaster-Type/DARK/Level 4/ATK ?/DEF ?) with ATK and DEF equal to that face-up monster's ATK. (This card is also still a Trap Card.) If this monster is Summoned this way: Inflict damage to your opponent equal to this card's ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

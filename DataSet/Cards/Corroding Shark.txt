@@ -1,0 +1,14 @@
+Corroding Shark
+Card Type: Normal Monster
+
+Description: A zombie shark that can deliver its lethal curse with a spell.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 700
+Archetype: Shark
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

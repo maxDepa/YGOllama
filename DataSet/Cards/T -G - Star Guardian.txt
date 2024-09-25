@@ -1,0 +1,17 @@
+T.G. Star Guardian
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner "T.G." monsters
+Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of "T.G. Star Guardian" once per turn.
+● If this card is Special Summoned: You can target 1 "T.G." monster in your GY; add it to your hand.
+● During your Main Phase: You can Special Summon 1 "T.G." monster from your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 100
+Defence: 2200
+Archetype: T.G.
+Present in Sets:
+- OTS Tournament Pack 23
+- Savage Strike

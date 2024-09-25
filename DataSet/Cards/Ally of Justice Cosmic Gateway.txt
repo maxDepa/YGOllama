@@ -1,0 +1,16 @@
+Ally of Justice Cosmic Gateway
+Card Type: Effect Monster
+
+Description: If your opponent controls 2 or more monsters, including a LIGHT monster, you can Special Summon this card from your hand.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2400
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

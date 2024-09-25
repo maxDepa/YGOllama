@@ -1,0 +1,13 @@
+Condemned Maiden
+Card Type: Effect Monster
+
+Description: During your opponent's turn, you can activate 1 Quick-Play Spell Card from your hand. You can only use this effect of "Condemned Maiden" once per Duel.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Primal Origin

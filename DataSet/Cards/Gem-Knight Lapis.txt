@@ -1,0 +1,14 @@
+Gem-Knight Lapis
+Card Type: Normal Monster
+
+Description: The best of friends with Lazuli, this soldier deeply cares about the well-being of her friends.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 100
+Archetype: Gem-
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity

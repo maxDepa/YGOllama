@@ -1,0 +1,14 @@
+Ragnaraika the Evil Seed
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by sending 1 Insect, Plant, or Reptile monster from your hand to the GY. You can only Special Summon "Ragnaraika the Evil Seed" once per turn this way. If this card is Normal or Special Summoned: You can add to your hand up to 2 different "Ragnaraika" cards of yours that are banished and/or in your Deck, except "Ragnaraika the Evil Seed", then banish 1 card from your hand, also you cannot Special Summon for the rest of this turn, except Insect, Plant, or Reptile monsters. You can only use this effect of "Ragnaraika the Evil Seed" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Ragnaraika
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

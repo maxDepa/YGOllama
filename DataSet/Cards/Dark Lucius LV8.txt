@@ -1,0 +1,15 @@
+Dark Lucius LV8
+Card Type: Effect Monster
+
+Description: If this card was Special Summoned by the effect of "Dark Lucius LV6", banish your opponent's monsters destroyed by battle with this card, also negate their effects.
+
+Type: Fiend
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 900
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact
+- Speed Duel Starter Decks: Twisted Nightmares

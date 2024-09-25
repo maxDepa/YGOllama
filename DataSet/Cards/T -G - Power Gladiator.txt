@@ -1,0 +1,15 @@
+T.G. Power Gladiator
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "T.G." monsters
+If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card on the field is destroyed: Draw 1 card.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 2300
+Defence: 1000
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

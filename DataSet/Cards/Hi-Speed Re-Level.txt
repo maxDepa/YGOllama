@@ -1,0 +1,13 @@
+Hi-Speed Re-Level
+Card Type: Spell Card
+
+Description: Banish 1 "Speedroid" monster from your Graveyard, then target 1 Synchro Monster you control; until the end of this turn, change its Level to the banished monster's Level, and it gains ATK equal to that monster's Level x 500.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Roid
+Present in Sets:
+- Breakers of Shadow

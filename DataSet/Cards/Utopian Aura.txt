@@ -1,0 +1,16 @@
+Utopian Aura
+Card Type: Trap Card
+
+Description: Detach 1 Xyz Material from a monster you control; the face-up Xyz Monsters you currently control cannot be destroyed by card effects until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Super Starter: V for Victory

@@ -1,0 +1,17 @@
+Dark Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Banish all Defense Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Gold: Infinite Gold

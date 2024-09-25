@@ -1,0 +1,15 @@
+Locomotion R-Genex
+Card Type: Synchro Monster
+
+Description: 1 "Genex" Tuner + 1 or more non-Tuner DARK monsters
+When this card is Synchro Summoned, take control of the face-up monster your opponent controls with the highest Level. (If it's a tie, you get to choose.)
+
+Type: Machine
+Attribute: DARK
+Level: 9
+Attack: 2500
+Defence: 2000
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

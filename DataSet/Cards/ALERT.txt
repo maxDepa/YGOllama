@@ -1,0 +1,15 @@
+ALERT!
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Rescue-ACE" card.)
+Add 1 "Rescue-ACE" monster from your GY to your hand, or if you control "Rescue-ACE Hydrant", you can add 1 "Rescue-ACE" monster from your Deck to your hand instead. You can only activate 1 "ALERT!" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders
+- Maze of Millennia

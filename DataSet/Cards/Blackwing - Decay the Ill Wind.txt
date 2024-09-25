@@ -1,0 +1,17 @@
+Blackwing - Decay the Ill Wind
+Card Type: Tuner Monster
+
+Description: Once per turn, during the End Phase, if this card is in the Graveyard because it was sent there this turn: Take 1000 damage. When this card is Normal or Special Summoned: You can target 1 "Blackwing" monster you control, then activate 1 of these effects;
+● Increase its Level by 1.
+● Reduce its Level by 1.
+You can only use this effect of "Blackwing - Decay the Ill Wind" once per turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Blackwing
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

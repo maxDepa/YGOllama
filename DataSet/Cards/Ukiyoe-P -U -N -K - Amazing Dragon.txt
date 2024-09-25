@@ -1,0 +1,16 @@
+Ukiyoe-P.U.N.K. Amazing Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can target cards your opponent controls, up to the number of Level 3 Psychic monsters with different names you control and in your GY; return them to the hand. You can target 1 "P.U.N.K." monster in your GY, except "Ukiyoe-P.U.N.K. Amazing Dragon"; Special Summon it. You can only use 1 "Ukiyoe-P.U.N.K. Amazing Dragon" effect per turn, and only once that turn.
+
+Type: Sea Serpent
+Attribute: WIND
+Level: 11
+Attack: 3000
+Defence: 2800
+Archetype: P.U.N.K.
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- The Grand Creators
+- The Grand Creators

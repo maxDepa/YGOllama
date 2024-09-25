@@ -1,0 +1,12 @@
+The Thing That Hides in the Mud
+Card Type: Normal Monster
+
+Description: This monster melts its way underground to attack enemies from below.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1300
+Archetype: //
+Present in Sets:

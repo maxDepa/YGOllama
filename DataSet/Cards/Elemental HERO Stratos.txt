@@ -1,0 +1,28 @@
+Elemental HERO Stratos
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can activate 1 of these effects.
+● Destroy Spells/Traps on the field, up to the number of "HERO" monsters you control, except this card.
+● Add 1 "HERO" monster from your Deck to your hand.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 300
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Battles of Legend: Hero's Revenge
+- Burst of Destiny
+- Champion Pack: Game Six
+- Collectible Tins 2010 Wave 1
+- Duel Terminal 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Maximum Gold
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Pharaoh Tour 2007 promotional cards
+- Ra Yellow Mega Pack
+- Shonen Jump Vol. 5, Issue 4 promotional card
+- WSJ Jump Pack Spring 2019 promotional card

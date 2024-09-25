@@ -1,0 +1,14 @@
+Gorgonic Cerberus
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can make all Rock-Type monsters you control become Level 3.
+
+Type: Rock
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 300
+Archetype: Gorgonic
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

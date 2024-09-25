@@ -1,0 +1,14 @@
+Zexal Entrust
+Card Type: Spell Card
+
+Description: Target 1 "Utopia", "ZW -", or "ZS -" monster in your GY; add it to your hand or Special Summon it. If your opponent's LP are at least 2000 higher than yours, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Zexal" Spell/Trap in your GY, except "Zexal Entrust"; add it to your hand. You can only use each effect of "Zexal Entrust" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Zexal
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

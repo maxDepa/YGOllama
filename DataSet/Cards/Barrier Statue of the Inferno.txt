@@ -1,0 +1,15 @@
+Barrier Statue of the Inferno
+Card Type: Effect Monster
+
+Description: Neither player can Special Summon monsters, except FIRE monsters.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Maximum Gold
+- OTS Tournament Pack 4

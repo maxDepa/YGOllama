@@ -1,0 +1,14 @@
+Timeater
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 1900
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Duel Terminal 6a
+- Pharaonic Guardian

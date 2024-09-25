@@ -1,0 +1,14 @@
+Gadget Gamer
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 Level 1 Machine monster from your Deck to your hand. You can Tribute this card; Special Summon 1 "Morphtronic" monster from your hand, then you can Special Summon 1 "Gadget Hauler" from your hand or Deck. You can only use each effect of "Gadget Gamer" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: Gadget
+Present in Sets:
+- OTS Tournament Pack 20
+- Power of the Elements

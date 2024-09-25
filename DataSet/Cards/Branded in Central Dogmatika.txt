@@ -1,0 +1,14 @@
+Branded in Central Dogmatika
+Card Type: Spell Card
+
+Description: If you Special Summon 1 Ritual Monster (and no other cards) by a Spell Card or effect (except during the Damage Step): You can look at either player's Extra Deck, and send 1 monster from it to the GY. If you Special Summon 1 Fusion Monster (and no other cards) by a Spell Card or effect (except during the Damage Step): You can target that monster; for the rest of this turn, it gains ATK equal to its original ATK, also it can only attack Attack Position monsters your opponent controls. You can only use each effect of "Branded in Central Dogmatika" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

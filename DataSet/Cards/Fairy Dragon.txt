@@ -1,0 +1,13 @@
+Fairy Dragon
+Card Type: Normal Monster
+
+Description: This beautiful Dragon spirit harbors hidden strength.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Three

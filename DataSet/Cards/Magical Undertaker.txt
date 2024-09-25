@@ -1,0 +1,17 @@
+Magical Undertaker
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon that target.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 400
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Speed Duel: Attack from the Deep
+- Structure Deck: Order of the Spellcasters
+- Super Starter: V for Victory

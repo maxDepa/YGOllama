@@ -1,0 +1,15 @@
+Zoma the Earthbound Spirit
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500) with the following effect (this card is also still a Trap).
+● All monsters your opponent controls that can attack must attack this card.
+If this card Summoned this way is destroyed by an opponent's monster's attack: Inflict damage to your opponent (max. 3000) equal to double the original ATK of the attacking monster. You can only use each effect of "Zoma the Earthbound Spirit" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:
+- Legacy of Destruction

@@ -1,0 +1,13 @@
+Turu-Purun
+Card Type: Normal Monster
+
+Description: A strange, one-eyed monster that can fell an enemy with a single stab of its spear.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 450
+Defence: 500
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

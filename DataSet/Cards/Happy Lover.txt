@@ -1,0 +1,13 @@
+Happy Lover
+Card Type: Normal Monster
+
+Description: Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Two

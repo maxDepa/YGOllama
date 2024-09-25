@@ -1,0 +1,17 @@
+Dogmatika Encounter
+Card Type: Trap Card
+
+Description: Activate 1 of these effects;
+● Special Summon 1 "Dogmatika" monster or "Fallen of Albaz" from your hand.
+● Add to your hand or Special Summon 1 "Dogmatika" monster or "Fallen of Albaz" from your GY.
+You can only activate 1 "Dogmatika Encounter" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dogmatika
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

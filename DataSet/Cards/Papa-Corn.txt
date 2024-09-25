@@ -1,0 +1,13 @@
+Papa-Corn
+Card Type: Effect Monster
+
+Description: While a Field Spell Card is face-up on the field, this card gains 1000 ATK.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Abyss Rising

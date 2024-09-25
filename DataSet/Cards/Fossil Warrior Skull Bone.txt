@@ -1,0 +1,15 @@
+Fossil Warrior Skull Bone
+Card Type: Fusion Monster
+
+Description: 1 Rock monster + 1 Level 4 or lower monster
+Must first be Special Summoned with "Fossil Fusion". This card can make up to 2 attacks on monsters during each Battle Phase. You can banish this card from your GY; add 1 "Time Stream" from your Deck to your hand. You can only use this effect of "Fossil Warrior Skull Bone" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 800
+Archetype: Fossil
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1

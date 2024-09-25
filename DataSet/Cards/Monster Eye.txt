@@ -1,0 +1,14 @@
+Monster Eye
+Card Type: Effect Monster
+
+Description: You can pay 1000 Life Points; add 1 "Polymerization" from your Graveyard to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 250
+Defence: 350
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

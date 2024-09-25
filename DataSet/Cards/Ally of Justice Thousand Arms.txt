@@ -1,0 +1,14 @@
+Ally of Justice Thousand Arms
+Card Type: Effect Monster
+
+Description: This card can attack all face-up LIGHT monsters your opponent controls once each. If this card battles a non-LIGHT monster, destroy this card before damage calculation.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 1
+- Starstrike Blast

@@ -1,0 +1,19 @@
+Phantom Fortress Enterblathnir
+Card Type: XYZ Monster
+
+Description: 2 Level 9 monsters
+Once per turn: You can detach 1 material from this card, then activate 1 of these effects;
+● Banish 1 card your opponent controls.
+● Banish 1 random card from your opponent's hand.
+● Banish 1 card from your opponent's GY.
+● Banish the top card of your opponent's Deck, face-up.
+
+Type: Machine
+Attribute: WIND
+Level: 9
+Attack: 2900
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Primal Origin
+- The Infinity Chasers

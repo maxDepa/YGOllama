@@ -1,0 +1,15 @@
+Spirit of the Pharaoh
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "The First Sarcophagus". When this card is Special Summoned, you can Special Summon up to 4 Level 2 or lower Zombie-Type Normal Monsters from your Graveyard.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Duelists of Shadows

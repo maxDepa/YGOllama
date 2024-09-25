@@ -1,0 +1,20 @@
+Jirai Gumo
+Card Type: Effect Monster
+
+Description: When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your Life Points.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 2200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel GX: Midterm Paradox

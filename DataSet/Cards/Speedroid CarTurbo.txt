@@ -1,0 +1,15 @@
+Speedroid CarTurbo
+Card Type: Tuner Monster
+
+Description: If you control a WIND monster: You can Special Summon this card from your hand, also you cannot activate monster effects for the rest of this turn, except WIND monsters. You can banish this card and 1 "Speedroid" monster from your GY; all WIND monsters you currently control gain 800 ATK until the end of this turn. You can only use each effect of "Speedroid CarTurbo" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Speedroid
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Legendary Duelists: Synchro Storm
+- Rise of the Duelist

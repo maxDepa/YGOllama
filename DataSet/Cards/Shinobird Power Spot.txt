@@ -1,0 +1,14 @@
+Shinobird Power Spot
+Card Type: Spell Card
+
+Description: Spirit monsters you control gain 500 ATK and DEF. If a face-up WIND monster(s) you control returns to your hand (except during the Damage Step): You can add 1 Spirit monster or Ritual Spell Card from your Deck to your hand. You can only use this effect of "Shinobird Power Spot" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shinobird
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

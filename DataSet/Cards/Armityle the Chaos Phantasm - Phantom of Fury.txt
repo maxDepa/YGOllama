@@ -1,0 +1,14 @@
+Armityle the Chaos Phantasm - Phantom of Fury
+Card Type: Fusion Monster
+
+Description: "Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, Lord of Phantasms"
+This card's name becomes "Armityle the Chaos Phantasm" while on the field. Once per turn, during your Main Phase: You can give control of this card to your opponent. Once per turn, during the End Phase, if this card's control was changed this turn: Banish all cards you control, then the owner of this card can Special Summon 1 "Armityle the Chaos Phantasm" from their Extra Deck, ignoring its Summoning conditions.
+
+Type: Fiend
+Attribute: DARK
+Level: 12
+Attack: 0
+Defence: 0
+Archetype: Sacred Beast
+Present in Sets:
+- Phantom Rage

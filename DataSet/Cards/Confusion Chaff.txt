@@ -1,0 +1,14 @@
+Confusion Chaff
+Card Type: Trap Card
+
+Description: Activate only when your opponent declares a second direct attack during the same Battle Phase. Conduct battle between the attacking monster and the first monster that attacked directly (other effects cannot be activated during this battle).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Duelist Pack: Yusei

@@ -1,0 +1,15 @@
+Double or Nothing!
+Card Type: Spell Card
+
+Description: When a monster's attack is negated: Target that monster; it can make a second attack during this Battle Phase, and if it does, its ATK is doubled during the Damage Step only.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Power
+- Generation Force
+- Super Starter: V for Victory

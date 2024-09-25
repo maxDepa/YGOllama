@@ -1,0 +1,17 @@
+Infected Mail
+Card Type: Spell Card
+
+Description: Once per turn: You can target 1 Level 4 or lower monster you control; it can attack your opponent directly this turn. Send it to the Graveyard at the end of the Battle Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Generation Force
+- Star Pack 2013
+- Star Pack 2013

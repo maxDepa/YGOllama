@@ -1,0 +1,13 @@
+Starry Knight Ciel
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can return 1 "Starry Knight" monster or 1 Level 7 LIGHT Dragon monster you control to the hand, except "Starry Knight Ciel"; Special Summon this card. If you control no monsters: You can banish this card from your GY; Special Summon 1 Level 7 LIGHT Dragon monster from your hand. You can only use each effect of "Starry Knight Ciel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: Starry Knight
+Present in Sets:
+- Lightning Overdrive

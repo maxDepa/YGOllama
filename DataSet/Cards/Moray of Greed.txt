@@ -1,0 +1,19 @@
+Moray of Greed
+Card Type: Spell Card
+
+Description: Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Astral Pack One
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Realm of the Sea Emperor Structure Deck
+- Speed Duel: Attack from the Deep
+- Stardust Overdrive
+- The Pot Collection

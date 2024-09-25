@@ -1,0 +1,15 @@
+Machina Force
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by "Commander Covington". You must pay 1000 LP to declare an attack with this card. You can send this card you control to the GY, then target 1 "Machina Soldier", "Machina Sniper", and "Machina Defender" in your GY; Special Summon those targets.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 4600
+Defence: 4100
+Archetype: Machina
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Structure Deck: Mechanized Madness

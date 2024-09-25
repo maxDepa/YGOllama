@@ -1,0 +1,19 @@
+Maha Vailo, Light of the Heavens
+Card Type: Effect Monster
+
+Description: This card gains the following effect(s), based on the number of Equip Cards equipped to it.
+● 1+: Gains 1000 ATK for each Equip Card equipped to it.
+● 2+: Your opponent cannot activate monster effects during the Battle Phase.
+● 3+: When your opponent's card or effect is activated that targets this card (Quick Effect): You can send 1 Equip Card you control to the GY; negate that effect.
+● 4+: Your opponent cannot activate cards or effects during the Battle Phase.
+● 5+: Any battle damage this card inflicts to your opponent is doubled.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 1550
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

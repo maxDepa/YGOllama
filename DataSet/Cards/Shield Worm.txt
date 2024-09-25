@@ -1,0 +1,13 @@
+Shield Worm
+Card Type: Effect Monster
+
+Description: When this card is Summoned, it is changed to Defense Position. Then, send 1 card from the top of your opponent's Deck to the Graveyard for each face-up Insect-Type monster you control.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: Worm
+Present in Sets:
+- Absolute Powerforce

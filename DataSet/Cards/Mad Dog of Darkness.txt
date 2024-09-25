@@ -1,0 +1,18 @@
+Mad Dog of Darkness
+Card Type: Normal Monster
+
+Description: He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Starter Deck: Kaiba Reloaded

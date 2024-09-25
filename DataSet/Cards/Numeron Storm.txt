@@ -1,0 +1,13 @@
+Numeron Storm
+Card Type: Spell Card
+
+Description: If you control a "Numerounius" monster: Destroy as many Spells/Traps your opponent controls as possible (min. 1), and if you do, inflict 1000 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Numeron
+Present in Sets:
+- Maximum Gold: El Dorado

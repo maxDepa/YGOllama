@@ -1,0 +1,18 @@
+The Fabled Cerburrel
+Card Type: Tuner Monster
+
+Description: If this card is discarded to the Graveyard: Special Summon it.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 1000
+Defence: 400
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Realm of Light Structure Deck
+- Structure Deck: Sacred Beasts

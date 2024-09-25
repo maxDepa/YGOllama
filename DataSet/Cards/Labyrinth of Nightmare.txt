@@ -1,0 +1,17 @@
+Labyrinth of Nightmare
+Card Type: Trap Card
+
+Description: Once per turn, during each player's End Phase: Change the battle positions of all face-up monsters the turn player controls.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 2
+- Speed Duel GX: Midterm Paradox

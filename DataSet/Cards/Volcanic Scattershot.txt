@@ -1,0 +1,15 @@
+Volcanic Scattershot
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: Inflict 500 damage to your opponent. If this card is sent to the Graveyard by the effect of a "Blaze Accelerator" card: You can send 2 "Volcanic Scattershots" from your hand and/or Deck to the Graveyard; destroy all monsters your opponent controls.
+
+Type: Pyro
+Attribute: FIRE
+Level: 2
+Attack: 500
+Defence: 0
+Archetype: Volcanic
+Present in Sets:
+- Astral Pack Seven
+- Force of the Breaker
+- Legendary Duelists: Soulburning Volcano

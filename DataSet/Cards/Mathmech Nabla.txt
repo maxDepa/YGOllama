@@ -1,0 +1,13 @@
+Mathmech Nabla
+Card Type: Tuner Monster
+
+Description: You can Tribute 1 Cyberse monster; Special Summon 1 "Mathmech" monster from your Deck. If this card is sent to the GY: You can target 1 Cyberse monster you control in the Extra Monster Zone; it can make up to 2 attacks on monsters during each Battle Phase this turn. You can only use each effect of "Mathmech Nabla" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: Mathmech
+Present in Sets:
+- Mystic Fighters

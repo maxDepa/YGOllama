@@ -1,0 +1,13 @@
+Evolsaur Terias
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: This card loses 500 ATK.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 6
+Attack: 2400
+Defence: 600
+Archetype: Evolsaur
+Present in Sets:
+- Order of Chaos

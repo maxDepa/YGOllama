@@ -1,0 +1,18 @@
+Cocoon of Evolution
+Card Type: Effect Monster
+
+Description: You can target 1 "Petit Moth" you control; equip this card from your hand to that target. While equipped by this effect, the original ATK/DEF of that "Petit Moth" becomes the ATK/DEF of "Cocoon of Evolution".
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Starter Decks: Ultimate Predators

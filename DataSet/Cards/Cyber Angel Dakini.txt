@@ -1,0 +1,16 @@
+Cyber Angel Dakini
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Machine Angel Ritual". If this card is Ritual Summoned: You can make your opponent send 1 monster they control to the GY (their choice). If a Ritual Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your End Phase: You can target 1 Ritual Monster or 1 "Machine Angel Ritual" in your GY; add it to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2700
+Defence: 2400
+Archetype: Cyber Angel
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians
+- Legendary Duelists: Sisters of the Rose

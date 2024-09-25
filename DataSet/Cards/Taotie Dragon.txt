@@ -1,0 +1,17 @@
+Taotie Dragon
+Card Type: Link Monster
+
+Description: 2+ monsters Special Summoned from the Extra Deck
+This card gains effects based on the card types (Fusion/Synchro/Xyz) of materials used for its Link Summon.
+● Fusion: Your opponent cannot activate monster effects during the Battle Phase.
+● Synchro: Your opponent cannot activate Spell/Trap Cards and effects during your Main Phase.
+● Xyz: Your opponent cannot activate the effects of cards in the GY during your Main Phase or Battle Phase.
+
+Type: Wyrm
+Attribute: DARK
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Eternity Code

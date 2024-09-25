@@ -1,0 +1,18 @@
+Neo-Spacian Dark Panther
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects (if any).
+
+Type: Beast
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: Neo-Spacian
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Champion Pack: Game Eight
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist

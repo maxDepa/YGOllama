@@ -1,0 +1,14 @@
+Kujakujaku
+Card Type: Effect Monster
+
+Description: If this card on the field is Tributed and sent to the Graveyard: You can add 1 Level 4 or lower WIND monster from your Deck or Graveyard to your hand, except "Kujakujaku". You can only use the effect of "Kujakujaku" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

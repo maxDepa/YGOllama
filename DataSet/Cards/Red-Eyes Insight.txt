@@ -1,0 +1,14 @@
+Red-Eyes Insight
+Card Type: Spell Card
+
+Description: Send 1 "Red-Eyes" monster from your hand or Deck to the Graveyard; add 1 "Red-Eyes" Spell/Trap Card from your Deck to your hand, except "Red-Eyes Insight". You can only activate 1 "Red-Eyes Insight" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Invasion: Vengeance
+- Legendary Duelists: Season 1

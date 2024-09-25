@@ -1,0 +1,15 @@
+Pumprincess the Princess of Ghosts
+Card Type: Effect Monster
+
+Description: If this face-up card is destroyed while in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell Card, instead of sending it to the Graveyard. While this card is treated as a Continuous Spell Card by this effect, during each player's Standby Phase: Place 1 Pumpkin Counter on this card. All monsters your opponent controls lose 100 ATK and DEF for each Pumpkin Counter on this card.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters
+- Speed Duel: Streets of Battle City

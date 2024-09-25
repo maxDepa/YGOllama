@@ -1,0 +1,13 @@
+Cold Feet
+Card Type: Spell Card
+
+Description: You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

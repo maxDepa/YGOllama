@@ -1,0 +1,12 @@
+Water Element
+Card Type: Normal Monster
+
+Description: A sea-dwelling spirit that takes away sight by clouding the area in fog.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:

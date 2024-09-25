@@ -1,0 +1,16 @@
+Inverse Universe
+Card Type: Trap Card
+
+Description: Switch the ATK and DEF of all face-up Effect Monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- OTS Tournament Pack 4

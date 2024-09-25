@@ -1,0 +1,14 @@
+Prank-Kids Place
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Prank-Kids" monster from your Deck to your hand. Once per turn, if you Fusion Summon a "Prank-Kids" Fusion Monster (except during the Damage Step): You can have all monsters you control gain 500 ATK (even if this card leaves the field). Once per turn, if you Link Summon a "Prank-Kids" Link Monster (except during the Damage Step): You can have all monsters your opponent controls lose 500 ATK (even if this card leaves the field). You can only activate 1 "Prank-Kids Place" per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Prank-Kids
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold: El Dorado

@@ -1,0 +1,15 @@
+Generation Shift
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; destroy that target, then add 1 card with the same name as the destroyed card from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist League 16 participation cards
+- Shadow of Infinity

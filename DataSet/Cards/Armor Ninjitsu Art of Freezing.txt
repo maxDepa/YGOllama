@@ -1,0 +1,14 @@
+Armor Ninjitsu Art of Freezing
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack, if you control a "Ninja" monster: You can flip this card face-up; negate that attack and end the Battle Phase. While this card is face-up on the field and you control a "Ninja" monster, monsters your opponent controls cannot change their battle positions.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 2

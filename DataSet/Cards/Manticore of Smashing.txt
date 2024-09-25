@@ -1,0 +1,13 @@
+Manticore of Smashing
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can add 1 "Fissure" or 1 "Smashing Ground" from your Deck to your hand. If this card is in your GY: You can banish 1 "Fissure" or 1 "Smashing Ground" from your hand or GY; Special Summon this card. You can only use each effect of "Manticore of Smashing" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Photon Hypernova

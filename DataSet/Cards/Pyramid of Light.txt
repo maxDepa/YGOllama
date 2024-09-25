@@ -1,0 +1,13 @@
+Pyramid of Light
+Card Type: Trap Card
+
+Description: If this face-up card is removed from your side of the field, destroy "Andro Sphinx" and "Sphinx Teleia" on your side of the field and remove them from play.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sphinx
+Present in Sets:
+- Movie Pack

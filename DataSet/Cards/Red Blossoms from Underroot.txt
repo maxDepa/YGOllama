@@ -1,0 +1,13 @@
+Red Blossoms from Underroot
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 Spell/Trap in each GY; banish them, and if you do, Special Summon this card. You can Tribute this card, then target 1 Fusion, Synchro, Xyz, or Link Monster in either GY; banish that target, and if you do, Special Summon 1 monster from your GY with a different monster card type (Fusion, Synchro, Xyz, or Link) from that target. You can only use each effect of "Red Blossoms from Underroot" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Devastator

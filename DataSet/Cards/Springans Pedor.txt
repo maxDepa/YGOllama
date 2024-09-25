@@ -1,0 +1,13 @@
+Springans Pedor
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 "Springans" monster in your GY, except "Springans Pedor"; Special Summon it. If this card is in your hand, field, or GY: You can target 1 "Springans" Xyz Monster you control; attach this card to it as material. You can only use each effect of "Springans Pedor" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Springans
+Present in Sets:
+- Blazing Vortex

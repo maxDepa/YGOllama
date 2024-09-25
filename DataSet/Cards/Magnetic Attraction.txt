@@ -1,0 +1,16 @@
+Magnetic Attraction
+Card Type: Skill Card
+
+Description: Apply the following Skill(s):
+● When a Level 4 or lower "Magnet Warrior" monster is Normal Summoned, you can add 1 Level 4 or lower "Magnet Warrior" monster with a different name from your Deck to your hand.
+● You can reveal 2 Level 4 or lower "Magnet Warrior" monsters with different names from your hand, and if you do, add 1 "Valkyrion the Magna Warrior" from your Deck to your hand.
+Each of these Skills can only be used once per Duel.
+
+Type: Yami Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

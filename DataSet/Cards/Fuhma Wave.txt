@@ -1,0 +1,13 @@
+Fuhma Wave
+Card Type: Trap Card
+
+Description: Target 1 face-up monster on the field; destroy 1 monster on the field with the same Attribute, but a different name, as that monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Rising Rampage

@@ -1,0 +1,13 @@
+Snow Dragon
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle or by a card effect and sent to the Graveyard: Place 1 Ice Counter on each face-up monster on the field.
+
+Type: Dragon
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 900
+Archetype: //
+Present in Sets:
+- Abyss Rising

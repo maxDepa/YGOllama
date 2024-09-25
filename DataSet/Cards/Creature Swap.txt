@@ -1,0 +1,37 @@
+Creature Swap
+Card Type: Spell Card
+
+Description: Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Dragunity Legion Structure Deck
+- Duelist Pack: Zane Truesdale
+- Geargia Rampage Structure Deck
+- Hobby League 3 participation card B
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 3: Yugi's World Mega Pack
+- Onslaught of the Fire Kings Structure Deck
+- Retro Pack 2
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Dragon's Roar
+- Structure Deck: Fury from the Deep
+- Structure Deck: Marik (TCG)
+- Structure Deck: Zombie Madness
+- Turbo Pack: Booster Six
+- Zombie World Structure Deck

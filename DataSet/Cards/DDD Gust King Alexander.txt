@@ -1,0 +1,14 @@
+D/D/D Gust King Alexander
+Card Type: Synchro Monster
+
+Description: 1 "D/D" Tuner + 1 or more non-Tuner monsters
+If another "D/D" monster(s) is Normal or Special Summoned to your field, while you control this face-up card (except during the Damage Step): You can target 1 Level 4 or lower "D/D" monster in your Graveyard; Special Summon it. You can only use this effect of "D/D/D Gust King Alexander" once per turn.
+
+Type: Fiend
+Attribute: WIND
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tins

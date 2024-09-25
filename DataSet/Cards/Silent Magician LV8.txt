@@ -1,0 +1,17 @@
+Silent Magician LV8
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by "Silent Magician LV4" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 3500
+Defence: 1000
+Archetype: Silent Magician
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Yu-Gi-Oh! Nightmare Troubadour promotional cards
+- Yugi's Legendary Decks

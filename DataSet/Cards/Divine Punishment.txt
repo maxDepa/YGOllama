@@ -1,0 +1,16 @@
+Divine Punishment
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, is activated, while "The Sanctuary in the Sky" is on the field: Negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Lost Sanctuary Structure Deck
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Structure Deck: Wave of Light

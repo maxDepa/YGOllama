@@ -1,0 +1,13 @@
+Fengli the Soldrapom
+Card Type: Tuner Monster
+
+Description: If this card is sent from the Deck to your GY by a monster effect: You can Special Summon this card, then, if you control another Plant monster, you can halve the ATK/DEF of 1 monster on the field. You can only use this effect of "Fengli the Soldrapom" once per turn. Once per turn, if this card on the field would be destroyed by battle or card effect, you can send 1 Plant monster from your Deck to the GY instead.
+
+Type: Plant
+Attribute: FIRE
+Level: 1
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Burst of Destiny

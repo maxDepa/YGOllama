@@ -1,0 +1,13 @@
+Ancient Gear Tanker
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can Special Summon 1 "Ancient Gear" monster from your hand, except "Ancient Gear Tanker", ignoring its Summoning conditions, or, if your opponent controls a monster, you can Special Summon from your GY instead. You can target 1 face-up card you control; destroy it, also for the rest of this turn, all monsters you control that are "Ancient Gear Golem", or mention it, gain 600 ATK. You can only use each effect of "Ancient Gear Tanker" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: Ancient Gear
+Present in Sets:
+- Legacy of Destruction

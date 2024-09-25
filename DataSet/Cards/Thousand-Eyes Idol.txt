@@ -1,0 +1,20 @@
+Thousand-Eyes Idol
+Card Type: Normal Monster
+
+Description: A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Eyes Restrict
+Present in Sets:
+- Dark Beginning 1
+- OTS Tournament Pack 7 (POR)
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Starter Decks: Match of the Millennium

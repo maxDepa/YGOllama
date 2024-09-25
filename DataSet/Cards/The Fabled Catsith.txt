@@ -1,0 +1,16 @@
+The Fabled Catsith
+Card Type: Tuner Monster
+
+Description: When this card is discarded to the Graveyard, select 1 face-up card on the field, and destroy it.
+
+Type: Beast
+Attribute: LIGHT
+Level: 1
+Attack: 800
+Defence: 600
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

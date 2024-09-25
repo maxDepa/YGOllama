@@ -1,0 +1,17 @@
+Dotscaper
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: You can Special Summon this card. If this card is banished: You can Special Summon this card. You can only use 1 "Dotscaper" effect per turn, and only once that turn. You can only use each effect of "Dotscaper" once per Duel.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Structure Deck: Cyberse Link

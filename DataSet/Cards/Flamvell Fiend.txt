@@ -1,0 +1,15 @@
+Flamvell Fiend
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Pyro-Type monster in your Graveyard.
+
+Type: Fiend
+Attribute: FIRE
+Level: 5
+Attack: 2100
+Defence: 1200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Duelist Revolution
+- OTS Tournament Pack 18 (POR)

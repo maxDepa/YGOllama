@@ -1,0 +1,15 @@
+Flying Kamakiri #2
+Card Type: Normal Monster
+
+Description: A flying mantis that feeds primarily on insects.
+
+Type: Insect
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

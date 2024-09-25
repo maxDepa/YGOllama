@@ -1,0 +1,23 @@
+Hyozanryu
+Card Type: Normal Monster
+
+Description: A dragon created from a massive diamond that sparkles with blinding light.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2100
+Defence: 2800
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 1
+- Dark Legends
+- Ghosts From the Past
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Speed Duel GX: Midterm Paradox
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Kaiba Evolution

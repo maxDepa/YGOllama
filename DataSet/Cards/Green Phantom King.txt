@@ -1,0 +1,15 @@
+Green Phantom King
+Card Type: Normal Monster
+
+Description: This youthful king of the forests lives in a green world, abundant with trees and wildlife.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

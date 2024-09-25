@@ -1,0 +1,14 @@
+Ancient Gear Reborn
+Card Type: Trap Card
+
+Description: Once per turn, if you control no monsters: You can target 1 "Ancient Gear" monster in your Graveyard; Special Summon it, and if you do, it gains 200 ATK (even if this card leaves the field). You can only control 1 "Ancient Gear Reborn".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

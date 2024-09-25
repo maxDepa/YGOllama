@@ -1,0 +1,14 @@
+Powered Inzektron
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

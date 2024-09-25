@@ -1,0 +1,14 @@
+Sunvine Thrasher
+Card Type: Link Monster
+
+Description: 1 Plant Normal Monster
+If a "Sunavalon" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 "Sunavalon" Link Monster on the field; this card gains ATK equal to that monster's Link Rating x 800. When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon that monster to your zone a Link Monster points to, but negate its effects.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: Sunvine
+Present in Sets:
+- Ghosts From the Past

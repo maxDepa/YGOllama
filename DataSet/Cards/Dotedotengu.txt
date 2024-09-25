@@ -1,0 +1,13 @@
+Dotedotengu
+Card Type: Effect Monster
+
+Description: If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.
+
+Type: Fiend
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 800
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

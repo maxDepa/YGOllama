@@ -1,0 +1,15 @@
+Performapal Pinch Helper
+Card Type: Trap Card
+
+Description: Once per turn, when an opponent's monster declares a direct attack: You can negate the attack, and if you do, Special Summon 1 "Performapal" monster from your Deck, but its effects are negated. When an attack is declared involving a monster you control and an opponent's monster: You can send this card to the Graveyard; you take no battle damage from that battle.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Starter Deck: Yuya

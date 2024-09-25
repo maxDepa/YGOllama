@@ -1,0 +1,14 @@
+By Order of the Emperor
+Card Type: Trap Card
+
+Description: When a monster effect is activated that activates when a monster is Normal Summoned: You can negate the activation, then the player whose effect activation was negated draws 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Emperor of Darkness Structure Deck
+- The Dark Emperor Structure Deck

@@ -1,0 +1,16 @@
+Naturia Leodrake
+Card Type: Synchro Monster
+
+Description: 1 EARTH Tuner + 1 or more non-Tuner EARTH monsters
+
+Type: Beast
+Attribute: EARTH
+Level: 9
+Attack: 3000
+Defence: 1800
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

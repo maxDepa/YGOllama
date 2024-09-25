@@ -1,0 +1,20 @@
+Kaiser Sea Horse
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster.
+
+Type: Sea Serpent
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1650
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duelist Pack: Kaiba
+- Retro Pack 2
+- Rise of the Dragon Lords Structure Deck
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Kaiba Reloaded

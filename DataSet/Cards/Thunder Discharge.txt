@@ -1,0 +1,15 @@
+Thunder Discharge
+Card Type: Trap Card
+
+Description: If you control an "Adventurer Token": You can target 1 monster you control equipped with an Equip Card that mentions "Adventurer Token"; destroy as many monsters your opponent controls as possible with ATK less than or equal to that monster, then you can equip 1 Equip Spell that mentions "Adventurer Token" from your hand or GY to 1 monster you control. You can only activate 1 "Thunder Discharge" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Adventurer Token
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battles of Legend: Monstrous Revenge
+- The Grand Creators

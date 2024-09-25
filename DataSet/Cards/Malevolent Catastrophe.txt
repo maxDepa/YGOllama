@@ -1,0 +1,19 @@
+Malevolent Catastrophe
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Destroy all Spell and Trap Cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Duelist Pack: Battle City
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Noble Knights of the Round Table Box Set
+- Rise of the Dragon Lords Structure Deck
+- Structure Deck: Marik (TCG)

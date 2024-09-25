@@ -1,0 +1,13 @@
+Starry Knight Rayel
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Starry Knight" Spell/Trap from your Deck to your hand. You can banish this card from your GY, then target 1 "Starry Knight" monster in your GY, except "Starry Knight Rayel"; Special Summon it. You can only use each effect of "Starry Knight Rayel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 700
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

@@ -1,0 +1,14 @@
+World Legacy Pawns
+Card Type: Trap Card
+
+Description: You can target 1 face-down monster you control; change it to face-up Attack or Defense Position. You can shuffle 1 "Krawler" monster from your GY into the Main Deck, then target 1 face-up monster you control; change it to face-down Defense Position. You can only use 1 "World Legacy Pawns" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Krawler
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

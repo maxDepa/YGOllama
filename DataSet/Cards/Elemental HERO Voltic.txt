@@ -1,0 +1,16 @@
+Elemental HERO Voltic
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent: You can target 1 of your banished "Elemental HERO" monsters; Special Summon that target.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: Elemental HERO
+Present in Sets:
+- Duel Terminal 6a
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)

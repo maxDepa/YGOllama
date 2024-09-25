@@ -1,0 +1,15 @@
+Mei-Kou, Master of Barriers
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 face-up Continuous Spell or Continuous Trap Card on the field; destroy that target.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 600
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck

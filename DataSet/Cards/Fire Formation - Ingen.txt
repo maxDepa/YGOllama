@@ -1,0 +1,13 @@
+Fire Formation - Ingen
+Card Type: Spell Card
+
+Description: When this card is activated: You can Fusion Summon 1 Beast-Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If this face-up card is sent from the Spell & Trap Zone to the GY: You can target 1 "Fire Fist" monster in your GY; add it to your hand. You can only use this effect of "Fire Formation - Ingen" once per turn. You can only activate 1 "Fire Formation - Ingen" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- Fists of the Gadgets

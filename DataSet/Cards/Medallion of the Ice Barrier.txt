@@ -1,0 +1,18 @@
+Medallion of the Ice Barrier
+Card Type: Spell Card
+
+Description: Add 1 "Ice Barrier" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ice Barrier
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Starstrike Blast
+- Structure Deck: Freezing Chains

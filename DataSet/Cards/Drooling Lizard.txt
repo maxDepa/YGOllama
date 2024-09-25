@@ -1,0 +1,15 @@
+Drooling Lizard
+Card Type: Normal Monster
+
+Description: A blood-sucking snake in human form that attacks any living being that passes nearby.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

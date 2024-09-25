@@ -1,0 +1,18 @@
+Prohibition
+Card Type: Spell Card
+
+Description: Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

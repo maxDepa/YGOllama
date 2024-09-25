@@ -1,0 +1,14 @@
+Fiend Scorpion
+Card Type: Normal Monster
+
+Description: A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 900
+Defence: 200
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

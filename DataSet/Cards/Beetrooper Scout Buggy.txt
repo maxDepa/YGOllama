@@ -1,0 +1,15 @@
+Beetrooper Scout Buggy
+Card Type: Effect Monster
+
+Description: You cannot Special Summon monsters, except Insect monsters. If this card is Normal or Special Summoned: You can Special Summon 1 "Beetrooper Scout Buggy" from your hand, Deck, or GY. You can only use this effect of "Beetrooper Scout Buggy" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 300
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty
+- Dawn of Majesty Premiere! promotional card

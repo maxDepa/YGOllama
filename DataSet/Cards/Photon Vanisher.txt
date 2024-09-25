@@ -1,0 +1,16 @@
+Photon Vanisher
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a "Photon" or "Galaxy" monster. Cannot attack the turn it is Special Summoned. You can only Special Summon "Photon Vanisher(s)" once per turn. If this card is Special Summoned: You can add 1 "Galaxy-Eyes Photon Dragon" from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as material gains this effect.
+● Banish any monster destroyed by battle with this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Galaxy-Eyes
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

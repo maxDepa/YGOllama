@@ -1,0 +1,15 @@
+Pandemonium Watchbear
+Card Type: Effect Monster
+
+Description: As long as this card remains face-up on your side of the field, "Pandemonium" on your side of the field is not destroyed by your opponent's card effects.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

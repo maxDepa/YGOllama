@@ -1,0 +1,15 @@
+Shifting Shadows
+Card Type: Spell Card
+
+Description: Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Structure Deck: Invincible Fortress
+- The Lost Millennium

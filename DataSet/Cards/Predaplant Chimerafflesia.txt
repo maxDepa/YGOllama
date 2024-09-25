@@ -1,0 +1,15 @@
+Predaplant Chimerafflesia
+Card Type: Fusion Monster
+
+Description: 1 "Predaplant" monster + 1 DARK monster
+Once per turn: You can target 1 monster on the field with a Level less than or equal to this card's; banish it. When an attack is declared involving this card and an opponent's face-up monster: You can activate this effect; until the end of this turn, that opponent's monster loses 1000 ATK, and if it does, this card gains 1000 ATK. Once per turn, during the next Standby Phase after this card was sent to the Graveyard: You can add 1 "Polymerization" Spell Card or "Fusion" Spell Card from your Deck to your hand.
+
+Type: Plant
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Predaplant
+Present in Sets:
+- Fusion Enforcers
+- Legendary Duelists: Season 3

@@ -1,0 +1,15 @@
+Speedroid Den-Den Daiko Duke
+Card Type: Tuner Monster
+
+Description: You can banish this card from your Graveyard; Special Summon 1 "Speedroid" Tuner monster from your hand or Graveyard, except "Speedroid Den-Den Daiko Duke". You can only use this effect of "Speedroid Den-Den Daiko Duke" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Roid
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Duelists: Synchro Storm
+- Shining Victories

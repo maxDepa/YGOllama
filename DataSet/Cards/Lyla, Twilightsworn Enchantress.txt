@@ -1,0 +1,14 @@
+Lyla, Twilightsworn Enchantress
+Card Type: Effect Monster
+
+Description: Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can banish 1 "Lightsworn" monster from your hand or GY, then target 1 face-up Spell/Trap on the field; destroy it. Once per turn, if your other "Lightsworn" monster's effect is activated: Send the top 3 cards of your Deck to the GY.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 200
+Archetype: Lightsworn
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

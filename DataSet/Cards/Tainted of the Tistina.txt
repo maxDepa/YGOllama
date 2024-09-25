@@ -1,0 +1,14 @@
+Tainted of the Tistina
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card face-up by Tributing 1 face-down monster your opponent controls. This card's Level becomes 10 if it was Normal Summoned/Set. If this card is sent to the GY, except from the field: You can target 1 "Tistina" monster you control; this turn, it can make a second attack during each Battle Phase, also you can only attack with 1 monster.
+
+Type: Aqua
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 0
+Archetype: Tistina
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

@@ -1,0 +1,13 @@
+The Chorus in the Sky
+Card Type: Spell Card
+
+Description: Pay 1000 LP, then target 1 Fairy monster in your GY; add it to your hand, then, if "The Sanctuary in the Sky" is on the field or in either GY, you can add 1 of your banished "The Sanctuary in the Sky", or 1 of your banished cards that mentions it, to your hand. You can only activate 1 "The Chorus in the Sky" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

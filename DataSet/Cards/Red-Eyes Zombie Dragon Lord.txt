@@ -1,0 +1,15 @@
+Red-Eyes Zombie Dragon Lord
+Card Type: Synchro Monster
+
+Description: 1 Zombie Tuner + 1+ non-Tuner monsters
+During your opponent's turn (Quick Effect): You can target 1 Zombie monster in your GY, except "Red-Eyes Zombie Dragon Lord"; Special Summon it. If this card is in your GY: You can banish 1 Zombie monster you control; Special Summon this card. You can only use each effect of "Red-Eyes Zombie Dragon Lord" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 10
+Attack: 2800
+Defence: 2400
+Archetype: Red-Eyes
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

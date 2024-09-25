@@ -1,0 +1,14 @@
+The Unhappy Girl
+Card Type: Effect Monster
+
+Description: While this card is in face-up Attack Position on the field, this card is not destroyed as a result of battle. (Damage calculation is applied normally.) A monster that battled with this card cannot change its battle position, except with a card effect, or attack while this card is in face-up Attack Position on the field.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

@@ -1,0 +1,17 @@
+The Wicked Worm Beast
+Card Type: Effect Monster
+
+Description: This face-up card on the field is returned to the owner's hand during the End Phase of your turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 700
+Archetype: Worm
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 2
+- Gold Series 4: Pyramids Edition
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

@@ -1,0 +1,18 @@
+Odd-Eyes Vortex Dragon
+Card Type: Fusion Monster
+
+Description: 1 "Odd-Eyes" monster + 1 Pendulum Monster
+When this card is Special Summoned: You can target 1 opponent's face-up Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of "Odd-Eyes Vortex Dragon" once per turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2500
+Defence: 3000
+Archetype: Odd-Eyes
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Dimension of Chaos
+- Legendary Dragon Decks
+- Pendulum Evolution

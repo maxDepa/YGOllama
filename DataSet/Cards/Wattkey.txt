@@ -1,0 +1,13 @@
+Wattkey
+Card Type: Spell Card
+
+Description: Face-up "Watt" monsters you control can attack your opponent directly this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Storm of Ragnarok

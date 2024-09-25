@@ -1,0 +1,14 @@
+Lunalight Blue Cat
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can target 1 "Lunalight" monster you control, except "Lunalight Blue Cat"; its ATK becomes double its original ATK until the end of this turn. You can only use this effect of "Lunalight Blue Cat" once per turn. If this card on the field is destroyed by battle or card effect: You can Special Summon 1 "Lunalight" monster from your Deck.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Sisters of the Rose
+- Shining Victories

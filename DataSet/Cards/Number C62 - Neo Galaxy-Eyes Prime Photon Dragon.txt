@@ -1,0 +1,16 @@
+Number C62: Neo Galaxy-Eyes Prime Photon Dragon
+Card Type: XYZ Monster
+
+Description: 3 Level 8 LIGHT monsters
+You can also Xyz Summon this card by using "Number 62: Galaxy-Eyes Prime Photon Dragon" you control. (Transfer its materials to this card.) At the start of your Battle Phase: You can detach 1 material from this card; this card can make up to 3 attacks on monsters during this Battle Phase. If this card has "Galaxy-Eyes Photon Dragon" as material, it gains these effects.
+● Unaffected by your opponent's monster effects.
+● Gains ATK equal to the combined Levels/Ranks of its attached materials x 100.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 4000
+Defence: 3000
+Archetype: -Eyes Dragon
+Present in Sets:
+- Photon Hypernova

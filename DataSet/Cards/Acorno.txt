@@ -1,0 +1,13 @@
+Acorno
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can send 1 "Pinecono" from your hand to the Graveyard, and Special Summon this card from the hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 400
+Archetype: //
+Present in Sets:
+- Photon Shockwave

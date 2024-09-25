@@ -1,0 +1,13 @@
+Cyberdark Style (Skill Card)
+Card Type: Skill Card
+
+Description: Once per turn, choose 3 "Cyberdark" monsters from your Deck. Your opponent randomly adds 1 of them to your hand. Shuffle the other 2 along with 1 card from your hand back into your Deck, then flip this card over. This Skill can be used up to three times, once when your LP are 3000 or less, once when your LP are 2000 or less, and once when your LP are 1000 or less.
+
+Type: Zane Truesdal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyberdark
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

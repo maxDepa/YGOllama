@@ -1,0 +1,17 @@
+Materialization
+Card Type: Spell Card
+
+Description: Target 1 face-up Monster Card in any Spell & Trap Zone, then activate 1 of these effects;
+● Special Summon it to its owner's field.
+● Return it to the hand.
+● Destroy it, then you can destroy 1 monster on the field with an equal or lower Level.
+You can only activate 1 "Materialization" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Nightmare

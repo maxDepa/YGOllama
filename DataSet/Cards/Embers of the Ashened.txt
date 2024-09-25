@@ -1,0 +1,13 @@
+Embers of the Ashened
+Card Type: Fusion Monster
+
+Description: 2 Pyro monsters
+If this card is Fusion Summoned: You can target 1 Field Spell in your GY; add it to your hand. At the start of the Damage Step, if this card battles an opponent's Pyro monster: You can destroy that opponent's monster, and if it is your turn, this card can make a second attack in a row. You can only use each effect of "Embers of the Ashened" once per turn.
+
+Type: Pyro
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2400
+Archetype: Ashened
+Present in Sets:

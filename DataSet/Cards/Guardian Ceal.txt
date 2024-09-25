@@ -1,0 +1,16 @@
+Guardian Ceal
+Card Type: Effect Monster
+
+Description: Cannot be Summoned unless you control a face-up "Shooting Star Bow - Ceal". You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

@@ -1,0 +1,13 @@
+Karakuri Merchant mdl 177 "Inashichi"
+Card Type: Effect Monster
+
+Description: This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal Summoned, add 1 "Karakuri" card from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 1500
+Archetype: Karakuri
+Present in Sets:
+- Starstrike Blast

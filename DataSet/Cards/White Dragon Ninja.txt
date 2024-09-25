@@ -1,0 +1,14 @@
+White Dragon Ninja
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned, except with a "Ninjitsu Art" card's effect. Spells/Traps you control cannot be destroyed by card effects.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2700
+Defence: 1200
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- Shadows in Valhalla

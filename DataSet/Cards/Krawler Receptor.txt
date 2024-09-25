@@ -1,0 +1,15 @@
+Krawler Receptor
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 "Krawler" monster from your Deck to your hand.
+If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 "Krawler" monsters with different names from your Deck in face-down Defense Position, except "Krawler Receptor". You can only use each effect of "Krawler Receptor" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 900
+Defence: 1200
+Archetype: Krawler
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Circuit Break

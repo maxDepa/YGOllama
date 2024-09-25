@@ -1,0 +1,13 @@
+Black Potan
+Card Type: Effect Monster
+
+Description: If you control a face-up Tuner monster, this card cannot be destroyed by battle. When a face-up Tuner monster(s) you control is removed from the field, gain 800 Life Points.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

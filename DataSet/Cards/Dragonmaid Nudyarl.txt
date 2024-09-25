@@ -1,0 +1,15 @@
+Dragonmaid Nudyarl
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of "Dragonmaid Nudyarl" once per turn.
+● You can discard this card, then target 1 monster in either GY; shuffle it into the Deck.
+● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 2 "Dragonmaid" monster from your hand.
+
+Type: Dragon
+Attribute: WATER
+Level: 7
+Attack: 2600
+Defence: 1600
+Archetype: Dragonmaid
+Present in Sets:
+- Mystic Fighters

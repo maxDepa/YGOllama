@@ -1,0 +1,14 @@
+Infernity Mirage
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned from the Graveyard. If you have no cards in your hand, you can Tribute this card to select 2 "Infernity" monsters in your Graveyard. Special Summon those monsters.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- Maximum Gold
+- The Shining Darkness

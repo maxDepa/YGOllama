@@ -1,0 +1,15 @@
+Fossil Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Fossil" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from any GYs (except for materials with a specific GY requirement listed). If you banished monsters from both GYs, neither player can target that Special Summoned monster with monster effects. If a face-up "Fossil" Fusion Monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can add this card from the GY to your hand. You can only use this effect of "Fossil Fusion" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fossil
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Ghosts From the Past: The 2nd Haunting

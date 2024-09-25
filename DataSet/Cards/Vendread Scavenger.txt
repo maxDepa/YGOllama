@@ -1,0 +1,13 @@
+Vendread Scavenger
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Vendread" Ritual Spell. During the Main Phase (Quick Effect): You can Tribute 1 other Zombie monster; this card gains ATK equal to the Tributed monster's original ATK until the end of this turn. If you control "Revendread Slayer" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Vendread Scavenger" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 0
+Archetype: Vendread
+Present in Sets:
+- Power of the Elements

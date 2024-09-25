@@ -1,0 +1,15 @@
+Celestial Wolf Lord, Blue Sirius
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+When this card on the field is destroyed and sent to the Graveyard: Target 1 face-up monster your opponent controls; it loses 2400 ATK.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

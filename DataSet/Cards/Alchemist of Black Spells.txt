@@ -1,0 +1,15 @@
+Alchemist of Black Spells
+Card Type: Effect Monster
+
+Description: Once per turn, you can change this face-up Attack Position card you control to face-up Defense Position and place 1 Spell Counter on a face-up card you control that you can place a Spell Counter on.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce
+- Speed Duel: Streets of Battle City

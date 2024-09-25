@@ -1,0 +1,17 @@
+Buster Blader, the Dragon Destroyer Swordsman
+Card Type: Fusion Monster
+
+Description: 1 "Buster Blader" + 1 Dragon-Type monster
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card cannot attack directly. This card gains 1000 ATK and DEF for each Dragon-Type monster your opponent controls or is in their Graveyard. Change all Dragon-Type monsters your opponent controls to Defense Position, also Dragon-Type monsters in your opponent's possession cannot activate their effects. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2500
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Maximum Gold
+- Structure Deck: Yugi Muto

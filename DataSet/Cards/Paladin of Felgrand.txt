@@ -1,0 +1,15 @@
+Paladin of Felgrand
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can equip 1 Level 7 or 8 Dragon monster from your hand or Deck to this card. This card is unaffected by other monsters' effects, while equipped with an Equip Card. You can Tribute 1 monster and this card, then target 1 Level 7 or 8 Dragon monster in your GY; Special Summon it.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 300
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 3
+- Rise of the True Dragons Structure Deck
+- Structure Deck: Rokket Revolt

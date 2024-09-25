@@ -1,0 +1,14 @@
+Wilmee
+Card Type: Normal Monster
+
+Description: A rabid rabbit that shears through opposition with its sharp skewers.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

@@ -1,0 +1,14 @@
+Mighty Guard
+Card Type: Normal Monster
+
+Description: A machine soldier that was developed as a guard. It is made of rust-proof metal.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny

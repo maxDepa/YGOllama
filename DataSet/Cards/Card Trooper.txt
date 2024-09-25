@@ -1,0 +1,36 @@
+Card Trooper
+Card Type: Effect Monster
+
+Description: Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 400
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Amazing Defenders
+- Amazing Defenders
+- Astral Pack Five
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Battles of Legend: Relentless Revenge
+- Dark Legends
+- Duel Terminal 2
+- Duelist Pack: Jaden Yuki 2
+- Geargia Rampage Structure Deck
+- HERO Strike Structure Deck
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Machine Reactor Structure Deck
+- Premium Gold: Return of the Bling
+- Ra Yellow Mega Pack
+- Rise of the True Dragons Structure Deck
+- Structure Deck: Cyberse Link
+- Warriors' Strike Structure Deck

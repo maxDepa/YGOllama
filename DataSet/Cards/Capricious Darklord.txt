@@ -1,0 +1,14 @@
+Capricious Darklord
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can activate this effect; Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of "Capricious Darklord" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 1600
+Archetype: Darklord
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

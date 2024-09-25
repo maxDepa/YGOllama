@@ -1,0 +1,21 @@
+Share the Pain
+Card Type: Spell Card
+
+Description: Tribute 1 monster; make your opponent Tribute 1 monster (for no effect).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duel Terminal 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Tournament Pack 6
+- Speed Duel: Trials of the Kingdom
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

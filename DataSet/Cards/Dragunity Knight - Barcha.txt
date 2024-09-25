@@ -1,0 +1,17 @@
+Dragunity Knight - Barcha
+Card Type: Synchro Monster
+
+Description: 1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters
+When this card is Synchro Summoned, you can select any number of Dragon-Type "Dragunity" monsters in your Graveyard, and equip them to this card. This card gains 300 ATK for each "Dragunity" card equipped to this card.
+
+Type: Dragon
+Attribute: WIND
+Level: 8
+Attack: 2000
+Defence: 1200
+Archetype: Dragunity
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 8 (POR)

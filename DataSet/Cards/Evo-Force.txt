@@ -1,0 +1,14 @@
+Evo-Force
+Card Type: Spell Card
+
+Description: Tribute 1 "Evoltile" monster; Special Summon 1 "Evolsaur" monster from your Deck. It is treated as if it was Special Summoned by the effect of an "Evoltile" monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evolsaur
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 22

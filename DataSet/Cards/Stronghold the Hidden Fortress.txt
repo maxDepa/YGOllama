@@ -1,0 +1,15 @@
+Stronghold the Hidden Fortress
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000) with the following effects (this card is also still a Trap).
+● Gains 1000 ATK for each "Shining Sarcophagus", and monster that mentions it, that you control.
+● Once per turn, when an opponent's monster declares an attack, while you control "Shining Sarcophagus": You can destroy that monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shining Sarcophagus
+Present in Sets:
+- Legacy of Destruction

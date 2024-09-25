@@ -1,0 +1,19 @@
+Card of Sanctity
+Card Type: Spell Card
+
+Description: Banish all other cards you control and in your hand (min. 1 from each); draw until you have 2 cards in your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist Pack: Yugi
+- Kids WB Duel of Destiny promotional card
+- Legendary Collection 4: Joey's World Mega Pack
+- The Lost Millennium
+- The Lost Millennium
+- Yugi's Legendary Decks

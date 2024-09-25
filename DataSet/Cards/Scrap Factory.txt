@@ -1,0 +1,14 @@
+Scrap Factory
+Card Type: Spell Card
+
+Description: All "Scrap" monsters gain 200 ATK and DEF. When a face-up "Scrap" monster(s) on the field is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon 1 "Scrap" monster from your Deck. You can only use this effect of "Scrap Factory" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Scrap
+Present in Sets:
+- OTS Tournament Pack 9 (POR)
+- Primal Origin

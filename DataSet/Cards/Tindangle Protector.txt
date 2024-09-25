@@ -1,0 +1,13 @@
+Tindangle Protector
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can change up to 3 face-down Defense Position monsters you control to face-up Defense Position, then if all those monsters are "Tindangle" monsters, you can add up to that many "Tindangle" cards from your Deck to your hand. You can only use this effect of "Tindangle Protector" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1600
+Archetype: Tindangle
+Present in Sets:
+- Extreme Force

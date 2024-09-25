@@ -1,0 +1,17 @@
+Fusion Sage
+Card Type: Spell Card
+
+Description: Add 1 "Polymerization" from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duelist Pack: Jaden Yuki
+- Legendary Collection Kaiba Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Tournament Pack 6

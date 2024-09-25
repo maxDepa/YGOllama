@@ -1,0 +1,15 @@
+Stegocyber
+Card Type: Effect Monster
+
+Description: During damage calculation, if your opponent's monster attacks while this card is in your Graveyard: You can pay 1000 LP; Special Summon this card, and if you do, you take no battle damage from that battle, but banish this card when it leaves the field (this is a Quick Effect). You can only use this effect of "Stegocyber" once per turn.
+
+Type: Dinosaur
+Attribute: DARK
+Level: 6
+Attack: 1200
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dinosmasher's Fury Structure Deck

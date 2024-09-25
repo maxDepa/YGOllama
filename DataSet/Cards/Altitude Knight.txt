@@ -1,0 +1,14 @@
+Altitude Knight
+Card Type: Effect Monster
+
+Description: Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy
+- The Secret Forces

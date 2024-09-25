@@ -1,0 +1,16 @@
+Grave of the Super Ancient Organism
+Card Type: Trap Card
+
+Description: All Level 6 or higher Special Summoned monsters on the field cannot declare attacks or activate their effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 20
+- OTS Tournament Pack 5
+- Raging Battle
+- Raging Battle

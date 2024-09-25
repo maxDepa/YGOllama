@@ -1,0 +1,13 @@
+The Duke of Demise
+Card Type: Fusion Monster
+
+Description: 2 Fiend and/or Zombie monsters
+Once per turn, during your Standby Phase, pay 500 LP or destroy this card. Cannot be destroyed by battle. You can only use each of the following effects of "The Duke of Demise" once per turn. During your Main Phase, you can: Immediately after this effect resolves, Normal Summon 1 monster. You can banish this card from your GY, then target 1 Level 4 or higher Fiend or Zombie monster in your GY; add it to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1700
+Archetype: //
+Present in Sets:

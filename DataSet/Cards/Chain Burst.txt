@@ -1,0 +1,15 @@
+Chain Burst
+Card Type: Trap Card
+
+Description: Each time a player activates a Trap Card, they take 1000 damage immediately after it resolves.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

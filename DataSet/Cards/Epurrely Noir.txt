@@ -1,0 +1,15 @@
+Epurrely Noir
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters
+Once per turn: You can discard 1 card, then target 1 card your opponent controls, or up to 2 if this card has "Purrely Sleepy Memory" as material; return that card(s) to the hand. Up to thrice per turn, when you activate a "Purrely" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can Set 1 "Purrely" Trap directly from your Deck.
+
+Type: Fairy
+Attribute: DARK
+Level: 2
+Attack: 1000
+Defence: 2000
+Archetype: Purrely
+Present in Sets:
+- Duelist Nexus
+- Duelist Nexus

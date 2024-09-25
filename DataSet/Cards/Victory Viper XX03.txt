@@ -1,0 +1,21 @@
+Victory Viper XX03
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle: Activate 1 of these effects.
+● This card gains 400 ATK.
+● Target 1 face-up Spell/Trap Card on the field; destroy that target.
+● Special Summon 1 "Option Token". Its Type, Attribute, Level, ATK and DEF are always the same as this card, but it leaves the field if this card is no longer face-up on the field.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice
+- Speed Duel: Battle City Box

@@ -1,0 +1,20 @@
+T.G. Hyper Librarian
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 1800
+Archetype: T.G.
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- OTS Tournament Pack 23
+- Return of the Duelist: Special Edition
+- Shonen Jump June/July 2011 subscription bonus
+- Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards

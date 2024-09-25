@@ -1,0 +1,20 @@
+Zexal Construction
+Card Type: Spell Card
+
+Description: Reveal 1 card in your hand, and if you do, add 1 of the following cards from your Deck to your hand, then shuffle the revealed card into the Deck.
+● "ZW -" monster
+● "ZS -" monster
+● "Zexal" Spell/Trap
+● "Rank-Up-Magic" Spell
+● "Rank-Down-Magic" Spell
+You can only activate 1 "Zexal Construction" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Zexal
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

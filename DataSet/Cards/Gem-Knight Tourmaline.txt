@@ -1,0 +1,16 @@
+Gem-Knight Tourmaline
+Card Type: Normal Monster
+
+Description: He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.
+
+Type: Thunder
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion
+- Star Pack ARC-V
+- Star Pack ARC-V

@@ -1,0 +1,17 @@
+Makiu, the Magical Mist
+Card Type: Spell Card
+
+Description: Target 1 "Summoned Skull", or 1 Thunder monster, in your Monster Zone; destroy all monsters your opponent controls with DEF less than or equal to the ATK of that monster. You cannot conduct your Battle Phase the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Yugi's Legendary Decks

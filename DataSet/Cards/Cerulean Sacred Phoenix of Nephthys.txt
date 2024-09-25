@@ -1,0 +1,15 @@
+Cerulean Sacred Phoenix of Nephthys
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Rebirth of Nephthys". You can only use each of the following effects of "Cerulean Sacred Phoenix of Nephthys" once per turn.
+● During your Main Phase: You can destroy "Nephthys" cards in your hand and/or face-up field, then destroy an equal number of monsters your opponent controls.
+● During your next Standby Phase after this card was destroyed by battle or card effect and sent to the GY: You can Special Summon this card from the GY.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 8
+Attack: 3000
+Defence: 1000
+Archetype: Nephthys
+Present in Sets:
+- Hidden Summoners

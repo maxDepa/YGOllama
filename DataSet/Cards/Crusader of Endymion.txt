@@ -1,0 +1,18 @@
+Crusader of Endymion
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● Once per turn: You can target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on it, and if you do, this card gains 600 ATK until the end of this turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Endymion
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Stardust Overdrive
+- Stardust Overdrive
+- Structure Deck: Order of the Spellcasters

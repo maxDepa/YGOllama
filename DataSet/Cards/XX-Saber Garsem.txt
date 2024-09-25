@@ -1,0 +1,13 @@
+XX-Saber Garsem
+Card Type: Effect Monster
+
+Description: When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 "X-Saber" monster from your Deck to your hand. This card gains 200 ATK for each face-up "X-Saber" monster you control.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 400
+Archetype: X-Saber
+Present in Sets:
+- Absolute Powerforce

@@ -1,0 +1,14 @@
+Disciple of the Forbidden Spell
+Card Type: Effect Monster
+
+Description: When this card is Summoned, declare different Monster Card Attributes equal to the number of "Disciple of the Forbidden Spell"(s) in your Graveyard. If this card attacks a monster that has a declared Attribute, destroy the monster with this card's effect without applying damage calculation.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

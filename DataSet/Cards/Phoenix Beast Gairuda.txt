@@ -1,0 +1,14 @@
+Phoenix Beast Gairuda
+Card Type: Effect Monster
+
+Description: If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

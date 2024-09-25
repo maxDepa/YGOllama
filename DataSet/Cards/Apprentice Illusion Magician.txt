@@ -1,0 +1,17 @@
+Apprentice Illusion Magician
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 "Dark Magician" from your Deck to your hand. During damage calculation, if your other DARK Spellcaster monster battles an opponent's monster (Quick Effect): You can send this card from your hand or face-up field to the GY; that monster you control gains 2000 ATK/DEF during that damage calculation only.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1700
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Dragon Decks
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Weekly Shonen Jump April 2017 membership promotional card
+- WSJ Jump Pack Fall 2018 promotional card

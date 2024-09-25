@@ -1,0 +1,14 @@
+Imperion Magnum the Superconductive Battlebot
+Card Type: Fusion Monster
+
+Description: "Valkyrion the Magna Warrior" + "Berserkion the Electromagna Warrior"
+Must be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card, or monster effect: You can negate the activation, and if you do, destroy that card. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon both 1 "Valkyrion the Magna Warrior" and 1 "Berserkion the Electromagna Warrior" from your hand and/or Deck, ignoring their Summoning conditions.
+
+Type: Rock
+Attribute: EARTH
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Magnet Warrior
+Present in Sets:
+- Structure Deck: Yugi Muto

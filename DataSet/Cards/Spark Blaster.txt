@@ -1,0 +1,17 @@
+Spark Blaster
+Card Type: Spell Card
+
+Description: Equip only to "Elemental HERO Sparkman". During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack

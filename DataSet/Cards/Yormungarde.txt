@@ -1,0 +1,12 @@
+Yormungarde
+Card Type: Normal Monster
+
+Description: An extremely long snake that dwells in the world of myth.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:

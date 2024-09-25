@@ -1,0 +1,13 @@
+Zero Force
+Card Type: Trap Card
+
+Description: Activate only when a face-up monster you control is removed from play. The ATK of all face-up monsters on the field becomes 0.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok

@@ -1,0 +1,13 @@
+Hermit of Prophecy
+Card Type: Effect Monster
+
+Description: Each time a "Spellbook" Spell Card is activated, increase this card's Level by 2 and ATK by 300.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 700
+Archetype: Spellbook
+Present in Sets:
+- Abyss Rising

@@ -1,0 +1,16 @@
+Naturia Beetle
+Card Type: Effect Monster
+
+Description: Switch the original ATK and DEF of this card each time a Spell Card is activated.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 400
+Defence: 1800
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

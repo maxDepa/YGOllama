@@ -1,0 +1,15 @@
+World Suppression
+Card Type: Trap Card
+
+Description: You can only activate this card when a Field Spell Card is activated. Negate the Field Spell Card during the turn this card is activated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

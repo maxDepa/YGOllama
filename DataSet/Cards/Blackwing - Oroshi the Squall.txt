@@ -1,0 +1,15 @@
+Blackwing - Oroshi the Squall
+Card Type: Tuner Monster
+
+Description: If you control a "Blackwing" monster other than "Blackwing - Oroshi the Squall", you can Special Summon this card (from your hand). You can only Special Summon "Blackwing - Oroshi the Squall" once per turn this way. If this card is sent to the GY as a Synchro Material: You can target 1 monster on the field; change that target's battle position.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 600
+Archetype: Blackwing
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Legendary Duelists: White Dragon Abyss

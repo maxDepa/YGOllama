@@ -1,0 +1,14 @@
+Saffira, Divine Dragon of the Voiceless Voice
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Blessing of the Voiceless Voice". If this card is Ritual Summoned while you have "Lo, the Prayers of the Voiceless Voice" on your field or in your GY: You can draw 2 cards, then discard 1 card. When an attack is declared involving a LIGHT Ritual Monster (Warrior or Dragon): You can discard 1 random card from your opponent's hand. During your opponent's End Phase: You can add 1 LIGHT monster from your GY to your hand. You can only use each effect of "Saffira, Divine Dragon of the Voiceless Voice" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2550
+Defence: 2450
+Archetype: Voiceless Voice
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

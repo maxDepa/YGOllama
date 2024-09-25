@@ -1,0 +1,17 @@
+Blackwing - Shura the Blue Flame
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck, but its effects are negated.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack Collection Tin 2009
+- Duelist Pack: Crow
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Raging Battle

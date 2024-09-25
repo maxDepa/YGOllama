@@ -1,0 +1,15 @@
+Mannadium Trisukta
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can target 1 Level 2 Tuner in your GY; Special Summon it, but negate its effects. You can target any number of Tuners you control; change their Levels to 2, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use each effect of "Mannadium Trisukta" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2300
+Defence: 1200
+Archetype: Mannadium
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

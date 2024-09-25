@@ -1,0 +1,12 @@
+Nightmare Scorpion
+Card Type: Normal Monster
+
+Description: A creature that generates nightmares to haunt an opponent, it attacks with four poisonous tails.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: //
+Present in Sets:

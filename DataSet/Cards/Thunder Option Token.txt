@@ -1,0 +1,12 @@
+Thunder Option Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Blue Thunder T-45". This Token cannot be used as a Tribute for a Tribute Summon.
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

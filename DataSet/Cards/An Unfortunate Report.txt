@@ -1,0 +1,13 @@
+An Unfortunate Report
+Card Type: Trap Card
+
+Description: Your opponent conducts their next Battle Phase twice.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gladiator's Assault

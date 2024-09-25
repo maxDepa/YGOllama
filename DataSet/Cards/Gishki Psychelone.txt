@@ -1,0 +1,14 @@
+Gishki Psychelone
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can declare 1 Monster Type and Attribute; look at 1 random card in your opponent's hand, and if it is a monster of the declared Type and Attribute, shuffle it into the Deck. Otherwise, return it to the hand.
+
+Type: Fiend
+Attribute: WATER
+Level: 4
+Attack: 2150
+Defence: 1650
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

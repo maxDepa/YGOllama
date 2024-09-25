@@ -1,0 +1,16 @@
+Marincess Sea Horse
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) to your zone a "Marincess" Link Monster points to. You can only Special Summon "Marincess Sea Horse" once per turn this way. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; Special Summon 1 WATER monster from your hand to your zone a "Marincess" Link Monster points to. You can only use this effect of "Marincess Sea Horse" once per turn.
+
+Type: Cyberse
+Attribute: WATER
+Level: 3
+Attack: 1400
+Defence: 1000
+Archetype: Marincess
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Legendary Duelists: Duels From the Deep
+- Rising Rampage
+- Rising Rampage

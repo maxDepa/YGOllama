@@ -1,0 +1,15 @@
+Crackdown
+Card Type: Trap Card
+
+Description: Activate by targeting 1 face-up monster your opponent controls; take control of that monster. While you control that monster, it cannot attack or activate effects. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm
+- Structure Deck: Freezing Chains

@@ -1,0 +1,16 @@
+Superdreadnought Rail Cannon Juggernaut Liebe
+Card Type: XYZ Monster
+
+Description: 3 Level 11 monsters
+Once per turn, you can also Xyz Summon "Superdreadnought Rail Cannon Juggernaut Liebe" by using 1 Rank 10 Machine Xyz Monster you control as material. (Transfer its materials to this card.) Once per turn: You can detach 1 material from this card; it gains 2000 ATK/DEF, also for the rest of this turn, you can only declare an attack with this card. During each Battle Phase, this card can make attacks on monsters up to the number of materials it has +1.
+
+Type: Machine
+Attribute: EARTH
+Level: 11
+Attack: 4000
+Defence: 4000
+Archetype: Train
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Maximum Gold: El Dorado

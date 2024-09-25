@@ -1,0 +1,16 @@
+Catapult Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Once per turn: You can Tribute 1 "Junk" monster; inflict damage to your opponent equal to the original ATK of the Tributed monster.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1000
+Defence: 1500
+Archetype: Junk
+Present in Sets:
+- Star Pack 2013
+- Star Pack 2013
+- Yu-Gi-Oh! 5D's Volume 2 promotional card

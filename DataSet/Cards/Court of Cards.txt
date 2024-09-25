@@ -1,0 +1,13 @@
+Court of Cards
+Card Type: Trap Card
+
+Description: If you control no monsters, or only control "Queen's Knight", "King's Knight", and/or "Jack's Knight": You can Special Summon 1 "Queen's Knight", "King's Knight", or "Jack's Knight" from your hand or GY. You can banish up to 1 each "Queen's Knight", "King's Knight", and/or "Jack's Knight" from your hand and/or GY; draw the same number of cards you banished. You can only use 1 "Court of Cards" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Knight
+Present in Sets:
+- King's Court

@@ -1,0 +1,13 @@
+Magical Musketeer Wild
+Card Type: Effect Monster
+
+Description: During either player's turn, you can activate "Magical Musket" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can target 3 "Magical Musket" cards in your GY; shuffle all 3 into the Deck, then draw 1 card. You can only use this effect of "Magical Musketeer Wild" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 900
+Archetype: Magical Musket
+Present in Sets:
+- Spirit Warriors

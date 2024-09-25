@@ -1,0 +1,14 @@
+Gizmek Kaku, the Supreme Shining Sky Stag
+Card Type: Effect Monster
+
+Description: If a monster is in the Extra Monster Zone: You can Special Summon this card from your hand. You can target 1 face-up monster in the Extra Monster Zone; equip that face-up monster to this card (max. 1). When this card destroys an opponent's monster by battle: You can Special Summon 1 of your Monster Cards equipped to this card. You can only use each effect of "Gizmek Kaku, the Supreme Shining Sky Stag" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 9
+Attack: 2750
+Defence: 2750
+Archetype: Gizmek
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

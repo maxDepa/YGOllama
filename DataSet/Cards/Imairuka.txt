@@ -1,0 +1,14 @@
+Imairuka
+Card Type: Effect Monster
+
+Description: If this card you control is destroyed by your opponent's card and sent to your GY: Send the top card of your Deck to the GY, then, if it is a WATER monster, draw 1 card.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 2
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Return of the Duelist
+- Speed Duel: Attack from the Deep

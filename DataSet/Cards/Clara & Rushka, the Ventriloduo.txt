@@ -1,0 +1,14 @@
+Clara & Rushka, the Ventriloduo
+Card Type: Link Monster
+
+Description: 1 Normal Summoned/Set monster
+Cannot be Link Summoned except during Main Phase 2.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Force

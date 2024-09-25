@@ -1,0 +1,14 @@
+Mekk-Knight Orange Sunset
+Card Type: Effect Monster
+
+Description: If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon "Mekk-Knight Orange Sunset" once per turn this way. If an opponent's card in this card's column is destroyed by battle, or leaves the field: You can Special Summon 1 "Mekk-Knight" monster from your hand.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 6
+Attack: 800
+Defence: 3000
+Archetype: Mekk-Knight
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

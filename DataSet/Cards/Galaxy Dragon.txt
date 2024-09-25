@@ -1,0 +1,15 @@
+Galaxy Dragon
+Card Type: Effect Monster
+
+Description: This card cannot attack directly, and can only attack Dragon-Type monsters. If this card battles a Dragon-Type monster, this card gains 1000 ATK during the Damage Step only, also that monster has its effects negated during this Battle Phase, as long as this card remains face-up on the field.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- OTS Tournament Pack 2
+- Primal Origin

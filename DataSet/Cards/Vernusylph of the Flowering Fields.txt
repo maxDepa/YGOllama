@@ -1,0 +1,13 @@
+Vernusylph of the Flowering Fields
+Card Type: Effect Monster
+
+Description: Your opponent cannot target "Vernusylph" monsters you control with card effects. You can discard this card, and 1 monster or "Vernusylph" card; add 1 EARTH monster from your GY to your hand, except "Vernusylph of the Flowering Fields", then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can only use this effect of "Vernusylph of the Flowering Fields" once per turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 1600
+Archetype: Vernusylph
+Present in Sets:
+- Power of the Elements

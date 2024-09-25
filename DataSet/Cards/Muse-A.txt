@@ -1,0 +1,12 @@
+Muse-A
+Card Type: Normal Monster
+
+Description: A fairy of the arts that is unbeatable on the harp.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 850
+Defence: 900
+Archetype: //
+Present in Sets:

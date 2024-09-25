@@ -1,0 +1,14 @@
+Spiral Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you Special Summoned "Gaia the Dragon Champion" by this effect, it gains 2600 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

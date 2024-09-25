@@ -1,0 +1,14 @@
+Free-Range Monsters
+Card Type: Trap Card
+
+Description: During the Main Phase: Immediately after this effect resolves, Normal Summon/Set 1 monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

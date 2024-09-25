@@ -1,0 +1,12 @@
+Seventh Tachyon
+Card Type: Spell Card
+
+Description: Reveal 1 "Number" Xyz Monster in your Extra Deck that has a number between "101" and "107" in its name; add 1 monster with the same Type and/or Attribute as the revealed monster, and a Level equal to its Rank, from your Deck to your hand, then place 1 card from your hand on top of the Deck. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Xyz Monsters. You can only activate 1 "Seventh Tachyon" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Seventh
+Present in Sets:

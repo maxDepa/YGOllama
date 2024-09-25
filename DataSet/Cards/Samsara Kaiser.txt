@@ -1,0 +1,13 @@
+Samsara Kaiser
+Card Type: Effect Monster
+
+Description: When you Tribute Summon a monster by Tributing this card, return this card to your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 200
+Defence: 100
+Archetype: //
+Present in Sets:
+- The Dark Emperor Structure Deck

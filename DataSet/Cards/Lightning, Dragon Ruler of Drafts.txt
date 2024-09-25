@@ -1,0 +1,14 @@
+Lightning, Dragon Ruler of Drafts
+Card Type: Effect Monster
+
+Description: You can discard this card and 1 Dragon or WIND monster; Special Summon 1 "Tempest, Dragon Ruler of Storms" from your Deck, but it cannot attack this turn. You can only use this effect of "Lightning, Dragon Ruler of Drafts" once per turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy
+- Mystic Fighters

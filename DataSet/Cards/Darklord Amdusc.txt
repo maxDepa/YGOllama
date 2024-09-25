@@ -1,0 +1,13 @@
+Darklord Amdusc
+Card Type: Effect Monster
+
+Description: You can discard this card and 1 "Darklord" card, then target 1 "Darklord" card in your Graveyard; add it to your hand. During either player's turn: You can pay 1000 LP, then target 1 "Darklord" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of "Darklord Amdusc" once per turn. You can only Special Summon "Darklord Amdusc(s)" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 6
+Attack: 1800
+Defence: 2800
+Archetype: Darklord
+Present in Sets:
+- Destiny Soldiers

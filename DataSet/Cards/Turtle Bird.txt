@@ -1,0 +1,13 @@
+Turtle Bird
+Card Type: Normal Monster
+
+Description: An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 1900
+Defence: 1700
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards

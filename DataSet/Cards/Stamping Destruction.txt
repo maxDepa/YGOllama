@@ -1,0 +1,24 @@
+Stamping Destruction
+Card Type: Spell Card
+
+Description: If you control a Dragon monster: Target 1 Spell/Trap on the field; destroy that target, and if you do, inflict 500 damage to its controller.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Dragunity Legion Structure Deck
+- Legacy of Darkness
+- Legacy of Darkness
+- Mystic Fighters
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Dragon's Roar

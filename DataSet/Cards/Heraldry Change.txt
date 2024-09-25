@@ -1,0 +1,13 @@
+Heraldry Change
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Special Summon 1 "Heraldic Beast" monster from your hand, then end the Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Heraldic
+Present in Sets:
+- Cosmo Blazer

@@ -1,0 +1,21 @@
+Chimera the Flying Mythical Beast
+Card Type: Fusion Monster
+
+Description: "Gazelle the King of Mythical Beasts" + "Berfomet"
+(This card is always treated as a "Phantom Beast" card.)
+When this card is destroyed: You can target 1 "Berfomet" or 1 "Gazelle the King of Mythical Beasts" in your Graveyard; Special Summon that target.
+
+Type: Beast
+Attribute: WIND
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 3: Yugi's World Mega Pack
+- Maze of Millennia
+- Maze of Millennia
+- Speed Duel: Battle City Box
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

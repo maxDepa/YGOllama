@@ -1,0 +1,18 @@
+Darklord Zerato
+Card Type: Effect Monster
+
+Description: If you have 4 or more DARK monsters with different names in your Graveyard, you can Tribute Summon this card by Tributing 1 DARK monster. You can send 1 DARK monster from your hand to the Graveyard; destroy all monsters your opponent controls. Once per turn, during the End Phase, if this effect was activated this turn: Destroy this card.
+
+Type: Fairy
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2300
+Archetype: Darklord
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Destiny Soldiers
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- Phantom Darkness

@@ -1,0 +1,16 @@
+Arsenal Bug
+Card Type: Effect Monster
+
+Description: If you control no other Insect-Type monsters, this card's ATK and DEF become 1000.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Pharaonic Guardian

@@ -1,0 +1,15 @@
+Blackwing - Fane the Steel Chain
+Card Type: Effect Monster
+
+Description: This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Target 1 Attack Position monster your opponent controls; change that target to Defense Position.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 800
+Archetype: Blackwing
+Present in Sets:
+- Ancient Prophecy
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack

@@ -1,0 +1,20 @@
+Elemental HERO Tempest
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Avian" + "Elemental HERO Sparkman" + "Elemental HERO Bubbleman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. You can send 1 other card you control to the Graveyard to target 1 monster you control; while this card is face-up on the field, that monster cannot be destroyed by battle.
+
+Type: Warrior
+Attribute: WIND
+Level: 8
+Attack: 2800
+Defence: 2800
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 2
+- Speed Duel GX: Midterm Paradox
+- Speed Duel GX: Midterm Paradox

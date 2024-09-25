@@ -1,0 +1,18 @@
+Number 46: Dragluon
+Card Type: XYZ Monster
+
+Description: 2 Level 8 Dragon-Type monsters
+Once per turn, if you control no other monsters: You can detach 1 Xyz Material from this card, then activate 1 of these effects.
+● Special Summon 1 Dragon-Type monster from your hand.
+● Target 1 Dragon-Type monster your opponent controls; take control of that target.
+● Dragon-Type monsters your opponent controls cannot activate their effects until the end of your opponent's turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Shadow Specters
+- Shadow Specters

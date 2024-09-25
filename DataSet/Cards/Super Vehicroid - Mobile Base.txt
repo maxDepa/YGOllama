@@ -1,0 +1,15 @@
+Super Vehicroid - Mobile Base
+Card Type: Fusion Monster
+
+Description: 1 "roid" Fusion Monster + 1 "roid" monster
+You can target 1 face-up monster your opponent controls; Special Summon 1 "roid" monster from your Deck or Extra Deck with ATK less than or equal to that monster. You can only use this effect of "Super Vehicroid - Mobile Base" once per turn. Once per turn, during the End Phase: You can target 1 "roid" monster in your Main Monster Zone (other than this card); return that monster you control to the hand, and if you do, move this card you control to that monster's Monster Zone.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 0
+Defence: 5000
+Archetype: Roid
+Present in Sets:
+- Legendary Duelists
+- Legendary Duelists: Season 1

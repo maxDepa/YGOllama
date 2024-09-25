@@ -1,0 +1,14 @@
+Genex Solar
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card by Tributing 1 "Genex" monster. Inflict 500 damage to your opponent each time a face-up "Genex" monster you control is sent to the Graveyard.
+
+Type: Machine
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 1500
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

@@ -1,0 +1,17 @@
+D/D Savant Newton
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "D/D" monsters. This effect cannot be negated. Once, while this card is in your Pendulum Zone, you can negate an activated Trap effect that would inflict damage to you, then destroy this card.
+
+[ Monster Effect ] 
+You can discard this card, then target 1 "D/D" or "Dark Contract" card in your Graveyard, except "D/D Savant Newton"; add it to your hand. You can only use this effect of "D/D Savant Newton" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

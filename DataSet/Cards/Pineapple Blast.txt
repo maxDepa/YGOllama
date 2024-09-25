@@ -1,0 +1,17 @@
+Pineapple Blast
+Card Type: Trap Card
+
+Description: When you Normal Summon a monster, if your opponent controls more monsters than you do: Destroy your opponent's monsters so that your opponent controls the same number of monsters as you (your opponent chooses which of their monsters are destroyed).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Streets of Battle City
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

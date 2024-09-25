@@ -1,0 +1,16 @@
+Drill Bug
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent's Life Points, you can select 1 "Parasite Paracide" card from your Deck, shuffle the Deck, and place "Parasite Paracide" on top of the Deck.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 1100
+Defence: 200
+Archetype: Parasite
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

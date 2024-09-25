@@ -1,0 +1,13 @@
+Action Magic - Full Turn
+Card Type: Spell Card
+
+Description: This turn, double any battle damage that a player takes from battles involving 2 monsters. During your Main Phase, if this card is in your GY, except the turn this card was sent to the GY: You can discard 1 Spell; Set this card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Chaos Impact

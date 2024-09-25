@@ -1,0 +1,18 @@
+Subterror Final Battle
+Card Type: Trap Card
+
+Description: Activate 1 of these effects, also, after that, Set this card face-down instead of sending it to the GY.
+● Change 1 Set "Subterror" monster on the field to face-up Attack or Defense Position.
+● Change 1 face-up "Subterror" monster on the field to face-down Defense Position.
+● ATK/DEF of 1 "Subterror" monster on the field become equal to its combined original ATK/DEF until the end of this turn.
+● This turn, activated effects of "Subterror" cards cannot be negated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Subterror
+Present in Sets:
+- Fists of the Gadgets
+- Maximum Crisis

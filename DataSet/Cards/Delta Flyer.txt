@@ -1,0 +1,13 @@
+Delta Flyer
+Card Type: Tuner Monster
+
+Description: Once per turn, you can select 1 other face-up monster you control and increase its Level by 1.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 900
+Archetype: //
+Present in Sets:
+- Duelist Revolution

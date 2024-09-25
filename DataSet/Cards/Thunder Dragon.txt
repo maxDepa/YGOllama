@@ -1,0 +1,22 @@
+Thunder Dragon
+Card Type: Effect Monster
+
+Description: You can discard this card; add up to 2 "Thunder Dragon" from your Deck to your hand.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 5
+Attack: 1600
+Defence: 1500
+Archetype: Thunder Dragon
+Present in Sets:
+- Champion Pack: Game Two
+- Dark Beginning 2
+- Dark Beginning 2
+- Dark Legends
+- Hidden Summoners
+- Legendary Collection Kaiba Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack

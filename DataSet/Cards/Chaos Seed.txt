@@ -1,0 +1,13 @@
+Chaos Seed
+Card Type: Spell Card
+
+Description: If you control both LIGHT and DARK monster(s): You can target 1 of your banished LIGHT or DARK Warrior-Type monsters; add it to your hand. You can only activate 1 "Chaos Seed" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chaos
+Present in Sets:
+- Duelist Alliance

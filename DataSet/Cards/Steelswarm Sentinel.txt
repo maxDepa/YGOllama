@@ -1,0 +1,14 @@
+Steelswarm Sentinel
+Card Type: Effect Monster
+
+Description: While this card is in face-up Attack Position, Special Summoned Level 5 or higher monsters on the field cannot activate their effects.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 0
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

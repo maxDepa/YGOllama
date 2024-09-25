@@ -1,0 +1,14 @@
+Moja
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 Beast-Type monster from your Graveyard to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Duelist Pack Collection Tin 2009
+- Raging Battle

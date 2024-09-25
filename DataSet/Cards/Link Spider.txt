@@ -1,0 +1,18 @@
+Link Spider
+Card Type: Link Monster
+
+Description: 1 Normal Monster
+Once per turn: You can Special Summon 1 Level 4 or lower Normal Monster from your hand to your zone this card points to.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Advanced Demo Deck Extra Pack
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

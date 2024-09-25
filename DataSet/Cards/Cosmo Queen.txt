@@ -1,0 +1,15 @@
+Cosmo Queen
+Card Type: Normal Monster
+
+Description: Queen of the galaxies and mistress of the stars.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2450
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards
+- Super Starter: V for Victory

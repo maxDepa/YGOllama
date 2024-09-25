@@ -1,0 +1,13 @@
+Phoenixian Seed
+Card Type: Effect Monster
+
+Description: You can send this face-up card to the Graveyard to Special Summon 1 "Phoenixian Cluster Amaryllis" from your hand.
+
+Type: Plant
+Attribute: FIRE
+Level: 2
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

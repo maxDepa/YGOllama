@@ -1,0 +1,14 @@
+Goblin Circus
+Card Type: Spell Card
+
+Description: Once per turn, during your End Phase: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer
+- Speed Duel Starter Decks: Match of the Millennium

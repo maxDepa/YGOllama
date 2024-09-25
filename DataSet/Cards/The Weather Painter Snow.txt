@@ -1,0 +1,14 @@
+The Weather Painter Snow
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can place 1 "The Weather" Spell/Trap from your Deck face-up in your Spell & Trap Zone. You can only use this effect of "The Weather Painter Snow" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a "The Weather" card's effect: You can Special Summon this banished card.
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 2200
+Archetype: The Weather
+Present in Sets:
+- Maximum Gold: El Dorado
+- Spirit Warriors

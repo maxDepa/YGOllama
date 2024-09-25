@@ -1,0 +1,13 @@
+Soul Drain Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a Dragon-Type Xyz Monster's effect in your possession, and cannot be Special Summoned by other ways. When Special Summoned, if your Life Points are lower than your opponent's: This card gains ATK equal to your current Life Point deficit, and if it does, your opponent takes no further damage this turn. This card cannot attack your opponent directly.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 4000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shadow Specters

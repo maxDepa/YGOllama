@@ -1,0 +1,13 @@
+Anarchist Monk of the Six Samurai
+Card Type: Tuner Monster
+
+Description: If you control a "Six Samurai" monster other than "Anarchist Monk of the Six Samurai", you can Special Summon this card (from your hand). You can only Special Summon "Anarchist Monk of the Six Samurai" once per turn this way. You can only use each of the following effects of "Anarchist Monk of the Six Samurai" once per turn. If this card is sent from the field to the GY: You can add 1 "Six Samurai" Quick-Play Spell from your Deck to your hand. A "Six Samurai" monster Synchro Summoned using this card as material gains this effect.
+● The Levels of monsters your opponent controls are reduced by 1.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:

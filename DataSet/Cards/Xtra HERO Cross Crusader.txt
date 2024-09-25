@@ -1,0 +1,16 @@
+Xtra HERO Cross Crusader
+Card Type: Link Monster
+
+Description: 2 Warrior monsters
+If this card is Link Summoned: You can target 1 "Destiny HERO" monster in your GY; Special Summon it. You can Tribute 1 "Destiny HERO" monster; add 1 "HERO" monster with a different name from your Deck to your hand. You can only use each effect of "Xtra HERO Cross Crusader" once per turn, also you cannot Special Summon monsters the turn you activate either of this card's effects, except "HERO" monsters.
+
+Type: Warrior
+Attribute: DARK
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Battles of Legend: Chapter 1
+- Dark Neostorm

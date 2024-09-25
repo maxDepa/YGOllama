@@ -1,0 +1,14 @@
+Time Stream
+Card Type: Spell Card
+
+Description: Target 1 "Fossil" Fusion Monster you control; Tribute it, and if you do, Special Summon 1 "Fossil" Fusion Monster from your Extra Deck, whose original Level is 2 higher than that monster's. (This is treated as a Fusion Summon with "Fossil Fusion".) During your Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 "Fossil" Fusion Monster from your GY, then target 1 "Fossil" Fusion Monster in your GY; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fossil
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1

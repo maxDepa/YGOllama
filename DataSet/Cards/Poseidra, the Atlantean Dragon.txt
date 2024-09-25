@@ -1,0 +1,13 @@
+Poseidra, the Atlantean Dragon
+Card Type: Effect Monster
+
+Description: You can Tribute 3 Level 3 or lower WATER monsters; Special Summon this card from your hand or Graveyard. When you do: Return all Spell and Trap Cards on the field to the hand, and if you do, if 3 or more cards are returned to the hand by this effect, all monsters your opponent currently controls lose 300 ATK for each.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 7
+Attack: 2800
+Defence: 1600
+Archetype: Atlantean
+Present in Sets:
+- Realm of the Sea Emperor Structure Deck

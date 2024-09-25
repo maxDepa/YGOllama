@@ -1,0 +1,14 @@
+Blackeyes, the Plunder Patroll Seaguide
+Card Type: Effect Monster
+
+Description: You can target 1 "Plunder Patroll" monster in your GY, except "Blackeyes, the Plunder Patroll Seaguide"; Special Summon this card from your hand, and if you do, add that monster to your hand, also you cannot Special Summon for the rest of this turn, except "Plunder Patroll" monsters. If this card is sent from the hand or Monster Zone to the GY: You can target 1 "Plunder Patroll" Monster Card in your Spell & Trap Zone; Special Summon it in Defense Position. You can only use each effect of "Blackeyes, the Plunder Patroll Seaguide" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Plunder Patroll
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

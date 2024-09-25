@@ -1,0 +1,14 @@
+Blade Rabbit
+Card Type: Effect Monster
+
+Description: When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

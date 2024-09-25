@@ -1,0 +1,13 @@
+Xyz Reversal
+Card Type: Trap Card
+
+Description: Target 1 face-up Xyz Monster your opponent controls and 1 face-up Xyz Monster you control; switch control of both monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

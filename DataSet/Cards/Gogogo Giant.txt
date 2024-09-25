@@ -1,0 +1,18 @@
+Gogogo Giant
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Gogogo" monster in your GY; Special Summon that target in Defense Position, then change this card to Defense Position. If this card attacks, it is changed to Defense Position at the end of the Battle Phase.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Gogogo
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Number Hunters
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Xyz Symphony

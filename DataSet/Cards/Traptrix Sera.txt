@@ -1,0 +1,18 @@
+Traptrix Sera
+Card Type: Link Monster
+
+Description: 1 non-Link "Traptrix" monster
+This Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of "Traptrix Sera" once per turn, and not during the Damage Step.
+● If a Normal Trap Card is activated: You can Special Summon 1 "Traptrix" monster from your Deck with a different name than the cards you control.
+● If your other "Traptrix" monster's effect is activated: You can Set 1 "Hole" Normal Trap directly from the Deck.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: Traptrix
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Magnificent Mavens
+- Structure Deck: Beware of Traptrix

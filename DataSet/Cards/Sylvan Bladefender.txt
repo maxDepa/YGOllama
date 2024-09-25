@@ -1,0 +1,15 @@
+Sylvan Bladefender
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can add this card from your Graveyard to your hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 700
+Archetype: Sylvan
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Legacy of the Valiant Sneak Peek Participation Card

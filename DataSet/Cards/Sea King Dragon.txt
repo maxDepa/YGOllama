@@ -1,0 +1,12 @@
+Sea King Dragon
+Card Type: Normal Monster
+
+Description: Protected by a tough shell, this master of the sea attacks its enemies with toxic bubbles.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 6
+Attack: 2000
+Defence: 1700
+Archetype: //
+Present in Sets:

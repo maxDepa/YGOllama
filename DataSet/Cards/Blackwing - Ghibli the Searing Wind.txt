@@ -1,0 +1,15 @@
+Blackwing - Ghibli the Searing Wind
+Card Type: Effect Monster
+
+Description: When your opponent declares a direct attack: You can Special Summon this card from your hand. Once per turn: You can switch the original ATK and DEF of this card, until the end of this turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 1600
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack
+- The Shining Darkness

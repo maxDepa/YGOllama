@@ -1,0 +1,15 @@
+Naturia Marron
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 "Naturia" monster from your Deck to the Graveyard. Once per turn: You can target 2 "Naturia" monsters in your Graveyard; shuffle both those targets into the Deck, then draw 1 card.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 700
+Archetype: Naturia
+Present in Sets:
+- OTS Tournament Pack 18 (POR)
+- OTS Tournament Pack 20
+- Photon Shockwave

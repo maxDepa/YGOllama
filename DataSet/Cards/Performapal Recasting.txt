@@ -1,0 +1,14 @@
+Performapal Recasting
+Card Type: Spell Card
+
+Description: Reveal any number of "Performapal" monsters from your hand and shuffle them into the Deck, then draw cards equal to the number of cards you shuffled into the Deck +1. You can only activate 1 "Performapal Recasting" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

@@ -1,0 +1,16 @@
+Fury of Fire
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Salamangreat" card.)
+Special Summon up to 2 "Salamangreat" monsters with different names from your hand and/or GY in Defense Position, but their effects are negated, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once. You can only activate 1 "Fury of Fire" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm Special Edition
+- Rising Rampage

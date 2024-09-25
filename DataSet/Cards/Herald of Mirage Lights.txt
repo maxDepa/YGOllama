@@ -1,0 +1,14 @@
+Herald of Mirage Lights
+Card Type: Link Monster
+
+Description: 2 monsters with the same Type and Attribute, except Tokens
+When a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it. If this card in your possession is sent to your GY by an opponent's card: You can add up to 2 Ritual Monsters and/or Ritual Spells with different names from your GY to your hand. You can only use each effect of "Herald of Mirage Lights" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 600
+Defence: 0
+Archetype: Herald
+Present in Sets:
+- Duel Overload

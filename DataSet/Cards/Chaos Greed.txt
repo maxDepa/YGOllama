@@ -1,0 +1,15 @@
+Chaos Greed
+Card Type: Spell Card
+
+Description: You can only activate this card if 4 or more of your cards are currently removed from play and there are no cards in your Graveyard. Draw 2 cards from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

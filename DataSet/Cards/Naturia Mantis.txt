@@ -1,0 +1,16 @@
+Naturia Mantis
+Card Type: Effect Monster
+
+Description: When your opponent Normal Summons a monster, you can send 1 "Naturia" monster from your hand to the Graveyard to destroy that monster.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

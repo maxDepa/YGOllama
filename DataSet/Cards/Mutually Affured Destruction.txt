@@ -1,0 +1,14 @@
+Mutually Affured Destruction
+Card Type: Trap Card
+
+Description: Both players must keep their hands revealed this turn. While their hands are revealed by this effect, if they both have a card with the same name in their hands, neither player can activate cards with that name, or their effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

@@ -1,0 +1,15 @@
+Shiranui Shogunsaga
+Card Type: Synchro Monster
+
+Description: 1 Zombie-Type Tuner + 1 or more non-Tuner Zombie-Type monsters
+If this card is Special Summoned: You can banish 1 Zombie-Type monster from your Graveyard; this card gains ATK equal to the banished monster's original ATK, until the end of this turn. If this card on the field is destroyed by battle or card effect and sent to the Graveyard: You can target 1 of your banished Zombie-Type monsters with 0 DEF; return it to the Graveyard. You can only Special Summon "Shiranui Shogunsaga(s)" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

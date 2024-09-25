@@ -1,0 +1,16 @@
+Twin-Headed Wolf
+Card Type: Effect Monster
+
+Description: While you control another Fiend monster, negate the effects of Flip monsters destroyed by battle with this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel Starter Decks: Twisted Nightmares

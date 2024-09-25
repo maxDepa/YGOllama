@@ -1,0 +1,14 @@
+Rose Spectre of Dunn
+Card Type: Fusion Monster
+
+Description: "Feral Imp" + "Snakeyashi"
+
+Type: Plant
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1800
+Archetype: Rose Dragon
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 5

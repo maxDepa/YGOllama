@@ -1,0 +1,19 @@
+Abyss Actor - Trendy Understudy
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When you Pendulum Summon a monster: You can add 1 face-up Level 1 or 8 "Abyss Actor" Pendulum Monster from your Extra Deck to your hand.
+
+[ Monster Effect ] 
+If you have 2 "Abyss Actor" cards in your Pendulum Zones: You can Tribute this card; Special Summon 1 Level 1 or 8 "Abyss Actor" Pendulum Monster from your hand or face-up from your Extra Deck. You can only use this effect of "Abyss Actor - Trendy Understudy" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 700
+Archetype: Abyss Actor
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Legendary Duelists: White Dragon Abyss

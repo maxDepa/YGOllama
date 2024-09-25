@@ -1,0 +1,16 @@
+Field Barrier
+Card Type: Spell Card
+
+Description: Field Spell Cards on the field cannot be destroyed. Neither player can activate a new Field Spell Card. You can only control 1 "Field Barrier".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Spellcaster's Command Structure Deck
+- Structure Deck: Sacred Beasts
+- Zombie World Structure Deck

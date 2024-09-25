@@ -1,0 +1,14 @@
+Bri Synchron
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard as a Synchro Material, until the end of this turn, the Synchro Monster that used this card as a Synchro Material gains 600 ATK, but its effects are negated.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1100
+Archetype: Synchron
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Legendary Collection 5D's Mega Pack

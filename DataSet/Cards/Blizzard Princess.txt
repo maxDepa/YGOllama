@@ -1,0 +1,14 @@
+Blizzard Princess
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card in face-up Attack Position by Tributing 1 Spellcaster-Type monster. After this card was Normal Summoned, your opponent cannot activate Spell/Trap Cards for the rest of that turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Collectible Tins 2012 Wave 1
+- Yu-Gi-Oh! GX Volume 7 promotional card

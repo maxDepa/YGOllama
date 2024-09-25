@@ -1,0 +1,14 @@
+Switcheroroo
+Card Type: Trap Card
+
+Description: If you control the same number of monsters as your opponent, switch control of all those monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

@@ -1,0 +1,14 @@
+Gravekeeper's Heretic
+Card Type: Effect Monster
+
+Description: This card on the field is unaffected by all other card effects, as long as "Necrovalley" is also on the field.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

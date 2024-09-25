@@ -1,0 +1,15 @@
+Amazoness Pet Liger King
+Card Type: Fusion Monster
+
+Description: 1 Level 5 or higher "Amazoness" monster + 1 "Amazoness" monster
+Your opponent's monsters cannot attack any monsters, except this one. You can target 1 "Amazoness" card you control and 1 "Amazoness" Warrior monster in your GY; destroy that card on the field, and if you do, Special Summon that other monster from the GY. This card cannot attack the turn this effect is activated. You can only use this effect of "Amazoness Pet Liger King" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 9
+Attack: 2900
+Defence: 2800
+Archetype: Amazoness
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

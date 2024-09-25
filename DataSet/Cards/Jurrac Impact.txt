@@ -1,0 +1,14 @@
+Jurrac Impact
+Card Type: Trap Card
+
+Description: If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Jurrac
+Present in Sets:
+- Astral Pack Five
+- Cosmo Blazer

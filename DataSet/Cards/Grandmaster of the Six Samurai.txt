@@ -1,0 +1,22 @@
+Grandmaster of the Six Samurai
+Card Type: Effect Monster
+
+Description: You can only control 1 "Grandmaster of the Six Samurai". If you control a "Six Samurai" monster, you can Special Summon this card (from your hand). If this card in your possession is destroyed by an opponent's card effect: Target 1 "Six Samurai" monster in your GY; add that target to your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 2100
+Defence: 800
+Archetype: Six Samurai
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Duel Terminal 6b
+- Gold Series
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Spirit Warriors
+- Strike of Neos
+- Strike of Neos Sneak Peek Participation Card
+- Turbo Pack: Booster One

@@ -1,0 +1,14 @@
+Stardust Trail
+Card Type: Effect Monster
+
+Description: If a monster you control is Tributed (except during the Damage Step): You can Special Summon this card from your hand or GY, but banish it when it leaves the field. If a "Warrior", "Synchron", or "Stardust" Synchro Monster is Synchro Summoned using this card as material: You can Special Summon 1 "Stardust Token" (Dragon/LIGHT/Level 1/ATK 0/DEF 0). You can only use each effect of "Stardust Trail" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: Stardust
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

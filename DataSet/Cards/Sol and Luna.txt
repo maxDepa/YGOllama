@@ -1,0 +1,16 @@
+Sol and Luna
+Card Type: Spell Card
+
+Description: Target 1 monster you control and 1 monster your opponent controls; apply the following effect on each monster, depending on its battle position.
+● Face-up: Change it to face-down Defense Position.
+● Face-down: Change it to face-up Defense Position.
+You can only activate 1 "Sol and Luna" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle of Chaos

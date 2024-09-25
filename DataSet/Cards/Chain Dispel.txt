@@ -1,0 +1,14 @@
+Chain Dispel
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

@@ -1,0 +1,17 @@
+Fabled Valkyrus
+Card Type: Synchro Monster
+
+Description: 1 "Fabled" Tuner + 1 or more non-Tuner monsters
+Once per turn, you can discard 1 Fiend-Type monster to draw 1 card.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 8
+Attack: 2900
+Defence: 1700
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

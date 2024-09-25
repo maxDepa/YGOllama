@@ -1,0 +1,13 @@
+Hypernova Burst
+Card Type: Spell Card
+
+Description: Banish, face-down, from your hand and/or face-up field, 2 monsters that cannot be Normal Summoned; draw 2 cards. You can only activate 1 "Hypernova Burst" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Rising Rampage

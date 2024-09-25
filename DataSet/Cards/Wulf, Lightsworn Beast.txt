@@ -1,0 +1,19 @@
+Wulf, Lightsworn Beast
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 300
+Archetype: Lightsworn
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction
+- Ra Yellow Mega Pack
+- Realm of Light Structure Deck
+- Turbo Pack: Booster Five

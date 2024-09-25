@@ -1,0 +1,15 @@
+B.E.S. Tetran
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, put 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. Once per turn, you can remove 1 counter on this card to destroy 1 Spell or Trap Card on the field.
+
+Type: Machine
+Attribute: WIND
+Level: 6
+Attack: 1800
+Defence: 2300
+Archetype: B.E.S.
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy

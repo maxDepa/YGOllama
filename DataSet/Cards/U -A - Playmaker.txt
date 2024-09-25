@@ -1,0 +1,13 @@
+U.A. Playmaker
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Playmaker". You can only Special Summon "U.A. Playmaker" once per turn this way. When another "U.A." monster you control declares an attack: You can have this card lose exactly 800 ATK, and if it does, your attacking monster gains 800 ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2600
+Defence: 2000
+Archetype: U.A.
+Present in Sets:
+- Secrets of Eternity

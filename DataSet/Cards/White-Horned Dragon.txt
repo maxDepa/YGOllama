@@ -1,0 +1,17 @@
+White-Horned Dragon
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: Target up to 5 Spell Cards in your opponent's Graveyard; banish those target(s), and if you do, this card gains 300 ATK for each card banished by this effect.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Duel Terminal 7a
+- Gold Series 4: Pyramids Edition
+- GX Next Generation
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards 2

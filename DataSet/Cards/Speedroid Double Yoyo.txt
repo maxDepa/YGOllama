@@ -1,0 +1,16 @@
+Speedroid Double Yoyo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 3 or lower "Speedroid" monster in your Graveyard; Special Summon it.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders
+- Legendary Duelists: Synchro Storm
+- Star Pack Battle Royal
+- Star Pack Battle Royal

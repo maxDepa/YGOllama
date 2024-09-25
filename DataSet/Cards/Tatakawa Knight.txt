@@ -1,0 +1,13 @@
+Tatakawa Knight
+Card Type: Effect Monster
+
+Description: If the activation of your Spell/Trap Card is negated by your opponent's card effect: You can send this card from your hand to the Graveyard; inflict 1500 damage to your opponent.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

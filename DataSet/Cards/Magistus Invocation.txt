@@ -1,0 +1,13 @@
+Magistus Invocation
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material, including a Spellcaster monster. If Summoning a "Magistus" Fusion Monster this way, you can also use monsters in your Spell & Trap Zones that are equipped to a "Magistus" monster. You can only activate 1 "Magistus Invocation" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magistus
+Present in Sets:
+- Genesis Impact

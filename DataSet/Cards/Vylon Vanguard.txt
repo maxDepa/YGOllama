@@ -1,0 +1,14 @@
+Vylon Vanguard
+Card Type: Effect Monster
+
+Description: When this card is destroyed by a card effect and sent to the Graveyard: You can draw 1 card for each Equip Card that was equipped to this card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

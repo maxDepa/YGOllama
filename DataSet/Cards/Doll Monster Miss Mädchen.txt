@@ -1,0 +1,15 @@
+Doll Monster Miss Mädchen
+Card Type: Normal Monster
+
+Description: ''Welcome to our house!
+Here I live with Cologne, Grandpa Demetto, and all the other dolls!''
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Doll Monster
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

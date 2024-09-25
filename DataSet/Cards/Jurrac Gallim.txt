@@ -1,0 +1,16 @@
+Jurrac Gallim
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Your opponent can discard 1 card to negate this card's effect, otherwise destroy the monster that destroyed this card.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 2
+Attack: 1200
+Defence: 0
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

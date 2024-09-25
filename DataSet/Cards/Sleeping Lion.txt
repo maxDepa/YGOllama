@@ -1,0 +1,13 @@
+Sleeping Lion
+Card Type: Normal Monster
+
+Description: A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 700
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Tournament Pack 6

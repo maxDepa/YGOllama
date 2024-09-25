@@ -1,0 +1,12 @@
+Block Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Blockman". This Token cannot declare an attack.
+
+Type: Rock
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

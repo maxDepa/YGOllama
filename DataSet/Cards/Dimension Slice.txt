@@ -1,0 +1,15 @@
+Dimension Slice
+Card Type: Trap Card
+
+Description: When a monster(s) is Special Summoned to your side of the field (except during the Damage Step): Target 1 face-up monster your opponent controls; banish that target. If the Summon is an Xyz Summon, you can activate this card the turn it was Set.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

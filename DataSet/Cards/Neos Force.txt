@@ -1,0 +1,15 @@
+Neos Force
+Card Type: Spell Card
+
+Description: Equip only to "Elemental HERO Neos". It gains 800 ATK. When it destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original ATK of the destroyed monster in the Graveyard. During the End Phase: Shuffle this card into the Deck.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Strike of Neos
+- Strike of Neos

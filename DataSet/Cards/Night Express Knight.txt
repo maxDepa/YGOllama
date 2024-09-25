@@ -1,0 +1,16 @@
+Night Express Knight
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: Train
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Duelists: Sisters of the Rose
+- Yu-Gi-Oh! ZEXAL World Duel Carnival promotional cards

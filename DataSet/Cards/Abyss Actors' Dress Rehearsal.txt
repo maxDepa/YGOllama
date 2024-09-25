@@ -1,0 +1,13 @@
+Abyss Actors' Dress Rehearsal
+Card Type: Spell Card
+
+Description: At the start of your Main Phase 1: Add 1 "Abyss Actor" card and 1 "Abyss Script" Spell from your Deck to your hand. For the rest of this turn after this card resolves, you cannot Pendulum Summon monsters, except "Abyss Actor" monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Abyss Actor
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,19 @@
+Phantom Skyblaster
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can Special Summon any number of "Skyblaster Tokens" (Fiend/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. Once per turn, during your Standby Phase: You can inflict 300 damage to your opponent for each "Skyblaster" monster you control. "Skyblaster" monsters you control cannot declare an attack during the turn you activate this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Duel Terminal 6b
+- Duelist Pack: Jesse Anderson
+- Egyptian God Deck: Slifer the Sky Dragon
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 6
+- Structure Deck: Powercode Link
+- Structure Deck: Sacred Beasts

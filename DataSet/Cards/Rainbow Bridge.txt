@@ -1,0 +1,16 @@
+Rainbow Bridge
+Card Type: Spell Card
+
+Description: Add 1 "Crystal" Spell/Trap from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Structure Deck: Legend of the Crystal Beasts

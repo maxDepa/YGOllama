@@ -1,0 +1,13 @@
+Nordic Beast Gullinbursti
+Card Type: Tuner Monster
+
+Description: For a Synchro Summon, you can substitute this card for any 1 "Nordic" Tuner. You can only use each of the following effects of "Nordic Beast Gullinbursti" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 "Nordic" monster from your hand. You can target 1 "Nordic" monster in your GY, except "Nordic Beast Gullinbursti"; add it to your hand.
+
+Type: Beast
+Attribute: LIGHT
+Level: 3
+Attack: 300
+Defence: 100
+Archetype: Nordic
+Present in Sets:
+- Battle of Chaos

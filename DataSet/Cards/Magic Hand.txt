@@ -1,0 +1,14 @@
+Magic Hand
+Card Type: Effect Monster
+
+Description: When your opponent adds a card(s) from their Deck to their hand, except by drawing them (except during the Damage Step): You can send that card(s) to the Graveyard, and if you do, inflict 800 damage to your opponent. This effect can only be used once while this card is face-up on the field.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

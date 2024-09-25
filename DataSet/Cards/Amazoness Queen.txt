@@ -1,0 +1,16 @@
+Amazoness Queen
+Card Type: Effect Monster
+
+Description: "Amazoness" monsters you control cannot be destroyed by battle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: Amazoness
+Present in Sets:
+- Duelist Revolution
+- OTS Tournament Pack 6
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

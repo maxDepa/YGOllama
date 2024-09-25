@@ -1,0 +1,13 @@
+Battlewasp - Gran Partisan the Revolution
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Cannot be destroyed by card effects. Insect Synchro Monsters you control gain 200 ATK for each of your banished Insect monsters. If this card is banished: You can Special Summon it, then you can destroy cards your opponent controls up to the number of your banished Insect monsters, then inflict 500 damage to your opponent for each card destroyed. You can only use this effect of "Battlewasp - Gran Partisan the Revolution" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 12
+Attack: 3000
+Defence: 2000
+Archetype: Battlewasp
+Present in Sets:

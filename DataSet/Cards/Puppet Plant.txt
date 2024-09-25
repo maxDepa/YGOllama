@@ -1,0 +1,16 @@
+Puppet Plant
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard, then target 1 Warrior or Spellcaster-Type monster your opponent controls; take control of that target until the End Phase.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 24
+- Starter Deck: Kaiba Reloaded
+- Strike of Neos
+- Turbo Pack: Booster Five

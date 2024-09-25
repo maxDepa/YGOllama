@@ -1,0 +1,16 @@
+Destiny Mirage
+Card Type: Trap Card
+
+Description: When a "Destiny HERO" monster you control is destroyed and sent to the Graveyard by an opponent's card effect: Special Summon, to your side of the field, all "Destiny HERO" monsters that were destroyed and sent to either Graveyard this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Ra Yellow Mega Pack

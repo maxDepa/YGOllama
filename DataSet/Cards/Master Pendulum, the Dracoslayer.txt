@@ -1,0 +1,18 @@
+Master Pendulum, the Dracoslayer
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.
+
+[ Monster Effect ] 
+''"Luster Pendulum, the Dracoslayer" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?''
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1950
+Defence: 0
+Archetype: Dracoslayer
+Present in Sets:
+- Breakers of Shadow
+- Pendulum Evolution

@@ -1,0 +1,17 @@
+Mecha Phantom Beast Auroradon
+Card Type: Link Monster
+
+Description: 2+ Machine monsters
+If this card is Link Summoned: You can activate this effect; Special Summon 3 "Mecha Phantom Beast Tokens" (Machine/WIND/Level 3/ATK 0/DEF 0), also you cannot Link Summon for the rest of this turn. Once per turn: You can Tribute up to 3 monsters, then apply 1 of these effects, based on the number Tributed;
+● 1: Destroy 1 card on the field.
+● 2: Special Summon 1 "Mecha Phantom Beast" monster from your Deck.
+● 3: Add 1 Trap from your GY to your hand.
+
+Type: Machine
+Attribute: WIND
+Level: 0
+Attack: 2100
+Defence: 0
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- Duel Overload

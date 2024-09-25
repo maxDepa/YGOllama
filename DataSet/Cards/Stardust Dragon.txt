@@ -1,0 +1,29 @@
+Stardust Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.
+
+Type: Dragon
+Attribute: WIND
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Stardust
+Present in Sets:
+- Collectible Tins 2008 Wave 1
+- Collectible Tins 2010 Wave 2
+- Dawn of Majesty
+- Duel Power
+- Duelist Pack: Yusei
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Legendary Collection 5D's Mega Pack
+- Premium Gold
+- Shadow Specters: Special Edition
+- The Duelist Genesis
+- The Duelist Genesis
+- The Duelist Genesis
+- Toon Chaos
+- Toon Chaos
+- Turbo Pack: Booster Six

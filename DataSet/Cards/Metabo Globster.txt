@@ -1,0 +1,13 @@
+Metabo Globster
+Card Type: Effect Monster
+
+Description: When you Tribute this card for the Tribute Summon of a DARK monster, Special Summon 3 "Metabo Tokens" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 300
+Archetype: //
+Present in Sets:
+- Phantom Darkness

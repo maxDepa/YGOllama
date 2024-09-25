@@ -1,0 +1,14 @@
+Vendread Chimera
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Vendread" Ritual Spell. When a card or effect is activated that would destroy a card on the field (Quick Effect): You can banish 1 Zombie monster from your GY; negate the activation, and if you do, destroy that card. If this card is Tributed, or banished, for a Ritual Summon: All monsters your opponent controls lose 500 ATK/DEF. You can only use each effect of "Vendread Chimera" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 0
+Archetype: Vendread
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

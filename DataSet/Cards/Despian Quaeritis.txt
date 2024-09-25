@@ -1,0 +1,15 @@
+Despian Quaeritis
+Card Type: Fusion Monster
+
+Description: 1 "Despia" monster + 1 LIGHT or DARK monster
+During the Main Phase (Quick Effect): You can change the ATK of all monsters currently on the field to 0 until the end of this turn, except Level 8 or higher Fusion Monsters. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can add to your hand, or Special Summon, 1 "Fallen of Albaz" or 1 "Despia" monster, from your Deck. You can only use each effect of "Despian Quaeritis" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

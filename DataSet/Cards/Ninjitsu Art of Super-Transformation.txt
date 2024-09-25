@@ -1,0 +1,15 @@
+Ninjitsu Art of Super-Transformation
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 "Ninja" monster you control and 1 face-up monster your opponent controls; send them to the GY, then Special Summon 1 Dragon, Dinosaur, or Sea Serpent monster from your Deck whose Level is less than or equal to the combined original Levels of the sent monster(s). When this card leaves the field, banish that monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 2
+- Shadows in Valhalla

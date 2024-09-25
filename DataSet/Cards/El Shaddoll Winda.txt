@@ -1,0 +1,17 @@
+El Shaddoll Winda
+Card Type: Fusion Monster
+
+Description: 1 "Shaddoll" monster + 1 DARK monster
+Must first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the GY: You can target 1 "Shaddoll" Spell/Trap in your GY; add it to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 800
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Shadows in Valhalla
+- Structure Deck: Shaddoll Showdown

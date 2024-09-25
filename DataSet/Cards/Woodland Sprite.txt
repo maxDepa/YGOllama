@@ -1,0 +1,15 @@
+Woodland Sprite
+Card Type: Effect Monster
+
+Description: Send 1 Equip Card equipped to this card to the Graveyard. Inflict 500 points of damage to your opponent's Life Points.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness

@@ -1,0 +1,15 @@
+Mega Ton Magical Cannon
+Card Type: Spell Card
+
+Description: Remove 10 Spell Counters on your side of the field. Destroy all cards on your opponent's side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Streets of Battle City

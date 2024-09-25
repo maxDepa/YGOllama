@@ -1,0 +1,17 @@
+Branded in Red
+Card Type: Spell Card
+
+Description: Target 1 "Despia" monster or "Fallen of Albaz" in your GY; add it to your hand, then you can apply the following effect.
+● Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your hand or field, but it cannot attack directly this turn.
+You can only activate 1 "Branded in Red" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny
+- OTS Tournament Pack 22

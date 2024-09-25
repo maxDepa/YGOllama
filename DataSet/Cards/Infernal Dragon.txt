@@ -1,0 +1,15 @@
+Infernal Dragon
+Card Type: Effect Monster
+
+Description: Once per turn, during the End Phase, if this card attacked this turn: Destroy this card. When this card on the field is destroyed and sent to the GY: You can Tribute 1 monster; Special Summon this card from the GY.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 2
+- Duelist Pack: Zane Truesdale
+- Structure Deck: Lair of Darkness

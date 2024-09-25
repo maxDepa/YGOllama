@@ -1,0 +1,15 @@
+Corrosive Scales
+Card Type: Trap Card
+
+Description: Target 1 Insect monster you control; equip this card to it. While you control the equipped monster, your opponent's monsters cannot attack Insect monsters, except the equipped monster. While this card is equipped to a monster, each time your opponent Normal or Special Summons a monster(s), OR activates a card or effect, place 1 Scale Counter on each face-up monster they control. Each monster your opponent controls loses 100 ATK/DEF for each Scale Counter it has.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Ultimate Predators

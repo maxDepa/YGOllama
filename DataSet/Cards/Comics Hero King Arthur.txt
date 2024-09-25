@@ -1,0 +1,14 @@
+Comics Hero King Arthur
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Warrior-Type monsters
+If this card would be destroyed by battle, you can detach 1 Xyz Material from this card instead. When you do: It gains 500 ATK, and if it does, inflict 500 damage to your opponent.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Number Hunters

@@ -1,0 +1,13 @@
+T.G. All Clear
+Card Type: Spell Card
+
+Description: All "T.G." monsters on the field become Machine monsters. During your Main Phase, you can Normal Summon 1 "T.G." monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) During your Main Phase: You can destroy 1 "T.G." monster in your hand or field, and if you do, add 1 "T.G." monster with a different name from your Deck or GY to your hand. You can only use this effect of "T.G. All Clear" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Age of Overlord

@@ -1,0 +1,15 @@
+Phantom Beast Cross-Wing
+Card Type: Effect Monster
+
+Description: While this card is in the Graveyard, "Gazelle the King of Mythical Beasts" and all "Phantom Beast" monsters on the field gain 300 ATK.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Gold Series 2009
+- Speed Duel: Battle City Box
+- Yu-Gi-Oh! GX Tag Force promotional cards

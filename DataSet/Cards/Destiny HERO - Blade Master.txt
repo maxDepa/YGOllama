@@ -1,0 +1,16 @@
+Destiny HERO - Blade Master
+Card Type: Effect Monster
+
+Description: During your opponent's Battle Phase: You can discard this card; all face-up "Destiny HERO" monsters you control gain 800 ATK until the End Phase.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 300
+Defence: 600
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box

@@ -1,0 +1,19 @@
+Timebreaker Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Each turn, the first Pendulum Monster(s) you control that would be destroyed by an opponent's card effect, is not destroyed.
+
+[ Monster Effect ] 
+When this card is Pendulum Summoned from the hand (and no other cards are Pendulum Summoned at the same time): You can make this card's ATK become double its original ATK. Once per turn: You can target 1 monster on the field; banish both it and this card from the field until your next Standby Phase.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Pendulum Evolution

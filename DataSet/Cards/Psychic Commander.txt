@@ -1,0 +1,14 @@
+Psychic Commander
+Card Type: Tuner Monster
+
+Description: When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 800
+Archetype: //
+Present in Sets:
+- The Duelist Genesis
+- Turbo Pack: Booster Four

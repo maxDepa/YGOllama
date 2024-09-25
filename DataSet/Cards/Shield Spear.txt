@@ -1,0 +1,15 @@
+Shield Spear
+Card Type: Trap Card
+
+Description: Target 1 face-up monster on the field; it gains 400 ATK/DEF until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Dawn of the Xyz
+- Tactical Evolution

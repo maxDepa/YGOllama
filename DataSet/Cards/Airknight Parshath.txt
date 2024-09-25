@@ -1,0 +1,26 @@
+Airknight Parshath
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1900
+Defence: 1400
+Archetype: Parshath
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Lost Sanctuary Structure Deck
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Structure Deck: Wave of Light
+- Tournament Pack 6

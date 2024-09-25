@@ -1,0 +1,16 @@
+Superheavy Samurai Big Waraji
+Card Type: Effect Monster
+
+Description: If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except "Superheavy Samurai" monsters. This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 800
+Defence: 1800
+Archetype: Superheavy
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal

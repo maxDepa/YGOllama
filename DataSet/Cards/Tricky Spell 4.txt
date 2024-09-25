@@ -1,0 +1,16 @@
+Tricky Spell 4
+Card Type: Spell Card
+
+Description: Send 1 face-up "The Tricky" you control to the Graveyard; Special Summon "Tricky Tokens" (Spellcaster-Type/WIND/Level 5/ATK 2000/DEF 1200) in Defense Position, equal to the number of monsters your opponent controls. "Tricky Tokens" cannot declare an attack.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- The Duelist Genesis
+- Yugi's Legendary Decks

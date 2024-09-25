@@ -1,0 +1,16 @@
+Panzer Dragon
+Card Type: Fusion Monster
+
+Description: 1 Machine monster + 1 Dragon monster
+If this card is destroyed and sent to the GY: You can target 1 card on the field; destroy it.
+
+Type: Machine
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2600
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Legendary Duelists: Ancient Millennium

@@ -1,0 +1,14 @@
+Blackwing - Pinaki the Waxing Moon
+Card Type: Tuner Monster
+
+Description: Cannot be used as a Synchro Material, except for the Synchro Summon of a "Blackwing" Synchro Monster. During the End Phase, if this card is in the Graveyard because it was sent there from the field this turn: You can add 1 "Blackwing" monster from your Deck to your hand, except "Blackwing - Pinaki the Waxing Moon". You can only use this effect of "Blackwing - Pinaki the Waxing Moon" once per turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 1000
+Archetype: Blackwing
+Present in Sets:
+- Legendary Duelists: Season 2
+- Premium Gold: Return of the Bling

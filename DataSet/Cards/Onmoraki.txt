@@ -1,0 +1,13 @@
+Onmoraki
+Card Type: Effect Monster
+
+Description: If this card in your possession is destroyed by an opponent's card effect and sent to your GY, or if this card is Special Summoned from the GY: You can draw 1 card. You can only use this effect of "Onmoraki" once per turn.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

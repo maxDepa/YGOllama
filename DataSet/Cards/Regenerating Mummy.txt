@@ -1,0 +1,20 @@
+Regenerating Mummy
+Card Type: Effect Monster
+
+Description: When this card is sent from your hand to your Graveyard by an opponent's card effect: Return this card to the hand.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Gold Series
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Battle City Box
+- Structure Deck: Zombie Madness
+- Zombie World Structure Deck

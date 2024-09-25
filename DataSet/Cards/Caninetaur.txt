@@ -1,0 +1,14 @@
+Caninetaur
+Card Type: Effect Monster
+
+Description: Once per turn, if this card battles an opponent's monster, during damage calculation (in either player's turn): You can send 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or Deck to the Graveyard, and if you do, this card gains ATK equal to the sent monster's Level x 100, until the end of the Battle Phase.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 200
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

@@ -1,0 +1,17 @@
+Perfectly Ultimate Great Moth
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Petit Moth" on your 6th turn or later after it was equipped with "Cocoon of Evolution".
+
+Type: Insect
+Attribute: EARTH
+Level: 8
+Attack: 3500
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Duelists: Ancient Millennium
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 2
+- Yu-Gi-Oh! The Sacred Cards promotional cards

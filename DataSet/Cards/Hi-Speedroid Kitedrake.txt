@@ -1,0 +1,20 @@
+Hi-Speedroid Kitedrake
+Card Type: Synchro Monster
+
+Description: 1 WIND Machine Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can activate 1 of these effects;
+● Destroy all other cards on the field.
+● Negate the effects of all face-up cards your opponent currently controls.
+If this card in your possession is sent to your GY by an opponent's card: You can add 1 "Speedroid" monster from your Deck to your hand.
+You can only use each effect of "Hi-Speedroid Kitedrake" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 8
+Attack: 3000
+Defence: 2800
+Archetype: Hi-Speedroid
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Legendary Duelists: Synchro Storm

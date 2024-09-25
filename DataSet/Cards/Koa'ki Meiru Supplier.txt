@@ -1,0 +1,14 @@
+Koa'ki Meiru Supplier
+Card Type: Effect Monster
+
+Description: If a face-up Rock monster you control is sent to the GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can add from your Deck to your hand, 1 "Iron Core of Koa'ki Meiru" or 1 card that specifically lists "Iron Core of Koa'ki Meiru" in its text, except "Koa'ki Meiru Supplier". You can only use each effect of "Koa'ki Meiru Supplier" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Rise of the Duelist

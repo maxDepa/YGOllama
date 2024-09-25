@@ -1,0 +1,17 @@
+Splendid Venus
+Card Type: Effect Monster
+
+Description: All non-Fairy monsters lose 500 ATK/DEF. The activation and effects of Spell/Trap Cards activated on your field cannot be negated.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Lost Sanctuary Structure Deck
+- Structure Deck: Wave of Light
+- The Duelist Genesis

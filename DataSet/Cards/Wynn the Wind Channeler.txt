@@ -1,0 +1,18 @@
+Wynn the Wind Channeler
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Charmer" card.)
+You can discard this card and 1 other WIND monster; add 1 WIND monster with 1500 or less DEF from your Deck to your hand, except "Wynn the Wind Channeler", also you cannot activate monster effects for the rest of this turn, except WIND monsters. When a WIND monster you control is destroyed by battle while this card is in your hand: You can Special Summon this card. You can only use each effect of "Wynn the Wind Channeler" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 5
+Attack: 1850
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Rise of the Duelist
+- Rise of the Duelist

@@ -1,0 +1,13 @@
+A.I.'s Show
+Card Type: Trap Card
+
+Description: While you control a Link-3 or higher "@Ignister" monster in the Extra Monster Zone, when an opponent's monster declares an attack: Special Summon from your Extra Deck any number of non-Link Cyberse monster(s) with 2300 ATK, whose combined ATK is less than or equal to the attacking monster's ATK, then end the Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: A.I.
+Present in Sets:
+- Brothers of Legend

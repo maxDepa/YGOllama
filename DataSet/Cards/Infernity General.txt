@@ -1,0 +1,15 @@
+Infernity General
+Card Type: Effect Monster
+
+Description: If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower "Infernity" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2700
+Defence: 1500
+Archetype: Infernity
+Present in Sets:
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Yu-Gi-Oh! 5D's Volume 3 promotional card

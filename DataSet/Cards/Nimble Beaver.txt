@@ -1,0 +1,16 @@
+Nimble Beaver
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower "Nimble" monster from your Deck or GY.
+
+Type: Beast
+Attribute: WATER
+Level: 2
+Attack: 400
+Defence: 200
+Archetype: Nimble
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Egyptian God Deck: Obelisk the Tormentor
+- OTS Tournament Pack 20

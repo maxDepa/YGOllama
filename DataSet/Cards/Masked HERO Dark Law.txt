@@ -1,0 +1,18 @@
+Masked HERO Dark Law
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned by "Mask Change". Any card sent to your opponent's GY is banished instead. Once per turn, if your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can banish 1 random card from your opponent's hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: Masked HERO
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duelist Saga
+- HERO Strike Structure Deck
+- Legendary Hero Decks
+- OTS Tournament Pack 1

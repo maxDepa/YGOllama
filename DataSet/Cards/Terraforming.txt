@@ -1,0 +1,42 @@
+Terraforming
+Card Type: Spell Card
+
+Description: Add 1 Field Spell from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- Champion Pack: Game Two
+- Dark Revelation Volume 1
+- Dinosmasher's Fury Structure Deck
+- Duel Overload
+- Gates of the Underworld Structure Deck
+- Geargia Rampage Structure Deck
+- Legendary Collection Kaiba Mega Pack
+- Legendary Dragon Decks
+- Legendary Hero Decks
+- Lost Sanctuary Structure Deck
+- Machine Reactor Structure Deck
+- Master of Pendulum Structure Deck
+- Maximum Gold
+- OTS Tournament Pack 5
+- Pharaonic Guardian
+- Realm of the Sea Emperor Structure Deck
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck
+- Spellcaster's Command Structure Deck
+- Starter Deck: Link Strike
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Powercode Link
+- Structure Deck: Sacred Beasts
+- Structure Deck: Spirit Charmers
+- Turbo Pack: Booster One
+- Valiant Smashers
+- Zombie World Structure Deck

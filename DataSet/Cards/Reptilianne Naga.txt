@@ -1,0 +1,13 @@
+Reptilianne Naga
+Card Type: Effect Monster
+
+Description: This card cannot be destroyed by battle. The ATK of any monster that battles this card becomes 0 at the end of that Battle Phase. During your End Phase, change this face-up Defense Position card on the field to face-up Attack Position.
+
+Type: Reptile
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Absolute Powerforce

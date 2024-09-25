@@ -1,0 +1,13 @@
+Click & Echo
+Card Type: Effect Monster
+
+Description: Cannot be used as material for a Fusion, Synchro, or Xyz Summon. Cannot be Tributed while face-up in the Monster Zone. If this card is sent to the GY as material for a Link Summon: Special Summon this card in Defense Position, to the opponent's field of the player that Link Summoned. You can only use this effect of "Click & Echo" twice per turn. While this card, that was Summoned by its effect, is in the Monster Zone, you must keep your hand revealed.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 2
+Attack: 300
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Duelist Nexus

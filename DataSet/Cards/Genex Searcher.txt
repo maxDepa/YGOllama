@@ -1,0 +1,14 @@
+Genex Searcher
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 "Genex" monster with 1500 or less ATK from your Deck in face-up Attack Position.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 1
+- The Shining Darkness

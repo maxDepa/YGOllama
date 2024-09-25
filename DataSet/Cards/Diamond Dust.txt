@@ -1,0 +1,13 @@
+Diamond Dust
+Card Type: Trap Card
+
+Description: Destroy as many WATER monsters on the field as possible, then inflict 500 damage to your opponent for each WATER monster destroyed and sent to the Graveyard by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Saga

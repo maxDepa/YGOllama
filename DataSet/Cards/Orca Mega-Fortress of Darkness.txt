@@ -1,0 +1,15 @@
+Orca Mega-Fortress of Darkness
+Card Type: Effect Monster
+
+Description: By Tributing 1 "Torpedo Fish" on your side of the field, destroy 1 monster on the field. By Tributing 1 "Cannonball Spear Shellfish" on your side of the field, destroy 1 Spell or Trap Card on the field.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 5
+Attack: 2100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

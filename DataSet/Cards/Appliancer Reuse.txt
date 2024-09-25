@@ -1,0 +1,13 @@
+Appliancer Reuse
+Card Type: Spell Card
+
+Description: Target 1 "Appliancer" monster in your GY; Special Summon it, but place it on the bottom of the Deck when it leaves the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Appliancer
+Present in Sets:
+- Battles of Legend: Armageddon

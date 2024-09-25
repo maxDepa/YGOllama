@@ -1,0 +1,20 @@
+Volcanic Rocket
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can add 1 "Blaze Accelerator" card from your Deck or Graveyard to your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1900
+Defence: 1400
+Archetype: Volcanic
+Present in Sets:
+- Duel Terminal 5b
+- Force of the Breaker
+- Force of the Breaker Sneak Peek Participation Card
+- Gold Series 2009
+- Legendary Duelists: Soulburning Volcano
+- Onslaught of the Fire Kings Structure Deck
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box

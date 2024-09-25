@@ -1,0 +1,19 @@
+Fusion Sword Murasame Blade
+Card Type: Spell Card
+
+Description: Equip only to a Warrior-Type monster. It gains 800 ATK. While equipped to a monster, this card cannot be destroyed by card effects.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Warrior's Triumph

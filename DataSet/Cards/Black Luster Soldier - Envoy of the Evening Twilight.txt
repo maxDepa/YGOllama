@@ -1,0 +1,17 @@
+Black Luster Soldier - Envoy of the Evening Twilight
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT monsters or all DARK monsters from your GY, while you have an equal number of each in your GY. While face-up on the field, this card is also LIGHT-Attribute. When this card is Special Summoned: You can activate the appropriate effect, based on the Attribute of the monsters banished for the Special Summon. You cannot conduct your Battle Phase the turn you activate this effect.
+● LIGHT: Target 1 monster on the field; banish it.
+● DARK: Banish 1 random card from your opponent's hand face-down, until your opponent's End Phase.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Black Luster Soldier
+Present in Sets:
+- Astral Pack Eight
+- Toon Chaos
+- Weekly Shonen Jump August 2014 membership promotional card

@@ -1,0 +1,14 @@
+Batteryman C
+Card Type: Effect Monster
+
+Description: If all "Batteryman C"(s) you control are in Attack Position, all Machine-Type monsters you control gain 500 ATK for each "Batteryman C" you control. If all "Batteryman C"(s) you control are in Defense Position, all Machine-Type monsters you control gain 500 DEF for each "Batteryman C" you control.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Batteryman
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

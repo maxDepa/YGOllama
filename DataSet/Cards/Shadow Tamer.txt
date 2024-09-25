@@ -1,0 +1,17 @@
+Shadow Tamer
+Card Type: Flip Effect Monster
+
+Description: (This card is always treated as an "Archfiend" card.)
+FLIP: Target 1 Fiend-Type monster your opponent controls; take control of that target until the End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 700
+Archetype: Archfiend
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack

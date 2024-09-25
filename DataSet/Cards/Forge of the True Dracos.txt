@@ -1,0 +1,15 @@
+Forge of the True Dracos
+Card Type: Spell Card
+
+Description: If a "Dracoslayer" monster, that is not a Pendulum Monster, and a "Dracoverlord" monster are on the field: Shuffle as many cards on the field as possible into the Deck, then you can Special Summon 1 "Dracoslayer" or "Dracoverlord" monster from your Deck, ignoring its Summoning conditions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dracoslayer
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Breakers of Shadow: Special Edition
+- Shining Victories

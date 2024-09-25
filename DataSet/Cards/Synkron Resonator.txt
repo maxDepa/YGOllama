@@ -1,0 +1,15 @@
+Synkron Resonator
+Card Type: Tuner Monster
+
+Description: If a Synchro Monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon "Synkron Resonator" once per turn this way. If this card is sent from the field to the Graveyard: You can target 1 "Resonator" monster in your Graveyard, except "Synkron Resonator"; add it to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Resonator
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- High-Speed Riders
+- Structure Deck: The Crimson King

@@ -1,0 +1,26 @@
+Maha Vailo
+Card Type: Effect Monster
+
+Description: This card gains 500 ATK for each Equip Card equipped to this card.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1550
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 5a
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Saber Force Starter Deck
+- Speed Duel: Battle City Box
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Joey

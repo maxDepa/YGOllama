@@ -1,0 +1,15 @@
+Contrast HERO Chaos
+Card Type: Fusion Monster
+
+Description: 2 "Masked HERO" monsters
+(This card is always treated as an "Elemental HERO" card.)
+Must be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. Once per turn, during either player's turn: You can target 1 face-up card on the field; negate that target's effects until the end of this turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 9
+Attack: 3000
+Defence: 2600
+Archetype: Elemental HERO
+Present in Sets:
+- HERO Strike Structure Deck

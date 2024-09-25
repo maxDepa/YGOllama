@@ -1,0 +1,14 @@
+Awakening of the Possessed
+Card Type: Spell Card
+
+Description: Monsters you control gain 300 ATK for each different Attribute you control. "Charmer" and "Familiar-Possessed" monsters you control cannot be destroyed by card effects. If a Spellcaster monster(s) with 1850 original ATK is Normal or Special Summoned to your field: Draw 1 card. You can only use this effect of "Awakening of the Possessed" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Charmer
+Present in Sets:
+- Duel Overload
+- Structure Deck: Spirit Charmers

@@ -1,0 +1,19 @@
+Jowgen the Spiritualist
+Card Type: Effect Monster
+
+Description: You can discard 1 random card from your hand to the Graveyard; destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 200
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Duelists: Season 3
+- Tournament Pack 5

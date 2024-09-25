@@ -1,0 +1,15 @@
+Twin-Headed Fire Dragon
+Card Type: Normal Monster
+
+Description: Two dragons fused as one from the effects of the Big Bang.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2200
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

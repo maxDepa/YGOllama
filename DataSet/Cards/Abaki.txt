@@ -1,0 +1,14 @@
+Abaki
+Card Type: Effect Monster
+
+Description: When this card is destroyed and sent to the Graveyard by battle, both players take 500 damage.
+
+Type: Fiend
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Starter Deck: Syrus Truesdale

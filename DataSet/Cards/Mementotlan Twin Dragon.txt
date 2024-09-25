@@ -1,0 +1,14 @@
+Mementotlan Twin Dragon
+Card Type: Fusion Monster
+
+Description: 2 "Memento" monsters
+Any monster destroyed by battle with your "Memento" monster is banished. You can only use each of the following effects of "Mementotlan Twin Dragon" once per turn. If this card is Fusion Summoned: You can destroy 1 "Memento" monster in your hand or face-up field, and if you do, add up to 2 "Memento" monsters with different names from your Deck to your hand. If this Fusion Summoned card is destroyed: You can Special Summon 1 Level 6 or lower "Memento" monster from your GY.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 2100
+Archetype: Memento
+Present in Sets:
+- Legacy of Destruction

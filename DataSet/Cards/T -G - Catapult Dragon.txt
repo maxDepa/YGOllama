@@ -1,0 +1,14 @@
+T.G. Catapult Dragon
+Card Type: Effect Monster
+
+Description: Once per turn: You can Special Summon 1 Level 3 or lower "T.G." Tuner monster from your hand.
+
+Type: Dragon
+Attribute: EARTH
+Level: 2
+Attack: 900
+Defence: 1300
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

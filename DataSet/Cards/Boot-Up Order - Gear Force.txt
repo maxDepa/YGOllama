@@ -1,0 +1,13 @@
+Boot-Up Order - Gear Force
+Card Type: Trap Card
+
+Description: When either player's monster declares an attack and all monsters you control are face-up Machine monsters (min. 1): Destroy Attack Position monsters your opponent controls, up to the number of Machine monsters you control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Boot-Up
+Present in Sets:
+- Fists of the Gadgets

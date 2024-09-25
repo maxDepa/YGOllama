@@ -1,0 +1,14 @@
+Beetrooper Scale Bomber
+Card Type: Effect Monster
+
+Description: If an Insect monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. When a monster your opponent controls activates its effect (Quick Effect): You can Tribute 1 Insect monster; destroy it. You can only use each effect of "Beetrooper Scale Bomber" once per turn.
+
+Type: Insect
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 2000
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

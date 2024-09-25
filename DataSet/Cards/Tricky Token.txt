@@ -1,0 +1,12 @@
+Tricky Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Tricky Spell 4". This Token cannot declare an attack.
+
+Type: Spellcaster
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

@@ -1,0 +1,16 @@
+Golden Ladybug
+Card Type: Effect Monster
+
+Description: During your Standby Phase: You can reveal this card in your hand, and it will remain revealed until the end of this turn; gain 500 LP.
+
+Type: Insect
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 3
+- Light of Destruction
+- Speed Duel Tournament Pack 3
+- Speed Duel: Trials of the Kingdom

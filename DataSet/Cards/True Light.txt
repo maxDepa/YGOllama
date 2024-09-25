@@ -1,0 +1,15 @@
+True Light
+Card Type: Trap Card
+
+Description: Your opponent cannot target "Blue-Eyes White Dragon" in your Monster Zone with card effects. If this face-up card is sent from the Spell & Trap Zone to the GY: Destroy all monsters you control. You can only use the following effect of "True Light" once per turn. You can activate 1 of these effects;
+● Special Summon 1 "Blue-Eyes White Dragon" from your hand or GY.
+● Set 1 Spell/Trap directly from your Deck, that specifically lists "Blue-Eyes White Dragon" in its text, with a different name from the cards you control and in your GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- 2021 Tin of Ancient Battles

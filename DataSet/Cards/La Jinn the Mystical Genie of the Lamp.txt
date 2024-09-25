@@ -1,0 +1,27 @@
+La Jinn the Mystical Genie of the Lamp
+Card Type: Normal Monster
+
+Description: A genie of the lamp that is at the beck and call of its master.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Legends
+- Demo Deck 2015
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- McDonald's Promotional Cards 2
+- Millennium Pack
+- Retro Pack
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Kaiba Reloaded

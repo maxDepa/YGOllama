@@ -1,0 +1,12 @@
+Clear Wall
+Card Type: Spell Card
+
+Description: If "Clear World" is on the field: You can add 1 monster from your Deck to your hand that mentions it. You can only use this effect of "Clear Wall" once per turn. Monsters that mention "Clear World" cannot be destroyed by battle, also you take no battle damage from battles involving them. While you control a Level 7 or higher monster that mentions "Clear World", all effects of "Clear World" are applied to your opponent regardless of the Attributes they control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Clear
+Present in Sets:

@@ -1,0 +1,17 @@
+El Shaddoll Shekhinaga
+Card Type: Fusion Monster
+
+Description: 1 "Shaddoll" monster + 1 EARTH monster
+Must first be Fusion Summoned. When a Special Summoned monster activates its effect while you have a "Shaddoll" card in your hand (Quick Effect): You can negate the activation, and if you do, destroy that monster, then send 1 "Shaddoll" card from your hand to the GY. You can only use this effect of "El Shaddoll Shekhinaga" once per turn. If this card is sent to the GY: You can target 1 "Shaddoll" Spell/Trap in your GY; add it to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 2600
+Defence: 3000
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Structure Deck: Shaddoll Showdown
+- The New Challengers
+- The New Challengers

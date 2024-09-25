@@ -1,0 +1,15 @@
+Bitrooper
+Card Type: Effect Monster
+
+Description: You can send 1 Level 2 or lower monster from your hand to the GY; Special Summon this card from your hand. You can only use this effect of "Bitrooper" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force
+- Starter Deck: Codebreaker

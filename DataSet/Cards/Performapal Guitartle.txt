@@ -1,0 +1,19 @@
+Performapal Guitartle
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a "Performapal" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of "Performapal Guitartle" once per turn.
+
+[ Monster Effect ] 
+Once per turn: You can target 1 card in your Pendulum Zone; increase its Pendulum Scale by 2 until the end of this turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 400
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- OTS Tournament Pack 1

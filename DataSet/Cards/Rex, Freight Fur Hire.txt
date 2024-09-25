@@ -1,0 +1,14 @@
+Rex, Freight Fur Hire
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Spell/Trap "Fur Hire" from your Deck to your hand. During the Main Phase, if you control a monster "Fur Hire" (Quick Effect): You can banish this card from your GY, then target 1 card "Fur Hire" in your GY; either add it to your hand, or Special Summon it if it was a monster. You can only use each effect of "Rex, Freight Fur Hire" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 200
+Archetype: Fur Hire
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

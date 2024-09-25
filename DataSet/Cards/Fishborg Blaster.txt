@@ -1,0 +1,14 @@
+Fishborg Blaster
+Card Type: Tuner Monster
+
+Description: If you control a face-up Level 3 or lower WATER monster: You can discard 1 card; Special Summon this card from your Graveyard. If this card is used as a Synchro Material Monster, all other Synchro Material Monsters must be WATER.
+
+Type: Fish
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 200
+Archetype: Fishborg
+Present in Sets:
+- Ancient Prophecy
+- Turbo Pack: Booster Six

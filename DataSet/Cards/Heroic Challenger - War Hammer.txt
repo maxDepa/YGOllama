@@ -1,0 +1,14 @@
+Heroic Challenger - War Hammer
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip the destroyed monster to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains ATK equal to that equipped monster's ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2100
+Defence: 1300
+Archetype: Heroic
+Present in Sets:
+- OTS Tournament Pack 19 (POR)
+- Return of the Duelist

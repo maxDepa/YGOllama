@@ -1,0 +1,18 @@
+Abyss Actor - Curtain Raiser
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of "Abyss Actor - Curtain Raiser" once per Duel.
+
+[ Monster Effect ] 
+Gains 1100 ATK if you control no other monsters. Once per turn: You can send 1 "Abyss Script" Spell from your Deck to the GY; add 1 face-up "Abyss Actor" Pendulum Monster from your Extra Deck to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 1000
+Archetype: Abyss Actor
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- OTS Tournament Pack 21

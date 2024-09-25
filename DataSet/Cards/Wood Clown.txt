@@ -1,0 +1,12 @@
+Wood Clown
+Card Type: Normal Monster
+
+Description: A creature with a wicked smile and a lethal sickle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: //
+Present in Sets:

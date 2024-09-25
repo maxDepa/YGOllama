@@ -1,0 +1,12 @@
+Doriado
+Card Type: Normal Monster
+
+Description: A spirit of the forest powered by the surrounding trees and wildlife.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: Doriado
+Present in Sets:

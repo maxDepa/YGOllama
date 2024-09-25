@@ -1,0 +1,14 @@
+Worm Linx
+Card Type: Flip Effect Monster
+
+Description: FLIP: During each End Phase, if this card is face-up, draw 1 card.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 2
+Attack: 300
+Defence: 1000
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

@@ -1,0 +1,13 @@
+Vain Betrayer
+Card Type: Trap Card
+
+Description: When an opponent's Xyz Monster declares an attack: Activate this card by targeting the attacking monster. It cannot attack, also its effects are negated. While that monster is on the field, during each of your opponent's End Phases: Send the top 3 cards of the opponent's Deck to the Graveyard. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

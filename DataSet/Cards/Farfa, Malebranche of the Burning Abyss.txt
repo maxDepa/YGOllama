@@ -1,0 +1,17 @@
+Farfa, Malebranche of the Burning Abyss
+Card Type: Effect Monster
+
+Description: If you control a monster that is not a "Burning Abyss" monster, destroy this card. You can only use 1 of these effects of "Farfa, Malebranche of the Burning Abyss" per turn, and only once that turn.
+● If you control no Spell/Trap Cards: You can Special Summon this card from your hand.
+● If this card is sent to the Graveyard: You can target 1 monster on the field; banish it until the End Phase.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1900
+Archetype: Burning Abyss
+Present in Sets:
+- Premium Gold: Infinite Gold
+- Secrets of Eternity
+- Structure Deck: Sacred Beasts

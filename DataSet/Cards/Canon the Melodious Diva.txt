@@ -1,0 +1,14 @@
+Canon the Melodious Diva
+Card Type: Effect Monster
+
+Description: If you control a "Melodious" monster, you can Special Summon this card (from your hand). You can only Special Summon "Canon the Melodious Diva" once per turn this way. Once per turn: You can target 1 "Melodious" monster you control; change its battle position.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 2000
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

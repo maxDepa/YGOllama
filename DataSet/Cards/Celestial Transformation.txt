@@ -1,0 +1,16 @@
+Celestial Transformation
+Card Type: Spell Card
+
+Description: Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Lost Sanctuary Structure Deck
+- Structure Deck: Wave of Light

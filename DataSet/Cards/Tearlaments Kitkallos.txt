@@ -1,0 +1,14 @@
+Tearlaments Kitkallos
+Card Type: Fusion Monster
+
+Description: 1 "Tearlaments" monster + 1 Aqua monster
+If this card is Special Summoned: You can take 1 "Tearlaments" card from your Deck, and either add it to your hand or send it to the GY. You can target 1 monster you control; Special Summon 1 "Tearlaments" monster from your hand or GY, and if you do, send the targeted monster to the GY. If this card is sent to the GY by card effect: You can send the top 5 cards of your Deck to the GY. You can only use each effect of "Tearlaments Kitkallos" once per turn.
+
+Type: Aqua
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 1200
+Archetype: Tearlaments
+Present in Sets:
+- Power of the Elements

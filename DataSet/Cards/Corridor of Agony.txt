@@ -1,0 +1,13 @@
+Corridor of Agony
+Card Type: Spell Card
+
+Description: Monsters that were Special Summoned from the Main Deck cannot activate their effects, their effects are negated, and they cannot declare an attack, as long as they remain face-up on the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Shining Darkness

@@ -1,0 +1,13 @@
+Prime Material Falcon
+Card Type: Effect Monster
+
+Description: When an Effect Monster's effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Crimson Crisis

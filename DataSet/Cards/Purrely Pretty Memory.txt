@@ -1,0 +1,17 @@
+Purrely Pretty Memory
+Card Type: Spell Card
+
+Description: Each player gains 1000 LP, then you can apply the following effect.
+ ● Discard 1 card, and if you do, Special Summon 1 Level 1 "Purrely" monster from your Deck.
+A "Purrely" Xyz Monster that has this card as material gains the following effect.
+● Once per turn: You can send 1 other card you control to the GY, then target 1 card your opponent controls; attach it to this card as material.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Purrely
+Present in Sets:
+- Amazing Defenders
+- Amazing Defenders

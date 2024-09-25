@@ -1,0 +1,19 @@
+Performapal Odd-Eyes Dissolver
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, during your Main Phase: You can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.
+
+[ Monster Effect ] 
+At the start of the Damage Step, if your Pendulum Monster battles an opponent's monster: You can Special Summon this card from your hand, and if you do, your monster cannot be destroyed by that battle. You can only use this effect of "Performapal Odd-Eyes Dissolver" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones, including this card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2000
+Defence: 2600
+Archetype: Odd-Eyes
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)

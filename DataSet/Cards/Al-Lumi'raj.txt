@@ -1,0 +1,14 @@
+Al-Lumi'raj
+Card Type: Tuner Monster
+
+Description: All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.
+
+Type: Wyrm
+Attribute: WIND
+Level: 3
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

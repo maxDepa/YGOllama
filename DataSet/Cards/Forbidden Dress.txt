@@ -1,0 +1,21 @@
+Forbidden Dress
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; until the end of this turn, that target loses 600 ATK, but cannot be targeted or destroyed by other card effects.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Forbidden
+Present in Sets:
+- Abyss Rising
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Hero Decks
+- Master of Pendulum Structure Deck
+- Premium Gold

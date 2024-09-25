@@ -1,0 +1,25 @@
+Ultimate Offering
+Card Type: Trap Card
+
+Description: During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; immediately after this effect resolves, Normal Summon/Set 1 monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Duel Terminal 3
+- Duelist League 13 participation cards
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Structure Deck: Invincible Fortress
+- Structure Deck: Machine Re-Volt
+- The Lost Art Promotion 2024
+- Tournament Pack 8

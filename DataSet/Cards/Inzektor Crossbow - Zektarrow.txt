@@ -1,0 +1,13 @@
+Inzektor Crossbow - Zektarrow
+Card Type: Spell Card
+
+Description: Equip only to an "Inzektor" monster. It gains 500 ATK. Your opponent cannot activate cards or effects in response to the activation of the equipped monster's effects.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Galactic Overlord

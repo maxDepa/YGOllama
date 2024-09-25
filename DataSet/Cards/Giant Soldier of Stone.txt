@@ -1,0 +1,32 @@
+Giant Soldier of Stone
+Card Type: Normal Monster
+
+Description: A giant warrior made of stone. A punch from this creature has earth-shaking results.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dark Legends
+- Demo Deck 2015
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Battle City Box
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

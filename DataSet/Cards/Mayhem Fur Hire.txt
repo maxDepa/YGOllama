@@ -1,0 +1,14 @@
+Mayhem Fur Hire
+Card Type: Spell Card
+
+Description: Target 1 monster "Fur Hire" in your GY; Special Summon it in Defense Position. You can only activate 1 "Mayhem Fur Hire" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fur Hire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

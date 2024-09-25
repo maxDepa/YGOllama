@@ -1,0 +1,13 @@
+Release, Reverse, Burst
+Card Type: Trap Card
+
+Description: Tribute 1 "Utopia" monster; destroy all Set Spell and Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Legacy of the Valiant

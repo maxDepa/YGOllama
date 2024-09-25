@@ -1,0 +1,18 @@
+Supercharge
+Card Type: Trap Card
+
+Description: When your opponent declares an attack while the only monsters you control are Machine-Type "roid" monster(s): Draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Roid
+Present in Sets:
+- Duelist League 16 participation cards
+- High-Speed Riders
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

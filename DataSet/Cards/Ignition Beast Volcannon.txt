@@ -1,0 +1,14 @@
+Ignition Beast Volcannon
+Card Type: Fusion Monster
+
+Description: 1 Machine-Type monster + 1 Pyro-Type monster
+When this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy that target, also destroy this card, then if both monsters were destroyed, inflict damage to your opponent equal to the ATK of the monster in the Graveyard that was targeted by this effect.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

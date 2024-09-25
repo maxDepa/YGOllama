@@ -1,0 +1,13 @@
+Generaider Boss Room
+Card Type: Trap Card
+
+Description: When your opponent activates a card or effect in response to the activation of your "Generaider" card or effect: You can discard 1 card; your opponent's activated effect becomes "each player draws 1 card". You can only use this effect of "Generaider Boss Room" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Generaider
+Present in Sets:
+- Mystic Fighters

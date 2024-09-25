@@ -1,0 +1,18 @@
+Friller Rabca
+Card Type: Effect Monster
+
+Description: When a Fish, Sea Serpent, or Aqua-Type monster you control is targeted for an attack: You can banish this card from your Graveyard, then target the attacking monster; negate the attack, and if you do, that target loses 500 ATK until the end of the next turn. You can only use this effect of "Friller Rabca" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Photon Shockwave
+- Realm of the Sea Emperor Structure Deck
+- Star Pack 2013
+- Star Pack 2013

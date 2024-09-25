@@ -1,0 +1,14 @@
+Cybernetic Hidden Technology
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: You can send to the Graveyard 1 "Cyber Dragon" you control, or 1 Fusion Monster you control that lists "Cyber Dragon" as a Fusion Material Monster, then target the attacking monster; destroy that target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Dragon
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Phantom Darkness

@@ -1,0 +1,13 @@
+Arcana Force III - The Empress
+Card Type: Effect Monster
+
+Description: When this card is Summoned, toss a coin: ● Heads: Each time your opponent Normal Summons or Sets a monster, you can Special Summon 1 "Arcana Force" monster from your hand. ● Tails: Each time your opponent Normal Summons or Sets a monster, send 1 card from your hand to the Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction

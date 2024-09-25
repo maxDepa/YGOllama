@@ -1,0 +1,15 @@
+Buster Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+All monsters your opponent controls become Dragon-Type. Once per turn, if you do not control a "Buster Blader" monster: You can target 1 "Buster Blader" in your Graveyard; Special Summon it. Once per turn, during your opponent's turn: You can target 1 "Buster Blader" monster you control; equip it with 1 "Destruction Sword" monster from your Graveyard (this is a Quick Effect).
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 1200
+Defence: 2800
+Archetype: Destruction Sword
+Present in Sets:
+- Breakers of Shadow
+- Ghosts From the Past

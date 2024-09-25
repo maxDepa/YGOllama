@@ -1,0 +1,14 @@
+Royal Prison
+Card Type: Trap Card
+
+Description: Monsters cannot be Special Summoned from the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- Order of Chaos

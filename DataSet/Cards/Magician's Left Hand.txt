@@ -1,0 +1,15 @@
+Magician's Left Hand
+Card Type: Spell Card
+
+Description: Negate the effect of your opponent's first Trap Card or effect that resolves each turn while you control a Spellcaster monster, and if you do, destroy that card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis
+- The Infinity Chasers

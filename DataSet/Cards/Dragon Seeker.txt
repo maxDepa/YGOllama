@@ -1,0 +1,15 @@
+Dragon Seeker
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned or Flip Summoned, destroy 1 face-up Dragon-Type monster on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Tournament Pack 4
+- Tournament Pack: 2nd Season

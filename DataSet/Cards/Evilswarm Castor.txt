@@ -1,0 +1,14 @@
+Evilswarm Castor
+Card Type: Effect Monster
+
+Description: During the turn this card was Normal Summoned, you can Normal Summon 1 "lswarm" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1750
+Defence: 550
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

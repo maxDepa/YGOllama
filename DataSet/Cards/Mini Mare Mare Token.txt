@@ -1,0 +1,12 @@
+Mini Mare Mare Token
+Card Type: Token
+
+Description: }}
+
+Type: Wyrm
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

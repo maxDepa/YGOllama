@@ -1,0 +1,17 @@
+Svartalf of the Nordic Alfar
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Nordic" monster in your GY; add that target to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 1400
+Defence: 1600
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Star Pack 2014
+- Star Pack 2014
+- Storm of Ragnarok

@@ -1,0 +1,13 @@
+Ancient Crimson Ape
+Card Type: Effect Monster
+
+Description: When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.
+
+Type: Beast
+Attribute: LIGHT
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

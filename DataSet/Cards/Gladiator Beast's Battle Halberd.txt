@@ -1,0 +1,13 @@
+Gladiator Beast's Battle Halberd
+Card Type: Spell Card
+
+Description: Equip only to a "Gladiator Beast" monster. When it attacks, destroy 1 Spell or Trap Card at the end of the Damage Step. When the equipped monster is returned from your side of the field to the Deck and this card is sent to the Graveyard, return this card to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault

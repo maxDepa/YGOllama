@@ -1,0 +1,15 @@
+Daigusto Eguls
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "Gusto" monsters
+Once per turn, during your End Phase: You can banish 1 WIND monster from your Graveyard to target 1 face-down card your opponent controls; destroy that target.
+
+Type: Psychic
+Attribute: WIND
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

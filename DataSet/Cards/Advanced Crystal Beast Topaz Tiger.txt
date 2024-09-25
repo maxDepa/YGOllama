@@ -1,0 +1,14 @@
+Advanced Crystal Beast Topaz Tiger
+Card Type: Effect Monster
+
+Description: If "Advanced Dark" is not in a Field Zone, send this monster to the GY. All "Advanced Crystal Beast" monsters you control gain 400 ATK/DEF, also monsters your opponent controls lose 400 ATK/DEF. If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Advanced Crystal Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Battles of Legend: Crystal Revenge

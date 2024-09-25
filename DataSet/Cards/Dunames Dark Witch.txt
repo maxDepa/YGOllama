@@ -1,0 +1,16 @@
+Dunames Dark Witch
+Card Type: Normal Monster
+
+Description: Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1050
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Battle City Box
+- Tournament Pack 8
+- Turbo Pack: Booster Four

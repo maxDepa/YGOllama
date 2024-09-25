@@ -1,0 +1,15 @@
+Demise of the Land
+Card Type: Spell Card
+
+Description: Activate only when your opponent Special Summons a monster. Select 1 Field Spell Card from your Deck and activate it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)

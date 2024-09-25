@@ -1,0 +1,18 @@
+Princess of Tsurugi
+Card Type: Flip Effect Monster
+
+Description: FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck 2006
+- Starter Deck: Joey

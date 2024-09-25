@@ -1,0 +1,13 @@
+Head Judging
+Card Type: Trap Card
+
+Description: When a monster on the field activates its effect: You can make the activating player toss a coin and call it. If they call it right, send this card to the GY. If they call it wrong, negate that effect's activation, and if you do, change control of that monster to their opponent. You can only use this effect of "Head Judging" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ignition Assault

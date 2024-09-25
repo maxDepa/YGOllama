@@ -1,0 +1,13 @@
+Gigantic Cephalotus
+Card Type: Effect Monster
+
+Description: This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1850
+Defence: 700
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

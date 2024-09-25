@@ -1,0 +1,18 @@
+Blast Held by a Tribute
+Card Type: Trap Card
+
+Description: When an opponent's monster that was Tribute Summoned declares an attack: Destroy as many face-up Attack Position monsters they control as possible, and if you do, inflict 1000 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duel Terminal 5b
+- Duelist Pack: Rivals of the Pharaoh
+- Speed Duel Starter Decks: Destiny Masters

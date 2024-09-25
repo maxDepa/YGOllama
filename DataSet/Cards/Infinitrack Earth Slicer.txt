@@ -1,0 +1,17 @@
+Infinitrack Earth Slicer
+Card Type: XYZ Monster
+
+Description: 2 Level 9 monsters
+When this card destroys an opponent's monster by battle: You can attach that monster to this card as material. You can only use each of the following effects of "Infinitrack Earth Slicer" once per turn.
+● You can detach any number of materials from this card, then target that many cards on the field; destroy them.
+● If this card is in your GY: You can Tribute 1 Machine Link Monster; Special Summon this card in Defense Position.
+
+Type: Machine
+Attribute: EARTH
+Level: 9
+Attack: 3100
+Defence: 2100
+Archetype: Infinitrack
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

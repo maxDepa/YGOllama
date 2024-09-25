@@ -1,0 +1,14 @@
+Zushin the Sleeping Giant
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing a monster you control with 10 Zushin Counters, and cannot be Special Summoned by other ways. Once per turn: You can reveal this card in your hand, then target 1 Level 1 Normal Monster you control (keep this card revealed until the end of this turn); place 1 Zushin Counter on it. Unaffected by other cards' effects. If this card battles a monster, during damage calculation: ATK and DEF of this card become equal to the current ATK of the monster it is battling +1000, during that damage calculation only.
+
+Type: Warrior
+Attribute: EARTH
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

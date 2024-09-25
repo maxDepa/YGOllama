@@ -1,0 +1,15 @@
+Supervise
+Card Type: Spell Card
+
+Description: Equip only to a Gemini monster. It becomes an Effect Monster, and gains its effects. If this face-up card is sent from the field to the GY: Target 1 Normal Monster in your GY; Special Summon it.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Decks II
+- Toon Chaos
+- Warriors' Strike Structure Deck

@@ -1,0 +1,18 @@
+Dragunity Legionnaire
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon "Dragunity" monster in your GY; equip that target to this card. You can send 1 "Dragunity" card from your Spell & Trap Zone to the GY, then target 1 face-up monster your opponent controls; destroy that target.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection Kaiba Mega Pack

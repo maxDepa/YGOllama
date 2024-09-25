@@ -1,0 +1,14 @@
+Cards from the Sky
+Card Type: Spell Card
+
+Description: Banish 1 LIGHT Fairy monster in your hand, and if you do, draw 2 cards. You cannot Special Summon or conduct your Battle Phase the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Lost Sanctuary Structure Deck
+- Structure Deck: Wave of Light

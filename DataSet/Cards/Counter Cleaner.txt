@@ -1,0 +1,14 @@
+Counter Cleaner
+Card Type: Spell Card
+
+Description: Pay 500 Life Points. Remove all counters from the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Speed Duel GX: Duelists of Shadows

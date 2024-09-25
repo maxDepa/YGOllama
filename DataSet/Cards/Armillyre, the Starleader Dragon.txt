@@ -1,0 +1,14 @@
+Armillyre, the Starleader Dragon
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+Cannot be used as Link Material. You can target 1 face-up monster this card points to; Special Summon 1 monster with the same original Level from your hand to your zone this card points to, in Defense Position, but negate its effects. You can only use this effect of "Armillyre, the Starleader Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Overload

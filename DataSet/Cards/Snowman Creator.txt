@@ -1,0 +1,13 @@
+Snowman Creator
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can create a number of Ice Counters equal to the number of WATER monsters you control, place them on a face-up monster(s) your opponent controls, then, if you placed 3 or more Ice Counters by this effect, you can destroy 1 card your opponent controls.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Abyss Rising

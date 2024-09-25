@@ -1,0 +1,16 @@
+Cyber Summon Blaster
+Card Type: Trap Card
+
+Description: Each time a Machine monster(s) is Special Summoned, while this card is already face-up in your Spell & Trap Zone: Inflict 300 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League 18 participation cards
+- Power of the Duelist
+- Power of the Duelist
+- Structure Deck: Mechanized Madness

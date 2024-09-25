@@ -1,0 +1,13 @@
+Sky Striker Maneuver - Vector Blast
+Card Type: Spell Card
+
+Description: If you control no monsters in your Main Monster Zone: Each player sends the top 2 cards of their Deck to the GY (or as many as possible, if less than 2), then, if you sent at least 1 card to the GY, and have 3 or more Spells in your GY, you can shuffle all your opponent's monsters from the Extra Monster Zones into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- Soul Fusion

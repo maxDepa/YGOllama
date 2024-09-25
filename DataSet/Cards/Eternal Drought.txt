@@ -1,0 +1,13 @@
+Eternal Drought
+Card Type: Spell Card
+
+Description: Destroy all face-up Fish-Type monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition

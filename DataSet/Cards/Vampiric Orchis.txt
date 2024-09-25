@@ -1,0 +1,15 @@
+Vampiric Orchis
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Des Dendle" from your hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Dark Saviors
+- Magician's Force

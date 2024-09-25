@@ -1,0 +1,14 @@
+Reverse of Neos
+Card Type: Spell Card
+
+Description: Activate only when a face-up "Neos" Fusion Monster you control is destroyed. Special Summon 1 "Elemental Hero Neos" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Tactical Evolution

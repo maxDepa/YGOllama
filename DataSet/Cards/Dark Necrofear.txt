@@ -1,0 +1,29 @@
+Dark Necrofear
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2200
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Five
+- Dark Beginning 2
+- Dark Beginning 2
+- Duel Terminal 2
+- Duelist League Series 2 participation cards
+- Duelist League Series 2 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Rivals of the Pharaoh
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 3: Yugi's World
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Master Collection Volume 1
+- Retro Pack 2
+- Speed Duel Starter Decks: Twisted Nightmares

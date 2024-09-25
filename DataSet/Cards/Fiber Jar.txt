@@ -1,0 +1,17 @@
+Fiber Jar
+Card Type: Flip Effect Monster
+
+Description: FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack

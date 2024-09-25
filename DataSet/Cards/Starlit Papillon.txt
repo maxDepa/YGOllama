@@ -1,0 +1,15 @@
+Starlit Papillon
+Card Type: Spell Card
+
+Description: Equip only to a monster you control. You can only control 1 "Starlit Papillon". Monsters your opponent controls lose 500 ATK for each monster you control with a different name that mentions "Adventurer Token". If this card is sent to the GY: You can target 1 "Adventurer Token" you control; equip this card to that target. You can only use this effect of "Starlit Papillon" once per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Adventurer Token
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battles of Legend: Monstrous Revenge
+- The Grand Creators

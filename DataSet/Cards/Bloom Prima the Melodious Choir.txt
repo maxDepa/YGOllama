@@ -1,0 +1,16 @@
+Bloom Prima the Melodious Choir
+Card Type: Fusion Monster
+
+Description: 1 "Melodious Maestra" monster + 1 or more "Melodious" monsters
+This card gains 300 ATK for each Fusion Material used for its Fusion Summon. This card can make a second attack during each Battle Phase. If this Fusion Summoned card is sent to the Graveyard: You can target 1 "Melodious" monster in your Graveyard; add it to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 1900
+Defence: 2000
+Archetype: Melodious
+Present in Sets:
+- Shining Victories
+- Star Pack Battle Royal
+- Star Pack Battle Royal

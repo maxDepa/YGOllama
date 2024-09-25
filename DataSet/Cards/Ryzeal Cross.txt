@@ -1,0 +1,12 @@
+Ryzeal Cross
+Card Type: Spell Card
+
+Description: You cannot Xyz Summon monsters with the same name as a card you control. You can target 2 "Ryzeal" cards in your GY, except "Ryzeal Cross"; place them on the bottom of the Deck in any order, then draw 1 card. You can only use this effect of "Ryzeal Cross" once per turn. Once per turn, when an opponent's activated monster effect resolves, you can detach 1 material from a "Ryzeal" Xyz Monster you control, and if you do, negate that effect.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ryzeal
+Present in Sets:

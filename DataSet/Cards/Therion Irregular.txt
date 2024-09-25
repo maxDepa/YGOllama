@@ -1,0 +1,14 @@
+Therion Irregular
+Card Type: Effect Monster
+
+Description: You can target up to 3 "Therion" monsters in your GY; Special Summon this card from your hand, and if you do, equip them to this card. You can discard 1 "Endless Engine Argyro System"; destroy all cards your opponent controls. While this card is equipped to a monster: You can Special Summon this card, then equip the monster this card was equipped to, to this card. You can only use each effect of "Therion Irregular" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 10
+Attack: 1600
+Defence: 2800
+Archetype: Therion
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

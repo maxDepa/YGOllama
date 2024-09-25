@@ -1,0 +1,15 @@
+Curse of Royal
+Card Type: Trap Card
+
+Description: Negate the activation and the effect of a Spell or Trap Card that includes the effect of destroying 1 Spell or Trap Card and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian
+- Tournament Pack 5

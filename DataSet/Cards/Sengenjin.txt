@@ -1,0 +1,16 @@
+Sengenjin
+Card Type: Normal Monster
+
+Description: An unstoppable savage that carries Millennium Items.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2750
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)
+- Yu-Gi-Oh! World Championship 2004 prize cards

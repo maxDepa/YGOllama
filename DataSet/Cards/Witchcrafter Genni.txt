@@ -1,0 +1,15 @@
+Witchcrafter Genni
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can Tribute this card and discard 1 Spell; Special Summon 1 "Witchcrafter" monster from your Deck, except "Witchcrafter Genni". You can banish this card and 1 "Witchcrafter" Spell from your GY; this effect becomes that Spell's effect when that card is activated. You can only use each effect of "Witchcrafter Genni" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 1
+Attack: 300
+Defence: 500
+Archetype: Witchcrafter
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault
+- Magnificent Mavens

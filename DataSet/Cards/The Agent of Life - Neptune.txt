@@ -1,0 +1,13 @@
+The Agent of Life - Neptune
+Card Type: Effect Monster
+
+Description: You can discard this card; Special Summon 1 "The Agent" monster from your hand or GY, except "The Agent of Life - Neptune", or, if "The Sanctuary in the Sky" is on the field or in either GY, you can Special Summon 1 "Hyperion" monster instead. Neither player can Tribute a monster Summoned with this effect, until the end of your opponent's turn. If this card is banished: You can add 1 "The Sanctuary in the Sky" from your Deck to your hand. You can only use each effect of "The Agent of Life - Neptune" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 600
+Archetype: The Agent
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

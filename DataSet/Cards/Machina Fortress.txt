@@ -1,0 +1,18 @@
+Machina Fortress
+Card Type: Effect Monster
+
+Description: You can discard Machine monster(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand or GY). If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target. Before resolving an opponent's monster effect that targets this face-up card, look at your opponent's hand and discard 1 card from their hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 7
+Attack: 2500
+Defence: 1600
+Archetype: Machina
+Present in Sets:
+- Astral Pack Six
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Legendary Dragon Decks
+- Machina Mayhem Structure Deck
+- Structure Deck: Mechanized Madness

@@ -1,0 +1,18 @@
+VW-Tiger Catapult
+Card Type: Fusion Monster
+
+Description: "V-Tiger Jet" + "W-Wing Catapult"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use "Polymerization".) You can discard 1 card, then target 1 monster your opponent controls; change that target's battle position. (Flip Effects are not activated.)
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2000
+Defence: 2100
+Archetype: ABC
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- Legendary Collection Kaiba Mega Pack
+- Speed Duel GX: Duel Academy Box

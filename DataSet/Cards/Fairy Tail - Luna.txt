@@ -1,0 +1,18 @@
+Fairy Tail - Luna
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 Spellcaster monster with 1850 ATK from your Deck to your hand. Once per turn (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent can send 1 card with that monster's name from their Deck or Extra Deck to the GY to negate this effect, otherwise return both this card and that monster to the hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1850
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Maximum Crisis
+- OTS Tournament Pack 5
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Spirit Charmers

@@ -1,0 +1,14 @@
+Ultimate Flame Swordsman
+Card Type: Fusion Monster
+
+Description: "Flame Swordsman" + "Fighting Flame Dragon"
+You can target 1 monster your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. This is a Quick Effect if this card is equipped with an Equip Card. At the start of the Damage Step, if this card battles: You can double this card's ATK until the end of this turn, but if you do, destroy it during the End Phase of this turn. You can only use each effect of "Ultimate Flame Swordsman" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 1600
+Archetype: Flame Swordsman
+Present in Sets:
+- Maze of Millennia

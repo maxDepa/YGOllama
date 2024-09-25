@@ -1,0 +1,22 @@
+Mamonaka the Vaylantz United
+Card Type: Pendulum Effect Fusion Monster
+
+Description: [ Pendulum Effect ] 
+You can activate 1 of these effects;
+● Special Summon this card to your Main Monster Zone in its same column.
+● Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.
+You can only use this effect of "Mamonaka the Vaylantz United" once per turn.
+
+[ Monster Effect ] 
+3 "Vaylantz" monsters
+During the Main Phase (Quick Effect): You can target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up as a Continuous Spell in their Spell & Trap Zone in its same column. (If the zone is occupied, destroy the occupying card, and if it is a Monster Card, your opponent loses LP equal to its ATK). You can only use this effect of "Mamonaka the Vaylantz United" once per turn. If this Special Summoned card you control is destroyed by your opponent's card effect: You can place this card in your Pendulum Zone.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 10
+Attack: 2800
+Defence: 2800
+Archetype: Vaylantz
+Present in Sets:
+- Tactical Masters
+- Tactical Masters

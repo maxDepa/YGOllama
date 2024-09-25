@@ -1,0 +1,20 @@
+Scrap-Iron Scarecrow
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 7a
+- Duelist League 18 participation cards
+- Duelist Pack Collection Tin 2010
+- Legendary Collection 5D's Mega Pack
+- Spirit Warriors
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Synchron Extreme Structure Deck

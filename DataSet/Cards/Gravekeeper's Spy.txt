@@ -1,0 +1,24 @@
+Gravekeeper's Spy
+Card Type: Flip Effect Monster
+
+Description: FLIP: Special Summon 1 "Gravekeeper's" monster with 1500 or less ATK from your Deck.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 2000
+Archetype: Gravekeeper's
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 1
+- Duel Terminal 6b
+- Duelist League 2 participation cards
+- Gold Series 4: Pyramids Edition
+- King's Court
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Premium Gold
+- Retro Pack 2
+- Structure Deck: Marik (TCG)

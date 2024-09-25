@@ -1,0 +1,13 @@
+Poki Draco
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Poki Draco" from your Deck to your hand.
+
+Type: Dragon
+Attribute: FIRE
+Level: 3
+Attack: 200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Generation Force

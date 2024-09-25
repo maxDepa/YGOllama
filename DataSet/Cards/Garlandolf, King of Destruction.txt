@@ -1,0 +1,14 @@
+Garlandolf, King of Destruction
+Card Type: Ritual Effect Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Ritual of Destruction". When this card is Ritual Summoned, destroy all other face-up monsters on the field with DEF less than or equal to this card's ATK. This card gains 100 ATK for each monster destroyed by this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce

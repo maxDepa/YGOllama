@@ -1,0 +1,14 @@
+Do a Barrel Roll
+Card Type: Trap Card
+
+Description: When a Spell Card, Trap Card, or monster effect is activated: Tribute all "Mecha Phantom Beast Tokens" you control; negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

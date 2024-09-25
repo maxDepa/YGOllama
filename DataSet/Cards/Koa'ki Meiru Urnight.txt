@@ -1,0 +1,14 @@
+Koa'ki Meiru Urnight
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Beast-Warrior-Type monster in your hand. Once per turn, you can reveal 1 "Iron Core of Koa'ki Meiru" in your hand to Special Summon 1 Level 4 or lower "Koa'ki Meiru" monster from your Deck, except "Koa'ki Meiru Urnight".
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 1500
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce

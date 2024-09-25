@@ -1,0 +1,17 @@
+Mystic Swordsman LV2
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 "Mystic Swordsman LV4" from your hand or Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist
+- Soul of the Duelist
+- Structure Deck: Warrior's Triumph

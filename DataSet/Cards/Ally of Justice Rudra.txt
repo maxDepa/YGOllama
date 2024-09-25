@@ -1,0 +1,16 @@
+Ally of Justice Rudra
+Card Type: Effect Monster
+
+Description: If this card battles a LIGHT monster, it gains 700 ATK during the Damage Step only.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1900
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

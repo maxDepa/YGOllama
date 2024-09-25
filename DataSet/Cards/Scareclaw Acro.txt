@@ -1,0 +1,14 @@
+Scareclaw Acro
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) to your Main Monster Zone, adjacent to a "Scareclaw" monster you control or in its column. You can only Special Summon "Scareclaw Acro" once per turn this way. Your "Scareclaw" monsters in the Extra Monster Zone(s) gain 300 ATK for each Defense Position monster you control.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 2000
+Archetype: Scareclaw
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

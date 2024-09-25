@@ -1,0 +1,15 @@
+The Earth - Hex-Sealed Fusion
+Card Type: Effect Monster
+
+Description: You can substitute this card for any 1 Fusion Material Monster, but the other Fusion Material Monster(s) must be correct. You can Tribute Fusion Material Monsters on the field, including this face-up card; Special Summon 1 corresponding EARTH Fusion Monster from your Extra Deck.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Legendary Collection 3: Yugi's World Mega Pack

@@ -1,0 +1,16 @@
+Harpie's Feather Rest
+Card Type: Spell Card
+
+Description: Target 3 "Harpie Lady" and/or "Harpie Lady Sisters" in your GY; shuffle them into the Deck, then draw 1 card. If you controlled a Level 5 or higher "Harpie" monster when you activated this effect, draw 2 cards instead. For the rest of this turn after this card resolves, you cannot Special Summon monsters, except WIND monsters. You can only activate 1 "Harpie's Feather Rest" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 Q

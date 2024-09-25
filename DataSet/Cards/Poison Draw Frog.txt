@@ -1,0 +1,14 @@
+Poison Draw Frog
+Card Type: Effect Monster
+
+Description: When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 100
+Defence: 100
+Archetype: Frog
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

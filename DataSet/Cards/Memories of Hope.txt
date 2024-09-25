@@ -1,0 +1,14 @@
+Memories of Hope
+Card Type: Spell Card
+
+Description: Draw cards equal to the number of "Number" Xyz Monsters with different names you control. You can only activate 1 "Memories of Hope" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

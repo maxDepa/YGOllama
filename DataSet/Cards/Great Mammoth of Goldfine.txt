@@ -1,0 +1,15 @@
+Great Mammoth of Goldfine
+Card Type: Fusion Monster
+
+Description: "The Snake Hair" + "Dragon Zombie"
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Arena of Lost Souls

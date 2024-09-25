@@ -1,0 +1,15 @@
+Meteor Black Comet Dragon
+Card Type: Fusion Monster
+
+Description: 1 Level 7 "Red-Eyes" monster + 1 Level 6 Dragon-Type monster
+If this card is Fusion Summoned: You can send 1 "Red-Eyes" monster from your hand or Deck to the Graveyard, and if you do, inflict damage to your opponent equal to half the original ATK of that monster. If this card is sent from the Monster Zone to the Graveyard: You can target 1 Normal Monster in your Graveyard; Special Summon it.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3500
+Defence: 2000
+Archetype: Red-Eyes
+Present in Sets:
+- Ghosts From the Past
+- Invasion: Vengeance

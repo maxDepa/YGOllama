@@ -1,0 +1,19 @@
+Patrician of Darkness
+Card Type: Effect Monster
+
+Description: You choose the attack targets for your opponent's attacks.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Gold Series: Haunted Mine
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Trials of the Kingdom
+- Zombie World Structure Deck

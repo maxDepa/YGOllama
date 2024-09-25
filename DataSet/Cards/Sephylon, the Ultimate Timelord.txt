@@ -1,0 +1,17 @@
+Sephylon, the Ultimate Timelord
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your GY. Once per turn: You can Special Summon 1 Level 8 or higher Fairy monster from your hand or GY, but its effects are negated, also its ATK becomes 4000.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Timelord
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Gold Series: Haunted Mine
+- Legendary Collection 5D's Mega Pack
+- Premium Gold: Return of the Bling
+- Shonen Jump December 2011 subscription bonus

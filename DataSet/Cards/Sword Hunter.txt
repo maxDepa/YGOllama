@@ -1,0 +1,19 @@
+Sword Hunter
+Card Type: Effect Monster
+
+Description: At the end of the Battle Phase, if this card destroyed a monster(s) by battle and sent it to the Graveyard this Battle Phase: Equip all those monsters from the Graveyard to this card as an Equip Spell Card(s) with this effect.
+● The equipped monster gains 200 ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2450
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

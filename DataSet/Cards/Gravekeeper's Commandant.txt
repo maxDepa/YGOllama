@@ -1,0 +1,17 @@
+Gravekeeper's Commandant
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard; add 1 "Necrovalley" from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Marik (TCG)
+- Turbo Pack: Booster Two

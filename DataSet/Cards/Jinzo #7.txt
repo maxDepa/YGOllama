@@ -1,0 +1,16 @@
+Jinzo #7
+Card Type: Effect Monster
+
+Description: This monster can attack your opponent's Life Points directly.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 400
+Archetype: Jinzo
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

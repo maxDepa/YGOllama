@@ -1,0 +1,15 @@
+Ancient Gear Factory
+Card Type: Spell Card
+
+Description: Reveal 1 Level 5 or higher "Ancient Gear" monster from your hand, then banish a number of "Ancient Gear" monsters from your Graveyard, whose combined Levels are double the revealed monster's, and if you do, if you Normal Summon the revealed monster this turn, you must Normal Smmon it without Tributing.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Structure Deck: Machine Re-Volt

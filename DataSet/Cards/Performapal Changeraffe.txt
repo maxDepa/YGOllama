@@ -1,0 +1,18 @@
+Performapal Changeraffe
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When exactly 1 monster you control (and no other cards) is destroyed by battle: You can destroy this card, and if you do, Special Summon that monster destroyed by battle in Attack Position, and if you do that, it cannot be destroyed by battle this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+When this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; while this card is face-up on the field, that face-up monster cannot attack, also negate the effects of that face-up monster while it is on the field.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 500
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

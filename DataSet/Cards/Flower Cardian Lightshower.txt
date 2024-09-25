@@ -1,0 +1,17 @@
+Flower Cardian Lightshower
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 3 non-Tuner monsters
+Your opponent cannot target "Flower Cardian" monsters you control with card effects, also those monsters cannot be destroyed by card effects. During your opponent's Draw Phase, if they draw a card(s) for their normal draw: Inflict 1500 damage to your opponent. Once per turn, during your opponent's End Phase: Activate 1 of these effects;
+● Skip the Draw Phase of your next turn.
+● This card has its other effects negated until your opponent's next Standby Phase.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 3000
+Archetype: Flower Cardian
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

@@ -1,0 +1,14 @@
+Libromancer Geek Boy
+Card Type: Effect Monster
+
+Description: You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. If this card is Special Summoned: You can add 1 "Libromancer" Spell from your Deck to your hand. You can only use each effect of "Libromancer Geek Boy" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Libromancer
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

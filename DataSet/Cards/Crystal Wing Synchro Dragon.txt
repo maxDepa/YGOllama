@@ -1,0 +1,19 @@
+Crystal Wing Synchro Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner Synchro Monsters
+Once per turn, when another monster's effect is activated (Quick Effect): You can negate the activation, and if you do, destroy that monster, and if you do that, this card gains ATK equal to the destroyed monster's original ATK until the end of this turn. If this card battles an opponent's Level 5 or higher monster, during damage calculation: This card gains ATK equal to the current ATK of the opponent's monster it is battling during that damage calculation only.
+
+Type: Dragon
+Attribute: WIND
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Duel Power
+- Ghosts From the Past
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Shining Victories

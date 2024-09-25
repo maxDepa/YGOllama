@@ -1,0 +1,13 @@
+Fake Explosion
+Card Type: Trap Card
+
+Description: Activate only when an opponent's monster declares an attack. Monsters cannot be destroyed by this battle. After damage calculation, Special Summon 1 "Summon Reactor・SK" from your hand or Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis

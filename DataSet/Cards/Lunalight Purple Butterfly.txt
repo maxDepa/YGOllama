@@ -1,0 +1,13 @@
+Lunalight Purple Butterfly
+Card Type: Effect Monster
+
+Description: You can send this card from your hand or field to the Graveyard, then target 1 "Lunalight" monster you control; it gains 1000 ATK until the end of this turn. You can banish this card from your Graveyard; Special Summon 1 "Lunalight" monster from your hand. You can only use this effect of "Lunalight Purple Butterfly" once per turn.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Lunalight
+Present in Sets:
+- Shining Victories

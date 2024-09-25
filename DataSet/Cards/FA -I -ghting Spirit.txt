@@ -1,0 +1,13 @@
+FA.I.ghting Spirit
+Card Type: Spell Card
+
+Description: Target 1 "@Ignister" monster in your GY; Special Summon it. If an "@Ignister" monster(s) you control with 2300 or more ATK would be destroyed by card effect, you can banish this card from your GY instead. If this card is banished: You can activate this effect; your "@Ignister" monsters with 2300 or more ATK cannot be destroyed by battle this turn. You can only activate "FA.I.ghting Spirit" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: A.I.
+Present in Sets:
+- Brothers of Legend

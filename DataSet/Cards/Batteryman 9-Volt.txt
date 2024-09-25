@@ -1,0 +1,13 @@
+Batteryman 9-Volt
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can add 1 "Batteryman" monster from your Deck to your hand, and if you do, this card's ATK and DEF become double its original ATK and DEF. You can only use this effect of "Batteryman 9-Volt" once per turn. During your End Phase: Destroy this card.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Batteryman
+Present in Sets:
+- Duelist Alliance

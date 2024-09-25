@@ -1,0 +1,14 @@
+Jabbing Panda
+Card Type: Effect Monster
+
+Description: If 2 or more Beast-Warrior monsters are on the field, you can Special Summon this card (from your hand). You can only Special Summon "Jabbing Panda" once per turn this way. If this card is sent from the field to your GY: You can target 1 face-up monster you control; it gains 500 ATK. You can only use this effect of "Jabbing Panda" once per turn.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

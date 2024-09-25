@@ -1,0 +1,16 @@
+Deep Diver
+Card Type: Effect Monster
+
+Description: At the end of the Battle Phase, if this card was destroyed by battle and sent to the Graveyard: Choose 1 monster from your Deck and place it on top of your Deck.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1000
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Realm of the Sea Emperor Structure Deck
+- Yu-Gi-Oh! World Championship 2008 promotional cards

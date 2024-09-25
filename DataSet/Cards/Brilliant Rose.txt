@@ -1,0 +1,15 @@
+Brilliant Rose
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Gem-Knight" card.)
+You can discard 1 "Gem-Knight" or "Melodious" card; Special Summon this card from your hand. You can only use this effect of "Brilliant Rose" once per turn. Once per turn: You can send 1 "Gem-Knight" or "Melodious" monster from your Extra Deck to the GY; until the End Phase, this card's name/Type/Attribute become the same as the original name/Type/Attribute of the monster sent to the GY to activate this effect.
+
+Type: Rock
+Attribute: LIGHT
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Gem-
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

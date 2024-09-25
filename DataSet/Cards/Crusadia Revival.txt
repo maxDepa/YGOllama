@@ -1,0 +1,14 @@
+Crusadia Revival
+Card Type: Spell Card
+
+Description: All "Crusadia" Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 "Crusadia" Link Monster you control; this turn (even if this card leaves the field), it can attack all monsters your opponent controls once each, also other monsters you control cannot attack.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crusadia
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

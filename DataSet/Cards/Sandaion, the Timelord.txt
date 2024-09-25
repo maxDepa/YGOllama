@@ -1,0 +1,13 @@
+Sandaion, the Timelord
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned from the Deck. You can only control 1 "Sandaion, the Timelord". If only your opponent controls a monster, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. Neither player takes battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Inflict 2000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Timelord
+Present in Sets:
+- Battles of Legend: Relentless Revenge

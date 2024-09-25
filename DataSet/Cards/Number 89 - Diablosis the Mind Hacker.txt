@@ -1,0 +1,16 @@
+Number 89: Diablosis the Mind Hacker
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+Once per turn: You can detach 1 material from this card; look at your opponent's Extra Deck and banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of "Number 89: Diablosis the Mind Hacker" once per turn.
+
+Type: Psychic
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Brothers of Legend
+- Yu-Gi-Oh! Championship Series 2017 prize card
+- Yu-Gi-Oh! Championship Series 2017 prize card

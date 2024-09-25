@@ -1,0 +1,15 @@
+Geargiano
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1000
+Archetype: Geargia
+Present in Sets:
+- Duelist League 16 participation cards
+- Geargia Rampage Structure Deck
+- Generation Force

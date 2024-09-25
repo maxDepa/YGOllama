@@ -1,0 +1,14 @@
+Ancient Gear Hunting Hound
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Inflict 600 damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Once per turn: You can Fusion Summon 1 "Ancient Gear" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Ancient Gear
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

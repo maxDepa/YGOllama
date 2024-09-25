@@ -1,0 +1,15 @@
+Cross Attack
+Card Type: Spell Card
+
+Description: Target 2 face-up Attack Position monsters you control with the same ATK; this turn, one of them can attack your opponent directly and the other cannot attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave
+- Star Pack 2014
+- Star Pack 2014

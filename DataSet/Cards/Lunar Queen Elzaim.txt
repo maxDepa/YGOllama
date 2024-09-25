@@ -1,0 +1,12 @@
+Lunar Queen Elzaim
+Card Type: Normal Monster
+
+Description: A lovely creature guarded by the moon. Her lunar curtain can block just about any attack.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 750
+Defence: 1100
+Archetype: //
+Present in Sets:

@@ -1,0 +1,25 @@
+Magical Hats
+Card Type: Trap Card
+
+Description: During your opponent's Battle Phase: Choose 2 Spell/Trap Cards from your Deck and 1 monster in your Main Monster Zone. Special Summon them as Normal Monsters (ATK 0/DEF 0) in face-down Defense Position, Set the chosen monster if it is face-up, and shuffle them on the field. The 2 cards chosen from your Deck are destroyed at the end of the Battle Phase, and cannot remain on the field except during this Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Six
+- Dark Beginning 1
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

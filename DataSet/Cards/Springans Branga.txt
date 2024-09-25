@@ -1,0 +1,13 @@
+Springans Branga
+Card Type: Effect Monster
+
+Description: If this card is in your hand, field, or GY: You can target 1 "Springans" Xyz Monster you control; attach this card to it as material. You can banish this card and 1 "Springans" monster with a different name from your GY; add 1 "Springans" card from your Deck to your hand. You can only use each effect of "Springans Branga" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 8
+Attack: 500
+Defence: 2500
+Archetype: Springans
+Present in Sets:
+- Blazing Vortex

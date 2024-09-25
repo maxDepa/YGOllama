@@ -1,0 +1,13 @@
+Amazement Assistant Delia
+Card Type: Effect Monster
+
+Description: You can reveal 1 "Attraction" Trap in your hand; Special Summon this card from your hand. You can send 1 "Attraction" Trap from your hand or face-up field to the GY; Set 1 "Attraction" Trap directly from your Deck to your Spell & Trap Zone. You can only use each effect of "Amazement Assistant Delia" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Amazement
+Present in Sets:
+- Dawn of Majesty

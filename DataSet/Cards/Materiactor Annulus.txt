@@ -1,0 +1,13 @@
+Materiactor Annulus
+Card Type: Spell Card
+
+Description: Detach 1 Xyz Material from a monster you control, then if the detached material was sent to your GY, you can Set that card to your field. You can only activate 1 "Materiactor Annulus" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Materiactor
+Present in Sets:
+- Dimension Force

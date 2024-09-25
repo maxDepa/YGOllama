@@ -1,0 +1,17 @@
+The Cuckoo Commanded to Croon
+Card Type: Effect Monster
+
+Description: You can activate 1 of these effects;
+● Destroy this card, then draw 1 card.
+● Discard 1 card, then draw 1 card.
+● During the End Phase of this turn, draw 1 card.
+You can only use this effect of "The Cuckoo Commanded to Croon" once per turn.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duelist Nexus

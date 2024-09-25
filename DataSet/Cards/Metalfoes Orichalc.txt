@@ -1,0 +1,17 @@
+Metalfoes Orichalc
+Card Type: Fusion Monster
+
+Description: 2 "Metalfoes" monsters
+If a "Metalfoes" monster you control attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can target 1 card on the field; destroy it.
+
+Type: Psychic
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 2200
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Ghosts From the Past
+- Pendulum Evolution
+- The Dark Illusion

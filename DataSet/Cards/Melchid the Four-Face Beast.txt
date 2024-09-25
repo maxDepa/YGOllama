@@ -1,0 +1,19 @@
+Melchid the Four-Face Beast
+Card Type: Normal Monster
+
+Description: This monster has four different masks for four different attacks.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: Mask
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Battle City Box

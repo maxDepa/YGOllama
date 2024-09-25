@@ -1,0 +1,15 @@
+Lunalight Panther Dancer
+Card Type: Fusion Monster
+
+Description: "Lunalight Cat Dancer" + 1 "Lunalight" monster
+Must first be Fusion Summoned with the above Fusion Materials. Cannot be destroyed by your opponent's card effects. Once per turn, during your Main Phase 1: You can activate this effect; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card destroys an opponent's monster by battle: This card gains 200 ATK until the end of the Battle Phase.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2500
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Sisters of the Rose
+- Shining Victories

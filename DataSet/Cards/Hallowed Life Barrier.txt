@@ -1,0 +1,16 @@
+Hallowed Life Barrier
+Card Type: Trap Card
+
+Description: Discard 1 card from your hand. This turn, any damage you take from your opponent's cards and effects becomes 0.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box

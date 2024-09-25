@@ -1,0 +1,15 @@
+Rescueroid
+Card Type: Effect Monster
+
+Description: When a "roid" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.
+
+Type: Machine
+Attribute: FIRE
+Level: 6
+Attack: 1600
+Defence: 1800
+Archetype: Roid
+Present in Sets:
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

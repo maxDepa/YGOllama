@@ -1,0 +1,15 @@
+Mushroom Man #2
+Card Type: Effect Monster
+
+Description: A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1250
+Defence: 800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

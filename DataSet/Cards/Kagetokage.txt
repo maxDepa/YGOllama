@@ -1,0 +1,18 @@
+Kagetokage
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Number Hunters
+- OTS Tournament Pack 5
+- Photon Shockwave
+- Star Pack 2013
+- Star Pack 2013
+- Super Starter: V for Victory

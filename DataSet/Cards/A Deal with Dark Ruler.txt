@@ -1,0 +1,17 @@
+A Deal with Dark Ruler
+Card Type: Spell Card
+
+Description: (This card is always treated as an "Archfiend" card.)
+If a Level 8 or higher monster under your control was sent to the Graveyard this turn: Special Summon 1 "Berserk Dragon" from your hand or Deck.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack

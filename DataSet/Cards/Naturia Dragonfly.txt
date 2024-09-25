@@ -1,0 +1,16 @@
+Naturia Dragonfly
+Card Type: Effect Monster
+
+Description: This card cannot be destroyed by battle with a monster that has 2000 or more ATK. This card gains 200 ATK for each "Naturia" monster in your Graveyard.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 400
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

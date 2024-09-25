@@ -1,0 +1,14 @@
+Chronomaly Golden Jet
+Card Type: Effect Monster
+
+Description: Once per turn: You can increase the Levels of all "Chronomaly" monsters you currently control by 1.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: Chronomaly
+Present in Sets:
+- OTS Tournament Pack 17 (POR)
+- Return of the Duelist

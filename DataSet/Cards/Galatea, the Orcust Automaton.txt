@@ -1,0 +1,16 @@
+Galatea, the Orcust Automaton
+Card Type: Link Monster
+
+Description: 2 Effect Monsters, including an "Orcust" monster
+This linked card cannot be destroyed by battle. You can target 1 of your banished Machine monsters; shuffle it into the Deck, then you can Set 1 "Orcust" Spell/Trap directly from your Deck. You can only use this effect of "Galatea, the Orcust Automaton" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Soul Fusion

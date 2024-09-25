@@ -1,0 +1,14 @@
+Ignis Heat, the True Dracowarrior
+Card Type: Effect Monster
+
+Description: To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap you control, instead of a monster. Once per turn, when your opponent activates a card or effect while you control this Tribute Summoned monster (Quick Effect): You can take 1 "True Draco" or "True King" Continuous Spell from your Deck, and either activate it or add it to your hand.
+
+Type: Wyrm
+Attribute: FIRE
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: True Draco
+Present in Sets:
+- Fists of the Gadgets
+- Maximum Crisis

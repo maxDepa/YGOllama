@@ -1,0 +1,16 @@
+Final Countdown
+Card Type: Spell Card
+
+Description: Pay 2000 Life Points. After 20 turns have passed (counting the turn you activate this card as the 1st turn), you win the Duel.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game One
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

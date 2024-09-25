@@ -1,0 +1,20 @@
+Beaver Warrior
+Card Type: Normal Monster
+
+Description: What this creature lacks in size it makes up for in defense when battling in the prairie.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

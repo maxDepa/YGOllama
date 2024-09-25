@@ -1,0 +1,16 @@
+Naturia Guardian
+Card Type: Effect Monster
+
+Description: When your opponent Normal Summons a monster, this card gains 300 ATK until the End Phase.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

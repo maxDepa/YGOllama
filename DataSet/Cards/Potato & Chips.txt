@@ -1,0 +1,12 @@
+Potato & Chips
+Card Type: Normal Monster
+
+Description: ''Potato and Chips always get along. They always idle in their room eating potato chips. Consommé punch ones are delicious too. Norishio ones are delicious too. Potato and Chips' delicious life.''
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: //
+Present in Sets:

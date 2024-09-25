@@ -1,0 +1,13 @@
+Eccentric Boy
+Card Type: Tuner Monster
+
+Description: When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effect, its effect(s) is negated, and it is removed from play when removed from the field.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 200
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 2

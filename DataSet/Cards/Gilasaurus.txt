@@ -1,0 +1,25 @@
+Gilasaurus
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 400
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Dinosmasher's Fury Structure Deck
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 4: Joey's World Mega Pack
+- Retro Pack 2
+- Speed Duel Starter Decks: Ultimate Predators
+- Structure Deck: Dinosaur's Rage

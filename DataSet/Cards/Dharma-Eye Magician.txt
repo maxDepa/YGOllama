@@ -1,0 +1,18 @@
+Dharma-Eye Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 "Magician" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+While this Pendulum Summoned card is on the field, "Magician" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 7
+Attack: 2000
+Defence: 2500
+Archetype: Magician
+Present in Sets:
+- Breakers of Shadow
+- Pendulum Evolution

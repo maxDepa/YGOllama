@@ -1,0 +1,15 @@
+Telepathic Power
+Card Type: Trap Card
+
+Description: When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster: Target the opponent's monster; destroy that target, and if you do, gain LP equal to the destroyed monster's ATK on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- The Duelist Genesis

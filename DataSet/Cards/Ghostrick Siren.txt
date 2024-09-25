@@ -1,0 +1,15 @@
+Ghostrick Siren
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn, during your Main Phase: You can change this card to face-down Defense Position. If this card is Normal Summoned or flipped face-up: Send the top 2 cards of your Deck to the GY, then if either card was a "Ghostrick" card, you can apply 1 of these effects.
+● Add 1 "Ghostrick" Spell/Trap from your Deck to your hand.
+● Change 1 Effect Monster your opponent controls to face-down Defense Position.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1500
+Archetype: Ghostrick
+Present in Sets:
+- Battle of Chaos

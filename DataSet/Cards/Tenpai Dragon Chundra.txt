@@ -1,0 +1,13 @@
+Tenpai Dragon Chundra
+Card Type: Tuner Monster
+
+Description: Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of "Tenpai Dragon Chundra" once per turn. If you control a FIRE Dragon monster: You can Special Summon this card from your hand. At the start of the Damage Step, if a monster battles: You can Special Summon 1 Level 4 or lower FIRE Dragon monster from your Deck, except "Tenpai Dragon Chundra".
+
+Type: Dragon
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Tenpai Dragon
+Present in Sets:
+- Legacy of Destruction

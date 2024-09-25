@@ -1,0 +1,15 @@
+Fortune's Future
+Card Type: Spell Card
+
+Description: Target 1 of your banished "Fortune Lady" monsters; return it to the GY, then draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Lady
+Present in Sets:
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Stardust Overdrive

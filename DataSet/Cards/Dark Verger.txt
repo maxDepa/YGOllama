@@ -1,0 +1,14 @@
+Dark Verger
+Card Type: Effect Monster
+
+Description: When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Raging Battle

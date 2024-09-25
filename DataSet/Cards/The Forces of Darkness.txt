@@ -1,0 +1,17 @@
+The Forces of Darkness
+Card Type: Trap Card
+
+Description: Target 2 "Dark World" monsters in your Graveyard; add those targets to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

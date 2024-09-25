@@ -1,0 +1,14 @@
+Trickstar Foxglove Witch
+Card Type: Link Monster
+
+Description: 2+ Fairy monsters
+If this card is Special Summoned: You can inflict 200 damage to your opponent for each card they control. If this Link Summoned card is destroyed by battle or effect: You can Special Summon 1 Link-2 or lower "Trickstar" monster from your Extra Deck, then inflict 200 damage to your opponent for each card they control. You can only use each effect of "Trickstar Foxglove Witch" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- Duel Power

@@ -1,0 +1,16 @@
+Mecha Phantom Beast Stealthray
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent: Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 1 Token, then target 1 Spell/Trap Card on the field; destroy that target.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 100
+Defence: 2100
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

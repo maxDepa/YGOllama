@@ -1,0 +1,13 @@
+Ashened for Eternity
+Card Type: Trap Card
+
+Description: When this card is activated: You can add 1 "Veidos the Eruption Dragon of Extinction" or 1 "Ashened" monster from your GY to your hand. You can target 1 face-up monster your opponent controls that you own; take control of that monster, then you can make all face-up monsters your opponent currently controls lose ATK equal to the targeted monster's original ATK. This ATK change lasts until the end of this turn. You can only use this effect of "Ashened for Eternity" once per turn. You can only activate 1 "Ashened for Eternity" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ashened
+Present in Sets:
+- Phantom Nightmare

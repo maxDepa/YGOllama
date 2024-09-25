@@ -1,0 +1,14 @@
+Vengeful Shinobi
+Card Type: Effect Monster
+
+Description: When this face-up Attack Position card is targeted for an attack: Draw 1 card.
+
+Type: Warrior
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 800
+Archetype: //
+Present in Sets:
+- Phantom Darkness
+- Starter Deck: Dawn of the Xyz

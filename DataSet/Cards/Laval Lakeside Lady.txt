@@ -1,0 +1,14 @@
+Laval Lakeside Lady
+Card Type: Tuner Monster
+
+Description: If this card is in your Graveyard and you have 3 or more "Laval" monsters with different names in your Graveyard: You can banish this card and 1 other "Laval" monster from your Graveyard to target 1 Set card your opponent controls; destroy that target.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 200
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

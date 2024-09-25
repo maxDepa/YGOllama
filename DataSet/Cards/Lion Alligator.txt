@@ -1,0 +1,17 @@
+Lion Alligator
+Card Type: Effect Monster
+
+Description: While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 1900
+Defence: 200
+Archetype: Alligator
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legendary Collection 2: The Duel Academy Years
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)

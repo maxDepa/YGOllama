@@ -1,0 +1,14 @@
+Two Thousand Needles
+Card Type: Effect Monster
+
+Description: When this Defense Position card is attacked and the ATK of the attacking monster is lower than the DEF of this card, destroy the attacking monster at the end of the Damage Step.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 2000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

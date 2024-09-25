@@ -1,0 +1,15 @@
+Frightfur Patchwork
+Card Type: Spell Card
+
+Description: Add 1 "Edge Imp" monster and 1 "Polymerization" from your Deck to your hand. You can only activate 1 "Frightfur Patchwork" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Edge Imp
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Duel Power
+- Soul Fusion

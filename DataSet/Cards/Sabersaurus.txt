@@ -1,0 +1,19 @@
+Sabersaurus
+Card Type: Normal Monster
+
+Description: This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 500
+Archetype: //
+Present in Sets:
+- Demo Pack
+- Dinosmasher's Fury Structure Deck
+- Duelist League 16 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Power of the Duelist
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Dinosaur's Rage

@@ -1,0 +1,14 @@
+Substitoad
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster to Special Summon 1 "Frog" monster from your Deck, except "Frog the Jam". "Frog" monsters, except "Frog the Jam", cannot be destroyed by battle.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 2000
+Archetype: Frog
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Light of Destruction

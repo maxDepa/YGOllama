@@ -1,0 +1,13 @@
+Golgoil the Steel Seismic Smasher
+Card Type: Effect Monster
+
+Description: If this card battles a monster, neither can be destroyed by that battle. You can only use each of the following effects of "Golgoil the Steel Seismic Smasher" once per turn. After damage calculation, if your Machine or Illusion monster battled: You can target 1 of your monsters that is banished or in your GY; Special Summon it. If this card is banished from the field: You can Special Summon it.
+
+Type: Illusion
+Attribute: EARTH
+Level: 10
+Attack: 1800
+Defence: 3200
+Archetype: Djinn
+Present in Sets:
+- Legacy of Destruction

@@ -1,0 +1,15 @@
+Garbage Lord
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by paying 2000 Life Points. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 0
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Cosmo Blazer
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

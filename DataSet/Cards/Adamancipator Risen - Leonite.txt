@@ -1,0 +1,15 @@
+Adamancipator Risen - Leonite
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can add 1 excavated "Adamancipator" card to your hand, also place the rest on the bottom of your Deck in any order. During your opponent's turn, if a FIRE monster is in your GY (Quick Effect): You can target 1 Rock monster in your GY; Special Summon it. You can only use each effect of "Adamancipator Risen - Leonite" once per turn.
+
+Type: Rock
+Attribute: FIRE
+Level: 6
+Attack: 2400
+Defence: 2200
+Archetype: Adamancipator
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Secret Slayers

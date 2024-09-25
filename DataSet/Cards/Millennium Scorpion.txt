@@ -1,0 +1,15 @@
+Millennium Scorpion
+Card Type: Effect Monster
+
+Description: Each time this card destroys 1 monster on your opponent's side of the field by battle and sends it to the Graveyard, this card gains 500 ATK.
+
+Type: Insect
+Attribute: EARTH
+Level: 5
+Attack: 2000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

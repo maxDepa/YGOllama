@@ -1,0 +1,14 @@
+Gold Pride - Captain Carrie
+Card Type: Effect Monster
+
+Description: If your LP are lower than your opponent's: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 "Gold Pride" Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 "Gold Pride" monster you control that was Special Summoned from the Extra Deck; banish up to 3 "Gold Pride" cards from your GY, and if you do, that monster gains 500 ATK for each card banished this way. You can only use each effect of "Gold Pride - Captain Carrie" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 3
+Attack: 900
+Defence: 1700
+Archetype: Gold Pride
+Present in Sets:
+- Photon Hypernova
+- Photon Hypernova

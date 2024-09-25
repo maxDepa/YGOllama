@@ -1,0 +1,16 @@
+Back-Up Rider
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Starter Deck: Yuya

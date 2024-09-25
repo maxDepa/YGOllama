@@ -1,0 +1,15 @@
+Lucky Chance
+Card Type: Trap Card
+
+Description: Once per Chain, if a monster effect is activated that tosses a coin once: Call heads or tails. If your call matches the coin toss for that monster effect, draw 1 card immediately after that effect resolves.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)

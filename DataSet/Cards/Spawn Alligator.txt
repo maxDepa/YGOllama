@@ -1,0 +1,13 @@
+Spawn Alligator
+Card Type: Effect Monster
+
+Description: During the End Phase of the turn this card was Tribute Summoned by Tributing a Reptile-Type monster: Target 1 monster that was used for the Tribute Summon of this card; Special Summon it from the Graveyard.
+
+Type: Reptile
+Attribute: WATER
+Level: 5
+Attack: 2200
+Defence: 1000
+Archetype: Alligator
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years

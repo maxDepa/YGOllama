@@ -1,0 +1,20 @@
+Gatling Dragon
+Card Type: Fusion Monster
+
+Description: "Barrel Dragon" + "Blowback Dragon"
+Once per turn: You can toss a coin 3 times and destroy as many monsters on the field as possible, but not more than the number of heads.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Legendary Collection 4: Joey's World Mega Pack
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)

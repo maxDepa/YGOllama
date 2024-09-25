@@ -1,0 +1,13 @@
+Splash Capture
+Card Type: Trap Card
+
+Description: When your opponent Xyz Summons: Banish 2 Fish-Type monsters from your Graveyard to target that face-up Xyz Monster; take control of that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos

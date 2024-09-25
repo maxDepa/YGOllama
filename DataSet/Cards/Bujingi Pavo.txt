@@ -1,0 +1,14 @@
+Bujingi Pavo
+Card Type: Effect Monster
+
+Description: When a Beast-Warrior-Type "Bujin" monster you control is destroyed by battle and sent to the Graveyard: You can send this card from your hand to the Graveyard; Special Summon 1 "Bujin" monster from your Deck. You can only use the effect of "Bujingi Pavo" once per turn.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

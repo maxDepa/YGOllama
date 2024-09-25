@@ -1,0 +1,29 @@
+Change of Heart
+Card Type: Spell Card
+
+Description: Target 1 monster your opponent controls; take control of it until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magnificent Mavens
+- Magnificent Mavens
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Joey
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution

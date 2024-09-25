@@ -1,0 +1,14 @@
+Water Magician
+Card Type: Normal Monster
+
+Description: This monster swamps an opponent with an almost endless supply of water.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 4
+- Tournament Pack: 2nd Season

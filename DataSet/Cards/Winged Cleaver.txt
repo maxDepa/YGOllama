@@ -1,0 +1,13 @@
+Winged Cleaver
+Card Type: Normal Monster
+
+Description: Few can withstand the scythe-like arms of this dangerous creature.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 700
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators

@@ -1,0 +1,13 @@
+Gimmick Puppet Shadow Feeler
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle. When you take battle damage from an opponent's direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Attack Position, and if you do, take 1000 damage. You can only use this effect of "Gimmick Puppet Shadow Feeler" once per turn. If this card is an Xyz Material and would be sent to the Graveyard, banish it instead.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 1000
+Defence: 1000
+Archetype: Gimmick Puppet
+Present in Sets:
+- Premium Gold

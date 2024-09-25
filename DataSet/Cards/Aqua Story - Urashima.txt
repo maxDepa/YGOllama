@@ -1,0 +1,14 @@
+Aqua Story - Urashima
+Card Type: Trap Card
+
+Description: If you have an "Aquaactress" monster in your Graveyard: Target 1 monster on the field; until the end of this turn, its effects are negated, its ATK and DEF become 100, also it is unaffected by your opponent's card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aquaactress
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

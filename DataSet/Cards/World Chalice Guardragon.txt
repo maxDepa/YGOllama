@@ -1,0 +1,15 @@
+World Chalice Guardragon
+Card Type: Effect Monster
+
+Description: When a card or effect is activated that targets your linked monster (Quick Effect): You can send this card from your hand or field to the GY; negate the activation, and if you do, destroy that card. You can banish this card from your GY, then target 1 Normal Monster in your GY; Special Summon it in Defense Position to your zone a Link Monster points to. You can only use this effect of "World Chalice Guardragon" once per turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 1
+Attack: 400
+Defence: 400
+Archetype: World Chalice
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Structure Deck: Rokket Revolt

@@ -1,0 +1,13 @@
+Zefra Providence
+Card Type: Spell Card
+
+Description: Add 1 "Zefra" card from your Deck to your hand, except "Zefra Providence". If a "Zefra" card(s) you control would be destroyed, except the turn this card was sent to the Graveyard, you can banish this card from your Graveyard instead. You can only activate 1 "Zefra Providence" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Zefra
+Present in Sets:
+- Maximum Crisis

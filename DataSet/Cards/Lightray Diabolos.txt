@@ -1,0 +1,14 @@
+Lightray Diabolos
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard. Once per turn: You can banish 1 LIGHT monster from your Graveyard, then target 1 Set card your opponent controls; reveal that target, then place that target on either the top or bottom of the Deck.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Realm of Light Structure Deck

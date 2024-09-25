@@ -1,0 +1,24 @@
+Junk Synchron
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 500
+Archetype: Junk
+Present in Sets:
+- Duel Terminal 3
+- Duelist League 3 participation cards
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei
+- Duelist Saga
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Synchron Extreme Structure Deck

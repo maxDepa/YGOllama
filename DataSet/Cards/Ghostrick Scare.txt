@@ -1,0 +1,14 @@
+Ghostrick Scare
+Card Type: Trap Card
+
+Description: Target any number of face-down Defense Position monsters you control; change them to face-up Defense Position, count the number of "Ghostrick" monsters among them, and if you do, change up to that many face-up monsters your opponent controls to face-down Defense Position (min. 1).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

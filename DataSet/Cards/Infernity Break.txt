@@ -1,0 +1,14 @@
+Infernity Break
+Card Type: Trap Card
+
+Description: If you have no cards in your hand: Target 1 "Infernity" card in your Graveyard and 1 card your opponent controls; banish the first target, and if you do, destroy the second target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- Astral Pack Six
+- The Shining Darkness

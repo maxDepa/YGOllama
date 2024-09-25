@@ -1,0 +1,15 @@
+Niwatori
+Card Type: Normal Monster
+
+Description: Swallows enemies whole and uses their essence as energy.
+
+Type: Winged Beast
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

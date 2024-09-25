@@ -1,0 +1,22 @@
+Gagaga Magician
+Card Type: Effect Monster
+
+Description: Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 "Gagaga Magician". This card cannot be used as a Synchro Material Monster.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Gagaga
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist League 15 participation cards
+- Generation Force
+- Premium Gold
+- Star Pack 2013
+- Star Pack 2013
+- Super Starter: V for Victory
+- Zexal Collection Tin

@@ -1,0 +1,22 @@
+Fabled Ashenveil
+Card Type: Effect Monster
+
+Description: If this card attacks or is attacked, during damage calculation (in either player's turn): You can send 1 card from your hand to the Graveyard once per battle; this card gains 600 ATK during that damage calculation only.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Fabled
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Legion Starter Deck
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

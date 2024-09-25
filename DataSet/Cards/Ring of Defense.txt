@@ -1,0 +1,15 @@
+Ring of Defense
+Card Type: Spell Card
+
+Description: When a Trap effect that inflicts damage is activated: Make that effect damage 0.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Chazz Princeton
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack

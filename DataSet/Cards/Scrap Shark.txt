@@ -1,0 +1,13 @@
+Scrap Shark
+Card Type: Effect Monster
+
+Description: When an Effect Monster's effect or a Spell/Trap Card is activated, destroy this face-up card on the field. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard, you can send 1 "Scrap" monster from your Deck to the Graveyard.
+
+Type: Fish
+Attribute: EARTH
+Level: 4
+Attack: 2100
+Defence: 0
+Archetype: Scrap
+Present in Sets:
+- Storm of Ragnarok

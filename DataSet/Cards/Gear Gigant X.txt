@@ -1,0 +1,17 @@
+Gear Gigant X
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Machine-Type monsters
+Once per turn: You can detach 1 Xyz Material from this card; add 1 Level 4 or lower Machine-Type monster from your Deck or Graveyard to your hand. When this card leaves the field: You can target 1 Level 3 or lower "Geargia" monster in your Graveyard; Special Summon that target.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 2300
+Defence: 1500
+Archetype: Geargia
+Present in Sets:
+- 2013 Collectible Tins Wave 2
+- Geargia Rampage Structure Deck
+- Maximum Gold
+- Return of the Duelist

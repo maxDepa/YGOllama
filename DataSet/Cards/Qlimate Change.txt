@@ -1,0 +1,14 @@
+Qlimate Change
+Card Type: Trap Card
+
+Description: Add up to 3 face-up "Qli" Pendulum Monster Cards from your Extra Deck to your hand. You can only activate 1 "Qlimate Change" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Qli
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

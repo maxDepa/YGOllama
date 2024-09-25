@@ -1,0 +1,13 @@
+Leeching the Light
+Card Type: Spell Card
+
+Description: Select 1 face-up LIGHT monster your opponent controls. All face-up Attack Position monsters you control gain ATK equal to the ATK of the selected monster, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Shining Darkness

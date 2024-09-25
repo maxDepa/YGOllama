@@ -1,0 +1,15 @@
+Earthbound Whirlwind
+Card Type: Spell Card
+
+Description: If you control an "Earthbound Immortal" monster: Destroy all Spell and Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 3
+- Stardust Overdrive

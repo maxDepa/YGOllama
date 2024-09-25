@@ -1,0 +1,19 @@
+Armed Dragon LV10
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Armed Dragon LV7". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.
+
+Type: Dragon
+Attribute: WIND
+Level: 10
+Attack: 3000
+Defence: 2000
+Archetype: Armed Dragon
+Present in Sets:
+- Duel Terminal 5b
+- Duelist Pack: Chazz Princeton
+- Ghosts From the Past
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

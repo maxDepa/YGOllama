@@ -1,0 +1,15 @@
+Gorgonic Guardian
+Card Type: XYZ Monster
+
+Description: 2 Level 3 Rock-Type monsters
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These effects last until the end of this turn. Once per turn: You can target 1 monster on the field with 0 ATK; destroy it.
+
+Type: Rock
+Attribute: DARK
+Level: 3
+Attack: 1600
+Defence: 1200
+Archetype: Gorgonic
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

@@ -1,0 +1,15 @@
+Jinzo - Returner
+Card Type: Effect Monster
+
+Description: This card can attack your opponent directly. When this card is sent to the Graveyard, you can Special Summon 1 "Jinzo" from your Graveyard. Destroy it during your End Phase.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1400
+Archetype: Jinzo
+Present in Sets:
+- Legendary Duelists: Rage of Ra
+- Light of Destruction
+- Speed Duel: Streets of Battle City

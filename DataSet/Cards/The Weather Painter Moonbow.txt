@@ -1,0 +1,16 @@
+The Weather Painter Moonbow
+Card Type: Link Monster
+
+Description: 3 "The Weather" monsters
+If this card is Link Summoned: You can Special Summon 1 of your banished "The Weather" monsters. If this Link Summoned card is destroyed: You can Special Summon 1 "The Weather Painter Rainbow" from your Extra Deck. "The Weather" Effect Monsters this card points to gain the following effect.
+● (Quick Effect): You can banish this card, then target 1 monster your opponent controls; banish it until the Standby Phase of the next turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: The Weather
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

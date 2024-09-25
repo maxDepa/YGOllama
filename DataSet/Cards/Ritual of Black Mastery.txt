@@ -1,0 +1,17 @@
+Ritual of Black Mastery
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+Activate this Skill during your Main Phase, while you control "Black Luster Soldier" or "Magician of Black Chaos" that you Ritual Summoned this turn.
+● While you control "Black Luster Soldier", it cannot be destroyed by your opponent's Skill, also once per turn, if your opponent activates a Trap Card, draw 1 card immediately after it resolves.
+● While you control "Magician of Black Chaos", it cannot be destroyed by your opponent's Spell effects, also if your "Magician of Black Chaos" destroys a monster by battle, add 1 Spell from your GY to your hand.
+
+Type: Yami Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Match of the Millennium

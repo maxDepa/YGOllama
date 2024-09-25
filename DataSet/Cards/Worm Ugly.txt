@@ -1,0 +1,14 @@
+Worm Ugly
+Card Type: Effect Monster
+
+Description: When you Tribute Summon a Reptile-Type "Worm" monster by Tributing this card, you can Special Summon this card from your Graveyard to your opponent's side of the field, in face-up Attack Position.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

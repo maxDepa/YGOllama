@@ -1,0 +1,16 @@
+Backup Squad
+Card Type: Spell Card
+
+Description: Each time you take 1000 or more damage by your opponent's card effect or their monster's attack: Draw 1 card for every 1000 damage you took.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Match of the Millennium

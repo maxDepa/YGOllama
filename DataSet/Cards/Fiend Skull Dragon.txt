@@ -1,0 +1,19 @@
+Fiend Skull Dragon
+Card Type: Fusion Monster
+
+Description: "Cave Dragon" + "Lesser Fiend"
+(This card is always treated as an "Archfiend" card.)
+A Fusion Summon of this card can only be done with the above Fusion Material Monsters. Negate the effects of Flip Effect Monsters. Negate any Trap effects that target this card on the field, and if you do, destroy that Trap Card.
+
+Type: Dragon
+Attribute: WIND
+Level: 5
+Attack: 2000
+Defence: 1200
+Archetype: Archfiend
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Tournament Pack 6

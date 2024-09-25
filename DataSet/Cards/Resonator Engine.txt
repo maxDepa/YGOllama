@@ -1,0 +1,16 @@
+Resonator Engine
+Card Type: Spell Card
+
+Description: Target 2 "Resonator" monsters in your Graveyard; add 1 Level 4 monster from your Deck to your hand, and if you do, return those targets to the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Resonator
+Present in Sets:
+- Ghosts From the Past
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok
+- Structure Deck: The Crimson King

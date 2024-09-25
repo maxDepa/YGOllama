@@ -1,0 +1,15 @@
+Supreme King Dragon Starving Venom
+Card Type: Fusion Monster
+
+Description: 2 DARK Pendulum Monsters
+Must be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use "Polymerization"). Once per turn: You can target 1 other monster on the field or in the GY; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects, also for the rest of this turn, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: Supreme King
+Present in Sets:
+- Code of the Duelist
+- Legendary Dragon Decks

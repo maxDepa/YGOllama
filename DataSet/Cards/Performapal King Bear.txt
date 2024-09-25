@@ -1,0 +1,17 @@
+Performapal King Bear
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, during the End Phase, if this card was activated this turn: You can destroy this card, and if you do, add 1 Level 7 or higher monster to your hand, that is either in your Graveyard or face-up in your Extra Deck.
+
+[ Monster Effect ] 
+Cannot be destroyed by Spell/Trap effects while in face-up Attack Position. This card gains 100 ATK for each "Performapal" card you control, during your Battle Phase only.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 1000
+Archetype: Performapal
+Present in Sets:
+- Starter Deck: Yuya

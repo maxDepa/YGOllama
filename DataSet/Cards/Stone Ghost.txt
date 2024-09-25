@@ -1,0 +1,12 @@
+Stone Ghost
+Card Type: Normal Monster
+
+Description: With a head that erupts when angered, this monster launches a dangerous shower of boulders.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:

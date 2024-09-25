@@ -1,0 +1,17 @@
+The Six Samurai - Nisashi
+Card Type: Effect Monster
+
+Description: While you control a face-up "Six Samurai" monster with a different name, this card can attack twice during each Battle Phase. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 700
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Strike of Neos

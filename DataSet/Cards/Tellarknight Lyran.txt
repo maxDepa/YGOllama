@@ -1,0 +1,14 @@
+Tellarknight Lyran
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Constellar" card.)
+If a "tellarknight" or "Constellar" monster is Normal Summoned to your field, except "Tellarknight Lyran" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Summoned: You can add 1 "tellarknight" Spell from your Deck to your hand. You can only use each effect of "Tellarknight Lyran" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: Constellar
+Present in Sets:
+- Cyberstorm Access

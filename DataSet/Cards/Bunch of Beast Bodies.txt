@@ -1,0 +1,13 @@
+Bunch of Beast Bodies
+Card Type: Trap Card
+
+Description: Change all monsters that were not Normal or Special Summoned this turn to Defense Position. For the rest of this turn, a player who controls a Defense Position monster cannot declare attacks with monsters that were Normal or Special Summoned this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge

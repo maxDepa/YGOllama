@@ -1,0 +1,13 @@
+Grand Spiritual Art - Ichirin
+Card Type: Spell Card
+
+Description: Negate your opponent's first monster effect that resolves each turn while you control a Spellcaster monster with 1500 DEF. During your Main Phase: You can reveal 1 Spellcaster monster from your hand, and if you do, add 1 monster with the same Attribute, but with 1500 ATK/200 DEF, from your Deck to your hand, and if you do that, shuffle the revealed card into the Deck. You can only use this effect of "Grand Spiritual Art - Ichirin" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spiritual Art
+Present in Sets:
+- Structure Deck: Spirit Charmers

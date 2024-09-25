@@ -1,0 +1,13 @@
+Chillin' Outback
+Card Type: Skill Card
+
+Description: Once per turn, you can change 1 face-up "Koala" or "Kangaroo" monster's battle position. "Koala" and "Kangaroo" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.
+
+Type: Chumley Huffi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

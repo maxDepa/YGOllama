@@ -1,0 +1,16 @@
+Crystal Bond
+Card Type: Spell Card
+
+Description: Add 1 "Crystal Beast" monster from your Deck to your hand, and place 1 "Crystal Beast" monster with a different name from your Deck face-up in your Spell & Trap Zone as a Continuous Spell. You can only activate 1 "Crystal Bond" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Magnificent Mavens
+- Structure Deck: Legend of the Crystal Beasts

@@ -1,0 +1,16 @@
+Brain Crusher
+Card Type: Effect Monster
+
+Description: Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle and sent it to the Graveyard this turn while you controlled it: You can target 1 of those destroyed monsters in the Graveyard; Special Summon that target.
+
+Type: Insect
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Speed Duel: Streets of Battle City
+- Yu-Gi-Oh! GX Spirit Caller promotional cards

@@ -1,0 +1,14 @@
+HTS Psyhemuth
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.
+
+Type: Psychic
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Judgment of the Light

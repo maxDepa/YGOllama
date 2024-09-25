@@ -1,0 +1,15 @@
+Batteryman AA
+Card Type: Effect Monster
+
+Description: If all "Batteryman AA"(s) you control are in Attack Position, this card gains 1000 ATK for each. If all "Batteryman AA"(s) you control are in Defense Position, this card gains 1000 DEF for each.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 0
+Archetype: Batteryman
+Present in Sets:
+- Champion Pack: Game Six
+- Dark Revelation Volume 3
+- The Lost Millennium

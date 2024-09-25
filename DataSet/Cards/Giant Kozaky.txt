@@ -1,0 +1,14 @@
+Giant Kozaky
+Card Type: Effect Monster
+
+Description: If there is no face-up "Kozaky" on the field, destroy this card. If this face-up card is destroyed, inflict damage equal to the original ATK of this card to its current controller.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2500
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

@@ -1,0 +1,15 @@
+Fire Formation - Tensu
+Card Type: Spell Card
+
+Description: During your Main Phase, you can Normal Summon 1 Beast-Warrior monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior monsters you control gain 100 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- Astral Pack Four
+- Cosmo Blazer
+- Fists of the Gadgets

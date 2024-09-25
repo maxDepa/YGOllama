@@ -1,0 +1,14 @@
+Chemicritter Carbo Crab
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● During your Main Phase: You can send 1 Gemini monster from your Deck to the Graveyard, then add 1 Gemini monster from your Deck to your hand. You can only use this effect of "Chemicritter Carbo Crab" once per turn.
+
+Type: Aqua
+Attribute: FIRE
+Level: 2
+Attack: 700
+Defence: 1400
+Archetype: Chemicritter
+Present in Sets:
+- Invasion: Vengeance

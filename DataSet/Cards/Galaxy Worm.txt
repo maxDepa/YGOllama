@@ -1,0 +1,15 @@
+Galaxy Worm
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower "Galaxy" Effect Monster from your Deck, but it has its effects negated.
+
+Type: Insect
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Battles of Legend: Armageddon
+- Code of the Duelist

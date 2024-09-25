@@ -1,0 +1,14 @@
+Dustflame Blast
+Card Type: Trap Card
+
+Description: Banish all "Laval" monsters from your Graveyard; destroy any number of cards on the field, up to the number of monsters banished for this card's activation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

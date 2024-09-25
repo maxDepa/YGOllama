@@ -1,0 +1,14 @@
+Chaos Ancient Gear Giant
+Card Type: Fusion Monster
+
+Description: 4 "Ancient Gear" monsters
+Must be Fusion Summoned and cannot be Special Summoned by other ways. Unaffected by Spell/Trap effects. Your opponent's monsters cannot activate their effects during the Battle Phase. This card can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 10
+Attack: 4500
+Defence: 3000
+Archetype: Ancient Gear
+Present in Sets:
+- Raging Tempest

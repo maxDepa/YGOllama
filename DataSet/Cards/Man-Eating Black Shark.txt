@@ -1,0 +1,13 @@
+Man-Eating Black Shark
+Card Type: Fusion Monster
+
+Description: "Sea Kamen" + "Gruesome Goo" + "Amazon of the Seas"
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 2100
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Astral Pack Six

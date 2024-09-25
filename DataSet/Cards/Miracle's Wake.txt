@@ -1,0 +1,20 @@
+Miracle's Wake
+Card Type: Trap Card
+
+Description: Target 1 monster that was destroyed by battle and sent to your GY this turn; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Revolution
+- Structure Deck: Cyberse Link

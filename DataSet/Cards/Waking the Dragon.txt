@@ -1,0 +1,20 @@
+Waking the Dragon
+Card Type: Trap Card
+
+Description: If this Set card in its owner's control has left the field because of an opponent's effect, and is now in the GY or banished: You can Special Summon 1 monster from your Deck or Extra Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- Mystic Fighters
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Speed Duel Tournament Pack 3
+- Speed Duel: Trials of the Kingdom
+- Structure Deck: Albaz Strike

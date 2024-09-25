@@ -1,0 +1,20 @@
+Jam Defender
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack on a monster you control: You can target 1 "Revival Jam" you control; switch the attack target to that target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Slime
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 4: Joey's World Mega Pack
+- Retro Pack 2
+- Speed Duel: Streets of Battle City

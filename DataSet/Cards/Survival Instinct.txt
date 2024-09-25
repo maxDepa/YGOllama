@@ -1,0 +1,14 @@
+Survival Instinct
+Card Type: Trap Card
+
+Description: Banish any number of Dinosaur-Type monsters from your Graveyard; gain 400 Life Points for each Dinosaur-Type monster banished to activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dinosaur's Rage

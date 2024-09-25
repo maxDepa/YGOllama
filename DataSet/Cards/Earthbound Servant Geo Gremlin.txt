@@ -1,0 +1,16 @@
+Earthbound Servant Geo Gremlin
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1+ non-Tuner monsters
+During the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls; your opponent chooses 1 of these effects for you to apply.
+● Destroy that monster. ● Gain LP equal to that monster's ATK.
+During the Battle Phase (Quick Effect): You can Fusion Summon 1 "Earthbound" Fusion Monster from your Extra Deck, by banishing its materials from your hand, field, and/or GY. You can only use each effect of "Earthbound Servant Geo Gremlin" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1000
+Archetype: Earthbound
+Present in Sets:
+- Maze of Millennia

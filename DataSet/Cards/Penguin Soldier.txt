@@ -1,0 +1,27 @@
+Penguin Soldier
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target up to 2 monsters on the field; return those targets to the hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 750
+Defence: 500
+Archetype: Penguin
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Dark Legends
+- Duel Terminal 6b
+- Duelist League 18 participation cards
+- Duelist League 2010 participation cards
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Realm of the Sea Emperor Structure Deck
+- Retro Pack
+- Starter Deck: Joey
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

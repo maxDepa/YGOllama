@@ -1,0 +1,13 @@
+Flowerbot
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: Draw 1 card, then place 1 card from your hand on the top of the Deck.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- World Superstars

@@ -1,0 +1,16 @@
+Inaba White Rabbit
+Card Type: Spirit Monster
+
+Description: This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. This monster attacks your opponent's Life Points directly.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legacy of Darkness

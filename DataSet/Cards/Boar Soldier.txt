@@ -1,0 +1,16 @@
+Boar Soldier
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned, destroy this card. If your opponent controls 1 or more monsters, decrease the ATK of this card by 1000 points.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 500
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

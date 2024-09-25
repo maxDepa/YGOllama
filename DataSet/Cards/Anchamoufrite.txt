@@ -1,0 +1,19 @@
+Anchamoufrite
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you have no cards in your Extra Deck except "Anchamoufrite": You can destroy this card, then draw 1 card. You can only use this effect of "Anchamoufrite" once per turn.
+
+[ Monster Effect ] 
+Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except "Anchamoufrite". You can only Special Summon "Anchamoufrite" once per turn this way. If this face-up card in the Monster Zone leaves the field, banish it.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive
+- OTS Tournament Pack 20

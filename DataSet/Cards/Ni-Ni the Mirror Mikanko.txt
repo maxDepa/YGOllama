@@ -1,0 +1,14 @@
+Ni-Ni the Mirror Mikanko
+Card Type: Effect Monster
+
+Description: If this card is not equipped with an Equip Card, you take no damage from battles involving this card. If this card is equipped with an Equip Card, it cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. During your opponent's turn, while this card is equipped with an Equip Card (Quick Effect): You can target 1 face-up monster your opponent controls; take control of it until the End Phase. You can only use this effect of "Ni-Ni the Mirror Mikanko" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 3
+Attack: 0
+Defence: 0
+Archetype: Mikanko
+Present in Sets:
+- Amazing Defenders
+- Amazing Defenders

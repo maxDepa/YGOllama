@@ -1,0 +1,12 @@
+Arma Knight
+Card Type: Normal Monster
+
+Description: An ammonite warrior that has protected the seas throughout history.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:

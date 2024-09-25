@@ -1,0 +1,14 @@
+Thunderclap Skywolf
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned from the Graveyard: You can destroy all face-up monsters your opponent controls. You cannot conduct your Battle Phase the turn you activate this effect.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition

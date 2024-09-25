@@ -1,0 +1,15 @@
+Nordic Relic Megingjord
+Card Type: Trap Card
+
+Description: Target 1 "Aesir" or "Nordic" monster you control; its ATK/DEF become double its original ATK/DEF, until the end of this turn, but it cannot attack your opponent directly this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

@@ -1,0 +1,13 @@
+Phantasos, the Dream Mirror Foe
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Dream Mirror" monster: This card can attack directly this turn. During the Main or Battle Phase, if "Dream Mirror of Joy" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 "Phantasos, the Dream Mirror Friend" from your Deck. You can only use each effect of "Phantasos, the Dream Mirror Foe" once per turn.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 900
+Archetype: Dream Mirror
+Present in Sets:
+- Chaos Impact

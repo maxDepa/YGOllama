@@ -1,0 +1,18 @@
+Salamangreat Jack Jaguar
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage. If you control a "Salamangreat" Link Monster, while this card is in your GY: You can target 1 "Salamangreat" monster in your GY, except "Salamangreat Jack Jaguar"; shuffle that target into the Deck, and if you do, Special Summon this card to your zone your "Salamangreat" Link Monster points to. You can only use this effect of "Salamangreat Jack Jaguar" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Salamangreat
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Legendary Duelists: Soulburning Volcano
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Soul Fusion
+- Structure Deck: Soulburner

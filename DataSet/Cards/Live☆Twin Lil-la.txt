@@ -1,0 +1,14 @@
+Live☆Twin Lil-la
+Card Type: Effect Monster
+
+Description: Your opponent must pay 500 LP to declare an attack. If this card is Normal or Special Summoned and you control no other monsters: You can Special Summon 1 "Ki-sikil" monster from your hand or Deck. You can only use this effect of "Live☆Twin Lil-la" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 0
+Archetype: Live☆Twin
+Present in Sets:
+- Genesis Impact
+- Genesis Impact

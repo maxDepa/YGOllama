@@ -1,0 +1,14 @@
+Blazing Bombardment Beast
+Card Type: Fusion Monster
+
+Description: 1 Machine monster + 1 Pyro monster
+If this card is Special Summoned: You can destroy all monsters your opponent controls with 1900 or less ATK. If this card is sent to the GY: You can target 1 monster your opponent controls with 1900 or less ATK; destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of "Blazing Bombardment Beast" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 6
+Attack: 1900
+Defence: 2400
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

@@ -1,0 +1,20 @@
+Zombie World
+Card Type: Spell Card
+
+Description: All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Overload
+- Duelist League 13 participation cards
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Collection 4: Joey's World Mega Pack
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Structure Deck: Zombie Horde
+- Zombie World Structure Deck

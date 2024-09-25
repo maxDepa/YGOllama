@@ -1,0 +1,15 @@
+Mysterion the Dragon Crown
+Card Type: Fusion Monster
+
+Description: 1 Spellcaster monster + 1 Dragon monster
+Cannot be used as Fusion Material. This card loses 100 ATK for each of your banished cards. If a monster uses its activated effect to Special Summon itself, or a monster(s) with its same original Type (except during the Damage Step): You can target 1 of those Special Summoned monsters; banish that monster, also banish all monsters from the field with its same original Type. You can only use this effect of "Mysterion the Dragon Crown" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Lightning Overdrive

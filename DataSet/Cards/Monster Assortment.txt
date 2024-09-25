@@ -1,0 +1,14 @@
+Monster Assortment
+Card Type: Trap Card
+
+Description: Reveal 1 Normal Monster from your Deck, and 1 Effect Monster from your Deck with the same Type, Attribute, and Level, then your opponent randomly chooses 1 for you to add to your hand, also you shuffle the other into your Deck. You can only activate 1 "Monster Assortment" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

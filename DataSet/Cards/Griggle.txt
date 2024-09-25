@@ -1,0 +1,17 @@
+Griggle
+Card Type: Effect Monster
+
+Description: When the control of this face-up card on the field shifts to your opponent, increase your Life Points by 3000 points. This effect can only be used once as long as this card remains face-up on the field.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 350
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

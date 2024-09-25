@@ -1,0 +1,14 @@
+Qlipper Launch
+Card Type: Trap Card
+
+Description: Until the end of this turn, all Normal Summoned/Set "Qli" monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Qli
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

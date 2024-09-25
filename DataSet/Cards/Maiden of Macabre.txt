@@ -1,0 +1,14 @@
+Maiden of Macabre
+Card Type: Effect Monster
+
+Description: Each time this card destroys an opponent's monster by battle, place 1 Spell Counter on it. This card gains 200 ATK for each Spell Counter on it.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Streets of Battle City
+- The Duelist Genesis

@@ -1,0 +1,14 @@
+Ogre of the Black Shadow
+Card Type: Normal Monster
+
+Description: An ogre possessed by the powers of the dark. Few can withstand its rapid charge.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

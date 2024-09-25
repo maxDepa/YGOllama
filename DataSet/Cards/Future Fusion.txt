@@ -1,0 +1,23 @@
+Future Fusion
+Card Type: Spell Card
+
+Description: During your 1st Standby Phase after this card's activation: Show 1 Fusion Monster in your Extra Deck and send the Fusion Materials listed on it from your Main Deck to the GY. During your 2nd Standby Phase after this card's activation: Fusion Summon 1 Fusion Monster from your Extra Deck with the same name as the monster you showed, and target it with this card. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- Duel Terminal 6a
+- Duelist Pack: Zane Truesdale
+- Duelist Saga
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Dragon Decks
+- Power of the Duelist
+- Power of the Duelist
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Cyber Strike

@@ -1,0 +1,15 @@
+Talaya, Princess of Cherry Blossoms
+Card Type: Effect Monster
+
+Description: Gains 100 ATK for each Plant monster you control. Other Plant monsters on the field cannot be destroyed by card effects.
+
+Type: Plant
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Secret Slayers

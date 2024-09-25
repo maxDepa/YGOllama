@@ -1,0 +1,13 @@
+Yosenju Kodam
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 "Yosen Training Grounds" you control; place 3 Yosen Counters on it. You can only use this effect of "Yosenju Kodam" once per turn. You can banish this card from your Graveyard; you can Normal Summon 1 "Yosenju" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Yosenju
+Present in Sets:
+- Crossed Souls

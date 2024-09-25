@@ -1,0 +1,13 @@
+Kozmourning
+Card Type: Trap Card
+
+Description: Monsters destroyed by battle with "Kozmo" monsters you control are shuffled into the Deck instead of going to the Graveyard. You can banish this card from your Graveyard; the first time you would take battle damage from a battle involving a "Kozmo" monster you control this turn, gain that much LP, instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kozmo
+Present in Sets:
+- Shining Victories

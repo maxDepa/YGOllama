@@ -1,0 +1,14 @@
+Madolche Mini Meowcaroons
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters, including a "Madolche" monster
+If this card is Link Summoned: You can add 1 "Madolche" card from your Deck to your hand. You can target 1 monster in your GY; Special Summon 1 "Madolche" monster from your hand, and if you do, shuffle that target into the Deck, also you cannot activate monster effects for the rest of this turn, except "Madolche" monsters. You can only use each effect of "Madolche Mini Meowcaroons" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Madolche
+Present in Sets:
+- The Infinite Forbidden

@@ -1,0 +1,22 @@
+Gigantes
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 EARTH monster from your GY. If this card is destroyed by battle and sent to the GY: Destroy all Spells and Traps on the field.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Revelation Volume 2
+- Dark Revelation Volume 2
+- Ghosts From the Past
+- Invasion of Chaos
+- Invasion of Chaos
+- Machine Reactor Structure Deck
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Structure Deck: Invincible Fortress

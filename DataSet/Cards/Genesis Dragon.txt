@@ -1,0 +1,14 @@
+Genesis Dragon
+Card Type: Effect Monster
+
+Description: Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Shonen Jump March 2010 subscription bonus

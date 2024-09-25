@@ -1,0 +1,14 @@
+Crimson Fire
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell/Trap Card that would inflict damage to you, while you control a "Red Dragon Archfiend": Your opponent takes twice the effect damage you would have taken, instead.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Raging Battle

@@ -1,0 +1,23 @@
+Timegazer Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a "Magician" card or "Odd-Eyes" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.
+
+[ Monster Effect ] 
+Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Magician
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Master of Pendulum Structure Deck
+- Pendulum Evolution
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Starter Deck: Yuya
+- Super Starter: Space-Time Showdown

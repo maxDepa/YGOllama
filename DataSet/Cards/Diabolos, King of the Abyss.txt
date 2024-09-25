@@ -1,0 +1,15 @@
+Diabolos, King of the Abyss
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. If you Tribute Summon this card, the Tributes must be DARK. Cannot be Tributed by card effects while face-up on the field. Once per turn, during your opponent's Draw Phase, before their normal draw: Look at the top card of your opponent's Deck, and if you do, place that card on either the top or bottom of their Deck.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Gold Series 4: Pyramids Edition
+- Structure Deck: Lair of Darkness

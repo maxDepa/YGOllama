@@ -1,0 +1,15 @@
+Cybernetic Fusion Support
+Card Type: Spell Card
+
+Description: Pay half your LP; once, if you Fusion Summon a Machine Fusion Monster this turn, you can banish monsters from your hand, field, and/or GY as the Fusion Materials. You can only activate 1 "Cybernetic Fusion Support" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Legendary Dragon Decks

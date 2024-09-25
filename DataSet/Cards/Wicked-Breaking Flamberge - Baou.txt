@@ -1,0 +1,18 @@
+Wicked-Breaking Flamberge - Baou
+Card Type: Spell Card
+
+Description: Send 1 card from your hand to the GY, then target 1 monster on the field; equip this card to that target. It gains 500 ATK. Negate the effects of opponent's monsters destroyed by battle with the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel: Arena of Lost Souls
+- Structure Deck: Warrior's Triumph

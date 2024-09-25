@@ -1,0 +1,17 @@
+Superheavy Samurai Big Benkei
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can change its battle position. "Superheavy Samurai" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 1000
+Defence: 3500
+Archetype: Superheavy
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Astral Pack Six
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

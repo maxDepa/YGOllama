@@ -1,0 +1,14 @@
+Alien Shocktrooper M-Frame
+Card Type: Link Monster
+
+Description: 2 Reptile monsters
+(Quick Effect): You can discard 1 monster; place A-Counters equal to its original Level on face-up monster(s) on the field, distributed as you wish. If this card is destroyed by battle or card effect and sent to the GY: You can Special Summon non-Link Reptile monsters with different names from your GY, up to the number of monsters your opponent controls with A-Counters. You can only use each effect of "Alien Shocktrooper M-Frame" once per turn.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 0
+Attack: 1900
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Duel Overload

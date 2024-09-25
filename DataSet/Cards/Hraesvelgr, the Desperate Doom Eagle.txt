@@ -1,0 +1,15 @@
+Hraesvelgr, the Desperate Doom Eagle
+Card Type: Link Monster
+
+Description: 2+ WIND monsters
+Gains 2400 ATK while your opponent has no monsters in their GY. (Quick Effect): You can target 1 monster in your opponent's GY; shuffle it into the Deck. You can only use this effect of "Hraesvelgr, the Desperate Doom Eagle" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

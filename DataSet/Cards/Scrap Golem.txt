@@ -1,0 +1,17 @@
+Scrap Golem
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 Level 4 or lower "Scrap" monster in your GY; Special Summon that target to either player's field.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 2300
+Defence: 1400
+Archetype: Scrap
+Present in Sets:
+- Duelist Revolution
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- OTS Tournament Pack 9 (POR)

@@ -1,0 +1,14 @@
+Draconnection
+Card Type: Spell Card
+
+Description: Reveal 1 Dragon-Type monster in your hand, add 1 Dragon-Type monster with the same Level from your Deck to your hand, then shuffle the revealed monster into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Galactic Overlord

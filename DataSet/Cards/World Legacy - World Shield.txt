@@ -1,0 +1,14 @@
+World Legacy - "World Shield"
+Card Type: Effect Monster
+
+Description: Unaffected by activated effects from any monster Special Summoned from the Extra Deck. Your opponent cannot target your "World Legacy" cards in this card's column with card effects, also they cannot be destroyed by your opponent's card effects. During the Standby Phase, if this card is in your GY: You can pay 1000 LP; Special Summon this card, then your opponent can Special Summon 1 monster from their hand or GY. You can only use this effect of "World Legacy - "World Shield"" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 0
+Defence: 3000
+Archetype: World Legacy
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

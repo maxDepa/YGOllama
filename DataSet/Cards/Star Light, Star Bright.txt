@@ -1,0 +1,15 @@
+Star Light, Star Bright
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; all face-up monsters you currently control with an ATK or DEF equal to that monster's become the same Level as that monster, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014

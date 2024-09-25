@@ -1,0 +1,16 @@
+Mechanical Snail
+Card Type: Normal Monster
+
+Description: A cyborg snail that still travels at a slow pace.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

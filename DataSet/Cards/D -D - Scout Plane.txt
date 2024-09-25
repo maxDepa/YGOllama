@@ -1,0 +1,18 @@
+D.D. Scout Plane
+Card Type: Effect Monster
+
+Description: Once per turn, during the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 1200
+Archetype: D.D.
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- The Dark Emperor Structure Deck

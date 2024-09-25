@@ -1,0 +1,14 @@
+Blackwing - Calima the Haze
+Card Type: Effect Monster
+
+Description: During your opponent's Battle Phase, if you control no monsters: You can banish this card from the Graveyard, then target 1 Synchro Monster in your Graveyard; Special Summon that target, but banish it at the end of the Battle Phase (this is a Quick Effect).
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 600
+Defence: 1800
+Archetype: Blackwing
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

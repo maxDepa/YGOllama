@@ -1,0 +1,15 @@
+Fire Formation - Yoko
+Card Type: Spell Card
+
+Description: When this card is activated: You can target 1 face-up card your opponent controls; discard 1 Beast-Warrior monster, and if you do, destroy that card. All Beast-Warrior monsters you control gain 100 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Fists of the Gadgets
+- Judgment of the Light

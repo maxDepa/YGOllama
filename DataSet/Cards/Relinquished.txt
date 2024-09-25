@@ -1,0 +1,28 @@
+Relinquished
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Black Illusion Ritual". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Eyes Restrict
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Magic Ruler
+- Magic Ruler
+- Master Collection Volume 1
+- Millennium Pack
+- Retro Pack
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 1
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Pegasus

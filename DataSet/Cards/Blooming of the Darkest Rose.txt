@@ -1,0 +1,14 @@
+Blooming of the Darkest Rose
+Card Type: Trap Card
+
+Description: Special Summon "Rose Tokens" (Plant/DARK/Level 2/ATK 800/DEF 800) in Defense Position to either field, up to the combined number of cards in the Field Zones and Field Spells in the GYs. If this card is in your GY: You can target 1 "Black Rose Dragon", or 1 Plant monster, in your Monster Zone; banish it, and if you do, place this card on the bottom of the Deck. During the next Standby Phase, return that banished monster to the field. You can only use this effect of "Blooming of the Darkest Rose" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

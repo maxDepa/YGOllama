@@ -1,0 +1,17 @@
+World Legacy Token
+Card Type: Token
+
+Description: This card can be used as a "World Legacy Token".
+
+
+*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)

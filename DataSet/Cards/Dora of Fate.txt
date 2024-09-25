@@ -1,0 +1,14 @@
+Dora of Fate
+Card Type: Trap Card
+
+Description: You can only activate this card during your opponent's turn. Select 1 face-up monster on your opponent's side of the field. When you Normal Summon a monster that is 1 Level lower than the selected monster during your next turn, inflict damage to your opponent's Life Points equal to the Level of the selected monster x 500 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

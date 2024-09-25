@@ -1,0 +1,16 @@
+Solo the Melodious Songstress
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "Melodious" monster from your Deck, except "Solo the Melodious Songstress".
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Melodious
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Star Pack Battle Royal
+- Star Pack Battle Royal

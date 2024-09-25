@@ -1,0 +1,17 @@
+Maryokutai
+Card Type: Effect Monster
+
+Description: During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 900
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Trials of the Kingdom

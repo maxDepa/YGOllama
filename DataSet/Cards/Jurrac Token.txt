@@ -1,0 +1,12 @@
+Jurrac Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Jurrac Stauriko". This Token cannot be Tributed for a Tribute Summon, unless it is for a "Jurrac" monster.
+
+Type: Dinosaur
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Jurrac
+Present in Sets:

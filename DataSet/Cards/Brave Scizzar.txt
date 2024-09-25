@@ -1,0 +1,13 @@
+Brave Scizzar
+Card Type: Normal Monster
+
+Description: Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares

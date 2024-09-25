@@ -1,0 +1,14 @@
+Grandsoil the Elemental Lord
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 EARTH monsters in your GY. When this card is Special Summoned: You can target 1 monster in either player's GY; Special Summon that target. You can only use this effect of "Grandsoil the Elemental Lord" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 2200
+Archetype: Elemental Lord
+Present in Sets:
+- Flames of Destruction Special Edition
+- Return of the Duelist

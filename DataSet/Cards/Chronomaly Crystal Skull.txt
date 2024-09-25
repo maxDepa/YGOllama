@@ -1,0 +1,13 @@
+Chronomaly Crystal Skull
+Card Type: Effect Monster
+
+Description: If you control a face-up "Chronomaly" monster: You can discard this card to the Graveyard; add 1 "Chronomaly" monster from your Deck or Graveyard to your hand, except "Chronomaly Crystal Skull". The effect of "Chronomaly Crystal Skull" can only be used once per turn.
+
+Type: Rock
+Attribute: LIGHT
+Level: 3
+Attack: 900
+Defence: 600
+Archetype: Chronomaly
+Present in Sets:
+- Return of the Duelist

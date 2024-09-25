@@ -1,0 +1,16 @@
+Greater Polymerization
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as Fusion Material, and if you do, it gains these effects.
+● This card cannot be destroyed by card effects.
+● If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

@@ -1,0 +1,13 @@
+Battlin' Boxer Veil
+Card Type: Effect Monster
+
+Description: When you take battle damage: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: Battlin' Boxer
+Present in Sets:
+- Primal Origin

@@ -1,0 +1,14 @@
+Constellar Virgo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 5 "Constellar" monster from your hand in face-up Defense Position.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2300
+Defence: 1600
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

@@ -1,0 +1,16 @@
+Caravan of the Ice Barrier
+Card Type: Effect Monster
+
+Description: Once per turn, you can select 2 "Ice Barrier" monsters in your Graveyard. Return the selected monsters to the Deck and each player draws 1 card.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 1
+Attack: 500
+Defence: 200
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,17 @@
+Armityle the Chaos Phantasm
+Card Type: Fusion Monster
+
+Description: "Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, Lord of Phantasms"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use "Polymerization".) Cannot be destroyed by battle. Gains 10,000 ATK during your turn only.
+
+Type: Fiend
+Attribute: DARK
+Level: 12
+Attack: 0
+Defence: 0
+Archetype: Chaos Phantom
+Present in Sets:
+- Ancient Prophecy
+- Duelist Saga
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Structure Deck: Sacred Beasts

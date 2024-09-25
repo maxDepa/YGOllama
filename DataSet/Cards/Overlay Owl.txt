@@ -1,0 +1,13 @@
+Overlay Owl
+Card Type: Effect Monster
+
+Description: Once per turn: You can pay 600 Life Points; detach 1 Xyz Material from a monster on the field.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Galactic Overlord

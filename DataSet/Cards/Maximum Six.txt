@@ -1,0 +1,15 @@
+Maximum Six
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned: Roll a six-sided die, and this card gains ATK equal to the result x 200.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Light of Destruction
+- Light of Destruction

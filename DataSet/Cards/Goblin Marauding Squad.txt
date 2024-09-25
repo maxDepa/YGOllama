@@ -1,0 +1,13 @@
+Goblin Marauding Squad
+Card Type: Effect Monster
+
+Description: When this card declares an attack, your opponent cannot activate cards or effects. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

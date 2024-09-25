@@ -1,0 +1,14 @@
+Mementotlan Angwitch
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Memento" monster from your Deck to your hand, except "Mementotlan Angwitch". You can target 1 Level 2 or lower "Memento" monster in your GY; destroy 1 "Memento" monster you control, and if you do, Special Summon the targeted monster. You can only use each effect of "Mementotlan Angwitch" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: Memento
+Present in Sets:
+- Valiant Smashers
+- Valiant Smashers

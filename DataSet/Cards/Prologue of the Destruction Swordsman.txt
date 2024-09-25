@@ -1,0 +1,13 @@
+Prologue of the Destruction Swordsman
+Card Type: Trap Card
+
+Description: Send 1 "Destruction Sword" card and 1 "Buster Blader" monster from your Deck to the Graveyard, except "Prologue of the Destruction Swordsman"; Special Summon 1 "Buster Dragon" from your Extra Deck or Graveyard, but destroy it during the End Phase of the next turn. You can banish this card from your Graveyard; this turn, "Destruction Sword" cards you control cannot be destroyed by battle or card effects. You can only activate 1 "Prologue of the Destruction Swordsman" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destruction Sword
+Present in Sets:
+- Maximum Crisis

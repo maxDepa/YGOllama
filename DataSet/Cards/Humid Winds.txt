@@ -1,0 +1,15 @@
+Humid Winds
+Card Type: Trap Card
+
+Description: You can pay 1000 LP; add 1 "Aroma" monster from your Deck to your hand. If your LP is lower than your opponent's: You can gain 500 LP. You can only use each effect of "Humid Winds" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aroma
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- OTS Tournament Pack 25

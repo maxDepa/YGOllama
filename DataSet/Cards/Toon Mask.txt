@@ -1,0 +1,15 @@
+Toon Mask
+Card Type: Trap Card
+
+Description: If you control "Toon World": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Toon
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Speed Duel Starter Decks: Match of the Millennium

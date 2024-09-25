@@ -1,0 +1,13 @@
+Archfiend Marmot of Nefariousness
+Card Type: Normal Monster
+
+Description: An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 600
+Archetype: //
+Present in Sets:
+- Tournament Pack 6

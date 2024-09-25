@@ -1,0 +1,15 @@
+Despia, Theater of the Branded
+Card Type: Spell Card
+
+Description: During your Main Phase: You can Fusion Summon 1 Level 8 or higher Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If a face-up non-Fusion Fairy monster you control leaves the field by an opponent's card effect, or is destroyed by battle: You can target 1 Level 8 or higher Fusion Monster in your GY; Special Summon it. You can only use each effect of "Despia, Theater of the Branded" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty
+- Ghosts From the Past: The 2nd Haunting

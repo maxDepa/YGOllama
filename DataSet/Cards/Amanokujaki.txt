@@ -1,0 +1,14 @@
+Amanokujaki
+Card Type: Tuner Monster
+
+Description: You cannot activate the effects of other Special Summoned monsters with the same Attribute as this card. Once per turn, during the Main Phase of this card's owner (Quick Effect): You can give control of this card to your opponent, then you (the activating player) can make this card become any Attribute until the end of the next turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

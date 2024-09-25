@@ -1,0 +1,15 @@
+Sunavalon Daphne
+Card Type: Link Monster
+
+Description: 2 Plant monsters
+This card cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. You can Tribute 1 monster, then target 2 Plant Link Monsters in your GY, except "Sunavalon Daphne"; return them to the Extra Deck. You can only use this effect of "Sunavalon Daphne" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sunavalon
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

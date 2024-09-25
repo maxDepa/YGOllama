@@ -1,0 +1,17 @@
+Card Advance
+Card Type: Spell Card
+
+Description: Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order. You can Tribute Summon 1 monster in addition to your Normal Summon/Set this turn. (You can only gain this effect once per turn.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Egyptian God Deck: Slifer the Sky Dragon
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Starter Decks: Ultimate Predators

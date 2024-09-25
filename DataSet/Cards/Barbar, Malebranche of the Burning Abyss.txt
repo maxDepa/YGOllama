@@ -1,0 +1,16 @@
+Barbar, Malebranche of the Burning Abyss
+Card Type: Effect Monster
+
+Description: If you control a monster that is not a "Burning Abyss" monster, destroy this card. You can only use 1 of these effects of "Barbar, Malebranche of the Burning Abyss" per turn, and only once that turn.
+● If you control no Spell/Trap Cards: You can Special Summon this card from your hand.
+● If this card is sent to the Graveyard: You can target up to 3 "Burning Abyss" cards in your Graveyard, except "Barbar, Malebranche of the Burning Abyss"; banish them, and if you do, inflict 300 damage to your opponent for each.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1700
+Defence: 1000
+Archetype: Burning Abyss
+Present in Sets:
+- Crossed Souls
+- Premium Gold: Infinite Gold

@@ -1,0 +1,17 @@
+Necrovalley Throne
+Card Type: Spell Card
+
+Description: Activate 1 of these effects.
+● Add 1 "Gravekeeper's" monster from your Deck to your hand.
+● Immediately after this effect resolves, Normal Summon 1 "Gravekeeper's" monster.
+You can only activate 1 "Necrovalley Throne" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gravekeeper's
+Present in Sets:
+- Maximum Gold
+- Soul Fusion

@@ -1,0 +1,21 @@
+Mystic Horseman
+Card Type: Normal Monster
+
+Description: Half man and half horse, this monster is known for its extreme speed.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1550
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Arena of Lost Souls
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution

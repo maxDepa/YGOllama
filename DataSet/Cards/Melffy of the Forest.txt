@@ -1,0 +1,15 @@
+Melffy of the Forest
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters
+You can detach 1 material from this card; add 1 "Melffy" card from your Deck to your hand. If another face-up "Melffy" monster you control returns to your hand (except during the Damage Step): You can target 1 face-up monster your opponent controls; it cannot attack, also its effects are negated while it is face-up on the field. You can only use each effect of "Melffy of the Forest" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 2000
+Archetype: Melffy
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

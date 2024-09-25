@@ -1,0 +1,14 @@
+Prank-Kids Fansies
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as material for the Fusion or Link Summon of a "Prank-Kids" monster: You can send 1 "Prank-Kids" card from your Deck to the GY, except "Prank-Kids Fansies", then you can Special Summon 1 "Prank-Kids" monster from your hand or Deck in Defense Position, except "Prank-Kids Fansies". You can only use this effect of "Prank-Kids Fansies" once per turn.
+
+Type: Thunder
+Attribute: WIND
+Level: 1
+Attack: 0
+Defence: 2000
+Archetype: Prank-Kids
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold: El Dorado

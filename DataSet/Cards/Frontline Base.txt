@@ -1,0 +1,17 @@
+Frontline Base
+Card Type: Spell Card
+
+Description: Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Machina Mayhem Structure Deck
+- Magician's Force
+- Speed Duel: Battle City Box
+- Structure Deck: Seto Kaiba

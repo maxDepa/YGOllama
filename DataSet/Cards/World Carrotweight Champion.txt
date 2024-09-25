@@ -1,0 +1,14 @@
+World Carrotweight Champion
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can send 1 Plant-Type monster from your hand or face-up from your field to the Graveyard, except "World Carrotweight Champion"; Special Summon this card. You can only use this effect of "World Carrotweight Champion" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

@@ -1,0 +1,15 @@
+Faith Bird
+Card Type: Normal Monster
+
+Description: This long-tailed bird blinds its enemies with mystical light.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Star Pack 2013
+- Star Pack 2013
+- Tournament Pack: 2nd Season

@@ -1,0 +1,17 @@
+Thunder Dragon Colossus
+Card Type: Fusion Monster
+
+Description: "Thunder Dragon" + 1 Thunder monster
+Must be either Fusion Summoned, or Special Summoned during the turn a Thunder monster's effect was activated in the hand, by Tributing 1 Thunder Effect non-Fusion Monster (in which case you do not use "Polymerization"). Cards cannot be added from the Main Deck to your opponent's hand except by drawing them. If this card would be destroyed by battle or card effect, you can banish 1 Thunder monster from your GY instead.
+
+Type: Thunder
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 2400
+Archetype: Thunder Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Soul Fusion

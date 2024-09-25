@@ -1,0 +1,18 @@
+Crystal Abundance
+Card Type: Spell Card
+
+Description: Send 4 "Crystal Beast" cards from your Spell & Trap Card Zone to the Graveyard; send all cards on the field to the Graveyard, then Special Summon as many "Crystal Beast" monsters as possible from your Graveyard, up to the number of cards your opponent controlled that were sent to the Graveyard by this card's effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- Ra Yellow Mega Pack
+- Structure Deck: Legend of the Crystal Beasts

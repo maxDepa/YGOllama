@@ -1,0 +1,14 @@
+Sealing Ceremony of Mokuton
+Card Type: Trap Card
+
+Description: Once per turn, you can Tribute 1 face-up EARTH monster to select up to 2 cards in the opponent's Graveyard, and remove them from play.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- Speed Duel: Battle City Box

@@ -1,0 +1,12 @@
+Farm Delivery
+Card Type: Trap Card
+
+Description: If you control a Normal Monster: Target up to 3 of your banished Normal Monsters; shuffle them into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

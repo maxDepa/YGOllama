@@ -1,0 +1,18 @@
+Skull Invitation
+Card Type: Trap Card
+
+Description: Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Structure Deck: Marik (TCG)

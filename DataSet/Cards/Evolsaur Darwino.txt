@@ -1,0 +1,13 @@
+Evolsaur Darwino
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: You can target 1 face-up monster on the field; increase that target's Level by up to 2.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 5
+Attack: 2200
+Defence: 700
+Archetype: Evolsaur
+Present in Sets:
+- Galactic Overlord

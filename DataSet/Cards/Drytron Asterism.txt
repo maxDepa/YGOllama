@@ -1,0 +1,13 @@
+Drytron Asterism
+Card Type: Spell Card
+
+Description: During the Main Phase: Target 1 "Drytron" monster or 1 Ritual Monster you control, and 1 face-up monster your opponent controls; your monster loses exactly 1000 ATK until the end of your opponent's turn, and if it does, destroy that opponent's monster. You can only activate 1 "Drytron Asterism" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Drytron
+Present in Sets:
+- Genesis Impact

@@ -1,0 +1,13 @@
+Ancient Warriors - Graceful Zhou Gong
+Card Type: Effect Monster
+
+Description: You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, add 1 "Ancient Warriors" Spell/Trap from your Deck to your hand. If your other "Ancient Warriors" monster's effect is activated (except during the Damage Step): You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of "Ancient Warriors - Graceful Zhou Gong" once per turn.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Ancient Warriors
+Present in Sets:
+- Ignition Assault

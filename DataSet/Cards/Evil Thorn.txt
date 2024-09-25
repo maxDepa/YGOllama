@@ -1,0 +1,17 @@
+Evil Thorn
+Card Type: Effect Monster
+
+Description: You can Tribute this card; inflict 300 damage to your opponent, and if you do, you can Special Summon up to 2 "Evil Thorn" from your Deck in Attack Position, but their effects cannot be activated.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 300
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Raging Battle

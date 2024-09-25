@@ -1,0 +1,15 @@
+Elemental HERO Inferno
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Heat" + "Elemental HERO Lady Heat"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles a WATER monster, this card gains 1000 ATK during the Damage Step only.
+
+Type: Pyro
+Attribute: FIRE
+Level: 8
+Attack: 2300
+Defence: 1600
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)

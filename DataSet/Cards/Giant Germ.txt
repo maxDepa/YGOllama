@@ -1,0 +1,22 @@
+Giant Germ
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of "Giant Germs" from your Deck in face-up Attack Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 1000
+Defence: 100
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Five
+- Dark Beginning 1
+- Dark Legends
+- Duelist League 3 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler

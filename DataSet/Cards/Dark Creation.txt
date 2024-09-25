@@ -1,0 +1,13 @@
+Dark Creation
+Card Type: Skill Card
+
+Description: Once per Duel, during your Main Phase, if you have 5 or more DARK monsters in your GY with different names and control no monsters, you can banish 1 DARK monster from your GY then Special Summon 1 DARK monster from your GY.
+
+Type: Yubel
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

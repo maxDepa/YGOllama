@@ -1,0 +1,14 @@
+Parthian Shot
+Card Type: Trap Card
+
+Description: At the end of the Battle Phase: It becomes the End Phase of this turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

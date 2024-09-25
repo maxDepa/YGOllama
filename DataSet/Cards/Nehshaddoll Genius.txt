@@ -1,0 +1,14 @@
+Nehshaddoll Genius
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 "Shaddoll" monster you control; that face-up monster is unaffected by monster effects this turn, except its own.
+If this card is sent to the GY by card effect: You can target 1 Effect Monster on the field; neither player can activate that target's effects on the field this turn. You can only use 1 "Nehshaddoll Genius" effect per turn, and only once that turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Shaddoll
+Present in Sets:
+- Ghosts From the Past

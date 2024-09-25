@@ -1,0 +1,13 @@
+Mind Protector
+Card Type: Effect Monster
+
+Description: This card's controller must pay 500 Life Points during each of their Standby Phases. If they cannot, destroy this card. Monsters with 2000 or less ATK cannot declare an attack, except for Psychic-Type monsters.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 2200
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

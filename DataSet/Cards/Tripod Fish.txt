@@ -1,0 +1,13 @@
+Tripod Fish
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned from the Graveyard: You can target 1 face-up Fish, Sea Serpent, or Aqua-Type monster on the field; increase its Level by 1.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 300
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Abyss Rising

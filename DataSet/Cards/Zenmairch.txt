@@ -1,0 +1,13 @@
+Zenmairch
+Card Type: Trap Card
+
+Description: Target 1 face-up Level 4 or lower "Wind-Up" monster you control: Return that target to the hand (no matter its Level), then Special Summon 1 "Wind-Up" monster from the hand with the same Level as the returned monster's.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Wind-Up
+Present in Sets:
+- Photon Shockwave

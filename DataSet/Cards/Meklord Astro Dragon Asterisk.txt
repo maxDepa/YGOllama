@@ -1,0 +1,15 @@
+Meklord Astro Dragon Asterisk
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by controlling 3 or more "Meklord" monsters. When this card is Special Summoned: You can target any number of "Meklord" monsters you control, except this card; send those targets to the Graveyard, and if you do, this card's ATK becomes the combined original ATK of the monsters sent to the Graveyard by this effect. Each time a Synchro Monster(s) is Special Summoned: Inflict 1000 damage to the Summoning player.
+
+Type: Machine
+Attribute: DARK
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Rage of Ra

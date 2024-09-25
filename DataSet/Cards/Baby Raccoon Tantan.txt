@@ -1,0 +1,14 @@
+Baby Raccoon Tantan
+Card Type: Flip Effect Monster
+
+Description: FLIP: Special Summon 1 Level 2 Beast-Type monster from your Deck, except "Baby Raccoon Tantan".
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

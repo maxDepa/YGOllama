@@ -1,0 +1,17 @@
+Metalfoes Mithrilium
+Card Type: Fusion Monster
+
+Description: 1 "Metalfoes" monster + 1 Pendulum Monster
+You can target 2 "Metalfoes" cards in your GY and 1 card on the field; shuffle the targets from your GY into the Deck, and if you do, return the target on the field to the hand. You can only use this effect of "Metalfoes Mithrilium" once per turn. If this card is sent from the field to the GY: You can Special Summon 1 "Metalfoes" Pendulum Monster from your GY or face-up Extra Deck.
+
+Type: Psychic
+Attribute: FIRE
+Level: 6
+Attack: 2600
+Defence: 1000
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Ghosts From the Past
+- Invasion: Vengeance

@@ -1,0 +1,14 @@
+Koalo-Koala
+Card Type: Fusion Monster
+
+Description: "Sea Koala" + "Tree Otter"
+You can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.
+
+Type: Beast
+Attribute: EARTH
+Level: 6
+Attack: 2800
+Defence: 200
+Archetype: Koala
+Present in Sets:
+- Order of Chaos

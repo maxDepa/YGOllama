@@ -1,0 +1,18 @@
+Salamangreat Almiraj
+Card Type: Link Monster
+
+Description: 1 Normal Summoned monster with 1000 or less ATK
+(Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use this effect of "Salamangreat Almiraj" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Duel Overload
+- Legendary Duelists: Soulburning Volcano
+- Maximum Gold: El Dorado

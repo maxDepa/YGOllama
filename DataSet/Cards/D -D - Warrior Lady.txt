@@ -1,0 +1,28 @@
+D.D. Warrior Lady
+Card Type: Effect Monster
+
+Description: After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: D.D.
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duelist Saga
+- Gold Series
+- Hobby League 6 participation card C
+- Legendary Collection 3: Yugi's World Mega Pack
+- Maximum Gold
+- Space-Time Showdown Power-Up Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Warrior's Triumph
+- The Dark Emperor Structure Deck
+- Warriors' Strike Structure Deck

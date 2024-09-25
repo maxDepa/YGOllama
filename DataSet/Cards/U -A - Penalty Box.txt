@@ -1,0 +1,13 @@
+U.A. Penalty Box
+Card Type: Trap Card
+
+Description: At the start of the Damage Step, if your "U.A." monster battles an opponent's monster: You can banish that opponent's monster until your opponent's 2nd End Phase. You can only use this effect of "U.A. Penalty Box" once per turn. You can banish this card from your Graveyard; add 1 "U.A." Spell Card from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: U.A.
+Present in Sets:
+- Crossed Souls

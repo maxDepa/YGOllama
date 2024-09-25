@@ -1,0 +1,12 @@
+Akihiron
+Card Type: Normal Monster
+
+Description: This strange creature hides in the deep, dark corners of the seven seas.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:

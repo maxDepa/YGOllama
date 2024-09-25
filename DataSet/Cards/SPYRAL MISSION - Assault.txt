@@ -1,0 +1,13 @@
+SPYRAL MISSION - Assault
+Card Type: Spell Card
+
+Description: Destroy this card during your 3rd End Phase after activation. Once per turn, if a "SPYRAL" monster you control destroys a monster by battle, or if you destroy a card(s) on the field with a "SPYRAL" monster's effect you control: You can draw 1 card. You can banish this card from your Graveyard; Special Summon 1 "SPYRAL" monster from your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: SPYRAL
+Present in Sets:
+- Invasion: Vengeance

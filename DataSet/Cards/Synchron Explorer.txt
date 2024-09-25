@@ -1,0 +1,16 @@
+Synchron Explorer
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Synchron" monster in your Graveyard; Special Summon that target, but its effects are negated.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 700
+Archetype: Synchron
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Synchro Storm
+- Starter Deck: Duelist Toolbox
+- Synchron Extreme Structure Deck

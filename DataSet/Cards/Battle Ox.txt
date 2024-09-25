@@ -1,0 +1,22 @@
+Battle Ox
+Card Type: Normal Monster
+
+Description: A monster with tremendous power, it destroys enemies with a swing of its axe.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Demo Deck 2015
+- Legendary Decks II
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Kaiba Reloaded

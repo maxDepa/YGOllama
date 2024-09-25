@@ -1,0 +1,15 @@
+Destiny HERO - Dread Servant
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Place 1 Clock Counter on each "Clock Tower Prison". When this card is destroyed by battle and sent to the GY: You can target 1 Spell/Trap you control; destroy that target.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 400
+Defence: 700
+Archetype: Destiny HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Light of Destruction

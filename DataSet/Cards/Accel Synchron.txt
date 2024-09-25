@@ -1,0 +1,19 @@
+Accel Synchron
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Once per turn: You can send 1 "Synchron" monster from your Deck to the GY, then activate 1 of these effects;
+● Increase this card's Level by the Level of the sent monster.
+● Reduce this card's Level by the Level of the sent monster.
+During your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only Synchro Summon "Accel Synchron" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 500
+Defence: 2100
+Archetype: Synchron
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Synchron Extreme Structure Deck

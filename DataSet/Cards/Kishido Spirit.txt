@@ -1,0 +1,14 @@
+Kishido Spirit
+Card Type: Spell Card
+
+Description: Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

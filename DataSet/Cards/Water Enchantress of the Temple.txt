@@ -1,0 +1,19 @@
+Water Enchantress of the Temple
+Card Type: Effect Monster
+
+Description: If you control an "Adventurer Token": You can Special Summon this card from your hand. You can banish this card from your hand or GY; add 1 "Rite of Aramesir" from your Deck or GY to your hand. If you control an "Adventurer Token": You can place 1 Field Spell that mentions "Adventurer Token" from your Deck face-up in your Field Zone. You can only use each effect of "Water Enchantress of the Temple" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 3
+Attack: 1500
+Defence: 1200
+Archetype: Adventurer Token
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- The Grand Creators
+- The Grand Creators

@@ -1,0 +1,19 @@
+Eradicator Epidemic Virus
+Card Type: Trap Card
+
+Description: Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Gates of the Underworld Structure Deck
+- Legendary Collection Kaiba Mega Pack
+- Master of Pendulum Structure Deck
+- Structure Deck: Lair of Darkness
+- The Duelist Genesis: Special Edition
+- Wild Survivors

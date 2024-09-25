@@ -1,0 +1,16 @@
+Millennium Shield
+Card Type: Normal Monster
+
+Description: A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 0
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards
+- Super Starter: Space-Time Showdown

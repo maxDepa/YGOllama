@@ -1,0 +1,14 @@
+Space-Time Police
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: Target 1 face-up card your opponent controls; banish that target. When this card leaves the field: Set the card that was banished by this effect to your opponent's side of the field.
+
+Type: Psychic
+Attribute: WIND
+Level: 5
+Attack: 2300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Generation Force
+- Generation Force

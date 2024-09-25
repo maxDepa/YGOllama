@@ -1,0 +1,13 @@
+Pendulum Evolution
+Card Type: Spell Card
+
+Description: You can shuffle 1 Pendulum Monster from your hand into the Deck; add 1 Pendulum Monster with 2500 ATK and a different name from your Deck to your hand. During your Main Phase, if you Special Summoned a face-down Pendulum Monster(s) from your Extra Deck this turn, you can: Immediately after this effect resolves, Pendulum Summon a monster(s). You can target 1 "Supreme King Z-ARC" you control; it can attack all your opponent's monsters once each this turn. You can only use each effect of "Pendulum Evolution" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Age of Overlord

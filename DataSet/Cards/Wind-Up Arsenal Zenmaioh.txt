@@ -1,0 +1,16 @@
+Wind-Up Arsenal Zenmaioh
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 2 Set cards on the field; destroy them.
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 2600
+Defence: 1900
+Archetype: Wind-Up
+Present in Sets:
+- Brothers of Legend
+- King's Court
+- Order of Chaos

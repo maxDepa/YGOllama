@@ -1,0 +1,15 @@
+Silver's Cry
+Card Type: Spell Card
+
+Description: Target 1 Dragon Normal Monster in your GY; Special Summon that target. You can only activate 1 "Silver's Cry" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Collection Kaiba Mega Pack
+- Saga of Blue-Eyes White Dragon Structure Deck

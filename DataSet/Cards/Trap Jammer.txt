@@ -1,0 +1,21 @@
+Trap Jammer
+Card Type: Trap Card
+
+Description: When your opponent activates a Trap Card during the Battle Phase: Negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Duel Terminal 2
+- Duelist Pack: Zane Truesdale
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Dragon's Roar

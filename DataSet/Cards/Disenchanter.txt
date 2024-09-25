@@ -1,0 +1,14 @@
+Disenchanter
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up Spell on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters

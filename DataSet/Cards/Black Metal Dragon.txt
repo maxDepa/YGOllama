@@ -1,0 +1,17 @@
+Black Metal Dragon
+Card Type: Effect Monster
+
+Description: You can target 1 "Red-Eyes" monster you control; equip this monster from your hand or field to that target. It gains 600 ATK. If this card is sent from the field to the GY: You can add 1 "Red-Eyes" card from your Deck to your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 1
+Attack: 600
+Defence: 600
+Archetype: Red-Eyes
+Present in Sets:
+- Clash of Rebellions
+- Legendary Decks II
+- Legendary Duelists: Season 1
+- OTS Tournament Pack 6
+- Speed Duel GX: Duelists of Shadows

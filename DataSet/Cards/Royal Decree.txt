@@ -1,0 +1,23 @@
+Royal Decree
+Card Type: Trap Card
+
+Description: Negate all other Trap effects on the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duel Devastator
+- Duelist Saga
+- Hobby League 3 participation card F
+- Legendary Collection 3: Yugi's World Mega Pack
+- Maze of Memories
+- Retro Pack 2
+- Structure Deck: Warrior's Triumph
+- The Secret Forces
+- Tournament Pack 4
+- Tournament Pack 6

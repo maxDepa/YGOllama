@@ -1,0 +1,17 @@
+Fire Fortress atop Liang Peak
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Fire Formation" card.)
+Each time a "Fire Fist" monster(s) is Normal or Special Summoned, place 1 Fire Fist Counter on this card. Once per turn: You can remove Fire Fist Counters from your field to activate 1 of these effects;
+● 2: If your Beast-Warrior monster attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.
+● 6: Add 1 Beast-Warrior monster from your Deck to your hand.
+● 10: Special Summon 1 Beast-Warrior monster from your Deck or Extra Deck, ignoring its Summoning conditions.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- Fists of the Gadgets

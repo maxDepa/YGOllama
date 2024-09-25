@@ -1,0 +1,13 @@
+Psychic Emperor
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned, gain 500 Life Points for each Psychic-Type monster in your Graveyard.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

@@ -1,0 +1,13 @@
+Bamboo Scrap
+Card Type: Trap Card
+
+Description: Tribute 1 Plant-Type monster. Special Summon 2 "Plant Tokens" (Plant-Type/EARTH/Level 1/ATK 800/DEF 500) to your opponent's side of the field in Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

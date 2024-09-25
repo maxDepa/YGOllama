@@ -1,0 +1,14 @@
+Scrap Beast
+Card Type: Tuner Monster
+
+Description: If this face-up Defense Position card is targeted for an attack, at the end of the Battle Phase: Destroy this card. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard: You can target 1 "Scrap" monster in your Graveyard, except "Scrap Beast"; add that target to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1300
+Archetype: Scrap
+Present in Sets:
+- Astral Pack Four
+- Duelist Revolution

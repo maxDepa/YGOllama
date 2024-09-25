@@ -1,0 +1,18 @@
+Artemis, the Magistus Moon Maiden
+Card Type: Link Monster
+
+Description: 1 Level 4 or lower Spellcaster monster
+If another "Magistus" monster(s) is Normal or Special Summoned while you control this monster (except during the Damage Step): You can target 1 of those monsters; equip this card you control to it. While this card is equipped to a monster: You can add 1 "Magistus" monster from your Deck to your hand. You can only use each effect of "Artemis, the Magistus Moon Maiden" once per turn. You can only Special Summon "Artemis, the Magistus Moon Maiden" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: Magistus
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battles of Legend: Crystal Revenge
+- Genesis Impact
+- Genesis Impact

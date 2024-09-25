@@ -1,0 +1,14 @@
+Photon Chargeman
+Card Type: Effect Monster
+
+Description: Once per turn: You can make this card's ATK become double its original ATK, until your next Standby Phase. This card cannot attack the turn you activate this effect.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Photon
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

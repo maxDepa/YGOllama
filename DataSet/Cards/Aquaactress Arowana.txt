@@ -1,0 +1,14 @@
+Aquaactress Arowana
+Card Type: Effect Monster
+
+Description: Once per turn: You can add 1 "Aquaactress" monster from your Deck to your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2000
+Defence: 2000
+Archetype: Aquaactress
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

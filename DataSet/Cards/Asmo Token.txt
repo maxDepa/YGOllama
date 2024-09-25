@@ -1,0 +1,12 @@
+Asmo Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Darklord Asmodeus". This Token cannot be destroyed by a card effect.
+
+Type: Fairy
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Darklord
+Present in Sets:

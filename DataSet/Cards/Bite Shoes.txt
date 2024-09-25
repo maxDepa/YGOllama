@@ -1,0 +1,15 @@
+Bite Shoes
+Card Type: Flip Effect Monster
+
+Description: FLIP: Change the battle position of 1 face-up monster on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 300
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

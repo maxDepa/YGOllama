@@ -1,0 +1,19 @@
+Mystic Box
+Card Type: Spell Card
+
+Description: Target 1 monster your opponent controls and 1 monster you control; destroy the first target, then give control of the second target to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Yugi Muto
+- War of the Giants Reinforcements
+- War of the Giants: Round 2
+- Yugi's Legendary Decks

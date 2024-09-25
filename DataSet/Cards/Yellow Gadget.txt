@@ -1,0 +1,23 @@
+Yellow Gadget
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can add 1 "Green Gadget" from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: Gadget
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Duelist Pack: Yugi
+- Fists of the Gadgets
+- Geargia Rampage Structure Deck
+- Hobby League 7 participation card F
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Machine Re-Volt
+- Turbo Pack: Booster Seven
+- Yugi's Legendary Decks

@@ -1,0 +1,14 @@
+Gem-Knight Sapphire
+Card Type: Normal Monster
+
+Description: His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.
+
+Type: Aqua
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2100
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

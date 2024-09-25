@@ -1,0 +1,14 @@
+Arcana Triumph Joker
+Card Type: Effect Monster
+
+Description: If this card is in your hand or GY: You can send 1 "Queen's Knight", "King's Knight", and "Jack's Knight" from your hand and/or face-up Monster Zone to the GY; Special Summon this card. This card gains 500 ATK x the combined number of cards in both players' hands. You can discard 1 card; destroy all face-up cards your opponent controls with the same type (Monster, Spell, or Trap) as the discarded card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 10
+Attack: -1
+Defence: 2500
+Archetype: Knight
+Present in Sets:
+- King's Court
+- King's Court

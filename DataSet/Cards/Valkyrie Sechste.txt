@@ -1,0 +1,14 @@
+Valkyrie Sechste
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can Special Summon 1 "Valkyrie" monster from your Deck, except "Valkyrie Sechste". During your Main Phase: You can send the top 2 cards of your opponent's Deck to the GY. You can only use each effect of "Valkyrie Sechste" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 2000
+Archetype: Valkyrie
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

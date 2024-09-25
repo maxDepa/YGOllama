@@ -1,0 +1,14 @@
+D/D/D Gust High King Alexander
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If 3 or more "D/D/D" monsters are on the field, this card gains 3000 ATK. If another "D/D" monster(s) is Normal or Special Summoned to your field while this monster is on the field (except during the Damage Step): You can target 1 "D/D" monster in your GY; Special Summon it. You can only use this effect of "D/D/D Gust High King Alexander" once per turn.
+
+Type: Fiend
+Attribute: WIND
+Level: 10
+Attack: 3000
+Defence: 2500
+Archetype: D/D
+Present in Sets:
+- Code of the Duelist

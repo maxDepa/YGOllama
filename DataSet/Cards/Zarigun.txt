@@ -1,0 +1,12 @@
+Zarigun
+Card Type: Normal Monster
+
+Description: A lethal crawfish with extremely dangerous claws.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 700
+Archetype: //
+Present in Sets:

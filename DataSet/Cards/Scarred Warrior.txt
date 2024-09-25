@@ -1,0 +1,14 @@
+Scarred Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Your opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 2100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Premium Collection Tin

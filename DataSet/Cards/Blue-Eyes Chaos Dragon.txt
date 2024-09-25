@@ -1,0 +1,14 @@
+Blue-Eyes Chaos Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Chaos Form". Must be Ritual Summoned. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this card was Ritual Summoned using "Blue-Eyes White Dragon", when it declares an attack: You can change the battle positions of as many monsters your opponent controls as possible, and if you do, the ATK/DEF of those changed monsters become 0, also, this turn, if this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

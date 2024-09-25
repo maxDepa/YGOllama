@@ -1,0 +1,13 @@
+Lucky Cloud
+Card Type: Spell Card
+
+Description: During the End Phase, if you Summoned 2 or more "Cloudian" monsters with the same name this turn, draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cloudian
+Present in Sets:
+- Gladiator's Assault

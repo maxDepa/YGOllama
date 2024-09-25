@@ -1,0 +1,14 @@
+Gunkan Suship Shari Red
+Card Type: Effect Monster
+
+Description: This card's name becomes "Gunkan Suship Shari" while in the hand, Deck, GY, or on the field. You can only use the following effect of "Gunkan Suship Shari Red" once per turn. You can reveal 1 other "Gunkan Suship Shari" in your hand; Special Summon this card from your hand, then you can apply this effect.
+● Special Summon 1 "Gunkan" monster from your Deck, except "Gunkan Suship Shari", but negate its effects (if any), then, Special Summon from your Extra Deck, 1 Xyz Monster that mentions that Special Summoned monster's name, using that monster and this card as material. (This is treated as an Xyz Summon.)
+
+Type: Aqua
+Attribute: FIRE
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Gunkan
+Present in Sets:
+- Power of the Elements

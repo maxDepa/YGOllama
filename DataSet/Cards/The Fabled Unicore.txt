@@ -1,0 +1,17 @@
+The Fabled Unicore
+Card Type: Synchro Monster
+
+Description: 1 "Fabled" Tuner + 1 or more non-Tuner monsters
+While you and your opponent have the same number of cards in hand, negate all Spell, Trap, and Effect Monster effects activated by your opponent, and destroy that Spell/Trap/Monster.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 2300
+Defence: 1000
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

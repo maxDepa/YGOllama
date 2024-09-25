@@ -1,0 +1,22 @@
+Go! - D/D/D Divine Zero King Rage
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you would take effect damage, you take no damage. If you Normal Summon 1 Level 5 or higher "D/D" monster, you can do it without Tributing. You can only use each Pendulum Effect of "Go! - D/D/D Divine Zero King Rage" once per turn.
+
+[ Monster Effect ] 
+When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.
+You can Tribute 1 other monster; apply 1 of these effects until the end of this turn.
+● This card can attack directly.
+● Your opponent cannot activate cards or effects in the Spell & Trap Zones.
+● Your opponent cannot activate card effects in their hand or GY.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Yu-Gi-Oh! ARC-V Volume 7 promotional card

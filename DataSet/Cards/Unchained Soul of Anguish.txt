@@ -1,0 +1,15 @@
+Unchained Soul of Anguish
+Card Type: Link Monster
+
+Description: 2+ monsters including an "Unchained Soul" monster
+You can target 1 face-up monster your opponent controls; immediately after this effect resolves, Link Summon 1 DARK Link Monster, except "Unchained Soul of Anguish", by using only that opponent's monster and this card you control as material. If this card on the field is destroyed by battle or card effect: You can target 1 Fiend monster in your GY, except "Unchained Soul of Anguish"; add it to your hand. You can only use each effect of "Unchained Soul of Anguish" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: Unchained
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

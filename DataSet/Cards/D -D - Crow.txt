@@ -1,0 +1,31 @@
+D.D. Crow
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: D.D.
+Present in Sets:
+- 2-Player Starter Set
+- Battles of Legend: Crystal Revenge
+- Champion Pack: Game Five
+- Duel Devastator
+- Duel Terminal 5a
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- OTS Tournament Pack 23
+- OTS Tournament Pack 3
+- Ra Yellow Mega Pack
+- Rise of the Duelist
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 3
+- Strike of Neos
+- Strike of Neos
+- Turbo Pack: Booster Three

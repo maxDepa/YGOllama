@@ -1,0 +1,14 @@
+Firebird
+Card Type: Effect Monster
+
+Description: Each time a Winged Beast-Type monster(s) on your side of the field is destroyed, this card gains 500 ATK.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

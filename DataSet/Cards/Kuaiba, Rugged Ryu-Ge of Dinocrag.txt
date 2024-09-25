@@ -1,0 +1,12 @@
+Kuaiba, Rugged Ryu-Ge of Dinocrag
+Card Type: Effect Monster
+
+Description: You can shuffle this card from your hand into the Deck; add 1 "Ryu-Ge Ascension Gate of Dinocrag" from your Deck to your hand. During the Main Phase, if 2 or more cards were destroyed this turn (Quick Effect): You can Special Summon this card from your hand. You can place 1 face-up "Ryu-Ge Ascension Gate of Dinocrag" you control on the bottom of the Deck, then target other cards on the field up to the number of different Monster Types among the monsters on the field; destroy them. You can only use each effect of "Kuaiba, Rugged Ryu-Ge of Dinocrag" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 10
+Attack: 3000
+Defence: 1200
+Archetype: Ryu-Ge
+Present in Sets:

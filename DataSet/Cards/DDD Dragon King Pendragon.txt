@@ -1,0 +1,14 @@
+D/D/D Dragon King Pendragon
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can Tribute 1 Dragon-Type monster and 1 other Fiend-Type monster from your hand and/or your side of the field; Special Summon this card. Once per turn: You can discard 1 card; this card gains 500 ATK, then you can destroy 1 Spell/Trap Card on the field. This ATK increase lasts until the end of this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 2400
+Archetype: D/D
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Dark Legion Starter Deck

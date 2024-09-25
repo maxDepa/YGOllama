@@ -1,0 +1,17 @@
+Ultra Evolution Pill
+Card Type: Spell Card
+
+Description: Tribute 1 Reptile monster; Special Summon 1 Dinosaur monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Ultimate Predators

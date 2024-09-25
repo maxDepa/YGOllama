@@ -1,0 +1,14 @@
+Kagemusha of the Six Samurai
+Card Type: Tuner Monster
+
+Description: During either player's turn, when exactly 1 face-up "Six Samurai" monster you control is targeted by a Spell Card, Trap Card, or card effect that could have targeted this card: You can activate this effect; that Spell/Trap/effect now targets this face-up card on the field, instead.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 1800
+Archetype: Six Samurai
+Present in Sets:
+- Astral Pack One
+- Storm of Ragnarok

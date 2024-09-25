@@ -1,0 +1,17 @@
+Contract with the Dark Master
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Dark Master - Zorc". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Millennium Pack

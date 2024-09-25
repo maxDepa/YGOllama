@@ -1,0 +1,12 @@
+Ice Ryzeal
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by sending 1 card from your hand or field to the GY. If you do, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon "Ice Ryzeal" once per turn this way. If this card is Normal Summoned: You can Special Summon 1 "Ryzeal" monster from your Deck, except "Ice Ryzeal". You can only use this effect of "Ice Ryzeal" once per turn.
+
+Type: Pyro
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Ryzeal
+Present in Sets:

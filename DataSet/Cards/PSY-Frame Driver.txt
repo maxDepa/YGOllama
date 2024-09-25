@@ -1,0 +1,17 @@
+PSY-Frame Driver
+Card Type: Normal Monster
+
+Description: A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an autonomic amplifier called "PSY-Frame".
+
+Type: Psychic
+Attribute: LIGHT
+Level: 6
+Attack: 2500
+Defence: 0
+Archetype: PSY-Frame
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- High-Speed Riders
+- Maximum Gold: El Dorado
+- Toon Chaos

@@ -1,0 +1,38 @@
+Foolish Burial
+Card Type: Spell Card
+
+Description: Send 1 monster from your Deck to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Dragunity Legion Structure Deck
+- Duel Terminal 5a
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Legendary Hero Decks
+- Maximum Gold
+- Noble Knights of the Round Table Box Set
+- Pendulum Domination Structure Deck
+- Premium Gold: Return of the Bling
+- Realm of Light Structure Deck
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Structure Deck: Marik (TCG)
+- Structure Deck: Shaddoll Showdown
+- Structure Deck: Zombie Horde
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 D
+- Turbo Pack: Booster Two
+- Valiant Smashers

@@ -1,0 +1,13 @@
+ESP Amplifier
+Card Type: Spell Card
+
+Description: All face-up Psychic-Type monsters you controlled when this card was activated gain 300 ATK for each of your Psychic-Type monsters that is removed from play when this card resolves. During the End Phase, remove from play all monsters that were affected by this effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory

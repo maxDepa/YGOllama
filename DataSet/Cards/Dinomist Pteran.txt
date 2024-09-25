@@ -1,0 +1,18 @@
+Dinomist Pteran
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If another "Dinomist" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.
+
+[ Monster Effect ] 
+When this card destroys an opponent's monster by battle: You can add 1 "Dinomist" card from your Deck to your hand.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Dinomist
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

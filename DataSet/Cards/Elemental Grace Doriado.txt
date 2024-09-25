@@ -1,0 +1,14 @@
+Elemental Grace Doriado
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 6 or more monsters with different Attributes in the GYs. Gains ATK/DEF equal to the number of different Attributes in the GYs x 500. When your opponent would Special Summon a monster(s) (Quick Effect): You can banish 3 monsters from your GY; negate the Summon, and if you do, destroy that monster(s).
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 9
+Attack: 0
+Defence: 0
+Archetype: Doriado
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

@@ -1,0 +1,15 @@
+Musto, Oracle of Gusto
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 "Gusto" monster in your Graveyard and 1 face-up monster on the field; shuffle the first target into the Deck, and if you do, negate the second target's effects until the End Phase.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 900
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

@@ -1,0 +1,14 @@
+Emperor Maju Garzett
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. This card's ATK becomes the combined original ATK of the Tributed monsters. Your opponent cannot activate cards or effects during the Battle Phase.
+
+Type: Fiend
+Attribute: DARK
+Level: 9
+Attack: 0
+Defence: 0
+Archetype: Maju
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

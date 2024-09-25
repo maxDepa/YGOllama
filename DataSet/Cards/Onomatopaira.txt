@@ -1,0 +1,18 @@
+Onomatopaira
+Card Type: Spell Card
+
+Description: You can only activate 1 "Onomatopaira" per turn. Send 1 card from your hand to the GY; add up to 2 of these monsters from your Deck to your hand (you cannot add 2 from the same category).
+● 1 "Zubaba" monster
+● 1 "Gagaga" monster
+● 1 "Gogogo" monster
+● 1 "Dododo" monster
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dododo
+Present in Sets:
+- Legacy of the Valiant
+- Legendary Duelists: Magical Hero

@@ -1,0 +1,14 @@
+Yaguramaru the Armor Ninja
+Card Type: Fusion Monster
+
+Description: 2 "Ninja" monsters with different Types
+Must first be either Fusion Summoned, or Special Summoned from your Extra Deck by Tributing the above cards. If this card is Special Summoned or flipped face-up: You can banish 1 other "Ninja" or "Ninjitsu Art" card from your hand, GY, or face-up field, then target 1 card on the field; banish it. You can only use this effect of "Yaguramaru the Armor Ninja" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 2000
+Archetype: Ninja
+Present in Sets:
+- Photon Hypernova

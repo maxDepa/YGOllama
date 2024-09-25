@@ -1,0 +1,27 @@
+The Flute of Summoning Dragon
+Card Type: Spell Card
+
+Description: Special Summon up to 2 Dragon monsters from your hand. "Lord of D." must be on the field to activate and to resolve this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Legends
+- Dragons Collide Structure Deck
+- Duelist League 17 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack
+- Retro Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 1
+- Speed Duel Tournament Pack 6
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Structure Deck: Seto Kaiba

@@ -1,0 +1,16 @@
+Dark Simorgh
+Card Type: Effect Monster
+
+Description: While face-up on the field, this card is also WIND-Attribute. You can banish 1 DARK monster and 1 WIND monster from your Graveyard; Special Summon this card from your hand. You can banish 1 DARK monster and 1 WIND monster from your hand; Special Summon this card from your Graveyard. Your opponent cannot Set any cards on the field.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 7
+Attack: 2700
+Defence: 1000
+Archetype: Simorgh
+Present in Sets:
+- Collectible Tins 2011 Wave 1
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Stardust Overdrive

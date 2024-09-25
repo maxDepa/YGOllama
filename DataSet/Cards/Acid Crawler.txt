@@ -1,0 +1,12 @@
+Acid Crawler
+Card Type: Normal Monster
+
+Description: A giant caterpillar that secretes an acid mist that melts anything.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:

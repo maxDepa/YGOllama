@@ -1,0 +1,21 @@
+Hane-Hane
+Card Type: Flip Effect Monster
+
+Description: FLIP: Select 1 monster on the field and return it to its owner's hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 450
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Retro Pack
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus

@@ -1,0 +1,13 @@
+Wind-Up Hunter
+Card Type: Effect Monster
+
+Description: You can Tribute 1 face-up "Wind-Up" monster, except "Wind-Up Hunter"; send 1 random card from your opponent's hand to the Graveyard. This effect can only be used once while this card is face-up on the field.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 3
+Attack: 1600
+Defence: 500
+Archetype: Wind-Up
+Present in Sets:
+- Photon Shockwave

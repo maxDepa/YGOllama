@@ -1,0 +1,18 @@
+Light of Judgment
+Card Type: Trap Card
+
+Description: If "The Sanctuary in the Sky" is on the field: Discard 1 LIGHT monster to the GY; apply 1 of the following effects.
+● Look at your opponent's hand and discard 1 card from their hand.
+● Send 1 card your opponent controls to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Duelist League 3 participation cards
+- Structure Deck: Wave of Light

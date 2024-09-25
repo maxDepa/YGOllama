@@ -1,0 +1,14 @@
+The Calibrator
+Card Type: Effect Monster
+
+Description: This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

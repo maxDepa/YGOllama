@@ -1,0 +1,13 @@
+Burglar
+Card Type: Normal Monster
+
+Description: A sly rat. He will come at you with his huge left claw.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 850
+Defence: 800
+Archetype: //
+Present in Sets:
+- Tournament Pack 6

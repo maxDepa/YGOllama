@@ -1,0 +1,19 @@
+Rilliona, the Magistus of Verre
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can activate 1 of these effects;
+● Add 1 "Magistus" Spell/Trap from your Deck to your hand.
+● Return 1 of your banished Level 4 or lower Spellcaster monsters to your GY.
+You can banish this card from your GY, then target 1 "Magistus" monster you control; equip it with 1 "Magistus" monster from your GY, except a Level 4 monster.
+You can only use each effect of "Rilliona, the Magistus of Verre" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: Magistus
+Present in Sets:
+- Genesis Impact
+- Genesis Impact
+- Magnificent Mavens

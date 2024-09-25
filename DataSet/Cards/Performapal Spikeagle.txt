@@ -1,0 +1,14 @@
+Performapal Spikeagle
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 900
+Defence: 900
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity

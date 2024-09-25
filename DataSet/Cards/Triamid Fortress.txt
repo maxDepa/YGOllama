@@ -1,0 +1,13 @@
+Triamid Fortress
+Card Type: Spell Card
+
+Description: All Rock-Type monsters on the field gain 500 DEF. "Triamid" monsters on the field cannot be destroyed by card effects. If this face-up card in the Field Zone is sent to the Graveyard: You can target 1 "Triamid" monster in your Graveyard; add it to your hand. You can only use this effect of "Triamid Fortress" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Triamid
+Present in Sets:
+- The Dark Illusion

@@ -1,0 +1,14 @@
+Bonding - DHO
+Card Type: Trap Card
+
+Description: Shuffle 1 "Duoterion", 1 "Hydrogeddon", and 1 "Oxygeddon" from your hand and/or GY into the Deck; Special Summon 1 "Water Dragon Cluster" from your hand or GY. You can banish this card from your GY; add 1 "Water Dragon" or "Water Dragon Cluster" from your Deck or GY to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bonding
+Present in Sets:
+- Legendary Duelists
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,16 @@
+Eisbahn
+Card Type: Trap Card
+
+Description: If a non-WATER monster(s) is Normal or Special Summoned while you control a WATER monster: Change that Summoned monster to Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Photon Shockwave
+- Structure Deck: Freezing Chains

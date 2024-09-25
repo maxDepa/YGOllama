@@ -1,0 +1,13 @@
+Clockwork Night
+Card Type: Spell Card
+
+Description: All face-up monsters on the field become Machine monsters. Machine monsters you control gain 500 ATK/DEF, also Machine monsters your opponent controls lose 500 ATK/DEF. You can banish this card from your GY, then discard 1 card; add 1 EARTH Machine monster from your Deck to your hand. You can only use this effect of "Clockwork Night" once per turn. You can only activate 1 "Clockwork Night" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge

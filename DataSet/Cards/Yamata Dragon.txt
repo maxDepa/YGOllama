@@ -1,0 +1,17 @@
+Yamata Dragon
+Card Type: Spirit Monster
+
+Description: This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, draw cards until you have 5 cards in your hand.
+
+Type: Dragon
+Attribute: FIRE
+Level: 7
+Attack: 2600
+Defence: 3100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Retro Pack 2
+- Tournament Pack 6

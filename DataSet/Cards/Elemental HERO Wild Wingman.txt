@@ -1,0 +1,19 @@
+Elemental HERO Wild Wingman
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Wildheart" + "Elemental HERO Avian"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 1900
+Defence: 2300
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,18 @@
+Predaplant Triantis
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+While this card is in your Pendulum Zone, if you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon.
+
+[ Monster Effect ] 
+If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.
+
+Type: Plant
+Attribute: DARK
+Level: 8
+Attack: 2400
+Defence: 1000
+Archetype: Predap
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

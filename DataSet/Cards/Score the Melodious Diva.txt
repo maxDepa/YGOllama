@@ -1,0 +1,16 @@
+Score the Melodious Diva
+Card Type: Effect Monster
+
+Description: During damage calculation (in either player's turn), if a "Melodious" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; change that opponent's monster's ATK and DEF to 0, until the end of this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: Melodious
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Star Pack Battle Royal
+- Star Pack Battle Royal

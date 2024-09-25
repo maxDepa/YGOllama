@@ -1,0 +1,13 @@
+Fortune Fairy En
+Card Type: Effect Monster
+
+Description: When you draw this card: You can reveal it; Special Summon it from your hand. If this card is Special Summoned from the hand: You can target 1 Set card your opponent controls; destroy it. You can only use each effect of "Fortune Fairy En" once per turn.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Fortune Fairy
+Present in Sets:
+- Battles of Legend: Hero's Revenge

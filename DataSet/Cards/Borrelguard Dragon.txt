@@ -1,0 +1,15 @@
+Borrelguard Dragon
+Card Type: Link Monster
+
+Description: 3+ Effect Monsters
+Cannot be destroyed by card effects. Once per turn: You can send 1 card from your Spell & Trap Zone to the GY; Special Summon from either GY to your field, 1 monster that was destroyed and sent there this turn, but negate its effects. Once per turn (Quick Effect): You can target 1 monster on the field; change it to face-up Defense Position. Your opponent cannot activate cards or effects in response to this effect's activation.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Borrel
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge

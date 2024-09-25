@@ -1,0 +1,13 @@
+Iron Knight
+Card Type: Effect Monster
+
+Description: Loses 1000 ATK while you control "Iron Hans". If this card on the field is destroyed by battle or sent to the GY by a card effect: You can add 1 "Iron Hans" from your Deck to your hand, or, if "Golden Castle of Stromberg" is in a Field Zone, you can add 1 Warrior monster from your Deck to your hand, instead. You can only use this effect of "Iron Knight" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 700
+Archetype: Golden Castle of Stromberg
+Present in Sets:
+- Battles of Legend: Relentless Revenge

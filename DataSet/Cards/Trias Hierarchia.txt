@@ -1,0 +1,17 @@
+Trias Hierarchia
+Card Type: Effect Monster
+
+Description: During the Main Phase, if this card is in your hand or GY (Quick Effect): You can Tribute up to 3 Fairy monsters; Special Summon this card (but banish it when it leaves the field), then, you can apply the following effect(s) in sequence, depending on the number of Tributed monsters.
+● 2+: Destroy 1 card your opponent controls. ● 3: Draw 2 cards.
+You can only use this effect of "Trias Hierarchia" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 9
+Attack: 1900
+Defence: 2900
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- OTS Tournament Pack 25

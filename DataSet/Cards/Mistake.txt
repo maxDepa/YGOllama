@@ -1,0 +1,17 @@
+Mistake
+Card Type: Trap Card
+
+Description: Neither player can add cards from their Deck to their hand except by drawing them.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Maximum Gold
+- Premium Gold: Infinite Gold
+- Shadow Specters
+- Structure Deck: Sacred Beasts

@@ -1,0 +1,14 @@
+Rosaria, the Stately Fallen Angel
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (1 from your hand and 1 from your Graveyard). Once per turn: You can negate the effects of all other face-up cards currently on the field, until the end of this turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 8
+Attack: 2900
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Premium Collection Tin

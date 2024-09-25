@@ -1,0 +1,13 @@
+Wattwoodpecker
+Card Type: Effect Monster
+
+Description: This card can attack twice during each Battle Phase. Any monster that battles with this card cannot change its battle position.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 100
+Archetype: Watt
+Present in Sets:
+- The Shining Darkness

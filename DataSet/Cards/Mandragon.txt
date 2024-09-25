@@ -1,0 +1,14 @@
+Mandragon
+Card Type: Pendulum Normal Monster
+
+Description: ''This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.''
+
+Type: Plant
+Attribute: EARTH
+Level: 5
+Attack: 2500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Advanced Demo Deck Extra Pack
+- Clash of Rebellions

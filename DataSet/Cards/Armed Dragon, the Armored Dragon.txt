@@ -1,0 +1,13 @@
+Armed Dragon, the Armored Dragon
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle: You can Special Summon 1 Level 5 or lower WIND Dragon monster from your hand or Deck, except "Armed Dragon, the Armored Dragon", but it cannot attack directly this turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 1400
+Archetype: Armed Dragon
+Present in Sets:
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,13 @@
+The Six Shinobi
+Card Type: Trap Card
+
+Description: If you control 6 "Six Samurai" monsters with different Attributes: Skip your opponent's next turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Spirit Warriors

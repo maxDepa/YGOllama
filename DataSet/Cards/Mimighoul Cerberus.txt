@@ -1,0 +1,16 @@
+Mimighoul Cerberus
+Card Type: Flip Effect Monster
+
+Description: FLIP: If it is the Main Phase: Apply these effects in sequence.
+● Banish the top 3 cards of your Deck, then Special Summon 1 of your banished monsters to your opponent's field in Defense Position.
+● Give control of this card to your opponent.
+During your Main Phase: You can Special Summon this card from your hand to your opponent's field in face-down Defense Position. You can only use each effect of "Mimighoul Cerberus" once per turn. Your opponent cannot target face-up Spells you control with card effects.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 400
+Defence: 1800
+Archetype: Mimighoul
+Present in Sets:
+- The Infinite Forbidden

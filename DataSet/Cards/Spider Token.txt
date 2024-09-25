@@ -1,0 +1,12 @@
+Spider Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Spider Egg".
+
+Type: Insect
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

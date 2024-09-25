@@ -1,0 +1,12 @@
+Dice Armadillo
+Card Type: Normal Monster
+
+Description: An armadillo monster that rolls up to form a dice-like shape.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1650
+Defence: 1800
+Archetype: //
+Present in Sets:

@@ -1,0 +1,15 @@
+Despian Proskenion
+Card Type: Fusion Monster
+
+Description: 1 "Despia" monster + 1 LIGHT monster + 1 DARK monster
+During the Main Phase (Quick Effect): You can target 1 Fusion, Synchro, Xyz, or Link Monster in your opponent's GY; banish it, or Special Summon it to your field. When this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK or DEF (whichever is higher). You can only use each effect of "Despian Proskenion" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 11
+Attack: 3200
+Defence: 3200
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

@@ -1,0 +1,15 @@
+Laval Volcano Handmaiden
+Card Type: Tuner Monster
+
+Description: When this card is sent to the Graveyard, if you have a "Laval" monster in your Graveyard other than "Laval Volcano Handmaiden": You can send 1 "Laval" monster from your Deck to your Graveyard.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6a
+- Ghosts From the Past
+- Hidden Arsenal 6: Omega Xyz

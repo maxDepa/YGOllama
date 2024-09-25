@@ -1,0 +1,16 @@
+Gravekeeper's Guard
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 monster your opponent controls; return that target to the hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1900
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Structure Deck: Marik (TCG)

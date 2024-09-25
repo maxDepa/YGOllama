@@ -1,0 +1,18 @@
+Mathematician
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Emperor of Darkness Structure Deck
+- Premium Gold: Return of the Bling
+- Structure Deck: Cyberse Link
+- Structure Deck: Shaddoll Showdown

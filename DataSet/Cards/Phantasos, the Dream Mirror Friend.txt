@@ -1,0 +1,13 @@
+Phantasos, the Dream Mirror Friend
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Dream Mirror" monster: You can target 1 Level 8 or lower "Dream Mirror" monster in your GY, except "Phantasos, the Dream Mirror Friend"; Special Summon it in Defense Position. During the Main or Battle Phase, if "Dream Mirror of Terror" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 "Phantasos, the Dream Mirror Foe" from your Deck. You can only use each effect of "Phantasos, the Dream Mirror Friend" once per turn.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 900
+Defence: 1900
+Archetype: Dream Mirror
+Present in Sets:
+- Chaos Impact

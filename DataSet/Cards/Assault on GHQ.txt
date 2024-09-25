@@ -1,0 +1,16 @@
+Assault on GHQ
+Card Type: Trap Card
+
+Description: Target 1 monster you control; destroy it, then send 2 cards from the top of your opponent's Deck to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Speed Duel: Trials of the Kingdom

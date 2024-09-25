@@ -1,0 +1,15 @@
+Mind on Air
+Card Type: Effect Monster
+
+Description: Your opponent must play with their hand revealed.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 1000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

@@ -1,0 +1,15 @@
+Oyster Meister
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the Graveyard, except when destroyed by battle: Special Summon 1 "Oyster Token" (Fish-Type/WATER/Level 1/ATK 0/DEF 0).
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1600
+Defence: 200
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 3
+- Speed Duel: Streets of Battle City
+- The Duelist Genesis

@@ -1,0 +1,17 @@
+Karbonala Warrior
+Card Type: Fusion Monster
+
+Description: "M-Warrior #1" + "M-Warrior #2"
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Speed Duel: Streets of Battle City
+- Tournament Pack: 3rd Season

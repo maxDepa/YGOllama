@@ -1,0 +1,14 @@
+Crystron Ametrix
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is Synchro Summoned: You can change all face-up Special Summoned monsters your opponent controls to Defense Position. If this Synchro Summoned card is destroyed by battle or card effect: You can target 1 "Crystron" monster in your Graveyard, except a Synchro Monster; Special Summon it.
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 2500
+Defence: 1500
+Archetype: Crystron
+Present in Sets:
+- Invasion: Vengeance

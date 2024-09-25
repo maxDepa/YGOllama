@@ -1,0 +1,14 @@
+Magician's Restage
+Card Type: Spell Card
+
+Description: You can target 1 Level 3 or lower Spellcaster-Type monster in your Graveyard; Special Summon it. This effect can only be used once while this card is face-up on the field. If this card is sent to the Graveyard: You can add 1 "Magician" Continuous Spell Card from your Deck to your hand, except "Magician's Restage".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magnificent Mavens
+- Maximum Crisis

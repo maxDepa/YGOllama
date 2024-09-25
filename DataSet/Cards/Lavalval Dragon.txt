@@ -1,0 +1,16 @@
+Lavalval Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner FIRE monsters
+ You can shuffle 2 "Laval" monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.
+
+Type: Dragon
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 1100
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5a
+- Ghosts From the Past
+- Hidden Arsenal 5: Steelswarm Invasion

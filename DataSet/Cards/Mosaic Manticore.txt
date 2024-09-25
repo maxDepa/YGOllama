@@ -1,0 +1,15 @@
+Mosaic Manticore
+Card Type: Effect Monster
+
+Description: During the Standby Phase of your next turn after you Tribute Summoned this face-up card on the field: Special Summon, from the Graveyard, as many monster(s) as possible that were used for its Tribute Summon. They cannot declare an attack, and their effects are negated.
+
+Type: Beast
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Crossroads of Chaos

@@ -1,0 +1,15 @@
+Vylon Sigma
+Card Type: Synchro Monster
+
+Description: 1 LIGHT Tuner + 1 or more non-Tuner LIGHT monsters
+When this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 1800
+Defence: 1000
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

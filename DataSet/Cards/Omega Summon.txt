@@ -1,0 +1,14 @@
+Omega Summon
+Card Type: Trap Card
+
+Description: Target any number of your banished "Invoked" monsters with different names; Special Summon them in Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Invoked
+Present in Sets:
+- Fusion Enforcers
+- Shadows in Valhalla

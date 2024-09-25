@@ -1,0 +1,13 @@
+Invader from Another Dimension
+Card Type: Normal Monster
+
+Description: An extraterrestrial monster that came from a distant galaxy.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 950
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Astral Pack Seven

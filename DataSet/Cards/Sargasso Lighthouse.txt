@@ -1,0 +1,13 @@
+Sargasso Lighthouse
+Card Type: Spell Card
+
+Description: When a Spell effect that would inflict damage to you is activated: You take no damage from that effect. While this card is in your Graveyard, you take no damage from the effect of "Sargasso the D.D. Battlefield". When this Set card is sent to the Graveyard: You can add 1 "Sargasso the D.D. Battlefield" from your Deck to your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

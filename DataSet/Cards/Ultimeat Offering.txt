@@ -1,0 +1,14 @@
+Ultimeat Offering
+Card Type: Trap Card
+
+Description: During your Main Phase: You can pay 1000 LP; you can conduct up to 3 Normal Summons/Sets this turn, not just 1. During your opponent's Battle Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon 1 monster. You can only use each effect of "Terminal Offering" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Nightmare
+- The Lost Art Promotion 2024

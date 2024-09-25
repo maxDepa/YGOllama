@@ -1,0 +1,16 @@
+Contact with the Aquamirror
+Card Type: Spell Card
+
+Description: If you control a face-up WATER monster, activate 1 of these effects. If you control a face-up WATER Ritual Monster, you can activate both of these effects:
+● Look at all Set cards in your opponent's Spell & Trap Card Zones.
+● Look at the 2 top cards of either player's Deck and return them to the top of the Deck in any order.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- OTS Tournament Pack 21

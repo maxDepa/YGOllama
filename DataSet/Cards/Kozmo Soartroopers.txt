@@ -1,0 +1,13 @@
+Kozmo Soartroopers
+Card Type: Effect Monster
+
+Description: During either player's turn: You can banish this card; Special Summon 1 Level 4 or higher "Kozmo" monster from your hand. You can only use this effect of "Kozmo Soartroopers" once per turn. Once per turn: You can pay 1000 LP, then target 1 Psychic-Type "Kozmo" monster in your Graveyard; Special Summon it.
+
+Type: Psychic
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Kozmo
+Present in Sets:
+- Breakers of Shadow

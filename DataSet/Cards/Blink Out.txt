@@ -1,0 +1,13 @@
+Blink Out
+Card Type: Spell Card
+
+Description: Target 1 Link Monster on the field; return it to the Extra Deck, then you can Special Summon 1 of the monsters from your GY that was sent there as its Link Material.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of Destruction

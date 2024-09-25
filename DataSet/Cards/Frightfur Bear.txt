@@ -1,0 +1,19 @@
+Frightfur Bear
+Card Type: Fusion Monster
+
+Description: "Edge Imp Sabres" + "Fluffal Bear"
+When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip that monster to this card as an Equip Spell Card with this effect.
+● The equipped monster gains 1000 ATK.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: Edge Imp
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Star Pack ARC-V
+- Star Pack ARC-V
+- The New Challengers
+- The New Challengers

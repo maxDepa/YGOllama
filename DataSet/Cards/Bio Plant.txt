@@ -1,0 +1,12 @@
+Bio Plant
+Card Type: Normal Monster
+
+Description: A monster created from a major accident in an underground lab.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1300
+Archetype: //
+Present in Sets:

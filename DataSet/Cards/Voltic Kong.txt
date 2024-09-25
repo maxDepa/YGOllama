@@ -1,0 +1,16 @@
+Voltic Kong
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent: Send 1 card from the top of your opponent's Deck to the Graveyard for each face-up LIGHT monster you control.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Seven
+- Speed Duel: Streets of Battle City

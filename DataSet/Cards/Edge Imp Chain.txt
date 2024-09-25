@@ -1,0 +1,16 @@
+Edge Imp Chain
+Card Type: Effect Monster
+
+Description: When this card declares an attack: You can add 1 "Edge Imp Chain" from your Deck to your hand. If this card is sent from the hand or field to the Graveyard: You can add 1 "Frightfur" card from your Deck to your hand. You can only use 1 "Edge Imp Chain" effect per turn, and only once that turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Edge Imp
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Battles of Legend: Crystal Revenge
+- Crossed Souls
+- Fusion Enforcers

@@ -1,0 +1,16 @@
+Neo Flamvell Shaman
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle while you have 3 or more "Flamvell" monsters in your Graveyard, select 1 card in your opponent's Graveyard and remove it from play. If your opponent does not have any Spell Cards in their Graveyard when this effect activates, inflict 500 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1700
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

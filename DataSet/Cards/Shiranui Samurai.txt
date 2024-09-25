@@ -1,0 +1,15 @@
+Shiranui Samurai
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can banish 1 Zombie monster from your GY; this card gains 600 ATK, and if it does, banish any monster that battled this card, after damage calculation. These effects last until the end of this turn. If this card is banished: You can target 1 "Shiranui" monster in your GY, except "Shiranui Samurai"; add it to your hand. You can only use each effect of "Shiranui Samurai" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Hidden Summoners

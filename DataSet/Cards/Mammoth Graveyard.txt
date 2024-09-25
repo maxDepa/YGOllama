@@ -1,0 +1,18 @@
+Mammoth Graveyard
+Card Type: Normal Monster
+
+Description: A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Starter Deck: Yugi
+- Yugi's Legendary Decks

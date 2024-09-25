@@ -1,0 +1,16 @@
+Prime Material Dragon
+Card Type: Effect Monster
+
+Description: Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dragons Collide Structure Deck
+- Gold Series 2009
+- Phantom Darkness
+- Premium Gold

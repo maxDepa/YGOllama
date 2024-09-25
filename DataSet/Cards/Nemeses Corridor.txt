@@ -1,0 +1,13 @@
+Nemeses Corridor
+Card Type: Effect Monster
+
+Description: You can target 1 of your banished monsters, except "Nemeses Corridor"; Special Summon this card from your hand, and if you do, shuffle that target into the Deck. You can target 1 of your banished "Nemeses" monsters, except "Nemeses Corridor"; add it to your hand. You can only use each effect of "Nemeses Corridor" once per turn.
+
+Type: Thunder
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 600
+Archetype: Nemeses
+Present in Sets:
+- Eternity Code

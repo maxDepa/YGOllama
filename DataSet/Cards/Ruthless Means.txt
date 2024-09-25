@@ -1,0 +1,13 @@
+Ruthless Means
+Card Type: Skill Card
+
+Description: Once per Duel, during your Main Phase, if you control an "Evil HERO" monster, you can discard 1 card to make 1 face-up monster your opponent controls lose ATK equal to its own DEF, or lose DEF equal to its own ATK (your choice).
+
+Type: The Supreme K
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

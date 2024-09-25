@@ -1,0 +1,15 @@
+Spell Economics
+Card Type: Spell Card
+
+Description: You do not pay Life Points to activate Spell Cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Legendary Collection 3: Yugi's World Mega Pack

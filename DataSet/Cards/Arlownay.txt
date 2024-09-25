@@ -1,0 +1,12 @@
+Arlownay
+Card Type: Normal Monster
+
+Description: A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:

@@ -1,0 +1,14 @@
+Sylvan Guardioak
+Card Type: Effect Monster
+
+Description: Once per turn: You can choose a number from 1 to 3, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 other Plant-Type monster in your Graveyard; place that target on the top of your Deck.
+
+Type: Plant
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1500
+Archetype: Sylvan
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

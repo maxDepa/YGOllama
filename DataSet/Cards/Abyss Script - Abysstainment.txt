@@ -1,0 +1,13 @@
+Abyss Script - Abysstainment
+Card Type: Spell Card
+
+Description: You can Tribute 1 "Abyss Actor" monster, then target 1 "Abyss Script" Spell in your GY; Set it to your field. You can use this effect of "Abyss Script - Abysstainment" up to twice per turn. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up "Abyss Actor" Pendulum Monster in your Extra Deck: You can Special Summon any number of "Abyss Actor" Pendulum Monsters from your Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Abyss Actor
+Present in Sets:
+- Battles of Legend: Light's Revenge

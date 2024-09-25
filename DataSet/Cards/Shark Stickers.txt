@@ -1,0 +1,13 @@
+Shark Stickers
+Card Type: Effect Monster
+
+Description: When a Fish, Sea Serpent, or Aqua-Type monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 200
+Defence: 1000
+Archetype: Shark
+Present in Sets:
+- Photon Shockwave

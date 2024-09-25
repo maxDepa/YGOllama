@@ -1,0 +1,14 @@
+Sonic Shooter
+Card Type: Effect Monster
+
+Description: If there are no cards in your opponent's Spell & Trap Zone, this card can attack your opponent directly. If it does, the battle damage inflicted to your opponent is the original ATK of this card.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 600
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Lord of the Storm

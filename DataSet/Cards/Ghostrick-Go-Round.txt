@@ -1,0 +1,16 @@
+Ghostrick-Go-Round
+Card Type: Trap Card
+
+Description: Once per turn, during the Battle Phase: You can activate 1 of these effects.
+● Target 1 "Ghostrick" monster you control; change that target to face-down Defense Position, and if you do, change 1 face-down Defense Position monster your opponent controls to face-up Attack Position.
+● Target 1 face-down Defense Position monster you control; change that target to face-up Attack Position, and if it is a "Ghostrick" monster, change 1 face-up monster your opponent controls to face-down Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

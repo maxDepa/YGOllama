@@ -1,0 +1,19 @@
+The Melody of Awakening Dragon
+Card Type: Spell Card
+
+Description: Discard 1 card; add up to 2 Dragon monsters with 3000 or more ATK and 2500 or less DEF from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: White Dragon Abyss
+- OTS Tournament Pack 2
+- Structure Deck: Legend of the Crystal Beasts

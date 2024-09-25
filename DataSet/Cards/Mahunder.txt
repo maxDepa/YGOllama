@@ -1,0 +1,13 @@
+Mahunder
+Card Type: Effect Monster
+
+Description: Once per turn: You can Normal Summon 1 Level 4 LIGHT Thunder-Type monster from your hand, except "Mahunder", as an additional Normal Summon.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 700
+Archetype: //
+Present in Sets:
+- Return of the Duelist

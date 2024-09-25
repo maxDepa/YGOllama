@@ -1,0 +1,14 @@
+Paladin of Storm Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Cynet Ritual". At the start of the Damage Step, if this card attacks a monster: You can return that monster to the hand. You can Tribute this card; Special Summon 1 Level 5 or higher Cyberse monster from your hand or Deck, but it cannot activate its effects this turn. You can only use each effect of "Paladin of Storm Dragon" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 900
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

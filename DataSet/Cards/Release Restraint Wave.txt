@@ -1,0 +1,17 @@
+Release Restraint Wave
+Card Type: Spell Card
+
+Description: Target 1 face-up Equip Spell Card you control; destroy the Equip Spell Card and all face-down Spell and Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Duelist Pack: Yusei 2
+- Noble Knights of the Round Table Box Set
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

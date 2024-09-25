@@ -1,0 +1,17 @@
+Battleguard King
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 1100
+Archetype: Battleguard
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Demo Deck 2016
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

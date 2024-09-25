@@ -1,0 +1,14 @@
+Bee List Soldier
+Card Type: Effect Monster
+
+Description: You can Tribute this card and 1 face-up Insect monster, except "Bee List Soldier"; draw 2 cards.
+
+Type: Insect
+Attribute: WIND
+Level: 1
+Attack: 500
+Defence: 400
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Speed Duel Starter Decks: Ultimate Predators

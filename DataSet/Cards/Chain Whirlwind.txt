@@ -1,0 +1,13 @@
+Chain Whirlwind
+Card Type: Trap Card
+
+Description: Activate only when a card on the field is destroyed by a card effect. Select 2 Spell/Trap Cards on the field and destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

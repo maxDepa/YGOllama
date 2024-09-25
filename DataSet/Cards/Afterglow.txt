@@ -1,0 +1,13 @@
+Afterglow
+Card Type: Spell Card
+
+Description: Banish this card, and as many "Afterglow" from your hand, Deck, GY, and face-up field as possible, then shuffle 1 of your banished "Afterglow" into the Deck. During your next Draw Phase, reveal the card you draw for your normal draw, and inflict 4000 damage to your opponent if it is "Afterglow". You can only activate 1 "Afterglow" per Duel.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon

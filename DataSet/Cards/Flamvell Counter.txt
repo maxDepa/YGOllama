@@ -1,0 +1,15 @@
+Flamvell Counter
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card is activated: Banish 1 FIRE monster with 200 DEF from your Graveyard; negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Flamvell
+Present in Sets:
+- Ancient Prophecy
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Fire Kings

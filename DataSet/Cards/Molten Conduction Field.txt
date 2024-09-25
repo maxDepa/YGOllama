@@ -1,0 +1,15 @@
+Molten Conduction Field
+Card Type: Spell Card
+
+Description: Send 2 "Laval" monsters from your Deck to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 7a
+- Ghosts From the Past
+- Hidden Arsenal 7: Knight of Stars

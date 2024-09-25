@@ -1,0 +1,15 @@
+Firewall Dragon Darkfluid
+Card Type: Link Monster
+
+Description: 3+ Effect Monsters
+If this card is Link Summoned: You can place counters on this card equal to the number of different types of Cyberse monsters in your GY (Ritual, Fusion, Synchro, Xyz). This card gains 2500 ATK for each counter on it during the Battle Phase only. When your opponent activates a monster effect (Quick Effect): You can remove 1 counter from this card; negate the activation, also, if this effect was activated between this card's attack declaration and the end of the Damage Step, this card can make another attack in a row.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

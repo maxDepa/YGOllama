@@ -1,0 +1,14 @@
+Genex Ally Volcannon
+Card Type: Effect Monster
+
+Description: Once per turn, you can send 1 face-up FIRE "Genex" monster you control to the Graveyard to select 1 face-up monster your opponent controls, destroy it, and inflict damage to your opponent equal to the Level of the destroyed monster x 400.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 600
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph

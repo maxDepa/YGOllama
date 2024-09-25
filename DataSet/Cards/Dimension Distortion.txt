@@ -1,0 +1,16 @@
+Dimension Distortion
+Card Type: Spell Card
+
+Description: You can only activate this card if there are no cards in your Graveyard. Select 1 removed from play monster and Special Summon it on your side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos

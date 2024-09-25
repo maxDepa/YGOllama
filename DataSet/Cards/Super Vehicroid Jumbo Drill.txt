@@ -1,0 +1,17 @@
+Super Vehicroid Jumbo Drill
+Card Type: Fusion Monster
+
+Description: "Steamroid" + "Drillroid" + "Submarineroid"
+A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: Roid
+Present in Sets:
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox
+- Speed Duel GX: Midterm Paradox

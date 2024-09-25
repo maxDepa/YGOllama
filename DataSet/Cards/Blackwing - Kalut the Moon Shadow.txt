@@ -1,0 +1,18 @@
+Blackwing - Kalut the Moon Shadow
+Card Type: Effect Monster
+
+Description: During either player's Damage Step, when a "Blackwing" monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 1400 ATK until the end of this turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 1000
+Archetype: Blackwing
+Present in Sets:
+- Astral Pack Four
+- Duelist League 2 participation cards
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Maze of Memories
+- Raging Battle

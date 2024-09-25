@@ -1,0 +1,16 @@
+Fuhma Shuriken
+Card Type: Spell Card
+
+Description: Equip only to a "Ninja" monster. It gains 700 ATK. When this card is sent from the field to the Graveyard: Inflict 700 damage to your opponent.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- Dark Revelation Volume 2
+- Duelist League 14 participation cards
+- Invasion of Chaos
+- Invasion of Chaos

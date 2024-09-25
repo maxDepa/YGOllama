@@ -1,0 +1,15 @@
+Amarylease
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can banish this card from your Graveyard; you can Normal Summon 1 monster this turn for 1 less Tribute. You can only use the effect of "Amarylease" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cosmo Blazer

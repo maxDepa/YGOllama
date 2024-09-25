@@ -1,0 +1,15 @@
+Gladiator Beast's Respite
+Card Type: Spell Card
+
+Description: Shuffle 2 "Gladiator Beast" cards from your hand into the Deck, then draw 3 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack

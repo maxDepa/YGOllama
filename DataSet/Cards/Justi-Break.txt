@@ -1,0 +1,16 @@
+Justi-Break
+Card Type: Trap Card
+
+Description: Activate only when your opponent declares an attack against a face-up Normal Monster you control. Destroy all monsters on the field, except face-up Attack Position Normal Monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact Sneak Peek Participation Card
+- Speed Duel GX: Duel Academy Box
+- Warriors' Strike Structure Deck

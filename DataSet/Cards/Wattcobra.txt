@@ -1,0 +1,13 @@
+Wattcobra
+Card Type: Effect Monster
+
+Description: This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack: Add 1 "Watt" monster from your Deck to your hand.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 500
+Archetype: Watt
+Present in Sets:
+- Photon Shockwave

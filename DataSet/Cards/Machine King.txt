@@ -1,0 +1,16 @@
+Machine King
+Card Type: Effect Monster
+
+Description: This card gains 100 ATK for each Machine-Type monster on the field.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duelist League Series 4 participation card
+- Legendary Collection 4: Joey's World Mega Pack
+- Yu-Gi-Oh! Trading Card Game Tour 2004 promotional card

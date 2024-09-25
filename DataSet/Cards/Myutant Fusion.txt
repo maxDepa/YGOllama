@@ -1,0 +1,13 @@
+Myutant Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Myutant" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your hand or field. If your opponent has activated a card or effect this turn, you can use up to 1 monster each from your Deck and GY as Fusion Material. You can only activate 1 "Myutant Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Myutant
+Present in Sets:
+- Phantom Rage

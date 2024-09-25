@@ -1,0 +1,14 @@
+Orcustrated Return
+Card Type: Spell Card
+
+Description: Send 1 "Orcust" or "World Legacy" monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 "Orcustrated Return" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- Ghosts From the Past
+- Soul Fusion

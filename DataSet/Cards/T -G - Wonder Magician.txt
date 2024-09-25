@@ -1,0 +1,19 @@
+T.G. Wonder Magician
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner "T.G." monsters
+If this card is Synchro Summoned: Target 1 Spell/Trap on the field; destroy that target. If this card on the field is destroyed: Draw 1 card. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1900
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Extreme Victory
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)

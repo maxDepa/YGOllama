@@ -1,0 +1,18 @@
+Future Drive
+Card Type: Spell Card
+
+Description: Target 1 "Utopic Future" Xyz Monster you control; apply the following effect(s) to that monster you control for the rest of this turn.
+● It can attack all monsters your opponent controls once each.
+● If it battles an opponent's monster, that monster's effects are negated during the Damage Step only.
+● Each time it destroys an opponent's monster by battle, inflict damage to your opponent equal to the destroyed monster's original ATK.
+You can only activate 1 "Future Drive" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

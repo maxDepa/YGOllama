@@ -1,0 +1,13 @@
+Dyna Base
+Card Type: Effect Monster
+
+Description: If your LP are lower than your opponent's: You can Special Summon this card from your hand. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as material. You can only use each effect of "Dyna Base" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge

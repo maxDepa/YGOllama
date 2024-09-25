@@ -1,0 +1,13 @@
+Gimmick Puppet Little Soldiers
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "Gimmick Puppet" monster with a different Level than this card from your Deck to the GY; this card's Level becomes that monster's. You can only use this effect of "Gimmick Puppet Little Soldiers" once per turn. You can banish this card from your GY, then target up to 2 "Gimmick Puppet" monsters you control; increase their Levels by 4 until the end of this turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Gimmick Puppet
+Present in Sets:
+- The Infinite Forbidden

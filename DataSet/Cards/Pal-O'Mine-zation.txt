@@ -1,0 +1,16 @@
+Pal-O'Mine-zation!
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.] 
+
+During your turn, you may reveal 1 Normal Monster in your hand. This turn, that Monster can substitute for any 1 Fusion Material. If you do, the other Fusion Material(s) must be the correct one(s). 
+This Skill can only be used once per Duel.
+
+Type: Joey
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Duelists of Tomorrow

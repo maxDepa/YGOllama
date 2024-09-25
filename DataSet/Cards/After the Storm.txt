@@ -1,0 +1,13 @@
+After the Storm
+Card Type: Spell Card
+
+Description: If there are no other cards on the field: Target 1 WATER or WIND monster in your Graveyard; add that target to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

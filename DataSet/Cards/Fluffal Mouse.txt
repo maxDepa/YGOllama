@@ -1,0 +1,14 @@
+Fluffal Mouse
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can Special Summon up to 2 copies of "Fluffal Mouse" from your Deck. This effect can only be used once while this card is face-up on the field. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except "Frightfur" monsters.
+
+Type: Fairy
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Fluffal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

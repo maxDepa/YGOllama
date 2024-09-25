@@ -1,0 +1,14 @@
+Constellar Alrescha
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Constellar" monster from your hand in face-up Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 1200
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

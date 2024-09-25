@@ -1,0 +1,19 @@
+Starving Venom Fusion Dragon
+Card Type: Fusion Monster
+
+Description: 2 DARK monsters on the field, except Tokens
+If this card is Fusion Summoned: You can make this card gain ATK equal to 1 opponent's Special Summoned monster, until the end of this turn. Once per turn: You can target 1 Level 5 or higher monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this Fusion Summoned card is destroyed: You can destroy all your opponent's Special Summoned monsters.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: Venom
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Fists of the Gadgets
+- Invasion: Vengeance
+- Legendary Dragon Decks
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

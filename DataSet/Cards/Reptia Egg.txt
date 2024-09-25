@@ -1,0 +1,13 @@
+Reptia Egg
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle. During the Standby Phase of your next turn after this card was Normal Summoned: You can Tribute this card; Special Summon up to 3 Level 4 or lower Reptile and/or Rock monsters from your hand and/or Deck (if you Special Summon 2 or more monsters, they must have the same name), but banish them during the End Phase. You can only use this effect of "Reptia Egg" once per turn.
+
+Type: Reptile
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

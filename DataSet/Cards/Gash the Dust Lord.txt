@@ -1,0 +1,13 @@
+Gash the Dust Lord
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent: Increase the Level of this card by 1 (max. 12).
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Number Hunters

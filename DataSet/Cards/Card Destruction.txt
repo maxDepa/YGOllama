@@ -1,0 +1,27 @@
+Card Destruction
+Card Type: Spell Card
+
+Description: Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Legends
+- Dragunity Legion Structure Deck
+- Gates of the Underworld Structure Deck
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Retro Pack
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Structure Deck: Dark World
+- Structure Deck: Lord of the Storm
+- Yugi's Legendary Decks
+- Zombie World Structure Deck

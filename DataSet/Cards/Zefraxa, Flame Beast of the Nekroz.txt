@@ -1,0 +1,18 @@
+Zefraxa, Flame Beast of the Nekroz
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Nekroz" and "Zefra" monsters. This effect cannot be negated.
+
+[ Monster Effect ] 
+While this card is in your hand or Graveyard, if a face-up "Nekroz" or "Zefra" card(s), except "Zefraxa, Flame Beast of the Nekroz", is destroyed by battle or card effect while in your Monster Zone or Pendulum Zone: You can Special Summon this card. You can only use this effect of "Zefraxa, Flame Beast of the Nekroz" once per turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 1000
+Archetype: Nekroz
+Present in Sets:
+- Crossed Souls
+- Crossed Souls: Advance Edition

@@ -1,0 +1,28 @@
+Skill Drain
+Card Type: Trap Card
+
+Description: Activate by paying 1000 LP. Negate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duel Terminal 3
+- Gold Series
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Magnificent Mavens
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Structure Deck: Dark World
+- The Lost Art Promotion (series)
+- The Lost Art Promotion L
+- Turbo Pack: Booster Eight

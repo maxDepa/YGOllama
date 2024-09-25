@@ -1,0 +1,14 @@
+Gouki Ringtrainer
+Card Type: Effect Monster
+
+Description: If you control no monsters: You can reveal this card in your hand, then target 1 "Gouki" Link Monster in your GY; Special Summon this card from your hand, then, Special Summon the target, but it loses 500 ATK. You can only use this effect of "Gouki Ringtrainer" once per turn. While you control a "Gouki" Link Monster, this card cannot be destroyed by battle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

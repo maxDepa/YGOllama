@@ -1,0 +1,16 @@
+Familiar-Possessed - Wynn
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand or Deck) by sending 1 face-up "Wynn the Wind Charmer" and 1 face-up WIND monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1850
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Structure Deck: Spirit Charmers
+- Structure Deck: Spirit Charmers

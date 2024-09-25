@@ -1,0 +1,14 @@
+Assault Teleport
+Card Type: Spell Card
+
+Description: Return 1 "/Assault Mode" monster from your hand to the Deck. Draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- OTS Tournament Pack 10 (POR)

@@ -1,0 +1,14 @@
+D.D. Assault Carrier
+Card Type: Effect Monster
+
+Description: Cannot declare an attack unless you banish 1 card from your GY. If exactly 3 of your cards are banished: You can Special Summon this card from your hand. You can only use this effect of "D.D. Assault Carrier" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: D.D.
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

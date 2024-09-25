@@ -1,0 +1,15 @@
+Dragoness the Wicked Knight
+Card Type: Fusion Monster
+
+Description: "Armaill" + "One-Eyed Shield Dragon"
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

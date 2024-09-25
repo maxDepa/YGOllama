@@ -1,0 +1,14 @@
+Lone Wolf
+Card Type: Trap Card
+
+Description: Activate only if the 1 and only monster on your side of the field is "Chu-Ske the Mouse Fighter", "Monk Fighter", or "Master Monk". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent's monster effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

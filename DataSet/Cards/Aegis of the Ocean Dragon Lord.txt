@@ -1,0 +1,14 @@
+Aegis of the Ocean Dragon Lord
+Card Type: Trap Card
+
+Description: Until the End Phase, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Realm of the Sea Emperor Structure Deck

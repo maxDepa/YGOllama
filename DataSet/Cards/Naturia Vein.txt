@@ -1,0 +1,16 @@
+Naturia Vein
+Card Type: Tuner Monster
+
+Description: You can Tribute this card and 1 "Naturia" monster to negate the activation of your opponent's Spell or Trap Card, and destroy it.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

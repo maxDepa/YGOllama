@@ -1,0 +1,16 @@
+Elephant Statue of Disaster
+Card Type: Effect Monster
+
+Description: When this card is sent from your hand to your Graveyard by an opponent's card effect: Inflict 2000 damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- OTS Tournament Pack 20
+- Turbo Pack: Booster Eight

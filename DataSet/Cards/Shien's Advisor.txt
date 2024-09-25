@@ -1,0 +1,15 @@
+Shien's Advisor
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned while you control a "Six Samurai" monster: Declare 1 Monster Type; while this card is face-up on the field, monsters with the declared Monster Type cannot declare an attack or be Special Summoned.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 400
+Archetype: Six Samurai
+Present in Sets:
+- Extreme Victory
+- Samurai Warlords Structure Deck
+- Spirit Warriors

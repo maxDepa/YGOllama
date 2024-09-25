@@ -1,0 +1,14 @@
+Sylvan Blessing
+Card Type: Trap Card
+
+Description: Place 1 card from your hand on either the top or bottom of the Deck, and if you do, Special Summon 1 "Sylvan" monster from your hand or Graveyard. It is unaffected by other card effects this turn. Place it on either the top or bottom of the Deck during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sylvan
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

@@ -1,0 +1,17 @@
+Trickstar Candina
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Trickstar" card from your Deck to your hand. Each time your opponent activates a Spell/Trap Card, inflict 200 damage to them immediately after it resolves.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 400
+Archetype: Trickstar
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

@@ -1,0 +1,14 @@
+Dark-Piercing Light
+Card Type: Spell Card
+
+Description: Flip all face-down monsters on your opponent's side of the field face-up.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- McDonald's Promotional Cards

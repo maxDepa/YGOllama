@@ -1,0 +1,21 @@
+Dark Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. Your opponent cannot target it with card effects this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

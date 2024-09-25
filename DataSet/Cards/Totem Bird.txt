@@ -1,0 +1,16 @@
+Totem Bird
+Card Type: XYZ Monster
+
+Description: 2 Level 3 WIND monsters
+During either player's turn, when a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, destroy it. This card loses 300 ATK while it has no Xyz Materials.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1900
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Synchro Storm
+- Lord of the Tachyon Galaxy

@@ -1,0 +1,15 @@
+Shooting Riser Dragon
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can send 1 monster from your Deck to the GY, whose Level is lower than this card's on the field, and if you do, reduce this card's Level by that monster's, but for the rest of this turn, you cannot activate the effects of monsters with the same name the sent monster had in the GY. You can only use this effect of "Shooting Riser Dragon" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2100
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Neostorm Special Edition
+- Weekly Shonen Jump July 2018 membership promotional card

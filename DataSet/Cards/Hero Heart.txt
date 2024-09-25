@@ -1,0 +1,15 @@
+Hero Heart
+Card Type: Spell Card
+
+Description: Target 1 face-up "Elemental HERO" monster you control; halve its ATK until the end of this turn, but it can attack twice during this turn's Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Shadow of Infinity

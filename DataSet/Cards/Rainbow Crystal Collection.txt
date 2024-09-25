@@ -1,0 +1,13 @@
+Rainbow Crystal Collection
+Card Type: Skill Card
+
+Description: If a face-up "Crystal Beast" monster you control would be destroyed, you can place a Crystallization Counter on it instead. Monsters with Crystallization Counters are considered Continuous Spell Cards in your Spell & Trap Zone instead of monsters. If a card with a Crystallization Counter would be Special Summoned, remove the counter. Cards with Crystallization Counters can be used as Fusion Material for "Ultimate Crystal" monsters.
+
+Type: Jesse Anderso
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

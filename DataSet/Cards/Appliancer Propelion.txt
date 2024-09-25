@@ -1,0 +1,14 @@
+Appliancer Propelion
+Card Type: Link Monster
+
+Description: 1 "Appliancer" monster
+Cannot be used as Link Material the turn it is Link Summoned. This card can attack directly. Once per turn, during damage calculation, if your monster battles an opponent's monster, while this card is co-linked (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only. Once per turn, during damage calculation, if this monster that is not co-linked battles an opponent's monster (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.
+
+Type: Machine
+Attribute: WIND
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: Appliancer
+Present in Sets:
+- Brothers of Legend

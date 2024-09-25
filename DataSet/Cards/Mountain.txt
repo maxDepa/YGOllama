@@ -1,0 +1,18 @@
+Mountain
+Card Type: Spell Card
+
+Description: All Dragon, Winged Beast, and Thunder monsters on the field gain 200 ATK/DEF.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Joey
+- Starter Deck: Kaiba Evolution

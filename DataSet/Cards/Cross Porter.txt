@@ -1,0 +1,13 @@
+Cross Porter
+Card Type: Effect Monster
+
+Description: You can send 1 monster you control to the Graveyard and Special Summon 1 "Neo-Spacian" monster from your hand. When this card is sent to the Graveyard, you can add 1 "Neo-Spacian" monster from your Deck to your hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 400
+Archetype: Neo-Spacian
+Present in Sets:
+- Light of Destruction

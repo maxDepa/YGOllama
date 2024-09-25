@@ -1,0 +1,15 @@
+Arsenal Robber
+Card Type: Trap Card
+
+Description: Your opponent selects 1 Equip Spell Card from his/her Deck and sends it to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

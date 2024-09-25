@@ -1,0 +1,14 @@
+Ghostrick Yuki-onna
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When this card is destroyed by battle and sent to the Graveyard: You can change the monster that destroyed it to face-down Defense Position, and if you do, it cannot change its battle position.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 1000
+Defence: 800
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

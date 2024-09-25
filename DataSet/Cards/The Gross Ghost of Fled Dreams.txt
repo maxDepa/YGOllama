@@ -1,0 +1,17 @@
+The Gross Ghost of Fled Dreams
+Card Type: Normal Monster
+
+Description: This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel Starter Decks: Twisted Nightmares

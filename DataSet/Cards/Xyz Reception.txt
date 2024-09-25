@@ -1,0 +1,13 @@
+Xyz Reception
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control that has a Level; Special Summon 1 monster with the same Level as that monster from your hand. Its effects are negated, also its ATK and DEF become 0.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

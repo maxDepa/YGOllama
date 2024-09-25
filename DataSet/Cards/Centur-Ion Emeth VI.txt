@@ -1,0 +1,14 @@
+Centur-Ion Emeth VI
+Card Type: Effect Monster
+
+Description: During your opponent's turn, if this card is in your hand or GY (Quick Effect): You can target 1 "Centur-Ion" monster you control, except "Centur-Ion Emeth VI"; place it in your Spell & Trap Zone as a face-up Continuous Trap, and if you do, Special Summon this card, also you cannot Special Summon "Centur-Ion Emeth VI" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card. You can only use each effect of "Centur-Ion Emeth VI" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 2000
+Defence: 3000
+Archetype: Centur-Ion
+Present in Sets:
+- Valiant Smashers
+- Valiant Smashers

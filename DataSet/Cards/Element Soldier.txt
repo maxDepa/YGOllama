@@ -1,0 +1,14 @@
+Element Soldier
+Card Type: Effect Monster
+
+Description: This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● WATER: Control of this card cannot switch. ● EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist

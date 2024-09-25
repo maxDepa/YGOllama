@@ -1,0 +1,15 @@
+Amazoness Pet Liger
+Card Type: Fusion Monster
+
+Description: "Amazoness Tiger" + 1 "Amazoness" monster
+Once per battle, if this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If your "Amazoness" monster attacked an opponent's monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack "Amazoness" monsters you control, except this one.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2500
+Defence: 2400
+Archetype: Amazoness
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

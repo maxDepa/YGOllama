@@ -1,0 +1,14 @@
+Denglong, First of the Yang Zing
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is Special Summoned: You can add 1 "Yang Zing" card from your Deck to your hand. Once per turn: You can send 1 Wyrm-Type monster from your Deck to the Graveyard; this card's Level becomes the sent monster's. If this face-up card leaves the field: You can Special Summon 1 "Yang Zing" monster from your Deck. You can only Special Summon "Denglong, First of the Yang Zing(s)" once per turn.
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 5
+Attack: 0
+Defence: 2800
+Archetype: Yang Zing
+Present in Sets:
+- Invasion: Vengeance

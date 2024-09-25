@@ -1,0 +1,21 @@
+Crystal Beast Amber Mammoth
+Card Type: Effect Monster
+
+Description: When another face-up "Crystal Beast" monster you control is targeted for an attack: You can make this card the attack target instead. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Crystal Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- OTS Tournament Pack 7 (POR)
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

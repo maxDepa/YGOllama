@@ -1,0 +1,15 @@
+Salamangreat Zebroid X
+Card Type: Effect Monster
+
+Description: While this card is in your GY, if a "Salamangreat" Link Monster you control leaves the field because of an opponent's card effect (except during the Damage Step): You can Special Summon 2 Level 4 "Salamangreat" monsters from your GY, including this card, but negate their effects, and if you do, immediately after this effect resolves, Xyz Summon 1 "Salamangreat" Xyz Monster, using only those 2 monsters. You can only use this effect of "Salamangreat Zebroid X" once per turn. An Xyz Monster that was Summoned using this card on the field as material gains this effect.
+● This card gains 300 ATK for each material attached to it.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 100
+Archetype: Salamangreat
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

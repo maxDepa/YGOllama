@@ -1,0 +1,14 @@
+Flying Red Carp
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard 1 WATER monster; this card gains 500 ATK. When this card destroys an opponent's monster by battle: You can Tribute this card; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your hand or Deck. You can only use each effect of "Flying Red Carp" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

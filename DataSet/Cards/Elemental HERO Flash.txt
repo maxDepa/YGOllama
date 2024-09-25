@@ -1,0 +1,13 @@
+Elemental HERO Flash
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can banish this card and 3 "Elemental HERO" Monster Cards with different names from your Graveyard to target 1 Normal Spell Card in your Graveyard; add that target to your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 1600
+Archetype: Elemental HERO
+Present in Sets:
+- Generation Force

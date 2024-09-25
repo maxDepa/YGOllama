@@ -1,0 +1,16 @@
+Jumbo Drill
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can increase the Levels of all Machine-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 100
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Geargia Rampage Structure Deck
+- Star Pack 2014
+- Star Pack 2014

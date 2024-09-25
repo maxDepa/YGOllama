@@ -1,0 +1,14 @@
+Gem-Knight Alexandrite
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 1 "Gem-Knight" Normal Monster from your Deck.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

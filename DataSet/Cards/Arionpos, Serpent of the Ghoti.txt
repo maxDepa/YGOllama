@@ -1,0 +1,14 @@
+Arionpos, Serpent of the Ghoti
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can banish 1 Level 6 or lower Fish monster from your Deck. If this card is sent to the GY as Synchro Material: You can target 1 Fish monster in your GY; banish that target, then you can add 1 Fish monster with an equal or lower Level from your Deck to your hand. You can only use each effect of "Arionpos, Serpent of the Ghoti" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 6
+Attack: 2100
+Defence: 0
+Archetype: Ghoti
+Present in Sets:
+- Darkwing Blast

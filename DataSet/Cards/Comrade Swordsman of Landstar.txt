@@ -1,0 +1,14 @@
+Comrade Swordsman of Landstar
+Card Type: Tuner Monster
+
+Description: All Warrior-Type monsters you control gain 400 ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Legendary Collection 4: Joey's World Mega Pack

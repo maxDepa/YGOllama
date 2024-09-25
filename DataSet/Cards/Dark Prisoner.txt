@@ -1,0 +1,13 @@
+Dark Prisoner
+Card Type: Normal Monster
+
+Description: This monster bends light to hide its image from the eyes of opponents.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares

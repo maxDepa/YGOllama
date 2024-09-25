@@ -1,0 +1,18 @@
+Vengeful Bog Spirit
+Card Type: Spell Card
+
+Description: Monsters cannot attack the turn they are Summoned.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 4: Joey's World Mega Pack

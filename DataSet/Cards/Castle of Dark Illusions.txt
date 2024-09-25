@@ -1,0 +1,15 @@
+Castle of Dark Illusions
+Card Type: Flip Effect Monster
+
+Description: FLIP: All Zombie-Type monsters gain 200 ATK and DEF. During each of your next 4 Standby Phases, each of those Zombie-Type monsters gains 200 more ATK and DEF. These effects last as long as this card is face-up on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 920
+Defence: 1930
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

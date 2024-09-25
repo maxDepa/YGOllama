@@ -1,0 +1,13 @@
+Divine Dragon Titanomakhia
+Card Type: Effect Monster
+
+Description: This Special Summoned card cannot be destroyed by battle. You can only use each of the following effects of "Divine Dragon Titanomakhia" once per turn. You can banish 3 "Divine Dragon Titanomakhia" from your GY and/or face-up field, including this card on the field; destroy all cards your opponent controls. During the End Phase: You can send cards from the top of your Deck to your GY, equal to the number of Dragon monsters you control.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 2000
+Archetype: Divine Dragon
+Present in Sets:
+- Dimension Force

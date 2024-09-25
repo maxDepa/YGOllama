@@ -1,0 +1,18 @@
+Geartown
+Card Type: Spell Card
+
+Description: Both players can Normal Summon "Ancient Gear" monsters for 1 less Tribute. When this card is destroyed and sent to the Graveyard: You can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Geargia Rampage Structure Deck
+- Ghosts From the Past
+- Machine Reactor Structure Deck
+- Speed Duel GX: Duel Academy Box
+- The Duelist Genesis
+- Turbo Pack: Booster Seven

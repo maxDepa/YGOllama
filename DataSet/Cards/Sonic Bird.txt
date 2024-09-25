@@ -1,0 +1,26 @@
+Sonic Bird
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can add 1 Ritual Spell from your Deck to your hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 5b
+- Gold Series
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Attack from the Deep
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Pegasus
+- Starter Deck: Yugi Evolution

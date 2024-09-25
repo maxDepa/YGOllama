@@ -1,0 +1,12 @@
+Winged Egg of New Life
+Card Type: Normal Monster
+
+Description: Legend has it that this creature can foretell the birth of children.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1400
+Defence: 1700
+Archetype: //
+Present in Sets:

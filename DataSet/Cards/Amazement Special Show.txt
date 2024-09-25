@@ -1,0 +1,13 @@
+Amazement Special Show
+Card Type: Spell Card
+
+Description: When your opponent activates a card or effect that targets an "Amazement" monster(s) you control: Target 1 of those "Amazement" monsters you control; return it to the hand, then, you can Special Summon 1 "Amazement" monster from your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazement
+Present in Sets:
+- Lightning Overdrive

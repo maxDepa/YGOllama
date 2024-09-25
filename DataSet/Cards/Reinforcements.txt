@@ -1,0 +1,24 @@
+Reinforcements
+Card Type: Trap Card
+
+Description: Target 1 face-up monster on the field; it gains 500 ATK until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards
+- Starter Deck 2006
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi

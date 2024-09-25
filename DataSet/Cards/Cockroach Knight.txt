@@ -1,0 +1,14 @@
+Cockroach Knight
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard, it is returned to the top of the Deck.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

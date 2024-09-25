@@ -1,0 +1,14 @@
+Kozmo Farmgirl
+Card Type: Effect Monster
+
+Description: During either player's turn: You can banish this card; Special Summon 1 Level 4 or higher "Kozmo" monster from your hand. You can only use this effect of "Kozmo Farmgirl" once per turn. When this card inflicts battle damage to your opponent: You can pay 500 LP; add 1 "Kozmo" card from your Deck to your hand.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: Kozmo
+Present in Sets:
+- Clash of Rebellions
+- Premium Gold: Infinite Gold

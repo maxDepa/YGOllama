@@ -1,0 +1,14 @@
+Aratama
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can add 1 Spirit monster from your Deck to your hand, except "Aratama".
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Shadow Specters

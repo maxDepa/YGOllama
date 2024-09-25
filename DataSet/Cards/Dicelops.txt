@@ -1,0 +1,17 @@
+Dicelops
+Card Type: Effect Monster
+
+Description: Once per turn: You can roll a six-sided die, then apply the result.
+● 1: Look at your opponent's hand, also discard 1 card from their hand.
+● 2, 3, 4, 5: Discard 1 card.
+● 6: Discard your entire hand.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

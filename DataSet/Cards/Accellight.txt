@@ -1,0 +1,14 @@
+Accellight
+Card Type: Spell Card
+
+Description: If you control no monsters: Special Summon 1 Level 4 or lower "Photon" or "Galaxy" monster from your Deck. You can only activate 1 "Accellight" per turn. You cannot Normal Summon/Set during the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- Legendary Duelists: White Dragon Abyss
+- Zexal Collection Tin

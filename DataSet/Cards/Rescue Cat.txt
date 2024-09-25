@@ -1,0 +1,19 @@
+Rescue Cat
+Card Type: Effect Monster
+
+Description: You can send this card to the GY; Special Summon 2 Level 3 or lower Beast monsters from your Deck, but their effects are negated, also they are destroyed during the End Phase. You can only use this effect of "Rescue Cat" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 300
+Defence: 100
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Five
+- Dark Revelation Volume 3
+- Duelist Saga
+- Flaming Eternity
+- Maximum Gold: El Dorado
+- Turbo Pack: Booster One
+- Turbo Pack: Booster Three

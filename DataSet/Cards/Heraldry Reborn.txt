@@ -1,0 +1,13 @@
+Heraldry Reborn
+Card Type: Spell Card
+
+Description: Target 1 "Heraldic Beast" monster in your Graveyard; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Heraldic
+Present in Sets:
+- Cosmo Blazer

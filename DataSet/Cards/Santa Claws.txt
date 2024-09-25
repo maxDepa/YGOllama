@@ -1,0 +1,16 @@
+Santa Claws
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) to your opponent's field in Defense Position, by Tributing 1 monster they control. If Summoned this way, once, during the End Phase of this turn: You can draw 1 card.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 6
+Attack: 1200
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Premium Gold: Return of the Bling
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3
+- Yu-Gi-Oh! Advent Calendar (2018)

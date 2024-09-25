@@ -1,0 +1,12 @@
+White Dolphin
+Card Type: Normal Monster
+
+Description: A white dolphin with a horn that summons huge tidal waves.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 400
+Archetype: White
+Present in Sets:

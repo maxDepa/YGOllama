@@ -1,0 +1,13 @@
+Mermail Abysslung
+Card Type: Effect Monster
+
+Description: Your opponent cannot target face-up WATER monsters for attacks, except this one. All WATER monsters you control gain 300 ATK.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Mermail
+Present in Sets:
+- Abyss Rising

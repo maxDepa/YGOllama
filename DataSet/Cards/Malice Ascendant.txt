@@ -1,0 +1,14 @@
+Malice Ascendant
+Card Type: Effect Monster
+
+Description: During your opponent's Standby Phase, send 1 card from the top of their Deck to the Graveyard for each "Malice Ascendant" in your Graveyard.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

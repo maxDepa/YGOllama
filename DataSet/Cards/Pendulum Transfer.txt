@@ -1,0 +1,13 @@
+Pendulum Transfer
+Card Type: Spell Card
+
+Description: Target up to 2 Pendulum Monsters you control; place those targets in your Pendulum Zones. You can only activate 1 "Pendulum Transfer" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- King's Court

@@ -1,0 +1,27 @@
+Jack's Knight
+Card Type: Normal Monster
+
+Description: A strong master swordsman. His loyalty is to justice, his duty to protect the weak.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 1900
+Defence: 1000
+Archetype: Knight
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Elemental Energy
+- Elemental Energy
+- King's Court
+- King's Court
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Demo Deck 2020
+- Speed Duel Tournament Pack 4
+- Speed Duel: Arena of Lost Souls
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

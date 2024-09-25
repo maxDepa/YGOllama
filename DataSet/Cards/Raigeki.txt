@@ -1,0 +1,29 @@
+Raigeki
+Card Type: Spell Card
+
+Description: Destroy all monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dark Legends
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 2
+- Premium Gold: Return of the Bling
+- Retro Pack
+- Structure Deck: Beware of Traptrix
+- Structure Deck: Spirit Charmers

@@ -1,0 +1,14 @@
+Smile Universe
+Card Type: Spell Card
+
+Description: Special Summon as many face-up Pendulum Monsters from your Extra Deck as possible, but they have their effects negated (if any), then your opponent gains LP equal to the total original ATK of those Special Summoned monsters. You cannot Normal or Special Summon other monsters, or attack, during the turn you activate this card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

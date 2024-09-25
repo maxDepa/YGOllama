@@ -1,0 +1,16 @@
+Masked Sorcerer
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 900
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

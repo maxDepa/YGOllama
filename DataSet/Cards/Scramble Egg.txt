@@ -1,0 +1,14 @@
+Scramble Egg
+Card Type: Trap Card
+
+Description: If a monster you control is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 "Sonic Chick" from your hand, Deck or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

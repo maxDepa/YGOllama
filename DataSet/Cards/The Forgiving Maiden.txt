@@ -1,0 +1,16 @@
+The Forgiving Maiden
+Card Type: Effect Monster
+
+Description: Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 850
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

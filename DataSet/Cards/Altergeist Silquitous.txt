@@ -1,0 +1,19 @@
+Altergeist Silquitous
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can return 1 other "Altergeist" card you control to the hand, then target 1 card your opponent controls; return it to the hand. If this card is sent from the field to the GY: You can target 1 "Altergeist" Trap in your GY; add that card to your hand. You can only use each effect of "Altergeist Silquitous" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 2
+Attack: 800
+Defence: 1500
+Archetype: Altergeist
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Maximum Gold: El Dorado
+- Maze of Millennia
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

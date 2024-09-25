@@ -1,0 +1,13 @@
+Herculean Power
+Card Type: Spell Card
+
+Description: Once per turn, if your opponent controls a monster and you control no monsters, you can Special Summon 1 Level 4 or lower Gemini monster from your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

@@ -1,0 +1,14 @@
+Malicevorous Fork
+Card Type: Effect Monster
+
+Description: You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 400
+Archetype: Malicevorous
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

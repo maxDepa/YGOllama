@@ -1,0 +1,20 @@
+Called by the Grave
+Card Type: Spell Card
+
+Description: Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duel Devastator
+- Extreme Force Special Edition
+- Flames of Destruction
+- Maximum Gold
+- Structure Deck: Albaz Strike

@@ -1,0 +1,13 @@
+Iron Core Specimen Lab
+Card Type: Spell Card
+
+Description: During each of your End Phases, destroy this card unless you reveal 1 "Iron Core of Koa'ki Meiru" in your hand. Each time a "Koa'ki Meiru" monster on the field is destroyed during the End Phase, its owner can add 1 "Koa'ki Meiru" monster from their Deck to their hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Absolute Powerforce

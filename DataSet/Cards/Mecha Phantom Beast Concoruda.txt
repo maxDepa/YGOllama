@@ -1,0 +1,15 @@
+Mecha Phantom Beast Concoruda
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Tokens you control cannot be destroyed by battle or card effects. If this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can Tribute all Tokens you control, then target 1 Level 4 or lower "Mecha Phantom Beast" monster in your Graveyard; Special Summon that target.
+
+Type: Machine
+Attribute: WIND
+Level: 7
+Attack: 2400
+Defence: 1200
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

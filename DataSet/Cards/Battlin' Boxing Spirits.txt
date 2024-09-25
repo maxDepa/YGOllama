@@ -1,0 +1,15 @@
+Battlin' Boxing Spirits
+Card Type: Spell Card
+
+Description: Send the top card of your Deck to the Graveyard, then target 1 "Battlin' Boxer" monster in your Graveyard; Special Summon that target in face-up Defense Position. You can only activate 1 "Battlin' Boxing Spirits" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Soulburning Volcano
+- Shadow Specters

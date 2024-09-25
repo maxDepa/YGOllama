@@ -1,0 +1,14 @@
+Fiendsmith Engraver
+Card Type: Effect Monster
+
+Description: You can discard this card; add 1 "Fiendsmith" Spell/Trap from your Deck to your hand. You can target 1 "Fiendsmith" Equip Card you control and 1 monster on the field; send them to the GY. If this card is in your GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck; Special Summon this card. You can only use each effect of "Fiendsmith Engraver" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 2400
+Archetype: Fiendsmith
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

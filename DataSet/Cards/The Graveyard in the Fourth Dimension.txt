@@ -1,0 +1,16 @@
+The Graveyard in the Fourth Dimension
+Card Type: Spell Card
+
+Description: Add 2 "LV" monsters from your Graveyard to your Deck and shuffle it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Structure Deck: Dragon's Roar

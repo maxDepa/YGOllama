@@ -1,0 +1,14 @@
+Artifact Labrys
+Card Type: Effect Monster
+
+Description: You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. When an "Artifact" card(s) is destroyed and sent to your Graveyard (except during the Damage Step): You can Special Summon this card from your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2300
+Defence: 1000
+Archetype: Artifact
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin

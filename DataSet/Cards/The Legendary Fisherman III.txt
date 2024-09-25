@@ -1,0 +1,17 @@
+The Legendary Fisherman III
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "The Legendary Fisherman". When this card is Special Summoned: You can banish all monsters your opponent controls, also this card cannot attack this turn. Cannot be destroyed by battle or card effects, also unaffected by Spell/Trap effects. Once per turn: You can return as many of your opponent's banished cards as possible to their GY, and if you do, the first battle or effect damage your opponent takes this turn becomes doubled.
+
+Type: Warrior
+Attribute: WATER
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Umi
+Present in Sets:
+- Dimension of Chaos
+- Legendary Duelists
+- Legendary Duelists: Duels From the Deep
+- Star Pack Battle Royal
+- Star Pack Battle Royal

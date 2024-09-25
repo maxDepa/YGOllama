@@ -1,0 +1,17 @@
+Falling Down
+Card Type: Spell Card
+
+Description: Activate this card by targeting an opponent's monster; equip this card to it. Take control of it. Destroy this card unless you control an "Archfiend" card. During each of your opponent's Standby Phases: You take 800 damage.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Astral Pack Three
+- Dark Crisis
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

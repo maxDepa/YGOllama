@@ -1,0 +1,21 @@
+Metaverse
+Card Type: Trap Card
+
+Description: Take 1 Field Spell from your Deck, and either activate it or add it to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Circuit Break
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Structure Deck: Legend of the Crystal Beasts
+- Structure Deck: Spirit Charmers
+- Structure Deck: Zombie Horde

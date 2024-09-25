@@ -1,0 +1,13 @@
+Battlewasp - Arbalest the Rapidfire
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 3 or lower Insect monster in your GY; Special Summon that monster in Defense Position. If this card in its owner's possession is destroyed by an opponent's card: You can Special Summon 1 "Battlewasp" monster from your hand or Deck. You can only use this effect of "Battlewasp - Arbalest the Rapidfire" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Battlewasp
+Present in Sets:
+- Battles of Legend: Hero's Revenge

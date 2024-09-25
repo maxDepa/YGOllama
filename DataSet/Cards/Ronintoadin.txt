@@ -1,0 +1,15 @@
+Ronintoadin
+Card Type: Effect Monster
+
+Description: Cannot be used as a Synchro Material. This card's name becomes "Des Frog" while it is on the field. If this card is in your Graveyard: You can banish 1 "Frog" monster from your Graveyard; Special Summon this card.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 100
+Defence: 2000
+Archetype: Frog
+Present in Sets:
+- OTS Tournament Pack 4
+- Structure Deck: Freezing Chains
+- The Shining Darkness

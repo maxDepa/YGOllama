@@ -1,0 +1,14 @@
+Doublebyte Dragon
+Card Type: Link Monster
+
+Description: 2 Link Monsters
+Gains ATK equal to the combined Link Ratings of the monsters used for its Link Summon x 300. Unaffected by monster effects, except Link Monsters' effects, and cannot be destroyed by battle, except by battle with a Link Monster.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Power

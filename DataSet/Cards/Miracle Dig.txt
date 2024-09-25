@@ -1,0 +1,18 @@
+Miracle Dig
+Card Type: Spell Card
+
+Description: If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)

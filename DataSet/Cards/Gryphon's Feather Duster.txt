@@ -1,0 +1,15 @@
+Gryphon's Feather Duster
+Card Type: Spell Card
+
+Description: Destroy all Spell and Trap Cards on your side of the field. Increase your Life Points by the number of destroyed cards x 500 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

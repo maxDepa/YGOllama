@@ -1,0 +1,13 @@
+Morphtronic Datatron
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: Once per turn, you can Tribute 1 monster to inflict 600 damage to your opponent. ● While in Defense Position: Once per turn, you can inflict 300 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

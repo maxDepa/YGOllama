@@ -1,0 +1,16 @@
+Infernoid Decatron
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "Infernoid" monster from your Deck to the Graveyard, except "Infernoid Decatron", and if you do, increase this card's Level by the Level of the sent monster, and if you do that, this card's name becomes that monster's, and replace this effect with that monster's original effects.
+
+Type: Fiend
+Attribute: FIRE
+Level: 1
+Attack: 500
+Defence: 200
+Archetype: Infernoid
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- Brothers of Legend
+- Clash of Rebellions

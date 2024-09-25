@@ -1,0 +1,20 @@
+Silent Doom
+Card Type: Spell Card
+
+Description: Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Gladiator's Assault
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Seto Kaiba
+- Warriors' Strike Structure Deck

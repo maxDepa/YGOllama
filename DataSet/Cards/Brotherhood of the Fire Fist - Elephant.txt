@@ -1,0 +1,13 @@
+Brotherhood of the Fire Fist - Elephant
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 face-up "Fire Formation" Spell/Trap you control to the GY; Special Summon 1 "Fire Fist" monster from your hand, except "Brotherhood of the Fire Fist - Elephant". You can target 1 "Fire Formation" Spell/Trap in your GY; shuffle it into the Deck, then, you can add 1 Level 5 or higher "Fire Fist" monster from your Deck to your hand. You can only use each effect of "Brotherhood of the Fire Fist - Elephant" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Fire Fist
+Present in Sets:
+- Fists of the Gadgets

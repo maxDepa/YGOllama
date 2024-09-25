@@ -1,0 +1,14 @@
+Berserker of the Tenyi
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Link Monster
+
+Type: Wyrm
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

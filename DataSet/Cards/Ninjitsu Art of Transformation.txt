@@ -1,0 +1,18 @@
+Ninjitsu Art of Transformation
+Card Type: Trap Card
+
+Description: Activate this card by Tributing 1 face-up "Ninja" monster; Special Summon 1 Beast, Winged Beast, or Insect monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- OTS Tournament Pack 2
+- Shadows in Valhalla
+- Structure Deck: Lord of the Storm
+- Turbo Pack: Booster Seven

@@ -1,0 +1,17 @@
+Maiden with Eyes of Blue
+Card Type: Tuner Monster
+
+Description: When a card or effect is activated that targets this card (Quick Effect): You can Special Summon 1 "Blue-Eyes White Dragon" from your hand, Deck, or GY. When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 "Blue-Eyes White Dragon" from your hand, Deck, or GY. You can only use 1 "Maiden with Eyes of Blue" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- Saga of Blue-Eyes White Dragon Structure Deck

@@ -1,0 +1,16 @@
+Elemental HERO Steam Healer
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Burstinatrix" + "Elemental HERO Bubbleman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the ATK of that destroyed monster in the Graveyard.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 1000
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duel Academy Box

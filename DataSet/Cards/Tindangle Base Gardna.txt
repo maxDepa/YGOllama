@@ -1,0 +1,13 @@
+Tindangle Base Gardna
+Card Type: Effect Monster
+
+Description: If you control a face-down Defense Position monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon "Tindangle Base Gardna" once per turn this way. If a monster is Normal or Special Summoned, and is now pointed to by an opponent's Link Monster (except during the Damage Step): You can Tribute this card; Special Summon 1 "Tindangle" monster from your hand or Deck in Attack Position or face-down Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 0
+Defence: 2300
+Archetype: Tindangle
+Present in Sets:
+- Extreme Force

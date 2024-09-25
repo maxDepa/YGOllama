@@ -1,0 +1,19 @@
+Lector Pendulum, the Dracoverlord
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Negate the effects of face-up Pendulum Monsters while your opponent controls them.
+
+[ Monster Effect ] 
+At the start of the Damage Step, if this card battles a Pendulum Monster: Destroy both that monster and this card.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1950
+Defence: 0
+Archetype: Dracoverlord
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Pendulum Evolution
+- Shining Victories

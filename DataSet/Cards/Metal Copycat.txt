@@ -1,0 +1,12 @@
+Metal Copycat
+Card Type: Effect Monster
+
+Description: This card's Level is increased by 4 during your opponent's turn only. You can only use each of the following effects of "Metal Copycat" once per turn. If this card is Normal or Special Summoned: You can Set 1 "Metalmorph" Trap directly from your Deck, then, if you have "Enhanced Metalmorph" in your GY, you can draw 1 card. You can declare 1 Monster Type; this card becomes that Type until the end of your opponent's turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

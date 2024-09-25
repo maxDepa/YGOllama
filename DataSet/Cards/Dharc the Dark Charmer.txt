@@ -1,0 +1,14 @@
+Dharc the Dark Charmer
+Card Type: Flip Effect Monster
+
+Description: FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- OTS Tournament Pack 13 (POR)
+- The Duelist Genesis

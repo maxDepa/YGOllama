@@ -1,0 +1,18 @@
+Predaplant Bufolicula
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can only use this effect of "Predaplant Bufolicula" once per turn.
+
+[ Monster Effect ] 
+If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except "Predaplant Bufolicula". You can only use this effect of "Predaplant Bufolicula" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Predap
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

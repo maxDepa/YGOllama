@@ -1,0 +1,20 @@
+Horn of Heaven
+Card Type: Trap Card
+
+Description: When a monster(s) would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster(s).
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Premium Gold: Infinite Gold
+- Tournament Pack: 3rd Season

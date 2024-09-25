@@ -1,0 +1,14 @@
+X-Saber Palomuro
+Card Type: Tuner Monster
+
+Description: When another "Saber" monster you control is destroyed by battle and sent to the Graveyard, you can pay 500 Life Points to Special Summon this card from the Graveyard.
+
+Type: Reptile
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 1
+- The Shining Darkness

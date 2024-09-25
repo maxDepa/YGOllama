@@ -1,0 +1,14 @@
+Spiritual Beast Tamer Lara
+Card Type: Effect Monster
+
+Description: You can only Special Summon "Spiritual Beast Tamer Lara(s)" once per turn. You can discard this card; immediately after this effect resolves, Normal Summon 1 "Ritual Beast" monster from your hand. If a "Ritual Beast" card(s) you control would be destroyed by battle or card effect, you can banish this card from your field or GY instead. If this card is banished: You can Special Summon 1 "Ritual Beast" monster from your Deck, except "Spiritual Beast Tamer Lara". You can only use each effect of "Spiritual Beast Tamer Lara" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 2000
+Archetype: Ritual Beast
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge

@@ -1,0 +1,16 @@
+Toon Buster Blader
+Card Type: Toon Monster
+
+Description: Cannot attack the turn it is Summoned. Gains 500 ATK for each Dragon monster your opponent controls or is in their GY. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 2300
+Archetype: Toon
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Match of the Millennium

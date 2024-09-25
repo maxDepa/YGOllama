@@ -1,0 +1,18 @@
+Humanoid Worm Drake
+Card Type: Fusion Monster
+
+Description: "Worm Drake" + "Humanoid Slime"
+
+Type: Aqua
+Attribute: WATER
+Level: 7
+Attack: 2200
+Defence: 2000
+Archetype: Slime
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Streets of Battle City

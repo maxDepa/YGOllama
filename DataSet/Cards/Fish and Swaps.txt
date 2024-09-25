@@ -1,0 +1,13 @@
+Fish and Swaps
+Card Type: Spell Card
+
+Description: Discard 1 card to target 2 of your banished Fish, Sea Serpent, or Aqua-Type monsters; add them to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

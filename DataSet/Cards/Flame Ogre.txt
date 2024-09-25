@@ -1,0 +1,13 @@
+Flame Ogre
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. When this card is Normal Summoned, draw 1 card.
+
+Type: Fiend
+Attribute: FIRE
+Level: 7
+Attack: 2400
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

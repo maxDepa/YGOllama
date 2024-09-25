@@ -1,0 +1,15 @@
+Odd-Eyes Dragon
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Odd-Eyes
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Saber Force Starter Deck
+- Space-Time Showdown Power-Up Pack

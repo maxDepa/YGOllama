@@ -1,0 +1,15 @@
+The Weather Sunny Canvas
+Card Type: Spell Card
+
+Description: "The Weather" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.
+● You can banish this card, then target 1 monster you control (Quick Effect); Tribute that target, and if you do, Special Summon 1 "The Weather" monster from your hand or GY, but not with the same name the Tributed monster had on the field.
+You can only control 1 "The Weather Sunny Canvas".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: The Weather
+Present in Sets:
+- Spirit Warriors

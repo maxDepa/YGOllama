@@ -1,0 +1,13 @@
+Spy-C-Spy
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Look at 1 random card in your opponent's Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster's ATK.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Duelist Alliance

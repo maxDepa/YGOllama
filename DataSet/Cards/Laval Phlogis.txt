@@ -1,0 +1,14 @@
+Laval Phlogis
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard: All "Laval" monsters you currently control gain 300 ATK.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

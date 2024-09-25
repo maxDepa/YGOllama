@@ -1,0 +1,16 @@
+T.G. Warwolf
+Card Type: Effect Monster
+
+Description: When a Level 4 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 "T.G." monster from your Deck to your hand, except "T.G. Warwolf".
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)

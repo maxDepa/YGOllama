@@ -1,0 +1,14 @@
+Numbing Grub in the Ice Barrier
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.
+
+Type: Insect
+Attribute: WATER
+Level: 4
+Attack: 1300
+Defence: 1800
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 1
+- Gold Series 3

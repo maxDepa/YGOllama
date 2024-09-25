@@ -1,0 +1,14 @@
+Naturia Forest
+Card Type: Spell Card
+
+Description: If you negate the activation of a card your opponent controls, you can add 1 Level 3 or lower "Naturia" monster from your Deck to your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Naturia
+Present in Sets:
+- Duelist Revolution
+- OTS Tournament Pack 18 (POR)

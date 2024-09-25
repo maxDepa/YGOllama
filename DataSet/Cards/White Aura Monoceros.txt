@@ -1,0 +1,15 @@
+White Aura Monoceros
+Card Type: Synchro Monster
+
+Description: 1 WATER Tuner + 1+ non-Tuner monsters
+When this card is Synchro Summoned: You can target 1 Fish monster in your GY; Special Summon it, but it cannot attack this turn. You can only use this effect of "White Aura Monoceros" once per turn. If this card you control is destroyed by your opponent's card and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.
+
+Type: Fish
+Attribute: WATER
+Level: 7
+Attack: 2500
+Defence: 1500
+Archetype: White
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

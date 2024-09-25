@@ -1,0 +1,16 @@
+Chthonian Soldier
+Card Type: Effect Monster
+
+Description: When this card is destroyed by an opponent's attacking monster and sent to the Graveyard, the Battle Damage you took from this battle is also inflicted to your opponent.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Mattel Action Figure promotional cards: Series 3

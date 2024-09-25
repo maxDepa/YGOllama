@@ -1,0 +1,15 @@
+The Monarchs Awaken
+Card Type: Trap Card
+
+Description: If you have no cards in your Extra Deck: Target 1 face-up Tribute Summoned monster you control; its effects are negated, also it is unaffected by the effects of cards other than this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Monarch
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Emperor of Darkness Structure Deck
+- Legacy of the Valiant

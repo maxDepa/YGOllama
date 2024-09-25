@@ -1,0 +1,14 @@
+Five Brothers Explosion
+Card Type: Trap Card
+
+Description: When this card is activated: Gain 500 LP for each Continuous Spell/Trap Card you control. If this face-up card you control is sent to your Graveyard by your opponent's card effect: Inflict 500 damage to your opponent for each Continuous Spell/Trap Card in your Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

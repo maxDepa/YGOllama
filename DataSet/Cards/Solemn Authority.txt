@@ -1,0 +1,15 @@
+Solemn Authority
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 "Aesir" monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the GY during your 2nd Standby Phase after activation.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solemn
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

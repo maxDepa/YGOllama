@@ -1,0 +1,16 @@
+Cybernetic Cyclopean
+Card Type: Effect Monster
+
+Description: While you have no cards in your hand, this card gains 1000 ATK.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 200
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Starter Deck: Jaden Yuki
+- Starter Deck: Kaiba Reloaded

@@ -1,0 +1,12 @@
+Tao the Chanter
+Card Type: Normal Monster
+
+Description: Master of Yin and Yang, this wizard handles a delicate balance of spells and counter spells.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:

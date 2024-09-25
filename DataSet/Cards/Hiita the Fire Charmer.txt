@@ -1,0 +1,16 @@
+Hiita the Fire Charmer
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 6b
+- Structure Deck: Spirit Charmers
+- The Lost Millennium

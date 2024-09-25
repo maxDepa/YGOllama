@@ -1,0 +1,14 @@
+Yaranzo
+Card Type: Normal Monster
+
+Description: A treasure box containing a monster that attacks any unwary bandit.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards

@@ -1,0 +1,16 @@
+Dual Avatar Defeating Evil
+Card Type: Spell Card
+
+Description: Target 1 "Dual Avatar" monster you control and 1 card your opponent controls; destroy them, then if you destroyed a "Dual Avatar" Fusion Monster you control by this effect, you can apply 1 of these effects.
+● Draw 1 card.
+● Banish 1 card from your opponent's GY.
+You can only activate 1 "Dual Avatar Defeating Evil" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dual Avatar
+Present in Sets:
+- Phantom Rage

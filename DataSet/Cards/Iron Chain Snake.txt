@@ -1,0 +1,13 @@
+Iron Chain Snake
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can equip this card to 1 face-up monster your opponent controls. That monster loses 800 ATK and DEF. When it is destroyed by battle and sent to the Graveyard, its controller sends cards equal to its Level from the top of their Deck to the Graveyard.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Iron Chain
+Present in Sets:
+- Crossroads of Chaos

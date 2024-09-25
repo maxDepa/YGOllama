@@ -1,0 +1,16 @@
+Beatdown!
+Card Type: Skill Card
+
+Description: [If you control a Level 5 or higher monster, you can activate this Skill.]
+
+All monsters you currently control gain 300 ATK for each Level 5 or higher monster you control. At the end of your turn, flip this card over.
+
+Type: Kaiba
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- SJ Jump Pack Spring 2020 promotional card
+- Speed Duel Starter Decks: Duelists of Tomorrow

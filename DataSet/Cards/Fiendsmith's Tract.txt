@@ -1,0 +1,14 @@
+Fiendsmith's Tract
+Card Type: Spell Card
+
+Description: Add 1 LIGHT Fiend monster from your Deck to your hand, then discard 1 card. You can banish this card from your GY; Fusion Summon 1 "Fiendsmith" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of "Fiendsmith's Tract" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fiendsmith
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

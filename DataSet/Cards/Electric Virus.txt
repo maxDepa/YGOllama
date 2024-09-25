@@ -1,0 +1,16 @@
+Electric Virus
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard, then target 1 Machine or Dragon-Type monster your opponent controls; take control of that target until the End Phase.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- OTS Tournament Pack 24
+- Starter Deck: Yugi Reloaded
+- Strike of Neos

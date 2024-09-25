@@ -1,0 +1,13 @@
+Magic Hole Golem
+Card Type: Effect Monster
+
+Description: Once per turn, you can select 1 face-up monster you control. Its ATK is halved until the End Phase, and it can attack your opponent directly this turn. During the turn you activate this effect, only the selected monster can attack.
+
+Type: Rock
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

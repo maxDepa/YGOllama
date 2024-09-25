@@ -1,0 +1,15 @@
+Shinobird's Calling
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Shinobaroness Peacock" or "Shinobaron Peacock". You must also Tribute monsters from your hand or field and/or banish Spirit monsters from your Graveyard, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shinobird
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- OTS Tournament Pack 23
+- Raging Tempest

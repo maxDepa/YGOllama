@@ -1,0 +1,14 @@
+Double Fin Shark
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 3 or 4 WATER Fish-Type monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated. You cannot Special Summon any monsters during the turn you activate this effect, except WATER monsters.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- Legendary Duelists: Duels From the Deep

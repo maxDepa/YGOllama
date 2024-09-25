@@ -1,0 +1,13 @@
+Rescue-ACE Air Lifter
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Rescue-ACE" Spell from your Deck to your hand. When your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card from your hand or face-up field; Special Summon 1 "Rescue-ACE" monster from your hand, except "Rescue-ACE Air Lifter". You can only use each effect of "Rescue-ACE Air Lifter" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1700
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders

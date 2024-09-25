@@ -1,0 +1,13 @@
+Constellar Twinkle
+Card Type: Spell Card
+
+Description: Target 1 "Constellar" monster you control; increase its Level by 1 or 2. If this card is in the Graveyard: You can banish 1 "Constellar" monster from your Graveyard; add this card from the Graveyard to your hand. You can only use this effect of "Constellar Twinkle" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Constellar
+Present in Sets:
+- Secrets of Eternity

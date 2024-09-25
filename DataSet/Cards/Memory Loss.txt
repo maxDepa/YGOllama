@@ -1,0 +1,19 @@
+Memory Loss
+Card Type: Trap Card
+
+Description: When a face-up Attack Position monster your opponent controls just activated an effect (except during the Damage Step): Negate that effect, and if you do, change that monster to face-up Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Lord of the Tachyon Galaxy
+- Speed Duel GX: Duel Academy Box
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

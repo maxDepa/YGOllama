@@ -1,0 +1,13 @@
+Sword Slasher
+Card Type: Normal Monster
+
+Description: A lethal engine of destruction that wields two well-honed blades.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1450
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

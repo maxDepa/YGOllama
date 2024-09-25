@@ -1,0 +1,13 @@
+Rebirth Judgment
+Card Type: Trap Card
+
+Description: Once per turn: You can declare 1 Monster Type; monsters in the GYs become that Type for the rest of this turn (even if this card leaves the field).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Brothers of Legend

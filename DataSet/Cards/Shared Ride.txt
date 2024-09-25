@@ -1,0 +1,17 @@
+Shared Ride
+Card Type: Spell Card
+
+Description: For the rest of this turn, each time a card(s) is added from the Main Deck or GY to your opponent's hand, except by drawing them, you immediately draw 1 card. You can only activate 1 "Shared Ride" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Maximum Gold
+- Premium Gold: Infinite Gold
+- Structure Deck: Zombie Horde

@@ -1,0 +1,18 @@
+Performapal Turn Toad
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.
+
+[ Monster Effect ] 
+Once per turn, during your Battle Phase (except during the Damage Step): You can target 1 monster you control; change its battle position, and if you do, switch its current ATK and DEF until the end of this turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 800
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

@@ -1,0 +1,16 @@
+Odd-Eyes Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. If your opponent controls 2 or more monsters and you control no monsters, you can also use up to 2 "Odd-Eyes" monsters in your Extra Deck as Fusion Materials. You can only activate 1 "Odd-Eyes Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Odd-Eyes
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Legendary Dragon Decks
+- Pendulum Evolution

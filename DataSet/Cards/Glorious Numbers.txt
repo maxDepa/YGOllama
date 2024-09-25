@@ -1,0 +1,14 @@
+Glorious Numbers
+Card Type: Spell Card
+
+Description: If you control no monsters: Target 1 "Number" Xyz Monster in your GY; Special Summon it, then draw 1 card. You can banish this card from your GY, then target 1 "Number" Xyz Monster you control; attach 1 card from your hand to it as material. You can only use each effect of "Glorious Numbers" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge

@@ -1,0 +1,14 @@
+Statue of Anguish Pattern
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while you control another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

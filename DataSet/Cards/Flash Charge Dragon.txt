@@ -1,0 +1,15 @@
+Flash Charge Dragon
+Card Type: Link Monster
+
+Description: 2+ Dragon monsters
+You cannot Summon/Set monsters to a zone this card points to. Once per turn, if a monster(s) is Normal or Special Summoned, to a zone(s) this card points to (except during the Damage Step): You can destroy 1 monster this card points to, and if you do, inflict 500 damage to your opponent. When a card or effect is activated that targets this face-up card (Quick Effect): You can Tribute 1 monster; negate the activation. 
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge

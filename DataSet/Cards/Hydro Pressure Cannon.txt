@@ -1,0 +1,13 @@
+Hydro Pressure Cannon
+Card Type: Spell Card
+
+Description: Equip only to a Level 3 or lower WATER monster. If it destroys an opponent's monster by battle, send 1 random card in your opponent's hand to the Graveyard.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

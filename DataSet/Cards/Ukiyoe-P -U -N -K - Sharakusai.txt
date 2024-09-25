@@ -1,0 +1,14 @@
+Ukiyoe-P.U.N.K. Sharakusai
+Card Type: Tuner Monster
+
+Description: You can pay 600 LP; Fusion Summon 1 "P.U.N.K." Fusion Monster from your Extra Deck, using monsters from your hand or field as material. During your opponent's turn (Quick Effect): You can pay 600 LP; immediately after this effect resolves, Synchro Summon 1 "P.U.N.K." Synchro Monster using monsters you control as material. You can only use each effect of "Ukiyoe-P.U.N.K. Sharakusai" once per turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: P.U.N.K.
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- The Grand Creators

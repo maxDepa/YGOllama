@@ -1,0 +1,15 @@
+Ally of Justice Core Destroyer
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card battles a LIGHT monster: Destroy that monster.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 200
+Archetype: Ally of Justice
+Present in Sets:
+- Speed Duel Tournament Pack 2
+- Speed Duel: Scars of Battle
+- The Shining Darkness

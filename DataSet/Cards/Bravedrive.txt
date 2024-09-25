@@ -1,0 +1,14 @@
+Bravedrive
+Card Type: Effect Monster
+
+Description: Once per turn, when your Cyberse monster declares an attack: You can discard 1 monster; that attacking monster gains 600 ATK, until the end of this turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

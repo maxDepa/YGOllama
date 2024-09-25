@@ -1,0 +1,17 @@
+Performapal Card Gardna
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up Defense Position monster you control; its DEF becomes equal to the combined original DEF of all face-up Defense Position monsters you currently control (even if this card leaves the field).
+
+[ Monster Effect ] 
+Gains DEF equal to the combined original DEF of all other "Performapal" monsters you control.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Performapal
+Present in Sets:
+- Rise of the Duelist

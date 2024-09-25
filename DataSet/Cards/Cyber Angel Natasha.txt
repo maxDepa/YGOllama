@@ -1,0 +1,13 @@
+Cyber Angel Natasha
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Machine Angel Ritual". Once per turn: You can target 1 face-up monster you control; gain LP equal to half its ATK. When a Ritual Monster you control is targeted for an attack: You can negate the attack. If this card is in the Graveyard: You can banish 1 other "Cyber Angel" monster from your Graveyard, then target 1 monster your opponent controls; Special Summon this card, and if you do, take control of that monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 1000
+Archetype: Cyber Angel
+Present in Sets:
+- Raging Tempest

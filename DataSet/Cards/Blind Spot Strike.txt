@@ -1,0 +1,14 @@
+Blind Spot Strike
+Card Type: Spell Card
+
+Description: Select 1 face-up Defense Position monster your opponent controls and 1 face-up Attack Position monster you control. The monster you control gains ATK equal to the opponent's monster's DEF, until the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Duelist Revolution

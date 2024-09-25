@@ -1,0 +1,13 @@
+Dodododraw
+Card Type: Spell Card
+
+Description: Send 1 "Dododo" monster from your hand or face-up from your side of the field to the Graveyard; draw 2 cards. You can only activate 1 "Dodododraw" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dododo
+Present in Sets:
+- World Superstars

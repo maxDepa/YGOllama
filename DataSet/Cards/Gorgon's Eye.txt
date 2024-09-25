@@ -1,0 +1,15 @@
+Gorgon's Eye
+Card Type: Trap Card
+
+Description: Until the end of this turn, all effects of Defense Position monsters are negated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

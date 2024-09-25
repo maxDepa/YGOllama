@@ -1,0 +1,15 @@
+Yosenju Izna
+Card Type: Effect Monster
+
+Description: Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of "Yosenju Izna" once per turn.
+● You can discard this card; this turn, your opponent cannot activate cards or effects when a "Yosenju" monster(s) is Normal or Special Summoned.
+● If you control another "Yosenju" monster: You can draw 1 card.
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 4
+Attack: 800
+Defence: 1200
+Archetype: Yosenju
+Present in Sets:
+- Rising Rampage

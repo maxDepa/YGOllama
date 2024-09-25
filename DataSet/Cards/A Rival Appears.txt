@@ -1,0 +1,14 @@
+A Rival Appears!
+Card Type: Trap Card
+
+Description: Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

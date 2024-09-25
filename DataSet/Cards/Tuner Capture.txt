@@ -1,0 +1,13 @@
+Tuner Capture
+Card Type: Trap Card
+
+Description: Activate only when your opponent Synchro Summons a monster. Special Summon 1 Tuner Monster used for that Synchro Summon from their Graveyard to your side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

@@ -1,0 +1,15 @@
+Synchro Transmission
+Card Type: Trap Card
+
+Description: During the Main Phase: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster using monsters you control as material. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Synchro Monster in your GY; return it to the Extra Deck, then draw 1 card. You can only use each effect of "Synchro Transmission" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex
+- Valiant Smashers

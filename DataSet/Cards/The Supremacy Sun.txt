@@ -1,0 +1,14 @@
+The Supremacy Sun
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Duelist League 16 participation cards
+- Shonen Jump Vol. 10, Issue 1 promotional card

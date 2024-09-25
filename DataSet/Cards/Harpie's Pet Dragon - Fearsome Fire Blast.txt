@@ -1,0 +1,13 @@
+Harpie's Pet Dragon - Fearsome Fire Blast
+Card Type: Effect Monster
+
+Description: Monsters cannot target Level 6 or lower "Harpie" monsters for attacks. You can only use each of the following effects of "Harpie's Pet Dragon - Fearsome Fire Blast" once per turn. If you control a Level 6 or lower WIND monster: You can Special Summon this card from your hand in Defense Position. If this card is sent from the field to the GY: You can send 1 WIND Winged Beast monster from your Deck to the GY.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2000
+Defence: 2500
+Archetype: Harpie
+Present in Sets:
+- Legendary Duelists: Season 3

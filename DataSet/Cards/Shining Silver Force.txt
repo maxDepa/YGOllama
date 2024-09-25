@@ -1,0 +1,13 @@
+Shining Silver Force
+Card Type: Trap Card
+
+Description: Activate only when your opponent activates a Trap Card that inflicts damage. Negate the activation of that card and destroy it and all face-up Spell and Trap Cards your opponent controls.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis

@@ -1,0 +1,14 @@
+Virtual World Xiezhi - Jiji
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 "Virtual World" card you control; send 1 "Virtual World" card of a different type (Monster, Spell, Trap) from your Deck to the GY, and if you do, Special Summon this card, then, during the End Phase of this turn, you can add 1 "Virtual World" monster from your GY to your hand, except "Virtual World Xiezhi - Jiji". For the rest of this turn, you can only Special Summon Level/Rank 3 or higher monsters. You can only use this effect of "Virtual World Xiezhi - Jiji" once per turn.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1600
+Archetype: Virtual World
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

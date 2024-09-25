@@ -1,0 +1,21 @@
+Cardcar D
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase. You cannot Special Summon during the turn you activate this effect.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Galactic Overlord
+- High-Speed Riders
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Link Strike
+- The Secret Forces

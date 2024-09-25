@@ -1,0 +1,14 @@
+Tenpai Dragon Genroku
+Card Type: Effect Monster
+
+Description: If this card is added to your hand, except by drawing it: You can Special Summon this card as a Tuner, then you can increase its Level by 1. (Quick Effect): You can Tribute this card; Special Summon 1 "Tenpai Dragon" monster from your Deck, except "Tenpai Dragon Genroku", also you cannot Special Summon for the rest of this turn, except Dragon monsters. You can only use each effect of "Tenpai Dragon Genroku" once per turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 3
+Attack: 0
+Defence: 1000
+Archetype: Tenpai Dragon
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

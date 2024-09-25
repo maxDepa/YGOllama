@@ -1,0 +1,13 @@
+Elementsaber Aina
+Card Type: Effect Monster
+
+Description: Once per turn: You can send 1 "Elementsaber" monster from your hand to the GY, then target 1 "Elementsaber" monster (except "Elementsaber Aina") or "Elemental Lord" monster (that has been properly Summoned) in your GY; Special Summon it, ignoring its Summoning conditions. Once per turn, if this card is in the GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 900
+Defence: 1800
+Archetype: Elementsaber
+Present in Sets:
+- Flames of Destruction

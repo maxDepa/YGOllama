@@ -1,0 +1,14 @@
+King Scarlet
+Card Type: Trap Card
+
+Description: If a "Red Dragon Archfiend" monster you control battles, during damage calculation: Make that monster you control unable to be destroyed by that battle, and if you do, Special Summon this card as a Normal Monster (Fiend-Type/Tuner/FIRE/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.)
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

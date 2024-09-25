@@ -1,0 +1,15 @@
+Red Wyvern
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+During either player's turn, if a monster with higher ATK than this Synchro Summoned card is on the field: You can destroy the 1 face-up monster on the field that has the highest ATK (your choice, if tied). This effect can only be used once while this card is face-up on the field.
+
+Type: Dragon
+Attribute: FIRE
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- High-Speed Riders

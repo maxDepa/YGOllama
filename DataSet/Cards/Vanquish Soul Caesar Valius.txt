@@ -1,0 +1,17 @@
+Vanquish Soul Caesar Valius
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can target 1 non-Dragon "Vanquish Soul" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);
+● EARTH: This face-up card is unaffected by your opponent's activated effects this turn.
+● EARTH, FIRE, & DARK: Destroy 1 other card on the field.
+You can only use each effect of "Vanquish Soul Caesar Valius" once per turn, and cannot activate more than 1 in the same Chain.
+
+Type: Dragon
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 1500
+Archetype: Vanquish Soul
+Present in Sets:
+- Wild Survivors
+- Wild Survivors

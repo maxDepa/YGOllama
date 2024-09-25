@@ -1,0 +1,14 @@
+Court of Justice
+Card Type: Spell Card
+
+Description: Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one "Court of Justice" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years
+- Maze of Memories

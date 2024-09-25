@@ -1,0 +1,14 @@
+Dogmatika Ashiyan
+Card Type: Effect Monster
+
+Description: If a Fusion, Synchro, Xyz, or Link Monster(s) is sent to the GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned from the hand: You can target 1 "Dogmatika" card in your GY, except "Dogmatika Ashiyan"; add it to your hand. When an opponent's monster declares an attack: You can make all "Dogmatika" monsters you currently control gain 500 ATK. You can only use each effect of "Dogmatika Ashiyan" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 2000
+Defence: 1500
+Archetype: Dogmatika
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

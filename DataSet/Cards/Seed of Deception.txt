@@ -1,0 +1,13 @@
+Seed of Deception
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 2 or lower Plant-Type monster from your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

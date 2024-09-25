@@ -1,0 +1,14 @@
+Worm Xex
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can send 1 Reptile-Type "Worm" monster from your Deck to the Graveyard. If you control a face-up "Worm Yagan", this card cannot be destroyed by battle.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

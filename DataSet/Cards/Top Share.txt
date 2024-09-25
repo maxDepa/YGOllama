@@ -1,0 +1,13 @@
+Top Share
+Card Type: Spell Card
+
+Description: Reveal 1 card from your Deck and place it on top of your Deck, then your opponent reveals 1 card from their Deck and places it on top of their Deck. You can only activate 1 "Top Share" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle of Chaos

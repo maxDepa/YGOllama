@@ -1,0 +1,15 @@
+Gishki Shadow
+Card Type: Effect Monster
+
+Description: If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 "Gishki" Ritual Spell Card from your Deck to your hand.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion
+- The Secret Forces

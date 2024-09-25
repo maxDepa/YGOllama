@@ -1,0 +1,13 @@
+Odd-Eyes Advance Dragon
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 Level 5 or higher monster. If this card is Tribute Summoned: You can destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. When this card destroys a monster by battle: You can Special Summon 1 Level 5 or higher monster from your hand or GY in Defense Position, except "Odd-Eyes Advance Dragon". You can only use this effect of "Odd-Eyes Advance Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Odd-Eyes
+Present in Sets:
+- Duel Power

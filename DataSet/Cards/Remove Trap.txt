@@ -1,0 +1,22 @@
+Remove Trap
+Card Type: Spell Card
+
+Description: Select 1 face-up Trap Card on the field and destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution

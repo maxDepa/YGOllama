@@ -1,0 +1,15 @@
+Goblin of Greed
+Card Type: Effect Monster
+
+Description: As long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Greed
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

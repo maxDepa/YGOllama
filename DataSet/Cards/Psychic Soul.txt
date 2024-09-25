@@ -1,0 +1,13 @@
+Psychic Soul
+Card Type: Trap Card
+
+Description: Tribute 1 Psychic-Type monster you control. Gain Life Points equal to the Level of the Tributed monster x 300.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

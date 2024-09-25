@@ -1,0 +1,16 @@
+D/D/D Flame King Genghis
+Card Type: Fusion Monster
+
+Description: 2 "D/D" monsters
+If another "D/D" monster(s) is Special Summoned to your field, while you control this face-up card (except during the Damage Step): You can target 1 "D/D" monster in your Graveyard; Special Summon it. You can only use this effect of "D/D/D Flame King Genghis" once per turn. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 "Dark Contract" card in your Graveyard; add it to your hand.
+
+Type: Fiend
+Attribute: FIRE
+Level: 6
+Attack: 2000
+Defence: 1500
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tins
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)

@@ -1,0 +1,15 @@
+Pair Cycroid
+Card Type: Fusion Monster
+
+Description: 2 Machine-Type monsters with the same name
+This card can attack your opponent directly.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 1200
+Archetype: Roid
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

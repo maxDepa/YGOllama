@@ -1,0 +1,13 @@
+Monster Rebone
+Card Type: Trap Card
+
+Description: If your opponent Special Summoned a monster this turn: Activate this card by targeting 1 monster in your opponent's Graveyard; Special Summon it to your side of the field in Defense Position. When this card leaves the field, banish that monster. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossed Souls

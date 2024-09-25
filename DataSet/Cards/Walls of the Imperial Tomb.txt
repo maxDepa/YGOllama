@@ -1,0 +1,13 @@
+Walls of the Imperial Tomb
+Card Type: Spell Card
+
+Description: This card's name becomes "King's Sarcophagus" while in the Field Zone. During your Main Phase: You can add 1 "Horus" monster from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. You can only use this effect of "Walls of the Imperial Tomb" once per turn. If you activate the effect of "Horus the Black Flame Deity": You can draw 1 card.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Nightmare

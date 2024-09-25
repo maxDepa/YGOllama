@@ -1,0 +1,17 @@
+Hazy Flame Basiltrice
+Card Type: XYZ Monster
+
+Description: 2 or more (max. 5) Level 6 FIRE monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls or is in their Graveyard; banish that target. This card gains effects based on the number of Xyz Materials attached to it.
+● 3 or more: This card gains 200 ATK and DEF for each Xyz Material attached to it.
+● 4 or more: This card cannot be targeted by your opponent's card effects.
+● 5: This card cannot be destroyed by card effects.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2500
+Defence: 1800
+Archetype: Hazy
+Present in Sets:
+- Cosmo Blazer

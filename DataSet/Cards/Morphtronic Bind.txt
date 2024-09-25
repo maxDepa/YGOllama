@@ -1,0 +1,13 @@
+Morphtronic Bind
+Card Type: Trap Card
+
+Description: While you control a face-up "Morphtronic" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Raging Battle

@@ -1,0 +1,12 @@
+Fireball Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Goka, the Pyre of Malice".
+
+Type: Pyro
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

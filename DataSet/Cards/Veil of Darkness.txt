@@ -1,0 +1,20 @@
+Veil of Darkness
+Card Type: Spell Card
+
+Description: During your Draw Phase, if you draw a DARK monster(s): You can reveal any number of them; send them to the GY, then you can draw 1 more card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Gladiator's Assault
+- Gold Series 2009
+- Premium Gold: Return of the Bling
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Arena of Lost Souls
+- Structure Deck: Lair of Darkness

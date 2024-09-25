@@ -1,0 +1,14 @@
+Malefic Paradox Dragon
+Card Type: Synchro Monster
+
+Description: "Malefic Parallel Gear" + 1 non-Tuner "Malefic" monster
+When this card is Synchro Summoned, you can select 1 Synchro Monster in either player's Graveyard, and Special Summon it. There can only be 1 face-up "Malefic Paradox Dragon" on the field. If "Malefic World" is not face-up on the field, destroy this card.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Malefic
+Present in Sets:
+- Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack

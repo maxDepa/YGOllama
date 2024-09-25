@@ -1,0 +1,18 @@
+Tsukuyomi
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. If this card is Normal Summoned or flipped face-up: Target 1 face-up monster on the field; change that target to face-down Defense Position. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duelist Saga
+- Structure Deck: Spellcaster's Judgment

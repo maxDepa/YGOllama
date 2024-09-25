@@ -1,0 +1,20 @@
+Dragon Knight Draco-Equiste
+Card Type: Fusion Monster
+
+Description: 1 Dragon-Type Synchro Monster + 1 Warrior-Type monster
+Must first be Fusion Summoned. Once per turn: You can target 1 Dragon-Type Synchro Monster in the Graveyard; banish that target, and if you do, until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects. While this card is in Attack Position, your opponent takes any effect damage you would have taken from their card effects, instead.
+
+Type: Dragon
+Attribute: WIND
+Level: 10
+Attack: 3200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Collectible Tins 2010 Wave 1
+- Duelist Pack: Yusei 3
+- Duelist Revolution
+- Duelist Revolution
+- Duelist Revolution
+- Ghosts From the Past
+- Legendary Collection 5D's Mega Pack

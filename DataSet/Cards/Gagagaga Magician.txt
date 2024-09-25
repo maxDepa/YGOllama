@@ -1,0 +1,16 @@
+Gagagaga Magician
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can detach 1 material from this card, then target 1 Xyz Monster in your GY, except "Gagagaga Magician"; Special Summon it, but negate its effects. You can only use this effect of "Gagagaga Magician" once per turn. A "Utopic Future" Xyz Monster that has this card as material gains this effect.
+● During your Main Phase: You can detach 2 materials from this card, then target 1 Xyz Monster you control; until the end of this turn, change its ATK to 4000, also negate its effects.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: Gagaga
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

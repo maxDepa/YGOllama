@@ -1,0 +1,28 @@
+Black Luster Soldier - Envoy of the Beginning
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.
+● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.
+● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Black Luster Soldier
+Present in Sets:
+- 2013 Collectible Tins Wave 1
+- Dark Revelation Volume 2
+- Duelist Saga
+- Gold Series 4: Pyramids Edition
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magnificent Mavens
+- Master Collection Volume 2
+- Premium Gold
+- Structure Deck: Shaddoll Showdown
+- Toon Chaos
+- Toon Chaos
+- Yugi's Legendary Decks

@@ -1,0 +1,13 @@
+Degen-Force
+Card Type: Trap Card
+
+Description: Tribute 1 Level 4 or higher Dinosaur-Type monster; Special Summon 2 Level 3 or lower Reptile-Type monsters from your hand and/or Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos

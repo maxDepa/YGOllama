@@ -1,0 +1,13 @@
+Phalanx Pike
+Card Type: Spell Card
+
+Description: The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

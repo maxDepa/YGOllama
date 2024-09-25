@@ -1,0 +1,16 @@
+Soul Rope
+Card Type: Trap Card
+
+Description: When a monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): Pay 1000 LP; Special Summon 1 Level 4 monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Light of Destruction: Special Edition
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

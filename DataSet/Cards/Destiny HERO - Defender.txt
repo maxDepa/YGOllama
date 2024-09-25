@@ -1,0 +1,17 @@
+Destiny HERO - Defender
+Card Type: Effect Monster
+
+Description: During each of your opponent's Standby Phases: Your opponent draws 1 card. This card must be in face-up Defense Position to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 2700
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

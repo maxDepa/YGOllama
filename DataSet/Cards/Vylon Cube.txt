@@ -1,0 +1,14 @@
+Vylon Cube
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard for the Synchro Summon of a LIGHT monster: You can add 1 Equip Spell Card from your Deck to your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

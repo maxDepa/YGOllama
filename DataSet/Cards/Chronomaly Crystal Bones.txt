@@ -1,0 +1,14 @@
+Chronomaly Crystal Bones
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When you do: You can Special Summon 1 "Chronomaly" monster from your hand or Graveyard, except "Chronomaly Crystal Bones".
+
+Type: Rock
+Attribute: LIGHT
+Level: 3
+Attack: 1300
+Defence: 400
+Archetype: Chronomaly
+Present in Sets:
+- OTS Tournament Pack 17 (POR)
+- Return of the Duelist

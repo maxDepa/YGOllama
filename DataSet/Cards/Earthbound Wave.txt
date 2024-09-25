@@ -1,0 +1,15 @@
+Earthbound Wave
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell/Trap Card while you control a "Earthbound Immortal" monster: Negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 3
+- Stardust Overdrive

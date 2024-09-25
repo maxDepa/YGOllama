@@ -1,0 +1,15 @@
+Earthbound Greater Linewalker
+Card Type: Effect Monster
+
+Description: If you control a Synchro Monster(s) and have a Synchro Monster(s) in your GY: You can Special Summon this card from your hand. During your Main Phase: You can add 1 "Earthbound Immortal" monster from your Deck or GY to your hand. If an "Earthbound Immortal" monster is Normal Summoned while this monster is on the field: You can make your opponent's LP 3000. You can only use each effect of "Earthbound Greater Linewalker" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2900
+Archetype: Earthbound
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Maze of Millennia

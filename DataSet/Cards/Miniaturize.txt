@@ -1,0 +1,19 @@
+Miniaturize
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 face-up monster on the field with more than 1000 original ATK that has a Level; its Level is reduced by 1, also it loses 1000 ATK. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

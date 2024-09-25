@@ -1,0 +1,14 @@
+Psychic Ace
+Card Type: Effect Monster
+
+Description: If this card in the Monster Zone is Tributed: You can target 1 card on the field; destroy it.
+
+Type: Psychic
+Attribute: DARK
+Level: 2
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

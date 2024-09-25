@@ -1,0 +1,19 @@
+Magical Merchant
+Card Type: Flip Effect Monster
+
+Description: FLIP: Excavate cards from the top of your Deck until you excavate a Spell/Trap, then add that card to your hand, also send the remaining cards to the GY.
+
+Type: Insect
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 700
+Archetype: //
+Present in Sets:
+- Astral Pack Four
+- Champion Pack: Game Five
+- Dark Revelation Volume 1
+- Magician's Force
+- Star Pack 2014
+- Star Pack 2014
+- Structure Deck: Powercode Link

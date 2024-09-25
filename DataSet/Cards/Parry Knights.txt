@@ -1,0 +1,14 @@
+Parry Knights
+Card Type: Effect Monster
+
+Description: When you take battle damage from an opponent's attacking monster: You can Special Summon this card from your hand, then you can Special Summon 1 monster from your hand with ATK less than or equal to the damage you took.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

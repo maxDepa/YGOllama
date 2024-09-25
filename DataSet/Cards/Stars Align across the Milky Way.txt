@@ -1,0 +1,14 @@
+Stars Align across the Milky Way
+Card Type: Trap Card
+
+Description: Reveal 1 Ritual Monster in your hand; add 1 Ritual Monster with the same Level but a different name from your Deck to your hand. You can banish this card from your GY and send 1 Ritual Spell from your hand to the GY; this effect becomes that card's effect that Ritual Summons a monster when the card is activated. You can only use each effect of "Stars Align across the Milky Way" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

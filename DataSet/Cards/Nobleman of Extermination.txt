@@ -1,0 +1,22 @@
+Nobleman of Extermination
+Card Type: Spell Card
+
+Description: Select, destroy, and remove from play 1 face-down Spell or Trap Card. If it was a Trap Card, both players must remove from play all copies of that card from their Decks.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Duelist League 2 participation cards
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box
+- Tournament Pack 4

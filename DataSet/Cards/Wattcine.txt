@@ -1,0 +1,13 @@
+Wattcine
+Card Type: Spell Card
+
+Description: When a Thunder-Type monster you control inflicts Battle Damage to your opponent, gain Life Points equal to the damage inflicted.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Duelist Revolution

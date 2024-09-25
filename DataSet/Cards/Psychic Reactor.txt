@@ -1,0 +1,15 @@
+Psychic Reactor
+Card Type: Trap Card
+
+Description: If you control a Psychic-Type monster: Apply this effect to all Psychic-Type monsters you currently control, for the rest of this turn. When a Psychic-Type monster you control battles an opponent's monster, after damage calculation: Banish that Psychic-Type monster, also banish that opponent's monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Extreme Victory

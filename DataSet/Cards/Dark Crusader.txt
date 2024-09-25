@@ -1,0 +1,15 @@
+Dark Crusader
+Card Type: Effect Monster
+
+Description: You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Phantom Darkness

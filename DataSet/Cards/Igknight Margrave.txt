@@ -1,0 +1,19 @@
+Igknight Margrave
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+If you have an "Igknight" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.
+
+[ Monster Effect ] 
+''A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.''
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 1500
+Defence: 2500
+Archetype: Igknight
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Astral Pack Eight
+- Clash of Rebellions

@@ -1,0 +1,15 @@
+Man-Eating Treasure Chest
+Card Type: Normal Monster
+
+Description: A monster disguised as a treasure chest that is known to attack the unwary adventurer.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Demo Deck 2015
+- Magic Ruler
+- Starter Deck: Yugi

@@ -1,0 +1,25 @@
+Dark Blade
+Card Type: Normal Monster
+
+Description: They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 1
+- Demo Pack
+- Magician's Force
+- Speed Duel: Battle City Box
+- Starter Deck 2006
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Warrior's Triumph
+- Super Starter: Space-Time Showdown

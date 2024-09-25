@@ -1,0 +1,14 @@
+Naturia Cherries
+Card Type: Tuner Monster
+
+Description: If this card is sent from the field to the Graveyard by your opponent's card (including by battle, card effect, or by being destroyed), you can Special Summon up to 2 "Naturia Cherries" from your Deck in face-down Defense Position.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Naturia
+Present in Sets:
+- Hidden Arsenal: Chapter 1
+- Starstrike Blast

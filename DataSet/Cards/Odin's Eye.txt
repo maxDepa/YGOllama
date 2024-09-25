@@ -1,0 +1,14 @@
+Odin's Eye
+Card Type: Trap Card
+
+Description: Once per turn, during each player's Standby Phase: You can target 1 "Aesir" monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

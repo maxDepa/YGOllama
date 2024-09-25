@@ -1,0 +1,21 @@
+Hallohallo
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.
+
+[ Monster Effect ] 
+''Hallo Hallo, brain of tallow,
+Guts are gone, noggin's hollow.
+Seeking sweets and marshing mallows,
+Watch your back, and your candy sack.''
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Circuit Break
+- Circuit Break Sneak Peek Participation Card

@@ -1,0 +1,12 @@
+Mon Larvas
+Card Type: Normal Monster
+
+Description: A further step in the evolutionary chain, it is much more powerful than "Larvas".
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: //
+Present in Sets:

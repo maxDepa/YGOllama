@@ -1,0 +1,17 @@
+Inzektor Hornet
+Card Type: Effect Monster
+
+Description: Once per turn: You can equip 1 "Inzektor" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. While this card is equipped to a monster: You can send this Equip Card to the Graveyard to target 1 card on the field; destroy that target.
+
+Type: Insect
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 200
+Archetype: Inzektor
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Order of Chaos
+- OTS Tournament Pack 17 (POR)
+- The Grand Creators
+- The Grand Creators

@@ -1,0 +1,16 @@
+Infernal Flame Emperor
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. When this card is Tribute Summoned, you can remove from play up to 5 FIRE monsters in your Graveyard. Destroy a number of Spell/Trap Cards on the field equal to the number of monsters removed from play for this effect.
+
+Type: Pyro
+Attribute: FIRE
+Level: 9
+Attack: 2700
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Fire Kings
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

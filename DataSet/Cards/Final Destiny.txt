@@ -1,0 +1,17 @@
+Final Destiny
+Card Type: Spell Card
+
+Description: Discard 5 cards from your hand. Destroy all cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

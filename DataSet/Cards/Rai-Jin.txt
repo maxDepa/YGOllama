@@ -1,0 +1,13 @@
+Rai-Jin
+Card Type: Effect Monster
+
+Description: All LIGHT monsters you control gain 100 ATK for each LIGHT monster in your Graveyard. During your End Phase, destroy 1 LIGHT monster you control. There can only be 1 face-up "Rai-Jin" on the field.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: -1
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

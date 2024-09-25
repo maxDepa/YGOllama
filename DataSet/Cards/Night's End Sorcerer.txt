@@ -1,0 +1,15 @@
+Night's End Sorcerer
+Card Type: Tuner Monster
+
+Description: When this card is Special Summoned: You can target up to 2 cards in your opponent's GY; banish them.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 1300
+Defence: 400
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Hidden Summoners
+- OTS Tournament Pack 3

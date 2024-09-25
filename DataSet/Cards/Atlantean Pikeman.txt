@@ -1,0 +1,15 @@
+Atlantean Pikeman
+Card Type: Normal Monster
+
+Description: The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 2
+Attack: 1400
+Defence: 0
+Archetype: Atlantean
+Present in Sets:
+- Phantom Darkness
+- Realm of the Sea Emperor Structure Deck
+- Starter Deck: Yu-Gi-Oh! 5D's

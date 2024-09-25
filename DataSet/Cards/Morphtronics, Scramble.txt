@@ -1,0 +1,13 @@
+Morphtronics, Scramble!
+Card Type: Trap Card
+
+Description: Activate only when your opponent declares a direct attack while you control no monsters. Negate that attack and Special Summon 1 "Morphtronic" monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- The Shining Darkness

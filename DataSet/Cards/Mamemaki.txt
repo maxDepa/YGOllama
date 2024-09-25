@@ -1,0 +1,14 @@
+Mamemaki
+Card Type: Trap Card
+
+Description: Target 1 face-up monster your opponent controls; discard cards equal to that monster's Level, and if you do, draw the same number of cards you discarded, then return that monster to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

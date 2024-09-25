@@ -1,0 +1,14 @@
+The Judgement Hand
+Card Type: Normal Monster
+
+Description: An all-powerful hand that delivers ruthless attacks.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 700
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

@@ -1,0 +1,13 @@
+Queen of Autumn Leaves
+Card Type: Normal Monster
+
+Description: Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.
+
+Type: Plant
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

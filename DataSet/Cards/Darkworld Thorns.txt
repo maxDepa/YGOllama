@@ -1,0 +1,15 @@
+Darkworld Thorns
+Card Type: Normal Monster
+
+Description: A thorny plant found in the darklands that wraps itself around any unwary traveler.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

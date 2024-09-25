@@ -1,0 +1,14 @@
+Grinder Golem
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) to your opponent's side of the field by Special Summoning 2 "Grinder Tokens" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in face-up Attack Position on your side of the field. If you Special Summon this monster, you cannot Normal Summon or Set a monster during the same turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 300
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Legendary Collection 2: The Duel Academy Years Mega Pack

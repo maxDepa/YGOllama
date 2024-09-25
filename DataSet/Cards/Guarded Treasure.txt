@@ -1,0 +1,14 @@
+Guarded Treasure
+Card Type: Spell Card
+
+Description: Activate this card by discarding 5 cards; draw 2 cards. While this card is on the field, draw 2 cards instead of 1 for your normal draw during your Draw Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

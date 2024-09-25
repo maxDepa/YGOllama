@@ -1,0 +1,13 @@
+Starfish
+Card Type: Effect Monster
+
+Description: Once per turn: You can increase the Levels of all "Starfish" you currently control by 1.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

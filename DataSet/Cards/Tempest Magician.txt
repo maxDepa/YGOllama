@@ -1,0 +1,15 @@
+Tempest Magician
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Spellcaster-Type monsters
+When this card is Synchro Summoned, place 1 Spell Counter on it. Once per turn, you can discard any number of cards to place 1 Spell Counter on a monster(s) you control for each card you discarded. You can remove all Spell Counters on the field to inflict 500 damage to your opponent for each removed Spell Counter.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Stardust Overdrive: Special Edition

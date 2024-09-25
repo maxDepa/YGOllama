@@ -1,0 +1,17 @@
+Advance Zone
+Card Type: Spell Card
+
+Description: Once per turn, during the End Phase of any turn in which you Tribute Summoned a monster(s): You can apply these effects, in sequence, based on the number of monsters you Tributed for Tribute Summons this turn.
+● 1 or more: Destroy 1 Set card your opponent controls.
+● 2 or more: Draw 1 card.
+● 3 or more: Add 1 monster from your Graveyard to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 1
+- Return of the Duelist

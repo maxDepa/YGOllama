@@ -1,0 +1,13 @@
+Yasha, the Skeletal Mayakashi
+Card Type: Effect Monster
+
+Description: You can discard 1 other "Mayakashi" monster; Special Summon this card from your hand. You can only use this effect of "Yasha, the Skeletal Mayakashi" once per turn. You cannot Special Summon monsters from the Extra Deck, except "Mayakashi" monsters.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 0
+Archetype: Mayakashi
+Present in Sets:
+- Hidden Summoners

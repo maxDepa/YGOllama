@@ -1,0 +1,12 @@
+Light Bringer Lucifer
+Card Type: Normal Monster
+
+Description: ''I am the ruler of all creation sitting atop the supreme throne... let there be light!''
+
+Type: Fairy
+Attribute: DARK
+Level: 6
+Attack: 2600
+Defence: 1800
+Archetype: //
+Present in Sets:

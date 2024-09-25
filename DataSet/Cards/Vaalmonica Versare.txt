@@ -1,0 +1,16 @@
+Vaalmonica Versare
+Card Type: Spell Card
+
+Description: Apply 1 of these effects. Unless you have a "Vaalmonica" card in your Pendulum Zone, your opponent chooses the effect.
+● Gain 500 LP, then you can excavate cards from the top of your Deck until you excavate a "Vaalmonica" card, then add that card to your hand, also shuffle the rest into the Deck.
+● Take 500 damage, then you can send 1 "Vaalmonica" card from your Deck to the GY, except "Vaalmonica Versare".
+You can only activate 1 "Vaalmonica Versare" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vaalmonica
+Present in Sets:
+- Valiant Smashers

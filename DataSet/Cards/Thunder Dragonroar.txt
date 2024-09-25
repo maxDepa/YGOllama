@@ -1,0 +1,14 @@
+Thunder Dragonroar
+Card Type: Effect Monster
+
+Description: You can discard this card; add to your hand, 1 of your "Thunder Dragon" cards that is banished or in your GY, except "Thunder Dragonroar". If this card is banished, or sent from the field to the GY: You can Special Summon 1 "Thunder Dragon" monster from your Deck in Defense Position, but return it to the hand during the End Phase. You can only use 1 "Thunder Dragonroar" effect per turn, and only once that turn.
+
+Type: Thunder
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 0
+Archetype: Thunder Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

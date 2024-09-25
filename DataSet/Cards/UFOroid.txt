@@ -1,0 +1,16 @@
+UFOroid
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Machine-Type monster with 1500 or less ATK from your Deck in face-up Attack Position.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 1200
+Defence: 1200
+Archetype: Roid
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,12 @@
+Ancient Jar
+Card Type: Normal Monster
+
+Description: A very fragile jar that contains something ancient and dangerous.
+
+Type: Rock
+Attribute: EARTH
+Level: 1
+Attack: 400
+Defence: 200
+Archetype: //
+Present in Sets:

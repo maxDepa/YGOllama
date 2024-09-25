@@ -1,0 +1,16 @@
+The Weather Thundery Canvas
+Card Type: Trap Card
+
+Description: "The Weather" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.
+● At the start of the Damage Step, if this card battles an opponent's monster: You can banish this card; return that opponent's monster to the hand.
+You can only control 1 "The Weather Thundery Canvas".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: The Weather
+Present in Sets:
+- Maximum Gold: El Dorado
+- Spirit Warriors

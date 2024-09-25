@@ -1,0 +1,17 @@
+Knight Day Grepher
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● During your End Phase: You can target 1 Equip Spell Card in your Graveyard; add that target to your hand. You can only use this effect of "Knight Day Grepher" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Grepher
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Noble Knights of the Round Table Box Set
+- Shadow Specters

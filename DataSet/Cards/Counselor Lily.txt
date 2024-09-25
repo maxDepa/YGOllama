@@ -1,0 +1,13 @@
+Counselor Lily
+Card Type: Tuner Monster
+
+Description: When this card is sent to the Graveyard for a Synchro Summon, you can pay 500 Life Points to have that Synchro Monster gain 1000 ATK until the End Phase.
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

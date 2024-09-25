@@ -1,0 +1,20 @@
+No Entry!!
+Card Type: Trap Card
+
+Description: Change all Attack Position monsters to Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Demo Pack
+- Duel Terminal 2
+- Gladiator's Assault

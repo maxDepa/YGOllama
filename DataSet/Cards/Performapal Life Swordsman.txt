@@ -1,0 +1,14 @@
+Performapal Life Swordsman
+Card Type: Effect Monster
+
+Description: When your opponent gains LP (except during the Damage Step): You can Special Summon this card from your hand, and if you do, this card's ATK becomes equal to the LP your opponent gained. You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of this turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

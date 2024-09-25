@@ -1,0 +1,14 @@
+The Great Double Casted Caster
+Card Type: Fusion Monster
+
+Description: 2 non-Effect Monsters
+Gains ATK equal to the combined original ATK of any Ritual, Fusion, Synchro, Xyz, or Link Monsters used as Fusion Material for this card. This card can attack directly. If this card is destroyed by battle or card effect: You can target 1 of your non-Effect Monsters that is banished or in your GY; Special Summon it. You can only use this effect of "The Great Double Casted Caster" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 0
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Battle of Chaos

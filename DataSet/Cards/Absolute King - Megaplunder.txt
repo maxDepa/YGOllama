@@ -1,0 +1,12 @@
+Absolute King - Megaplunder
+Card Type: Normal Monster
+
+Description: ''The king of dinosaurs that rules over the Earth. Its mighty roar makes its foes tremble in fear!''
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 1500
+Archetype: //
+Present in Sets:

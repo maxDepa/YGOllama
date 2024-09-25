@@ -1,0 +1,14 @@
+Junk Sleep
+Card Type: Trap Card
+
+Description: If your opponent Normal or Special Summons a monster(s): You can change all face-down Defense Position monsters you control to face-up Attack Position. During the End Phase: You can change all monsters you control to face-down Defense Position. You can only use each effect of "Junk Sleep" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Junk
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

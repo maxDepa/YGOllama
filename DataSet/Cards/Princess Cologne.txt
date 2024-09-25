@@ -1,0 +1,15 @@
+Princess Cologne
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+When this card is Xyz Summoned: You can target 1 "Box of Friends" in your Graveyard; Special Summon that target. If you control another monster, your opponent cannot target this card with cards, effects, or for attacks. If a face-up Normal Monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can detach 1 Xyz Material from this card; Special Summon 1 Normal Monster from your Deck or Graveyard in face-up Defense Position.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Number Hunters

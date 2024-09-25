@@ -1,0 +1,16 @@
+Twilight Ninja Nichirin, the Chunin
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's turn: You can discard 1 "Ninja" monster, then activate 1 of these effects;
+● This turn, "Ninja" monsters and "Ninjitsu Art" cards you control cannot be destroyed by battle or card effects.
+● 1 "Ninja" monster you control gains 1000 ATK until the end of this turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

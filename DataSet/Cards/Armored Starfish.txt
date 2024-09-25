@@ -1,0 +1,15 @@
+Armored Starfish
+Card Type: Normal Monster
+
+Description: A bluish starfish with a solid hide capable of fending off attacks.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 850
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

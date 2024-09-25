@@ -1,0 +1,14 @@
+Whirlwind Weasel
+Card Type: Flip Effect Monster
+
+Description: FLIP: Your opponent cannot activate any Spell or Trap Cards for the rest of this turn.
+
+Type: Beast
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice

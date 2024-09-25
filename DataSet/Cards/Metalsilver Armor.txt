@@ -1,0 +1,14 @@
+Metalsilver Armor
+Card Type: Spell Card
+
+Description: As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

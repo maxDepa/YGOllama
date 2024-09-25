@@ -1,0 +1,13 @@
+Shinobaroness Shade Peacock
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Shinobird's Calling". This card's name becomes "Shinobaroness Peacock" while in the hand or on the field. If this card is Ritual Summoned: You can add 1 Spell/Trap from your Deck to your hand that mentions "Spirit monster" in its text. You can only use this effect of "Shinobaroness Shade Peacock" once per turn. Once per turn, during the Standby Phase of the next turn after this card was banished: Special Summon this banished card. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 2000
+Archetype: Shinobird
+Present in Sets:
+- Age of Overlord

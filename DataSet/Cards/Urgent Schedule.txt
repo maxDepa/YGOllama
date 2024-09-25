@@ -1,0 +1,15 @@
+Urgent Schedule
+Card Type: Spell Card
+
+Description: If your opponent controls more monsters than you do: Special Summon 1 Level 4 or lower and 1 Level 5 or higher EARTH Machine monsters from your Deck in Defense Position, but negate their effects. You cannot declare attacks the turn you activate this card, except with Machine monsters. If this Set card is sent from the field to the GY: You can add 1 Level 10 Machine monster from your Deck to your hand. You can only use each effect of "Urgent Schedule" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Train
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Maximum Gold: El Dorado

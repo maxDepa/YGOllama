@@ -1,0 +1,14 @@
+Super Rush Headlong
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control and declare 1 Attribute; if that target battles an opponent's monster with that Attribute this turn, destroy that opponent's monster at the start of the Damage Step.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

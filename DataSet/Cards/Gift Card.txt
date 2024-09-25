@@ -1,0 +1,13 @@
+Gift Card
+Card Type: Trap Card
+
+Description: Your opponent gains 3000 Life Points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

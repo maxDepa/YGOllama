@@ -1,0 +1,16 @@
+Flamvell Baby
+Card Type: Tuner Monster
+
+Description: During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 800
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

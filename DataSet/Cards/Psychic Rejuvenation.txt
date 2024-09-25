@@ -1,0 +1,13 @@
+Psychic Rejuvenation
+Card Type: Trap Card
+
+Description: Gain 1000 Life Points for each face-up Psychic-Type monster you control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

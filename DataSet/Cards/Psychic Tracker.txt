@@ -1,0 +1,14 @@
+Psychic Tracker
+Card Type: Effect Monster
+
+Description: If you control a Level 3 monster other than "Psychic Tracker", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon "Psychic Tracker" once per turn this way. A Synchro Monster that used this card as material gains 600 ATK.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 600
+Archetype: //
+Present in Sets:
+- Savage Strike
+- The Grand Creators

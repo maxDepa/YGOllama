@@ -1,0 +1,14 @@
+Superalloy Beast Raptinus
+Card Type: Fusion Monster
+
+Description: 1 Gemini Monster + 1 Gemini Monster
+All Gemini Monsters on the field are treated as Effect Monsters, and gain their effects.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2200
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Gladiator's Assault

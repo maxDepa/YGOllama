@@ -1,0 +1,13 @@
+Galaxy Summoner
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 "Photon" or "Galaxy" monster in your GY, except "Galaxy Summoner"; Special Summon it in Defense Position. You can target 1 other LIGHT monster you control; it becomes Level 4 until the end of this turn. You can only use each effect of "Galaxy Summoner" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Galaxy
+Present in Sets:
+- Photon Hypernova

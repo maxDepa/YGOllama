@@ -1,0 +1,15 @@
+Success Probability 0%
+Card Type: Trap Card
+
+Description: Send 2 random Fusion Monsters from your opponent's Extra Deck to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Shadow of Infinity

@@ -1,0 +1,21 @@
+Tornado Wall
+Card Type: Trap Card
+
+Description: Activate only while "Umi" is on the field. While "Umi" is face-up on the field, you take no Battle Damage from attacking monsters. Destroy this card when "Umi" leaves the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Umi
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Realm of the Sea Emperor Structure Deck
+- Retro Pack 2
+- Speed Duel: Streets of Battle City
+- Structure Deck: Fury from the Deep

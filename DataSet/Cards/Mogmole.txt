@@ -1,0 +1,15 @@
+Mogmole
+Card Type: Effect Monster
+
+Description: When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of "Mogmole" once per Duel.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

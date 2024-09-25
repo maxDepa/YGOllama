@@ -1,0 +1,17 @@
+XZ-Tank Cannon
+Card Type: Fusion Monster
+
+Description: "X-Head Cannon" + "Z-Metal Tank"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use "Polymerization".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 2100
+Archetype: ABC
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Battle City Box
+- Structure Deck: Seto Kaiba

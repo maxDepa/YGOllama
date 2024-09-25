@@ -1,0 +1,13 @@
+Outburst Dragon
+Card Type: Effect Monster
+
+Description: If you control a monster: You can Special Summon this card from your hand, then destroy all other monsters you control, also you cannot Special Summon monsters, except DARK monsters, while this card is face-up in the Monster Zone. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Link Summon 1 Dragon Link Monster using materials you control, including this card. You can only use each effect of "Outburst Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2100
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

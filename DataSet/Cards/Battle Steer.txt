@@ -1,0 +1,16 @@
+Battle Steer
+Card Type: Normal Monster
+
+Description: A bull monster often found in the woods, it charges enemy monsters with a pair of deadly horns.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

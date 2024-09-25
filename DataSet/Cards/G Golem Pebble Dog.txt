@@ -1,0 +1,13 @@
+G Golem Pebble Dog
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add to your hand or Special Summon 1 "G Golem Pebble Dog" from your Deck, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this card is sent from the hand to the GY: You can add 1 "G Golem" card from your Deck to your hand. You can only use each effect of "G Golem Pebble Dog" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 1000
+Archetype: G Golem
+Present in Sets:
+- Battles of Legend: Crystal Revenge

@@ -1,0 +1,15 @@
+Spiritual Beast Rampengu
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish 1 "Ritual Beast" monster from your Extra Deck and send 1 "Ritual Beast" monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon "Spiritual Beast Rampengu(s)" once per turn.
+
+Type: Beast
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: Ritual Beast
+Present in Sets:
+- Astral Pack Eight
+- Battles of Legend: Terminal Revenge
+- Secrets of Eternity

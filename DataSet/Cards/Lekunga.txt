@@ -1,0 +1,17 @@
+Lekunga
+Card Type: Effect Monster
+
+Description: You can banish 2 WATER monsters from your Graveyard; Special Summon 1 "Lekunga Token" (Plant-Type/WATER/Level 2/ATK 700/DEF 700) in Attack Position.
+
+Type: Plant
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Gold Series 2009
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack

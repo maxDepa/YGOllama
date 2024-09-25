@@ -1,0 +1,13 @@
+Trakodon
+Card Type: Normal Monster
+
+Description: A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 800
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

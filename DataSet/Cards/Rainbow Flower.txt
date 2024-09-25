@@ -1,0 +1,15 @@
+Rainbow Flower
+Card Type: Effect Monster
+
+Description: This monster may attack your opponent's Life Points directly.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 500
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

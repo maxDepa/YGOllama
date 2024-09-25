@@ -1,0 +1,26 @@
+Luster Dragon
+Card Type: Normal Monster
+
+Description: A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 1
+- Magician's Force
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel GX: Duelists of Shadows
+- Starter Deck 2006
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Dragon's Roar
+- Structure Deck: Seto Kaiba
+- Super Starter: Space-Time Showdown
+- Tournament Pack 5

@@ -1,0 +1,17 @@
+Neo-Spacian Air Hummingbird
+Card Type: Effect Monster
+
+Description: Once per turn: You can gain 500 LP for each card in your opponent's hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 600
+Archetype: Neo-Spacian
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Strike of Neos
+- Strike of Neos

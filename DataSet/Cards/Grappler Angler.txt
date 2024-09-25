@@ -1,0 +1,14 @@
+Grappler Angler
+Card Type: Tuner Monster
+
+Description: When this card inflicts battle damage to your opponent by a direct attack: You can target 1 monster in your GY; Special Summon it in Defense Position.
+
+Type: Warrior
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

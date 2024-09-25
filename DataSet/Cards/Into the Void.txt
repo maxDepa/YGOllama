@@ -1,0 +1,16 @@
+Into the Void
+Card Type: Spell Card
+
+Description: If you have 3 or more cards in your hand: Draw 1 card, and if you do, during the End Phase of this turn, discard your entire hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- The Shining Darkness
+- The Shining Darkness

@@ -1,0 +1,18 @@
+Ib the World Chalice Justiciar
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+For this card's Synchro Summon, you can treat 1 "World Chalice" Normal Monster you control as a Tuner. You can only use each of the following effects of "Ib the World Chalice Justiciar" once per turn.
+● If this card is Synchro Summoned: You can add 1 "World Legacy" card from your Deck to your hand.
+● If this Synchro Summoned card is sent from the field to the GY: You can Special Summon 1 "World Chalice" monster from your Deck or GY, except "Ib the World Chalice Justiciar".
+
+Type: Spellcaster
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 2100
+Archetype: World Chalice
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- Dark Neostorm

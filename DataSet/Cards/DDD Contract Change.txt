@@ -1,0 +1,16 @@
+D/D/D Contract Change
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Activate 1 of these effects;
+● Banish 1 "D/D/D" monster from your Graveyard, and if you do, the attacking monster loses ATK equal to the banished monster's ATK.
+● Add 1 Level 4 or lower "D/D" Pendulum Monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

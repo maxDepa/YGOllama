@@ -1,0 +1,14 @@
+Fiendish Engine Omega
+Card Type: Effect Monster
+
+Description: During your End Phase: Special Summon 1 "Engine Token" (Machine-Type/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. Once per turn: You can have this card gain 1000 ATK until the End Phase. During the End Phase, if this effect of this card was used: Destroy this card.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- The Duelist Genesis

@@ -1,0 +1,18 @@
+Deskbot 006
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Deskbot" monsters. This effect cannot be negated.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. This card gain 500 ATK for each face-up "Deskbot" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 "Deskbot" card in your Graveyard; add that target to your hand. You can only use this effect of "Deskbot 006" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 500
+Defence: 500
+Archetype: Deskbot
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

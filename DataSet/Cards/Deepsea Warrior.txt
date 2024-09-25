@@ -1,0 +1,16 @@
+Deepsea Warrior
+Card Type: Effect Monster
+
+Description: As long as "Umi" is face-up on the field, this card is unaffected by any Spell Cards.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 1600
+Defence: 1800
+Archetype: Umi
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

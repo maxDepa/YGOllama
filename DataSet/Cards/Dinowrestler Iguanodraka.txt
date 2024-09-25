@@ -1,0 +1,14 @@
+Dinowrestler Iguanodraka
+Card Type: Effect Monster
+
+Description: You can discard 1 other Dinosaur monster; Special Summon this card from your hand. You can Tribute 1 Dinosaur monster, then target 1 "Dinowrestler" monster in your GY with a different original name from the Tributed monster; Special Summon it in Defense Position. You can only use each effect of "Dinowrestler Iguanodraka" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

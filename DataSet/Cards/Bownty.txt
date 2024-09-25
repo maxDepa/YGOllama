@@ -1,0 +1,13 @@
+Bownty
+Card Type: Spell Card
+
+Description: If your attacking monster destroys an opponent's monster by battle: Target 1 card in your GY; add it to your hand, but for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as the added card had once it was in your hand. You can only activate 1 "Bownty" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Chaos Impact

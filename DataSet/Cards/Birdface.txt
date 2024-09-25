@@ -1,0 +1,16 @@
+Birdface
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can add 1 "Harpie Lady" from your Deck to your hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Harpie
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Lord of the Storm

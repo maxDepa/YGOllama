@@ -1,0 +1,15 @@
+Ocubeam
+Card Type: Normal Monster
+
+Description: Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1550
+Defence: 1650
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

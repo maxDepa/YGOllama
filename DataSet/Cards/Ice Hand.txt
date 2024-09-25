@@ -1,0 +1,16 @@
+Ice Hand
+Card Type: Effect Monster
+
+Description: When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 Spell/Trap Card they control; destroy that target, then you can Special Summon 1 "Fire Hand" from your Deck.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Premium Gold: Infinite Gold
+- Structure Deck: Beware of Traptrix

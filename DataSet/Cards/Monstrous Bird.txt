@@ -1,0 +1,12 @@
+Monstrous Bird
+Card Type: Normal Monster
+
+Description: Few have set eyes on this dive-bombing bird and lived to tell the tale.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 2000
+Defence: 1900
+Archetype: //
+Present in Sets:

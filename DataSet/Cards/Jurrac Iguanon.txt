@@ -1,0 +1,15 @@
+Jurrac Iguanon
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 700
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Speed Duel GX: Midterm Paradox

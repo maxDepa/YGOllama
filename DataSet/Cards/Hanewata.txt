@@ -1,0 +1,17 @@
+Hanewata
+Card Type: Tuner Monster
+
+Description: (Quick Effect): You can discard this card; you take no effect damage this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Crossroads of Chaos
+- Duelist League 2 participation cards
+- Lost Sanctuary Structure Deck
+- Structure Deck: Wave of Light

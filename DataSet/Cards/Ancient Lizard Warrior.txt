@@ -1,0 +1,15 @@
+Ancient Lizard Warrior
+Card Type: Normal Monster
+
+Description: Before the dawn of man, this lizard warrior ruled supreme.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

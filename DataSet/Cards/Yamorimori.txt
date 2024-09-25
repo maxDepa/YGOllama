@@ -1,0 +1,17 @@
+Yamorimori
+Card Type: Effect Monster
+
+Description: You can banish this card from your GY, then target 1 Reptile monster you control and 1 face-up monster your opponent controls, to activate 1 of these effects;
+● Change those monsters to face-down Defense Position.
+● Destroy that monster you control, and if you do, change the ATK of the other monster to 0 until the end of this turn.
+You can only use this effect of "Yamorimori" once per turn.
+
+Type: Reptile
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

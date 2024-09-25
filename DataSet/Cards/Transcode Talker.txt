@@ -1,0 +1,15 @@
+Transcode Talker
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+While this card is co-linked, it and its co-linked monsters gain 500 ATK, also your opponent cannot target any of them with card effects. You can target 1 Link-3 or lower Cyberse Link Monster in your GY, except "Transcode Talker"; Special Summon it to your zone this card points to. You cannot Special Summon monsters the turn you activate this effect, except Cyberse monsters. You can only use this effect of "Transcode Talker" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Maximum Gold
+- Starter Deck: Codebreaker

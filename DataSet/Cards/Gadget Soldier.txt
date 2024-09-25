@@ -1,0 +1,16 @@
+Gadget Soldier
+Card Type: Normal Monster
+
+Description: A rust-free machine warrior born to battle.
+
+Type: Machine
+Attribute: FIRE
+Level: 6
+Attack: 1800
+Defence: 2000
+Archetype: Gadget
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

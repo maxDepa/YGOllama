@@ -1,0 +1,13 @@
+Dark Spirit Art - Greed
+Card Type: Trap Card
+
+Description: Tribute 1 DARK monster. Draw 2 cards. Your opponent can negate this effect by revealing 1 Spell Card in their hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Phantom Darkness

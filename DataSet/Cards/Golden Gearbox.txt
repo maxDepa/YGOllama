@@ -1,0 +1,13 @@
+Golden Gearbox
+Card Type: Spell Card
+
+Description: Select 1 face-up "Karakuri" monster on the field. It gains 500 ATK and 1500 DEF, until the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Karakuri
+Present in Sets:
+- Starstrike Blast

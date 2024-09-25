@@ -1,0 +1,15 @@
+Mahjong Munia Maidens
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can draw 1 card, then discard 1 card.
+Once per turn: You can change this card to face-down Defense Position.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

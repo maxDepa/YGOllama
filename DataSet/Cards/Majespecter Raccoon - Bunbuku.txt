@@ -1,0 +1,16 @@
+Majespecter Raccoon - Bunbuku
+Card Type: Pendulum Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can add 1 "Majespecter" monster from your Deck to your hand. You can only use this effect of "Majespecter Raccoon - Bunbuku" once per turn. Cannot be targeted or destroyed by your opponent's card effects.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: Majespecter
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Maze of Millennia
+- Maze of Millennia

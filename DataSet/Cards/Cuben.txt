@@ -1,0 +1,14 @@
+Cuben
+Card Type: Effect Monster
+
+Description: Once per turn: You can roll a six-sided die, and while this monster is face-up on the field, neither player can Normal or Special Summon monsters with the same Level as the result.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 600
+Defence: 1900
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

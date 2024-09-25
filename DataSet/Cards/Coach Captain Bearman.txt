@@ -1,0 +1,16 @@
+Coach Captain Bearman
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing, but its original ATK becomes 1300. Once per turn: You can make all Level 4 Beast-Warrior-Type monsters you currently control become Level 8 until the end of this turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a FIRE Warrior-Type monster.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2600
+Defence: 2700
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- OTS Tournament Pack 4
+- Structure Deck: Fire Kings

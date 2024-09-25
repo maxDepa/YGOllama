@@ -1,0 +1,15 @@
+Ranryu
+Card Type: Effect Monster
+
+Description: You can only control 1 "Ranryu". If you control a Spellcaster monster, you can Special Summon this card (from your hand). If this card is destroyed by battle or card effect and sent to the GY: You can target 1 monster with 1500 ATK/200 DEF in your GY, except "Ranryu"; Special Summon it.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 200
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage
+- Structure Deck: Spirit Charmers

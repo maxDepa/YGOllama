@@ -1,0 +1,23 @@
+Cyber Angel Benten
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Machine Angel Ritual". If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to that monster's original DEF in the GY. If this card is Tributed: You can add 1 LIGHT Fairy monster from your Deck to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 1500
+Archetype: Cyber Angel
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians
+- Genesis Impact
+- Legendary Duelists: Sisters of the Rose
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 5
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2022 G

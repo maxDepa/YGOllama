@@ -1,0 +1,18 @@
+Black Garden
+Card Type: Spell Card
+
+Description: If a monster(s) is Normal or Special Summoned face-up, except by the effect of "Black Garden": Halve its ATK, then, the controller of that monster Special Summons 1 "Rose Token" (Plant/DARK/Level 2/ATK 800/DEF 800) to their opponent's field in Attack Position. (This ATK loss remains even if this card leaves the field.) You can target 1 monster in your GY with ATK equal to the total ATK of all Plant monsters on the field; destroy this card and as many Plant monsters on the field as possible, then, if you destroyed all of them, Special Summon that targeted monster.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rose Dragon
+Present in Sets:
+- Astral Pack Four
+- Crossroads of Chaos
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Turbo Pack: Booster Six

@@ -1,0 +1,17 @@
+Horus the Black Flame Dragon LV4
+Card Type: Effect Monster
+
+Description: Control of this face-up card cannot switch. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 "Horus the Black Flame Dragon LV6" from your hand or Deck.
+
+Type: Dragon
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Horus the Black Flame Dragon
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist
+- Soul of the Duelist
+- Starter Deck: Kaiba Reloaded

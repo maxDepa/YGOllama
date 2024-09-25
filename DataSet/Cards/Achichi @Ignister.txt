@@ -1,0 +1,14 @@
+Achichi @Ignister
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Level 4 or lower "@Ignister" monster from your Deck to your hand, except "Achichi @Ignister". At the start of the Damage Step, when your Cyberse monster battles: You can banish this card from your GY; destroy that monster you control. You can only use each effect of "Achichi @Ignister" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

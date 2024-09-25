@@ -1,0 +1,15 @@
+Lovely Labrynth of the Silver Castle
+Card Type: Effect Monster
+
+Description: Your opponent cannot activate monster effects in response to the activation of your Normal Trap Cards. You can only use each of the following effects of "Lovely Labrynth of the Silver Castle" once per turn. You can target 1 Normal Trap in your GY; Set it to your field, but it cannot be activated unless you control a Fiend monster. If another monster(s) leaves the field by your Normal Trap effect (except during the Damage Step): You can destroy 1 card in your opponent's hand (at random) or their field.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 1900
+Archetype: Labrynth
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters
+- Tactical Masters

@@ -1,0 +1,13 @@
+That Grass Looks Greener
+Card Type: Spell Card
+
+Description: If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the Graveyard so you have the same number of cards in the Deck as your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Tempest

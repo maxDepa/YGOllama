@@ -1,0 +1,14 @@
+Staring Contest
+Card Type: Spell Card
+
+Description: When you Special Summon a monster to the Extra Monster Zone: You can target 1 monster in your opponent's Main Monster Zone; move that target to their zone in the same column as that Extra Monster Zone monster. When your opponent Special Summons a monster to the Extra Monster Zone: You can target 1 monster in your Main Monster Zone; move that target to your zone in the same column as that Extra Monster Zone monster. These effects cannot be activated in the Damage Step.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

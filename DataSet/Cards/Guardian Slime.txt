@@ -1,0 +1,13 @@
+Guardian Slime
+Card Type: Effect Monster
+
+Description: If you take battle or effect damage: You can Special Summon this card from your hand. During damage calculation, if this card battles an opponent's monster (Quick Effect): You can make this card gain DEF equal to that opponent's monster's ATK during that damage calculation only. If this card is sent from the hand or field to the GY: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card "The Winged Dragon of Ra" in its text. You can only use each effect of "Guardian Slime" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: Egyptian God
+Present in Sets:
+- Legendary Duelists: Rage of Ra

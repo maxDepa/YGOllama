@@ -1,0 +1,13 @@
+Xyz Agent
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can target 1 "Utopia" Xyz Monster you control; attach this card from the Graveyard to it as an Xyz Material. You can only use the effect of "Xyz Agent" once per Duel.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 900
+Defence: 300
+Archetype: Utopia
+Present in Sets:
+- Judgment of the Light

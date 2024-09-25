@@ -1,0 +1,17 @@
+Raider's Wing
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "The Phantom Knights" and "Raidraptor" card.)
+If this card is in your hand or GY: You can detach 1 material from your DARK Xyz Monster; Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Raider's Wing" once per turn. An Xyz Monster whose original Attribute is DARK and has this card as material gains this effect.
+● Your opponent cannot target this card with card effects.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Raidraptor
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 24
+- Phantom Rage

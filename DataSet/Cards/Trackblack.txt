@@ -1,0 +1,14 @@
+Trackblack
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+You can target 1 monster you control this card points to; this turn, each time it destroys an opponent's monster by battle, draw 1 card. You can only use this effect of "Trackblack" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

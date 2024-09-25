@@ -1,0 +1,14 @@
+Thunder Dragondark
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard this card; add 1 "Thunder Dragondark" from your Deck to your hand. If this card is banished, or sent from the field to the GY: You can add 1 "Thunder Dragon" card from your Deck to your hand, except "Thunder Dragondark". You can only use 1 "Thunder Dragondark" effect per turn, and only once that turn.
+
+Type: Thunder
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 1500
+Archetype: Thunder Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

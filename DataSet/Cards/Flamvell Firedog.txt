@@ -1,0 +1,17 @@
+Flamvell Firedog
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the GY: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except "Flamvell Firedog".
+
+Type: Beast
+Attribute: FIRE
+Level: 4
+Attack: 1900
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Ancient Prophecy
+- Astral Pack One
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Soulburner
+- Turbo Pack: Booster Eight

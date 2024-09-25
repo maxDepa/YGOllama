@@ -1,0 +1,14 @@
+Mermail Abyssnerei
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard this card, then target 1 WATER monster you control; destroy 1 other WATER monster in your hand or field, and if you do, the targeted monster gains ATK/DEF equal to the destroyed monster's original ATK/DEF, until the end of this turn. If this card is sent from the field to the GY: You can draw 1 card, then discard 1 card. You can only use each effect of "Mermail Abyssnerei" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 2000
+Archetype: Mermail
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

@@ -1,0 +1,14 @@
+Thunder Dragon Discharge
+Card Type: Trap Card
+
+Description: The activation of your Thunder monsters' effects cannot be negated. Once per turn, if a "Thunder Dragon" monster(s) is Normal or Special Summoned to your field: You can target 1 Spell/Trap on the field; banish 1 Thunder monster from your Deck, and if you do, destroy that target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Thunder Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

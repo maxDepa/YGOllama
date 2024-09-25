@@ -1,0 +1,14 @@
+Bluebeard, the Plunder Patroll Shipwright
+Card Type: Effect Monster
+
+Description: If you control a "Plunder Patroll" monster, except "Bluebeard, the Plunder Patroll Shipwright": You can Special Summon this card from your hand. If this card is sent from the hand or Monster Zone to the GY: You can discard 1 card; draw 1 card. You can only use each effect of "Bluebeard, the Plunder Patroll Shipwright" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 4
+Attack: 500
+Defence: 1000
+Archetype: Plunder Patroll
+Present in Sets:
+- Eternity Code
+- Ghosts From the Past: The 2nd Haunting

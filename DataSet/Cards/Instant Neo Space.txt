@@ -1,0 +1,16 @@
+Instant Neo Space
+Card Type: Spell Card
+
+Description: Equip only to a Fusion Monster that lists "Elemental HERO Neos" as material. It does not have to activate its effect during the End Phase to shuffle itself into the Extra Deck. If the equipped monster leaves the field: You can Special Summon 1 "Elemental HERO Neos" from your hand, Deck, or GY.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Phantom Darkness

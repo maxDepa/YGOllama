@@ -1,0 +1,12 @@
+Goblin Biker Grand Crisis
+Card Type: Trap Card
+
+Description: You can target 1 "Goblin" monster you control and 1 monster your opponent controls, OR 1 "Goblin" monster in your GY and 1 monster in your opponent's GY; banish both. You can send this face-up card from your Spell & Trap Zone to the GY, then target 5 of your banished "Goblin" monsters with different names; Special Summon them. You can only use 1 "Goblin Biker Grand Crisis" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Goblin
+Present in Sets:

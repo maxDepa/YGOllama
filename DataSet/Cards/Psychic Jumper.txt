@@ -1,0 +1,15 @@
+Psychic Jumper
+Card Type: Tuner Monster
+
+Description: Once per turn: You can pay 1000 LP, then target 1 face-up monster your opponent controls and 1 Psychic-Type monster you control, except "Psychic Jumper"; switch control of both those targets, and if you do, their battle positions cannot be changed this turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 2
+Attack: 100
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crossroads of Chaos

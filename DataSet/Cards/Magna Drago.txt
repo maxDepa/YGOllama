@@ -1,0 +1,15 @@
+Magna Drago
+Card Type: Tuner Monster
+
+Description: If this card inflicts battle damage to your opponent: It gains 200 ATK.
+
+Type: Dragon
+Attribute: FIRE
+Level: 2
+Attack: 1400
+Defence: 600
+Archetype: //
+Present in Sets:
+- Master of Pendulum Structure Deck
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

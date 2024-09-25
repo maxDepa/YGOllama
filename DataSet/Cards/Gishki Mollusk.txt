@@ -1,0 +1,14 @@
+Gishki Mollusk
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard by a card effect: Look at the top 3 cards of your Deck, then return them all to the top or to the bottom of the Deck, in any order.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 900
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

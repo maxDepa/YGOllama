@@ -1,0 +1,12 @@
+Genin
+Card Type: Normal Monster
+
+Description: A creature that defeats its enemies using sleight-of-hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 600
+Defence: 900
+Archetype: //
+Present in Sets:

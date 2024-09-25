@@ -1,0 +1,13 @@
+Spell Gear
+Card Type: Spell Card
+
+Description: Send 3 "Ancient Gear" cards you control to the Graveyard. You can Special Summon up to 1 "Ancient Gear Golem" from your hand and 1 from your Deck, ignoring the Summoning conditions. Then, destroy all monsters you control except "Ancient Gear Golems". You cannot Normal Summon or Set until the end of your next turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Light of Destruction

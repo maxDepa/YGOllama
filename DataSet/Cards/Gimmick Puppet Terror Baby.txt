@@ -1,0 +1,14 @@
+Gimmick Puppet Terror Baby
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Gimmick Puppet" monster in your GY, except "Gimmick Puppet Terror Baby"; Special Summon it in Defense Position. You can banish this card from your GY; your opponent cannot activate cards or effects in response to the activation of your "Gimmick Puppet" monster effects this turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 500
+Defence: 0
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

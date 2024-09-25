@@ -1,0 +1,15 @@
+Oscillo Hero
+Card Type: Normal Monster
+
+Description: A strange warrior from another dimension.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1250
+Defence: 700
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season
+- Turbo Pack: Booster Four

@@ -1,0 +1,16 @@
+Chaos King Archfiend
+Card Type: Synchro Monster
+
+Description: 1 Fiend-Type Tuner + 1 or more non-Tuner monsters
+When this card declares an attack: You can switch the current ATK and DEF of all face-up monsters your opponent controls, until the end of the Battle Phase.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 2600
+Archetype: Archfiend
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- The Shining Darkness
+- The Shining Darkness

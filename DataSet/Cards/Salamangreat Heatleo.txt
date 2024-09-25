@@ -1,0 +1,17 @@
+Salamangreat Heatleo
+Card Type: Link Monster
+
+Description: 2+ FIRE Effect Monsters
+If this card is Link Summoned: You can target 1 card in your opponent's Spell & Trap Zone; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Link Summoned using "Salamangreat Heatleo" as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target becomes equal to the other target's, until the end of this turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion
+- Structure Deck: Soulburner
+- Structure Deck: Soulburner

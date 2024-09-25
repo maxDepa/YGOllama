@@ -1,0 +1,15 @@
+Cubic Karma
+Card Type: Spell Card
+
+Description: When this card is activated: You can target 1 "Cubic" monster you control, except "Vijam the Cubic Seed"; send any number of "Vijam the Cubic Seed" from your hand and/or Deck to the Graveyard, then that monster gains 800 ATK for each (even if this card leaves the field). During your opponent's turn, if "Vijam the Cubic Seed" is Special Summoned by the effect of a "Cubic" monster: Send this card to the Graveyard, and if you do, halve your opponent's LP. You can banish this card from your Graveyard; add 1 "Cubic" monster from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cubic
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

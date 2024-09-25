@@ -1,0 +1,12 @@
+Data Token
+Card Type: Token
+
+Description: Summoned by the effect of "Link Streamer".
+
+Type: Cyberse
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

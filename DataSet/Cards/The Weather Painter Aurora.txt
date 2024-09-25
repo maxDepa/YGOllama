@@ -1,0 +1,13 @@
+The Weather Painter Aurora
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can place 1 "The Weather" Spell/Trap from your hand, Deck, or GY face-up in your Spell & Trap Zone. Your opponent cannot target "The Weather" Spells/Traps you control with card effects, also they cannot be destroyed by your opponent's card effects. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a "The Weather" card's effect: You can Special Summon this banished card.
+
+Type: Fairy
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 2000
+Archetype: The Weather
+Present in Sets:
+- Spirit Warriors

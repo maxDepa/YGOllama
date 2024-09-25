@@ -1,0 +1,16 @@
+Peacock
+Card Type: Normal Monster
+
+Description: A large peacock that launches its feathers in a lethal attack.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 1700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

@@ -1,0 +1,16 @@
+Battle-Scarred
+Card Type: Trap Card
+
+Description: Select 1 Archfiend monster on your side of the field to activate this card. Your opponent also pays the same Life Points that you pay for the selected monster during the Standby Phase. If this card is removed from the field, destroy the selected monster. When the selected monster is removed from the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel GX: Duelists of Shadows

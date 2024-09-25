@@ -1,0 +1,19 @@
+Soul Taker
+Card Type: Spell Card
+
+Description: Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Demo Deck 2015
+- Duelist League 2010 participation cards
+- Gladiator's Assault
+- Legendary Collection 3: Yugi's World Mega Pack
+- Starter Deck: Yugi Reloaded
+- Yugi's Legendary Decks
+- Zombie World Structure Deck

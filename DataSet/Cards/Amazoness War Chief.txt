@@ -1,0 +1,14 @@
+Amazoness War Chief
+Card Type: Effect Monster
+
+Description: If you control no monsters, or only "Amazoness" monsters: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Set 1 "Amazoness" Spell/Trap or 1 "Polymerization" directly from your Deck, also you can only attack with "Amazoness" monsters for the rest of this turn. You can only use each effect of "Amazoness War Chief" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1900
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

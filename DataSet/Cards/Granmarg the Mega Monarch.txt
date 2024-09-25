@@ -1,0 +1,15 @@
+Granmarg the Mega Monarch
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. When this card is Tribute Summoned: Target up to 2 Set cards on the field; destroy those targets. If this card was Tribute Summoned by Tributing an EARTH monster, add this additional effect.
+● Also, draw 1 card after that.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

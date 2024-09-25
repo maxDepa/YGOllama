@@ -1,0 +1,15 @@
+Light Barrier
+Card Type: Spell Card
+
+Description: During your Standby Phase, toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase:
+● When you Summon an "Arcana Force" monster, choose which effect to apply without tossing a coin. If an "Arcana Force" monster destroys an opponent's monster by battle, you gain Life Points equal to the destroyed monster's original ATK.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction
+- OTS Tournament Pack 14 (POR)

@@ -1,0 +1,21 @@
+Blackwing - Zephyros the Elite
+Card Type: Effect Monster
+
+Description: If this card is in your GY: You can return 1 face-up card you control to the hand; Special Summon this card, and if you do, take 400 damage. You can only use this effect of "Blackwing - Zephyros the Elite" once per Duel.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Blackwing
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Overload
+- Duelist Pack: Crow
+- Legendary Duelists: White Dragon Abyss
+- Maze of Memories
+- Realm of Light Structure Deck

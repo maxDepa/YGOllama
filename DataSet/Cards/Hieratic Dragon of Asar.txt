@@ -1,0 +1,13 @@
+Hieratic Dragon of Asar
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 LIGHT Dragon-Type monster and 1 Dragon-Type Normal Monster from your Graveyard. If this face-up card on the field would be destroyed, you can Tribute 1 face-up "Hieratic" monster instead, except this card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2600
+Defence: 700
+Archetype: Hieratic
+Present in Sets:
+- Galactic Overlord

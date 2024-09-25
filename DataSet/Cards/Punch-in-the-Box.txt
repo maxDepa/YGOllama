@@ -1,0 +1,14 @@
+Punch-in-the-Box
+Card Type: Trap Card
+
+Description: When your opponent's monster declares an attack while they control 2 or more monsters: Target the attacking monster; negate that attack, and if you do, send 1 other monster they control to the Graveyard, then the targeted monster loses ATK equal to the original ATK or DEF (whichever is higher, your choice if tied) of the sent monster in the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

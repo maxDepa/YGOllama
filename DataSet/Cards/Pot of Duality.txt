@@ -1,0 +1,29 @@
+Pot of Duality
+Card Type: Spell Card
+
+Description: Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 "Pot of Duality" per turn. You cannot Special Summon during the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Astral Pack Five
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Collectible Tins 2011 Wave 1
+- Duelist Revolution
+- Duelist Saga
+- HERO Strike Structure Deck
+- High-Speed Riders
+- King's Court
+- Legendary Decks II
+- Legendary Dragon Decks
+- Onslaught of the Fire Kings Structure Deck
+- Premium Gold: Return of the Bling
+- Starter Deck: Link Strike
+- The Pot Collection

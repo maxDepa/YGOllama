@@ -1,0 +1,14 @@
+Performapal Bowhopper
+Card Type: Effect Monster
+
+Description: You can Tribute 1 "Performapal" monster; inflict damage to your opponent equal to the Level it had on the field x 100 (original Level, if face-down). You can Tribute 1 "Performapal" monster, then target 1 "Performapal" monster in your Graveyard other than the Tributed monster; add it to your hand. You can only use each effect of "Performapal Bowhopper" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

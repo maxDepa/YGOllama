@@ -1,0 +1,14 @@
+Grandtusk Dragon
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target up to 2 other cards on the field; destroy them, and if you do, this card gains 600 ATK for each card destroyed. You can only use this effect of "Grandtusk Dragon" once per turn.
+
+Type: Dragon
+Attribute: EARTH
+Level: 8
+Attack: 1400
+Defence: 2400
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

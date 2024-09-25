@@ -1,0 +1,14 @@
+Armor Ninjitsu Art of Alchemy
+Card Type: Spell Card
+
+Description: If you control a "Ninjitsu Art" card: Destroy as many other "Ninjitsu Art" cards you control as possible, then draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninjitsu Art
+Present in Sets:
+- Order of Chaos
+- Shadows in Valhalla

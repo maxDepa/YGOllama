@@ -1,0 +1,18 @@
+Dark City
+Card Type: Spell Card
+
+Description: When a "Destiny HERO" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box

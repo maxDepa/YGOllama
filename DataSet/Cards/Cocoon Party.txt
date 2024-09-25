@@ -1,0 +1,13 @@
+Cocoon Party
+Card Type: Spell Card
+
+Description: Special Summon 1 "Chrysalis" monster from your Deck for each "Neo-Spacian" monster with a different name in your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chrysalis
+Present in Sets:
+- Tactical Evolution

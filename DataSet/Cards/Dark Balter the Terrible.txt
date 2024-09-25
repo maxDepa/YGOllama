@@ -1,0 +1,18 @@
+Dark Balter the Terrible
+Card Type: Fusion Monster
+
+Description: "Possessed Dark Soul" + "Frontier Wiseman"
+A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When a Normal Spell Card is activated, negate the effect by paying 1000 Life Points. The effect of an Effect Monster that this monster destroys as a result of battle is negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Hobby League 3 participation card G
+- Legacy of Darkness
+- Legacy of Darkness
+- Tournament Pack 6

@@ -1,0 +1,15 @@
+Malice Doll of Demise
+Card Type: Effect Monster
+
+Description: During your next Standby Phase after this card was sent from the field to the Graveyard by the effect of a Continuous Spell Card: Special Summon this card from the Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist

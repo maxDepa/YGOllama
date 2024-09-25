@@ -1,0 +1,19 @@
+Roll Out!
+Card Type: Trap Card
+
+Description: Target 1 Union monster in your Graveyard; equip that target to a monster you control that would be an appropriate target for that Union monster's effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Geargia Rampage Structure Deck
+- Machina Mayhem Structure Deck
+- Speed Duel: Battle City Box
+- Structure Deck: Machine Re-Volt
+- Structure Deck: Seto Kaiba

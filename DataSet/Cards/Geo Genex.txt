@@ -1,0 +1,15 @@
+Geo Genex
+Card Type: Synchro Monster
+
+Description: "Genex Controller" + 1 or more non-Tuner EARTH monsters
+Once per turn, if you control a face-up Level 4 or lower "Genex" monster(s), you can switch the original ATK and DEF of this card until the End Phase, for as long as you control a face-up Level 4 or lower "Genex" monster(s).
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 1800
+Defence: 2800
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

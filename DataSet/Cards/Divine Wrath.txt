@@ -1,0 +1,21 @@
+Divine Wrath
+Card Type: Trap Card
+
+Description: When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Duel Terminal 4
+- Rise of Destiny
+- Rise of Destiny
+- Space-Time Showdown Power-Up Pack
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Spellcaster's Judgment

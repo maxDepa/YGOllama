@@ -1,0 +1,12 @@
+Royal Guard
+Card Type: Normal Monster
+
+Description: A mechanized soldier created to protect royalty.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 2200
+Archetype: //
+Present in Sets:

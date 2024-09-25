@@ -1,0 +1,14 @@
+Darkblaze Dragon
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned from the Graveyard: Its ATK and DEF become double its original ATK and DEF. If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK.
+
+Type: Dragon
+Attribute: FIRE
+Level: 7
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck

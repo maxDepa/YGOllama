@@ -1,0 +1,13 @@
+Mother Spider
+Card Type: Effect Monster
+
+Description: If you have only Insect-Type monsters in your Graveyard, you can send 2 face-up Defense Position monsters your opponent controls to the Graveyard and Special Summon this card from your hand.
+
+Type: Insect
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

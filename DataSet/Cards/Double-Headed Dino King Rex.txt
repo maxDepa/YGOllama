@@ -1,0 +1,13 @@
+Double-Headed Dino King Rex
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon "Double-Headed Dino King Rex" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster on the field with less ATK than the total ATK of all Dinosaur monsters you control; destroy it. You can only use this effect of "Double-Headed Dino King Rex" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Nexus

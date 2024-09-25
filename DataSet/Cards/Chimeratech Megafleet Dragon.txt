@@ -1,0 +1,16 @@
+Chimeratech Megafleet Dragon
+Card Type: Fusion Monster
+
+Description: 1 "Cyber Dragon" monster + 1+ monsters in the Extra Monster Zone
+Cannot be used as Fusion Material. Must first be Special Summoned (from your Extra Deck) by sending the above cards from either field to the GY. (You do not use "Polymerization".) The original ATK of this card becomes 1200 x the number of Fusion Materials used for its Special Summon.
+
+Type: Machine
+Attribute: DARK
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Dragon Decks

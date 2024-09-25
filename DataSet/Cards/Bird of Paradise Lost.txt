@@ -1,0 +1,14 @@
+Bird of Paradise Lost
+Card Type: Tuner Monster
+
+Description: This card gains 100 ATK and DEF for each Tuner monster in your Graveyard. Once per turn: You can send 1 Tuner monster from your hand to the Graveyard, then target 1 monster your opponent controls; take control of it until the End Phase.
+
+Type: Wyrm
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

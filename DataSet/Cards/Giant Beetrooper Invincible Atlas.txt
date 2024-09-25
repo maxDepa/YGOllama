@@ -1,0 +1,18 @@
+Giant Beetrooper Invincible Atlas
+Card Type: Link Monster
+
+Description: 2+ Insect monsters
+While this Link Summoned card has 3000 or less ATK, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. You cannot Special Summon monsters, except Insect monsters. You can Tribute 1 Insect monster, then activate 1 of these effects;
+● Special Summon 1 "Beetrooper" monster from your Deck.
+● This card gains 2000 ATK until the end of this turn.
+You can only use this effect of "Giant Beetrooper Invincible Atlas" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

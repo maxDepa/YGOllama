@@ -1,0 +1,14 @@
+Prediction Princess Crystaldine
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 Ritual Monster from your Deck or Graveyard to your hand.
+
+Type: Fairy
+Attribute: WATER
+Level: 5
+Attack: 1400
+Defence: 2200
+Archetype: Prediction Princess
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

@@ -1,0 +1,14 @@
+Heavy Armored Train Ironwolf
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Machine-Type monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 Machine-Type monster you control; this turn, it can attack your opponent directly, also other monsters cannot attack. If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your Graveyard: You can add 1 Level 4 Machine-Type monster from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 2200
+Defence: 2200
+Archetype: Train
+Present in Sets:
+- Raging Tempest

@@ -1,0 +1,13 @@
+Zero-Day Blaster
+Card Type: Trap Card
+
+Description: Tribute 1 DARK Link Monster, then target cards on the field equal to its Link Rating; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Rokket Revolt

@@ -1,0 +1,16 @@
+Frightfur Sabre-Tooth
+Card Type: Fusion Monster
+
+Description: 1 "Frightfur" Fusion Monster + 1+ "Fluffal" and/or "Edge Imp" monsters
+When this card is Fusion Summoned: You can target 1 "Frightfur" monster in your GY; Special Summon it. All "Frightfur" monsters you control gain 400 ATK. If this card was Fusion Summoned using 3 or more Fusion Materials, it cannot be destroyed by battle or card effects.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2400
+Defence: 2000
+Archetype: Edge Imp
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Toon Chaos

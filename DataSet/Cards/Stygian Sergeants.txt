@@ -1,0 +1,17 @@
+Stygian Sergeants
+Card Type: Synchro Monster
+
+Description: 1 Fiend-Type Tuner + 1 or more non-Tuner monsters
+When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can have this card gain 800 ATK until the end of the Battle Phase, also this card can make a second attack in a row.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Legendary Collection 5D's Mega Pack
+- Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards
+- Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards

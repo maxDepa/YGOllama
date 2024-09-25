@@ -1,0 +1,14 @@
+Lyrilusc - Independent Nightingale
+Card Type: Fusion Monster
+
+Description: "Lyrilusc - Assembled Nightingale" + 1 "Lyrilusc" monster
+If this card is Fusion Summoned using an Xyz Monster on the field as Fusion Material whose original name includes "Lyrilusc": You can increase this card's Level by the number of Xyz Materials that monster(s) had. This card gains ATK equal to its Level x 500. Unaffected by other cards' effects. Once per turn: You can inflict damage to your opponent equal to this card's Level x 500.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 1
+Attack: 1000
+Defence: 0
+Archetype: Lyrilusc
+Present in Sets:
+- Maximum Crisis

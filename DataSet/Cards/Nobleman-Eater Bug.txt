@@ -1,0 +1,14 @@
+Nobleman-Eater Bug
+Card Type: Flip Effect Monster
+
+Description: FLIP: Destroy 2 monsters on the field.
+
+Type: Insect
+Attribute: EARTH
+Level: 5
+Attack: 900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist

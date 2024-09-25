@@ -1,0 +1,13 @@
+Zep, Ruby of the Ghoti
+Card Type: Tuner Monster
+
+Description: You can banish this card from your hand, then target 1 Fish monster in your GY; banish it. During your opponent's turn, if this card is banished: You can Special Summon it. If this card is Special Summoned, you can (except during the Damage Step): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of "Zep, Ruby of the Ghoti" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 1000
+Archetype: Ghoti
+Present in Sets:
+- Darkwing Blast

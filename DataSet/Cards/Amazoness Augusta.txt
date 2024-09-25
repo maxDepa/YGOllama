@@ -1,0 +1,15 @@
+Amazoness Augusta
+Card Type: Fusion Monster
+
+Description: 1 "Amazoness" Fusion Monster + 1 "Amazoness" monster
+Your opponent cannot target other "Amazoness" cards you control with card effects, also those cards cannot be destroyed by your opponent's card effects. If this card was Fusion Summoned using "Amazoness Empress" or "Amazoness Queen" as material, it can make a second attack during each Battle Phase. If this card is Fusion Summoned: You can Special Summon 1 "Amazoness" monster from your Deck. You can only use this effect of "Amazoness Augusta" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 10
+Attack: 3200
+Defence: 2800
+Archetype: Amazoness
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

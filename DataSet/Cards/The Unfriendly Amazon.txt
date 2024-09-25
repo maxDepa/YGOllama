@@ -1,0 +1,15 @@
+The Unfriendly Amazon
+Card Type: Effect Monster
+
+Description: Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

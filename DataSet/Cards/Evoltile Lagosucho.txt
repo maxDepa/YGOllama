@@ -1,0 +1,13 @@
+Evoltile Lagosucho
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 "Evolsaur" monster from your Deck to the Graveyard. When this card is flipped face-up: You can Special Summon 1 "Evoltile" monster from your Deck.
+
+Type: Reptile
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 500
+Archetype: Evolsaur
+Present in Sets:
+- Galactic Overlord

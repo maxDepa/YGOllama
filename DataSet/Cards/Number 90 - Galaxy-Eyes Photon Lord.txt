@@ -1,0 +1,17 @@
+Number 90: Galaxy-Eyes Photon Lord
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+If this card has a "Photon" card as material, it cannot be destroyed by card effects. You can only use each of the following effects of "Number 90: Galaxy-Eyes Photon Lord" once per turn.
+● When an opponent's monster activates its effect (Quick Effect): You can detach 1 material from this card; negate that monster's effect, and if the detached material was a "Galaxy" card, destroy that card.
+● During your opponent's turn (Quick Effect): You can take 1 "Photon" or "Galaxy" card from your Deck, and either add it to your hand or attach it to this card as material.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 3000
+Archetype: Galaxy-Eyes
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge

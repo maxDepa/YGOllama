@@ -1,0 +1,23 @@
+Flying Kamakiri #1
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+
+Type: Insect
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Dragunity Legion Structure Deck
+- Duelist League 13 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler
+- Structure Deck: Lord of the Storm

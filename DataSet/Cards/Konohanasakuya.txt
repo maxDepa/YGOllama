@@ -1,0 +1,13 @@
+Konohanasakuya
+Card Type: Spirit Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling a Spirit monster. You can only Special Summon "Konohanasakuya" once per turn this way. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand. Once per turn, during the End Phase: You can banish this card from your GY, then target 1 Spirit monster you control; neither player can activate that face-up monster's effects on the field for the rest of this turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Dawn of Majesty

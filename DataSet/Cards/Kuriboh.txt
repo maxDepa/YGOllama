@@ -1,0 +1,41 @@
+Kuriboh
+Card Type: Effect Monster
+
+Description: During damage calculation, if your opponent's monster attacks (Quick Effect): You can discard this card; you take no battle damage from that battle.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- Brothers of Legend
+- Champion Pack: Game Two
+- Dark Beginning 2
+- Dark Legends
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Duelist League 2010 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Forbidden Legacy
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Millennium Pack
+- Retro Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck 2006
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Yugi Muto
+- Yu-Gi-Oh! Advent Calendar (2019)
+- Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards
+- Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

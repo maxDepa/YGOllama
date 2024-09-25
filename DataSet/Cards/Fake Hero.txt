@@ -1,0 +1,17 @@
+Fake Hero
+Card Type: Spell Card
+
+Description: Special Summon 1 "Elemental HERO" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2022

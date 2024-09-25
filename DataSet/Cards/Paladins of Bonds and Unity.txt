@@ -1,0 +1,13 @@
+Paladins of Bonds and Unity
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters with 2500 original ATK and DEF
+This Synchro Summoned card cannot be destroyed by your opponent's card effects, also your opponent cannot target this Synchro Summoned card with card effects. While you have 25 or more cards in your GY, this Synchro Summoned card gains 100 ATK/DEF for each card on the field and in the GYs. Once per turn, when a Spell Card is activated and your opponent has 25 or more cards in their GY (Quick Effect): You can negate the activation, and if you do, destroy that card.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 12
+Attack: 2900
+Defence: 2900
+Archetype: //
+Present in Sets:

@@ -1,0 +1,17 @@
+Alien Brain
+Card Type: Trap Card
+
+Description: When a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Take control of the opponent's monster, and if you do, it becomes Reptile-Type.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)

@@ -1,0 +1,18 @@
+Silent Swordsman LV7
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by "Silent Swordsman LV5", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: Silent Swordsman
+Present in Sets:
+- Duel Terminal 6a
+- Duelist League 17 participation cards
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Collection 3: Yugi's World Mega Pack
+- Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards
+- Yugi's Legendary Decks

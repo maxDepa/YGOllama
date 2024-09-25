@@ -1,0 +1,14 @@
+White Knight of Dogmatika
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Dogmatikalamity". You cannot Special Summon monsters from the Extra Deck. If your opponent activates a card or effect (except during the Damage Step): You can send 1 monster from your Extra Deck to the GY, and if you do, look at your opponent's Extra Deck and send 1 monster from it to the GY. This card gains ATK equal to half the combined ATK of those monsters sent to the GY, until the end of this turn. You can only use this effect of "White Knight of Dogmatika" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 500
+Defence: 2500
+Archetype: Dogmatika
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

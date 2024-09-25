@@ -1,0 +1,14 @@
+Gouki The Master Ogre
+Card Type: Link Monster
+
+Description: 2+ "Gouki" monsters
+Once per turn (Quick Effect): You can return to the hand any number of "Gouki" monsters you control that this card points to, then target the same number of face-up cards your opponent controls; they have their effects negated until the end of this turn. This card can attack all monsters your opponent controls, once each. If your opponent controls a face-up monster(s), this card can only target their monster with the highest ATK for attacks (your choice, if tied).
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- Flames of Destruction

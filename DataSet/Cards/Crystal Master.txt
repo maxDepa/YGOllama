@@ -1,0 +1,19 @@
+Crystal Master
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Your opponent cannot target "Ultimate Crystal" monsters or "Crystal Beast" cards you control with card effects.
+
+[ Monster Effect ] 
+You can Tribute this card; add 1 "Ultimate Crystal" monster, "Crystal Beast" monster, or "Crystal" Spell/Trap from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 1000
+Archetype: Crystal Beast
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- Structure Deck: Legend of the Crystal Beasts

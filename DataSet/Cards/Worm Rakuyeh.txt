@@ -1,0 +1,14 @@
+Worm Rakuyeh
+Card Type: Effect Monster
+
+Description: This card can only declare an attack the turn it was flipped face-up. If this card attacks, it is changed to face-down Defense Position at the end of the Battle Phase.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 1200
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

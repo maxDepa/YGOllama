@@ -1,0 +1,15 @@
+The Executor of the Underworld - Pluto
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+(This card is always treated as a "The Agent" card.)
+Once per turn: You can banish 1 monster from your GY, then target 1 Effect Monster on the field; change it to face-down Defense Position. This is a Quick Effect if "The Sanctuary in the Sky" is on the field or in either GY. You can banish this card from your GY; add 1 "The Sanctuary in the Sky" from your Deck or GY to your hand. You can only use this effect of "The Executor of the Underworld - Pluto" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 0
+Archetype: The Agent
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

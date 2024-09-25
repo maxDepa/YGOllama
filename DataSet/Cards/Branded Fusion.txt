@@ -1,0 +1,16 @@
+Branded Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster that mentions "Fallen of Albaz" as material from your Extra Deck, using 2 monsters from your hand, Deck, or field as Fusion Material. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 "Branded Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- OTS Tournament Pack 22
+- Structure Deck: Albaz Strike

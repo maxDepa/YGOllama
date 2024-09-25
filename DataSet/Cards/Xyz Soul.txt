@@ -1,0 +1,13 @@
+Xyz Soul
+Card Type: Trap Card
+
+Description: Target 1 Xyz Monster in either player's Graveyard; all monsters you currently control gain ATK equal to its Rank x 200, then you can shuffle it into the Extra Deck. This ATK increase lasts until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

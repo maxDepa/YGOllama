@@ -1,0 +1,14 @@
+Legendary Atlantean Tridon
+Card Type: Effect Monster
+
+Description: You can Tribute this card and 1 Sea Serpent-Type monster; Special Summon 1 "Poseidra, the Atlantean Dragon" from your hand or Deck, then all monsters your opponent currently controls lose 300 ATK.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 3
+Attack: 1600
+Defence: 800
+Archetype: Atlantean
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

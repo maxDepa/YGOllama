@@ -1,0 +1,16 @@
+Cemetary Bomb
+Card Type: Trap Card
+
+Description: Inflict 100 damage to your opponent for each card in their Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Starter Deck 2006

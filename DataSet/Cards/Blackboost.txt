@@ -1,0 +1,14 @@
+Blackboost
+Card Type: Trap Card
+
+Description: Banish 2 face-up "Blackwing" Tuner monsters you control; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

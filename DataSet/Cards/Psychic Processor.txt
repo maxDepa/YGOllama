@@ -1,0 +1,14 @@
+Psychic Processor
+Card Type: Effect Monster
+
+Description: You can banish this card you control; Special Summon up to 2 Machine, Psychic, and/or Cyberse monsters from your hand, and they can attack directly this turn. During the Standby Phase of the next turn after this card was banished: You can add this banished card to your hand. You can only use each effect of "Psychic Processor" once per turn.
+
+Type: Psychic
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

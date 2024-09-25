@@ -1,0 +1,13 @@
+Stone Dragon
+Card Type: Normal Monster
+
+Description: A dragon formed by huge boulders that are also used to attack the enemy.
+
+Type: Rock
+Attribute: EARTH
+Level: 7
+Attack: 2000
+Defence: 2300
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

@@ -1,0 +1,16 @@
+Six Strike - Triple Impact
+Card Type: Spell Card
+
+Description: If you control 3 or more face-up "Six Samurai" monsters, you can activate 1 of these effects:
+● Destroy all face-up monsters your opponent controls.
+● Destroy all face-up Spell/Trap Cards your opponent controls.
+● Destroy all Set Spell/Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Storm of Ragnarok

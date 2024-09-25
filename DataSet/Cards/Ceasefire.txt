@@ -1,0 +1,24 @@
+Ceasefire
+Card Type: Trap Card
+
+Description: If a face-down Defense Position monster or an Effect Monster is on the field: Change all face-down Defense Position monsters on the field to face-up Defense Position (Flip monsters' effects are not activated at this time), also inflict 500 damage to your opponent for each Effect Monster on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Champion Pack: Game Two
+- Dark Beginning 1
+- Dark Beginning 1
+- Machina Mayhem Structure Deck
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Premium Gold: Return of the Bling
+- Retro Pack 2
+- Starter Deck: Yuya
+- Structure Deck: Dragon's Roar

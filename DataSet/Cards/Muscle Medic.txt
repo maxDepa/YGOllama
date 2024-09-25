@@ -1,0 +1,14 @@
+Muscle Medic
+Card Type: Effect Monster
+
+Description: If a player would take damage from a battle involving this card, they gain that much LP, instead.
+
+Type: Warrior
+Attribute: WATER
+Level: 4
+Attack: 2200
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

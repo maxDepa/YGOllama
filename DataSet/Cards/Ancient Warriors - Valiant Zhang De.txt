@@ -1,0 +1,15 @@
+Ancient Warriors - Valiant Zhang De
+Card Type: Effect Monster
+
+Description: Gains 300 ATK for each monster your opponent controls, during your turn only. You can only use each of the following effects of "Ancient Warriors - Valiant Zhang De" once per turn.
+● If you control 2 or more "Ancient Warriors" monsters: You can Special Summon this card from your hand.
+● If your opponent controls more monsters than you do: You can activate this effect; this card can make up to 2 attacks on monsters during each Battle Phase this turn.
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 7
+Attack: 2700
+Defence: 900
+Archetype: Ancient Warriors
+Present in Sets:
+- Ignition Assault

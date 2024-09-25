@@ -1,0 +1,15 @@
+Fire Formation - Gyokkou
+Card Type: Spell Card
+
+Description: Activate this card by targeting 1 Set Spell/Trap Card your opponent controls. Your opponent cannot activate the targeted card in response to this card's activation. While this card is face-up on the field, that Set card cannot be activated. All Beast-Warrior-Type monsters you control gain 100 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire Formation
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Maximum Gold

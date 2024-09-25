@@ -1,0 +1,13 @@
+Hazy Flame Hyppogrif
+Card Type: Effect Monster
+
+Description: Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2100
+Defence: 200
+Archetype: Hazy
+Present in Sets:
+- Onslaught of the Fire Kings Structure Deck

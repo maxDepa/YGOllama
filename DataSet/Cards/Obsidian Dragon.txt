@@ -1,0 +1,14 @@
+Obsidian Dragon
+Card Type: Effect Monster
+
+Description: Negate the effects of Spell and Trap Cards that target only 1 face-up DARK monster you control, and destroy them.
+
+Type: Rock
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Phantom Darkness
+- Speed Duel GX: Duelists of Shadows

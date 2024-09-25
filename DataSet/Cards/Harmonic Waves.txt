@@ -1,0 +1,13 @@
+Harmonic Waves
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; it becomes Level 4 until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Dawn of the Xyz

@@ -1,0 +1,16 @@
+Number 30: Acid Golem of Destruction
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+During your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.
+
+Type: Rock
+Attribute: WATER
+Level: 3
+Attack: 3000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Return of the Duelist: Special Edition
+- Shonen Jump Vol. 10, Issue 4 promotional card
+- Super Starter Power-Up Pack

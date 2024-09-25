@@ -1,0 +1,14 @@
+Summon Breaker
+Card Type: Spell Card
+
+Description: During Main Phase 1, if the turn player successfully conducts their third Summon of a monster(s) this turn: It becomes the End Phase.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

@@ -1,0 +1,15 @@
+Element Dragon
+Card Type: Effect Monster
+
+Description: This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: ● FIRE: This card gains 500 ATK. ● WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Structure Deck: Dragon's Roar

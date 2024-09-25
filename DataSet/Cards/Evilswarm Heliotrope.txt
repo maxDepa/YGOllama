@@ -1,0 +1,16 @@
+Evilswarm Heliotrope
+Card Type: Normal Monster
+
+Description: .ytilaer a maerd rieht ekam thgim yeht taht os ydob a rof gninraey ,sluos mrawsleetS gniregnil fo sthguoht eht era esehT "!etanimretxE !etacidarE !etanimilE"
+
+Type: Rock
+Attribute: DARK
+Level: 4
+Attack: 1950
+Defence: 650
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

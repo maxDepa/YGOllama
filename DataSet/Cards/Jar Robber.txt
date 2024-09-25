@@ -1,0 +1,14 @@
+Jar Robber
+Card Type: Spell Card
+
+Description: You can only activate this card when "Pot of Greed" is activated. Negate the effect of the "Pot of Greed" and draw 1 card from your Deck.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

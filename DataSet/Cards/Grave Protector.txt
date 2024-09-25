@@ -1,0 +1,17 @@
+Grave Protector
+Card Type: Effect Monster
+
+Description: Any monster destroyed by battle is shuffled into the Deck instead of going to the Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 2
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,13 @@
+Fairyant the Circular Sorcerer
+Card Type: Tuner Monster
+
+Description: If an Insect or Plant monster is in either GY, you can Special Summon this card (from your hand). You can only Special Summon "Fairyant the Circular Sorcerer" once per turn this way. If this card you control would be used as Synchro Material for an Insect or Plant monster, you can treat it as a non-Tuner.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Photon Hypernova

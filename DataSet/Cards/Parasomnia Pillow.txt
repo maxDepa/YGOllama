@@ -1,0 +1,13 @@
+Parasomnia Pillow
+Card Type: Spell Card
+
+Description: During the End Phase: You can destroy the equipped monster. If this card is sent to the GY because the equipped monster was destroyed and sent to the GY: Special Summon 1 "Parasomnia Token" (Level 1/ATK ?/DEF 0) with the equipped monster's original Type, Attribute, and ATK, then equip this card to that Token. You can only use each effect of "Parasomnia Pillow" once per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dimension Force

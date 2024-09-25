@@ -1,0 +1,22 @@
+Reload
+Card Type: Spell Card
+
+Description: Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Dragon's Roar
+- Structure Deck: Fury from the Deep
+- Structure Deck: Lord of the Storm
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Warrior's Triumph
+- Structure Deck: Zombie Madness

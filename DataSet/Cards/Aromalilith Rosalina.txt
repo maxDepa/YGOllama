@@ -1,0 +1,13 @@
+Aromalilith Rosalina
+Card Type: Tuner Monster
+
+Description: (Quick Effect): You can discard this card, then target 1 "Aroma" monster you control; gain LP equal to half its ATK. If this card is Normal or Special Summoned: You can Special Summon 1 non-Tuner "Aroma" monster from your Deck, also you cannot Special Summon for the rest of this turn, except Plant monsters. You can only use each effect of "Aromalilith Rosalina" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Aroma
+Present in Sets:
+- Phantom Nightmare

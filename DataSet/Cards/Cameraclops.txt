@@ -1,0 +1,15 @@
+Cameraclops
+Card Type: Effect Monster
+
+Description: If this card attacks a face-up monster on the field, at the start of the Damage Step: Destroy that monster. Its DEF must be higher than this card's ATK to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

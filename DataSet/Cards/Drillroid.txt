@@ -1,0 +1,22 @@
+Drillroid
+Card Type: Effect Monster
+
+Description: Before damage calculation, if this card attacks a Defense Position monster: Destroy that monster.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Roid
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duel Terminal 2
+- Speed Duel GX: Midterm Paradox
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

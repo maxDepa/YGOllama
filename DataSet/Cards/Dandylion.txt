@@ -1,0 +1,22 @@
+Dandylion
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Absolute Powerforce: Special Edition
+- Astral Pack Four
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duelist League 18 participation cards
+- Duelist Saga
+- Emperor of Darkness Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Gold: Return of the Bling
+- Shonen Jump February 2009 subscription bonus

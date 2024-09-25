@@ -1,0 +1,14 @@
+Return Zombie
+Card Type: Effect Monster
+
+Description: During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Premium Pack (TCG)

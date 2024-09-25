@@ -1,0 +1,14 @@
+World Legacy's Corruption
+Card Type: Spell Card
+
+Description: Once per turn, if a face-up Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon 1 "World Legacy" monster from your hand or Deck in Defense Position. You can only control 1 "World Legacy's Corruption".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

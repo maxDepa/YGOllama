@@ -1,0 +1,14 @@
+Superheavy Samurai Magnet
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower "Superheavy Samurai" monster from your hand, then change this card to Defense Position. Monsters your opponent controls cannot attack any monsters, except this one.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 900
+Defence: 1900
+Archetype: Superheavy
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

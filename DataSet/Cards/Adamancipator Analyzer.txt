@@ -1,0 +1,14 @@
+Adamancipator Analyzer
+Card Type: Tuner Monster
+
+Description: If only your opponent controls a monster: You can Special Summon this card from your hand. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower non-Tuner Rock monster, also place the rest on the bottom of your Deck in any order. You can only use each effect of "Adamancipator Analyzer" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 700
+Archetype: Adamancipator
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Secret Slayers

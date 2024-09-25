@@ -1,0 +1,15 @@
+Number 42: Galaxy Tomahawk
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+Once per turn: You can detach 2 Xyz Materials from this card; Special Summon as many "Battle Eagle Tokens" (Machine-Type/WIND/Level 6/ATK 2000/DEF 0) as possible, destroy them during the End Phase of this turn, also your opponent takes no further battle damage this turn.
+
+Type: Machine
+Attribute: WIND
+Level: 7
+Attack: 0
+Defence: 3000
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin

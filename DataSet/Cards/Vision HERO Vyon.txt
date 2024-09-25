@@ -1,0 +1,17 @@
+Vision HERO Vyon
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "HERO" monster from your Deck to the GY. You can only use this effect of "Vision HERO Vyon" once per turn. Once per turn: You can banish 1 "HERO" monster from your GY; add 1 "Polymerization" from your Deck to your hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: Vision HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Duel Power
+- Duelist Saga
+- Ghosts From the Past: The 2nd Haunting

@@ -1,0 +1,14 @@
+Invoked Magellanica
+Card Type: Fusion Monster
+
+Description: "Aleister the Invoker" + 1 EARTH monster
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 3300
+Archetype: Invoked
+Present in Sets:
+- Fusion Enforcers
+- Genesis Impact

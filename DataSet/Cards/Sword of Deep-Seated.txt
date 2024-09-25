@@ -1,0 +1,18 @@
+Sword of Deep-Seated
+Card Type: Spell Card
+
+Description: The equipped monster gains 500 ATK/DEF. If this card is sent to your GY: Place it on top of your Deck.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Destiny Masters

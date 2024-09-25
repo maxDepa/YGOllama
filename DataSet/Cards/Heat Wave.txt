@@ -1,0 +1,15 @@
+Heat Wave
+Card Type: Spell Card
+
+Description: At the start of your Main Phase 1: Neither player can Normal or Special Summon Effect Monsters, until your next Draw Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 5
+- Starstrike Blast

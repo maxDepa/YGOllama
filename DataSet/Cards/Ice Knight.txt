@@ -1,0 +1,13 @@
+Ice Knight
+Card Type: Effect Monster
+
+Description: Gains 400 ATK for each Aqua monster you control. Once per turn: You can activate this effect; you can Normal Summon 1 WATER monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also you cannot Normal or Special Summon monsters for the rest of this turn, except WATER monsters.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Brothers of Legend

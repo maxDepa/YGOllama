@@ -1,0 +1,14 @@
+Skull Dog Marron
+Card Type: Normal Monster
+
+Description: A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1350
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist

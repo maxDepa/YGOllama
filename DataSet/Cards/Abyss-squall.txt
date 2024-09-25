@@ -1,0 +1,13 @@
+Abyss-squall
+Card Type: Trap Card
+
+Description: Target 3 "Mermail" monsters in your Graveyard; Special Summon those targets in face-up Defense Position. Their effects are negated and they cannot declare an attack. Destroy them during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mermail
+Present in Sets:
+- Abyss Rising

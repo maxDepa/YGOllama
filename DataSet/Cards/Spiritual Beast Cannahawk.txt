@@ -1,0 +1,13 @@
+Spiritual Beast Cannahawk
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish 1 "Ritual Beast" card from your Deck, face-up. During your second Standby Phase after this effect's activation, add the card banished by this effect to your hand. You can only Special Summon "Spiritual Beast Cannahawk(s)" once per turn.
+
+Type: Thunder
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 600
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

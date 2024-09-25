@@ -1,0 +1,14 @@
+Lady of the Lake
+Card Type: Tuner Monster
+
+Description: Cannot be used as a Synchro Material, except for the Synchro Summon of a Warrior-Type monster. If this card is used for a Synchro Summon, banish it. When this card is Normal Summoned: You can target 1 "Noble Knight" Normal Monster in your Graveyard; Special Summon that target. If this card is in your Graveyard: You can target 1 Level 5 "Noble Knight" monster you control; reduce its Level by 1, and if you do, Special Summon this card from the Graveyard.
+
+Type: Aqua
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 1800
+Archetype: Noble Knight
+Present in Sets:
+- Noble Knights of the Round Table Box Set
+- Shadow Specters

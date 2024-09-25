@@ -1,0 +1,15 @@
+Gimmick Puppet Egg Head
+Card Type: Effect Monster
+
+Description: You can only use the effect of "Gimmick Puppet Egg Head" once per turn. You can discard 1 "Gimmick Puppet" monster, then activate 1 of these effects;
+● Inflict 800 damage to your opponent.
+● This card's Level becomes 8 until the End Phase.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Gimmick Puppet
+Present in Sets:
+- Number Hunters

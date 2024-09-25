@@ -1,0 +1,19 @@
+Card Trader
+Card Type: Spell Card
+
+Description: Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dragons Collide Structure Deck
+- Machina Mayhem Structure Deck
+- Starter Deck: Codebreaker
+- Strike of Neos
+- Strike of Neos

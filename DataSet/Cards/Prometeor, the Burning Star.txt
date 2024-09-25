@@ -1,0 +1,13 @@
+Prometeor, the Burning Star
+Card Type: Effect Monster
+
+Description: When this attacking card destroys a monster in your opponent's Main Monster Zone: You can discard 1 card; this card can attack again in a row, also the zone that monster was in cannot be used until the end of the next turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Chaos Impact

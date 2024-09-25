@@ -1,0 +1,13 @@
+Raidraptor - Glorious Bright
+Card Type: Trap Card
+
+Description: If you control a "Raidraptor" monster: Target 1 face-up monster your opponent controls, or if you control a "Raidraptor" Xyz Monster, you can target 1 face-up card your opponent controls; negate that card's effects until the end of this turn. You can banish this card from your GY, then target 1 of your "Raidraptor" monsters that is banished or in your GY; add it to your hand. You can only use 1 "Raidraptor - Glorious Bright" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Raidraptor
+Present in Sets:
+- Phantom Nightmare

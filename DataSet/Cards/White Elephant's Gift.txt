@@ -1,0 +1,19 @@
+White Elephant's Gift
+Card Type: Spell Card
+
+Description: Send 1 face-up non-Effect Monster you control to the GY; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Arena of Lost Souls
+- Starstrike Blast

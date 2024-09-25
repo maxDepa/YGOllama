@@ -1,0 +1,13 @@
+Little Fairy
+Card Type: Effect Monster
+
+Description: Up to twice per turn: You can send 1 card from your hand to the Graveyard; increase this card's Level by 1.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

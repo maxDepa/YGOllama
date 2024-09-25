@@ -1,0 +1,18 @@
+Stained Glass of Light & Dark
+Card Type: Trap Card
+
+Description: Apply any of the following effect(s) in sequence, depending on the Type(s) of Effect Monster you control.
+● Fairy: You can draw 3 cards, then place 2 cards from your hand on the bottom of your Deck in any order.
+● Fiend: You can make your opponent draw 1 card, then discard 1 random card, then if they still have a card in their hand, they discard 1 card.
+You can only activate 1 "Stained Glass of Light & Dark" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny
+- Valiant Smashers

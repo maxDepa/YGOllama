@@ -1,0 +1,17 @@
+Over Destiny
+Card Type: Spell Card
+
+Description: Target 1 "Destiny HERO" monster in your GY; Special Summon 1 "Destiny HERO" monster from your Deck whose Level is less than or equal to half of that target's Level, but destroy it during the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Destiny Soldiers
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Speed Duel GX: Duel Academy Box

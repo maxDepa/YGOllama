@@ -1,0 +1,18 @@
+Shield Warrior
+Card Type: Effect Monster
+
+Description: During damage calculation, in either player's turn: You can banish this card from your Graveyard; monsters you control cannot be destroyed by this battle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Pack: Yusei
+- The Duelist Genesis

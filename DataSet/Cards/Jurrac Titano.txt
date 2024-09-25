@@ -1,0 +1,16 @@
+Jurrac Titano
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Cannot be targeted by Trap or monster effects. Once per turn: You can banish 1 "Jurrac" monster with 1700 or less ATK from your Graveyard; this card gains 1000 ATK until the End Phase.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 9
+Attack: 3000
+Defence: 2800
+Archetype: Jurrac
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duel Terminal 3
+- Hidden Arsenal 3

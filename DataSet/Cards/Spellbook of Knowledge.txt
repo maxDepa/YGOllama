@@ -1,0 +1,16 @@
+Spellbook of Knowledge
+Card Type: Spell Card
+
+Description: Send to the GY either 1 Spellcaster monster you control, or 1 other "Spellbook" card from your hand or face-up field, except "Spellbook of Knowledge", and if you do, draw 2 cards. You can only activate 1 "Spellbook of Knowledge" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Structure Deck: Spirit Charmers
+- The Infinity Chasers

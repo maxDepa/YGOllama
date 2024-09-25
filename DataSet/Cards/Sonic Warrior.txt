@@ -1,0 +1,14 @@
+Sonic Warrior
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: All Level 2 or lower monsters you currently control gain 500 ATK.
+
+Type: Warrior
+Attribute: WIND
+Level: 2
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy
+- Synchron Extreme Structure Deck

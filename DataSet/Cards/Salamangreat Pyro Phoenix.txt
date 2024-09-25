@@ -1,0 +1,18 @@
+Salamangreat Pyro Phoenix
+Card Type: Link Monster
+
+Description: 2+ FIRE Effect Monsters
+If this card is Link Summoned using "Salamangreat Pyro Phoenix" as material: You can destroy all cards your opponent controls. You can only use each of the following effects of "Salamangreat Pyro Phoenix" once per turn.
+● You can target 1 Link Monster in your opponent's GY; Special Summon it to your opponent's field.
+● If a Link Monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can target 1 of those monsters; inflict damage to your opponent equal to that monster's original ATK.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact
+- Chaos Impact

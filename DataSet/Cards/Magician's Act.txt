@@ -1,0 +1,17 @@
+Magician's Act
+Card Type: Skill Card
+
+Description: Activate 1 of the following Skills at the start of the Duel.
+● Add 1 "Dark Magician" from your Deck to your hand, then shuffle 1 card from your hand into the Deck.
+● Shuffle 1 "Dark Magician" from your hand into the Deck, then draw 1 card.
+During your Main Phase, you can Tribute 1 monster whose original name is "Dark Magician" to draw 2 cards.
+Each of these Skills can only be used once per Duel.
+
+Type: Arkana
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

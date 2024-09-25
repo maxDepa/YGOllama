@@ -1,0 +1,17 @@
+Performapal Whim Witch
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If your opponent controls a face-up monster that was Special Summoned from the Extra Deck and you do not: You can Special Summon this card from your Pendulum Zone. You can only use this effect of "Performapal Whim Witch" once per turn.
+
+[ Monster Effect ] 
+This card can be treated as 2 Tributes for the Tribute Summon of a Pendulum Monster.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Performapal
+Present in Sets:
+- Invasion: Vengeance

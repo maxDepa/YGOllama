@@ -1,0 +1,38 @@
+Scapegoat
+Card Type: Spell Card
+
+Description: Special Summon 4 "Sheep Tokens" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Legends
+- Dark Saviors
+- Duelist League 2010 participation cards
+- Hobby League 5 participation card F
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Magnificent Mavens
+- Master of Pendulum Structure Deck
+- Millennium Pack
+- OTS Tournament Pack 5
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Retro Pack
+- Starter Deck: Codebreaker
+- Starter Deck: Joey
+- Structure Deck: Powercode Link
+- Tactical Masters
+- Tactical Masters
+- Tournament Pack 7

@@ -1,0 +1,17 @@
+Surface
+Card Type: Spell Card
+
+Description: Target 1 Level 3 or lower Fish, Sea Serpent, or Aqua monster in your GY; Special Summon it in face-up Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- Realm of the Sea Emperor Structure Deck
+- Speed Duel: Streets of Battle City
+- Speed Duel: Trials of the Kingdom
+- Structure Deck: Freezing Chains

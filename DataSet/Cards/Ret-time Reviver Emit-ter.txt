@@ -1,0 +1,14 @@
+Ret-time Reviver Emit-ter
+Card Type: Tuner Monster
+
+Description: If this card is in your hand or GY: You can target 1 face-up monster on each field; change them to face-down Defense Position, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Ret-time Reviver Emit-ter" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

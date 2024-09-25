@@ -1,0 +1,20 @@
+Blackwing - Elphin the Raven
+Card Type: Effect Monster
+
+Description: If you control a "Blackwing" monster, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1200
+Archetype: Blackwing
+Present in Sets:
+- Collectible Tins Exclusive 2009
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack
+- Maze of Memories
+- Raging Battle
+- Raging Battle
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

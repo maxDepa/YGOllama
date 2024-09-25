@@ -1,0 +1,21 @@
+Dark Magic Curtain
+Card Type: Spell Card
+
+Description: Pay half your LP; Special Summon 1 "Dark Magician" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Dragon Decks
+- Premium Pack (TCG)
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

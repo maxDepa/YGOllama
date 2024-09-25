@@ -1,0 +1,13 @@
+Destruction Jammer
+Card Type: Trap Card
+
+Description: Discard 1 card. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect that destroys a monster(s) on the field, and destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction

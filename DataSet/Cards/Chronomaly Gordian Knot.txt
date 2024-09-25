@@ -1,0 +1,13 @@
+Chronomaly Gordian Knot
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Chronomaly" monster from your hand, and if you do, this card's Level becomes the current Level of that Special Summoned monster.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 900
+Archetype: Chronomaly
+Present in Sets:
+- Premium Gold

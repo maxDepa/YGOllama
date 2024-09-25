@@ -1,0 +1,19 @@
+Dragon Master Knight
+Card Type: Fusion Monster
+
+Description: "Black Luster Soldier" + "Blue-Eyes Ultimate Dragon"
+Must be Fusion Summoned. This card gains 500 ATK for each Dragon monster you control, except this card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+Attack: 5000
+Defence: 5000
+Archetype: Blue-Eyes
+Present in Sets:
+- Duelist Pack: Kaiba
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Retro Pack 2
+- Ultimate Edition 2

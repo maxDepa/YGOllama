@@ -1,0 +1,22 @@
+Armed Dragon LV3
+Card Type: Effect Monster
+
+Description: During your Standby Phase: You can send this card to the GY; Special Summon 1 "Armed Dragon LV5" from your hand or Deck.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: Armed Dragon
+Present in Sets:
+- Dark Revelation Volume 3
+- Dragunity Legion Structure Deck
+- Duelist Pack: Chazz Princeton
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Ancient Millennium
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Dragon's Roar

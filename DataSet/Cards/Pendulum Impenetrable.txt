@@ -1,0 +1,14 @@
+Pendulum Impenetrable
+Card Type: Spell Card
+
+Description: This turn, cards in Pendulum Zones cannot be destroyed by your opponent's card effects, also negate any effect activated by your opponent that targeted a card(s) in the Pendulum Zones.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Dragon Decks
+- World Superstars

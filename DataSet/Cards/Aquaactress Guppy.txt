@@ -1,0 +1,14 @@
+Aquaactress Guppy
+Card Type: Effect Monster
+
+Description: Once per turn: You can Special Summon 1 "Aquaactress" monster from your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 600
+Archetype: Aquaactress
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

@@ -1,0 +1,18 @@
+Shaddoll Zefracore
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Shaddoll" and "Zefra" monsters. This effect cannot be negated.
+
+[ Monster Effect ] 
+If this card is Pendulum Summoned or sent to the GY: You can target 1 "Zefra" card in your Pendulum Zone, except "Shaddoll Zefracore"; Special Summon it. You can only use this effect of "Shaddoll Zefracore" once per turn.
+
+Type: Rock
+Attribute: DARK
+Level: 4
+Attack: 450
+Defence: 1950
+Archetype: Shaddoll
+Present in Sets:
+- Crossed Souls
+- Structure Deck: Shaddoll Showdown

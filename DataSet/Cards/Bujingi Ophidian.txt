@@ -1,0 +1,14 @@
+Bujingi Ophidian
+Card Type: Effect Monster
+
+Description: During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 "Bujin" monster you control; it can attack your opponent directly this turn.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 500
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

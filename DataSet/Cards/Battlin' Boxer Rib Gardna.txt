@@ -1,0 +1,14 @@
+Battlin' Boxer Rib Gardna
+Card Type: Effect Monster
+
+Description: During either player's turn: You can banish this card from your hand or Graveyard, then target 1 "Battlin' Boxer" monster you control; banish it until your next Standby Phase.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 100
+Defence: 1400
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

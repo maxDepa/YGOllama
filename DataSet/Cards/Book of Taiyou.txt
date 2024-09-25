@@ -1,0 +1,17 @@
+Book of Taiyou
+Card Type: Spell Card
+
+Description: Flip 1 face-down monster on the field into face-up Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Book of
+Present in Sets:
+- Champion Pack: Game Two
+- Dark Beginning 2
+- Pharaonic Guardian
+- Retro Pack 2
+- Speed Duel: Streets of Battle City

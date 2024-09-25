@@ -1,0 +1,12 @@
+Eyearmor
+Card Type: Normal Monster
+
+Description: This warrior transforms into various creatures to confuse enemies in battle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 600
+Defence: 500
+Archetype: //
+Present in Sets:

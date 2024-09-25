@@ -1,0 +1,13 @@
+Natural Tune
+Card Type: Spell Card
+
+Description: Select 1 face-up Level 4 or lower Normal Monster you control. It is treated as a Tuner monster while it is face-up on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

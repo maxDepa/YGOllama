@@ -1,0 +1,13 @@
+Shark Cruiser
+Card Type: Effect Monster
+
+Description: If this face-up card you control is destroyed by your opponent's card effect, you can Special Summon up to 2 Level 4 or lower WATER monsters from your Deck.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 2200
+Archetype: Shark
+Present in Sets:
+- Ancient Prophecy

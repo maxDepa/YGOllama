@@ -1,0 +1,14 @@
+Against the Wind
+Card Type: Spell Card
+
+Description: Select 1 "Blackwing" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Raging Battle

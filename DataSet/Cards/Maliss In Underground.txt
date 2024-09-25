@@ -1,0 +1,12 @@
+Maliss In Underground
+Card Type: Spell Card
+
+Description: When this card is activated: You can banish 1 "Maliss" card from your hand, Deck, or GY. While you have 3 or more banished "Maliss" Traps with different names, "Maliss" Link Monsters you control gain 3000 ATK. While you control any "Maliss" Link Monsters, your opponent's monsters can only target those monsters for attacks. You can only activate 1 "Maliss In Underground" per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Maliss
+Present in Sets:

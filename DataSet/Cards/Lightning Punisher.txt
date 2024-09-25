@@ -1,0 +1,14 @@
+Lightning Punisher
+Card Type: Effect Monster
+
+Description: After a Chain with 3 or more Links resolves, destroy 1 card on your opponent's side of the field. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.
+
+Type: Thunder
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

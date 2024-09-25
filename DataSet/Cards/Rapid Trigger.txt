@@ -1,0 +1,13 @@
+Rapid Trigger
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, by destroying Fusion Materials listed on it from your field, but it can only attack monsters Special Summoned from the Extra Deck, also it is unaffected by activated effects from any other monster Special Summoned from the Extra Deck. You can only activate 1 "Rapid Trigger" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Rokket Revolt

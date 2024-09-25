@@ -1,0 +1,16 @@
+Zoa
+Card Type: Normal Monster
+
+Description: A monster whose full potential can be achieved when outfitted with "Metalmorph".
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh Tour 2005 promotional cards
+- World Championship 2011 Card Pack
+- Yu-Gi-Oh! The Falsebound Kingdom promotional cards

@@ -1,0 +1,13 @@
+Red-Eyes Black Meteor Dragon
+Card Type: Effect Monster
+
+Description: You can send 1 Level 5 or higher Normal Monster from your hand or Deck to the GY; Special Summon this card from your hand, then increase its Level by 1. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 "Red-Eyes Fusion" from your Deck or GY to your hand. You can only use each effect of "Red-Eyes Black Meteor Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2000
+Archetype: Red-Eyes
+Present in Sets:
+- Duelist Nexus

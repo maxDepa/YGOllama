@@ -1,0 +1,17 @@
+Orcust Harp Horror
+Card Type: Effect Monster
+
+Description: You can banish this card from your GY; Special Summon 1 "Orcust" monster from your Deck, except "Orcust Harp Horror", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of "Orcust Harp Horror" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: Orcust
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Soul Fusion

@@ -1,0 +1,14 @@
+Bonze Alone
+Card Type: Effect Monster
+
+Description: Cannot be Normal or Special Summoned if you control a monster. You can Special Summon this card (from your hand) in Attack Position. If another monster(s) is Summoned to your field while you control this monster: Destroy this card.
+
+Type: Fairy
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Chaos Impact
+- Speed Duel: Battle City Box

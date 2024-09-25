@@ -1,0 +1,14 @@
+Goyo Chaser
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+This card gains 300 ATK for each EARTH Warrior-Type Synchro Monster on the field (other than this card). When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field, but its ATK becomes halved.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- High-Speed Riders

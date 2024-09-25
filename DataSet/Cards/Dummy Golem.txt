@@ -1,0 +1,14 @@
+Dummy Golem
+Card Type: Flip Effect Monster
+
+Description: FLIP: Your opponent selects 1 monster they control. Switch control of the selected monster and this card.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

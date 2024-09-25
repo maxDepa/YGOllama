@@ -1,0 +1,21 @@
+Command Knight
+Card Type: Effect Monster
+
+Description: All Warrior monsters you control gain 400 ATK. If you control another monster, monsters your opponent controls cannot target this card for attacks.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Collectible Tins 2004
+- Dark Beginning 2
+- Dark Beginning 2
+- Duelist League 14 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Speed Duel: Scars of Battle
+- Speed Duel: Streets of Battle City
+- Structure Deck: Warrior's Triumph

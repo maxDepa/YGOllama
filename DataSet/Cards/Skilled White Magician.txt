@@ -1,0 +1,22 @@
+Skilled White Magician
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 "Buster Blader" from your hand, Deck, or Graveyard.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Yugi Muto
+- Tournament Pack 7
+- Yugi's Legendary Decks

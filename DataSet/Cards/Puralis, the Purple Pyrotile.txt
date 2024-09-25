@@ -1,0 +1,14 @@
+Puralis, the Purple Pyrotile
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1 non-Tuner monster
+When this card is sent from the field to the Graveyard: All monsters your opponent currently controls lose 500 ATK.
+
+Type: Reptile
+Attribute: FIRE
+Level: 2
+Attack: 800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Shadow Specters

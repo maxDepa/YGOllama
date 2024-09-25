@@ -1,0 +1,15 @@
+Leng Ling
+Card Type: Union Effect Monster
+
+Description: Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. The original ATK of a monster equipped with this card becomes 1000, it can make a second attack during each Battle Phase, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+
+Type: Dragon
+Attribute: DARK
+Level: 3
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Structure Deck: Cyber Strike

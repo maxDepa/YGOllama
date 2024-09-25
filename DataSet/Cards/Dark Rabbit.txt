@@ -1,0 +1,16 @@
+Dark Rabbit
+Card Type: Normal Monster
+
+Description: He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Destiny Masters
+- Stardust Overdrive

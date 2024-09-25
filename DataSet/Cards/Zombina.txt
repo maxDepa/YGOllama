@@ -1,0 +1,17 @@
+Zombina
+Card Type: Effect Monster
+
+Description: If this card in its owner's possession is destroyed by an opponent's card: You can target 1 Level 4 or lower monster in your GY, except "Zombina"; Special Summon it.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 3
+- Speed Duel: Attack from the Deep

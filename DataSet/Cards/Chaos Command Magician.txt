@@ -1,0 +1,18 @@
+Chaos Command Magician
+Card Type: Effect Monster
+
+Description: Negate the effect of a Monster Card that targets this 1 card.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1900
+Archetype: Chaos
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Duelists: Season 3
+- Magician's Force
+- Speed Duel: Streets of Battle City
+- Structure Deck: Spellcaster's Judgment
+- Tournament Pack 7

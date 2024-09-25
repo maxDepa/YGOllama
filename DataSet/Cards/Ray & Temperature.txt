@@ -1,0 +1,15 @@
+Ray & Temperature
+Card Type: Normal Monster
+
+Description: The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

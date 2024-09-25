@@ -1,0 +1,13 @@
+Dimensional Allotrope Varis
+Card Type: Tuner Monster
+
+Description: Cannot be destroyed by battle with a monster with the same Type or Attribute as this card. You can declare 1 Monster Type and 1 Attribute; this card becomes that Type and Attribute until the end of your opponent's turn. You can only use this effect of "Dimensional Allotrope Varis" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,16 @@
+Number 27: Dreadnought Dreadnoid
+Card Type: XYZ Monster
+
+Description: 2+ Level 4 monsters
+At the end of the Battle Phase, if this card destroyed an opponent's monster by battle: You can Special Summon from your Extra Deck, 1 Rank 10 or higher Machine Xyz Monster by using this face-up card you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of "Number 27: Dreadnought Dreadnoid" once per turn. If this face-up card on the field would be destroyed by battle or card effect, you can detach 1 material from this card instead.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 2200
+Defence: 1000
+Archetype: Train
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- Duel Overload

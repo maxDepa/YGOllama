@@ -1,0 +1,19 @@
+Garoth, Lightsworn Warrior
+Card Type: Effect Monster
+
+Description: Each time a card(s) is sent from your Deck to the GY by the effect of a "Lightsworn" monster you control, except "Garoth, Lightsworn Warrior": Send the top 2 cards of your Deck to the GY, then draw 1 card for each "Lightsworn" monster sent to the GY by this effect.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1850
+Defence: 1300
+Archetype: Lightsworn
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction
+- Ra Yellow Mega Pack
+- Realm of Light Structure Deck
+- Turbo Pack: Booster One

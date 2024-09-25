@@ -1,0 +1,24 @@
+Crush Card Virus
+Card Type: Trap Card
+
+Description: Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Duelist Pack: Battle City
+- Duelist Pack: Kaiba
+- Gold Series
+- Legendary Collection Kaiba Mega Pack
+- Legendary Dragon Decks
+- Millennium Pack
+- Premium Gold: Return of the Bling
+- Shonen Jump Championship 2007 Prize Card A
+- Structure Deck: Lair of Darkness
+- Structure Deck: Seto Kaiba
+- Turbo Pack: Booster One

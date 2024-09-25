@@ -1,0 +1,14 @@
+Union Carrier
+Card Type: Link Monster
+
+Description: 2 monsters with the same Type or Attribute
+Cannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of "Union Carrier" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Overload

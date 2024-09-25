@@ -1,0 +1,23 @@
+Number 17: Leviathan Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.
+
+Type: Dragon
+Attribute: WATER
+Level: 3
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Brothers of Legend
+- Collectible Tins 2011 Wave 1
+- Duelist League 15 participation cards
+- Generation Force
+- Generation Force
+- Generation Force
+- Star Pack 2013
+- Star Pack 2013

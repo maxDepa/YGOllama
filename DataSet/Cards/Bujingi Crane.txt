@@ -1,0 +1,15 @@
+Bujingi Crane
+Card Type: Effect Monster
+
+Description: During damage calculation (in either player's turn), if a Beast-Warrior-Type "Bujin" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 300
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- 2014 Mega-Tins
+- Judgment of the Light

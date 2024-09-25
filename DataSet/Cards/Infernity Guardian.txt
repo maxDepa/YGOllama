@@ -1,0 +1,15 @@
+Infernity Guardian
+Card Type: Effect Monster
+
+Description: While you have no cards in your hand, this face-up card cannot be destroyed by battle or by card effects.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1700
+Archetype: Infernity
+Present in Sets:
+- Gold Series 3
+- Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards
+- Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards

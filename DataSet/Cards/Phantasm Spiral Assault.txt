@@ -1,0 +1,13 @@
+Phantasm Spiral Assault
+Card Type: Trap Card
+
+Description: Target 1 "Phantasm Spiral Dragon" you control; when it destroys 3 Effect Monsters your opponent controls, by battle, while equipped with 3 or more "Phantasm Spiral" Equip Spell Cards with different names, you win the Duel. If "Umi" is on the field, you can activate this card from your hand. If a Normal Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your Graveyard instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Phantasm Spiral
+Present in Sets:
+- Maximum Crisis

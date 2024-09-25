@@ -1,0 +1,14 @@
+Armageddon Designator
+Card Type: Trap Card
+
+Description: Banish 1 card from your hand; neither player can activate cards, or the effects of cards, with that name for the rest of this Duel.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

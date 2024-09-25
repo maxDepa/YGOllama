@@ -1,0 +1,22 @@
+Winged Dragon, Guardian of the Fortress #1
+Card Type: Normal Monster
+
+Description: A dragon commonly found guarding mountain fortresses. Its signature attack is a sweeping dive from out of the blue.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

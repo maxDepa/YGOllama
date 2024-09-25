@@ -1,0 +1,17 @@
+Chaos Angel
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner LIGHT or DARK monsters
+For this card's Synchro Summon, you can treat 1 LIGHT or DARK monster you control as a Tuner. If this card is Special Summoned: You can target 1 card on the field; banish it. This card gains these effects based on the original Attributes of materials used for its Synchro Summon.
+● LIGHT: Synchro Monsters you control are unaffected by monster effects activated by your opponent.
+● DARK: Monsters you control cannot be destroyed by battle.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 3500
+Defence: 2800
+Archetype: Chaos
+Present in Sets:
+- Cyberstorm Access
+- OTS Tournament Pack 24

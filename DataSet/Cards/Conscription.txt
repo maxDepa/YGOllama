@@ -1,0 +1,17 @@
+Conscription
+Card Type: Trap Card
+
+Description: Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your field. Otherwise, add that card to your opponent's hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel: Arena of Lost Souls
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

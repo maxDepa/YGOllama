@@ -1,0 +1,18 @@
+Thunder King Rai-Oh
+Card Type: Effect Monster
+
+Description: Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Gold Series 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Gold
+- Ra Yellow Mega Pack
+- Turbo Pack: Booster Eight
+- Yu-Gi-Oh! GX Volume 2 promotional card

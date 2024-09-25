@@ -1,0 +1,14 @@
+Protectcode Talker
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+Your opponent cannot target Link-4 or higher monsters you control with card effects, also they cannot be destroyed by battle. If you control a "Firewall" Link Monster (Quick Effect): You can banish Link Monsters from your GY whose combined Link Ratings equal exactly 3; Special Summon this card from your GY, but banish it when it leaves the field. You can only use this effect of "Protectcode Talker" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Cyberstorm Access

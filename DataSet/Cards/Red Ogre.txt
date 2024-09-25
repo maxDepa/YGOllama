@@ -1,0 +1,16 @@
+Red Ogre
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send any number of cards from your hand to the Graveyard, then target the same number of cards on the field; return those targets to the hand.
+
+Type: Zombie
+Attribute: EARTH
+Level: 7
+Attack: 2800
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Gold Series: Haunted Mine
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

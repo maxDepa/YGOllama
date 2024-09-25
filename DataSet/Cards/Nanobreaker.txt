@@ -1,0 +1,14 @@
+Nanobreaker
+Card Type: Effect Monster
+
+Description: If this card attacks a face-up Level 3 or lower monster, destroy the monster immediately with this card's effect without applying damage calculation.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy

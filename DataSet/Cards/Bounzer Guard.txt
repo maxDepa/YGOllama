@@ -1,0 +1,13 @@
+Bounzer Guard
+Card Type: Trap Card
+
+Description: Target 1 face-up "Bounzer" monster you control; this turn, it cannot be targeted by other card effects, or be destroyed by battle. This turn, if an opponent's monster attacks, it must target that monster for an attack if it is still on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bounzer
+Present in Sets:
+- Galactic Overlord

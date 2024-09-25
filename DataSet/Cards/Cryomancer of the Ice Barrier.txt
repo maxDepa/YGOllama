@@ -1,0 +1,17 @@
+Cryomancer of the Ice Barrier
+Card Type: Tuner Monster
+
+Description: While you control another "Ice Barrier" monster, Level 4 or higher monsters cannot declare an attack.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 1300
+Defence: 0
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

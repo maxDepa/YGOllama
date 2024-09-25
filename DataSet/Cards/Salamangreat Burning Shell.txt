@@ -1,0 +1,14 @@
+Salamangreat Burning Shell
+Card Type: Spell Card
+
+Description: Special Summon 1 "Salamangreat" monster from your hand, but negate its effects, then, immediately after this effect resolves, Link Summon 1 "Salamangreat" Link Monster using materials you control, including the Summoned monster. This turn, that Link Summoned monster cannot attack or activate its effects. During your Main Phase: You can banish this card from your GY, then target 1 "Salamangreat" Link Monster in your GY; return it to the Extra Deck. You can only activate 1 "Salamangreat Burning Shell" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

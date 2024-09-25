@@ -1,0 +1,14 @@
+Gouki Bearhug
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Gouki" card, or Normal Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its original ATK until the end of this turn. If this card is sent from the field to the GY: You can add 1 "Gouki" card from your Deck to your hand, except "Gouki Bearhug". You can only use each effect of "Gouki Bearhug" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

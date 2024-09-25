@@ -1,0 +1,20 @@
+Performapal Odd-Eyes Light Phoenix
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.
+
+[ Monster Effect ] 
+(Quick Effect): You can Tribute this card, then target 1 "Performapal" monster you control; it gains 1000 ATK until the end of this turn.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1000
+Archetype: Odd-Eyes
+Present in Sets:
+- Legendary Dragon Decks
+- Shining Victories
+- Star Pack Battle Royal
+- Star Pack Battle Royal

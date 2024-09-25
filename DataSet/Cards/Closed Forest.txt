@@ -1,0 +1,16 @@
+Closed Forest
+Card Type: Spell Card
+
+Description: All Beast-Type monsters you control gain 100 ATK for each monster in your Graveyard. Field Spell Cards cannot be activated. Field Spell Cards cannot be activated during the turn this card is destroyed.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Yu-Gi-Oh! 5D's Duel Transer promotional cards

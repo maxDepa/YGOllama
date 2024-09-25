@@ -1,0 +1,16 @@
+Unchained Twins - Aruha
+Card Type: Effect Monster
+
+Description: You can target 1 card you control; you cannot Special Summon monsters for the rest of this turn, except Fiend monsters, also destroy the targeted card, and if you do, Special Summon this card from your hand. If this card on the field is destroyed by card effect, except "Unchained Twins - Aruha", or by battle: You can Special Summon 1 "Unchained" monster from your hand or Deck, except "Unchained Twins - Aruha". You can only use each effect of "Unchained Twins - Aruha" once per turn.
+
+Type: Fiend
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 1500
+Archetype: Unchained
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact
+- Chaos Impact
+- OTS Tournament Pack 24

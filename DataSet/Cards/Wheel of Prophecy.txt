@@ -1,0 +1,14 @@
+Wheel of Prophecy
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of a Spellcaster-Type monster: You can target any number of your banished "Spellbook" Spell Cards; shuffle them into the Deck, and if you do, return your other banished "Spellbook" Spell Cards to your Graveyard. You can only use the effect of "Wheel of Prophecy" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 1700
+Archetype: Spellbook
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

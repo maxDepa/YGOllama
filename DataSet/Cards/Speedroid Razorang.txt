@@ -1,0 +1,13 @@
+Speedroid Razorang
+Card Type: Effect Monster
+
+Description: Cannot attack the turn it is Normal Summoned. Once per turn: You can target 1 face-up monster on the field; change this card to Defense Position, and if you do, that target loses 800 ATK until the end of this turn.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders

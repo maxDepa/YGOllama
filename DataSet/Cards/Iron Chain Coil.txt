@@ -1,0 +1,13 @@
+Iron Chain Coil
+Card Type: Tuner Monster
+
+Description: Once per turn, you can select 1 "Iron Chain" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 1600
+Archetype: Iron Chain
+Present in Sets:
+- Crossroads of Chaos

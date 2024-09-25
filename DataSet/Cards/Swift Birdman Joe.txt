@@ -1,0 +1,15 @@
+Swift Birdman Joe
+Card Type: Effect Monster
+
+Description: If you Tribute Summon this card by Tributing a WIND monster, return all Spell and Trap Cards on the field to the owners' hands.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 2300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Structure Deck: Lord of the Storm

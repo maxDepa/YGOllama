@@ -1,0 +1,17 @@
+Red-Eyes Spirit
+Card Type: Trap Card
+
+Description: Target 1 "Red-Eyes" monster in your GY; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Legendary Decks II
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Duelists of Tomorrow

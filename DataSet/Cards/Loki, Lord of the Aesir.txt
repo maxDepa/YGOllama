@@ -1,0 +1,19 @@
+Loki, Lord of the Aesir
+Card Type: Synchro Monster
+
+Description: 1 "Nordic Alfar" Tuner + 2+ non-Tuner monsters
+Once per turn, when your opponent activates a Spell/Trap Card during your Battle Phase (Quick Effect): You can negate the activation, and if you do, destroy it. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 "Nordic Alfar" Tuner from your GY; Special Summon this card. When Summoned this way: You can target 1 Trap in your GY; add that target to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 10
+Attack: 3300
+Defence: 3000
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Star Pack 2014
+- Star Pack 2014
+- Storm of Ragnarok
+- Storm of Ragnarok

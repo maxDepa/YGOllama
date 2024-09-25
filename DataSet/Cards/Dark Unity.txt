@@ -1,0 +1,15 @@
+Dark Unity
+Card Type: Skill Card
+
+Description: You can use "Super Polymerization" to Fusion Summon monsters that can normally only be Summoned with "Dark Fusion". Each of the following Skills can only be used once per Duel.
+● Lose 2000 LP, then change the Type of 1 Special Summoned monster your opponent controls to Rock.
+● Discard 1 card, then add 1 "Dark Fusion" from your Deck to your hand.
+
+Type: The Supreme K
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

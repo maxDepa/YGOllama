@@ -1,0 +1,13 @@
+Evoltile Pleuro
+Card Type: Effect Monster
+
+Description: If this card you control is destroyed and sent to your Graveyard: You can Special Summon 1 "Evolsaur" monster from your hand.
+
+Type: Reptile
+Attribute: FIRE
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Evolsaur
+Present in Sets:
+- Order of Chaos

@@ -1,0 +1,13 @@
+Reinforced Human Psychic Borg
+Card Type: Effect Monster
+
+Description: Up to twice per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to have this card gain 500 ATK.
+
+Type: Psychic
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Raging Battle

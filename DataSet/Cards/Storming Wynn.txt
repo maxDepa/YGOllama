@@ -1,0 +1,16 @@
+Storming Wynn
+Card Type: Effect Monster
+
+Description: Once per turn, you can Tribute 1 WIND monster (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if "Storming Wynn" is removed from your side of the field.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 H

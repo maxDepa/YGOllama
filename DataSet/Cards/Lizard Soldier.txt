@@ -1,0 +1,14 @@
+Lizard Soldier
+Card Type: Normal Monster
+
+Description: A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 1100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legacy of Darkness
+- Legacy of Darkness

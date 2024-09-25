@@ -1,0 +1,15 @@
+Ryu-Kishin
+Card Type: Normal Monster
+
+Description: A very elusive creature that looks like a harmless statue until it attacks.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

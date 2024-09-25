@@ -1,0 +1,15 @@
+Lord of the Red
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Red-Eyes Transmigration". Once per turn, during either player's turn, when a card or effect is activated, except "Lord of the Red": You can target 1 monster on the field; destroy it. Once per turn, during either player's turn, when a card or effect is activated, except "Lord of the Red": You can target 1 Spell/Trap Card on the field; destroy it.
+
+Type: Dragon
+Attribute: FIRE
+Level: 8
+Attack: 2400
+Defence: 2100
+Archetype: Red-Eyes
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

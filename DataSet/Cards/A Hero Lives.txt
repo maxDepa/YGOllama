@@ -1,0 +1,22 @@
+A Hero Lives
+Card Type: Spell Card
+
+Description: If you control no face-up monsters: Pay half your LP; Special Summon 1 Level 4 or lower "Elemental HERO" monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Duelist Saga
+- Generation Force
+- Generation Force
+- HERO Strike Structure Deck
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Magnificent Mavens
+- Speed Duel GX: Midterm Paradox
+- Speed Duel GX: Midterm Paradox

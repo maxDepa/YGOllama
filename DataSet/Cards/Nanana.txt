@@ -1,0 +1,12 @@
+Nanana
+Card Type: Spell Card
+
+Description: Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK/DEF until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

@@ -1,0 +1,17 @@
+Just Desserts
+Card Type: Trap Card
+
+Description: Inflict 500 damage to your opponent for each monster they control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution

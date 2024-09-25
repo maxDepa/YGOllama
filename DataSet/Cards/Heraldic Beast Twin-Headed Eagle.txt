@@ -1,0 +1,13 @@
+Heraldic Beast Twin-Headed Eagle
+Card Type: Effect Monster
+
+Description: You can banish this card from your Graveyard to target 1 face-up Xyz Monster you control with no Xyz Materials and 2 "Heraldic Beast" monsters in your Graveyard; attach those monsters from the Graveyard to that face-up Xyz Monster, as Xyz Materials. You can only use the effect of "Heraldic Beast Twin-Headed Eagle" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: Heraldic
+Present in Sets:
+- Cosmo Blazer

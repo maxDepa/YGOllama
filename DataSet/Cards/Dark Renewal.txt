@@ -1,0 +1,16 @@
+Dark Renewal
+Card Type: Trap Card
+
+Description: When your opponent Normal or Special Summons a monster(s): Target 1 of those monsters and 1 Spellcaster monster you control; send both monsters to the GY, then you can Special Summon 1 DARK Spellcaster monster from your Deck or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Dragon Decks
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Yugi's Legendary Decks

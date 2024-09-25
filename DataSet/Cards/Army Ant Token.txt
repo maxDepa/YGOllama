@@ -1,0 +1,12 @@
+Army Ant Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Multiplication of Ants". This Token cannot be used as a Tribute for a Tribute Summon.
+
+Type: Insect
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

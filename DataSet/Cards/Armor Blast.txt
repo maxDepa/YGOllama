@@ -1,0 +1,13 @@
+Armor Blast
+Card Type: Spell Card
+
+Description: Target 1 face-up "Inzektor" card you control and 2 face-up cards your opponent controls; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Order of Chaos

@@ -1,0 +1,12 @@
+Kanikabuto
+Card Type: Normal Monster
+
+Description: A monster crab with huge claws for clipping enemies to little pieces.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 650
+Defence: 900
+Archetype: //
+Present in Sets:

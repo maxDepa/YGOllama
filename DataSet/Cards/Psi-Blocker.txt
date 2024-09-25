@@ -1,0 +1,15 @@
+Psi-Blocker
+Card Type: Effect Monster
+
+Description: Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the end of your opponent's next turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 300
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Starstrike Blast

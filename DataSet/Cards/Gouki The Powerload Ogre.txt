@@ -1,0 +1,15 @@
+Gouki The Powerload Ogre
+Card Type: Link Monster
+
+Description: 2+ Warrior monsters
+Gains ATK equal to the combined Link Ratings of all other Link Monsters you control x 200. This Link Summoned card is unaffected by other cards' effects. You can Tribute 1 "Gouki" Link Monster, then target cards on the field, up to its Link Rating; destroy them. You can only use this effect of "Gouki The Powerload Ogre" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

@@ -1,0 +1,14 @@
+Mechquipped Angineer
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster you control; change it to face-up Defense Position, and if you do, it cannot be destroyed by battle or by card effects this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Number Hunters

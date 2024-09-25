@@ -1,0 +1,13 @@
+Wattmole
+Card Type: Effect Monster
+
+Description: This card can attack twice during each Battle Phase. If this card attacks a face-down Defense Position monster, you can destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 100
+Archetype: Watt
+Present in Sets:
+- Storm of Ragnarok

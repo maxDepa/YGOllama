@@ -1,0 +1,13 @@
+Zenmailfunction
+Card Type: Spell Card
+
+Description: Target 1 "Wind-Up" monster in your Graveyard; Special Summon it in face-up Defense Position. Its effect(s) is negated, and it cannot be Tributed or used as a Synchro Material Monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Wind-Up
+Present in Sets:
+- Photon Shockwave

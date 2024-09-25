@@ -1,0 +1,13 @@
+Phantom Cricket
+Card Type: Flip Effect Monster
+
+Description: FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Tactical Evolution

@@ -1,0 +1,23 @@
+Hero Signal
+Card Type: Trap Card
+
+Description: When a monster you control is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 4 or lower "Elemental HERO" monster from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist Pack: Jaden Yuki
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 3
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Midterm Paradox
+- The Lost Millennium
+- The Lost Millennium

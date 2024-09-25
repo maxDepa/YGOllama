@@ -1,0 +1,15 @@
+Rescue Ferret
+Card Type: Effect Monster
+
+Description: You can shuffle this card you control into the Deck; Special Summon monster(s) from your Deck, except "Rescue Ferret", whose total Levels equal 6, to your zone(s) a Link Monster(s) points to, but those Summoned monsters have their effects negated, also destroy them during the End Phase. You can only use this effect of "Rescue Ferret" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 300
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Legendary Hero Decks

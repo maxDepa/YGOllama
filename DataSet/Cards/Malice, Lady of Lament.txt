@@ -1,0 +1,16 @@
+Malice, Lady of Lament
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can Tribute 2 monsters, then target 1 of your Normal Traps that is banished or in your GY; Set that target, but place it on the bottom of the Deck when it leaves the field. You can only use this effect of "Malice, Lady of Lament" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Lady of Lament
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- Eternity Code Premiere! promotional card
+- Tactical Masters

@@ -1,0 +1,13 @@
+Purge Ray
+Card Type: Trap Card
+
+Description: Tribute 1 Xyz Monster; during the End Phase, Special Summon from your Extra Deck, 1 "Number" monster with the same Type, but 1 Rank lower, as the Tributed monster had when it was on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

@@ -1,0 +1,13 @@
+U.A. Rival Rebounder
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Rival Rebounder". You can only Special Summon "U.A. Rival Rebounder" once per turn this way. If this card is Special Summoned during your opponent's turn, or Normal Summoned: You can Special Summon 1 "U.A." monster from your hand or Graveyard, except "U.A. Rival Rebounder". You can only use this effect of "U.A. Rival Rebounder" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 2300
+Archetype: U.A.
+Present in Sets:
+- Crossed Souls

@@ -1,0 +1,17 @@
+Bubble Shuffle
+Card Type: Spell Card
+
+Description: Target 1 face-up Attack Position "Elemental HERO Bubbleman" you control and 1 face-up Attack Position monster your opponent controls; change both those targets to Defense Position, then Tribute that "Elemental HERO Bubbleman", then Special Summon 1 "Elemental HERO" monster from your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack

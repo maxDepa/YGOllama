@@ -1,0 +1,14 @@
+Dungeon Worm
+Card Type: Normal Monster
+
+Description: Hidden under the floors of a labyrinth, it swallows any who pass above.
+
+Type: Insect
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: Worm
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- McDonald's Promotional Cards 2

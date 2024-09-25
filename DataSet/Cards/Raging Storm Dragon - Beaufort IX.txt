@@ -1,0 +1,13 @@
+Raging Storm Dragon - Beaufort IX
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Breath of Acclamation". When an opponent's monster declares a direct attack: You can discard this card; negate the attack, and if you do, negate that monster's effects. (Quick Effect): You can target 1 face-up monster your opponent controls; return both that monster and this card to the hand. You can only use each effect of "Raging Storm Dragon - Beaufort IX" once per turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 9
+Attack: 2800
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Blazing Vortex

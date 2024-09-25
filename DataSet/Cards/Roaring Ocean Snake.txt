@@ -1,0 +1,15 @@
+Roaring Ocean Snake
+Card Type: Fusion Monster
+
+Description: "Mystic Lamp" + "Hyosube"
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

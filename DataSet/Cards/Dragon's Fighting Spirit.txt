@@ -1,0 +1,15 @@
+Dragon's Fighting Spirit
+Card Type: Spell Card
+
+Description: Target 1 Dragon-Type monster you control that was Special Summoned this turn; for each monster your opponent currently controls that was Special Summoned this turn, it gains 1 additional attack during each Battle Phase this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

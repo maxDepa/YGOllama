@@ -1,0 +1,16 @@
+Witch's Apprentice
+Card Type: Effect Monster
+
+Description: As long as this card remains face-up on the field, increase the ATK of all DARK monsters by 500 points and decrease the ATK of all LIGHT monsters by 400 points.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 550
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

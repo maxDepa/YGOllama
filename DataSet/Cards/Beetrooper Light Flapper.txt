@@ -1,0 +1,14 @@
+Beetrooper Light Flapper
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 2 of your "Beetrooper" monsters with different names, that are banished and/or in your GY; add them to your hand, but for the rest of this turn you cannot activate their effects, or the effects of cards with their names. When an opponent's monster declares an attack: You can return this card to the hand, and if you do, negate that attack. You can only use each effect of "Beetrooper Light Flapper" once per turn.
+
+Type: Insect
+Attribute: WATER
+Level: 6
+Attack: 2000
+Defence: 2200
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

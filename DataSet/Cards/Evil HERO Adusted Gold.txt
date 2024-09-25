@@ -1,0 +1,15 @@
+Evil HERO Adusted Gold
+Card Type: Effect Monster
+
+Description: You can discard this card; add 1 "Dark Fusion", or 1 card that specifically lists "Dark Fusion" in its text, from your Deck to your hand, except "Evil HERO Adusted Gold". You can only use this effect of "Evil HERO Adusted Gold" once per turn. Cannot attack unless you control a Fusion Monster.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 800
+Archetype: Evil HERO
+Present in Sets:
+- Brothers of Legend
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

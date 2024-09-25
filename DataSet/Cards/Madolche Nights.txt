@@ -1,0 +1,15 @@
+Madolche Nights
+Card Type: Trap Card
+
+Description: When a monster effect is activated, if you have no monsters in your Graveyard: Negate the activation, then if you control "Madolche Puddingcess", shuffle 1 random card from your opponent's hand into the Deck.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Madolche
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Maximum Gold

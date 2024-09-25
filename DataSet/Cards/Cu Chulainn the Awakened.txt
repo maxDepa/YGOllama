@@ -1,0 +1,13 @@
+Cu Chulainn the Awakened
+Card Type: Ritual Effect Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, Emblem of the Awakening. Once per turn, you can remove from play 1 Normal Monster in your Graveyard. This card gains ATK equal to that Normal Monster's ATK, until the Standby Phase of your next turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Strike of Neos

@@ -1,0 +1,14 @@
+Psychic Nightmare
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Psychic-Type monsters
+Once per turn, during your Main Phase, you can pick 1 random card in your opponent's hand and call what type of card it is (Monster, Spell or Trap). If you call it right, this card gains 1000 ATK until your opponent's End Phase.
+
+Type: Psychic
+Attribute: WIND
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Duelist Revolution

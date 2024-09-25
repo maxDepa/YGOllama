@@ -1,0 +1,14 @@
+Card Breaker
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell & Trap Card Zone to the Graveyard.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 2
+Attack: 100
+Defence: 900
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- The Shining Darkness

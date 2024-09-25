@@ -1,0 +1,18 @@
+Hungry Burger
+Card Type: Ritual Monster
+
+Description: This monster can only be Ritual Summoned with the Ritual Spell Card, "Hamburger Recipe". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1850
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Wild Survivors
+- Wild Survivors

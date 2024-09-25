@@ -1,0 +1,15 @@
+Giant Rex
+Card Type: Effect Monster
+
+Description: Cannot attack directly. If this card is banished: You can Special Summon this card, and if you do, this card gains 200 ATK for each of your banished Dinosaur monsters. You can only use this effect of "Giant Rex" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Maximum Gold: El Dorado
+- Wild Survivors

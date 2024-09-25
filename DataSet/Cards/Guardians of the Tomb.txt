@@ -1,0 +1,13 @@
+Guardians of the Tomb
+Card Type: Skill Card
+
+Description: During your opponent's Main Phase, when a monster is Special Summoned from your Spell & Trap Zone to your field while you have no cards in your hand, you can draw 1 card, and if you do, you can Set 1 Spell or Trap from your hand. This Skill can only be used once per turn.
+
+Type: Odion
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

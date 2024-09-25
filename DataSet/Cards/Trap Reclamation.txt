@@ -1,0 +1,13 @@
+Trap Reclamation
+Card Type: Trap Card
+
+Description: Discard 1 card and chain this card to a Trap Card you activated. Whenever that Trap Card is sent to the Graveyard, return it to its owner's hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

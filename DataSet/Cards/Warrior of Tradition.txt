@@ -1,0 +1,13 @@
+Warrior of Tradition
+Card Type: Fusion Monster
+
+Description: "Sonic Maid" + "Beautiful Headhuntress"
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

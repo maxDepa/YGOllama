@@ -1,0 +1,16 @@
+Sky Scourge Invicil
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect:
+● LIGHT Fairy-Type monster: Negate the effects of all Spell Cards.
+● DARK Fiend-Type monster: Negate the effects of all Trap Cards.
+
+Type: Fairy
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker

@@ -1,0 +1,16 @@
+Mist Valley Executor
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, return all face-up Spell and Trap Cards on the field to their owners' hands.
+
+Type: Thunder
+Attribute: WIND
+Level: 5
+Attack: 2100
+Defence: 1600
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

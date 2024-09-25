@@ -1,0 +1,14 @@
+Bystial Baldrake
+Card Type: Effect Monster
+
+Description: You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If your opponent Special Summons a Ritual, Fusion, Synchro, Xyz, and/or Link Monster(s) (except during the Damage Step): You can Tribute 1 other LIGHT or DARK monster, then target 1 of those Special Summoned monsters; banish it. You can only use each effect of "Bystial Baldrake" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: Bystial
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Photon Hypernova

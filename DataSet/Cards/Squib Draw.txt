@@ -1,0 +1,15 @@
+Squib Draw
+Card Type: Spell Card
+
+Description: Target 1 "Rokket" monster you control; destroy it, and if you do, draw 2 cards. You can only activate 1 "Squib Draw" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rokket
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Structure Deck: Rokket Revolt

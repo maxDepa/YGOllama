@@ -1,0 +1,18 @@
+Koa'ki Meiru Drago
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. Neither player can Special Summon LIGHT or DARK monsters.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 1600
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battles of Legend: Armageddon
+- Raging Battle
+- Raging Battle
+- Turbo Pack: Booster Three

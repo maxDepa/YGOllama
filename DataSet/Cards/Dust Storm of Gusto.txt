@@ -1,0 +1,14 @@
+Dust Storm of Gusto
+Card Type: Trap Card
+
+Description: Your opponent cannot activate cards or effects when "Gusto" monsters you control declare their attacks this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

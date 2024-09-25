@@ -1,0 +1,13 @@
+Vanquish Soul - Continue?
+Card Type: Spell Card
+
+Description: Pay 500 LP, then target 1 "Vanquish Soul" monster in your GY; either add it to your hand or Special Summon it in Defense Position. You can only activate 1 "Vanquish Soul - Continue?" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vanquish Soul
+Present in Sets:
+- Wild Survivors

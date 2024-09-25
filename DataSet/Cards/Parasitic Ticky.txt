@@ -1,0 +1,14 @@
+Parasitic Ticky
+Card Type: Effect Monster
+
+Description: The ATK and DEF of this card are each equal to the number of tokens on the field x 500.
+
+Type: Insect
+Attribute: EARTH
+Level: 1
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

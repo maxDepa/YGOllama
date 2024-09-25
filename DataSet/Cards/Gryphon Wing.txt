@@ -1,0 +1,16 @@
+Gryphon Wing
+Card Type: Trap Card
+
+Description: When your opponent activates "Harpie's Feather Duster": Negate its effect, and if you do, destroy all Spell and Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Starter Deck: Pegasus

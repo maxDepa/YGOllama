@@ -1,0 +1,15 @@
+Wingweaver
+Card Type: Normal Monster
+
+Description: A six-winged fairy who prays for peace and hope.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2750
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

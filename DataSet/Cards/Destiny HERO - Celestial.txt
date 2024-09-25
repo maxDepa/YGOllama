@@ -1,0 +1,17 @@
+Destiny HERO - Celestial
+Card Type: Effect Monster
+
+Description: When this card declares an attack: You can target 1 face-up Spell your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. While you have no cards in your hand, except the turn this card was sent to the GY: You can banish this card and 1 "Destiny HERO" monster from your GY; draw 2 cards. You can only use this effect of "Destiny HERO - Celestial" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Destiny HERO
+Present in Sets:
+- Destiny Soldiers
+- Duel Overload
+- Legendary Hero Decks
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)

@@ -1,0 +1,12 @@
+Bone Mouse
+Card Type: Normal Monster
+
+Description: A mouse that has returned as a zombie to seek revenge on cats.
+
+Type: Zombie
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:

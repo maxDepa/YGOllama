@@ -1,0 +1,17 @@
+Super Vehicroid - Stealth Union
+Card Type: Fusion Monster
+
+Description: "Truckroid" + "Expressroid" + "Drillroid" + "Stealthroid"
+Once per turn: You can target 1 face-up non-Machine monster on the field; equip that target to this card. While equipped with a monster by this effect, this card can attack all monsters your opponent controls, once each. If this card attacks, its original ATK is halved. If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Machine
+Attribute: EARTH
+Level: 9
+Attack: 3600
+Defence: 3000
+Archetype: Roid
+Present in Sets:
+- Duel Overload
+- Duelist League 3 participation cards
+- Gladiator's Assault
+- Speed Duel GX: Midterm Paradox

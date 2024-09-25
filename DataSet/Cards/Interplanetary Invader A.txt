@@ -1,0 +1,13 @@
+Interplanetary Invader "A"
+Card Type: Effect Monster
+
+Description: Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 500
+Archetype: Alien
+Present in Sets:
+- Light of Destruction

@@ -1,0 +1,14 @@
+Bystial Saronir
+Card Type: Effect Monster
+
+Description: You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is sent to the GY: You can send 1 "Bystial" monster or 1 "Branded" Spell/Trap from your Deck to the GY, except "Bystial Saronir". You can only use each effect of "Bystial Saronir" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: Bystial
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

@@ -1,0 +1,15 @@
+Ninja Grandmaster Saizo
+Card Type: Link Monster
+
+Description: 2 "Ninja" monsters
+During your Main Phase: You can Set 1 "Ninjitsu Art" Spell/Trap directly from your Deck. You can only use this effect of "Ninja Grandmaster Saizo" once per turn. While this card points to a monster(s), this card cannot be targeted for an attack, also your opponent cannot target it with card effects.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- OTS Tournament Pack 20
+- Shadows in Valhalla

@@ -1,0 +1,21 @@
+Guardian Angel Joan
+Card Type: Effect Monster
+
+Description: When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the original ATK of that destroyed monster in the Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 2000
+Archetype: Fairy
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 2
+- Duel Terminal 6a
+- Invasion of Chaos
+- Invasion of Chaos
+- Rise of the Dragon Lords Structure Deck
+- Speed Duel: Battle City Box
+- Yu-Gi-Oh! at Home Sweepstakes

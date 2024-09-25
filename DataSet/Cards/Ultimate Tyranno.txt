@@ -1,0 +1,20 @@
+Ultimate Tyranno
+Card Type: Effect Monster
+
+Description: This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an "Ultimate Tyranno" that can attack, monsters other than "Ultimate Tyranno" cannot attack.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dinosmasher's Fury Structure Deck
+- Duel Terminal 2
+- Duelist League 13 participation cards
+- Power of the Duelist
+- Power of the Duelist
+- Structure Deck: Dinosaur's Rage

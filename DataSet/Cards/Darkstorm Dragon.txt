@@ -1,0 +1,17 @@
+Darkstorm Dragon
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● Once per turn: You can send 1 face-up Spell/Trap Card you control to the Graveyard; destroy all Spell and Trap Cards on the field.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 3
+- Rise of the True Dragons Structure Deck
+- Saga of Blue-Eyes White Dragon Structure Deck

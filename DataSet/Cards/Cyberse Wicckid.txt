@@ -1,0 +1,14 @@
+Cyberse Wicckid
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+This Link Summoned card cannot be destroyed by battle or card effects. Cyberse monsters this card points to cannot be destroyed by card effects. If a monster(s) is Special Summoned to a zone(s) this card points to while you control this monster (except during the Damage Step): You can banish 1 Cyberse monster from your GY; add 1 Cyberse Tuner from your Deck to your hand. You can only use this effect of "Cyberse Wicckid" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Savage Strike

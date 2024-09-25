@@ -1,0 +1,14 @@
+Fire Flint Lady
+Card Type: Effect Monster
+
+Description: If you control a Warrior monster: You can Special Summon this card from your hand. You can send this card from the field to the GY; Special Summon 1 Level 4 or lower Warrior monster from your hand, and if you do, your opponent cannot target it with card effects this turn. You can only use each effect of "Fire Flint Lady" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon
+- OTS Tournament Pack 24

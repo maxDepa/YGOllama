@@ -1,0 +1,15 @@
+Herald of Ultimateness
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Oracle of the Herald". Must be Ritual Summoned, and cannot be Special Summoned by other ways. During either player's turn, when your opponent would Special Summon a monster(s), OR activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the Special Summon or activation, and if you do, destroy that card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 12
+Attack: 2000
+Defence: 3000
+Archetype: Herald
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Genesis Impact
+- The New Challengers

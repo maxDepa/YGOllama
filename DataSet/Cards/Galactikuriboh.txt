@@ -1,0 +1,14 @@
+Galactikuriboh
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Galaxy" card.)
+When an opponent's monster declares an attack: You can discard this card; Special Summon 1 "Galaxy-Eyes Photon Dragon" from your hand or Deck, then change the attack target to it, then you can attach this card from the GY to 1 Xyz Monster on the field as material. If a "Photon" or "Galaxy" monster(s) you control would be destroyed by battle or an opponent's card effect, you can banish this card from your GY instead.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Galaxy
+Present in Sets:
+- Photon Hypernova

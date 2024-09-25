@@ -1,0 +1,27 @@
+Lord of D.
+Card Type: Effect Monster
+
+Description: Neither player can target Dragon monsters on the field with card effects.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1100
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Booster Pack Collectors Tins 2002
+- Dark Legends
+- Dragons Collide Structure Deck
+- Duelist League 17 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Kaiba
+- Retro Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 1
+- Speed Duel Tournament Pack 6
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Structure Deck: Seto Kaiba

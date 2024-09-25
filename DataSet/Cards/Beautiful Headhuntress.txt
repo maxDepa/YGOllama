@@ -1,0 +1,13 @@
+Beautiful Headhuntress
+Card Type: Normal Monster
+
+Description: A vicious creature that has decapitated numerous enemy monsters.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

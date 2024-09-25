@@ -1,0 +1,14 @@
+Laval Coatl
+Card Type: Tuner Monster
+
+Description: If you have 3 or more "Laval" monsters with different names in your Graveyard, you can Special Summon this card (from your hand).
+
+Type: Pyro
+Attribute: FIRE
+Level: 2
+Attack: 1300
+Defence: 700
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

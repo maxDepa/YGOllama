@@ -1,0 +1,17 @@
+Amazoness Fighter
+Card Type: Effect Monster
+
+Description: You take no battle damage from attacks involving this card.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: Amazoness
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows

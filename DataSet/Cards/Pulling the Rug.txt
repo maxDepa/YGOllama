@@ -1,0 +1,16 @@
+Pulling the Rug
+Card Type: Trap Card
+
+Description: Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Five
+- OTS Tournament Pack 23
+- Strike of Neos
+- Strike of Neos

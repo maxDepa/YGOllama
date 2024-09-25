@@ -1,0 +1,14 @@
+Inzektor Hopper
+Card Type: Effect Monster
+
+Description: Once per turn: You can equip 1 "Inzektor" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 4. While this card is equipped to a monster: You can send this Equip Card to the Graveyard; the monster it was equipped to can attack your opponent directly this turn. Other monsters cannot attack the turn you activate this effect.
+
+Type: Insect
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: Inzektor
+Present in Sets:
+- Order of Chaos
+- The Grand Creators

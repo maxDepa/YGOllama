@@ -1,0 +1,16 @@
+Vylon Stella
+Card Type: Tuner Monster
+
+Description: If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. At the end of the Damage Step, if the equipped monster battled an opponent's monster: Destroy that opponent's monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1400
+Defence: 200
+Archetype: Vylon
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

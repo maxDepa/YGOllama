@@ -1,0 +1,14 @@
+Zombie Reborn
+Card Type: Spell Card
+
+Description: Target 1 Zombie monster in either GY; banish 1 monster with the same name from your Deck or Extra Deck, and if you do, Special Summon the targeted monster to your field. If this card is in your GY: You can shuffle 1 of your banished Zombie monsters into the Deck, and if you do, Set this card, but banish it when it leaves the field. You can only use 1 "Zombie Reborn" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

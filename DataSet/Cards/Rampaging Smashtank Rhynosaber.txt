@@ -1,0 +1,16 @@
+Rampaging Smashtank Rhynosaber
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can discard any number of cards; this card gains 700 ATK for each card discarded. At the end of the Battle Phase, if this card battled: You can send this card to the GY; Special Summon monsters from your GY whose total Levels equal 7, except "Rampaging Smashtank Rhynosaber", but their effects are negated. You can only use each effect of "Rampaging Smashtank Rhynosaber" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 7
+Attack: 2400
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

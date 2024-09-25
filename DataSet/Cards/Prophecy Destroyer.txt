@@ -1,0 +1,15 @@
+Prophecy Destroyer
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can banish 3 "Spellbook" Spell Cards from your Graveyard; Special Summon this card from your Graveyard.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: Spellbook
+Present in Sets:
+- Collectible Tins 2012 Wave 2.5
+- Return of the Duelist
+- Return of the Duelist

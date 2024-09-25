@@ -1,0 +1,13 @@
+Flying Penguin
+Card Type: Normal Monster
+
+Description: A very rare penguin that takes to the air with ears shaped like wings.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: Penguin
+Present in Sets:
+- McDonald's Promotional Cards

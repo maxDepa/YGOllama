@@ -1,0 +1,21 @@
+Tour Guide From the Underworld
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend monster from your hand or Deck, but negate its effects, also it cannot be used as Synchro Material.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 600
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Collectible Tins 2012 Wave 2
+- Duel Overload
+- Duelist Saga
+- Extreme Victory
+- Maximum Gold
+- Structure Deck: Lair of Darkness

@@ -1,0 +1,15 @@
+World Legacy Discovery
+Card Type: Spell Card
+
+Description: All "World Chalice" monsters on the field gain 300 ATK/DEF. Once per turn, if a face-up "World Chalice" monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can target 1 "World Chalice" monster in your GY; Special Summon it in Defense Position.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Chalice
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Code of the Duelist

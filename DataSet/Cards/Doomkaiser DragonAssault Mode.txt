@@ -1,0 +1,15 @@
+Doomkaiser Dragon/Assault Mode
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". When this card is Special Summoned, Special Summon any number of Zombie-Type monsters from either player's Graveyard(s) to your side of the field. Those monsters' effects are negated, and they are destroyed during the End Phase this turn. When this card on the field is destroyed, you can Special Summon 1 "Doomkaiser Dragon" from your Graveyard.
+
+Type: Zombie
+Attribute: FIRE
+Level: 8
+Attack: 2900
+Defence: 2000
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis
+- OTS Tournament Pack 10 (POR)

@@ -1,0 +1,13 @@
+Earthbound Prisoner Line Walker
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Earthbound Prison" or "Harmonic Synchro Fusion" from your Deck or GY to your hand. If you control a Level 6 or higher "Earthbound" monster: You can banish this card from your GY, then target 1 Effect Monster your opponent controls that was Special Summoned from the Extra Deck; shuffle that face-up Effect Monster into the Deck, then your opponent can Special Summon 1 monster with the same name from their Extra Deck. You can only use each effect of "Earthbound Prisoner Line Walker" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1100
+Archetype: Earthbound
+Present in Sets:
+- Maze of Millennia

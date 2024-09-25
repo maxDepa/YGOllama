@@ -1,0 +1,17 @@
+Chicken Game
+Card Type: Spell Card
+
+Description: The player with the lowest LP takes no damage. Once per turn, during the Main Phase: The turn player can pay 1000 LP, then activate 1 of these effects;
+● Draw 1 card.
+● Destroy this card.
+● Your opponent gains 1000 LP.
+Neither player can activate cards or effects in response to this effect's activation.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Clash of Rebellions

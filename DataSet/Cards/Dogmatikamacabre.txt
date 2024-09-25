@@ -1,0 +1,14 @@
+Dogmatikamacabre
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Dogmatika" Ritual Monster from your hand or GY. You must also Tribute monsters from your hand or field, and/or banish Fusion or Synchro Monsters from your GY, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon, then, if both "White Knight of Dogmatika" and "White Relic of Dogmatika" are on the field, you can look at either your Extra Deck or your opponent's, and send 1 monster from it to the GY. You can only activate 1 "Dogmatikamacabre" per turn.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dogmatika
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

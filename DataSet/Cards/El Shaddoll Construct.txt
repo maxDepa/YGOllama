@@ -1,0 +1,19 @@
+El Shaddoll Construct
+Card Type: Fusion Monster
+
+Description: 1 "Shaddoll" monster + 1 LIGHT monster
+Must first be Fusion Summoned. If this card is Special Summoned: You can send 1 "Shaddoll" card from your Deck to the GY. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the GY: You can target 1 "Shaddoll" Spell/Trap in your GY; add it to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2500
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- 2021 Tin of Ancient Battles
+- Duel Power
+- Duelist Alliance
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

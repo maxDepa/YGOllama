@@ -1,0 +1,14 @@
+Magical Thorn
+Card Type: Trap Card
+
+Description: When your opponent's card(s) in their hand are discarded to the Graveyard, inflict 500 points of damage to their Life Points for each card that was discarded.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Tournament Pack 5

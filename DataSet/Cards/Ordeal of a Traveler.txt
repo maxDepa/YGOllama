@@ -1,0 +1,17 @@
+Ordeal of a Traveler
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Structure Deck: Invincible Fortress

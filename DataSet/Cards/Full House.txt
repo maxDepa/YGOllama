@@ -1,0 +1,15 @@
+Full House
+Card Type: Trap Card
+
+Description: Target 2 other face-up Spell/Trap Cards and 3 Set Spell/Trap Cards, on the field; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

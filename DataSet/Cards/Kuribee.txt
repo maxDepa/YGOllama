@@ -1,0 +1,14 @@
+Kuribee
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Kuriboh" card.)
+When this card, or another "Kuriboh" monster, you control is destroyed by battle: You can add 1 Spell/Trap from your Deck to your hand that lists the card "Kuriboh" in its text. You can only use this effect of "Kuribee" once per turn. Once per turn, when an opponent's monster declares an attack while you control another "Kuriboh" monster: You can change the ATK of all other monsters you control to 0 until the end of this turn, and if you do, negate the attack.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- Brothers of Legend

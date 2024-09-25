@@ -1,0 +1,19 @@
+Dragon Ravine
+Card Type: Spell Card
+
+Description: Once per turn: You can discard 1 card, then activate 1 of these effects;
+● Add 1 Level 4 or lower "Dragunity" monster from your Deck to your hand.
+● Send 1 Dragon monster from your Deck to the GY.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dragunity
+Present in Sets:
+- Astral Pack Seven
+- Dragunity Legion Structure Deck
+- Legendary Collection Kaiba Mega Pack
+- Mystic Fighters
+- Rise of the True Dragons Structure Deck

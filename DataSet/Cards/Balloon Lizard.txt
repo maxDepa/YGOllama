@@ -1,0 +1,15 @@
+Balloon Lizard
+Card Type: Effect Monster
+
+Description: Put 1 counter on this card during each of your Standby Phases. When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters X 400 points.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

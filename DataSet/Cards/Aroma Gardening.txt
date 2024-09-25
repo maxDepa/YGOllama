@@ -1,0 +1,13 @@
+Aroma Gardening
+Card Type: Spell Card
+
+Description: If you Normal or Special Summon an "Aroma" monster(s) (except during the Damage Step): You can gain 1000 LP. When an opponent's monster declares an attack, while your LP are lower than your opponent's: You can Special Summon 1 "Aroma" monster from your Deck. You can only use each effect of "Aroma Gardening" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aroma
+Present in Sets:
+- Chaos Impact

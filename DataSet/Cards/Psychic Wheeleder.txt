@@ -1,0 +1,15 @@
+Psychic Wheeleder
+Card Type: Tuner Monster
+
+Description: If you control a Level 3 monster other than "Psychic Wheeleder", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon "Psychic Wheeleder" once per turn this way. If this card is sent to the GY as Synchro Material: You can target 1 monster on the field with less ATK than the Synchro Monster that used this card as material; destroy it. You can only use this effect of "Psychic Wheeleder" once per turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike
+- The Grand Creators

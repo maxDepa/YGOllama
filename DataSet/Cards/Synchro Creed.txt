@@ -1,0 +1,13 @@
+Synchro Creed
+Card Type: Spell Card
+
+Description: If a Synchro Monster is on the field: Draw 1 card, then, if 3 or more Synchro Monsters are on the field, you can draw 1 more card. You can only activate 1 "Synchro Creed" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Synchro
+Present in Sets:
+- Battles of Legend: Terminal Revenge

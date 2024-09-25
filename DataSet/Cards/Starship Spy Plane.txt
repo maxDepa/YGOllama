@@ -1,0 +1,14 @@
+Starship Spy Plane
+Card Type: Effect Monster
+
+Description: If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When this card is Special Summoned from the hand: Target 1 Spell/Trap Card your opponent controls; return that target to the hand.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1100
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

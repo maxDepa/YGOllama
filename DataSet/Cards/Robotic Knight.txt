@@ -1,0 +1,16 @@
+Robotic Knight
+Card Type: Normal Monster
+
+Description: The Commander of Machine-Types, he serves the Machine King. He is famous for the way he controls his troops.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Demo Deck 2015
+- Legacy of Darkness
+- Legacy of Darkness
+- Starter Deck: Syrus Truesdale

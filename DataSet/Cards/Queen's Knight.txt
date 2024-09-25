@@ -1,0 +1,27 @@
+Queen's Knight
+Card Type: Normal Monster
+
+Description: This knight catches her opponents off guard, dominating them with swift yet graceful attacks.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: Knight
+Present in Sets:
+- 2-Player Starter Set
+- Dark Revelation Volume 4
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Elemental Energy
+- Elemental Energy
+- King's Court
+- King's Court
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Demo Deck 2020
+- Speed Duel Tournament Pack 3
+- Speed Duel: Arena of Lost Souls
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

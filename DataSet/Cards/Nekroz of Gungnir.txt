@@ -1,0 +1,18 @@
+Nekroz of Gungnir
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned, without using any Level 7 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of "Nekroz of Gungnir" once per turn.
+● During either player's turn: You can discard this card, then target 1 "Nekroz" monster you control; it cannot be destroyed by battle or by card effects this turn.
+● During either player's turn: You can discard 1 "Nekroz" card, then target 1 card on the field; destroy it.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 7
+Attack: 2500
+Defence: 1700
+Archetype: Nekroz
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Armageddon
+- Secrets of Eternity
+- Secrets of Eternity

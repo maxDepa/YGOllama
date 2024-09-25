@@ -1,0 +1,14 @@
+Ancient Warriors Oath - Double Dragon Lords
+Card Type: Link Monster
+
+Description: 2 Beast-Warrior monsters, including a WIND "Ancient Warriors" monster
+All "Ancient Warriors" monsters you control gain 500 ATK/DEF. You can only use each of the following effects of "Ancient Warriors Oath - Double Dragon Lords" once per turn. If this card is Link Summoned: You can add 1 "Ancient Warriors" card from your Deck to your hand. (Quick Effect): You can send 1 card from your hand or field to the GY, then target 1 face-up card your opponent controls; return it to the hand.
+
+Type: Beast-Warrior
+Attribute: WIND
+Level: 0
+Attack: 1100
+Defence: 0
+Archetype: Ancient Warriors
+Present in Sets:
+- Rise of the Duelist

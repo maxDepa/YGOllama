@@ -1,0 +1,13 @@
+Hollow Giants
+Card Type: Spell Card
+
+Description: Activate this card only if both players control a monster that was Special Summoned from the Extra Deck. Negate the effects of face-up monsters Special Summoned from the Extra Deck. If a monster(s) is destroyed by battle involving 2 monsters that were Special Summoned from the Extra Deck: Send this card to the GY, also the player(s) who controlled the destroyed monster(s) takes 1000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Overload

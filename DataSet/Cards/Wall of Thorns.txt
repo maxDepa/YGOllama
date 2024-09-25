@@ -1,0 +1,14 @@
+Wall of Thorns
+Card Type: Trap Card
+
+Description: When a Plant-Type monster you control is targeted for an attack: Destroy all Attack Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Crimson Crisis

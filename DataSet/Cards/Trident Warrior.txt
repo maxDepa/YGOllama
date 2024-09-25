@@ -1,0 +1,17 @@
+Trident Warrior
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 3 monster from your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Revolution
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony

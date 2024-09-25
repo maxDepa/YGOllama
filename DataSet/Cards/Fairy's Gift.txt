@@ -1,0 +1,14 @@
+Fairy's Gift
+Card Type: Normal Monster
+
+Description: This flying monster is known for delivering happiness to all.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards

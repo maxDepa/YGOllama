@@ -1,0 +1,16 @@
+Great Moth
+Card Type: Effect Monster
+
+Description: This monster cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing "Petit Moth" during your 4th turn after "Petit Moth" has been equipped with "Cocoon of Evolution".
+
+Type: Insect
+Attribute: EARTH
+Level: 8
+Attack: 2600
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

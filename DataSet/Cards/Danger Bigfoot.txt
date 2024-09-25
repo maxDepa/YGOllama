@@ -1,0 +1,16 @@
+Danger! Bigfoot!
+Card Type: Effect Monster
+
+Description: You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not "Danger! Bigfoot!", Special Summon 1 "Danger! Bigfoot!" from your hand, and if you do, draw 1 card. If this card is discarded: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of "Danger! Bigfoot!" once per turn.
+
+Type: Beast
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: Danger!
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- Maximum Gold: El Dorado
+- Structure Deck: Dark World

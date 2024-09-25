@@ -1,0 +1,21 @@
+Pitch-Black Warwolf
+Card Type: Effect Monster
+
+Description: Your opponent cannot activate Trap Cards during the Battle Phase.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- Starter Deck: Yuya

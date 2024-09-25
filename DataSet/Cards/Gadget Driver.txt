@@ -1,0 +1,13 @@
+Gadget Driver
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the Graveyard and select any number of face-up "Morphtronic" monsters you control. Change the battle position of the selected monster(s). This effect can be activated during either player's turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Gadget
+Present in Sets:
+- Crossroads of Chaos

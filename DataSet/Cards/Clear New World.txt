@@ -1,0 +1,15 @@
+Clear New World
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; destroy it, and if you do, Special Summon 1 monster from your Deck in Defense Position, with a different original Type and Attribute, whose Level is lower than that monster's original Level, but negate its effects. You can only activate 1 "Clear New World" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos
+- OTS Tournament Pack 22

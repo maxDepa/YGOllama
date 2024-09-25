@@ -1,0 +1,14 @@
+Gishki Abyss
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can add 1 "Gishki" monster with 1000 or less DEF from your Deck to your hand, except "Gishki Abyss".
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

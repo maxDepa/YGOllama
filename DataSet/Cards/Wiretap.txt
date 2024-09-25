@@ -1,0 +1,17 @@
+Wiretap
+Card Type: Trap Card
+
+Description: When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duel Devastator
+- OTS Tournament Pack 2

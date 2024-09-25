@@ -1,0 +1,14 @@
+Goldenhair, the Newest Plunder Patroll
+Card Type: Tuner Monster
+
+Description: You can send 1 other "Plunder Patroll" Monster Card from your hand or face-up field to the GY; Special Summon this card from your hand. If this card is in your GY: You can discard 1 card; Special Summon this card, but you cannot Special Summon for the rest of this turn, except "Plunder Patroll" monsters. You can only use each effect of "Goldenhair, the Newest Plunder Patroll" once per turn.
+
+Type: Fiend
+Attribute: WATER
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Plunder Patroll
+Present in Sets:
+- Eternity Code
+- Ghosts From the Past: The 2nd Haunting

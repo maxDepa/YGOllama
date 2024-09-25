@@ -1,0 +1,15 @@
+Shien's Dojo
+Card Type: Spell Card
+
+Description: Each time a "Six Samurai" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. You can send this card to the GY; Special Summon 1 "Six Samurai" or "Shien" Effect Monster from your Main Deck, whose Level is less than or equal to the number of Bushido Counters on this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Extreme Victory
+- Samurai Warlords Structure Deck
+- Spirit Warriors

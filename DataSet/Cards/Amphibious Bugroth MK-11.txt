@@ -1,0 +1,14 @@
+Amphibious Bugroth MK-11
+Card Type: Effect Monster
+
+Description: While "Umi" is not on the field, this card gains 700 ATK, also it cannot attack directly. While "Umi" is on the field: You can target 1 face-up non-WATER monster on the field; destroy it. You can only use this effect of "Amphibious Bugroth MK-11" once per turn.
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 1850
+Defence: 1500
+Archetype: Bugroth
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

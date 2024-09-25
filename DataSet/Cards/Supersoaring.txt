@@ -1,0 +1,13 @@
+Supersoaring
+Card Type: Trap Card
+
+Description: Target 1 Dinosaur monster that is banished or in either GY; Special Summon it to your field. You can only activate 1 "Supersoaring" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Wild Survivors

@@ -1,0 +1,14 @@
+Shinobird Crow
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. Once per turn, during either player's Damage Step, when this card battles an opponent's monster: You can discard 1 Spirit monster; until the end of the Battle Phase, this card gains ATK and DEF equal to the ATK and DEF of the discarded monster. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Shinobird
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

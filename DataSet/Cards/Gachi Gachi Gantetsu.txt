@@ -1,0 +1,16 @@
+Gachi Gachi Gantetsu
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters 
+If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Face-up monsters you control gain 200 ATK and DEF for each Xyz Material attached to this card.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Starter Deck: Dawn of the Xyz

@@ -1,0 +1,15 @@
+Charm of Shabti
+Card Type: Effect Monster
+
+Description: During either player's turn: You can discard this card; until the End Phase, "Gravekeeper's" monsters you control cannot be destroyed by battle.
+
+Type: Rock
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian

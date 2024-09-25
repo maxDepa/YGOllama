@@ -1,0 +1,12 @@
+Phantasm Spiral Token
+Card Type: Token
+
+Description: Summoned by the effect of "Pacifis, the Phantasm City".
+
+Type: Wyrm
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Phantasm Spiral
+Present in Sets:

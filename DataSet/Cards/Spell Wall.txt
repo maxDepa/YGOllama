@@ -1,0 +1,15 @@
+Spell Wall
+Card Type: Spell Card
+
+Description: Activate 1 of these effects. Your opponent takes no further damage this turn.
+● During this turn, no Summon of a Spellcaster-Type monster can be negated, and when a Spellcaster-Type monster is Summoned, your opponent cannot activate cards or effects.
+● Target 1 Spellcaster-Type monster you control; if it attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

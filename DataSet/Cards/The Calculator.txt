@@ -1,0 +1,18 @@
+The Calculator
+Card Type: Effect Monster
+
+Description: The ATK of this card is the combined Levels of all face-up monsters you control x 300.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 2
+Attack: -1
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Demo Pack
+- Phantom Darkness
+- Saber Force Starter Deck

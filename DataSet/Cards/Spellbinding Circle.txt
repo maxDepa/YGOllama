@@ -1,0 +1,25 @@
+Spellbinding Circle
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Scars of Battle
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Yugi's Legendary Decks

@@ -1,0 +1,15 @@
+Nordic Relic Draupnir
+Card Type: Spell Card
+
+Description: Equip only to an "Aesir" or "Nordic" monster. It gains 800 ATK. If this face-up card on the field is destroyed by a card effect: You can add 1 "Nordic Relic" card from your Deck to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

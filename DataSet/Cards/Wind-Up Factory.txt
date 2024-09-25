@@ -1,0 +1,14 @@
+Wind-Up Factory
+Card Type: Spell Card
+
+Description: Once per turn, if an effect of a "Wind-Up" monster is activated (except during the Damage Step): You can add 1 Level 4 or lower "Wind-Up" monster from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Wind-Up
+Present in Sets:
+- Generation Force
+- Turbo Pack: Booster Eight

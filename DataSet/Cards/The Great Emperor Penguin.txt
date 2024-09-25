@@ -1,0 +1,15 @@
+The Great Emperor Penguin
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon up to 2 "Penguin" monsters from your Deck, except "The Great Emperor Penguin".
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: Penguin
+Present in Sets:
+- Generation Force
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)

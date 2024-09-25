@@ -1,0 +1,48 @@
+Dust Tornado
+Card Type: Trap Card
+
+Description: Target 1 Spell/Trap your opponent controls; destroy that target, then you can Set 1 Spell/Trap from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dark Beginning 1
+- Dark Legion Starter Deck
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Rise of the Dragon Lords Structure Deck
+- Saber Force Starter Deck
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 3
+- Speed Duel: Attack from the Deep
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck 2006
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Jaden Yuki
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Fury from the Deep
+- Structure Deck: Lord of the Storm
+- Structure Deck: Zombie Madness
+- Super Starter: Space-Time Showdown
+- Super Starter: V for Victory
+- Zombie World Structure Deck

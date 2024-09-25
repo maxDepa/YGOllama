@@ -1,0 +1,13 @@
+Ido the Supreme Magical Force
+Card Type: Effect Monster
+
+Description: You cannot Summon monsters. You can only control 1 "Ido the Supreme Magical Force". If this card is destroyed by a card effect and sent to the Graveyard, Special Summon it from your Graveyard during the next turn's Standby Phase and destroy all other monsters you control.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Crimson Crisis

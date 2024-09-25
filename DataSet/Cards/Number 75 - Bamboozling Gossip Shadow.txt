@@ -1,0 +1,16 @@
+Number 75: Bamboozling Gossip Shadow
+Card Type: XYZ Monster
+
+Description: 2+ Level 3 monsters
+Once per turn, when an opponent's monster activates its effect (Quick Effect): You can detach 2 materials from this card; the activated effect becomes "both players draw 1 card". You can target 1 other "Number" Xyz Monster you control; attach this card to it as material. (Transfer its materials to that monster.) You can only use this effect of "Number 75: Bamboozling Gossip Shadow" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- Toon Chaos

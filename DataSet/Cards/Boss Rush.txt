@@ -1,0 +1,14 @@
+Boss Rush
+Card Type: Spell Card
+
+Description: You cannot Normal Summon or Set. During the End Phase of the turn that a "B.E.S." monster or a "Big Core" is destroyed and sent to the Graveyard, you can Special Summon 1 "B.E.S." monster or 1 "Big Core" from your Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: B.E.S.
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy

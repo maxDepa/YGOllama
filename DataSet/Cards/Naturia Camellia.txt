@@ -1,0 +1,14 @@
+Naturia Camellia
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "Naturia" card from your Deck to the GY. If you would Tribute a monster(s) to activate a "Naturia" monster's effect, you can send the top 2 cards of your Deck to the GY instead. If your opponent Normal or Special Summons a monster (except during the Damage Step): You can Special Summon 1 "Naturia" monster from your GY. You can only use each effect of "Naturia Camellia" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 700
+Archetype: Naturia
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

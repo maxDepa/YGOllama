@@ -1,0 +1,22 @@
+Spirit Reaper
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Champion Pack: Game Three
+- Dark Revelation Volume 1
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Premium Gold
+- Structure Deck: Zombie Madness
+- Zombie World Structure Deck

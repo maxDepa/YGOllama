@@ -1,0 +1,17 @@
+The Agent of Judgment - Saturn
+Card Type: Effect Monster
+
+Description: While your Life Points are higher than your opponent's, you can Tribute this card to inflict damage to your opponent equal to the difference. If you do not control a face-up "The Sanctuary in the Sky", this effect is not applied. You cannot conduct your Battle Phase the turn you activate this effect.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 0
+Archetype: The Agent
+Present in Sets:
+- Ancient Sanctuary
+- Champion Pack: Game Three
+- Dark Revelation Volume 2
+- Ghosts From the Past: The 2nd Haunting
+- Lost Sanctuary Structure Deck

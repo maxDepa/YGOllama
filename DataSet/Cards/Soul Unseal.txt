@@ -1,0 +1,12 @@
+Soul Unseal
+Card Type: Spell Card
+
+Description: If your opponent controls a monster and you control a Normal Monster: Choose 5 Normal Monsters in your Deck, add 1 of them to your hand and banish the rest.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

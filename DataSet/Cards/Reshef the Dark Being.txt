@@ -1,0 +1,15 @@
+Reshef the Dark Being
+Card Type: Ritual Effect Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Final Ritual of the Ancients". Once per turn, by discarding 1 Spell Card from your hand, take control of 1 monster on your opponent's side of the field until the end of this turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

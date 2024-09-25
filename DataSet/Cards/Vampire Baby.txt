@@ -1,0 +1,19 @@
+Vampire Baby
+Card Type: Effect Monster
+
+Description: At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 700
+Defence: 1000
+Archetype: Vampire
+Present in Sets:
+- Dark Beginning 1
+- Duelist League 16 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel GX: Duelists of Shadows

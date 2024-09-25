@@ -1,0 +1,13 @@
+Ghost Meets Girl - A Shiranui's Story
+Card Type: Spell Card
+
+Description: If your opponent controls a monster: Discard 1 Zombie monster; Special Summon 1 "Shiranui" monster with a different name from your Deck or GY, also you cannot Special Summon monsters, except Zombie monsters, for the rest of this turn after this card resolves. You can only activate 1 "Ghost Meets Girl - A Shiranui's Story" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- Savage Strike

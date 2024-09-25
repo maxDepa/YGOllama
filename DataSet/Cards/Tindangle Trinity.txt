@@ -1,0 +1,14 @@
+Tindangle Trinity
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 "Tindangle Base Gardna" from your Deck.
+If this card was flipped face-up, your "Tindangle" monsters cannot be destroyed by battle. If this card is sent to the GY as Link Material for the Link Summon of a "Tindangle" monster: You can add 1 "Gergonne's End" from your Deck to your hand, and if you do, send 1 Spell/Trap from your Deck to the GY. You can only use this effect of "Tindangle Trinity" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 1500
+Archetype: Tindangle
+Present in Sets:
+- Flames of Destruction

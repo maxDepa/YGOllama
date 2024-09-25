@@ -1,0 +1,18 @@
+Doom Dozer
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 Insect-Type monsters from your Graveyard, and cannot be Special Summoned by other ways. When this card inflicts Battle Damage to your opponent: Send the top card of their Deck to the Graveyard.
+
+Type: Insect
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist League 14 participation cards
+- Gold Series
+- Magnificent Mavens
+- Shadow of Infinity
+- Shadow of Infinity

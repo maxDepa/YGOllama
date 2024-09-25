@@ -1,0 +1,13 @@
+Ghost Sleeper, the Underworld Princess
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: You can add 1 "Ghost Fusion" from your Deck to your hand. If this card is in your GY, except the turn it was sent there: You can banish this card and discard 1 card, then target 1 of your banished Level 4 or higher Zombie monsters; add it to your hand. You can only use each effect of "Ghost Sleeper, the Underworld Princess" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 0
+Archetype: Underworld
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

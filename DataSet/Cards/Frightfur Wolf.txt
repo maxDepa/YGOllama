@@ -1,0 +1,16 @@
+Frightfur Wolf
+Card Type: Fusion Monster
+
+Description: "Edge Imp Sabres" + 1 or more "Fluffal" monsters
+Must be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. This card can attack a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1500
+Archetype: Edge Imp
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Fusion Enforcers
+- The New Challengers

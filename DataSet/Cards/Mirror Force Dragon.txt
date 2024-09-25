@@ -1,0 +1,17 @@
+Mirror Force Dragon
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "The Fang of Critias", using "Mirror Force". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 1200
+Archetype: Legendary Knight
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Collection Kaiba Mega Pack
+- Legendary Dragon Decks

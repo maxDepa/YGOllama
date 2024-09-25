@@ -1,0 +1,13 @@
+Stream, Dragon Ruler of Droplets
+Card Type: Effect Monster
+
+Description: You can discard this card AND 1 Dragon-Type or WATER monster; Special Summon 1 "Tidal, Dragon Ruler of Waterfalls" from your Deck. It cannot attack this turn. You can only use the effect of "Stream, Dragon Ruler of Droplets" once per turn.
+
+Type: Dragon
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

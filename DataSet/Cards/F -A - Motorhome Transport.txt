@@ -1,0 +1,17 @@
+F.A. Motorhome Transport
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Gains ATK equal to its Level x 300. Each time a "F.A." Spell/Trap Card or effect is activated: You can increase the Level of this card by 1. This card gains the following effect(s), based on its current Level.
+● Level 11 or higher: Cannot be destroyed by battle or card effects.
+● Level 13 or higher: Once per turn: You can target 1 "F.A." monster in your GY; Special Summon it.
+
+Type: Machine
+Attribute: LIGHT
+Level: 9
+Attack: 0
+Defence: 3000
+Archetype: F.A.
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

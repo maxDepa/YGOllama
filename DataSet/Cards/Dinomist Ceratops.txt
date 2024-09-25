@@ -1,0 +1,18 @@
+Dinomist Ceratops
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If another "Dinomist" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.
+
+[ Monster Effect ] 
+If all monsters you control are "Dinomist" monsters (min. 1), and none are "Dinomist Ceratops", you can Special Summon this card (from your hand).
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 2100
+Defence: 400
+Archetype: Dinomist
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

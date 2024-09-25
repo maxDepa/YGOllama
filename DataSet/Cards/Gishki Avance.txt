@@ -1,0 +1,14 @@
+Gishki Avance
+Card Type: Effect Monster
+
+Description: Once per turn: You can choose 1 "Gishki" monster from your Deck and place it on top of your Deck.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

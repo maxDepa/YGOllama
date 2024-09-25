@@ -1,0 +1,15 @@
+Master of Chaos
+Card Type: Fusion Monster
+
+Description: "Dark Magician" + 1 "Chaos" or "Black Luster Soldier" Ritual Monster
+If this card is Fusion Summoned: You can target 1 LIGHT or DARK monster in your GY; Special Summon it. You can Tribute 1 LIGHT and 1 DARK monster; banish all monsters your opponent controls. If this Fusion Summoned card is destroyed by battle or card effect: You can target 1 Spell in your GY; add it to your hand. You can only use each effect of "Master of Chaos" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Chaos
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

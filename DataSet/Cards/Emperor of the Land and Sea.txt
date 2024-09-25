@@ -1,0 +1,12 @@
+Emperor of the Land and Sea
+Card Type: Normal Monster
+
+Description: A reptilian monster that sprays fire in every direction.
+
+Type: Reptile
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:

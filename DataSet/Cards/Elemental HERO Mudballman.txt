@@ -1,0 +1,16 @@
+Elemental HERO Mudballman
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Bubbleman" + "Elemental HERO Clayman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 3000
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- McDonald's Promotional Cards 2
+- Ra Yellow Mega Pack

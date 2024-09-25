@@ -1,0 +1,13 @@
+Rise of the Fallen
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Special Summon 1 Level 4 or lower Fairy monster from your GY in Defense Position, and gain LP equal to its original ATK. This Skill can only be used once per Duel.
+
+Type: Ishizu Ishtar
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

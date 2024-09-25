@@ -1,0 +1,16 @@
+Tuningware
+Card Type: Effect Monster
+
+Description: This card can be treated as a Level 2 monster when used for a Synchro Summon. If this card is sent to the Graveyard for a Synchro Summon: Draw 1 card.
+
+Type: Machine
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 300
+Archetype: //
+Present in Sets:
+- Duelist League 14 participation cards
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- Synchron Extreme Structure Deck

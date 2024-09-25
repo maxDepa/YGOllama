@@ -1,0 +1,14 @@
+Superheavy Samurai Prepped Defense
+Card Type: Effect Monster
+
+Description: Cannot be Normal or Flip Summoned, if you have any Spell/Trap Cards in your Graveyard. When you take battle damage, if you have no Spell/Trap Cards in your Graveyard and this card is in your hand: You can Special Summon this card, and if you do, it cannot be destroyed by battle or card effects this turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 100
+Defence: 2100
+Archetype: Superheavy
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

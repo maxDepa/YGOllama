@@ -1,0 +1,13 @@
+Noble Knight's Shield-Bearer
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can banish 1 LIGHT monster from your GY; draw 1 card. You can banish this card from your hand or field; add 1 Level 6 or lower WIND Beast monster from your Deck to your hand. You can only use 1 "Noble Knight's Shield-Bearer" effect per turn, and only once that turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 1300
+Archetype: Noble Knight
+Present in Sets:
+- Brothers of Legend

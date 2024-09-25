@@ -1,0 +1,14 @@
+Gift Exchange
+Card Type: Spell Card
+
+Description: Both players banish 1 card from their Decks, face-down, and if they do, during the End Phase of this turn, both players add to their hands the card their opponent banished by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Maximum Crisis
+- Yu-Gi-Oh! Advent Calendar (2018)

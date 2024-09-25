@@ -1,0 +1,16 @@
+Lady Assailant of Flames
+Card Type: Flip Effect Monster
+
+Description: FLIP: Banish the top 3 cards of your Deck; inflict 800 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel Starter Decks: Twisted Nightmares

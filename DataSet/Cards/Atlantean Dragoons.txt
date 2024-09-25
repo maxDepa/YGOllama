@@ -1,0 +1,16 @@
+Atlantean Dragoons
+Card Type: Effect Monster
+
+Description: All Level 3 or lower Sea Serpent-Type monsters you control can attack your opponent directly. When this card is sent to the Graveyard to activate a WATER monster's effect: Add 1 Sea Serpent-Type monster from your Deck to your hand, except "Atlantean Dragoons".
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Atlantean
+Present in Sets:
+- Astral Pack Two
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Realm of the Sea Emperor Structure Deck

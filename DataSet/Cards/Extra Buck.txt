@@ -1,0 +1,15 @@
+Extra Buck
+Card Type: Trap Card
+
+Description: Each time a card(s) is added to your Extra Deck, place 1 Spell Counter on this card (max. 3). You can send this card with 3 Spell Counters to the GY; draw 2 cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Structure Deck: Order of the Spellcasters

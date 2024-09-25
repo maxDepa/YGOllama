@@ -1,0 +1,13 @@
+Megalith Emergence
+Card Type: Trap Card
+
+Description: You can target 1 "Megalith" monster in your GY; Special Summon it in Defense Position, but place it on the bottom of the Deck when it leaves the field (even if this card leaves the field). You can only use this effect of "Megalith Emergence" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Megalith
+Present in Sets:
+- Ignition Assault

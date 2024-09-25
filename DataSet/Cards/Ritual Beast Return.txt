@@ -1,0 +1,14 @@
+Ritual Beast Return
+Card Type: Spell Card
+
+Description: Banish 1 "Ritual Beast" monster from your hand, then target 1 of your "Ritual Beast" monsters, that is banished or is in your Graveyard; Special Summon it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ritual Beast
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

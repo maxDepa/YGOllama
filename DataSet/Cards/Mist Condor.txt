@@ -1,0 +1,15 @@
+Mist Condor
+Card Type: Effect Monster
+
+Description: You can Special Summon this card from your hand by returning 1 face-up "Mist Valley" monster you control to the hand. If you do, this card's ATK becomes 1700.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 400
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 1
+- Gold Series 3
+- OTS Tournament Pack 18 (POR)

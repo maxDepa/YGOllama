@@ -1,0 +1,14 @@
+Elder Entity Norden
+Card Type: Fusion Monster
+
+Description: 1 Synchro or Xyz Monster + 1 Synchro or Xyz Monster
+When this card is Special Summoned: You can target 1 Level 4 or lower monster in your Graveyard; Special Summon it, but its effects are negated, also banish it when this card leaves the field.
+
+Type: Fairy
+Attribute: WATER
+Level: 4
+Attack: 2000
+Defence: 2200
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tins

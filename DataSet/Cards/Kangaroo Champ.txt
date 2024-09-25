@@ -1,0 +1,14 @@
+Kangaroo Champ
+Card Type: Effect Monster
+
+Description: A monster that battles with this card is changed to Defense Position after damage calculation.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

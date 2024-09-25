@@ -1,0 +1,16 @@
+Forced Requisition
+Card Type: Trap Card
+
+Description: You can activate this card when you discard from your hand. After that, each time you discard from your hand, your opponent must also discard the same number of cards from his/her hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

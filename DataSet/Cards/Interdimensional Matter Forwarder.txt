@@ -1,0 +1,13 @@
+Interdimensional Matter Forwarder
+Card Type: Spell Card
+
+Description: You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster on the field whose effects are negated; banish it, then return it to the field. Before resolving an opponent's effect that targets this card on the field, banish this card, until the End Phase of the next turn. You can only use each effect of "Interdimensional Matter Forwarder" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

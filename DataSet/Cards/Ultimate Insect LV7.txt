@@ -1,0 +1,15 @@
+Ultimate Insect LV7
+Card Type: Effect Monster
+
+Description: If this card was Special Summoned by the effect of "Ultimate Insect LV5", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.
+
+Type: Insect
+Attribute: WIND
+Level: 7
+Attack: 2600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

@@ -1,0 +1,19 @@
+Performapal Lizardraw
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you have a "Performapal" card in your other Pendulum Zone, except "Performapal Lizardraw": You can destroy this card, and if you do, draw 1 card. You can only use this effect of "Performapal Lizardraw" once per turn.
+
+[ Monster Effect ] 
+If another face-up monster you control is destroyed by your opponent's attack or card effect: You can draw cards equal to the number of "Performapal" monsters you currently control. You can only use this effect of "Performapal Lizardraw" once per turn.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- OTS Tournament Pack 1

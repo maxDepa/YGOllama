@@ -1,0 +1,12 @@
+Bat
+Card Type: Normal Monster
+
+Description: A mechanical bat that drops blasts from its wings.
+
+Type: Machine
+Attribute: WIND
+Level: 1
+Attack: 300
+Defence: 350
+Archetype: //
+Present in Sets:

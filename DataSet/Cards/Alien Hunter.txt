@@ -1,0 +1,13 @@
+Alien Hunter
+Card Type: Effect Monster
+
+Description: If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Alien
+Present in Sets:
+- Power of the Duelist

@@ -1,0 +1,13 @@
+Predapruning
+Card Type: Spell Card
+
+Description: Activate this card by targeting 1 "Predaplant" monster in your Graveyard; Special Summon it and equip it with this card. When this card leaves the field, destroy that monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Predaplant
+Present in Sets:
+- Fusion Enforcers

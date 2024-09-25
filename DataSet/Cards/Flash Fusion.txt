@@ -1,0 +1,15 @@
+Flash Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. Destroy it during the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Hidden Summoners

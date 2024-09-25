@@ -1,0 +1,20 @@
+Dark Scorpion - Gorg the Strong
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:
+● Target 1 monster your opponent controls; return that target to the top of the Deck.
+● Send the top card of their Deck to the Graveyard.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: Dark Scorpion
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City

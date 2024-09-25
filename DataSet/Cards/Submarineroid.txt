@@ -1,0 +1,21 @@
+Submarineroid
+Card Type: Effect Monster
+
+Description: This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: Roid
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox
+- Speed Duel Tournament Pack 6
+- Starter Deck: Syrus Truesdale

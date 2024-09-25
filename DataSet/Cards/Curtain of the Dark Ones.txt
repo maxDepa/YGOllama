@@ -1,0 +1,13 @@
+Curtain of the Dark Ones
+Card Type: Normal Monster
+
+Description: A curtain that a spellcaster made, it is said to raise a dark power.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 500
+Archetype: //
+Present in Sets:
+- Astral Pack Three

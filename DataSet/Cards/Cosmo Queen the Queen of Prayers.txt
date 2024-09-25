@@ -1,0 +1,16 @@
+Cosmo Queen the Queen of Prayers
+Card Type: Effect Monster
+
+Description: If a Field Spell Card is activated: You can Special Summon this card from your hand in Defense Position. You can target 1 face-up card in the Field Zone, then activate the appropriate effect, based on which player controls that card;
+● You: Destroy it, and if you do, add 1 Field Spell from your Deck to your hand with a different name.
+● Your opponent: Negate its effects (until the end of this turn), and if you do, add 1 Field Spell from your Deck to your hand.
+You can only use each effect of "Cosmo Queen the Queen of Prayers" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2450
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

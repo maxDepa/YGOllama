@@ -1,0 +1,16 @@
+Amphibious Bugroth MK-3
+Card Type: Effect Monster
+
+Description: While "Umi" is face-up on the field, this card can attack your opponent's Life Points directly.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: Umi
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Structure Deck: Fury from the Deep

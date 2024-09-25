@@ -1,0 +1,14 @@
+Odd-Eyes Gravity Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Odd-Eyes Advent". When this card is Special Summoned: You can return all Spells and Traps your opponent controls to the hand. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use this effect of "Odd-Eyes Gravity Dragon" once per turn. Your opponent must pay 500 LP to activate card effects.
+
+Type: Dragon
+Attribute: EARTH
+Level: 7
+Attack: 2800
+Defence: 2500
+Archetype: Odd-Eyes
+Present in Sets:
+- Breakers of Shadow
+- Legendary Dragon Decks

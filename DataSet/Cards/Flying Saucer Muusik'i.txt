@@ -1,0 +1,13 @@
+Flying Saucer Muusik'i
+Card Type: Effect Monster
+
+Description: While this card is face-up on the field, you can select and add 1 "Alien" card from your Deck to your hand instead of conducting your normal draw during your Draw Phase.
+
+Type: Machine
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2000
+Archetype: Alien
+Present in Sets:
+- Power of the Duelist

@@ -1,0 +1,15 @@
+T.G. Halberd Cannon/Assault Mode
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned with "Assault Mode Activate". You can only use each of the following effects of "T.G. Halberd Cannon/Assault Mode" once per turn.
+● When your opponent would Summon a monster (Quick Effect): You can negate the Summon, and if you do, banish that monster and all Special Summoned monsters your opponent controls.
+● When this card on the field is destroyed: You can target 1 "T.G. Halberd Cannon" in your GY; Special Summon it, ignoring its Summoning conditions.
+
+Type: Machine
+Attribute: EARTH
+Level: 12
+Attack: 4500
+Defence: 4500
+Archetype: Assault Mode
+Present in Sets:
+- Dark Neostorm

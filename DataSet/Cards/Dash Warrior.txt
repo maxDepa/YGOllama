@@ -1,0 +1,14 @@
+Dash Warrior
+Card Type: Effect Monster
+
+Description: If this card attacks, it gains 1200 ATK during the Damage Step only.
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Duelist Revolution

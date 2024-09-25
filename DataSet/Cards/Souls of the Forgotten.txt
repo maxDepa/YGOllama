@@ -1,0 +1,15 @@
+Souls of the Forgotten
+Card Type: Normal Monster
+
+Description: A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 900
+Defence: 200
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

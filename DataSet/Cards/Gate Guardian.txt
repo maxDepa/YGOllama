@@ -1,0 +1,22 @@
+Gate Guardian
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Sanga of the Thunder", "Kazejin", and "Suijin".
+
+Type: Warrior
+Attribute: DARK
+Level: 11
+Attack: 3750
+Defence: 3400
+Archetype: Gate Guardian
+Present in Sets:
+- Dark Legends
+- Legendary Collection 4: Joey's World Mega Pack
+- Maze of Memories
+- Maze of Memories
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel GX: Midterm Paradox
+- Speed Duel GX: Midterm Paradox

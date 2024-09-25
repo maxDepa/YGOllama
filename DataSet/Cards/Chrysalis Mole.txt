@@ -1,0 +1,13 @@
+Chrysalis Mole
+Card Type: Effect Monster
+
+Description: You can Tribute this card while "Neo Space" is on the field to Special Summon 1 "Neo-Spacian Grand Mole" from your hand or Deck.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 100
+Archetype: Chrysalis
+Present in Sets:
+- Tactical Evolution

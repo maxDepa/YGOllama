@@ -1,0 +1,13 @@
+Photon Delta Wing
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: You can Special Summon 1 "Photon Delta Wing" from your hand or Deck in Defense Position, also you cannot Special Summon for the rest of this turn, except LIGHT monsters. Your opponent cannot declare an attack while you control another "Photon Delta Wing".
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 900
+Archetype: Photon
+Present in Sets:
+- Maze of Millennia

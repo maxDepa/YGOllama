@@ -1,0 +1,15 @@
+Wind-Up Juggler
+Card Type: Effect Monster
+
+Description: After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. This effect can be used only once while this card is face-up on the field.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Wind-Up
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Generation Force

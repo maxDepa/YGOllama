@@ -1,0 +1,13 @@
+Dust Knight
+Card Type: Flip Effect Monster
+
+Description: FLIP: Send 1 EARTH monster from your Deck to the Graveyard.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Return of the Duelist

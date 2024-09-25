@@ -1,0 +1,14 @@
+Until Noble Arms are Needed Once Again
+Card Type: Trap Card
+
+Description: Excavate cards from the top of your Deck, equal to the number of "Noble Arms" Equip Spells you control, and if you do, add 1 of them to your hand, also place the remaining cards on top of your Deck in any order. You can banish this card from your GY, except the turn this card was sent to the GY; Special Summon from your Deck, 1 "Noble Knight" monster with a different name from the cards you control or in your GY. You can only use this effect of "Until Noble Arms are Needed Once Again" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Noble Knight
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

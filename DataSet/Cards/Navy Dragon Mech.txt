@@ -1,0 +1,14 @@
+Navy Dragon Mech
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can target face-up cards your opponent controls, up to the number of Tuners in your GY; negate their effects until the end of this turn. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 Tuner in your GY; add it to your hand.
+
+Type: Machine
+Attribute: WATER
+Level: 9
+Attack: 2700
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dimension Force

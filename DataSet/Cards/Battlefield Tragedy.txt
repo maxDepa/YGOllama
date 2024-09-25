@@ -1,0 +1,13 @@
+Battlefield Tragedy
+Card Type: Spell Card
+
+Description: During your Main Phase 2, if no monsters battled each other this turn: You can discard 1 card; Set 1 "Battlefield Tragedy" directly from your Deck to your Spell & Trap Zone. You can only use this effect of "Battlefield Tragedy" once per turn. Once per turn, during the End Phase, if any monsters battled each other this turn: The turn player sends 5 cards from the top of their Deck to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

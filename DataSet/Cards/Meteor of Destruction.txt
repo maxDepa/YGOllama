@@ -1,0 +1,17 @@
+Meteor of Destruction
+Card Type: Spell Card
+
+Description: If your opponent's Life Points are higher than 3000: Inflict 1000 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Blaze of Destruction

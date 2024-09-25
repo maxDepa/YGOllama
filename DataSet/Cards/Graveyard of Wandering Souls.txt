@@ -1,0 +1,15 @@
+Graveyard of Wandering Souls
+Card Type: Trap Card
+
+Description: If this card is already face-up on the field:
+● If a monster you control is destroyed by battle and sent to the GY: Special Summon 1 "Fireball Token" (Pyro/FIRE/Level 1/ATK 100/DEF 100).
+● If a monster(s) in your hand and/or field is sent to the GY by an opponent's card effect: Special Summon as many "Fireball Tokens" as possible, up to the number of sent monsters. You can only use this effect of "Graveyard of Wandering Souls" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Overload

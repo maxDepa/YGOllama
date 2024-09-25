@@ -1,0 +1,14 @@
+Goblin Thief
+Card Type: Spell Card
+
+Description: Inflict 500 points of damage to your opponent's Life Points and increase your Life Points by 500 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

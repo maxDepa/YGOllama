@@ -1,0 +1,14 @@
+Nouvelles Restaurant "At Table"
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Recipe" card from your Deck or GY to your hand. Once per turn: You can place 1 Ritual Monster from your hand on the bottom of the Deck; draw 1 card. Once per turn, during your End Phase: You can target 2 cards in your GY, including a "Recipe" card; place them on the bottom of your Deck in any order, then draw 1 card. You can only activate 1 "Nouvelles Restaurant "At Table"" per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nouvelles
+Present in Sets:
+- Wild Survivors
+- Wild Survivors

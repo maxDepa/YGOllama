@@ -1,0 +1,17 @@
+D/D/D Chaos King Apocalypse
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can banish 2 "D/D" monsters from your Graveyard; Special Summon this card from your Pendulum Zone.
+
+[ Monster Effect ] 
+During your opponent's turn, if this card is in your hand or Graveyard: You can target 2 face-up Spell/Trap Cards you control; you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters, also destroy the targeted cards, and if you do, Special Summon this card (this is a Quick Effect). You can only use this effect of "D/D/D Chaos King Apocalypse" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2700
+Defence: 2000
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

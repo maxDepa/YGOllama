@@ -1,0 +1,14 @@
+Detonate Deleter
+Card Type: Link Monster
+
+Description: 2+ Cyberse monsters
+Once per turn, at the start of the Damage Step, when this card battles a face-up monster that is not a Link-3 or higher Link Monster: You can destroy that monster. Once per turn: You can Tribute 1 monster this card points to, then target 1 monster your opponent controls; destroy it.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2100
+Defence: 0
+Archetype: //
+Present in Sets:
+- Savage Strike

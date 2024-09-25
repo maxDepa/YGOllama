@@ -1,0 +1,14 @@
+Borrelcode Dragon
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+This card cannot be destroyed by card effects while a Link Monster points to it. You can only use each of the following effects of "Borrelcode Dragon" once per turn. At the start of the Damage Step, if this card that was Link Summoned using 3 monsters as material battles an opponent's monster: You can destroy all monsters on the field. You can banish this card from your GY; banish 1 DARK monster with 3000 or more ATK from the field, and if you do, Special Summon 1 "Topologic" monster from your Extra Deck or GY.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: Borrel
+Present in Sets:
+- Burst of Destiny

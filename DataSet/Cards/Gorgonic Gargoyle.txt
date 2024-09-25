@@ -1,0 +1,14 @@
+Gorgonic Gargoyle
+Card Type: Effect Monster
+
+Description: When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.
+
+Type: Rock
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: Gorgonic
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

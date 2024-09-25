@@ -1,0 +1,14 @@
+Oracle of the Herald
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Herald of Ultimateness". You must also Tribute monsters from your hand or field whose total Levels equal 12 or more. Your opponent cannot activate cards or effects in response to this card's activation.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Herald
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

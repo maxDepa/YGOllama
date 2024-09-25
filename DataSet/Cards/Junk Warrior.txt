@@ -1,0 +1,20 @@
+Junk Warrior
+Card Type: Synchro Monster
+
+Description: "Junk Synchron" + 1 or more non-Tuner monsters
+If this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 1300
+Archetype: Junk
+Present in Sets:
+- Duelist League 3 participation cards
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- Maze of Millennia
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Synchron Extreme Structure Deck

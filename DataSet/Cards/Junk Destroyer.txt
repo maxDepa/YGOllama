@@ -1,0 +1,15 @@
+Junk Destroyer
+Card Type: Synchro Monster
+
+Description: "Junk Synchron" + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: You can target cards on the field, up to the number of non-Tuner monsters used for the Synchro Summon of this card; destroy those targets.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2600
+Defence: 2500
+Archetype: Junk
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Starter Deck: Duelist Toolbox

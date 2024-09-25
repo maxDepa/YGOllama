@@ -1,0 +1,15 @@
+Witchcrafter Golem Aruru
+Card Type: Effect Monster
+
+Description: When your opponent activates a card or effect that targets a Spellcaster monster(s) you control, or targets it for an attack (Quick Effect): You can target 1 card your opponent controls, or 1 "Witchcrafter" Spell in your GY; Special Summon this card from your hand, and if you do, return that targeted card to the hand. You can only use this effect of "Witchcrafter Golem Aruru" once per turn. Once per turn, during your opponent's Standby Phase: Return this card to the hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 0
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage
+- Structure Deck: Spirit Charmers

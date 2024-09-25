@@ -1,0 +1,16 @@
+Neo Flamvell Hedgehog
+Card Type: Tuner Monster
+
+Description: If this card is destroyed by battle, select 1 card in your opponent's Graveyard and remove it from play. If this card on the field is destroyed by a card effect, select 1 FIRE monster with 200 or less DEF in your Graveyard, except "Neo Flamvell Hedgehog", and add it to your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

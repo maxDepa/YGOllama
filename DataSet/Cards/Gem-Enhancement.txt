@@ -1,0 +1,14 @@
+Gem-Enhancement
+Card Type: Trap Card
+
+Description: Tribute 1 "Gem-Knight" monster, then target 1 "Gem-Knight" monster in your Graveyard; Special Summon that target from the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

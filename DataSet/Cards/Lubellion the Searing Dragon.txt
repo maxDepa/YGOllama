@@ -1,0 +1,16 @@
+Lubellion the Searing Dragon
+Card Type: Fusion Monster
+
+Description: 1 DARK monster + "Fallen of Albaz"
+If this card is Fusion Summoned: You can discard 1 card; Fusion Summon 1 Level 8 or lower Fusion Monster from your Extra Deck, except "Lubellion the Searing Dragon", by shuffling Fusion Materials mentioned on it into the Deck, from your monsters on the field, GY, and/or face-up banished cards. For the rest of this turn, this card cannot attack, also you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters. You can only use this effect of "Lubellion the Searing Dragon" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 3000
+Archetype: Albaz Dragon
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- Structure Deck: Albaz Strike

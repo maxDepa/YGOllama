@@ -1,0 +1,16 @@
+Sand Moth
+Card Type: Effect Monster
+
+Description: When this face-down Defense Position card is destroyed and sent to the Graveyard, except by battle, switch the original ATK and DEF of this card and Special Summon it.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Invincible Fortress

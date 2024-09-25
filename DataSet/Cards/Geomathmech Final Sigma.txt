@@ -1,0 +1,15 @@
+Geomathmech Final Sigma
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Unaffected by card effects, except "Mathmech" cards, while in the Extra Monster Zone. If this card in the Extra Monster Zone battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can add 1 "Mathmech" card from your Deck to your hand. You can only use this effect of "Geomathmech Final Sigma" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 12
+Attack: 3000
+Defence: 0
+Archetype: Mathmech
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Mystic Fighters

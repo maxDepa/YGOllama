@@ -1,0 +1,14 @@
+Conquistador of the Golden Land
+Card Type: Trap Card
+
+Description: Special Summon this card as a Normal Monster (Zombie/LIGHT/Level 5/ATK 500/DEF 1800) (this card is also still a Trap), then, if you control "Eldlich the Golden Lord", you can destroy 1 face-up card on the field. During the End Phase: You can banish this card from your GY; Set 1 "Eldlixir" Spell/Trap directly from your Deck. You can only use 1 "Conquistador of the Golden Land" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Golden Land
+Present in Sets:
+- Maximum Gold: El Dorado
+- Secret Slayers

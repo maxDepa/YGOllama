@@ -1,0 +1,18 @@
+Miracle Locus
+Card Type: Trap Card
+
+Description: Target 1 face-up Attack Position monster you control; your opponent draws 1 card, also that monster gains 1000 ATK until the end of this turn, and if it does, it can make up to 2 attacks on monsters during each Battle Phase this turn. If it attacks or is attacked this turn, your opponent takes no battle damage from that attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Pack: Yusei 2
+- Raging Battle

@@ -1,0 +1,14 @@
+Magikey Unlocking
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell/Trap Card while you control a "Magikey" Ritual Monster or a "Magikey" monster Special Summoned from the Extra Deck: Negate the activation, and if you do, destroy that card, then you can declare 1 Attribute, and if you do that, for the rest of this turn all face-up monsters your opponent controls become that Attribute. You can only activate 1 "Magikey Unlocking" per turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magikey
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

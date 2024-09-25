@@ -1,0 +1,14 @@
+Pendulum Hole
+Card Type: Trap Card
+
+Description: When a monster(s) would be Pendulum Summoned: Negate the Pendulum Summon, and if you do, shuffle that monster(s) into the Deck.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

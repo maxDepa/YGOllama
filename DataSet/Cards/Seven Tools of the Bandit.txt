@@ -1,0 +1,31 @@
+Seven Tools of the Bandit
+Card Type: Trap Card
+
+Description: When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Legendary Collection 3: Yugi's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 5
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Joey
+- Starter Deck: Pegasus
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yugi Evolution
+- Super Starter: Space-Time Showdown
+- Turbo Pack: Booster Five

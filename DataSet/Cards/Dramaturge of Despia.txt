@@ -1,0 +1,15 @@
+Dramaturge of Despia
+Card Type: Effect Monster
+
+Description: If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of "Dramaturge of Despia" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 1500
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty
+- Ghosts From the Past: The 2nd Haunting

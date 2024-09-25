@@ -1,0 +1,13 @@
+Puppet King
+Card Type: Effect Monster
+
+Description: When your opponent adds a Monster Card(s) to their hand, except by drawing, you can Special Summon this card from your hand. If you do, destroy it during your next turn's End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2800
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Crimson Crisis

@@ -1,0 +1,24 @@
+Mind Crush
+Card Type: Trap Card
+
+Description: Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight
+- Dark Revelation Volume 3
+- Gates of the Underworld Structure Deck
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Structure Deck: Dark World
+- Structure Deck: Lair of Darkness

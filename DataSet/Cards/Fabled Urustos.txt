@@ -1,0 +1,16 @@
+Fabled Urustos
+Card Type: Effect Monster
+
+Description: While you have 2 or less cards in your hand, all face-up "Fabled" monsters you control gain 400 ATK.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 200
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

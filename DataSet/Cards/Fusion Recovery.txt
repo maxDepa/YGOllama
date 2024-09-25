@@ -1,0 +1,19 @@
+Fusion Recovery
+Card Type: Spell Card
+
+Description: Target 1 "Polymerization" in your GY, and 1 monster in your GY that was used as material for a Fusion Summon; add them to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Fusion Enforcers
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Attack from the Deep

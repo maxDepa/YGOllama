@@ -1,0 +1,18 @@
+Mayakashi Mayhem
+Card Type: Trap Card
+
+Description: If a Zombie Synchro Monster(s) is Special Summoned, except from the Extra Deck, even during the Damage Step: You can apply 1 of the following effects. You cannot apply that same effect of "Mayakashi Mayhem" for the rest of this turn.
+● Draw 1 card.
+● Set 1 "Mayakashi" Spell/Trap directly from your Deck, except "Mayakashi Mayhem".
+● Send the 1 monster with the lowest ATK your opponent controls to the GY (your choice, if tied).
+● Inflict 800 damage to your opponent.
+You can only activate the effect of "Mayakashi Mayhem" once per Chain.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mayakashi
+Present in Sets:
+- Duel Overload

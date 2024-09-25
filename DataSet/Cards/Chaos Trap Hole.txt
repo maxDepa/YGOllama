@@ -1,0 +1,16 @@
+Chaos Trap Hole
+Card Type: Trap Card
+
+Description: When a LIGHT or DARK monster(s) would be Summoned: Pay 2000 LP; negate the Summon of the LIGHT and DARK monster(s), and if you do, banish it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chaos
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- OTS Tournament Pack 3
+- Speed Duel GX: Duelists of Shadows
+- The Shining Darkness

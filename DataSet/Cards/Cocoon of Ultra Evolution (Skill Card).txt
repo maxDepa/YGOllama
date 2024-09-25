@@ -1,0 +1,17 @@
+Cocoon of Ultra Evolution (Skill Card)
+Card Type: Skill Card
+
+Description: Activate the following Skill(s) during your Main Phase.
+● You can Tribute 1 Insect monster from either field equipped with an Equip Card, and if you do, Special Summon 1 Insect monster from your Deck, ignoring its Summoning conditions, also flip this card over.
+● You can shuffle 1 Insect monster from your GY into the Deck, then draw 1 card, also flip this card over.
+Each of these Skills can only be used once per Duel.
+
+Type: Weevil
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 3
+- Speed Duel: Trials of the Kingdom

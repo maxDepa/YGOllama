@@ -1,0 +1,17 @@
+Speedroid Hexasaucer
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 of your WIND Synchro Monsters that is banished or in your GY; return it to the Extra Deck. You can only use this effect of "Speedroid Hexasaucer" once per turn.
+
+[ Monster Effect ] 
+Both players take any battle damage from attacks involving this card. Any battle damage from battles involving this card is halved. If this card is destroyed in the Pendulum Zone: You can Special Summon 1 face-up "Speedroid" Pendulum Monster from your Extra Deck.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 100
+Defence: 1600
+Archetype: Speedroid
+Present in Sets:
+- Duel Overload

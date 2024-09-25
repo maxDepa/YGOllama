@@ -1,0 +1,17 @@
+Tyranno Infinity
+Card Type: Effect Monster
+
+Description: The original ATK of this card is the number of your banished Dinosaur-Type monsters x 1000.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: -1
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Dinosmasher's Fury Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dinosaur's Rage

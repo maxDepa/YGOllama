@@ -1,0 +1,24 @@
+Goyo Guardian
+Card Type: Synchro Monster
+
+Description: 1 EARTH Tuner + 1 or more non-Tuner monsters
+When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field in Defense Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2800
+Defence: 2000
+Archetype: Guardian
+Present in Sets:
+- Battles of Legend: Armageddon
+- Collectible Tins Exclusive 2008
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Duelist Saga
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 5D's Mega Pack
+- Premium Gold: Return of the Bling
+- The Duelist Genesis
+- The Duelist Genesis

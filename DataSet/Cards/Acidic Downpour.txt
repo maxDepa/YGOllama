@@ -1,0 +1,13 @@
+Acidic Downpour
+Card Type: Spell Card
+
+Description: All EARTH monsters lose 500 ATK and gain 400 DEF.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

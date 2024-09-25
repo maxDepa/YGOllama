@@ -1,0 +1,14 @@
+Genomix Fighter
+Card Type: Tuner Monster
+
+Description: You can Normal Summon this card without Tributing, but its original ATK is halved and its Level becomes 3. Once per turn: You can declare 1 Monster Type; if this card is used as a Synchro Material Monster this turn, treat this card and the other Synchro Material Monsters as that Monster Type for that Synchro Summon. If you activate this effect, you cannot Normal or Special Summon monsters for the rest of this turn, except monsters with the declared Monster Type.
+
+Type: Psychic
+Attribute: WIND
+Level: 6
+Attack: 2200
+Defence: 1100
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

@@ -1,0 +1,23 @@
+Doomcaliber Knight
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. If a monster effect is activated (Quick Effect): Tribute this face-up card; negate the activation, and if you do, destroy that monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Saga
+- Gold Series 4: Pyramids Edition
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Premium Gold: Return of the Bling
+- Shonen Jump Championship 2008 Prize Card
+- Turbo Pack: Booster One

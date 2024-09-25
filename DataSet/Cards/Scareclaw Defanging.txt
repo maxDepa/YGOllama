@@ -1,0 +1,13 @@
+Scareclaw Defanging
+Card Type: Spell Card
+
+Description: Your opponent cannot target "Scareclaw" Link Monsters or "Visas Starfrost" you control with card effects, also they cannot be destroyed by your opponent's card effects. Banish any monster destroyed by battle with a "Scareclaw" Link Monster or "Visas Starfrost" you control. You can banish 1 "Scareclaw" Link Monster from your field or GY, then target 1 card your opponent controls; destroy it. You can only use this effect of "Scareclaw Defanging" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Scareclaw
+Present in Sets:
+- Photon Hypernova

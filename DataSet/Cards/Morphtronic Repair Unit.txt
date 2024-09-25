@@ -1,0 +1,13 @@
+Morphtronic Repair Unit
+Card Type: Spell Card
+
+Description: Send 1 "Morphtronic" monster from your hand to the Graveyard and select 1 "Morphtronic" monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Raging Battle

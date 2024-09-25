@@ -1,0 +1,13 @@
+Beasts of Phantom
+Card Type: Skill Card
+
+Description: During your Main Phase, discard 1 card, then Fusion Summon 1 "Chimera the Flying Mythical Beast" from your Extra Deck, using monsters from your hand or field as Fusion Material. During your End Phase, if "Chimera the Flying Mythical Beast" was Fusion Summoned this turn, you can add 1 "Phantom Beast" monster from your GY to your hand. Each of these Skills can only be used once per turn.
+
+Type: Yami Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chimera
+Present in Sets:
+- Speed Duel: Battle City Box

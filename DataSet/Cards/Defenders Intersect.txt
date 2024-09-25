@@ -1,0 +1,13 @@
+Defenders Intersect
+Card Type: Trap Card
+
+Description: Activate only during the Battle Phase. Defense Position monsters your opponent controls are changed to face-up Attack Position, and their effects are negated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starstrike Blast

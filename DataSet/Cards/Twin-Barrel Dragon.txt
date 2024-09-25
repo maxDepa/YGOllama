@@ -1,0 +1,18 @@
+Twin-Barrel Dragon
+Card Type: Effect Monster
+
+Description: When this card is Summoned: Target 1 card your opponent controls; toss a coin twice, and if the result is 2 Heads, destroy it.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- The Duelist Genesis

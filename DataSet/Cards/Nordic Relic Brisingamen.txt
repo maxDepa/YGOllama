@@ -1,0 +1,17 @@
+Nordic Relic Brisingamen
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control and 1 face-up monster your opponent controls; the ATK of the first target becomes equal to the original ATK of the second target, until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

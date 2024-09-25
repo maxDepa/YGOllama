@@ -1,0 +1,13 @@
+Dark Alligator
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 Reptile monster. When this card is Tribute Summoned: You can Special Summon "Alligator Tokens" (Reptile/DARK/Level 1/ATK 2000/DEF 0), up to the number of Reptile monsters Tributed for this card's Summon. If this Tribute Summoned card is destroyed by battle, or is destroyed by an opponent's card effect while in its owner's Monster Zone: You can add 1 Reptile monster from your Deck to your hand, except "Dark Alligator".
+
+Type: Reptile
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

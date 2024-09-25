@@ -1,0 +1,17 @@
+Beware the Brothers Paradox!
+Card Type: Skill Card
+
+Description: Apply the following Skills:
+● You can Normal Summon Level 7 monsters for 1 less Tribute.
+● You can Tribute Summon 1 Level 7 monster face-up, in addition to your Normal Summon/Set.
+● Your opponent takes no effect damage.
+● You can only attack with 1 monster each turn, but that monster can make a second attack on monsters during each Battle Phase.
+
+Type: Paradox Broth
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,14 @@
+Labradorite Dragon
+Card Type: Normal Tuner Monster
+
+Description: The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 0
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Shadow Specters
+- Structure Deck: Rokket Revolt

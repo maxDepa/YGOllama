@@ -1,0 +1,13 @@
+ARG☆S - Eteo the Dragon Slayer
+Card Type: Trap Card
+
+Description: Warrior monsters you control cannot be destroyed by card effects. Once per turn, when your opponent activates a card or effect: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 800/DEF 800) with the following effect (this card is also still a Trap), then, if you have any banished "ARG☆S" monster(s), you can return 1 card on the field to the hand.
+● Once per turn (Quick Effect): You can place this card in your Spell & Trap Zone face-up.
+
+Type: Warrior
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: ARG☆S
+Present in Sets:

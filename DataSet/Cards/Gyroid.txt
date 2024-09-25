@@ -1,0 +1,25 @@
+Gyroid
+Card Type: Effect Monster
+
+Description: Once per turn, this card cannot be destroyed by battle.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Roid
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Demo Deck 2015
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

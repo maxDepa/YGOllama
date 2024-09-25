@@ -1,0 +1,20 @@
+Skull Servant
+Card Type: Normal Monster
+
+Description: A skeletal ghost that isn't strong but can mean trouble in large numbers.
+
+Type: Zombie
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Skull Servant
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 1
+- Speed Duel Tournament Pack 3
+- Speed Duel: Arena of Lost Souls

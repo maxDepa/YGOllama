@@ -1,0 +1,14 @@
+World Legacy Struggle
+Card Type: Trap Card
+
+Description: Target Spells/Traps on the field, up to the number of co-linked monsters on the field; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

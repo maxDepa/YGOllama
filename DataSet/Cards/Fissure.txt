@@ -1,0 +1,37 @@
+Fissure
+Card Type: Spell Card
+
+Description: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dark Legends
+- Demo Pack
+- Geargia Rampage Structure Deck
+- Hobby League 2 participation card F
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack
+- Spellcaster's Command Structure Deck
+- Starter Deck 2006
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution

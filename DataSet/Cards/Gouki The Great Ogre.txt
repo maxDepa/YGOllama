@@ -1,0 +1,19 @@
+Gouki The Great Ogre
+Card Type: Link Monster
+
+Description: 2+ "Gouki" monsters
+All monsters on the field lose ATK equal to their original DEF. If this card would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to instead.
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 2600
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Duel Power
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

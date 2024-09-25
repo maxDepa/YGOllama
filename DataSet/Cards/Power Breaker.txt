@@ -1,0 +1,16 @@
+Power Breaker
+Card Type: Effect Monster
+
+Description: If this card in your possession is destroyed by your opponent's attack or card effect and sent to your Graveyard: Target 1 face-up Spell/Trap Card your opponent controls; destroy that target. If this card attacks, it is changed to Defense Position at the end of the Damage Step.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Starstrike Blast
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

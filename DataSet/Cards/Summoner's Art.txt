@@ -1,0 +1,20 @@
+Summoner's Art
+Card Type: Spell Card
+
+Description: Add 1 Level 5 or higher Normal Monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Master of Pendulum Structure Deck
+- Pendulum Evolution
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 2
+- Speed Duel: Streets of Battle City
+- Tactical Evolution

@@ -1,0 +1,15 @@
+Dwarf Star Dragon Planeter
+Card Type: Effect Monster
+
+Description: Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Level 7 LIGHT or DARK monster from your Deck to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories
+- Toon Chaos

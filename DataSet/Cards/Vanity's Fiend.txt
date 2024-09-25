@@ -1,0 +1,21 @@
+Vanity's Fiend
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Neither player can Special Summon monsters.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Champion Pack: Game Seven
+- Cyberdark Impact
+- Cyberdark Impact
+- Duel Devastator
+- OTS Tournament Pack 1
+- Structure Deck: Lair of Darkness

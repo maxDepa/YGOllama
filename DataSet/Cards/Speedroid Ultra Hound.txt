@@ -1,0 +1,13 @@
+Speedroid Ultra Hound
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 "Speedroid" card from your Deck to the GY. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Speedroid" monster in your GY; shuffle it into the Deck, and if you do, Special Summon 1 "Speedroid" Synchro Monster from your Extra Deck with the same Level but a different name, but negate its effects. You can only use this effect of "Speedroid Ultra Hound" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Speedroid
+Present in Sets:
+- Legendary Duelists: Synchro Storm

@@ -1,0 +1,14 @@
+Blackwing - Steam the Cloak
+Card Type: Tuner Monster
+
+Description: If this face-up card leaves the field: Special Summon 1 "Steam Token" (Aqua-Type/WIND/Level 1/ATK 100/DEF 100). If this card is in your Graveyard: You can Tribute 1 monster; Special Summon this card from the Graveyard. You can only use this effect of "Blackwing - Steam the Cloak" once per Duel. If this card Summoned this way is used as a Synchro Material Monster, all other Synchro Material Monsters must be "Blackwing" monsters.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Blackwing
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

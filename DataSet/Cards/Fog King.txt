@@ -1,0 +1,18 @@
+Fog King
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster, or no monsters, to Normal Summon (but not Set) this card. The ATK of this card becomes the combined original ATK of the Tributed monsters. Neither player can Tribute cards.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 7
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction
+- OTS Tournament Pack 2
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

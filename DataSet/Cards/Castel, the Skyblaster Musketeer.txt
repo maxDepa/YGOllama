@@ -1,0 +1,21 @@
+Castel, the Skyblaster Musketeer
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can detach 1 material from this card, then target 1 face-up monster on the field; change it to face-down Defense Position. You can detach 2 materials from this card, then target 1 other face-up card on the field; shuffle it into the Deck. You can only use 1 "Castel, the Skyblaster Musketeer" effect per turn, and only once that turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 2000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2015 Mega-Tins
+- Astral Pack Seven
+- Duel Devastator
+- Duelist Alliance
+- Duelist Saga
+- Premium Gold: Infinite Gold
+- The Grand Creators

@@ -1,0 +1,22 @@
+Raigeki Break
+Card Type: Trap Card
+
+Description: Discard 1 card, then target 1 card on the field; destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yuya
+- Super Starter: Space-Time Showdown

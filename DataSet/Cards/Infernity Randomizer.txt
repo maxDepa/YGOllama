@@ -1,0 +1,13 @@
+Infernity Randomizer
+Card Type: Effect Monster
+
+Description: Once per turn, while you have no cards in your hand, you can draw 1 card and reveal it. For a Monster Card drawn with this effect, inflict damage to your opponent equal to the Level of that monster x 200. For a Spell or Trap Card, you take 500 damage.
+
+Type: Warrior
+Attribute: DARK
+Level: 1
+Attack: 900
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- The Shining Darkness

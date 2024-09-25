@@ -1,0 +1,17 @@
+Terrorking Salmon
+Card Type: Normal Monster
+
+Description: A feared salmon, master of the Sea of Darkness. Its roe is the best delicacy in the World of Darkness.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

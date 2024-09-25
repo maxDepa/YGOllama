@@ -1,0 +1,13 @@
+Jioh the Gravity Ninja
+Card Type: Effect Monster
+
+Description: If this card is Normal/Special Summoned, or flipped face-up: You can target up to 2 face-up monsters on the field; change them to face-down Defense Position, and if you do, any opponent's monsters that were flipped by this effect cannot change their battle positions. If a monster on the field is flipped face-up, while this monster is face-up on the field (except during the Damage Step): You can target 1 card your opponent controls; destroy it. You can only use each effect of "Jioh the Gravity Ninja" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 2300
+Defence: 2900
+Archetype: Ninja
+Present in Sets:
+- Photon Hypernova

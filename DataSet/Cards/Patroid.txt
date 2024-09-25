@@ -1,0 +1,15 @@
+Patroid
+Card Type: Effect Monster
+
+Description: Once per turn, during your Main Phase, you can look at 1 face-down card your opponent controls, then return it to its original position.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: Roid
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Starter Deck: Syrus Truesdale

@@ -1,0 +1,23 @@
+Alexandrite Dragon
+Card Type: Normal Monster
+
+Description: Many of the czars' lost jewels can be found in the scales of this priceless dragon. Its creator remains a mystery, along with how they acquired the imperial treasures. But whosoever finds this dragon has hit the jackpot... whether they know it or not.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Legendary Decks II
+- Photon Shockwave
+- Photon Shockwave Sneak Peek Participation Card
+- Realm of Light Structure Deck
+- Saber Force Starter Deck
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Xyz Symphony

@@ -1,0 +1,15 @@
+Dice It
+Card Type: Trap Card
+
+Description: Roll a six-sided die. Apply this effect, depending on whose turn it is.
+● During your turn: Banish cards from your GY equal to the result. Then, if the result was 1, send 6 cards from the top of your Deck to the GY.
+● During your opponent's turn: Send cards from the top of your Deck to the GY equal to the result. Then, if the result was 6, banish 1 card from your GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dice
+Present in Sets:
+- Dark Neostorm

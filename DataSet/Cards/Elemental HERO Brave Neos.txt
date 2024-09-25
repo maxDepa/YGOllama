@@ -1,0 +1,14 @@
+Elemental HERO Brave Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + 1 Level 4 or lower Effect Monster
+Must be Fusion Summoned. Gains 100 ATK for each "Neo-Spacian" and "HERO" monster in your GY. When this card destroys an opponent's monster by battle: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card "Elemental HERO Neos" in its text.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Savage Strike

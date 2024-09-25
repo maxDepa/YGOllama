@@ -1,0 +1,12 @@
+Cyber Commander
+Card Type: Normal Monster
+
+Description: A strike force equipped with rocket launchers and bazookas.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 750
+Defence: 700
+Archetype: //
+Present in Sets:

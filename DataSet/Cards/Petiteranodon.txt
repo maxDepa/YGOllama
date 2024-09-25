@@ -1,0 +1,14 @@
+Petiteranodon
+Card Type: Effect Monster
+
+Description: If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or higher Dinosaur-Type monster from your Deck, but it cannot attack this turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dinosmasher's Fury Structure Deck
+- Wild Survivors

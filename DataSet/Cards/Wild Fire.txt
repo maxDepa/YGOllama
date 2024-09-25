@@ -1,0 +1,14 @@
+Wild Fire
+Card Type: Spell Card
+
+Description: Pay 500 Life Points. Destroy a face-up "Blaze Accelerator" card you control and destroy all monsters on the field. Then, Special Summon 1 "Wild Fire Token" (Pyro-Type/FIRE/Level 3/ATK 1000/DEF 1000) in Attack Position. Also, you cannot declare an attack this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blaze Accelerator
+Present in Sets:
+- Force of the Breaker
+- Speed Duel GX: Duel Academy Box

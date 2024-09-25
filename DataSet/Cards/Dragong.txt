@@ -1,0 +1,13 @@
+Dragong
+Card Type: Pendulum Normal Monster
+
+Description: ''This gong harbors the soul of an untamed dragon. It soars through the skies with an incredible roar, marshaling all those who hear its call to battle.''
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Clash of Rebellions

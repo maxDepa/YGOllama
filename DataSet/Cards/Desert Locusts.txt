@@ -1,0 +1,15 @@
+Desert Locusts
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: The turn player discards 1 card. You can only use this effect of "Desert Locusts" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Insect
+Attribute: EARTH
+Level: 6
+Attack: 1500
+Defence: 2400
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

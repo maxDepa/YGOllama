@@ -1,0 +1,15 @@
+Brotherhood of the Fire Fist - Coyote
+Card Type: Effect Monster
+
+Description: If you control a "Fire Formation" Spell/Trap Card, and no monsters, you can Special Summon this card (from your hand).
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 500
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Maximum Gold

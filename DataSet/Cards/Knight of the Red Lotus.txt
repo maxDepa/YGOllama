@@ -1,0 +1,13 @@
+Knight of the Red Lotus
+Card Type: Effect Monster
+
+Description: If you have exactly 3 Normal Monsters in your Graveyard, you can Special Summon this card from your hand by removing from play 2 Normal Monsters from your Graveyard. Once per turn, you can select and Special Summon 1 Level 4 or lower Normal Monster from your Graveyard.
+
+Type: Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

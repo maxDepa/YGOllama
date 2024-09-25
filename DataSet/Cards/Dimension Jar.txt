@@ -1,0 +1,14 @@
+Dimension Jar
+Card Type: Flip Effect Monster
+
+Description: FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

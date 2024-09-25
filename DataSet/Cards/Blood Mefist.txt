@@ -1,0 +1,15 @@
+Blood Mefist
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Once per turn, during your opponent's Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Championship Series 2011 Prize Card
+- Yu-Gi-Oh! Championship Series 2011 Prize Card

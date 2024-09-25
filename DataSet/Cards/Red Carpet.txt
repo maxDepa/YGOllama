@@ -1,0 +1,15 @@
+Red Carpet
+Card Type: Trap Card
+
+Description: If a Dragon-Type Synchro Monster is on the field: Target up to 2 "Resonator" monsters in your Graveyard; Special Summon them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Resonator
+Present in Sets:
+- Extreme Victory
+- High-Speed Riders
+- Legendary Collection 5D's Mega Pack

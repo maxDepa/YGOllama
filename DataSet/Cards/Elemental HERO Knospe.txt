@@ -1,0 +1,15 @@
+Elemental HERO Knospe
+Card Type: Effect Monster
+
+Description: Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up "Elemental HERO" monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 1000
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)

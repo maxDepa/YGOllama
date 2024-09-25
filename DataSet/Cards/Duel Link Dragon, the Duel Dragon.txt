@@ -1,0 +1,15 @@
+Duel Link Dragon, the Duel Dragon
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Synchro Monster
+During the Main Phase (Quick Effect): You can banish 1 "Power Tool" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 "Duel Dragon Token" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of "Duel Link Dragon, the Duel Dragon" once per turn. While you control "Duel Dragon Token", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Power Tool
+Present in Sets:
+- Yu-Gi-Oh! Championship Series 2019 prize card
+- Yu-Gi-Oh! Championship Series 2019 prize card

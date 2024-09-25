@@ -1,0 +1,27 @@
+Elemental HERO Neos Alius
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● This card's name becomes "Elemental HERO Neos" while on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1300
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Duel Terminal 6
+- Duel Terminal 6b
+- Duelist Pack: Jaden Yuki 3
+- Gold Series 2009
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Premium Gold: Return of the Bling
+- Ra Yellow Mega Pack
+- Tactical Evolution
+- Tactical Evolution

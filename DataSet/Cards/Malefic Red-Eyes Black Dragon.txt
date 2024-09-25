@@ -1,0 +1,16 @@
+Malefic Red-Eyes Black Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 "Red-Eyes Black Dragon" from your Deck. There can only be 1 "Malefic" monster on the field. Other monsters you control cannot declare an attack. If there is no face-up Field Spell on the field, destroy this card.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Malefic
+Present in Sets:
+- Legendary Duelists: Season 1
+- Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card
+- Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack
+- Yu-Gi-Oh! 3D Bonds Beyond Time Theater distribution card

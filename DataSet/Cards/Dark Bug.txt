@@ -1,0 +1,13 @@
+Dark Bug
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, select and Special Summon 1 Level 3 Tuner monster from your Graveyard. The effect(s) of that monster is negated.
+
+Type: Insect
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

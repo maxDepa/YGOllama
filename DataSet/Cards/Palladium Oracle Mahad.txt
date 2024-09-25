@@ -1,0 +1,16 @@
+Palladium Oracle Mahad
+Card Type: Effect Monster
+
+Description: When you draw this card: You can reveal this card; Special Summon it from your hand. If this card battles a DARK monster, its ATK is doubled during the Damage Step only. If this card is destroyed by battle or card effect: You can Special Summon 1 "Dark Magician" from your hand, Deck, or Graveyard.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Dark Magician
+Present in Sets:
+- Palladium Oracle Mahad Sweepstakes
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

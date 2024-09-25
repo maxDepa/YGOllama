@@ -1,0 +1,14 @@
+Cyber Archfiend
+Card Type: Effect Monster
+
+Description: At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to your normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Archfiend
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

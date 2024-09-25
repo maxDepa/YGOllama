@@ -1,0 +1,28 @@
+Megamorph
+Card Type: Spell Card
+
+Description: While your LP is lower than your opponent's, the equipped monster's ATK becomes double its original ATK. While your LP is higher, the equipped monster's ATK becomes half its original ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Cyber Dragon Revolution Structure Deck
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 4
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Kaiba Evolution
+- Structure Deck: Dinosaur's Rage
+- Structure Deck: Seto Kaiba
+- Tournament Pack 4
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

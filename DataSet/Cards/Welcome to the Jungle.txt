@@ -1,0 +1,13 @@
+Welcome to the Jungle
+Card Type: Skill Card
+
+Description: After damage calculation, if you took battle damage from a battle involving an opponent's monster and your Attack Position "Amazoness" monster, that opponent's monster loses ATK/DEF equal to the ATK of the "Amazoness" monster it battled, until the end of this turn.
+
+Type: Tania
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,15 @@
+Tripwire Beast
+Card Type: Normal Monster
+
+Description: This creature attacks with electromagnetic waves.
+
+Type: Thunder
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

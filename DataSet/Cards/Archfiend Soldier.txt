@@ -1,0 +1,21 @@
+Archfiend Soldier
+Card Type: Normal Monster
+
+Description: An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 1500
+Archetype: Archfiend
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Crisis
+- Dark Crisis
+- Dark Legion Starter Deck
+- Dark Revelation Volume 1
+- Speed Duel GX: Duelists of Shadows
+- Starter Deck: Syrus Truesdale

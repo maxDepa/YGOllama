@@ -1,0 +1,13 @@
+Giant Mech-Soldier
+Card Type: Normal Monster
+
+Description: This monster swings an earth-shaking axe that cannot be blocked by a common sword.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 1750
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Speed Duel: Trials of the Kingdom

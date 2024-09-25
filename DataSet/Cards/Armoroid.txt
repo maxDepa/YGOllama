@@ -1,0 +1,15 @@
+Armoroid
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned by Tributing at least 1 "roid" monster: Banish all Spells and Traps on the field.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 2700
+Defence: 2000
+Archetype: Roid
+Present in Sets:
+- Crimson Crisis
+- High-Speed Riders
+- Legendary Duelists

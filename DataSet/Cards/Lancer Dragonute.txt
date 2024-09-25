@@ -1,0 +1,14 @@
+Lancer Dragonute
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Legion Starter Deck
+- Extreme Victory

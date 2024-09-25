@@ -1,0 +1,15 @@
+The All-Seeing White Tiger
+Card Type: Normal Monster
+
+Description: A proud ruler of the jungle that some fear and others respect.
+
+Type: Beast
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 500
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

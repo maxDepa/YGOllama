@@ -1,0 +1,15 @@
+Garmr of the Nordic Beasts
+Card Type: Effect Monster
+
+Description: If this card battles a Level 4 or lower monster, after damage calculation: You can return that monster to the hand.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1900
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

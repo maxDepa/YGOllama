@@ -1,0 +1,17 @@
+Expressroid
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can target 2 "roid" monsters in your GY, except "Expressroid"; add those targets to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 400
+Defence: 1600
+Archetype: Roid
+Present in Sets:
+- Gladiator's Assault
+- High-Speed Riders
+- Legendary Duelists
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

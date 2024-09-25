@@ -1,0 +1,14 @@
+Jetroid
+Card Type: Effect Monster
+
+Description: At the time this card is selected as an attack target by an opponent's monster, you can activate Trap Card(s) from your hand.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Roid
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

@@ -1,0 +1,12 @@
+Crystron Inclusion
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Crystron" card from your Deck to your hand, except "Crystron Inclusion". The first time each of your "Crystron" monsters would be destroyed by battle each turn, it is not destroyed. You can banish this card from your GY, then target 1 "Crystron" monster in your GY; Special Summon it. You can only use this effect of "Crystron Inclusion" once per turn. You can only activate 1 "Crystron Inclusion" per turn.
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystron
+Present in Sets:

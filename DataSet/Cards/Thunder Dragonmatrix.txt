@@ -1,0 +1,16 @@
+Thunder Dragonmatrix
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard this card, then target 1 Thunder monster you control; it gains 500 ATK. If this card is banished, or sent from the field to the GY: You can add 1 "Thunder Dragonmatrix" from your Deck to your hand. You can only use 1 "Thunder Dragonmatrix" effect per turn, and only once that turn.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 2000
+Archetype: Thunder Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Soul Fusion

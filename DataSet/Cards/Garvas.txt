@@ -1,0 +1,12 @@
+Garvas
+Card Type: Normal Monster
+
+Description: A wicked beast that resembles a winged lion.
+
+Type: Beast
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 1700
+Archetype: //
+Present in Sets:

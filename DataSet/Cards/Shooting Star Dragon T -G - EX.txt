@@ -1,0 +1,16 @@
+Shooting Star Dragon T.G. EX
+Card Type: Synchro Monster
+
+Description: 1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters
+When a monster effect is activated that targets a monster(s) you control (Quick Effect): You can banish 1 Tuner from your GY; negate the activation, and if you do, destroy that card. You can only use each of the following effects of "Shooting Star Dragon T.G. EX" once per turn.
+● When an opponent's monster declares an attack: You can negate the attack.
+● During your opponent's turn, if this card is in your GY (Quick Effect): You can Tribute 2 Synchro Monsters; Special Summon this card.
+
+Type: Dragon
+Attribute: WIND
+Level: 10
+Attack: 3300
+Defence: 2500
+Archetype: T.G.
+Present in Sets:
+- Ghosts From the Past

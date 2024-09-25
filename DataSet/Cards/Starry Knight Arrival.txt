@@ -1,0 +1,16 @@
+Starry Knight Arrival
+Card Type: Trap Card
+
+Description: During the Main Phase: You can activate 1 of these effects;
+● Target 1 Level 7 LIGHT Dragon monster you control; return it to the hand.
+● Special Summon 1 Level 7 LIGHT Dragon monster from your hand.
+You can only use this effect of "Starry Knight Arrival" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

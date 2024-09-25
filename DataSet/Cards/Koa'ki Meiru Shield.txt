@@ -1,0 +1,13 @@
+Koa'ki Meiru Shield
+Card Type: Trap Card
+
+Description: Activate only when your opponent's monster declares an attack if you have 2 or more "Iron Core of Koa'ki Meiru" in your Graveyard. Destroy all face-up Attack Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- The Shining Darkness

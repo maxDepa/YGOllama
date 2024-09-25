@@ -1,0 +1,15 @@
+Red Rising Dragon
+Card Type: Synchro Monster
+
+Description: 1 Fiend Tuner + 1+ non-Tuner monsters
+When this card is Synchro Summoned: You can target 1 "Resonator" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 "Resonator" monsters in your GY; Special Summon both.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 1600
+Archetype: Resonator
+Present in Sets:
+- Savage Strike
+- Structure Deck: The Crimson King

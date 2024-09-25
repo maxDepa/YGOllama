@@ -1,0 +1,16 @@
+The First Monarch
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Fiend-Type/DARK/Level 6/ATK 1000/DEF 2400). (This card is also still a Trap Card.) If Summoned this way: You can discard 1 card, then declare 1 Attribute; this card becomes that Attribute, and can be treated as 2 Tributes for the Tribute Summon of a monster with the same Attribute as this card. If this card was Summoned this way, you cannot Special Summon monsters, except monsters with this card's Attribute.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Monarch
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Emperor of Darkness Structure Deck
+- Legacy of the Valiant
+- Maximum Gold

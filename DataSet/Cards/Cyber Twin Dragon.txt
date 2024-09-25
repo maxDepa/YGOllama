@@ -1,0 +1,22 @@
+Cyber Twin Dragon
+Card Type: Fusion Monster
+
+Description: "Cyber Dragon" + "Cyber Dragon"
+A Fusion Summon of this card can only be done with the above Fusion Materials. This card can make a second attack during each Battle Phase.
+
+Type: Machine
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duel Terminal 3
+- Duelist Pack: Zane Truesdale
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Dragon Decks
+- Legendary Duelists: White Dragon Abyss

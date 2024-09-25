@@ -1,0 +1,15 @@
+Silvera, Wolf Tamer of the White Forest
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can change all face-up monsters your opponent controls to face-down Defense Position. Illusion and Spellcaster Synchro Monsters you control gain 500 ATK, also if they attack a Defense Position monster, inflict double piercing battle damage to your opponent.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 6
+Attack: 1900
+Defence: 2400
+Archetype: White Forest
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

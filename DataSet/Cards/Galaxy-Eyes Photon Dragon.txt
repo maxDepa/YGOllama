@@ -1,0 +1,22 @@
+Galaxy-Eyes Photon Dragon
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During the Battle Step, if this card battles an opponent's monster (Quick Effect): You can target that opponent's monster; banish both this card from the field and that target. Return those banished monsters to the field at the end of the Battle Phase, and if you banished an Xyz Monster, this card gains 500 ATK for each material it had when it was banished.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Galaxy-Eyes
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes
+- Collectible Tins 2011 Wave 2
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- Photon Shockwave
+- Photon Shockwave
+- Photon Shockwave
+- Premium Gold
+- Star Pack 2013
+- Star Pack 2013

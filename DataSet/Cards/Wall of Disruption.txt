@@ -1,0 +1,21 @@
+Wall of Disruption
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: All Attack Position monsters your opponent controls lose 800 ATK for each monster they control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 5
+- Speed Duel: Streets of Battle City
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Starter Deck: Yuya

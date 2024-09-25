@@ -1,0 +1,17 @@
+Dark Room of Nightmare
+Card Type: Spell Card
+
+Description: Each time your opponent takes damage from a card effect, except "Dark Room of Nightmare", inflict 300 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Retro Pack 2
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Marik (TCG)

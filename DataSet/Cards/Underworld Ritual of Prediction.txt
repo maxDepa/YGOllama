@@ -1,0 +1,14 @@
+Underworld Ritual of Prediction
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon any "Prediction Princess" Ritual Monster from your hand or GY in face-up Attack Position or face-down Defense Position. You must also Tribute monsters from your hand or field, whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. During the Standby Phase, if you control a "Prediction Princess" Ritual Monster: You can banish this card from your GY; Special Summon 1 non-Ritual "Prediction Princess" monster from your Deck in face-down Defense Position.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

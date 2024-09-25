@@ -1,0 +1,14 @@
+Ally Salvo
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle with a LIGHT monster and sent to the Graveyard, select 2 cards on the field and destroy them.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Duel Terminal 1
+- Starstrike Blast

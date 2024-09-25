@@ -1,0 +1,15 @@
+Star Mine
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can only Special Summon "Star Mine(s)" once per turn. If this card in its owner's possession is destroyed by an opponent's attack or card effect: Take 2000 damage, then inflict 2000 damage to your opponent. If a monster in this card's adjacent zone is destroyed by your opponent's attack or card effect: Destroy this card, and if you do, take 2000 damage, then inflict 2000 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 2000
+Defence: 200
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

@@ -1,0 +1,14 @@
+Aquamirror Cycle
+Card Type: Trap Card
+
+Description: Target 1 WATER monster you control and 2 WATER monsters in your Graveyard; shuffle the first target into the Deck, and if you do, add the second targets to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- The Secret Forces

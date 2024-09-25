@@ -1,0 +1,13 @@
+Fortune Lady Calling
+Card Type: Spell Card
+
+Description: If you control a "Fortune Lady" monster: Special Summon 1 "Fortune Lady" monster from your Deck with a different name from the cards you control, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters. You can only activate 1 "Fortune Lady Calling" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Lady
+Present in Sets:
+- Rising Rampage

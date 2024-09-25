@@ -1,0 +1,18 @@
+Shaddoll Beast
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can draw 2 cards, then discard 1 card.
+If this card is sent to the GY by a card effect: You can draw 1 card. You can only use 1 "Shaddoll Beast" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 1700
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Astral Pack Six
+- Battles of Legend: Hero's Revenge
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

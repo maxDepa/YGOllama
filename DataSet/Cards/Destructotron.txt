@@ -1,0 +1,16 @@
+Destructotron
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card is the only Psychic-Type monster you control: Destroy it. You can pay 1000 LP, then target 1 Set Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Psychic
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Speed Duel: Streets of Battle City
+- The Duelist Genesis

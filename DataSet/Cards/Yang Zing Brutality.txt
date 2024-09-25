@@ -1,0 +1,15 @@
+Yang Zing Brutality
+Card Type: Trap Card
+
+Description: If a "Yang Zing" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK and DEF each become double its original ATK and DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Yang Zing
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- The New Challengers

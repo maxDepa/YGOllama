@@ -1,0 +1,17 @@
+Vanquish Soul Heavy Borger
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can target 1 non-Machine "Vanquish Soul" monster you control; return it to the hand, and if you do, Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);
+● DARK: Draw 1 card.
+● EARTH & FIRE: Inflict 1500 damage to your opponent.
+You can only use each effect of "Vanquish Soul Heavy Borger" once per turn, and cannot activate more than 1 in the same Chain.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1500
+Archetype: Vanquish Soul
+Present in Sets:
+- Wild Survivors
+- Wild Survivors

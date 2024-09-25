@@ -1,0 +1,13 @@
+Saber Hole
+Card Type: Trap Card
+
+Description: Activate only while you control a face-up "X-Saber" monster. Negate the Summon of a monster, and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Absolute Powerforce

@@ -1,0 +1,16 @@
+Dark Witch
+Card Type: Normal Monster
+
+Description: A popular creature in mythology that delivers fatal attacks with a sharp spear.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1800
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

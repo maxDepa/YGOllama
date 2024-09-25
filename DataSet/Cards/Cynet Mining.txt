@@ -1,0 +1,17 @@
+Cynet Mining
+Card Type: Spell Card
+
+Description: Send 1 card from your hand to the GY; add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 "Cynet Mining" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm
+- Duel Overload
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 24

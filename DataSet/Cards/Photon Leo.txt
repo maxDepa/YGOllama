@@ -1,0 +1,13 @@
+Photon Leo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.
+
+Type: Beast
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 1100
+Archetype: Photon
+Present in Sets:
+- Order of Chaos

@@ -1,0 +1,30 @@
+Winged Kuriboh
+Card Type: Effect Monster
+
+Description: If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Duelist League 3 participation cards
+- Duelist Pack: Jaden Yuki
+- HERO Strike Structure Deck
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Midterm Paradox
+- The Lost Millennium
+- The Lost Millennium
+- Yu-Gi-Oh! Advent Calendar (2019)
+- Yu-Gi-Oh! GX Duel Academy promotional cards

@@ -1,0 +1,16 @@
+Recurring Nightmare
+Card Type: Spell Card
+
+Description: Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Gold Series 4: Pyramids Edition
+- OTS Tournament Pack 6
+- Structure Deck: Lair of Darkness

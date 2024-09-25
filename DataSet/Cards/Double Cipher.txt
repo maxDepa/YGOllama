@@ -1,0 +1,15 @@
+Double Cipher
+Card Type: Trap Card
+
+Description: If your opponent controls a monster with the highest ATK on the field (even if tied): Target 1 "Galaxy-Eyes" or "Cipher" Xyz Monster you control that has Xyz Material; detach all Xyz Materials from that Xyz Monster, and if you do, Special Summon 1 monster from your Extra Deck with the same name as that Xyz Monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cipher
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- Invasion: Vengeance

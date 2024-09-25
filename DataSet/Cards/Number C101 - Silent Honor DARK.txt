@@ -1,0 +1,18 @@
+Number C101: Silent Honor DARK
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+Once per turn: You can target 1 Special Summoned monster your opponent controls; attach it to this card as a face-up Xyz Material. When this card is destroyed and sent to the Graveyard while it has Xyz Material: You can Special Summon this card from your Graveyard, then gain LP equal to the original ATK of this card. "Number 101: Silent Honor ARK" must be in your Graveyard to activate and to resolve this effect. If this card is Special Summoned this way, it cannot attack for the rest of this turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 2800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Legacy of the Valiant
+- Legendary Duelists: Duels From the Deep
+- Maximum Gold

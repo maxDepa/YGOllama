@@ -1,0 +1,16 @@
+Archfiend Black Skull Dragon
+Card Type: Fusion Monster
+
+Description: 1 Level 6 "Archfiend" Normal Monster + 1 "Red-Eyes" Normal Monster
+You can only Special Summon "Archfiend Black Skull Dragon(s)" once per turn. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If damage calculation is performed involving this Fusion Summoned card, at the end of the Battle Phase: You can target 1 "Red-Eyes" Normal Monster in your Graveyard; inflict damage to your opponent equal to its ATK in the Graveyard, then shuffle it into the Deck.
+
+Type: Dragon
+Attribute: DARK
+Level: 9
+Attack: 3200
+Defence: 2500
+Archetype: Archfiend
+Present in Sets:
+- Clash of Rebellions
+- Clash of Rebellions
+- Legendary Decks II

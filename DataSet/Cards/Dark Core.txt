@@ -1,0 +1,17 @@
+Dark Core
+Card Type: Spell Card
+
+Description: Discard 1 card, then target 1 face-up monster on the field; banish that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- The Dark Emperor Structure Deck
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

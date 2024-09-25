@@ -1,0 +1,17 @@
+Saber Shark
+Card Type: Effect Monster
+
+Description: Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 Fish-Type monster on the field, then activate 1 of these effects.
+● Increase its Level by 1.
+● Reduce its Level by 1.
+You cannot Special Summon any monsters during the turn you activate this effect, except WATER monsters.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- Legendary Duelists: Duels From the Deep

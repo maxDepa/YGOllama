@@ -1,0 +1,14 @@
+Summoning Curse
+Card Type: Spell Card
+
+Description: If a monster(s) is Special Summoned: The current controller of that monster(s) banishes 1 card from their hand. Once per turn, during your End Phase, pay 500 LP or destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- OTS Tournament Pack 1

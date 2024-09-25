@@ -1,0 +1,15 @@
+Six Strike - Double Assault
+Card Type: Spell Card
+
+Description: Apply 1 of these effects, or if you control 2 or more "Six Samurai" monsters, you can apply both, in sequence.
+● Special Summon 1 "Six Samurai" monster with 2000 or less ATK from your hand or GY.
+● Change 1 monster your opponent controls with 2000 or less ATK to face-down Defense Position.
+During your Main Phase: You can banish this card from your GY, then target 1 "Six Samurai" monster in your GY; add it to your hand. You can only use 1 "Six Strike - Double Assault" effect per turn, and only once that turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Strike
+Present in Sets:

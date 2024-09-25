@@ -1,0 +1,16 @@
+Unchained Abomination
+Card Type: Link Monster
+
+Description: 2+ monsters including a Link Monster
+If a card(s) on the field is destroyed by card effect, except by "Unchained Abomination" (except during the Damage Step): You can target 1 card on the field; destroy it. When another monster is destroyed by battle: You can target 1 card on the field; destroy it. During the End Phase: You can target 1 card on the field; destroy it. You can only use each effect of "Unchained Abomination" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Unchained
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact
+- OTS Tournament Pack 22

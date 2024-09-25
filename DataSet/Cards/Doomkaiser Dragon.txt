@@ -1,0 +1,18 @@
+Doomkaiser Dragon
+Card Type: Synchro Monster
+
+Description: "Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monsters
+When this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.
+
+Type: Zombie
+Attribute: FIRE
+Level: 6
+Attack: 2400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Duelist League 16 participation cards
+- OTS Tournament Pack 10 (POR)

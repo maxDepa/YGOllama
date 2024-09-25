@@ -1,0 +1,18 @@
+Goblin King
+Card Type: Effect Monster
+
+Description: While you control another Fiend-Type monster, this card cannot be attacked. The ATK and DEF of this card are each equal to the number of Fiend-Type monsters on the field (excluding this card) x 1000.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Gates of the Underworld Structure Deck
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Speed Duel GX: Duelists of Shadows

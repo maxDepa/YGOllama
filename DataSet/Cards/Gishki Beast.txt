@@ -1,0 +1,14 @@
+Gishki Beast
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 4 or lower "Gishki" monster in your Graveyard; Special Summon that target in face-up Defense Position.
+
+Type: Beast
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 7b
+- Photon Shockwave

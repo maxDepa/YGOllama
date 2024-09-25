@@ -1,0 +1,13 @@
+The Paths of Destiny
+Card Type: Trap Card
+
+Description: Both players toss a coin once. If a player's result is Heads, they gain 2000 Life Points, and if their result is Tails, they take 2000 damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Power of the Duelist

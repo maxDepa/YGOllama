@@ -1,0 +1,15 @@
+Metalfoes Crimsonite
+Card Type: Fusion Monster
+
+Description: 1 "Metalfoes" monster + 2 monsters with 3000 or less ATK
+
+Type: Psychic
+Attribute: FIRE
+Level: 9
+Attack: 3000
+Defence: 3000
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Pendulum Evolution
+- The Dark Illusion

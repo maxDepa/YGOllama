@@ -1,0 +1,14 @@
+D. Human
+Card Type: Normal Monster
+
+Description: Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

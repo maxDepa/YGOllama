@@ -1,0 +1,14 @@
+Aquamirror Meditation
+Card Type: Trap Card
+
+Description: Reveal 1 Ritual Spell Card in your hand to target 2 "Gishki" monsters in your Graveyard; return them to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

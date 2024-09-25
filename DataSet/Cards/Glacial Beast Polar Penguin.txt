@@ -1,0 +1,13 @@
+Glacial Beast Polar Penguin
+Card Type: Tuner Monster
+
+Description: If this card is Special Summoned: You can target 1 monster your opponent controls; return it to the hand. If this card on the field is destroyed by battle or card effect: You can target 1 card your opponent controls; return it to the hand. You can only use 1 "Glacial Beast Polar Penguin" effect per turn, and only once that turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: Penguin
+Present in Sets:
+- Battles of Legend: Armageddon

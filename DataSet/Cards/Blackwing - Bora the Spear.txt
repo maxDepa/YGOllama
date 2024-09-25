@@ -1,0 +1,20 @@
+Blackwing - Bora the Spear
+Card Type: Effect Monster
+
+Description: If you control a "Blackwing" monster other than "Blackwing - Bora the Spear", you can Special Summon this card (from your hand). If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Crimson Crisis
+- Duel Terminal 3
+- Duelist League 2010 participation cards
+- Duelist Pack: Crow
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: White Dragon Abyss

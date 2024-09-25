@@ -1,0 +1,14 @@
+Libromancer Firestarter
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with a "Libromancer" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Gains 200 ATK/DEF each time your opponent activates a card or effect, while you control this card with ATK less than 3000 in the Monster Zone.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 3
+Attack: 1800
+Defence: 1800
+Archetype: Libromancer
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

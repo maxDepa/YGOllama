@@ -1,0 +1,14 @@
+Ancient Telescope
+Card Type: Spell Card
+
+Description: See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

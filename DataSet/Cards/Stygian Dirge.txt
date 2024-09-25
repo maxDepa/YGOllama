@@ -1,0 +1,16 @@
+Stygian Dirge
+Card Type: Trap Card
+
+Description: Reduce the Levels of all monsters your opponent controls by 1.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League 16 participation cards
+- Stardust Overdrive
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023 E

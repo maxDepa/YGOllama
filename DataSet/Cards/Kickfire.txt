@@ -1,0 +1,13 @@
+Kickfire
+Card Type: Trap Card
+
+Description: Once per turn, when a face-up FIRE monster(s) you control is destroyed by a card effect, place 1 counter on this card for each destroyed FIRE monster. During either player's Standby Phase: You can send this card to the Graveyard; inflict 1000 damage to your opponent for each counter on this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

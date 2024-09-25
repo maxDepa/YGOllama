@@ -1,0 +1,13 @@
+Flower Cardian Clover with Boar
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Flower Cardian" monster, except "Flower Cardian Clover with Boar". If this card is Special Summoned: Draw 1 card, and if you do, show it, then, if it is a "Flower Cardian" monster, you can destroy 1 monster your opponent controls. Otherwise, send it to the Graveyard.
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 1000
+Defence: 1000
+Archetype: Flower Cardian
+Present in Sets:
+- Invasion: Vengeance

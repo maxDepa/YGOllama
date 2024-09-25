@@ -1,0 +1,16 @@
+Alba-Lenatus the Abyss Dragon
+Card Type: Fusion Monster
+
+Description: 1 "Fallen of Albaz" + 1+ Dragon monsters
+Cannot be used as Fusion Material. Must be either Fusion Summoned, or Special Summoned by sending the above cards from any Monster Zones to the GY. This card can attack monsters a number of times each Battle Phase, up to the number of materials used for it. Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 "Polymerization" Normal Spell or "Fusion" Normal Spell from your Deck to your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force
+- Dimension Force

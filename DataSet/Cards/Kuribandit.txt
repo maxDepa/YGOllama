@@ -1,0 +1,21 @@
+Kuribandit
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 700
+Archetype: Kuriboh
+Present in Sets:
+- Dark Saviors
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Pendulum Domination Structure Deck
+- Starter Deck: Link Strike
+- Structure Deck: Lair of Darkness
+- Structure Deck: Shaddoll Showdown
+- Yu-Gi-Oh! Advent Calendar (2019)

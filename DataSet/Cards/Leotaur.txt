@@ -1,0 +1,16 @@
+Leotaur
+Card Type: Effect Monster
+
+Description: If this card battles a non-Normal Monster, this card gains 500 ATK during the Damage Step only.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Cosmo Blazer
+- Legendary Duelists

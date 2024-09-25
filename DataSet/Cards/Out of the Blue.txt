@@ -1,0 +1,13 @@
+Out of the Blue
+Card Type: Spell Card
+
+Description: Destroy this card if your opponent activates a card or effect that targets a card(s) in the Graveyard. When this card is destroyed by this effect and sent to the Graveyard, your opponent shuffles all cards in their Graveyard into the Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory

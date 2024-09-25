@@ -1,0 +1,14 @@
+Brotherhood of the Fire Fist - Rhino
+Card Type: Effect Monster
+
+Description: If a "Fire Fist" monster you control attacks or is attacked, during damage calculation (in either player's turn): You can send 1 face-up "Fire Formation" Spell/Trap Card you control and 1 "Fire Fist" monster from your hand to the Graveyard once per battle; your attacking/attacked monster gains ATK equal to the original ATK of the monster sent to the Graveyard, during damage calculation only.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

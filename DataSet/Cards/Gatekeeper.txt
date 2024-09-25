@@ -1,0 +1,14 @@
+Gatekeeper
+Card Type: Normal Monster
+
+Description: An indestructible mechanoid created for the sole purpose of guarding the gateways.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Speed Duel: Scars of Battle
+- Tournament Pack 8

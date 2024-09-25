@@ -1,0 +1,13 @@
+Bicular
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 "Unicycular" from your hand or Deck.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

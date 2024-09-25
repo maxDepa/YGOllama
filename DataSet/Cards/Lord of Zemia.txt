@@ -1,0 +1,12 @@
+Lord of Zemia
+Card Type: Normal Monster
+
+Description: A wicked entity that manipulates enemies towards a path of destruction.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:

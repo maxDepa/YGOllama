@@ -1,0 +1,20 @@
+Crystal Beacon
+Card Type: Spell Card
+
+Description: Special Summon 1 "Crystal Beast" monster from your Deck. You must have 2 or more "Crystal Beast" cards in your Spell & Trap Card Zone to activate and to resolve this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Hobby League 5 participation card C
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

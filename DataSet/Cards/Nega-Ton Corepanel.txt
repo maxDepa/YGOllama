@@ -1,0 +1,13 @@
+Nega-Ton Corepanel
+Card Type: Trap Card
+
+Description: Activate only if you control a face-up "Koa'ki Meiru" monster and have "Iron Core of Koa'ki Meiru" in your Graveyard. Negate the activation of an Effect Monster's effect, and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Stardust Overdrive

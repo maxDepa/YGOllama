@@ -1,0 +1,17 @@
+Tribute Doll
+Card Type: Spell Card
+
+Description: Tribute 1 monster; Special Summon 1 Level 7 monster from your hand that can be Normal Summoned/Set. It cannot attack this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magician's Force
+- Speed Duel GX: Midterm Paradox
+- Speed Duel Starter Decks: Destiny Masters

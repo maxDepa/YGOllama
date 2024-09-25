@@ -1,0 +1,12 @@
+Leo Wizard
+Card Type: Normal Monster
+
+Description: A wizard with a black mantle who is actually a talking lion in disguise.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 5
+Attack: 1350
+Defence: 1200
+Archetype: //
+Present in Sets:

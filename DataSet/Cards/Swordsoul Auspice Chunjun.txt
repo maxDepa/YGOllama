@@ -1,0 +1,14 @@
+Swordsoul Auspice Chunjun
+Card Type: Effect Monster
+
+Description: Before damage calculation, if your Wyrm monster battles an opponent's monster that was Special Summoned from the Extra Deck: You can destroy both that opponent's monster and this card. You can only use each of the following effects of "Swordsoul Auspice Chunjun" once per turn. During the Main Phase (Quick Effect): You can Tribute 1 monster; Special Summon this card from your hand. If this card is sent to the GY as Synchro Material: You can target 1 card on the field or in either GY; banish it.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: Swordsoul
+Present in Sets:
+- Burst of Destiny
+- Magnificent Mavens

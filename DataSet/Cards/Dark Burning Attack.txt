@@ -1,0 +1,13 @@
+Dark Burning Attack
+Card Type: Spell Card
+
+Description: If you control a "Dark Magician Girl" monster: Destroy all face-up monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Decks II

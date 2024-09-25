@@ -1,0 +1,17 @@
+Ninjitsu Art Notebook
+Card Type: Spell Card
+
+Description: Once per turn: You can send 1 "Ninja" monster from your hand to the GY; Set 1 "Ninjitsu Art" Spell/Trap directly from your Deck, except "Ninjitsu Art Notebook".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- OTS Tournament Pack 20
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- The Dark Illusion

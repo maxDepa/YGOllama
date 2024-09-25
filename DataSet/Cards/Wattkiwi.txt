@@ -1,0 +1,13 @@
+Wattkiwi
+Card Type: Tuner Monster
+
+Description: "Watt" monsters you control cannot be destroyed by battle while they are attacking.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 600
+Defence: 100
+Archetype: Watt
+Present in Sets:
+- Starstrike Blast

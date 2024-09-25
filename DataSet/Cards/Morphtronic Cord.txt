@@ -1,0 +1,13 @@
+Morphtronic Cord
+Card Type: Spell Card
+
+Description: Equip only to a "Morphtronic" monster. Each time the equipped monster's battle position is changed, destroy 1 Spell or Trap Card on the field.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

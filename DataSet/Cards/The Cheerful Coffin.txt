@@ -1,0 +1,16 @@
+The Cheerful Coffin
+Card Type: Spell Card
+
+Description: Discard up to 3 Monster Cards from your hand to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

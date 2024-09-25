@@ -1,0 +1,14 @@
+Beetrooper Squad
+Card Type: Trap Card
+
+Description: Tribute 1 non-Token Insect monster; Special Summon up to 1 "Beetrooper Token" (Insect/EARTH/Level 3/ATK 1000/DEF 1000) for every 1000 original ATK of that Tributed monster. You can only activate "Beetrooper Squad" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

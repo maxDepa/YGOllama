@@ -1,0 +1,17 @@
+Dark Flare Knight
+Card Type: Fusion Monster
+
+Description: "Dark Magician" + "Flame Swordsman"
+You take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 "Mirage Knight" from your hand or Deck.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 800
+Archetype: Dark Magician
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

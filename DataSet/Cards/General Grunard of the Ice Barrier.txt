@@ -1,0 +1,17 @@
+General Grunard of the Ice Barrier
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can Normal Summon 1 "Ice Barrier" monster in addition to your Normal Summon or Set. This effect can only be used once per turn.
+
+Type: Warrior
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

@@ -1,0 +1,22 @@
+Archfiend of Gilfer
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 2500
+Archetype: Archfiend
+Present in Sets:
+- Collectible Tins 2010 Wave 1
+- Duel Terminal 3
+- Duelist Pack: Battle City
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack 2
+- Shonen Jump Vol. 3, Issue 1 promotional card
+- Speed Duel: Battle City Box
+- War of the Giants Reinforcements
+- War of the Giants: Round 2
+- Yugi's Legendary Decks

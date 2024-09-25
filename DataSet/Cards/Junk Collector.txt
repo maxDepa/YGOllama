@@ -1,0 +1,13 @@
+Junk Collector
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can banish this card on the field and 1 Normal Trap in your GY; apply that banished Trap's effect. (The Trap's activation requirements must still be correct, but costs are not paid.)
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2200
+Archetype: Junk
+Present in Sets:
+- 2018 Mega-Tins

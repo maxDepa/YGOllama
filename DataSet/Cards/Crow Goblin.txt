@@ -1,0 +1,12 @@
+Crow Goblin
+Card Type: Normal Monster
+
+Description: A clever long-nosed goblin, he is a force to be reckoned with.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 1850
+Defence: 1600
+Archetype: //
+Present in Sets:

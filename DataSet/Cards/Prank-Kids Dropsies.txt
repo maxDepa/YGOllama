@@ -1,0 +1,14 @@
+Prank-Kids Dropsies
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as material for the Fusion or Link Summon of a "Prank-Kids" monster: You can gain 1000 LP, then you can Special Summon 1 "Prank-Kids" monster from your hand or Deck in Defense Position, except "Prank-Kids Dropsies". You can only use this effect of "Prank-Kids Dropsies" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 1000
+Defence: 1000
+Archetype: Prank-Kids
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold: El Dorado

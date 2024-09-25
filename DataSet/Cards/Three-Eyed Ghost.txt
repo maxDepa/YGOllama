@@ -1,0 +1,13 @@
+Three-Eyed Ghost
+Card Type: Effect Monster
+
+Description: You can send this card from the field to the GY; add 1 Level 10 DARK monster from your Deck to your hand. You can only use this effect of "Three-Eyed Ghost" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Phantom Nightmare

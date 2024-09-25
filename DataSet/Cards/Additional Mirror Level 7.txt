@@ -1,0 +1,13 @@
+Additional Mirror Level 7
+Card Type: Spell Card
+
+Description: If a Level 7 monster(s) is Special Summoned to your field: Send 2 "Additional Mirror Level 7" from your hand and/or Deck to the GY, then target 1 of those monsters; Special Summon 2 monsters with the same name as that target from your Deck, then take damage equal to their combined original ATK, also, for the rest of this turn after this card resolves, you can only Special Summon from the Extra Deck once.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

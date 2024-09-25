@@ -1,0 +1,12 @@
+Midnight Fiend
+Card Type: Normal Monster
+
+Description: This monster only appears when a midnight tribute is made.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:

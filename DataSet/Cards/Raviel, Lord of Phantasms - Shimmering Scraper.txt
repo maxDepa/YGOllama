@@ -1,0 +1,16 @@
+Raviel, Lord of Phantasms - Shimmering Scraper
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of "Raviel, Lord of Phantasms - Shimmering Scraper" once per turn.
+● (Quick Effect): You can discard this card and target 1 "Raviel, Lord of Phantasms" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.
+● If this card is in your GY: You can Tribute 1 monster; add this card to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Sacred Beast
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Structure Deck: Sacred Beasts

@@ -1,0 +1,13 @@
+Attack Pheromones
+Card Type: Spell Card
+
+Description: If a monster you control attacks a Defense Position monster, change that monster to face-up Attack Position at the end of the Damage Step if your attacking monster is Reptile-Type.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

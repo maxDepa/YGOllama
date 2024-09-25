@@ -1,0 +1,14 @@
+Water of Life
+Card Type: Spell Card
+
+Description: If you control no monsters: Target 1 monster in your GY; Special Summon that target in Attack Position, also, for the rest of this turn after this card resolves, you cannot activate monster effects, except the effects of that Special Summoned monster on the field. You can only activate 1 "Water of Life" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge

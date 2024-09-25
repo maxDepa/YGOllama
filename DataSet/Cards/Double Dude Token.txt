@@ -1,0 +1,12 @@
+Double Dude Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Destiny HERO - Double Dude".
+
+Type: Warrior
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:

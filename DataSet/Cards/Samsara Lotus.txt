@@ -1,0 +1,13 @@
+Samsara Lotus
+Card Type: Effect Monster
+
+Description: During your End Phase, if you control no Spell or Trap Cards, you can Special Summon this card from your Graveyard in face-up Attack Position. This card's controller takes 1000 damage during each of their Standby Phases.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

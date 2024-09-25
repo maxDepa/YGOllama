@@ -1,0 +1,14 @@
+RAM Clouder
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster, then target 1 Cyberse monster in your GY; Special Summon it. You can only use this effect of "RAM Clouder" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

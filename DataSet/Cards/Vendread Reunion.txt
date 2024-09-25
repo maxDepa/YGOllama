@@ -1,0 +1,13 @@
+Vendread Reunion
+Card Type: Trap Card
+
+Description: Reveal 1 "Vendread" Ritual Monster in your hand, Special Summon any number of your banished "Vendread" monsters with different names, in face-down Defense Position, whose total Levels exactly equal the Level of the revealed Ritual Monster, Tribute all those face-down Defense Position monsters, then Ritual Summon that Ritual Monster from your hand. You must be able to Ritual Summon to activate and to resolve this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vendread
+Present in Sets:
+- Circuit Break

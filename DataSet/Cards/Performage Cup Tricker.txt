@@ -1,0 +1,16 @@
+Performage Cup Tricker
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 "Performage" Xyz Monster you control; attach this card to it as material. If a card(s) is added to your Extra Deck (except during the Damage Step): You can add 1 face-up "Performage" Pendulum Monster from your Extra Deck to your hand. You can only use each Pendulum Effect of "Performage Cup Tricker" once per turn.
+
+[ Monster Effect ] 
+If this card is in your hand: You can target 1 Xyz Monster on the field; detach 1 material from it, and if you do, Special Summon this card, then 1 Xyz Monster on the field loses 600 ATK. If this card is detached from an Xyz Monster and sent to the GY to activate that monster's effect: You can target 2 Xyz Monsters you control; detach 1 material from 1 of them, and if you do, attach it to the other as material. You can only use each monster effect of "Performage Cup Tricker" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1200
+Defence: 1400
+Archetype: Performage
+Present in Sets:

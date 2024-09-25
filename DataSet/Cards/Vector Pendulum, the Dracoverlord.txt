@@ -1,0 +1,18 @@
+Vector Pendulum, the Dracoverlord
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Negate all card effects in your opponent's Pendulum Zones.
+
+[ Monster Effect ] 
+''This Overlord overran an entire world with his army of Dracofiends, using his Dragon Alchemy to convert all life into his terrible minions. The source of this power is unidentified, and probably extra-dimensional.''
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1850
+Defence: 0
+Archetype: Pendulum
+Present in Sets:
+- Dimension of Chaos
+- Premium Gold: Infinite Gold

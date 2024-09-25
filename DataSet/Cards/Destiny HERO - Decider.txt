@@ -1,0 +1,16 @@
+Destiny HERO - Decider
+Card Type: Effect Monster
+
+Description: Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of "Destiny HERO - Decider" once per Duel.
+● If this card is Normal or Special Summoned: You can add 1 "HERO" monster from your GY to your hand during the End Phase of this turn.
+● When a card or effect is activated that would inflict damage to you, while this card is in your GY (Quick Effect): Return this card to your hand, and if you do, make that effect damage to you 0.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Destiny HERO
+Present in Sets:
+- Destiny Soldiers
+- Legendary Hero Decks

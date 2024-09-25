@@ -1,0 +1,13 @@
+Shadowpriestess of Ohm
+Card Type: Effect Monster
+
+Description: You can Tribute 1 face-up DARK monster you control to inflict 800 damage to your opponent.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Priestess
+Present in Sets:
+- Phantom Darkness

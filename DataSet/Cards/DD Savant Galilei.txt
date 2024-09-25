@@ -1,0 +1,19 @@
+D/D Savant Galilei
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "D/D" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Increase this card's Pendulum Scale by 2 (max. 10), then destroy all monsters you control with a Level less than or equal to this card's Pendulum Scale, except "D/D" monsters.
+
+[ Monster Effect ] 
+During either player's turn: You can discard this card, then target 1 "D/D" or "Dark Contract" card you control; return it to the hand. You can only use this effect of "D/D Savant Galilei" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Pendulum Domination Structure Deck

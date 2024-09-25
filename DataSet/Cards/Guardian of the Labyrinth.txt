@@ -1,0 +1,15 @@
+Guardian of the Labyrinth
+Card Type: Normal Monster
+
+Description: A monster that guards the entrance to the Netherworld.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,14 @@
+Ancient Dragon
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent by a direct attack: You can increase this card's Level by 1 and ATK by 500.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Galactic Overlord

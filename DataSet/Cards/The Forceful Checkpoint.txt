@@ -1,0 +1,17 @@
+The Forceful Checkpoint
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Look at your opponent's hand, and if there is a Monster Card, negate the attack, then discard 1 monster from their hand (your choice).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Attack from the Deep
+- Speed Duel: Streets of Battle City
+- The Dark Illusion

@@ -1,0 +1,18 @@
+Fairy Tail - Sleeper
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 monster from your hand.
+When your opponent activates a Normal Spell/Trap Card (Quick Effect): You can Tribute 1 other monster; the activated effect becomes "Change 1 face-up monster your opponent controls to face-down Defense Position". You can only use this effect of "Fairy Tail - Sleeper" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1850
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance
+- OTS Tournament Pack 5
+- Structure Deck: Shaddoll Showdown
+- Structure Deck: Spirit Charmers

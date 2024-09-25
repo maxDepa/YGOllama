@@ -1,0 +1,15 @@
+Ghost Knight of Jackal
+Card Type: Effect Monster
+
+Description: You can Special Summon an opponent's monster that is destroyed and sent to the Graveyard by this card as a result of battle to your side of the field in face-up Defense Position.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1700
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel: Battle City Box

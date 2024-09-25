@@ -1,0 +1,13 @@
+S-Force Rappa Chiyomaru
+Card Type: Effect Monster
+
+Description: Each of your opponent's monsters in the same column as one of your "S-Force" monsters can only target that monster for attacks. (Quick Effect): You can banish 1 "S-Force" card from your hand; return this card to the hand, and if you do, Special Summon 1 "S-Force" monster from your Deck in Defense Position, except "S-Force Rappa Chiyomaru". You can only use this effect of "S-Force Rappa Chiyomaru" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 1000
+Archetype: S-Force
+Present in Sets:
+- Blazing Vortex

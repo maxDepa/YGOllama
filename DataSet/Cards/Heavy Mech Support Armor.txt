@@ -1,0 +1,14 @@
+Heavy Mech Support Armor
+Card Type: Union Effect Monster
+
+Description: If this card is Normal Summoned: You can target 1 Union monster in your GY; Special Summon it. Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. Your opponent cannot target a monster equipped with this card with card effects, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Structure Deck: Seto Kaiba

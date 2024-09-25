@@ -1,0 +1,16 @@
+The Psychic Duelist
+Card Type: Skill Card
+
+Description: Activate 1 of the following Skills during your Main Phase, by paying half your LP.
+● Target 1 Set card in your opponent's Spell & Trap Zone and declare 1 type (Monster, Spell or Trap), then reveal the face-down card, and if it is the declared card type, it cannot be activated this turn.
+● Randomly select 1 card in your opponent's hand and declare 1 type (Monster, Spell or Trap), then reveal that card, and if it is the declared type, inflict 500 damage to your opponent.
+Each of these Skills can only be used once per Duel.
+
+Type: Espa Roba
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

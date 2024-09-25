@@ -1,0 +1,18 @@
+HERO World
+Card Type: Skill Card
+
+Description: Once per turn, if you control a "HERO" Normal Monster or "HERO" Fusion Monster, you can discard 1 card to activate 1 of these Skills based on the Attribute(s) of that monster:
+● EARTH: Destroy 1 EARTH monster you control and 1 face-up monster your opponent controls.
+● WIND: Destroy 1 face-up Spell/Trap on the field.
+● FIRE: Return all face-up non-FIRE Special Summoned monsters on the field to the hand.
+● WATER: Draw 1 card, also until the end of the next turn, you can activate 1 Normal Trap Card from your hand.
+● LIGHT: Change the battle position of 1 face-up monster on the field.
+
+Type: Jaden Yuki
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: HERO
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

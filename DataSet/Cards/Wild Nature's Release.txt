@@ -1,0 +1,18 @@
+Wild Nature's Release
+Card Type: Spell Card
+
+Description: Target 1 Beast or Beast-Warrior-Type monster; it gains ATK equal to its current DEF until the End Phase. During the End Phase, destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Onslaught of the Fire Kings Structure Deck
+- Speed Duel: Battle City Box

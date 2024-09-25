@@ -1,0 +1,13 @@
+Justice Bringer
+Card Type: Effect Monster
+
+Description: Once per turn, when a Special Summoned monster your opponent controls activates its effect, you can negate the activation.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3

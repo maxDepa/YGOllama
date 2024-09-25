@@ -1,0 +1,19 @@
+Ryu Senshi
+Card Type: Fusion Monster
+
+Description: "Warrior Dai Grepher" + "Spirit Ryu"
+A Fusion Summon of this card can only be done with the above Fusion Materials. When a Normal Trap Card is activated (Quick Effect): You can pay 1000 LP; negate that effect. This card must be face-up on the field to activate and to resolve this effect. Negate the effects of any Spell Card that targets this card and destroy it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel Tournament Pack 3
+- Speed Duel: Attack from the Deep
+- Tournament Pack 6

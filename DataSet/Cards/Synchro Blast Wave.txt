@@ -1,0 +1,15 @@
+Synchro Blast Wave
+Card Type: Spell Card
+
+Description: If you control a Synchro Monster: Target 1 monster your opponent controls; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack Collection Tin 2010
+- Legendary Collection 5D's Mega Pack
+- Starter Deck: Yu-Gi-Oh! 5D's

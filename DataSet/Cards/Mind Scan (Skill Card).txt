@@ -1,0 +1,15 @@
+Mind Scan (Skill Card)
+Card Type: Skill Card
+
+Description: [At the start of the 3rd turn, if your LP is 3000 or higher, activate this Skill (count both players' turns).]
+
+You may look at your opponent's Set Spell & Trap Cards at anytime. If your LP drops below 3000, flip this card over. 
+
+Type: Pegasus
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters

@@ -1,0 +1,20 @@
+Reflect Bounder
+Card Type: Effect Monster
+
+Description: Before damage calculation, if this card is being attacked by an opponent's monster, and was in face-up Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Champion Pack: Game One
+- Cyber Dragon Revolution Structure Deck
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Turbo Pack: Booster Two

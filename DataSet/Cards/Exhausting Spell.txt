@@ -1,0 +1,15 @@
+Exhausting Spell
+Card Type: Trap Card
+
+Description: Remove all Spell Counters on both sides of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Streets of Battle City

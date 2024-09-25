@@ -1,0 +1,14 @@
+Good Goblin Housekeeping
+Card Type: Trap Card
+
+Description: Draw cards equal to the number of "Good Goblin Housekeeping" cards in your Graveyard +1, then select 1 card from your hand and return it to the bottom of your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

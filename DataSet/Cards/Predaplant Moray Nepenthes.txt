@@ -1,0 +1,15 @@
+Predaplant Moray Nepenthes
+Card Type: Effect Monster
+
+Description: This card gains 200 ATK for each Predator Counter on the field. When this card destroys an opponent's monster by battle: You can equip that monster to this card. Once per turn: You can target 1 Monster Card equipped to this card by this card's effect; destroy it, and if you do, gain LP equal to its original ATK.
+
+Type: Plant
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Predaplant
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Fusion Enforcers
+- Invasion: Vengeance

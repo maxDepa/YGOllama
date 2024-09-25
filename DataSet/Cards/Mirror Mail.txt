@@ -1,0 +1,13 @@
+Mirror Mail
+Card Type: Trap Card
+
+Description: When a face-up monster you control is targeted for an attack: Its ATK becomes equal to that of the attacking monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

@@ -1,0 +1,16 @@
+Unstable Evolution
+Card Type: Spell Card
+
+Description: While your LP is lower than your opponent's, the equipped monster's original ATK becomes 2400. While your LP is higher, the equipped monster's original ATK becomes 1000.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- The Duelist Genesis

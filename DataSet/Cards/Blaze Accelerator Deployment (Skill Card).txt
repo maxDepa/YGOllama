@@ -1,0 +1,13 @@
+Blaze Accelerator Deployment (Skill Card)
+Card Type: Skill Card
+
+Description: Once per turn, you can change the name of 1 "Blaze Accelerator" you control to "Tri-Blaze Accelerator". This Skill can be used twice per Duel.
+
+Type: Axel Brodie
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blaze Accelerator
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

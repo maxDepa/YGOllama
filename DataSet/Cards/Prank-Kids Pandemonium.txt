@@ -1,0 +1,14 @@
+Prank-Kids Pandemonium
+Card Type: Spell Card
+
+Description: During the Main Phase: Fusion Summon 1 "Prank-Kids" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. For the rest of this turn after this card resolves, you cannot Normal or Special Summon monsters, except "Prank-Kids" monsters.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Prank-Kids
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold: El Dorado

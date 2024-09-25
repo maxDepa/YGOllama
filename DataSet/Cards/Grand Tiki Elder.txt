@@ -1,0 +1,18 @@
+Grand Tiki Elder
+Card Type: Normal Monster
+
+Description: A masked monster that wields the most deadly of curses.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: Mask
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Battle City Box

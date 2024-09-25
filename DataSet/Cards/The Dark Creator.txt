@@ -1,0 +1,15 @@
+The Dark Creator
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.
+
+Type: Thunder
+Attribute: DARK
+Level: 8
+Attack: 2300
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Phantom Darkness
+- Raging Battle: Special Edition

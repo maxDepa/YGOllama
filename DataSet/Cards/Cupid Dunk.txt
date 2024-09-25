@@ -1,0 +1,13 @@
+Cupid Dunk
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle with a monster, unless that monster has a higher Level. Once per turn, during your Standby Phase: You can increase this card's Level by 1.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Dark Neostorm

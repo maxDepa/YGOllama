@@ -1,0 +1,17 @@
+Linkslayer
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can discard up to 2 cards, then target that many Spells/Traps on the field; destroy them.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 5
+Attack: 2000
+Defence: 600
+Archetype: //
+Present in Sets:
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

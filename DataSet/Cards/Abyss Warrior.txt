@@ -1,0 +1,13 @@
+Abyss Warrior
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 WATER monster to the Graveyard, then target 1 monster in either player's Graveyard; return that target to either the top or bottom of the Deck.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Abyss Rising

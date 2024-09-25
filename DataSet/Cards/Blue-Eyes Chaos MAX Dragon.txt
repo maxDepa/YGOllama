@@ -1,0 +1,18 @@
+Blue-Eyes Chaos MAX Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Chaos Form". Must be Ritual Summoned. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this card attacks a Defense Position monster, inflict double piercing battle damage.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 4000
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Duel Power
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

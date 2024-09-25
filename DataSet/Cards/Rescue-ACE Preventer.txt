@@ -1,0 +1,14 @@
+Rescue-ACE Preventer
+Card Type: Effect Monster
+
+Description: You can banish 1 "Rescue-ACE" card from your GY; Special Summon this card from your hand. If you control another "Rescue-ACE" monster (Quick Effect): You can target 1 Effect Monster your opponent controls; change it to face-down Defense Position. If this card is sent to the GY: You can target 1 of your banished "Rescue-ACE" monsters, except a Level 8 monster; Special Summon it. You can only use each effect of "Rescue-ACE Preventer" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 2800
+Archetype: Rescue-ACE
+Present in Sets:
+- Duelist Nexus
+- OTS Tournament Pack 23

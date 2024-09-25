@@ -1,0 +1,15 @@
+Trickstar Black Catbat
+Card Type: Link Monster
+
+Description: 2 "Trickstar" monsters
+Each time a monster(s) this card points to is destroyed by battle or card effect and sent to the GY, inflict 200 damage to your opponent. Each time your opponent takes damage by a "Trickstar" monster's effect: Face-up monsters they control lose 200 ATK for each monster this card points to, until the end of this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

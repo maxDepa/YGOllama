@@ -1,0 +1,14 @@
+Ghostrick Nekomusume
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. When a Level 4 or higher monster(s) is Normal or Special Summoned: Change that monster(s) to face-down Defense Position. There must be another "Ghostrick" monster on the field to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 900
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

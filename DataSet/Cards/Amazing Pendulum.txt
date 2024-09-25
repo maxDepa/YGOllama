@@ -1,0 +1,15 @@
+Amazing Pendulum
+Card Type: Spell Card
+
+Description: If you have no cards in your Pendulum Zones: Add 2 face-up "Magician" Pendulum Monsters with different names from your Extra Deck to your hand. You can only activate 1 "Amazing Pendulum" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance
+- Pendulum Evolution

@@ -1,0 +1,13 @@
+Assault Revival
+Card Type: Spell Card
+
+Description: Remove from play 1 "Assault Mode Activate" from your Graveyard. Destroy all monsters you control and Special Summon 1 "/Assault Mode" monster from your Graveyard, ignoring its Summoning conditions. Its effect(s) is negated, and it cannot be Tributed. If it is removed from the field, remove it from play.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis

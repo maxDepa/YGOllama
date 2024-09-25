@@ -1,0 +1,13 @@
+Rank-Up-Magic Soul Shave Force
+Card Type: Spell Card
+
+Description: Pay half your LP, then target 1 "Raidraptor" Xyz Monster in your Graveyard; Special Summon it, then Special Summon from your Extra Deck, 1 Xyz Monster that is 2 Ranks higher than that monster, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Raidraptor
+Present in Sets:
+- Wing Raiders

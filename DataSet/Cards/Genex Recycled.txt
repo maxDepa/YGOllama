@@ -1,0 +1,14 @@
+Genex Recycled
+Card Type: Tuner Monster
+
+Description: Once per turn, you can select 1 "Genex" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 200
+Defence: 400
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

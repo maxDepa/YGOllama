@@ -1,0 +1,14 @@
+Holding Legs
+Card Type: Effect Monster
+
+Description: If this card is Summoned: Return all Set Spell and Trap Cards on the field to the hand. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated until the end of your opponent's next turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Rage of Ra
+- Millennium Pack

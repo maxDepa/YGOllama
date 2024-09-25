@@ -1,0 +1,12 @@
+Kamakiriman
+Card Type: Normal Monster
+
+Description: A man-shaped mantis with two razor-sharp scythes.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1150
+Defence: 1400
+Archetype: //
+Present in Sets:

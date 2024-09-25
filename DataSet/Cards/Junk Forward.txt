@@ -1,0 +1,17 @@
+Junk Forward
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand).
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 1500
+Archetype: Junk
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Premium Collection Tin
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

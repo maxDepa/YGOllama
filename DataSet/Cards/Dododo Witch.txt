@@ -1,0 +1,13 @@
+Dododo Witch
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can Special Summon 1 "Dododo" monster from your hand in Attack Position or face-down Defense Position, except "Dododo Witch".
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: Dododo
+Present in Sets:
+- Secrets of Eternity

@@ -1,0 +1,14 @@
+Phantom Gryphon
+Card Type: Normal Monster
+
+Description: A legendary monster that dwells secretly in the mountains, fighting with the harpies over hunting grounds. A single wingbeat is said to cause the fiercest of storms.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

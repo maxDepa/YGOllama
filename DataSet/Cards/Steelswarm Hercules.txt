@@ -1,0 +1,14 @@
+Steelswarm Hercules
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Requires 3 "Steelswarm" Tributes to Normal Summon (cannot be Normal Set). Once per turn: You can pay half your Life Points; destroy all other cards on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 3200
+Defence: 0
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

@@ -1,0 +1,14 @@
+Catoblepas, Familiar of the Evil Eye
+Card Type: Effect Monster
+
+Description: You can target 1 "Evil Eye" Spell/Trap you control; once, until the end of the next turn, that card cannot be destroyed by your opponent's card effects. If you control an "Evil Eye" monster other than "Catoblepas, Familiar of the Evil Eye", while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Catoblepas, Familiar of the Evil Eye" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1900
+Archetype: Evil Eye
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

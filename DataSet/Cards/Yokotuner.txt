@@ -1,0 +1,14 @@
+Yokotuner
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Tuner from your hand or Graveyard, but it has its effects negated.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Invasion: Vengeance: Special Edition
+- Raging Tempest

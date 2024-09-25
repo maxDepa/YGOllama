@@ -1,0 +1,24 @@
+Celtic Guardian
+Card Type: Normal Monster
+
+Description: An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: Celtic Guard
+Present in Sets:
+- Anniversary Pack
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Millennium Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

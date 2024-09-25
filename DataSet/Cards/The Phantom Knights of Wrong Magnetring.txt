@@ -1,0 +1,16 @@
+The Phantom Knights of Wrong Magnetring
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Negate that attack, then Special Summon this card in Attack Position as an Effect Monster (Warrior/DARK/Level 2/ATK 0/DEF 0) with the following effect. (This card is NOT treated as a Trap.)
+● (Quick Effect): You can send this card and 1 face-up card you control to the GY (either a "The Phantom Knights" monster or a "Phantom Knights" Continuous Spell/Trap); draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Phantom Knights
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Legendary Hero Decks
+- Maximum Crisis

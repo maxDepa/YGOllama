@@ -1,0 +1,14 @@
+Gouki Iron Claw
+Card Type: Effect Monster
+
+Description: During the Damage Step, when your "Gouki" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; until the end of this turn, your monster gains 500 ATK, and if it does, it is unaffected by your opponent's card effects. If this card is sent from the field to the GY: You can add 1 "Gouki" card from your Deck to your hand, except "Gouki Iron Claw". You can only use each effect of "Gouki Iron Claw" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 1000
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

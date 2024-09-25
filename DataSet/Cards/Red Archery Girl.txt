@@ -1,0 +1,19 @@
+Red Archery Girl
+Card Type: Normal Monster
+
+Description: A mermaid archer that hides in a protective shell, waiting for the right moment to strike.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Speed Duel Starter Decks: Match of the Millennium
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Pegasus

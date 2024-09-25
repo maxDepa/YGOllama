@@ -1,0 +1,13 @@
+HEROES UNITE - FUSION!!
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 "Elemental HERO" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If Summoning an "Elemental HERO" Fusion Monster this way that requires 3 or more materials, and you control 2 "Elemental HERO" monsters that are mentioned on it as materials, you can also use monsters in your Deck as Fusion Material. This Skill can only be used once per Duel.
+
+Type: Jaden Yuki
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: HERO
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

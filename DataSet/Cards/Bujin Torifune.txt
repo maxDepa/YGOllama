@@ -1,0 +1,13 @@
+Bujin Torifune
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 2 "Bujin" monsters of 2 different Types from the Deck in Defense Position, except "Bujin Torifune". When you Xyz Summon a "Bujin" Xyz Monster, while this card is in your GY: You can equip this card to it. Any monster destroyed by battle with that equipped monster is banished. You can only use each effect of "Bujin Torifune" once per turn.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 500
+Archetype: Bujin
+Present in Sets:
+- Lightning Overdrive

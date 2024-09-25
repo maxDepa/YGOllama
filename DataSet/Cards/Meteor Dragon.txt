@@ -1,0 +1,18 @@
+Meteor Dragon
+Card Type: Normal Monster
+
+Description: This dragon appeared from the sky and crashed to the earth.
+
+Type: Dragon
+Attribute: EARTH
+Level: 6
+Attack: 1800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2
+- Premium Collection Tin
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- World Championship 2011 Card Pack

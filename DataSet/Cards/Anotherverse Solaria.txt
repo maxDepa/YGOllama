@@ -1,0 +1,12 @@
+Anotherverse Solaria
+Card Type: Normal Monster
+
+Description: ''The stellar god of another world, harboring its twilight sun. His frozen flames leave a scorched trail across the dimensions, forever seeking new strength.''
+
+Type: Pyro
+Attribute: FIRE
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Anotherverse
+Present in Sets:

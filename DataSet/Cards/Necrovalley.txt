@@ -1,0 +1,24 @@
+Necrovalley
+Card Type: Spell Card
+
+Description: All "Gravekeeper's" monsters gain 500 ATK and DEF. Cards in the Graveyard cannot be banished. Negate any card effect that would move a card in the Graveyard to a different place. Negate any card effect that changes Types or Attributes in the Graveyard.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gravekeeper's
+Present in Sets:
+- Astral Pack Four
+- Champion Pack: Game Three
+- Dark Revelation Volume 1
+- Duelist League Series 3 participation card
+- Duelist Saga
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Magnificent Mavens
+- Pharaonic Guardian
+- Retro Pack 2
+- Structure Deck: Marik (TCG)
+- Turbo Pack: Booster Two

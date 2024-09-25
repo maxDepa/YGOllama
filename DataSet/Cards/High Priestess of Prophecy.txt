@@ -1,0 +1,16 @@
+High Priestess of Prophecy
+Card Type: Effect Monster
+
+Description: You can reveal 3 "Spellbook" Spells in your hand; Special Summon this card from your hand. Once per turn: You can banish 1 "Spellbook" Spell from your hand or GY, then target 1 card on the field; destroy that target.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Priestess
+Present in Sets:
+- Duel Power
+- Return of the Duelist
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

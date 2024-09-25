@@ -1,0 +1,19 @@
+Pot of The Forbidden
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can activate 1 of these effects;
+● Draw 2 cards.
+● Return all Spell and Trap Cards on the field to the hand.
+● Destroy all monsters your opponent controls.
+● Look at your opponent's hand, also shuffle 1 card from their hand into the Deck.
+You can only use this effect of "Pot of The Forbidden" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 9
+Attack: 2000
+Defence: 3000
+Archetype: Greed
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

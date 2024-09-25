@@ -1,0 +1,16 @@
+Hidden Temples of Necrovalley
+Card Type: Spell Card
+
+Description: Activate only if both a "Gravekeeper's" monster and "Necrovalley" are on the field. Neither player can Special Summon monsters, except "Gravekeeper's" monsters. If either a "Gravekeeper's" monster or "Necrovalley" is not on the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gravekeeper's
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Maximum Gold
+- Speed Duel Starter Decks: Destiny Masters

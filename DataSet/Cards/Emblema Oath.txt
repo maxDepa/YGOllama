@@ -1,0 +1,16 @@
+Emblema Oath
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● Place 1 "Centur-Ion" monster from your Deck in your Spell & Trap Zone as a face-up Continuous Trap. For the rest of this turn, while you control that card, or any card with that same original name, you cannot Special Summon from the Extra Deck, except "Centur-Ion" monsters.
+● Set 1 "Centur-Ion" Spell/Trap directly from your Deck.
+You can only activate 1 "Emblema Oath" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Centur-Ion
+Present in Sets:
+- Valiant Smashers

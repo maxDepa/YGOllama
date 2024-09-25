@@ -1,0 +1,14 @@
+Spirit of the Fall Wind
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.
+
+Type: Fairy
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 900
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

@@ -1,0 +1,16 @@
+Stellarknight Triverr
+Card Type: XYZ Monster
+
+Description: 3 Level 4 "tellarknight" monsters
+During the turn you Xyz Summon this card, you cannot Special Summon monsters, except "tellarknight" monsters. If this card is Xyz Summoned: Return all other cards on the field to the hand. Once per turn: You can detach 1 Xyz Material from this card; send 1 random card from your opponent's hand to the Graveyard. If this card with Xyz Material is sent to the Graveyard: You can target 1 "tellarknight" monster in your Graveyard; Special Summon it.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 2500
+Archetype: Stellarknight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers
+- The New Challengers

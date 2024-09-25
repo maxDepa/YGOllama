@@ -1,0 +1,13 @@
+Kaiki the Unity Star
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned (except during the Damage Step): You can pay 500 LP; Fusion Summon 1 Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. During your opponent's turn, if this card is in your GY and you control a Level 5 or higher Warrior monster whose current ATK is different from its original ATK (Quick Effect): You can Special Summon this card. You can only use each effect of "Kaiki the Unity Star" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge

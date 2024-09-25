@@ -1,0 +1,14 @@
+General Wayne of the Ice Barrier
+Card Type: Effect Monster
+
+Description: Spells and Traps sent from the field to your opponent's GY are banished instead. You can only use each of the following effects of "General Wayne of the Ice Barrier" once per turn. If your opponent controls a monster and you control an "Ice Barrier" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 "Ice Barrier" Spell/Trap from your Deck to your hand.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 2100
+Defence: 400
+Archetype: Ice Barrier
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Structure Deck: Freezing Chains

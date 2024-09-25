@@ -1,0 +1,14 @@
+Skull Guardian, Protector of the Voiceless Voice
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Prayers of the Voiceless Voice". Gains 2050 ATK while you have "Lo, the Prayers of the Voiceless Voice" on your field or in your GY. You can only use each of the following effects of "Skull Guardian, Protector of the Voiceless Voice" once per turn. If this card is Ritual Summoned: You can add 1 "Voiceless Voice" monster, or 1 Ritual Monster (Warrior or Dragon), from your Deck to your hand. When your opponent activates a card or effect while you control "Lo, the Prayers of the Voiceless Voice" (Quick Effect): You can negate the activation, and if you do, destroy that card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2050
+Defence: 2500
+Archetype: Guardian
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

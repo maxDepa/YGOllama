@@ -1,0 +1,14 @@
+Double-Edged Sword
+Card Type: Spell Card
+
+Description: You can only control 1 "Double-Edged Sword". The equipped monster gains 2000 ATK, also both players take any battle damage from attacks involving the equipped monster. If you take 2000 or more battle damage: Send this card to the GY.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Ignition Assault

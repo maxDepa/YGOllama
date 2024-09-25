@@ -1,0 +1,19 @@
+Chain Disappearance
+Card Type: Trap Card
+
+Description: When a monster(s) with 1000 or less ATK is Summoned: Banish that monster(s) with 1000 or less ATK, then your opponent banishes all cards with the same name as that card(s) from their hand and Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Premium Gold: Return of the Bling
+- Turbo Pack: Booster Six

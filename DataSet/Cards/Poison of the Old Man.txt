@@ -1,0 +1,19 @@
+Poison of the Old Man
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● Gain 1200 LP.
+● Inflict 800 damage to your opponent.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Saber Force Starter Deck
+- Starter Deck: Dawn of the Xyz
+- Super Starter: Space-Time Showdown

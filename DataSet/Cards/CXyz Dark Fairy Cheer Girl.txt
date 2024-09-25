@@ -1,0 +1,15 @@
+CXyz Dark Fairy Cheer Girl
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+When this card is sent from the field to the Graveyard: Draw 1 card. If this card has "Fairy Cheer Girl" as an Xyz Material, it gains this effect.
+● When this card destroys an opponent's monster by battle and remains on the field: You can detach 1 Xyz Material from this card; inflict 400 damage to your opponent for each card in your hand.
+
+Type: Fairy
+Attribute: DARK
+Level: 5
+Attack: 2500
+Defence: 1900
+Archetype: CXyz
+Present in Sets:
+- Lord of the Tachyon Galaxy

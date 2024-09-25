@@ -1,0 +1,13 @@
+Short Circuit
+Card Type: Spell Card
+
+Description: Activate only if you control 3 or more "Batteryman" monsters. Destroy all cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Batteryman
+Present in Sets:
+- Light of Destruction

@@ -1,0 +1,13 @@
+Gagaku-P.U.N.K. Wa Gon
+Card Type: Tuner Monster
+
+Description: You can pay 600 LP; add 1 "P.U.N.K." Spell from your Deck to your hand. When your opponent activates a card or effect that targets a "P.U.N.K." monster(s) you control, or when your opponent's monster targets one for an attack (Quick Effect): You can draw 1 card. You can only use each effect of "Gagaku-P.U.N.K. Wa Gon" once per turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 600
+Archetype: P.U.N.K.
+Present in Sets:
+- The Grand Creators

@@ -1,0 +1,13 @@
+Wind-Up Bat
+Card Type: Effect Monster
+
+Description: You can target 1 "Wind-Up" monster in your Graveyard; change this face-up Attack Position card you control to face-up Defense Position, and add that target to your hand. This effect can only be used once while this card is face-up on the field.
+
+Type: Machine
+Attribute: WIND
+Level: 1
+Attack: 300
+Defence: 350
+Archetype: Wind-Up
+Present in Sets:
+- Photon Shockwave

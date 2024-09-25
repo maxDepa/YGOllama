@@ -1,0 +1,15 @@
+Storm
+Card Type: Spell Card
+
+Description: Destroy as many Spell/Trap Cards you control as possible, then destroy as many Spell/Trap Cards your opponent controls as possible, up to the number of cards destroyed by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Galactic Overlord
+- Speed Duel: Battle City Box

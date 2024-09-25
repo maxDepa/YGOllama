@@ -1,0 +1,14 @@
+Backs to the Wall
+Card Type: Trap Card
+
+Description: Pay LP so that you only have 100 left; Special Summon as many "Six Samurai" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a monster you already control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Force of the Breaker
+- Spirit Warriors

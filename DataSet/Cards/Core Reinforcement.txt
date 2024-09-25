@@ -1,0 +1,13 @@
+Core Reinforcement
+Card Type: Trap Card
+
+Description: Select and Special Summon 1 "Koa'ki Meiru" monster from your Graveyard in Attack Position. When that monster is destroyed during your End Phase, the controller of this card takes damage equal to that monster's ATK. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Ancient Prophecy

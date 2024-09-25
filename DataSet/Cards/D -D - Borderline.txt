@@ -1,0 +1,16 @@
+D.D. Borderline
+Card Type: Spell Card
+
+Description: When there are no Spell Cards in your Graveyard, neither player can conduct their Battle Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D.D.
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Secret Slayers

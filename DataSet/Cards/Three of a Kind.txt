@@ -1,0 +1,14 @@
+Three of a Kind
+Card Type: Trap Card
+
+Description: If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Return of the Duelist

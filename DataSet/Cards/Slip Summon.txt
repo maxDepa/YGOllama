@@ -1,0 +1,14 @@
+Slip Summon
+Card Type: Trap Card
+
+Description: Activate only when your opponent Summons a monster. Special Summon 1 Level 4 or lower monster from your hand in face-up Defense Position. Return it to the owner's hand during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 2
+- Stardust Overdrive

@@ -1,0 +1,13 @@
+Penguin Squire
+Card Type: Tuner Monster
+
+Description: Cannot be used as Synchro Material, except for the Synchro Summon of a WATER monster. If a monster is Set on your field (except during the Damage Step): You can Special Summon this card from your hand, then you can reduce its Level by 1 or 2. You can target 1 face-down Defense Position monster you control; change it to face-up Defense Position, and if you do, its effects are negated unless it is a "Penguin" monster. You can only use each effect of "Penguin Squire" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 600
+Archetype: Penguin
+Present in Sets:
+- Burst of Destiny

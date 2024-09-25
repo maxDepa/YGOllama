@@ -1,0 +1,15 @@
+Steel Scorpion
+Card Type: Effect Monster
+
+Description: A non Machine-Type Monster attacking "Steel Scorpion" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 250
+Defence: 300
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

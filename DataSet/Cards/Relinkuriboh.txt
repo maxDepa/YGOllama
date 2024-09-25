@@ -1,0 +1,16 @@
+Relinkuriboh
+Card Type: Effect Monster
+
+Description: If this card is Tributed: Draw 1 card. If your monster would be destroyed by battle, you can banish this card from your GY instead.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- Invasion: Vengeance: Special Edition
+- Structure Deck: Lair of Darkness
+- Weekly Shonen Jump April 2016 membership promotional card
+- Yu-Gi-Oh! Advent Calendar (2019)

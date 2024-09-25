@@ -1,0 +1,14 @@
+Baku the Beast Ninja
+Card Type: Effect Monster
+
+Description: If this card is added to your hand, except by drawing it: You can Special Summon it. If this card is Special Summoned or flipped face-up: You can target 1 "Ninja" or "Ninjitsu Art" card from your GY or face-up Spell & Trap Zone, except "Baku the Beast Ninja"; return it to the hand. You can only use each effect of "Baku the Beast Ninja" once per turn.
+
+Type: Beast
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 600
+Archetype: Ninja
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

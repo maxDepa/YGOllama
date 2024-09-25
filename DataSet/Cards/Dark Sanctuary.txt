@@ -1,0 +1,15 @@
+Dark Sanctuary
+Card Type: Spell Card
+
+Description: If a "Spirit Message" card would be placed on your field with "Destiny Board", you can Special Summon it as a Normal Monster (Fiend/DARK/Level 1/ATK 0/DEF 0) instead, and if you do, it is unaffected by card effects, except "Destiny Board", and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. When an opponent's monster declares an attack: Toss a coin and if the result is heads, negate the attack, and if you do, inflict damage to your opponent equal to half the current ATK of that opponent's monster.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spirit Message
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

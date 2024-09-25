@@ -1,0 +1,13 @@
+Garbage Ogre
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the Graveyard; add 1 "Garbage Lord" from your Deck to your hand. You can only use the effect of "Garbage Ogre" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

@@ -1,0 +1,12 @@
+Spirit of the Mountain
+Card Type: Normal Monster
+
+Description: An elderly magician that raises mountains with his flute.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 5
+Attack: 1300
+Defence: 1800
+Archetype: //
+Present in Sets:

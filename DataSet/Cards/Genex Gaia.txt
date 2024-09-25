@@ -1,0 +1,15 @@
+Genex Gaia
+Card Type: Effect Monster
+
+Description: If this card would be destroyed, you can destroy 1 "Genex Controller" monster you control instead.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1900
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- OTS Tournament Pack 25

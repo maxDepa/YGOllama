@@ -1,0 +1,14 @@
+Unknown Warrior of Fiend
+Card Type: Normal Monster
+
+Description: The speed of this warrior creates an intense vacuum that can slice through a monster's hide.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

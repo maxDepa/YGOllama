@@ -1,0 +1,14 @@
+Blackwing - Bombardment
+Card Type: Trap Card
+
+Description: Tribute 1 "Blackwing" monster to select 1 face-up Synchro Monster you control. That Synchro Monster gains ATK equal to the Tributed monster's ATK, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- The Shining Darkness

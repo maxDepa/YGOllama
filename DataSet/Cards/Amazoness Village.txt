@@ -1,0 +1,17 @@
+Amazoness Village
+Card Type: Spell Card
+
+Description: All "Amazoness" monsters gain 200 ATK. Once per turn, when an "Amazoness" monster is destroyed by battle or card effect and sent to the GY: You can Special Summon 1 "Amazoness" monster from your Deck with a Level less than or equal to that "Amazoness" monster in the GY.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- Duelist Revolution
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Duelists of Tomorrow

@@ -1,0 +1,13 @@
+Doshin @Ignister
+Card Type: Effect Monster
+
+Description: If you control an "@Ignister" monster: You can Special Summon this card from your hand. You can target 1 Cyberse Link Monster in your GY; return it to the Extra Deck, and if you do, add 1 "A.I. Love Fusion" from your Deck to your hand. You can only use each effect of "Doshin @Ignister" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 800
+Archetype: @Ignister
+Present in Sets:
+- Ignition Assault

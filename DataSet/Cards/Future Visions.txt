@@ -1,0 +1,15 @@
+Future Visions
+Card Type: Spell Card
+
+Description: Each time a monster is Normal Summoned: Target that monster; banish it. During the next Standby Phase of the player who controlled that monster: Return it to the field in face-up Attack Position.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)

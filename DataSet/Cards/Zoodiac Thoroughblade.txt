@@ -1,0 +1,15 @@
+Zoodiac Thoroughblade
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can discard 1 "Zoodiac" card, and if you do, draw 1 card. An Xyz Monster whose original Type is Beast-Warrior and has this card as Xyz Material gains this effect.
+● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 0
+Archetype: Zoodiac
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

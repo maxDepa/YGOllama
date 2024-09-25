@@ -1,0 +1,18 @@
+Vampire Lady
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the Graveyard.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1550
+Defence: 1550
+Archetype: Vampire
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Zombie Madness

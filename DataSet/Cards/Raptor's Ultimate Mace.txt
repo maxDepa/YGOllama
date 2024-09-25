@@ -1,0 +1,14 @@
+Raptor's Ultimate Mace
+Card Type: Spell Card
+
+Description: Equip only to a "Raidraptor" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 "Rank-Up-Magic" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Raidraptor
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

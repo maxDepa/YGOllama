@@ -1,0 +1,20 @@
+Riryoku Field
+Card Type: Trap Card
+
+Description: When a Spell Card that targets exactly 1 monster on the field (and no other cards) is activated: Negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba Evolution
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

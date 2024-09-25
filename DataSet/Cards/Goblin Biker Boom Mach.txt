@@ -1,0 +1,13 @@
+Goblin Biker Boom Mach
+Card Type: Effect Monster
+
+Description: Once per Chain, during the Main Phase, if this card is in your hand or GY (Quick Effect): You can detach 1 Xyz Material from a monster on either field, and if you do, Special Summon this card, also you cannot Special Summon "Goblin Biker Boom Mach" until the end of the next turn.
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 0
+Archetype: Goblin
+Present in Sets:
+- Phantom Nightmare

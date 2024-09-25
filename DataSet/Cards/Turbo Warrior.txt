@@ -1,0 +1,18 @@
+Turbo Warrior
+Card Type: Synchro Monster
+
+Description: "Turbo Synchron" + 1 or more non-Tuner monsters
+When this card declares an attack on a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.
+
+Type: Warrior
+Attribute: WIND
+Level: 6
+Attack: 2500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Collectible Tins 2008 Wave 2
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack

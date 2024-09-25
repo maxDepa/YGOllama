@@ -1,0 +1,15 @@
+Goddess of Whim
+Card Type: Effect Monster
+
+Description: Once per turn: You can toss a coin and call Heads or Tails. If you call it right, double this card's ATK during this turn. If you call it wrong, halve its ATK during this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 950
+Defence: 700
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards

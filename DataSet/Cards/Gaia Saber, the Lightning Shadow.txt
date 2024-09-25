@@ -1,0 +1,15 @@
+Gaia Saber, the Lightning Shadow
+Card Type: Link Monster
+
+Description: 2+ monsters
+
+Type: Machine
+Attribute: EARTH
+Level: 0
+Attack: 2600
+Defence: 0
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Code of the Duelist
+- Duel Devastator

@@ -1,0 +1,14 @@
+Steelswarm Caller
+Card Type: Effect Monster
+
+Description: When a "Steelswarm" monster is Tribute Summoned face-up by Tributing this card: You can Special Summon 1 Level 4 or lower "Steelswarm" monster from your Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

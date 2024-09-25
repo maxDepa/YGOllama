@@ -1,0 +1,19 @@
+Tutan Mask
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card is activated that targets exactly 1 Zombie monster on the field (and no other cards): Negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel: Trials of the Kingdom
+- Zombie World Structure Deck

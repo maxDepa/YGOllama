@@ -1,0 +1,13 @@
+Gamushara
+Card Type: Trap Card
+
+Description: When a Defense Position monster you control is targeted for an attack: Change that Defense Position monster to face-up Attack Position. Then, if the attacking monster is destroyed by that battle and sent to the Graveyard: Inflict damage to your opponent equal to that monster's original ATK in the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord

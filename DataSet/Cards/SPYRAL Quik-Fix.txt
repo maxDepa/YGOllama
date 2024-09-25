@@ -1,0 +1,16 @@
+SPYRAL Quik-Fix
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "SPYRAL GEAR" card from your Deck to your hand. If this card is in your GY and you control "SPYRAL Super Agent": You can discard 1 card; Special Summon this card, but banish it when it leaves the field.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 500
+Defence: 400
+Archetype: SPYRAL
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- OTS Tournament Pack 5
+- The Dark Illusion

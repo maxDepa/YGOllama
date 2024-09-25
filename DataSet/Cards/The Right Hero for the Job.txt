@@ -1,0 +1,13 @@
+The Right Hero for the Job
+Card Type: Skill Card
+
+Description: Once per Duel, during your Main Phase, you can shuffle 1 "Elemental HERO" monster you control into your Deck, then Special Summon 1 Level 4 or lower "Elemental HERO" monster from your Main Deck with a different name than the shuffled card.
+
+Type: Jaden Yuki
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

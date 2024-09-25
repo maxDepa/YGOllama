@@ -1,0 +1,14 @@
+Neo Aqua Madoor
+Card Type: Normal Monster
+
+Description: The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 6
+Attack: 1200
+Defence: 3000
+Archetype: Madoor
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist

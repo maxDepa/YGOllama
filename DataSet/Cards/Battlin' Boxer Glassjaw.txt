@@ -1,0 +1,15 @@
+Battlin' Boxer Glassjaw
+Card Type: Effect Monster
+
+Description: When this card is targeted for an attack: Destroy this card. When this card is sent to the Graveyard by a card effect: You can target 1 "Battlin' Boxer" monster in your Graveyard, except "Battlin' Boxer Glassjaw"; add that target to your hand.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Soulburning Volcano
+- Lord of the Tachyon Galaxy

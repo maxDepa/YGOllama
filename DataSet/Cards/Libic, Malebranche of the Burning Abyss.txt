@@ -1,0 +1,16 @@
+Libic, Malebranche of the Burning Abyss
+Card Type: Effect Monster
+
+Description: If you control a monster that is not a "Burning Abyss" monster, destroy this card. You can only use 1 of these effects of "Libic, Malebranche of the Burning Abyss" per turn, and only once that turn.
+● If you control no Spell/Trap Cards: You can Special Summon this card from your hand.
+● If this card is sent to the Graveyard: You can Special Summon 1 Level 3 DARK Fiend-Type monster from your hand, but its effects are negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 700
+Archetype: Burning Abyss
+Present in Sets:
+- Premium Gold: Infinite Gold
+- Secrets of Eternity

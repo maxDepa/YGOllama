@@ -1,0 +1,28 @@
+Forbidden Chalice
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; until the end of this turn, that target gains 400 ATK, but its effects are negated.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Forbidden
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Hero Decks
+- Maximum Gold
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Premium Gold
+- Raging Battle
+- Raging Battle
+- Structure Deck: Powercode Link
+- Wing Raiders

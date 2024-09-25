@@ -1,0 +1,12 @@
+Fiend Reflection #1
+Card Type: Normal Monster
+
+Description: This monster can draw its enemies into a mirror world that renders them helpless.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: //
+Present in Sets:

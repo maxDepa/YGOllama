@@ -1,0 +1,17 @@
+Dragunity Pilum
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type "Dragunity" monster from your hand, then equip it with this card. While this card is equipped to a monster, that monster can attack your opponent directly. When you do, Battle Damage inflicted to your opponent (by the equipped monster) is halved.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 1400
+Defence: 1000
+Archetype: Dragunity
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 8 (POR)

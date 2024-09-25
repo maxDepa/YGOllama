@@ -1,0 +1,13 @@
+Supremacy Berry
+Card Type: Spell Card
+
+Description: If your Life Points were lower than your opponent's when this card was activated, gain 2000 Life Points. If your Life Points were higher than your opponent's, you take 1000 damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

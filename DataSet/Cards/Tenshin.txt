@@ -1,0 +1,13 @@
+Tenshin
+Card Type: Effect Monster
+
+Description: This card gains 400 ATK for each face-up Level 2 monster you control.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 100
+Archetype: //
+Present in Sets:
+- Starter Deck: Dawn of the Xyz

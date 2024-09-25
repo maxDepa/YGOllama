@@ -1,0 +1,16 @@
+Ancient Gear
+Card Type: Effect Monster
+
+Description: If you control an "Ancient Gear", you can Special Summon this card (from your hand) in face-up Attack Position.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Machine Re-Volt

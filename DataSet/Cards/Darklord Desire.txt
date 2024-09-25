@@ -1,0 +1,17 @@
+Darklord Desire
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 Fairy-Type monster. Once per turn: You can target 1 monster your opponent controls; this card loses exactly 1000 ATK, and if it does, send that target to the Graveyard.
+
+Type: Fairy
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 2800
+Archetype: Darklord
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Yu-Gi-Oh! GX Volume 5 promotional card

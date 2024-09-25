@@ -1,0 +1,16 @@
+Rod of Silence - Kay'est
+Card Type: Spell Card
+
+Description: The equipped monster gains 500 DEF. Negate other Spell effects that target the equipped monster, and if you do, destroy that Spell Card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

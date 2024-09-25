@@ -1,0 +1,14 @@
+Lavalval Salamander
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner FIRE monsters
+If this card is Synchro Summoned: You can draw 2 cards, then, if you have a FIRE monster in your hand, send 2 cards from your hand to the GY including a FIRE monster. Otherwise, reveal your entire hand, and shuffle it into the Deck. You can only use this effect of "Lavalval Salamander" once per turn. Once per turn: You can banish 1 FIRE monster from your GY; change face-up monsters your opponent controls, up to the number of "Laval" monsters you control, to face-down Defense Position.
+
+Type: Dragon
+Attribute: FIRE
+Level: 7
+Attack: 2600
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Ghosts From the Past

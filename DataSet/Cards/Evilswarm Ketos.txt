@@ -1,0 +1,18 @@
+Evilswarm Ketos
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Aqua
+Attribute: DARK
+Level: 4
+Attack: 1750
+Defence: 1050
+Archetype: Lswarm
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

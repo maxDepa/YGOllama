@@ -1,0 +1,54 @@
+Game mechanics
+Game mechanics refer to any action that automatically happens due to the interior workings of the Yu-Gi-Oh! game. They are not treated as effects and most of the time cannot be avoided.
+
+Names
+Names
+Every card has a specific name, but even something as simple as a name has rules attached to it. The basic rule is that each deck may only contain up to 3 cards of the same name. However, there are some cards with effects that change their name, like the Harpies. "Cyber Harpie Lady," "Harpie Lady 1," "Harpie Lady 2," and "Harpie Lady 3" all have the condition "(This card's name is always treated as "Harpie Lady".)" This means a Deck can only contain up to 3 copies of cards that are named or always treated as "Harpie Lady" (in any combination). Cards that change their name only at certain times such as "The Lady in Wight" or "Harpie Queen" are different and are not held by the same restriction.
+
+If only the name of a card is considered to be on the field, the effects of that card are not applied. For example, if "Gravekeeper's Priestess" is on the field, "Necrovalley" is considered to be on the field in the Field Spell Card Zone, so you can activate cards that require "Necrovalley" to be on the field, such as "Royal Tribute." However, none of the effects printed on "Necrovalley" are applied, as the physical card is not on the field; therefore, "Chaos Sorcerer" can still be Special Summoned from the hand because "Necrovalley"'s ability to prevent cards in the Graveyard from being banished is not applied.
+
+Most cards have their names changed from the OCG to the TCG for one reason or another. Though normally harmless, it sometimes causes confusion or problems between archetypes; these card are often renamed (such as "Oscillo Hero #2" was to "Wattkid") or given an archetype condition to clarify this.
+
+Monster Tokens
+Many cards can Special Summon Tokens to the field. Every Token Monster's original ATK, DEF, Level, Attribute, and Type are as they are listed on the card that summoned them. They are always considered Normal Monsters, and any effect(s) they may have is instead, a statement given by other cards (usually the one that summons the Token(s)).
+
+Token-Specific Rules
+They can only be face-up, and cannot be face-down on the field, so "Book of Moon" cannot target them.
+If an effect that would flip multiple monsters on the field to face-down Defense Position effect them, their battle position does not change.
+They cannot exist outside the field. If a Token would leave the field (returned to the hand or Deck; Sent to Graveyard; banished), it simply disappears instead. They are not considered to go to the Graveyard if they are destroyed by battle.
+They cannot be used as Xyz Materials for an Xyz Summon, nor can they be treated as one.
+Their owner is always considered to be the owner of the card that Summoned them. For example, if "Owner's Seal" is activated, "Ojama Tokens" move to the side of the field of the player who activated "Ojama Trio".
+Unless stated otherwise, can freely be used as Tribute(s) for Tribute or Ritual Summons, or be used as Fusion, Synchro or Link Materials.
+They cannot be used for cost specifying the place where the card would end up, such as sending them to GY.
+
+Using Cards and the Graveyard
+Whenever a card is destroyed, discarded or Tributed, when a Normal or Quick-Play Spell is used, or when a Normal or Counter Trap is used, it is always sent to the Graveyard unless a card effect states otherwise, such as "Macro Cosmos" or "Masked HERO Dark Law".
+
+Field Spell Cards
+Each player can have only one Field Spell Card on their field at a time. A player who controls a Field Spell Card may play a new one by sending their current one to the Graveyard (this is not considered destroying it). This creates a minor gap of timing in which there is no Field Spell Card on the field, causing monsters such as "Earthbound Immortal" and "Malefic" monsters to destroy themselves.
+
+Before the 2014 rule change, only one Field Spell Card could be on the field at a time. If a player had one on the field and the other player activated a second one, when the second one's activation resolved, the first one was automatically destroyed. Because this was a game mechanic and not a card effect, cards like "Magical Citadel of Endymion" were not able to protect themselves from this destruction. However, if the second Field Spell Card was destroyed before its activation was able to resolve, such as with "Mystical Space Typhoon", the original one was not destroyed.
+
+Equip Cards
+Equip cards continuously target the equipped monster to make sure it is still there. If that monster is no longer face-up on the field, the Equip card is automatically destroyed. This can be due to either being destroyed or removed from the field by battle of card effect, or simply being flipped face-down with "Book of Moon".
+
+Additionally, Equip cards also continuously target to make sure the equipped monster fits its requirements, and if it suddenly no longer meets its requirements, the Equip card is destroyed.
+
+Example: If "Machina Peacekeeper" is equipped to a "Machina Fortress" and "Zombie World" is activated, "Machina Peacekeeper" is automatically destroyed because "Machina Fortress" has been changed into a Zombie-Type and no longer meets the Machine-Type requirement.
+
+Fusion Substitutes
+There are multiple cards with the following effect: "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s)." While these are great cards for Fusion Summoning, there are other limits to their effects that aren't listed:
+
+They cannot be used for the Special Summon of an "Elemental HERO Neos", "Gladiator Beast", or "A-to-Z" Fusion Monster, because the listed monsters are not used as Fusion Material Monsters.
+They can only be used as substitutes for Fusion Material Monsters whose names are specifically listed on the Fusion Monster Card. Thus they cannot be used as substitutes for "1 Ojama Monster" for "Ojama Knight" or "1 WIND monster" for "Elemental HERO Great Tornado" (unless their attribute is already WIND).
+While they do have effects while in the hand, they have no effects while in the Deck, so they cannot be used when fusing from the Deck with cards like "Future Fusion".
+
+Pendulum Monsters
+Whenever a Pendulum monster on the field in either a Monster Zone or a Pendulum Zone would be sent to the Graveyard, it is placed face-up in the Extra Deck instead. While there, it is treated as an additional card on the Extra Deck (does not count toward the maximum Extra Deck size when building deck), rather than a card in a card zone, so it cannot be targeted by card effects.
+
+Infinite Loops
+Within the TCG there are cards that, when combined together, create loops that can (and just might) never end. As such, a rule has been put in place for both types of infinite loop. First is the No Net Change loop. This type of loop is one where the card effects continue to loop around in a circle without any real changes or control of whether they happen or not. Players may not activate or Summon a card if they know it would create a No Net Change loop. If this has been done by accident, play rewinds to the point of the offending activation or summon and continues from there.
+
+The other type of loop is the Net Change loop. This type of loop continues endlessly without any control, but applies a change with each iteration that causes a player to become closer to losing the game, such as reducing a player's Life Points or the number of cards in his or her deck. Loops such as these are legal and are allowed to loop endlessly until the change stops happening, in which the card causing the loop will be automatically destroyed at the end of a loop. A loop where the only Net Change is the increase of a player's Life Points is considered a No Net Change, because a game cannot be ended due to a player having too many Life Points.
+
+All other loops, such as the Quillbolt Loop, are controlled by a player and can be stopped at anytime when the player sees fit. Such loops are completely legal, but if it becomes a controlled No Net Change loop, the player cannot perform it; this would be a form of stalling and is not legal. An example would be a player using a Burn Quillbolt Loop when the opponent has activated "Hallowed Life Barrier" for the turn.

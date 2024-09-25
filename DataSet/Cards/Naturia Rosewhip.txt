@@ -1,0 +1,16 @@
+Naturia Rosewhip
+Card Type: Tuner Monster
+
+Description: Your opponent can only activate 1 Spell/Trap Card per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 1700
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

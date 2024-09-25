@@ -1,0 +1,16 @@
+Burning Draw
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Salamangreat" card.)
+If your opponent controls more cards than you do: Target 1 Link Monster your opponent controls; draw cards equal to its Link Rating. You can only activate 1 "Burning Draw" per turn. You cannot Normal or Special Summon monsters the turn you activate this card, except FIRE monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- Legendary Duelists: Soulburning Volcano

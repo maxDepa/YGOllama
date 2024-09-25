@@ -1,0 +1,13 @@
+Infernity Archer
+Card Type: Effect Monster
+
+Description: If you have no cards in your hand, this card can attack your opponent directly.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 1000
+Archetype: Infernity
+Present in Sets:
+- Cosmo Blazer

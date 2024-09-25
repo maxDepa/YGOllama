@@ -1,0 +1,13 @@
+S-Force Orrafist
+Card Type: Effect Monster
+
+Description: Your opponent cannot target any of their monsters in the same column as one of your "S-Force" monsters with card effects. When a monster your opponent controls activates its effect (Quick Effect): You can banish 1 "S-Force" card from your hand; destroy that monster. You can only use this effect of "S-Force Orrafist" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: S-Force
+Present in Sets:
+- Blazing Vortex

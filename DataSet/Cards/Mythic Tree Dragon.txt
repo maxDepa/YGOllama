@@ -1,0 +1,14 @@
+Mythic Tree Dragon
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 WATER Dragon-Type monster you control; this card's Level becomes the current Level of that monster.
+
+Type: Dragon
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

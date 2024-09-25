@@ -1,0 +1,13 @@
+Goblin Pothole Squad
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, Trap Cards cannot be activated. Also, "Trap Hole" Trap Cards cannot be activated when a monster is Summoned, except "Dark Trap Hole".
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 400
+Archetype: Hole
+Present in Sets:
+- Photon Shockwave

@@ -1,0 +1,16 @@
+Sword of Dark Destruction
+Card Type: Spell Card
+
+Description: Equip only to a DARK monster. It gains 400 ATK and loses 200 DEF.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Attack from the Deep
+- Starter Deck: Yugi
+- Starter Deck: Yugi

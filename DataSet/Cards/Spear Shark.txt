@@ -1,0 +1,13 @@
+Spear Shark
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can increase the Levels of all Level 3 Fish-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

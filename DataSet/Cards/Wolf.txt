@@ -1,0 +1,13 @@
+Wolf
+Card Type: Normal Monster
+
+Description: Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffin at my socks!
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

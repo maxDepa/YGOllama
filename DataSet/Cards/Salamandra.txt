@@ -1,0 +1,18 @@
+Salamandra
+Card Type: Spell Card
+
+Description: Equip only to a FIRE monster. It gains 700 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League 15 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Speed Duel GX: Duel Academy Box
+- Yu-Gi-Oh! Dark Duel Stories promotional cards
+- Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards

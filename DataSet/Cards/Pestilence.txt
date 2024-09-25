@@ -1,0 +1,13 @@
+Pestilence
+Card Type: Spell Card
+
+Description: Equip only to a Warrior-Type, Beast-Warrior-Type, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

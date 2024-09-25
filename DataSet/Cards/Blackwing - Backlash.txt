@@ -1,0 +1,15 @@
+Blackwing - Backlash
+Card Type: Trap Card
+
+Description: When an opponent's monster declares a direct attack while you have 5 or more "Blackwing" monsters in your Graveyard: Destroy all monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack
+- The Shining Darkness

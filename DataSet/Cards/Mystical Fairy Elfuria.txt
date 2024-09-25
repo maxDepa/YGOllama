@@ -1,0 +1,14 @@
+Mystical Fairy Elfuria
+Card Type: Effect Monster
+
+Description: Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next turn, neither player can Xyz Summon using monsters with a different Level from the revealed monster as Xyz Material.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 900
+Archetype: //
+Present in Sets:
+- Cosmo Blazer
+- Yu-Gi-Oh! Advent Calendar (2018)

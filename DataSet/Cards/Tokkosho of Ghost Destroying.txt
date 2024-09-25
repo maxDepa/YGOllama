@@ -1,0 +1,13 @@
+Tokkosho of Ghost Destroying
+Card Type: Spell Card
+
+Description: When the equipped monster inflicts Battle Damage to your opponent, you can select up to 2 monsters in your opponent's Graveyard, and remove them from play.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starstrike Blast

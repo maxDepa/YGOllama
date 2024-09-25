@@ -1,0 +1,15 @@
+Brotherhood of the Fire Fist - Buffalo
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can send a total of 2 "Fire Fist" / "Fire Formation" cards from your hand and/or face-up on your side of the field to the Graveyard; Special Summon this card from your Graveyard. You can only use the effect of "Brotherhood of the Fire Fist - Buffalo" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Maximum Gold

@@ -1,0 +1,23 @@
+Cost Down
+Card Type: Spell Card
+
+Description: Discard 1 card; for the rest of this turn, reduce the Levels of all monsters in your hand by 2 (even after they are Summoned).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack
+- Maze of Memories
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 4

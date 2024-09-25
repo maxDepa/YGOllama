@@ -1,0 +1,14 @@
+Yang Zing Creation
+Card Type: Trap Card
+
+Description: Once per turn, if a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 "Yang Zing" monster from your Deck. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Yang Zing
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

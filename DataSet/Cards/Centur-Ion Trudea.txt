@@ -1,0 +1,14 @@
+Centur-Ion Trudea
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can place this card you control and 1 "Centur-Ion" monster from your hand or Deck, except "Centur-Ion Trudea", in your Spell & Trap Zones as face-up Continuous Traps, also you cannot Special Summon "Centur-Ion Trudea" for the rest of this turn. During the Main Phase, if this card is a Continuous Trap: You can Special Summon this card, then you can increase its Level by 4. You can only use each effect of "Centur-Ion Trudea" once per turn.
+
+Type: Pyro
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Centur-Ion
+Present in Sets:
+- Valiant Smashers
+- Valiant Smashers

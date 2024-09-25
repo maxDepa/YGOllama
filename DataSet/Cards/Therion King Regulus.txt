@@ -1,0 +1,18 @@
+Therion "King" Regulus
+Card Type: Effect Monster
+
+Description: You can only use each of the following effects of "Therion "King" Regulus" once per turn.
+● You can target 1 "Therion" monster or 1 Machine monster in your GY; Special Summon this card from your hand, and if you do, equip that monster to this card.
+● When your opponent activates a card or effect (Quick Effect): You can send 1 "Therion" Monster Card from your hand or face-up field to the GY; negate that effect.
+A "Therion" monster equipped with this card gains 700 ATK, also it can activate the 2nd effect listed above as if it were "Therion "King" Regulus".
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 1600
+Archetype: Therion
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force
+- Dimension Force

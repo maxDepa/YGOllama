@@ -1,0 +1,14 @@
+Evigishki Mind Augus
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets into the Deck.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

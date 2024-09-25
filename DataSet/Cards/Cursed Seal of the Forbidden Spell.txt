@@ -1,0 +1,20 @@
+Cursed Seal of the Forbidden Spell
+Card Type: Trap Card
+
+Description: When a Spell Card is activated: Discard 1 Spell; negate the activation, and if you do, destroy it, and if you do that, your opponent cannot activate Spell Cards with that name for the rest of this Duel.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Champion Pack: Game Five
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Speed Duel GX: Midterm Paradox

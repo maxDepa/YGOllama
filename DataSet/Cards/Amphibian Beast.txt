@@ -1,0 +1,16 @@
+Amphibian Beast
+Card Type: Normal Monster
+
+Description: On land or in the sea, the speed of this monster is unmatchable.
+
+Type: Fish
+Attribute: WATER
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

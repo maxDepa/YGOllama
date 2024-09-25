@@ -1,0 +1,15 @@
+Ambulanceroid
+Card Type: Effect Monster
+
+Description: When a "roid" monster is added from your Graveyard to your hand, you can Special Summon that monster.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 1200
+Archetype: Roid
+Present in Sets:
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

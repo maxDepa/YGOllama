@@ -1,0 +1,13 @@
+Tuner's High
+Card Type: Spell Card
+
+Description: Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shining Victories

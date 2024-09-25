@@ -1,0 +1,19 @@
+Twilight Ninja Jogen
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If your "Ninja" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+[ Monster Effect ] 
+You can reveal 1 "Ninjitsu Art" card in your hand; Special Summon this card from your hand. If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 2000
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Shadows in Valhalla

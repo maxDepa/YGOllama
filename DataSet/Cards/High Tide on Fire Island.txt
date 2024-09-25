@@ -1,0 +1,15 @@
+High Tide on Fire Island
+Card Type: Trap Card
+
+Description: If you control a Level 7 or higher WATER or FIRE monster: Apply the appropriate effects, in sequence, depending on the Attributes of monsters you control at that time.
+● WATER: Special Summon as many WATER monsters as possible that were sent to your Graveyard to activate monster effects this turn, then destroy 1 monster you control.
+● FIRE: Destroy 1 monster on the field, then if you have any cards in your hand, discard 1 card to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

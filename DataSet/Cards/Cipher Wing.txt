@@ -1,0 +1,15 @@
+Cipher Wing
+Card Type: Effect Monster
+
+Description: If you control a "Cipher" monster, you can Special Summon this card (from your hand). You can Tribute this card; increase the Levels of all "Cipher" monsters you control by 4 until the end of this turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: Cipher
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians

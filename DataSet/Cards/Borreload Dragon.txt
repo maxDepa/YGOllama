@@ -1,0 +1,17 @@
+Borreload Dragon
+Card Type: Link Monster
+
+Description: 3+ Effect Monsters
+Neither player can target this card with monster effects. Once per turn (Quick Effect): You can target 1 face-up monster on the field; it loses 500 ATK/DEF. Your opponent cannot activate cards or effects in response to this effect's activation. At the start of the Damage Step, if this card attacks an opponent's monster: You can place that opponent's monster in a zone this card points to and take control of it, but send it to the GY during the End Phase of the next turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Borrel
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Duel Power
+- Structure Deck: Rokket Revolt

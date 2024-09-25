@@ -1,0 +1,18 @@
+Spell Striker
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Champion Pack: Game Seven
+- Machine Reactor Structure Deck
+- Warriors' Strike Structure Deck
+- Yu-Gi-Oh! World Championship 2007 promotional cards

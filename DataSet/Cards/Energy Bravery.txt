@@ -1,0 +1,13 @@
+Energy Bravery
+Card Type: Effect Monster
+
+Description: Gemini Monsters you control that are being treated as Effect Monsters cannot be destroyed by card effects.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

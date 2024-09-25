@@ -1,0 +1,14 @@
+Wicked Rebirth
+Card Type: Trap Card
+
+Description: Activate this card by paying 800 LP, then target 1 Synchro Monster in your Graveyard; Special Summon it in Attack Position. Its effects are negated, also it cannot declare an attack this turn. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Raging Battle

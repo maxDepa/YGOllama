@@ -1,0 +1,15 @@
+Network Trap Hole
+Card Type: Trap Card
+
+Description: When your opponent Special Summons a monster(s) from the Main Deck or GY: Banish it face-down.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- OTS Tournament Pack 21

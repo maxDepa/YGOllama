@@ -1,0 +1,12 @@
+Gimmick Puppet Fiendish Knight
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 "Gimmick Puppet" monster in your GY or 1 monster in your opponent's GY; Special Summon it to its owner's field in Defense Position (but its effects are negated), then Special Summon this card. If this card is sent to the GY, except from the hand: You can add it to your hand. You cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except "Gimmick Puppet" monsters. You can only use each effect of "Gimmick Puppet Fiendish Knight" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 500
+Archetype: Gimmick Puppet
+Present in Sets:

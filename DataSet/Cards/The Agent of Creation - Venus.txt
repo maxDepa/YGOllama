@@ -1,0 +1,18 @@
+The Agent of Creation - Venus
+Card Type: Effect Monster
+
+Description: You can pay 500 LP; Special Summon 1 "Mystical Shine Ball" from your hand or Deck.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: The Agent
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Collection 3: Yugi's World Mega Pack
+- Lost Sanctuary Structure Deck
+- OTS Tournament Pack 5

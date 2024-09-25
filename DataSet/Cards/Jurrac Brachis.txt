@@ -1,0 +1,14 @@
+Jurrac Brachis
+Card Type: Tuner Monster
+
+Description: While another face-up "Jurrac" monster is on the field, this card cannot be destroyed by battle.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

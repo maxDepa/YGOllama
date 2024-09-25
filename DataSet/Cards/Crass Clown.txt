@@ -1,0 +1,17 @@
+Crass Clown
+Card Type: Effect Monster
+
+Description: When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent's side of the field to the owner's hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1350
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel GX: Midterm Paradox

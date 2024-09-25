@@ -1,0 +1,13 @@
+Piercing the Darkness
+Card Type: Spell Card
+
+Description: If you Normal or Special Summon a non-Token Normal Monster(s) (except during the Damage Step): You can draw 1 card. When an attack is declared involving an opponent's monster and a monster you control that is a Level 5 or higher Normal Monster, or was Ritual Summoned using a Normal Monster, or was Fusion, Synchro, or Xyz Summoned using a Normal Monster as material: You can make that monster you control gain ATK equal to that opponent's monster's ATK, until the end of this turn. You can only use each effect of "Piercing the Darkness" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles

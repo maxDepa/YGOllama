@@ -1,0 +1,16 @@
+Elemental HERO Heat
+Card Type: Effect Monster
+
+Description: This card gains 200 ATK for each "Elemental HERO" monster you control.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Elemental HERO
+Present in Sets:
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)

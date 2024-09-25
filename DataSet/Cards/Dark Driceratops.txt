@@ -1,0 +1,18 @@
+Dark Driceratops
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Ultimate Predators
+- Structure Deck: Dinosaur's Rage

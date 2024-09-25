@@ -1,0 +1,14 @@
+Ritual Beast Ulti-Nochiudrago
+Card Type: Fusion Monster
+
+Description: 1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
+Must be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon "Ritual Beast Ulti-Nochiudrago(s)" once per turn. Your opponent cannot target other "Ritual Beast" monsters you control with card effects. (Quick Effect): You can return this card to the Extra Deck, then target 1 of your banished "Ritual Beast" monsters; Special Summon it, but it cannot attack directly.
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 7
+Attack: 2400
+Defence: 1900
+Archetype: Ritual Beast
+Present in Sets:
+- Battles of Legend: Terminal Revenge

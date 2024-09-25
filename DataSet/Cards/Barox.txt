@@ -1,0 +1,14 @@
+Barox
+Card Type: Fusion Monster
+
+Description: "Frenzied Panda" + "Ryu-Kishin"
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1380
+Defence: 1530
+Archetype: //
+Present in Sets:
+- Astral Pack Two
+- Battles of Legend: Terminal Revenge

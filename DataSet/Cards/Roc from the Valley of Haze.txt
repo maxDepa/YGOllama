@@ -1,0 +1,15 @@
+Roc from the Valley of Haze
+Card Type: Effect Monster
+
+Description: When this card is sent directly from your hand to the Graveyard, add this card to the Deck and shuffle it.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 2400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Structure Deck: Lord of the Storm

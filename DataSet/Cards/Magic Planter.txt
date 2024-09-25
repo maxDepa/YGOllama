@@ -1,0 +1,17 @@
+Magic Planter
+Card Type: Spell Card
+
+Description: Send 1 face-up Continuous Trap you control to the GY; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Raging Battle
+- Shadows in Valhalla
+- Structure Deck: Soulburner
+- Valiant Smashers

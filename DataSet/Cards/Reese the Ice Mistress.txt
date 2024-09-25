@@ -1,0 +1,15 @@
+Reese the Ice Mistress
+Card Type: Tuner Monster
+
+Description: This card cannot be destroyed by battle with a Level 4 or higher monster.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Duel Terminal 1
+- Gold Series 3
+- Realm of the Sea Emperor Structure Deck

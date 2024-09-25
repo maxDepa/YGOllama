@@ -1,0 +1,15 @@
+Final Geas
+Card Type: Trap Card
+
+Description: If a monster(s) with an original Level of 7 or higher is sent from each player's field to the Graveyard this turn: Banish as many monsters from the Graveyards as possible, then you can Special Summon the 1 highest-Level Spellcaster-Type monster among those banished monsters to your field (your choice, if tied).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

@@ -1,0 +1,17 @@
+Superheavy Samurai Trumpeter
+Card Type: Tuner Monster
+
+Description: If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand). After this card was Special Summoned this way, you cannot Special Summon monsters for the rest of this turn, except "Superheavy Samurai" monsters. If this card is Tributed for the Tribute Summon of a "Superheavy Samurai" monster and sent to the Graveyard, and you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 600
+Archetype: Superheavy
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition
+- Star Pack ARC-V
+- Star Pack ARC-V

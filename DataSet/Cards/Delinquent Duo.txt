@@ -1,0 +1,18 @@
+Delinquent Duo
+Card Type: Spell Card
+
+Description: Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection Kaiba Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

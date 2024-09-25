@@ -1,0 +1,14 @@
+Clown Zombie
+Card Type: Normal Monster
+
+Description: A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 1350
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Arena of Lost Souls
+- Tournament Pack 6

@@ -1,0 +1,25 @@
+Elemental HERO Neos
+Card Type: Normal Monster
+
+Description: ''A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.''
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Collectible Tins 2006 Wave 1
+- Duel Power
+- Duel Terminal - Preview Wave 1
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Duelist League 3 participation cards
+- Duelist Pack: Jaden Yuki 2
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Maximum Gold: El Dorado
+- Power of the Duelist
+- Ra Yellow Mega Pack
+- Shadows in Valhalla

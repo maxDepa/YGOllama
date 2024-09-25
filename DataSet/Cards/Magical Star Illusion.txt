@@ -1,0 +1,13 @@
+Magical Star Illusion
+Card Type: Spell Card
+
+Description: If your opponent controls a monster(s) and you control as many or fewer monsters: Monsters currently on the field gain ATK equal to the combined Levels of all monsters their controller currently controls x 100, until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The New Challengers

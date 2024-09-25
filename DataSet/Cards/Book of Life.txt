@@ -1,0 +1,28 @@
+Book of Life
+Card Type: Spell Card
+
+Description: Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Book of
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Duelist League 17 participation cards
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Pharaonic Guardian
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 4
+- Speed Duel: Scars of Battle
+- Structure Deck: Zombie Horde
+- Structure Deck: Zombie Madness
+- Tournament Pack 5
+- Zombie World Structure Deck

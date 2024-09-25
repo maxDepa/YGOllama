@@ -1,0 +1,13 @@
+Chronomaly Mayan Machine
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 700
+Archetype: Chronomaly
+Present in Sets:
+- Return of the Duelist

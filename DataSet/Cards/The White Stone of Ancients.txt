@@ -1,0 +1,18 @@
+The White Stone of Ancients
+Card Type: Tuner Monster
+
+Description: Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: You can Special Summon 1 "Blue-Eyes" monster from your Deck. You can banish this card from your GY, then target 1 "Blue-Eyes" monster in your GY; add it to your hand. You can only use this effect of "The White Stone of Ancients" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 1
+Attack: 600
+Defence: 500
+Archetype: Blue-Eyes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Maximum Gold
+- Shining Victories

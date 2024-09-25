@@ -1,0 +1,14 @@
+Galaxy Photon Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Other LIGHT monsters you control gain 500 ATK. You can only use each of the following effects of "Galaxy Photon Dragon" once per turn. You can detach 1 material from this card; either add 1 "Photon" or "Galaxy" card from your Deck to your hand, or send it to the GY. If a LIGHT monster(s) is Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; its Level becomes 4 or 8 until the end of this turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Galaxy
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,14 @@
+Gem-Turtle
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 "Gem-Knight Fusion" from your Deck to your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 7b
+- Photon Shockwave

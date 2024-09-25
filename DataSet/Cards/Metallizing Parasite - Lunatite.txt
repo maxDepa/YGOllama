@@ -1,0 +1,15 @@
+Metallizing Parasite - Lunatite
+Card Type: Union Effect Monster
+
+Description: Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to a face-up monster on your side of the field as an Equip Spell Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, that monster will be unaffected by the effects of Spell Cards controlled by your opponent. (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)
+
+Type: Aqua
+Attribute: WATER
+Level: 7
+Attack: 1000
+Defence: 500
+Archetype: Parasite
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

@@ -1,0 +1,30 @@
+Monster Reincarnation
+Card Type: Spell Card
+
+Description: Discard 1 card, then target 1 monster in your GY; add it to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Legion Starter Deck
+- Dark Revelation Volume 3
+- Dragunity Legion Structure Deck
+- Duel Terminal 4
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Duelists
+- Realm of Light Structure Deck
+- Rise of Destiny
+- Rise of Destiny
+- Saber Force Starter Deck
+- Starter Deck 2006
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Jaden Yuki
+- Starter Deck: Link Strike
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Soulburner
+- Super Starter: Space-Time Showdown

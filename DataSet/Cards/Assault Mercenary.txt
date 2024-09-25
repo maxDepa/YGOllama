@@ -1,0 +1,13 @@
+Assault Mercenary
+Card Type: Effect Monster
+
+Description: Once per turn, you can return 1 "Assault Mode Activate" from your hand or Graveyard to the Deck to destroy 1 Spell or Trap Card your opponent controls.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 300
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis

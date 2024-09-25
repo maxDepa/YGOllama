@@ -1,0 +1,13 @@
+Super Crashbug
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) in face-up Defense Position, by banishing "Crashbug X", "Crashbug Y", and "Crashbug Z" from your Graveyard. Switch the ATK and DEF of all face-up Attack Position monsters on the field. There can only be 1 face-up "Super Crashbug" on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Generation Force

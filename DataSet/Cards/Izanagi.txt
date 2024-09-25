@@ -1,0 +1,13 @@
+Izanagi
+Card Type: Effect Monster
+
+Description: You can Special Summon this card from your hand by removing from play 1 Spirit monster from your hand. Spirit monsters you control do not have to have their effects that return them to the hand activated.
+
+Type: Fairy
+Attribute: WIND
+Level: 6
+Attack: 2200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

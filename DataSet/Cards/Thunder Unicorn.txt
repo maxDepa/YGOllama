@@ -1,0 +1,15 @@
+Thunder Unicorn
+Card Type: Synchro Monster
+
+Description: 1 Beast-Type Tuner + 1 or more non-Tuner monsters
+Once per turn, during your Main Phase, you can select 1 face-up monster your opponent controls. It loses 500 ATK for each monster you control, until the End Phase. During the turn this effect is activated, no other monsters can attack, except this card.
+
+Type: Beast
+Attribute: LIGHT
+Level: 5
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- Duelist Revolution

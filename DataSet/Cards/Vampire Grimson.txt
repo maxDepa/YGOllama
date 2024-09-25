@@ -1,0 +1,14 @@
+Vampire Grimson
+Card Type: Effect Monster
+
+Description: If a monster(s) you control would be destroyed by battle or an opponent's card effect, you can pay 1000 LP for each monster that would be destroyed, instead (you must protect all your monsters that would be destroyed, if you use this effect). At the end of the Battle Phase, if this card destroyed any monster(s) by battle: You can Special Summon them from the GYs to your field.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1400
+Archetype: Vampire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

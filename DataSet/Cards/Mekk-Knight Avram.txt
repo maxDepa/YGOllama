@@ -1,0 +1,14 @@
+Mekk-Knight Avram
+Card Type: Normal Monster
+
+Description: "Check THIS out!"
+
+Type: Psychic
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Mekk-Knight
+Present in Sets:
+- Extreme Force Special Edition
+- Flames of Destruction

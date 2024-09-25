@@ -1,0 +1,13 @@
+Temple of the Sun
+Card Type: Spell Card
+
+Description: Face-up monsters you control that were Special Summoned from the Graveyard gain 300 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

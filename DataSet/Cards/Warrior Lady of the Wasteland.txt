@@ -1,0 +1,16 @@
+Warrior Lady of the Wasteland
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH Warrior-Type monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duel Terminal 4
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Dawn of the Xyz
+- Structure Deck: Warrior's Triumph

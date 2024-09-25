@@ -1,0 +1,14 @@
+Hieratic Sky Dragon Overlord of Heliopolis
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+Once per turn, when your opponent activates a card or effect that targets a card(s) on your field, your GY, and/or your banished card(s) (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2400
+Archetype: Hieratic
+Present in Sets:
+- Ghosts From the Past

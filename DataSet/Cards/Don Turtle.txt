@@ -1,0 +1,15 @@
+Don Turtle
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned or Flip Summoned, you can Special Summon any number of "Don Turtle"(s) from your hand.
+
+Type: Reptile
+Attribute: WATER
+Level: 3
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

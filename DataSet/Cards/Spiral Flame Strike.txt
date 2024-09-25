@@ -1,0 +1,17 @@
+Spiral Flame Strike
+Card Type: Spell Card
+
+Description: Activate 1 of these effects;
+● If you control an "Odd-Eyes" card: Target 1 card on the field; destroy it.
+● Add to your hand, 1 Level 7 "Odd-Eyes" monster from your Deck, or 1 face-up Level 7 "Odd-Eyes" Pendulum Monster from your Extra Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Odd-Eyes
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- Legendary Dragon Decks
+- Legendary Duelists: Magical Hero

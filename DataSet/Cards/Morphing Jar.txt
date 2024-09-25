@@ -1,0 +1,26 @@
+Morphing Jar
+Card Type: Flip Effect Monster
+
+Description: FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Two
+- Dark Beginning 2
+- Duelist League 2 participation cards
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Premium Gold
+- Retro Pack 2
+- Rise of the Dragon Lords Structure Deck
+- Tournament Pack 4
+- Tournament Pack: 2nd Season

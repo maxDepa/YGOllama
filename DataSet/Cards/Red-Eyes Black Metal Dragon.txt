@@ -1,0 +1,17 @@
+Red-Eyes Black Metal Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Red-Eyes B. Dragon" equipped with "Metalmorph".
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2400
+Archetype: Red-Eyes
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Millennium Pack
+- Premium Pack (TCG)
+- Premium Pack (TCG)
+- Yu-Gi-Oh! Forbidden Memories promotional cards

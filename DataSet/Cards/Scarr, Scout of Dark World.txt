@@ -1,0 +1,17 @@
+Scarr, Scout of Dark World
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Add 1 Level 4 or lower "Dark World" monster from your Deck to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

@@ -1,0 +1,16 @@
+Blizzard Warrior
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return that card to either the top or the bottom of their Deck.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 1400
+Defence: 400
+Archetype: //
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

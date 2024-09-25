@@ -1,0 +1,16 @@
+Gaap the Divine Soldier
+Card Type: Effect Monster
+
+Description: All monsters are changed to Attack Position, also their battle positions cannot be changed. (Flip Effects are not activated.) Once per turn: You can reveal any number of Fiend monsters in your hand; this card gains 300 ATK for each, until the end of this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Speed Duel Starter Decks: Twisted Nightmares

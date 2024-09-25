@@ -1,0 +1,15 @@
+The Chaos Creator
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. If you control this card that was Special Summoned from the hand: You can target 3 banished monsters with different names; Special Summon 1 of them, then place the rest on the bottom of the Deck in any order. You can only use this effect of "The Chaos Creator" once per turn.
+
+Type: Thunder
+Attribute: DARK
+Level: 8
+Attack: 2300
+Defence: 3000
+Archetype: Chaos
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Toon Chaos
+- Toon Chaos

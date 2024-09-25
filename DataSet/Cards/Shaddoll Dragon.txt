@@ -1,0 +1,18 @@
+Shaddoll Dragon
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 card your opponent controls; return it to the hand.
+If this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 "Shaddoll Dragon" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Structure Deck: Shaddoll Showdown

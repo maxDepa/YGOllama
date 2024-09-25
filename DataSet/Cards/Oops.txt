@@ -1,0 +1,14 @@
+Oops!
+Card Type: Trap Card
+
+Description: Target 1 card you control; destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

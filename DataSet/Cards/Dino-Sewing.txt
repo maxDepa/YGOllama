@@ -1,0 +1,14 @@
+Dino-Sewing
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

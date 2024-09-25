@@ -1,0 +1,12 @@
+Lisark
+Card Type: Normal Monster
+
+Description: A creature with sapphire eyes that mesmerizes and confuses enemies.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: //
+Present in Sets:

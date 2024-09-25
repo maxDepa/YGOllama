@@ -1,0 +1,12 @@
+Nordic Beast Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Tanngrisnir of the Nordic Beasts".
+
+Type: Beast
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nordic
+Present in Sets:

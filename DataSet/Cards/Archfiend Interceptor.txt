@@ -1,0 +1,13 @@
+Archfiend Interceptor
+Card Type: Effect Monster
+
+Description: While you control this face-up Attack Position card, when an opponent's monster declares an attack, inflict 500 damage to your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: Archfiend
+Present in Sets:
+- The Shining Darkness

@@ -1,0 +1,15 @@
+Jurrac Giganoto
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Dinosaur-Type monsters
+All face-up "Jurrac" monsters you control gain 200 ATK for each "Jurrac" monster in your Graveyard.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 7
+Attack: 2100
+Defence: 1800
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

@@ -1,0 +1,17 @@
+Barricadeborg Blocker
+Card Type: Link Monster
+
+Description: 2 monsters with different names
+If this card is Link Summoned: You can discard 1 card; during the End Phase of this turn, add 1 Continuous or Field Spell from your GY to your hand. You can only use this effect of "Barricadeborg Blocker" once per turn. Face-up Spells you control cannot be destroyed by your opponent's card effects.
+
+Type: Machine
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Rising Rampage

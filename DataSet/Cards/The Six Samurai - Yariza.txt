@@ -1,0 +1,17 @@
+The Six Samurai - Yariza
+Card Type: Effect Monster
+
+Description: While you control a face-up "Six Samurai" monster with a different name, this card can attack your opponent directly. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Strike of Neos

@@ -1,0 +1,16 @@
+Naturia Butterfly
+Card Type: Tuner Monster
+
+Description: Once per turn, when your opponent's monster declares an attack, you can send the top card of your Deck to the Graveyard and negate that attack.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1200
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

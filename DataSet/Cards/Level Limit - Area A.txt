@@ -1,0 +1,17 @@
+Level Limit - Area A
+Card Type: Trap Card
+
+Description: Change all face-up Level 3 or lower monsters to Attack Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Legendary Collection 3: Yugi's World Mega Pack

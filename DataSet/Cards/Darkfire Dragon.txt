@@ -1,0 +1,16 @@
+Darkfire Dragon
+Card Type: Fusion Monster
+
+Description: "Firegrass" + "Petit Dragon"
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1250
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Tournament Pack: 3rd Season

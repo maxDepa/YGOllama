@@ -1,0 +1,17 @@
+Chorus of Sanctuary
+Card Type: Spell Card
+
+Description: Increase the DEF of all Defense Position monsters by 500 points.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

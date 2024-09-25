@@ -1,0 +1,15 @@
+Performapal Salutiger
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can add 1 "Performapal" Pendulum Monster from your Deck to your hand. You can only use this effect of "Performapal Salutiger" once per turn.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 500
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Master of Pendulum Structure Deck

@@ -1,0 +1,13 @@
+Hydra Viper
+Card Type: Effect Monster
+
+Description: Each time this card declares an attack, you must Tribute 1 Aqua-Type monster. This card can attack 3 times during each Battle Phase.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 400
+Archetype: //
+Present in Sets:
+- Crimson Crisis

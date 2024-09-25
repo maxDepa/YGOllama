@@ -1,0 +1,14 @@
+Creature Seizure
+Card Type: Spell Card
+
+Description: Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares
+- Tactical Evolution

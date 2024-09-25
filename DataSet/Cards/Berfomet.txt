@@ -1,0 +1,18 @@
+Berfomet
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can add 1 "Gazelle the King of Mythical Beasts" from your Deck to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 3: Yugi's World Mega Pack
+- Maze of Millennia
+- Speed Duel: Battle City Box
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

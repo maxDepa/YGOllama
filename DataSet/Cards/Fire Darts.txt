@@ -1,0 +1,15 @@
+Fire Darts
+Card Type: Trap Card
+
+Description: Activate only while you have no cards in your hand. Roll a six-sided die 3 times, and inflict damage to your opponent equal to the sum of the die rolls × 100.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4

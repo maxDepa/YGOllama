@@ -1,0 +1,12 @@
+Togex
+Card Type: Normal Monster
+
+Description: An agile monster that rolls up to ram its opponents.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:

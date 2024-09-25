@@ -1,0 +1,17 @@
+D/D Evil
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.
+
+[ Monster Effect ] 
+Cannot attack unless you control another "D/D" monster. During your opponent's Main Phase (Quick Effect): You can target 1 face-up Pendulum Summoned monster your opponent controls; negate that face-up monster's effects until the end of this turn. You can only use this effect of "D/D Evil" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- Rise of the Duelist

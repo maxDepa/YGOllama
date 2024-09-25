@@ -1,0 +1,13 @@
+Dark Magic Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack, or an opponent's monster effect is activated that would destroy a monster(s) on the field, while a monster that mentions "Shining Sarcophagus" is on the field: Destroy as many Attack Position monsters your opponent controls as possible, then if you control "Dark Magician", inflict 500 damage to your opponent for each monster destroyed, also for the rest of this turn after this card resolves, the first time each monster you control that mentions "Shining Sarcophagus" would be destroyed by battle or card effect, it is not destroyed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shining Sarcophagus
+Present in Sets:
+- The Infinite Forbidden

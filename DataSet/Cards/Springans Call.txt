@@ -1,0 +1,13 @@
+Springans Call!
+Card Type: Trap Card
+
+Description: Target 1 "Springans" monster or "Fallen of Albaz" in your GY; Special Summon it. During the Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 Fusion Monster from your GY, then target 1 "Springans" Xyz Monster you control; attach 1 Fusion Monster that lists "Fallen of Albaz" as material from your Extra Deck to that monster as material. You can only use each effect of "Springans Call!" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Springans
+Present in Sets:
+- Blazing Vortex

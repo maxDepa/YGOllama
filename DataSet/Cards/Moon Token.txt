@@ -1,0 +1,12 @@
+Moon Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Arcana Force XVIII - The Moon".
+
+Type: Fairy
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Arcana Force
+Present in Sets:

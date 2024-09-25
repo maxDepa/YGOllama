@@ -1,0 +1,14 @@
+Power Wall
+Card Type: Trap Card
+
+Description: During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the Graveyard for every 500 damage (round up) you are about to take, also you take no battle damage from that battle.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- Structure Deck: Cyber Strike

@@ -1,0 +1,16 @@
+Blue-Eyes Spirit Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "Blue-Eyes" monsters
+Neither player can Special Summon 2 or more monsters at the same time. Once per turn, during either player's turn, when an effect of a card in the Graveyard is activated: You can negate the activation. During either player's turn: You can Tribute this Synchro Summoned card; Special Summon 1 LIGHT Dragon-Type Synchro Monster from your Extra Deck in Defense Position, except "Blue-Eyes Spirit Dragon", but destroy it during the End Phase of this turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 9
+Attack: 2500
+Defence: 3000
+Archetype: Blue-Eyes
+Present in Sets:
+- 2016 Mega-Tins
+- Legendary Duelists: Season 2
+- Shining Victories

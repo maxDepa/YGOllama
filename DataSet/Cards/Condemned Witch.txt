@@ -1,0 +1,15 @@
+Condemned Witch
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Forbidden" Quick-Play Spell from your Deck to your hand. During your opponent's Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except "Condemned Witch". You can only use each effect of "Condemned Witch" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Obelisk the Tormentor
+- Maximum Gold
+- Soul Fusion

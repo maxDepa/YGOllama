@@ -1,0 +1,13 @@
+Pinpoint Landing
+Card Type: Spell Card
+
+Description: If exactly 1 monster is Special Summoned, from the hand to your field: You can draw 1 card. You can only use this effect of "Pinpoint Landing" once per turn. During your End Phase, if you have not drawn a card by this effect this turn, send this card to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Horizon

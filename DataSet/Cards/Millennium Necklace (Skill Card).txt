@@ -1,0 +1,16 @@
+Millennium Necklace (Skill Card)
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.] 
+
+At the start of the opponent’s turn, before they draw, you may look at the top 3 cards of their Deck and rearrange them in any order.
+This Skill can only be used once per Duel.
+
+Type: Ishizu
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters

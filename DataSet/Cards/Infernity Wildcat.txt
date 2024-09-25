@@ -1,0 +1,13 @@
+Infernity Wildcat
+Card Type: Tuner Monster
+
+Description: You can Special Summon this card (from your hand) by sending 1 other "Infernity" monster in your hand to the GY. You can only Special Summon "Infernity Wildcat" once per turn this way. While you have no cards in your hand: You can banish 1 "Infernity" monster from your GY; increase or decrease the Level of this card by 1 until the end of this turn. You can only use this effect of "Infernity Wildcat" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- Phantom Rage

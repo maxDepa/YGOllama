@@ -1,0 +1,14 @@
+Pikeru's Second Sight
+Card Type: Trap Card
+
+Description: Until your opponent's second End Phase, your opponent shows you all cards that they draw before adding them to their hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

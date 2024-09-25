@@ -1,0 +1,17 @@
+Raiden, Hand of the Lightsworn
+Card Type: Tuner Monster
+
+Description: During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any "Lightsworn" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of "Raiden, Hand of the Lightsworn" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Lightsworn
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Realm of Light Structure Deck
+- Rise of the True Dragons Structure Deck
+- Structure Deck: Rokket Revolt

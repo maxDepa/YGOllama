@@ -1,0 +1,14 @@
+Rising Sun Slash
+Card Type: Spell Card
+
+Description: Equip only to a "Utopia" monster. It cannot be destroyed by card effects. Each time an attack is negated, place 1 Rising Sun Counter on this card. The equipped monster gains 500 ATK for each Rising Sun Counter on this card. If the equipped monster you control would detach its Xyz Material to activate its effect, you can treat this card as 1 of the Xyz Materials.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

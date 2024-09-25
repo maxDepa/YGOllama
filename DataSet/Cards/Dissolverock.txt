@@ -1,0 +1,15 @@
+Dissolverock
+Card Type: Normal Monster
+
+Description: A monster born in the lava pits, it generates intense heat that can melt away its enemies.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

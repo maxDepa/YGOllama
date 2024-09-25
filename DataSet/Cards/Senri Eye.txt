@@ -1,0 +1,14 @@
+Senri Eye
+Card Type: Spell Card
+
+Description: Once per turn, during each of your Standby Phases, you can pay 100 Life Points to look at 1 card on the top of your opponent's Deck and return it to its original position. Your opponent cannot look at the card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

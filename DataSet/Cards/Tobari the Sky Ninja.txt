@@ -1,0 +1,15 @@
+Tobari the Sky Ninja
+Card Type: Effect Monster
+
+Description: This card cannot be destroyed by battle or card effect the turn it was Special Summoned or flipped face-up. You can only use each of the following effects of "Tobari the Sky Ninja" once per turn. You can send this card from your hand to the GY; Special Summon 1 "Ninja" monster from your hand in face-up or face-down Defense Position. During your opponent's Main or Battle Phase (Quick Effect): You can Fusion Summon 1 "Ninja" Fusion Monster from your Extra Deck, using monsters from your hand or field as material.
+
+Type: Winged Beast
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast
+- OTS Tournament Pack 21

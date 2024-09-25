@@ -1,0 +1,18 @@
+Mild Turkey
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).
+
+[ Monster Effect ] 
+''The taste of victory will bowl you over.''
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis

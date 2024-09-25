@@ -1,0 +1,13 @@
+Infernity Inferno
+Card Type: Trap Card
+
+Description: Discard up to 2 cards, and send the same number of "Infernity" cards from your Deck to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- The Shining Darkness

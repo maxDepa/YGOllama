@@ -1,0 +1,17 @@
+Predaplast
+Card Type: Spell Card
+
+Description: Reveal any number of "Predap" cards in your hand, then target that number of face-up monsters your opponent controls; place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If your "Predaplant" monster would be destroyed by battle, you can banish this card from your GY instead.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Predaplant
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Soul Fusion

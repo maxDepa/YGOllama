@@ -1,0 +1,13 @@
+Needle Ball
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 750
+Defence: 700
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok

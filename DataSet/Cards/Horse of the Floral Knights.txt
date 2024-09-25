@@ -1,0 +1,13 @@
+Horse of the Floral Knights
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 LIGHT "Noble Knight" monster from your Deck to your hand. You can only use this effect of "Horse of the Floral Knights" once per turn. Once per turn, during your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material.
+
+Type: Beast
+Attribute: WIND
+Level: 3
+Attack: 400
+Defence: 800
+Archetype: //
+Present in Sets:
+- Brothers of Legend

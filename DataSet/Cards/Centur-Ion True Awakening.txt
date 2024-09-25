@@ -1,0 +1,13 @@
+Centur-Ion True Awakening
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, is activated: Send 1 face-up Monster Card from your Spell & Trap Zone to the GY; negate the activation, and if you do, destroy that card. You can only activate 1 "Centur-Ion True Awakening" per turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Centur-Ion
+Present in Sets:
+- Valiant Smashers

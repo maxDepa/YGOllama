@@ -1,0 +1,12 @@
+Ryu-Ge Eternal Recurrence of Trailokya
+Card Type: Trap Card
+
+Description: Special Summon 1 "Ryu-Ge" monster from your hand, Deck, or GY, but return it to the hand during the End Phase. You can banish this card from your GY, then target 1 "Ryu-Ge" Continuous Spell you control or in your GY or banishment; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of "Ryu-Ge Eternal Recurrence of Trailokya" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ryu-Ge
+Present in Sets:

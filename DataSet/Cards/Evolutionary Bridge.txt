@@ -1,0 +1,13 @@
+Evolutionary Bridge
+Card Type: Trap Card
+
+Description: When a monster you control is targeted for an attack: Target 1 "Evoltile" monster in your Graveyard; Special Summon that target, then switch the attack target to that monster and conduct damage calculation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evoltile
+Present in Sets:
+- Photon Shockwave

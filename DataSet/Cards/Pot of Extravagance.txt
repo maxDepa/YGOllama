@@ -1,0 +1,22 @@
+Pot of Extravagance
+Card Type: Spell Card
+
+Description: At the start of your Main Phase 1: Banish 3 or 6 random face-down cards from your Extra Deck, face-down; draw 1 card for every 3 cards banished. For the rest of this turn after this card resolves, you cannot draw any cards by card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Maximum Gold: El Dorado
+- Savage Strike
+- Structure Deck: Albaz Strike
+- Structure Deck: The Crimson King
+- The Pot Collection
+- Toon Chaos
+- Toon Chaos

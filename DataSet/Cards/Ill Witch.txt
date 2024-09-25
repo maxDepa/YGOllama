@@ -1,0 +1,12 @@
+Ill Witch
+Card Type: Normal Monster
+
+Description: This monster blasts enemies with unexpected bursts of wind.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:

@@ -1,0 +1,15 @@
+Chamber Dragonmaid
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Dragonmaid" Spell/Trap from your Deck to your hand. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 7 or higher "Dragonmaid" monster from your hand or GY. You can only use each effect of "Chamber Dragonmaid" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 500
+Defence: 1800
+Archetype: Dragonmaid
+Present in Sets:
+- Eternity Code
+- Eternity Code
+- Maximum Gold: El Dorado

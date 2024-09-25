@@ -1,0 +1,15 @@
+Genex Ally Axel
+Card Type: Synchro Monster
+
+Description: 1 "Genex" Tuner + 1 or more non-Tuner monsters
+Once per turn, you can discard 1 card to select 1 Level 4 or lower Machine-Type monster from your Graveyard, and Special Summon it. The ATK of that monster is doubled until the End Phase, but it cannot attack your opponent directly. Remove that monster from play during your End Phase.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 2000
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Starstrike Blast

@@ -1,0 +1,15 @@
+Last Gamble
+Card Type: Skill Card
+
+Description: [At the start of the 5th turn, activate this Skill (count both players' turns).]
+
+During your Main Phase, you can reduce your LP to 100 and discard 2 cards from your hand. Roll a six-sided die and draw cards equal to the result. This Skill can only be used once per Duel. 
+
+Type: Joey
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Duelists of Tomorrow

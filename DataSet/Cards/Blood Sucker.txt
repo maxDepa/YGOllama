@@ -1,0 +1,14 @@
+Blood Sucker
+Card Type: Effect Monster
+
+Description: If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Speed Duel: Trials of the Kingdom
+- Storm of Ragnarok

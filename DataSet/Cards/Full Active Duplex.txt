@@ -1,0 +1,13 @@
+Full Active Duplex
+Card Type: Effect Monster
+
+Description: Linked monsters you control can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of "Full Active Duplex" once per turn. You can banish 2 Link Monsters from your GY; Special Summon this card from your hand. If this card is sent to the GY: You can target 1 Cyberse monster you control; it gains 1000 ATK.
+
+Type: Cyberse
+Attribute: WIND
+Level: 9
+Attack: 2800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Cyberstorm Access

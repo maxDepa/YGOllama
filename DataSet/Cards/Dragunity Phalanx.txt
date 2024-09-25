@@ -1,0 +1,17 @@
+Dragunity Phalanx
+Card Type: Tuner Monster
+
+Description: Once per turn, while this card is equipped to a monster: You can Special Summon this equipped card.
+
+Type: Dragon
+Attribute: WIND
+Level: 2
+Attack: 500
+Defence: 1100
+Archetype: Dragunity
+Present in Sets:
+- Duel Terminal 3
+- Ghosts From the Past
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Legendary Collection Kaiba Mega Pack

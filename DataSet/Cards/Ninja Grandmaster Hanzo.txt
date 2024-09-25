@@ -1,0 +1,17 @@
+Ninja Grandmaster Hanzo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Ninjitsu Art" card from your Deck to your hand. When this card is Flip or Special Summoned: You can add 1 "Ninja" monster from your Deck to your hand, except "Ninja Grandmaster Hanzo".
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- Collectible Tins 2012 Wave 2
+- Order of Chaos
+- Order of Chaos
+- OTS Tournament Pack 20
+- Shadows in Valhalla

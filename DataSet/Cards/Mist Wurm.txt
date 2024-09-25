@@ -1,0 +1,17 @@
+Mist Wurm
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 2 or more non-Tuner monsters
+If this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.
+
+Type: Thunder
+Attribute: WIND
+Level: 9
+Attack: 2500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 5D's Mega Pack

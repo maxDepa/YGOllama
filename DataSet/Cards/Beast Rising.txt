@@ -1,0 +1,13 @@
+Beast Rising
+Card Type: Trap Card
+
+Description: Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type monster you control. The selected monster gains the original ATK of the monster removed from play for this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

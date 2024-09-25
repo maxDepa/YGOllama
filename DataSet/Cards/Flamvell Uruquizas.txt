@@ -1,0 +1,17 @@
+Flamvell Uruquizas
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. This card gains 300 ATK each time it inflicts Battle Damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2100
+Defence: 400
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

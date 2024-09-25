@@ -1,0 +1,16 @@
+Evilswarm O'lantern
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.
+
+Type: Pyro
+Attribute: DARK
+Level: 4
+Attack: 1650
+Defence: 1250
+Archetype: Lswarm
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

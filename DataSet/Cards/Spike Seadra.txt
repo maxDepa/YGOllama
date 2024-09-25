@@ -1,0 +1,15 @@
+Spike Seadra
+Card Type: Normal Monster
+
+Description: Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 5
+Attack: 1600
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

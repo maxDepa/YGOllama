@@ -1,0 +1,16 @@
+Solidarity
+Card Type: Spell Card
+
+Description: If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Duelist League 15 participation cards
+- Lost Sanctuary Structure Deck
+- Machina Mayhem Structure Deck

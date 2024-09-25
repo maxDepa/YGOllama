@@ -1,0 +1,14 @@
+One Day of Peace
+Card Type: Spell Card
+
+Description: Each player draws 1 card, and neither player takes damage until the end of the opponent's next turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 4
+- Photon Shockwave

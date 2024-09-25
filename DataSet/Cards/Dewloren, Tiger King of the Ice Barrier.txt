@@ -1,0 +1,17 @@
+Dewloren, Tiger King of the Ice Barrier
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner WATER monsters
+Once per turn, you can return any number of face-up cards you control to the owner's hand. For each card returned to the owner's hand by this effect, this card gains 500 ATK until the End Phase.
+
+Type: Beast
+Attribute: WATER
+Level: 6
+Attack: 2000
+Defence: 1400
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

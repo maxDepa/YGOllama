@@ -1,0 +1,14 @@
+Spiritual Entanglement
+Card Type: Spell Card
+
+Description: Target 1 face-up monster your opponent controls; banish it until the End Phase. You can only activate 1 "Spiritual Entanglement" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

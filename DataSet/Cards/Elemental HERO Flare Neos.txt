@@ -1,0 +1,17 @@
+Elemental HERO Flare Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + "Neo-Spacian Flare Scarab"
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) This card gains 400 ATK for each Spell/Trap Card on the field. During the End Phase: Shuffle this card into the Extra Deck.
+
+Type: Warrior
+Attribute: FIRE
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist

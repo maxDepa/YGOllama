@@ -1,0 +1,13 @@
+Dimension Dice
+Card Type: Spell Card
+
+Description: If you control a card with an effect that requires a die roll: You can Tribute 1 monster; Special Summon 1 monster with an effect that requires a die roll from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge

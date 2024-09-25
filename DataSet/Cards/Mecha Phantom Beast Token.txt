@@ -1,0 +1,16 @@
+Mecha Phantom Beast Token
+Card Type: Token
+
+Description: This card can be used as a "Mecha Phantom Beast Token".
+
+*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)

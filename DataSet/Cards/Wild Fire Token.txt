@@ -1,0 +1,12 @@
+Wild Fire Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Wild Fire".
+
+Type: Pyro
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

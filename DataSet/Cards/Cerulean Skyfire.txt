@@ -1,0 +1,14 @@
+Cerulean Skyfire
+Card Type: Spell Card
+
+Description: To Special Summon "Hamon, Lord of Striking Thunder" using its own procedure, you can also use face-down Spells you control. Once per turn, while you control an Attack Position "Hamon, Lord of Striking Thunder", you can negate any Spell/Trap effect activated by your opponent, then, change 1 "Hamon, Lord of Striking Thunder" you control to Defense Position. If a face-up "Uria, Lord of Searing Flames", "Hamon, Lord of Striking Thunder", or "Raviel, Lord of Phantasms" you control leaves the field: You take no damage this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sacred Beast
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Sacred Beasts

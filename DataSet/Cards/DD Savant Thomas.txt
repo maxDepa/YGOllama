@@ -1,0 +1,19 @@
+D/D Savant Thomas
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can add 1 face-up "D/D" Pendulum Monster from your Extra Deck to your hand. You can only use this effect of "D/D Savant Thomas" once per turn.
+
+[ Monster Effect ] 
+You can target 1 "D/D" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 "D/D/D" monster from your Deck in Defense Position, but for the rest of this turn, its effects (if any) are negated, also any battle damage your opponent takes becomes halved. You can only use this effect of "D/D Savant Thomas" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 1800
+Defence: 2600
+Archetype: D/D
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- The Dark Illusion

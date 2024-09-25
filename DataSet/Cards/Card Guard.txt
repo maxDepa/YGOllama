@@ -1,0 +1,21 @@
+Card Guard
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: Place 1 Guard Counter on it. This card gains 300 ATK for each Guard Counter on it. Once per turn: You can target 1 other face-up card you control; remove 1 Guard Counter from this card, and if you do, place 1 Guard Counter on that target (if that card would ever be destroyed, remove 1 Guard Counter from it instead).
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 500
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Egyptian God Deck: Slifer the Sky Dragon
+- Gates of the Underworld Structure Deck

@@ -1,0 +1,23 @@
+Overload Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 DARK Machine Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 7a
+- Duelist Pack: Zane Truesdale
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Dragon Decks
+- Maze of Memories
+- OTS Tournament Pack 6
+- Power of the Duelist
+- Power of the Duelist
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Cyber Strike

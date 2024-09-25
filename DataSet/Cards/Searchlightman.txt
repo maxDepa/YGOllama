@@ -1,0 +1,14 @@
+Searchlightman
+Card Type: Flip Effect Monster
+
+Description: FLIP: Your opponent cannot Set (or flip face-down) any cards for the rest of this turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice

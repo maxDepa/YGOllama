@@ -1,0 +1,16 @@
+Purrely Delicious Memory
+Card Type: Spell Card
+
+Description: Choose 1 monster on the field, and until the end of the next turn, it cannot be destroyed by battle. After choosing a card, then you can apply the following effect.
+● Discard 1 card, and if you do, Special Summon 1 Level 1 "Purrely" monster from your Deck.
+A "Purrely" Xyz Monster that has this card as material gains the following effect.
+● Gains 300 ATK/DEF for each material attached to it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Purrely
+Present in Sets:
+- Amazing Defenders

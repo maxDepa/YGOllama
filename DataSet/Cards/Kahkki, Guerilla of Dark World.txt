@@ -1,0 +1,15 @@
+Kahkki, Guerilla of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 300
+Defence: 500
+Archetype: Dark World
+Present in Sets:
+- Gates of the Underworld Structure Deck
+- Strike of Neos
+- Structure Deck: Dark World

@@ -1,0 +1,14 @@
+Gravekeeper's Headman
+Card Type: Effect Monster
+
+Description: If this card is Summoned: You can target 1 Level 4 "Gravekeeper's" monster in your GY; Special Summon it in Attack Position or face-down Defense Position. You can only use this effect of "Gravekeeper's Headman" once per turn. This effect is unaffected by "Necrovalley".
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

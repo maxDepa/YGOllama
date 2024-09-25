@@ -1,0 +1,13 @@
+Mathmech Multiplication
+Card Type: Effect Monster
+
+Description: You can target 1 Level 4 Cyberse monster you control; its Level becomes 8 until the end of this turn. If this card is sent to the GY: You can target 1 Cyberse monster you control in the Extra Monster Zone; its ATK becomes doubled until the end of this turn. You can only use each effect of "Mathmech Multiplication" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: Mathmech
+Present in Sets:
+- Mystic Fighters

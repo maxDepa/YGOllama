@@ -1,0 +1,14 @@
+Ghostrick Witch
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position. Once per turn: You can target 1 face-up monster your opponent controls; change it to face-down Defense Position.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 1200
+Defence: 200
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

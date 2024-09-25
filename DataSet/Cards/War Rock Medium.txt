@@ -1,0 +1,13 @@
+War Rock Medium
+Card Type: Spell Card
+
+Description: While your opponent controls a Special Summoned monster and you control a Level 7 or higher "War Rock" monster, during Main Phase 1, neither player can activate the effects of monsters on the field. During your Main Phase: You can Set 1 "War Rock" Spell/Trap directly from your Deck, except "War Rock Medium", also you cannot Special Summon monsters for the rest of this turn, except Warrior monsters. You can only use this effect of "War Rock Medium" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: War Rock
+Present in Sets:
+- Dimension Force

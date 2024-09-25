@@ -1,0 +1,14 @@
+Spright Elf
+Card Type: Link Monster
+
+Description: 2 monsters, including a Level/Rank/Link 2 monster
+Cannot be used as Link Material the turn it is Link Summoned. Your opponent cannot target monsters this card points to with card effects. During the Main Phase (Quick Effect): You can target 1 Level 2 monster in your GY, or, if your opponent controls a monster, you can target 1 Rank/Link 2 monster instead; Special Summon it. You can only use this effect of "Spright Elf" once per turn.
+
+Type: Thunder
+Attribute: FIRE
+Level: 0
+Attack: 1400
+Defence: 0
+Archetype: Spright
+Present in Sets:
+- Power of the Elements

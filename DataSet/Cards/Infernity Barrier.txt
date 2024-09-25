@@ -1,0 +1,15 @@
+Infernity Barrier
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell/Trap Card, or monster effect, while you control a face-up Attack Position "Infernity" monster and have no cards in your hand: Negate the activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- Collectible Tins 2012 Wave 2.5
+- OTS Tournament Pack 14 (POR)
+- The Shining Darkness

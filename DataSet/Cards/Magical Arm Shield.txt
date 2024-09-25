@@ -1,0 +1,23 @@
+Magical Arm Shield
+Card Type: Trap Card
+
+Description: When your opponent declares an attack while you control a monster: Target 1 face-up monster your opponent controls, except the attacking monster; take control of that target until the end of the Battle Phase, and if you do, it is attacked instead, and you proceed to damage calculation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 2
+- Gold Series 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Streets of Battle City
+- Structure Deck: Dinosaur's Rage
+- Tournament Pack 8
+- Zombie World Structure Deck

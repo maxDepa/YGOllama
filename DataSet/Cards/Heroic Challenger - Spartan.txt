@@ -1,0 +1,14 @@
+Heroic Challenger - Spartan
+Card Type: Effect Monster
+
+Description: Once per turn, when an opponent's monster declares an attack: You can target 1 face-up "Heroic" monster you control, except this card; this card gains ATK equal to that face-up monster's original ATK, until the end of the Battle Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Heroic
+Present in Sets:
+- OTS Tournament Pack 19 (POR)
+- Return of the Duelist

@@ -1,0 +1,16 @@
+Aluber the Jester of Despia
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Branded" Spell/Trap from your Deck to your hand. If a face-up Fusion Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect, while this card is in your GY: You can target 1 Effect Monster your opponent controls; Special Summon this card, and if you do, negate the targeted monster's effects until the end of this turn. You can only use 1 "Aluber the Jester of Despia" effect per turn, and only once that turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 20

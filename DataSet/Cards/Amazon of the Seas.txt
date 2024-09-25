@@ -1,0 +1,14 @@
+Amazon of the Seas
+Card Type: Normal Monster
+
+Description: A mermaid who serves as a herald to the Ocean Lord. She protects the sacred domain of Atlantis.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Champion Pack: Game Five

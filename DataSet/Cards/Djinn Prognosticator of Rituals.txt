@@ -1,0 +1,15 @@
+Djinn Prognosticator of Rituals
+Card Type: Effect Monster
+
+Description: When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon. If you Ritual Summon using this card, if that Ritual Summoned monster inflicts battle damage to your opponent, they discard 1 card.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 400
+Defence: 300
+Archetype: Djinn
+Present in Sets:
+- Absolute Powerforce
+- Speed Duel Starter Decks: Match of the Millennium
+- The Secret Forces

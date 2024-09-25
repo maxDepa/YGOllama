@@ -1,0 +1,15 @@
+Cyber Dragon Nachster
+Card Type: Effect Monster
+
+Description: This card's name becomes "Cyber Dragon" while on the field or in the GY. You can discard 1 other monster; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 Machine monster with 2100 ATK or DEF in your GY; Special Summon it, also, you cannot Special Summon monsters for the rest of this turn, except Machine monsters. You can only use each effect of "Cyber Dragon Nachster" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 200
+Archetype: Cyber Dragon
+Present in Sets:
+- Duel Power
+- Legendary Duelists: Season 2
+- Structure Deck: Cyber Strike

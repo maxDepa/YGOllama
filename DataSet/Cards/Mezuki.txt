@@ -1,0 +1,26 @@
+Mezuki
+Card Type: Effect Monster
+
+Description: You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 7a
+- Duel Terminal 7a
+- Duelist League 17 participation cards
+- Duelist Saga
+- Gold Series 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Magnificent Mavens
+- OTS Tournament Pack 1
+- Premium Gold
+- Premium Pack 2 (TCG)
+- Ra Yellow Mega Pack
+- Structure Deck: Zombie Horde

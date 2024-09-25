@@ -1,0 +1,14 @@
+Pendulum Paradox
+Card Type: Spell Card
+
+Description: Add 2 face-up Pendulum Monsters with the same Pendulum Scale, but different names, from your Extra Deck to your hand. You can only activate 1 "Pendulum Paradox" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

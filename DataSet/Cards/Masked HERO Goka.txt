@@ -1,0 +1,14 @@
+Masked HERO Goka
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "Mask Change". Gains 100 ATK for each "HERO" monster in your GY.
+
+Type: Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: Masked HERO
+Present in Sets:
+- Generation Force
+- Toon Chaos

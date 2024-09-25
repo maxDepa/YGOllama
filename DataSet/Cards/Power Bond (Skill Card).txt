@@ -1,0 +1,14 @@
+Power Bond (Skill Card)
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you do, it gains ATK equal to its original ATK until the end of this turn, but it cannot attack your opponent directly this turn. During the End Phase of this turn, you take damage equal to the amount of ATK gained at the time of the Summon.
+
+Type: Syrus Truesda
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Midterm Paradox
+- Speed Duel Tournament Pack 6

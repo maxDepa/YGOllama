@@ -1,0 +1,16 @@
+Vaylantz Wars - The Place of Beginning
+Card Type: Spell Card
+
+Description: Add 1 "Vaylantz" Field Spell from your Deck to your hand, then you can apply the following effect.
+● Destroy 1 Pendulum Monster Card you control, and if you do, add 1 "Senet Switch" from your Deck to your hand.
+If this card is in your GY, except the turn it was sent there: You can banish this card; place 1 face-up "Vaylantz" Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use each effect of "Vaylantz Wars - The Place of Beginning" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vaylantz
+Present in Sets:
+- Tactical Masters
+- Tactical Masters

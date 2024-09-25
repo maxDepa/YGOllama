@@ -1,0 +1,13 @@
+Downbeat
+Card Type: Spell Card
+
+Description: Tribute 1 face-up monster; Special Summon from your Deck, 1 monster with the same original Type and Attribute that the Tributed monster had on the field, but 1 Level lower. You can only activate 1 "Downbeat" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Force

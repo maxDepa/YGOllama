@@ -1,0 +1,13 @@
+SPYRAL Double Agent
+Card Type: Effect Monster
+
+Description: If you have a "SPYRAL" card on your field or in your GY: You can Special Summon this card from your hand to your opponent's field in Defense Position (but it cannot be Tributed, nor be used as material for a Fusion, Synchro, Xyz, or Link Summon), then both players reveal the top card of their Deck. You can only use this effect of "SPYRAL Double Agent" once per turn. All "SPYRAL" monsters on the field gain 500 ATK, also "SPYRAL Super Agent" on the field can attack directly.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 600
+Archetype: SPYRAL
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack

@@ -1,0 +1,12 @@
+Spinos Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Jurrac Spinos".
+
+Type: Dinosaur
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Jurrac
+Present in Sets:

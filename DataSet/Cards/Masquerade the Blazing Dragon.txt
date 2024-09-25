@@ -1,0 +1,15 @@
+Masquerade the Blazing Dragon
+Card Type: Fusion Monster
+
+Description: 1 "Despia" monster + 1 LIGHT or DARK monster
+While you control this Fusion Summoned card, your opponent must pay 600 LP to activate cards or effects. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Masquerade the Blazing Dragon" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Despia
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

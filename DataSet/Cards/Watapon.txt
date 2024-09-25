@@ -1,0 +1,14 @@
+Watapon
+Card Type: Effect Monster
+
+Description: If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Movie Pack

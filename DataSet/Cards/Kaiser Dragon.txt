@@ -1,0 +1,13 @@
+Kaiser Dragon
+Card Type: Fusion Monster
+
+Description: "Winged Dragon, Guardian of the Fortress #1" + "Fairy Dragon"
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

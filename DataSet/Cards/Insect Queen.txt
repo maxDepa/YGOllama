@@ -1,0 +1,21 @@
+Insect Queen
+Card Type: Effect Monster
+
+Description: This card gains 200 ATK for each Insect monster on the field. Cannot declare an attack unless you Tribute 1 monster. Once per turn, during the End Phase, if this card destroyed an opponent's monster by battle this turn: Special Summon 1 "Insect Monster Token" (Insect/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.
+
+Type: Insect
+Attribute: EARTH
+Level: 7
+Attack: 2200
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Collectible Tins 2004
+- Dark Beginning 2
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Retro Pack 2
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City

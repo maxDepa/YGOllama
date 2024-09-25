@@ -1,0 +1,17 @@
+Armed Dragon Lightning
+Card Type: Spell Card
+
+Description: If an "Armed Dragon" monster(s) you control would be destroyed by card effect, you can send this card to the GY instead. You can target 1 "Armed Dragon" monster you control, then activate 1 of these effects;
+● It gains ATK equal to its Level x 100 (even if this card leaves the field).
+● Add 1 "Armed Dragon" monster with an equal or lower Level than it from your GY to your hand.
+You can only use this effect of "Armed Dragon Lightning" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Armed Dragon
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

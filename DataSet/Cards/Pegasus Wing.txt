@@ -1,0 +1,14 @@
+Pegasus Wing
+Card Type: Spell Card
+
+Description: If you have a Union monster in your GY: Target any number of "Valkyrie" monsters you control; those monsters can attack directly this turn, but if they do so using this effect, their battle damage inflicted to your opponent is halved.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Valkyrie
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

@@ -1,0 +1,16 @@
+Breaker the Dark Magical Warrior
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. Gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of "Breaker the Dark Magical Warrior" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duelist Alliance
+- Egyptian God Deck: Slifer the Sky Dragon
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)

@@ -1,0 +1,15 @@
+Scareclaw Tri-Heart
+Card Type: Link Monster
+
+Description: 3 Effect Monsters
+Must be Link Summoned. All face-up monsters on the field are changed to Defense Position. Unaffected by the activated effects of Defense Position monsters. Once per turn, if this card is in the Extra Monster Zone: You can target 1 Level 3 "Scareclaw" monster in your GY; Special Summon it, and if you do, add 1 "Scareclaw" monster from your Deck to your hand, also you cannot Special Summon monsters for the rest of this turn, except "Scareclaw" monsters.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Scareclaw
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

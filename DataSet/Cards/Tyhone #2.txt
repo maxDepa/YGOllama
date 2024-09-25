@@ -1,0 +1,16 @@
+Tyhone #2
+Card Type: Normal Monster
+
+Description: A crimson dragon that spits fireballs to create a blazing sea of fire.
+
+Type: Dragon
+Attribute: FIRE
+Level: 6
+Attack: 1700
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

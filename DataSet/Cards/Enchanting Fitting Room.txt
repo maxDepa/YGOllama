@@ -1,0 +1,18 @@
+Enchanting Fitting Room
+Card Type: Spell Card
+
+Description: Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also, after that, shuffle the rest back into your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 2
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 J

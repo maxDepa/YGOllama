@@ -1,0 +1,16 @@
+Azure-Eyes Silver Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner Normal Monsters
+If this card is Special Summoned: Until the end of the next turn, neither player can target Dragon monsters you currently control with card effects, also they cannot be destroyed by card effects. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your GY; Special Summon it.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 9
+Attack: 2500
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Saga of Blue-Eyes White Dragon Structure Deck

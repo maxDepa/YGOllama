@@ -1,0 +1,13 @@
+Sunseed Genius Loci
+Card Type: Normal Monster
+
+Description: ''This seed can only be harvested from the sacred tree once every thousand years, and will become the guardian spirit of its land after a thousand more.''
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 600
+Archetype: Sunseed
+Present in Sets:
+- Ghosts From the Past

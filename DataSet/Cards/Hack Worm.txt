@@ -1,0 +1,17 @@
+Hack Worm
+Card Type: Effect Monster
+
+Description: If your opponent controls no monsters, you can Special Summon this card (from your hand).
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 0
+Archetype: Worm
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

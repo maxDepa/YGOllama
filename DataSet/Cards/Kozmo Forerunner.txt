@@ -1,0 +1,14 @@
+Kozmo Forerunner
+Card Type: Effect Monster
+
+Description: Cannot be targeted by an opponent's card effects. During your Standby Phase: Gain 1000 LP. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 6 or lower "Kozmo" monster from your Deck.
+
+Type: Machine
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 1400
+Archetype: Kozmo
+Present in Sets:
+- Clash of Rebellions
+- Premium Gold: Infinite Gold

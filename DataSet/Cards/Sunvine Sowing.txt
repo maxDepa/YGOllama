@@ -1,0 +1,14 @@
+Sunvine Sowing
+Card Type: Spell Card
+
+Description: Special Summon 1 "Sunseed" monster from your Deck, and if you do, take 1000 damage. If you control no "Sunavalon" Link Monsters, you can only Special Summon "Sunseed Genius Loci" with this effect. For the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except Plant monsters. If a Plant Link Monster(s) you control would be destroyed by battle or an opponent's card effect, you can banish this card from your GY instead. You can only activate 1 "Sunvine Sowing" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sunvine
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

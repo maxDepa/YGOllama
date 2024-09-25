@@ -1,0 +1,14 @@
+Genex Ally Chemistrer
+Card Type: Tuner Monster
+
+Description: You can declare 1 Attribute and discard this card to select 1 face-up "Genex" monster you control. That monster becomes that Attribute. This effect can be activated during either player's turn.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 500
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph

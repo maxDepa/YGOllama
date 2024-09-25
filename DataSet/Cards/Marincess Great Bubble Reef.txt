@@ -1,0 +1,15 @@
+Marincess Great Bubble Reef
+Card Type: Link Monster
+
+Description: 2+ WATER monsters
+Once per turn, during each Standby Phase: You can banish 1 WATER monster from your GY or face-up field; draw 1 card. Each time a monster(s) is banished face-up: This card gains 600 ATK for each, until the end of this turn. You can send 1 WATER monster from your hand to the GY; Special Summon 1 of your banished "Marincess" monsters. You can only use this effect of "Marincess Great Bubble Reef" once per turn.
+
+Type: Cyberse
+Attribute: WATER
+Level: 0
+Attack: 2600
+Defence: 0
+Archetype: Marincess
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

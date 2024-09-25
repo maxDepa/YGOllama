@@ -1,0 +1,12 @@
+Barrel Rock
+Card Type: Normal Monster
+
+Description: Shouldering a pair of machine guns, this monster is unstoppable.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1300
+Archetype: //
+Present in Sets:

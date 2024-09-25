@@ -1,0 +1,19 @@
+Thor, Lord of the Aesir
+Card Type: Synchro Monster
+
+Description: 1 "Nordic Beast" Tuner + 2+ non-Tuner monsters
+Once per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 "Nordic Beast" Tuner from your GY; Special Summon this card. If Summoned this way: Inflict 800 damage to your opponent.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 10
+Attack: 3500
+Defence: 2800
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Star Pack 2014
+- Star Pack 2014
+- Storm of Ragnarok
+- Storm of Ragnarok

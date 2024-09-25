@@ -1,0 +1,15 @@
+Hibikime
+Card Type: Normal Monster
+
+Description: Confuses enemy monsters with a noise that is harsh to the ears.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1450
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

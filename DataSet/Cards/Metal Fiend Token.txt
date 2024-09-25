@@ -1,0 +1,12 @@
+Metal Fiend Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Fiend's Sanctuary". This Token cannot attack. Your opponent takes any battle damage you would have taken from battles involving this Token. During each of your Standby Phases, pay 1000 Life Points or destroy this Token.
+
+Type: Fiend
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

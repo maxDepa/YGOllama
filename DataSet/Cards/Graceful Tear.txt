@@ -1,0 +1,14 @@
+Graceful Tear
+Card Type: Trap Card
+
+Description: Add 1 card from your hand to your opponent's hand, then gain 2000 LP.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

@@ -1,0 +1,14 @@
+Fire Opal Head
+Card Type: Pendulum Normal Monster
+
+Description: ''This dinosaur pack leader with a burning head of stone is named after his finishing move.''
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 6
+Attack: 2500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

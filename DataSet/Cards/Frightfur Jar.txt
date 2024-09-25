@@ -1,0 +1,13 @@
+Frightfur Jar
+Card Type: Trap Card
+
+Description: This card's name becomes "Toy Vendor" while on the field or in the GY. Once per turn: You can discard 1 card; draw 1 card and show it, then if it is an "Edge Imp" monster, you can destroy 1 card on the field, otherwise place 1 card from your hand on the top or bottom of the Deck. If this card is sent to the GY: You can target 1 face-up monster your opponent controls; halve its ATK until the end of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Frightfur
+Present in Sets:
+- Rise of the Duelist

@@ -1,0 +1,15 @@
+Ningirsu the World Chalice Warrior
+Card Type: Link Monster
+
+Description: 2+ Link Monsters
+If this card is Link Summoned: Draw cards equal to the number of "World Chalice" monsters this card points to. You can only use this effect of "Ningirsu the World Chalice Warrior" once per turn. Once per turn: You can send 1 card from each player's field to the GYs. If this card is sent from the field to the GY: You can Special Summon 1 "World Chalice" monster from your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: World Chalice
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

@@ -1,0 +1,27 @@
+Mage Power
+Card Type: Spell Card
+
+Description: The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Champion Pack: Game Six
+- Dark Beginning 1
+- Dragunity Legion Structure Deck
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Maximum Gold
+- OTS Tournament Pack 1
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Spellcaster's Judgment

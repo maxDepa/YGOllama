@@ -1,0 +1,19 @@
+D/D/D Oracle King d'Arc
+Card Type: Fusion Monster
+
+Description: 2 "D/D" monsters
+Any effect that would inflict damage to you makes you gain that much LP, instead.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 2000
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Star Pack Battle Royal
+- Star Pack Battle Royal

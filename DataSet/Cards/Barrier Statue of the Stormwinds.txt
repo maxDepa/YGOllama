@@ -1,0 +1,14 @@
+Barrier Statue of the Stormwinds
+Card Type: Effect Monster
+
+Description: No monsters can be Special Summoned, except for WIND monsters.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Maximum Gold

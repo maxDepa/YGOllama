@@ -1,0 +1,19 @@
+Number 60: Dugares the Timeless
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can detach 2 materials from this card, then activate 1 of the following effects;
+● Skip your next Draw Phase, also draw 2 cards, then discard 1 card.
+● Skip your next Main Phase 1, also Special Summon 1 monster from your GY in Defense Position.
+● Skip the Battle Phase of your next turn, also double the ATK of 1 monster you control until the end of this turn.
+You can only use this effect of "Number 60: Dugares the Timeless" once per turn.
+
+Type: Fiend
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Ghosts From the Past: The 2nd Haunting

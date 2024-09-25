@@ -1,0 +1,14 @@
+Magical Cavalry of Cxulub
+Card Type: Pendulum Effect Monster
+
+Description: This card is unaffected by monsters' activated effects, except Pendulum Monsters'.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Shining Victories
+- Shining Victories Sneak Peek Participation Card

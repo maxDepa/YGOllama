@@ -1,0 +1,13 @@
+Call of Darkness
+Card Type: Trap Card
+
+Description: All monsters restored with "Monster Reborn" are sent to the Graveyard. "Monster Reborn" also cannot be played as long as this card remains on the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Six

@@ -1,0 +1,20 @@
+Odin, Father of the Aesir
+Card Type: Synchro Monster
+
+Description: 1 "Nordic Ascendant" Tuner + 2+ non-Tuner monsters
+Once per turn: You can make this card be unaffected by Spell/Trap effects until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 "Nordic Ascendant" Tuner from your GY; Special Summon this card. When Summoned this way: You can draw 1 card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 3500
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Star Pack 2014
+- Star Pack 2014
+- Storm of Ragnarok
+- Storm of Ragnarok
+- Storm of Ragnarok

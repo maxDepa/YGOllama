@@ -1,0 +1,24 @@
+Interdimensional Matter Transporter
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; banish that target until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Dragons Collide Structure Deck
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Dragon's Roar
+- Structure Deck: Seto Kaiba

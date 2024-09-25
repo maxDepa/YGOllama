@@ -1,0 +1,15 @@
+Heavy Knight of the Flame
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● At the start of the Damage Step, if this card attacked a Special Summoned monster: You can banish that monster.
+
+Type: Zombie
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows
+- World Superstars

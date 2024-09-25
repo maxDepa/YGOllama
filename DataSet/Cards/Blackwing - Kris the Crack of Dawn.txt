@@ -1,0 +1,15 @@
+Blackwing - Kris the Crack of Dawn
+Card Type: Effect Monster
+
+Description: If you control a "Blackwing" monster other than "Blackwing - Kris the Crack of Dawn", you can Special Summon this card (from your hand). You can only Special Summon "Blackwing - Kris the Crack of Dawn" once per turn this way. Once per turn, this card cannot be destroyed by Spell/Trap effects.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 300
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Premium Gold: Return of the Bling

@@ -1,0 +1,22 @@
+Chaos Sorcerer
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 2000
+Archetype: Chaos
+Present in Sets:
+- Dark Revelation Volume 2
+- Dragons Collide Structure Deck
+- Gold Series 4: Pyramids Edition
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Gold
+- Structure Deck: Spellcaster's Judgment
+- Toon Chaos
+- Turbo Pack: Booster Two

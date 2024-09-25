@@ -1,0 +1,15 @@
+Dododo Buster
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). If Summoned this way, its Level becomes 4. When this card is Tribute Summoned: You can target 1 "Dododo" monster in your GY; Special Summon that target in Defense Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 800
+Archetype: Dododo
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Legendary Duelists: Magical Hero

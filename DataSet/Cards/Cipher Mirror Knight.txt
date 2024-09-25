@@ -1,0 +1,15 @@
+Cipher Mirror Knight
+Card Type: Effect Monster
+
+Description: When a "Cipher" monster you control is destroyed by battle and sent to your Graveyard: You can discard this card; send 1 card from your hand or field to the Graveyard, and if you do, Special Summon that destroyed monster. During the End Phase, if this card is in the Graveyard because it was sent there this turn: You can add 1 "Cipher" card from your Deck to your hand. You can only use this effect of "Cipher Mirror Knight" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Cipher
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- Invasion: Vengeance

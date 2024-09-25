@@ -1,0 +1,17 @@
+Element Saurus
+Card Type: Effect Monster
+
+Description: Gains the following effect(s) while there is a monster(s) with the following Attribute(s) on the field.
+● FIRE: This card gains 500 ATK.
+● EARTH: Negate the effects of Effect Monsters destroyed by battle with this card.
+
+Type: Dinosaur
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Speed Duel Starter Decks: Ultimate Predators

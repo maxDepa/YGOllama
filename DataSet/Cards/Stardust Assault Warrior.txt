@@ -1,0 +1,15 @@
+Stardust Assault Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When this card is Synchro Summoned while you control no other monsters: You can target 1 "Junk" monster in your GY; Special Summon it. You can only use this effect of "Stardust Assault Warrior" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Warrior
+Attribute: WIND
+Level: 6
+Attack: 2100
+Defence: 1200
+Archetype: Junk
+Present in Sets:
+- 2018 Mega-Tins
+- Legendary Duelists: Synchro Storm

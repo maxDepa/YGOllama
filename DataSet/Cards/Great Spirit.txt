@@ -1,0 +1,13 @@
+Great Spirit
+Card Type: Effect Monster
+
+Description: Once per turn, during your Main Phase, you can flip this card into face-down Defense Position. When this card is Flip Summoned, you can switch the original ATK and DEF of 1 face-up EARTH monster on the field until the end of this turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Structure Deck: Invincible Fortress

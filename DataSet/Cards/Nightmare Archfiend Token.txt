@@ -1,0 +1,12 @@
+Nightmare Archfiend Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Nightmare Archfiends". When it is destroyed, the controller will take 800 damage.
+
+Type: Fiend
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:

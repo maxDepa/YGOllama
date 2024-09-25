@@ -1,0 +1,16 @@
+Evil★Twin's Trouble Sunny
+Card Type: Link Monster
+
+Description: 2+ monsters, including an "Evil★Twin" monster
+(Quick Effect): You can Tribute this card; Special Summon up to 1 "Ki-sikil" monster and up to 1 "Lil-la" monster from your GY. You can banish this card from your GY and send 1 "Evil★Twin" monster from your hand, Deck, or face-up field to the GY; send 1 card on the field to the GY. You can only use each effect of "Evil★Twin's Trouble Sunny" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 0
+Attack: 3300
+Defence: 0
+Archetype: Evil★Twin
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny
+- Burst of Destiny

@@ -1,0 +1,15 @@
+Splash Mage
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+You can target 1 Cyberse monster in your GY; Special Summon it in Defense Position, but negate its effects, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. You can only use this effect of "Splash Mage" once per turn.
+
+Type: Cyberse
+Attribute: WATER
+Level: 0
+Attack: 1100
+Defence: 0
+Archetype: //
+Present in Sets:
+- Eternity Code
+- Ghosts From the Past

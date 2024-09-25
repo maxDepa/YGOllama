@@ -1,0 +1,16 @@
+Foolish Return
+Card Type: Spell Card
+
+Description: Select 1 card in your opponent's Graveyard. Return it to the Deck.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magnificent Mavens
+- Storm of Ragnarok
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 L

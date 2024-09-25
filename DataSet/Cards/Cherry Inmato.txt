@@ -1,0 +1,13 @@
+Cherry Inmato
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can Special Summon up to 2 "Inmato" monsters from your Deck. They cannot be used as Synchro Material Monsters this turn.
+
+Type: Plant
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 400
+Archetype: //
+Present in Sets:
+- The Shining Darkness

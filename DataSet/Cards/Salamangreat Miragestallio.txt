@@ -1,0 +1,15 @@
+Salamangreat Miragestallio
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+You can detach 1 material from this card; Special Summon 1 "Salamangreat" monster from your Deck in Defense Position, also you cannot activate monster effects for the rest of this turn, except FIRE monsters. If this Xyz Summoned card is sent to the GY as material for the Link Summon of a "Salamangreat" monster: You can target 1 monster on the field; return it to the hand. You can only use each effect of "Salamangreat Miragestallio" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 3
+Attack: 2000
+Defence: 900
+Archetype: Salamangreat
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano
+- Structure Deck: Soulburner

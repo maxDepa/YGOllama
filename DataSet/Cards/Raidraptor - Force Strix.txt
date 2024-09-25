@@ -1,0 +1,18 @@
+Raidraptor - Force Strix
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+This card gains 500 ATK and DEF for each Winged Beast monster you control (other than this card). Once per turn: You can detach 1 material from this card; add 1 Level 4 DARK Winged Beast monster from your Deck to your hand.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: Raidraptor
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- OTS Tournament Pack 24
+- Wing Raiders

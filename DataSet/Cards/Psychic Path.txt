@@ -1,0 +1,13 @@
+Psychic Path
+Card Type: Spell Card
+
+Description: Pay 800 Life Points and select up to 2 of your removed from play Psychic-Type monsters. Add them to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

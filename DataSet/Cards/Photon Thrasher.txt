@@ -1,0 +1,22 @@
+Photon Thrasher
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- Astral Pack One
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Ghosts From the Past
+- Legendary Duelists: White Dragon Abyss
+- Order of Chaos
+- OTS Tournament Pack 4
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Link Strike

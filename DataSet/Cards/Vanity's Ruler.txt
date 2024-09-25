@@ -1,0 +1,16 @@
+Vanity's Ruler
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Your opponent cannot Special Summon monsters.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight
+- Cyberdark Impact
+- Cyberdark Impact
+- Duel Overload

@@ -1,0 +1,13 @@
+Swords of Burning Light
+Card Type: Spell Card
+
+Description: While you control no monsters, monsters your opponent controls cannot declare attacks. If you control a monster, or if your opponent has 5 or more cards in their hand, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Super Starter: V for Victory

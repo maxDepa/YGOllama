@@ -1,0 +1,17 @@
+Dragunity Knight - Vajrayana
+Card Type: Synchro Monster
+
+Description: 1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters
+When this card is Synchro Summoned: You can target 1 Level 3 or lower Dragon "Dragunity" monster in your GY; equip that target to this card. Once per turn: You can send 1 Equip Card equipped to this card to the GY; double this card's ATK until the end of this turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 6
+Attack: 1900
+Defence: 1200
+Archetype: Dragunity
+Present in Sets:
+- Shadows in Valhalla
+- Starstrike Blast
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

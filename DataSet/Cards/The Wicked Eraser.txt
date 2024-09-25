@@ -1,0 +1,15 @@
+The Wicked Eraser
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: -1
+Defence: -1
+Archetype: Wicked God
+Present in Sets:
+- Collectible Tins 2010 Wave 1
+- King's Court
+- Shonen Jump Vol. 5, Issue 9 promotional card

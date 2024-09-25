@@ -1,0 +1,17 @@
+Molten Zombie
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned from the Graveyard: Draw 1 card.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Blaze of Destruction

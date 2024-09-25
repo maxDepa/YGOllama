@@ -1,0 +1,18 @@
+Fire Princess
+Card Type: Effect Monster
+
+Description: Each time you gain Life Points, inflict 500 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Gold Series
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 3: Yugi's World Mega Pack

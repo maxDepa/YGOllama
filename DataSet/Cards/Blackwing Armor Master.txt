@@ -1,0 +1,22 @@
+Blackwing Armor Master
+Card Type: Synchro Monster
+
+Description: 1 "Blackwing" Tuner + 1 or more non-Tuner monsters
+Cannot be destroyed by battle, and you take no battle damage from attacks involving this card. At the end of the Damage Step, if this card attacked a monster: You can place 1 Wedge Counter on that monster (max. 1). You can remove all Wedge Counters from your opponent's monsters; the ATK and DEF of those monsters that had Wedge Counters become 0 until the end of this turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1500
+Archetype: Blackwing
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes
+- Battle Pack Tournament Prize Cards
+- Battles of Legend: Crystal Revenge
+- Crimson Crisis
+- Crimson Crisis
+- Duelist Pack: Crow
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Premium Gold

@@ -1,0 +1,17 @@
+Machina Armored Unit
+Card Type: Spell Card
+
+Description: Once per turn, when a Machine monster is destroyed by battle and sent to your GY: You can Special Summon 1 Machine monster from your Deck that has the same Attribute and less ATK than that destroyed monster in the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Machina
+Present in Sets:
+- Astral Pack Two
+- Cyber Dragon Revolution Structure Deck
+- Legendary Dragon Decks
+- Machina Mayhem Structure Deck
+- Structure Deck: Mechanized Madness

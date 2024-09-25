@@ -1,0 +1,13 @@
+Utopia Buster
+Card Type: Spell Card
+
+Description: If you control a "Utopia" monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Premium Gold

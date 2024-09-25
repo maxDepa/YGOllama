@@ -1,0 +1,13 @@
+Mikanko Promise
+Card Type: Trap Card
+
+Description: Special Summon 1 "Mikanko" monster from your hand or Deck, then you can equip it with 1 Equip Spell from your hand or GY that can equip to that monster. Banish that monster when it leaves the field. You can only activate 1 "Mikanko Promise" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mikanko
+Present in Sets:
+- Amazing Defenders

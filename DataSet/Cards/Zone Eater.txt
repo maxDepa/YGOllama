@@ -1,0 +1,13 @@
+Zone Eater
+Card Type: Effect Monster
+
+Description: A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 250
+Defence: 200
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

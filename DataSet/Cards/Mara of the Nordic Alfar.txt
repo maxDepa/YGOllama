@@ -1,0 +1,16 @@
+Mara of the Nordic Alfar
+Card Type: Tuner Monster
+
+Description: When using this card as Synchro Material, the other Synchro Materials must be 2 "Nordic" monsters in your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 1000
+Defence: 500
+Archetype: Nordic
+Present in Sets:
+- Extreme Victory
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks

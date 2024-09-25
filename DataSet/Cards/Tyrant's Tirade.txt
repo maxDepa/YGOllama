@@ -1,0 +1,13 @@
+Tyrant's Tirade
+Card Type: Trap Card
+
+Description: Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok

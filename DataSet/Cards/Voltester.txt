@@ -1,0 +1,13 @@
+Voltester
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned to a zone a Link Monster points to: Destroy all Link Monsters that point to this card, then destroy all other monsters that those Link Monsters pointed to, and follow the Link Arrows of all those destroyed monsters, destroying everything they point to, and repeating the process, until there are no more to destroy. (This card cannot be destroyed by this effect.) You can only use this effect of "Voltester" once per turn.
+
+Type: Thunder
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Rising Rampage

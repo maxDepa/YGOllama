@@ -1,0 +1,16 @@
+Shine Knight
+Card Type: Effect Monster
+
+Description: This card is Level 4 while in face-up Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 400
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony

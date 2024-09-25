@@ -1,0 +1,15 @@
+Bone Crusher
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 200
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis
+- Gold Series: Haunted Mine

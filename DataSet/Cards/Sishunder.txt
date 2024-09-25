@@ -1,0 +1,13 @@
+Sishunder
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 4 LIGHT Thunder-Type monster with 1600 or less ATK in your Graveyard, except "Sishunder"; banish that target. During the End Phase of this turn, add that card to your hand.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 900
+Defence: 400
+Archetype: //
+Present in Sets:
+- Return of the Duelist

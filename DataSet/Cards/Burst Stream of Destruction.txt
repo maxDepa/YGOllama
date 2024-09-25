@@ -1,0 +1,25 @@
+Burst Stream of Destruction
+Card Type: Spell Card
+
+Description: If you control "Blue-Eyes White Dragon": Destroy all monsters your opponent controls. "Blue-Eyes White Dragon" you control cannot attack the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Dragons Collide Structure Deck
+- Duel Terminal - Preview Wave 1
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Seto Kaiba

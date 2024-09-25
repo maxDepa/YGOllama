@@ -1,0 +1,13 @@
+Fiend's Mirror
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "Beastly Mirror Ritual".
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Premium Collection Tin

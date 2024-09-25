@@ -1,0 +1,16 @@
+Dogmatika Alba Zoa
+Card Type: Ritual Effect Monster
+
+Description: Cannot be Ritual Summoned, except by "Dogmatikalamity" or another "Dogmatika" card effect. "Dogmatika" monsters you control are unaffected by the activated effects of your opponent's Fusion, Synchro, Xyz, and Link Monsters. During your Main Phase: You can make your opponent choose and apply 1 of these effects ('you' in these effects means that opponent).
+● For every 2 cards in your Extra Deck, send 1 card from your hand or Extra Deck to the GY.
+● Return all Fusion, Synchro, Xyz, and Link Monsters you control to the Extra Deck.
+You can only use this effect of "Dogmatika Alba Zoa" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 12
+Attack: 4000
+Defence: 4000
+Archetype: Dogmatika
+Present in Sets:
+- Photon Hypernova

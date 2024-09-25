@@ -1,0 +1,14 @@
+Magikey Battle
+Card Type: Spell Card
+
+Description: Target 1 Normal Monster, 1 "Magikey" monster, or 1 "Magikey Maftea" in your GY; shuffle it into the Deck, then if you activated this card in response to your opponent's card or effect activation, Normal Monsters and "Magikey" monsters you control (except Tokens) are unaffected by that opponent's card effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magikey
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

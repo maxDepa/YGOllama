@@ -1,0 +1,16 @@
+Dweller in the Depths
+Card Type: Effect Monster
+
+Description: Gains 300 ATK for each Continuous Spell in your Spell & Trap Zone.
+
+Type: Dragon
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 700
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Force of the Breaker
+- Speed Duel: Attack from the Deep

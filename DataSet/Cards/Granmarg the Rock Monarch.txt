@@ -1,0 +1,20 @@
+Granmarg the Rock Monarch
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned: Target 1 Set card on the field; destroy that target.
+
+Type: Rock
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 13 participation cards
+- Emperor of Darkness Structure Deck
+- Flaming Eternity
+- Flaming Eternity
+- Gold Series 2009
+- Speed Duel: Battle City Box
+- Tournament Pack 8

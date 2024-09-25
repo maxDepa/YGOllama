@@ -1,0 +1,15 @@
+Kiwi Magician Girl
+Card Type: Effect Monster
+
+Description: During either player's turn: You can discard this card; "Magician Girl" monsters you currently control gain 300 ATK and DEF for each "Magician Girl" monster with different names on the field and in the Graveyards, until the end of this turn. Spellcaster-Type monsters you control cannot be destroyed by card effects, and your opponent cannot target them with card effects.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 5
+Attack: 1800
+Defence: 1200
+Archetype: Magician Girl
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

@@ -1,0 +1,13 @@
+Rainbow Veil
+Card Type: Spell Card
+
+Description: If the equipped monster battles an opponent's monster, while that monster is on the field its effect(s) is negated during the Battle Phase only.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

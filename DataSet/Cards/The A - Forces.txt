@@ -1,0 +1,18 @@
+The A. Forces
+Card Type: Spell Card
+
+Description: All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Samurai Warlords Structure Deck
+- Space-Time Showdown Power-Up Pack
+- Super Starter: V for Victory

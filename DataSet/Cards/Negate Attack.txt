@@ -1,0 +1,28 @@
+Negate Attack
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Target the attacking monster; negate the attack, then end the Battle Phase.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Legion Starter Deck
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Duelist Pack: Jaden Yuki
+- Legendary Decks II
+- Saber Force Starter Deck
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Structure Deck: Dinosaur's Rage
+- Structure Deck: Seto Kaiba
+- Yu-Gi-Oh! The Sacred Cards promotional cards

@@ -1,0 +1,13 @@
+Starduston
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending any number of "Duston" monsters you control to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK and DEF each become equal to the number of monsters sent to the Graveyard for its Summon x 1000. Your opponent cannot Flip or Special Summon any monsters, or activate any Set Spell/Trap Cards on the field. If you control more monsters than your opponent does, destroy this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: -1
+Defence: -1
+Archetype: Duston
+Present in Sets:
+- Primal Origin

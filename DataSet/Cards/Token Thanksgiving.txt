@@ -1,0 +1,15 @@
+Token Thanksgiving
+Card Type: Spell Card
+
+Description: Destroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

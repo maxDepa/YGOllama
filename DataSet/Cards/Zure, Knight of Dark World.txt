@@ -1,0 +1,18 @@
+Zure, Knight of Dark World
+Card Type: Normal Monster
+
+Description: The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Speed Duel GX: Duelists of Shadows
+- Starter Deck: Syrus Truesdale
+- Structure Deck: Dark World

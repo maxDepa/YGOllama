@@ -1,0 +1,15 @@
+The Prime Monarch
+Card Type: Trap Card
+
+Description: Once per turn: You can target 2 "Monarch" Spell/Trap Cards in your Graveyard; shuffle them into the Deck, then draw 1 card. If this card is in your Graveyard: You can banish 1 other "Monarch" Spell/Trap Card from your Graveyard; Special Summon this card in Defense Position as a Normal Monster (Fairy-Type/LIGHT/Level 5/ATK 1000/DEF 2400). (This card is NOT treated as a Trap Card.) You can only use this effect of "The Prime Monarch" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Monarch
+Present in Sets:
+- Emperor of Darkness Structure Deck
+- Maximum Gold
+- OTS Tournament Pack 2

@@ -1,0 +1,17 @@
+Gladiator Beast War Chariot
+Card Type: Trap Card
+
+Description: When an Effect Monster's effect is activated, if you control a face-up "Gladiator Beast" monster: Negate the activation and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 12 (POR)
+- Ra Yellow Mega Pack
+- The Duelist Genesis
+- Turbo Pack: Booster Three

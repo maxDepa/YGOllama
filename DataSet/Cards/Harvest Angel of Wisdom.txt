@@ -1,0 +1,15 @@
+Harvest Angel of Wisdom
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can target 1 Counter Trap in your GY; add it to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Fairy
+Present in Sets:
+- Crossroads of Chaos: Special Edition
+- Strike of Neos
+- Structure Deck: Wave of Light

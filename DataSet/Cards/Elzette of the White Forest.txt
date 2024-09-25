@@ -1,0 +1,14 @@
+Elzette of the White Forest
+Card Type: Effect Monster
+
+Description: You can send 1 Spell/Trap from your hand or field to the GY; Special Summon this card from your hand, then add 1 "White Forest" monster from your Deck to your hand, except "Elzette of the White Forest". During your opponent's turn, if a LIGHT Spellcaster Tuner is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use each effect of "Elzette of the White Forest" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: White Forest
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

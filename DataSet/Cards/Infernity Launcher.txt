@@ -1,0 +1,14 @@
+Infernity Launcher
+Card Type: Spell Card
+
+Description: Once per turn: You can send 1 "Infernity" monster from your hand to the Graveyard. You can send this card to the Graveyard, then target up to 2 "Infernity" monsters in your Graveyard; Special Summon them. You must have no cards in your hand to activate and to resolve this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- Duelist Saga
+- The Shining Darkness

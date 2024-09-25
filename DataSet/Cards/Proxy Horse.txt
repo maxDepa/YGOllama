@@ -1,0 +1,13 @@
+Proxy Horse
+Card Type: Effect Monster
+
+Description: If this card you control would be used as Link Material for a Cyberse monster, you can also use 1 Cyberse monster in your hand as material. During your End Phase: You can banish this card from your GY, then target 2 Link Monsters in your GY including a Cyberse Link Monster; return them to the Extra Deck. You can only use each effect of "Proxy Horse" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

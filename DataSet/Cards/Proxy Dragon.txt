@@ -1,0 +1,14 @@
+Proxy Dragon
+Card Type: Link Monster
+
+Description: 2 monsters
+If a card(s) you control would be destroyed by battle or card effect, you can destroy 1 of your monsters this card points to, instead.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tins

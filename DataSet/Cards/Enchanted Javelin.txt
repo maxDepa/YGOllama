@@ -1,0 +1,17 @@
+Enchanted Javelin
+Card Type: Trap Card
+
+Description: Select 1 attacking monster. Gain Life Points equal to its ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Starter Deck: Pegasus

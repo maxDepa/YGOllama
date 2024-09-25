@@ -1,0 +1,14 @@
+Beast-Warrior Puma
+Card Type: Effect Monster
+
+Description: You can Tribute this card; add 1 "D.D. Esper Star Sparrow" from your Deck or Graveyard to your hand.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

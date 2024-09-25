@@ -1,0 +1,16 @@
+Geomancer of the Ice Barrier
+Card Type: Tuner Monster
+
+Description: Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

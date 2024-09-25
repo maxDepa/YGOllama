@@ -1,0 +1,16 @@
+Fluffal Bear
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the Graveyard; Set 1 "Toy Vendor" directly from your Deck to your Spell & Trap Zone. You can Tribute this card, then target 1 "Polymerization" in your Graveyard; add it to your hand. You can only use 1 "Fluffal Bear" effect per turn, and only once that turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Fluffal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Star Pack ARC-V
+- Star Pack ARC-V
+- The New Challengers

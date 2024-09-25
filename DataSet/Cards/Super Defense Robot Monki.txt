@@ -1,0 +1,14 @@
+Super Defense Robot Monki
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Super Defense Robot" monster or "Orbital 7" from your hand. Once per turn: You can banish 1 Machine-Type monster from your Graveyard, then target 1 "Super Defense Robot" monster or "Orbital 7" in your Graveyard; add that target to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Super Defense Robot
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

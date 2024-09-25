@@ -1,0 +1,15 @@
+Armed Dragon Flash
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 3 "Armed Dragon" monster from your Deck in Defense Position. You can only activate 1 "Armed Dragon Flash" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Armed Dragon
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex
+- Blazing Vortex Premiere! promotional card

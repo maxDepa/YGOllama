@@ -1,0 +1,13 @@
+Amazement Ambassador Bufo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Attraction" Trap in your GY and 1 face-up monster your opponent controls; equip that Trap to your opponent's monster. (Quick Effect): You can target 1 of your "Attraction" Traps equipped to a monster; equip it to 1 "Amazement" monster you control or 1 face-up monster your opponent controls. You can only use this effect of "Amazement Ambassador Bufo" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 900
+Archetype: Amazement
+Present in Sets:
+- Lightning Overdrive

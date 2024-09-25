@@ -1,0 +1,12 @@
+Rainbow Marine Mermaid
+Card Type: Normal Monster
+
+Description: A reticent mermaid who appears only on very rare occasions. She emerges only when a large rainbow arches across the sky.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1550
+Defence: 1700
+Archetype: //
+Present in Sets:

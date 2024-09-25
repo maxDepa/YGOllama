@@ -1,0 +1,14 @@
+Shopina the Melodious Maestra
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 LIGHT Fairy-Type monster in your Graveyard; add it to your hand. You cannot activate non-LIGHT monster effects during the turn you activate this effect.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2300
+Defence: 1700
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

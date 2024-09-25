@@ -1,0 +1,16 @@
+Naturia Ragweed
+Card Type: Effect Monster
+
+Description: When your opponent draws a card(s), except during the Draw Phase, you can send this face-up card you control to the Graveyard to draw 2 cards.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 2000
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

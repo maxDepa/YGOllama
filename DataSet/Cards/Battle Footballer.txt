@@ -1,0 +1,16 @@
+Battle Footballer
+Card Type: Normal Monster
+
+Description: A cyborg with high defense power. Originally it was invented for a football machine.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Starter Deck: Duelist Toolbox

@@ -1,0 +1,13 @@
+Margin Trading
+Card Type: Spell Card
+
+Description: Your opponent can discard 1 card to negate this effect, otherwise both players look at their opponent's Deck and choose 1 card, then add the card from their own Deck chosen by their opponent to their hand. You can only activate 1 "Margin Trading" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dawn of Majesty

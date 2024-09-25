@@ -1,0 +1,20 @@
+Gren Maju Da Eiza
+Card Type: Effect Monster
+
+Description: This card's ATK/DEF are each equal to the number of your banished cards x 400.
+
+Type: Fiend
+Attribute: FIRE
+Level: 3
+Attack: -1
+Defence: -1
+Archetype: Maju
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Speed Duel GX: Duelists of Shadows
+- The Dark Emperor Structure Deck

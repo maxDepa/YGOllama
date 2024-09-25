@@ -1,0 +1,17 @@
+Double Cyclone
+Card Type: Spell Card
+
+Description: Target 1 Spell/Trap you control and 1 Spell/Trap your opponent controls; destroy them.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Duelist Revolution
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Trials of the Kingdom
+- Synchron Extreme Structure Deck

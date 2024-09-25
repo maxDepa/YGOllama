@@ -1,0 +1,22 @@
+Zoma the Spirit
+Card Type: Trap Card
+
+Description: Special Summon this card in Defense Position as an Effect Monster (Zombie/DARK/Level 4/ATK 1800/DEF 500). (This card is also still a Trap.) If this card Summoned this way is destroyed by battle: Inflict damage to your opponent equal to the ATK of the monster that destroyed it.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Gold Series: Haunted Mine
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Phantom Darkness
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3
+- Turbo Pack: Booster Five

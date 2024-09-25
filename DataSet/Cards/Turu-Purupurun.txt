@@ -1,0 +1,12 @@
+Turu-Purupurun
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can target 1 WATER monster in your Main Monster Zone; destroy that monster you control, and if you do, Special Summon this card to the zone that monster was in, then you can destroy all opponent's face-up cards in this card's column. You can only use this effect of "Turu-Purupurun" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 450
+Defence: 500
+Archetype: //
+Present in Sets:

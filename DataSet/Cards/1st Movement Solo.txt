@@ -1,0 +1,15 @@
+1st Movement Solo
+Card Type: Spell Card
+
+Description: If you control no monsters: Special Summon 1 Level 4 or lower "Melodious" monster from your hand or Deck. You can only activate 1 "1st Movement Solo" per turn. You cannot Special Summon monsters during the turn you activate this card, except "Melodious" monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers
+- The New Challengers: Super Edition

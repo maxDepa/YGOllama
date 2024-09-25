@@ -1,0 +1,12 @@
+The Melting Red Shadow
+Card Type: Normal Monster
+
+Description: This monster melts away to materialize under its enemies, taking them by surprise.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 700
+Archetype: //
+Present in Sets:

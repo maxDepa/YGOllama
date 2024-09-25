@@ -1,0 +1,15 @@
+Quintet Magician
+Card Type: Fusion Monster
+
+Description: 5 Spellcaster monsters
+Must be Fusion Summoned. If this card is Fusion Summoned using 5 Spellcaster monsters with different names: You can destroy all cards your opponent controls. This face-up card on the field cannot be Tributed, nor used as Fusion Material, also it cannot be destroyed by card effects.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 12
+Attack: 4500
+Defence: 4500
+Archetype: //
+Present in Sets:
+- Duel Power
+- Ghosts From the Past: The 2nd Haunting

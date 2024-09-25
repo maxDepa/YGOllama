@@ -1,0 +1,14 @@
+Terror from the Deep!
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase, while you control "Kairyu-Shin". When this Skill is activated, you can activate "Umi" directly from your hand, Deck or GY. While you control "Kairyu-Shin", all WATER monsters you control are unaffected by Trap effects. If "Kairyu-Shin" you control leaves the field, draw 2 cards, and if you do, flip this card over.
+
+Type: Mako
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Umi
+Present in Sets:
+- Speed Duel: Trials of the Kingdom
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards

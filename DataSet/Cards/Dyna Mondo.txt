@@ -1,0 +1,15 @@
+Dyna Mondo
+Card Type: Link Monster
+
+Description: 2 monsters, including a Ritual Monster
+If this card is Special Summoned: You can target 1 card on the field and 1 Ritual Monster in your GY; shuffle both into the Deck. During your opponent's turn (Quick Effect): You can Tribute this card, then target 1 Ritual Monster in your GY; either add it to your hand or Special Summon it. You can only use each effect of "Dyna Mondo" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 25
+- Photon Hypernova

@@ -1,0 +1,14 @@
+White Howling
+Card Type: Trap Card
+
+Description: If you control a WATER monster: Target 1 Spell in your opponent's GY; banish it, and if you do, for the rest of this turn negate all Spell effects on your opponent's field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

@@ -1,0 +1,16 @@
+War Rock Dignity
+Card Type: Spell Card
+
+Description: You must control a "War Rock" monster to activate either of these effects.
+● When a monster your opponent controls activates its effect: Negate that effect.
+● During the Battle Phase, when your opponent activates a Spell/Trap Card, or monster effect: Negate that effect.
+You can only activate 1 "War Rock Dignity" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: War Rock
+Present in Sets:
+- Lightning Overdrive

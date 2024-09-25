@@ -1,0 +1,25 @@
+Fiendish Chain
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 Effect Monster on the field; negate the effects of that face-up monster while it is on the field, also that face-up monster cannot attack. When it is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Astral Pack Eight
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Legendary Collection 5D's Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Machine Reactor Structure Deck
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Samurai Warlords Structure Deck
+- Starter Deck: Link Strike
+- Structure Deck: Freezing Chains
+- Structure Deck: Seto Kaiba
+- Structure Deck: The Crimson King

@@ -1,0 +1,16 @@
+Galaxy Expedition
+Card Type: Spell Card
+
+Description: If you control a Level 5 or higher "Photon" or "Galaxy" monster: Special Summon 1 Level 5 or higher "Photon" or "Galaxy" monster from your Deck in Defense Position. You can only activate 1 "Galaxy Expedition" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- OTS Tournament Pack 21
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Zexal Collection Tin

@@ -1,0 +1,15 @@
+Ambulance Rescueroid
+Card Type: Fusion Monster
+
+Description: "Rescueroid" + "Ambulanceroid"
+This monster cannot be Special Summoned except by Fusion Summon. Once per turn, when a monster on your side of the field is destroyed by battle and sent to the Graveyard, you can Special Summon that monster in Defense Position.
+
+Type: Machine
+Attribute: FIRE
+Level: 6
+Attack: 2300
+Defence: 1800
+Archetype: Roid
+Present in Sets:
+- Power of the Duelist
+- Speed Duel GX: Midterm Paradox

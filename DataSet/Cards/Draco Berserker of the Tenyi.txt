@@ -1,0 +1,17 @@
+Draco Berserker of the Tenyi
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When your opponent activates a monster's effect (Quick Effect): You can banish it. If this attacking card destroys an Effect Monster by battle and sends it to the GY: This card gains ATK equal to the destroyed monster's original ATK, also it can make a second attack on a monster during this Battle Phase. You can only use each effect of "Draco Berserker of the Tenyi" once per turn.
+
+Type: Wyrm
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Battles of Legend: Monstrous Revenge
+- Chaos Impact
+- Valiant Smashers

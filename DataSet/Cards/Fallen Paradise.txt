@@ -1,0 +1,15 @@
+Fallen Paradise
+Card Type: Spell Card
+
+Description: Your opponent cannot target "Uria, Lord of Searing Flames", "Hamon, Lord of Striking Thunder", "Raviel, Lord of Phantasms", or "Armityle the Chaos Phantom" in your Monster Zones with card effects, also those monsters cannot be destroyed by your opponent's card effects while you control them. If you control "Uria, Lord of Searing Flames", "Hamon, Lord of Striking Thunder", "Raviel, Lord of Phantasms" or "Armityle the Chaos Phantom" in your Monster Zone: You can draw 2 cards. You can only use this effect of "Fallen Paradise" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sacred Beast
+Present in Sets:
+- Duelist Saga
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Sacred Beasts

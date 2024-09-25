@@ -1,0 +1,16 @@
+Ojama Knight
+Card Type: Fusion Monster
+
+Description: 1 "Ojama" monster + 1 "Ojama" monster
+Select up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.
+
+Type: Beast
+Attribute: LIGHT
+Level: 5
+Attack: 0
+Defence: 2500
+Archetype: Ojama
+Present in Sets:
+- OTS Tournament Pack 15 (POR)
+- Speed Duel GX: Duel Academy Box
+- Tactical Evolution

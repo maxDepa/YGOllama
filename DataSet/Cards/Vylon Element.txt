@@ -1,0 +1,14 @@
+Vylon Element
+Card Type: Spell Card
+
+Description: When any face-up "Vylon" Equip Card(s) you control are destroyed (except during the Damage Step): You can Special Summon an equal or lower number of "Vylon" Tuner monsters from your Deck. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a "Vylon" Synchro Monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

@@ -1,0 +1,19 @@
+Jar of Avarice
+Card Type: Trap Card
+
+Description: Target 5 cards in your GY, except "Jar of Avarice"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 "Jar of Avarice" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Legendary Decks II
+- Machine Reactor Structure Deck
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Starter Decks: Ultimate Predators
+- Starter Deck: Link Strike

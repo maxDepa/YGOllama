@@ -1,0 +1,16 @@
+Tri-Horned Dragon
+Card Type: Normal Monster
+
+Description: An unworthy dragon with three sharp horns sprouting from its head.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2850
+Defence: 2350
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack

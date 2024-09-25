@@ -1,0 +1,20 @@
+Infernoid Tierra
+Card Type: Fusion Monster
+
+Description: "Infernoid Onuncu" + "Infernoid Devyaty" + 1 or more "Infernoid" monsters
+When this card is Fusion Summoned, you can: Apply these effects, in sequence, depending on the number of Fusion Materials with different names used for this card's Summon;
+● 3 or more: Each player sends 3 cards from their Extra Deck to the Graveyard.
+● 5 or more: Each player sends the top 3 cards from their Deck to the Graveyard.
+● 8 or more: Each player returns up to 3 of their banished cards to the Graveyard.
+● 10 or more: Each player sends their entire hand to the Graveyard.
+
+Type: Fiend
+Attribute: FIRE
+Level: 11
+Attack: 3400
+Defence: 3600
+Archetype: Infernoid
+Present in Sets:
+- Brothers of Legend
+- Clash of Rebellions
+- Clash of Rebellions

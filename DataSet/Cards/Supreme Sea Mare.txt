@@ -1,0 +1,14 @@
+Supreme Sea Mare
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 Aqua monster from your Deck to the GY, except "Supreme Sea Mare". During your End Phase: You can Tribute this card, then target 1 Aqua monster in your GY, except "Supreme Sea Mare"; add it to your hand. You can only use each effect of "Supreme Sea Mare" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

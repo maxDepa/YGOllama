@@ -1,0 +1,16 @@
+Eater of Millions
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 5 or more cards from your hand, field, and/or Extra Deck, face-down. This card gains 100 ATK/DEF for each face-down banished card. This card cannot be Tributed, nor used as material for a Fusion, Synchro, or Xyz Summon. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can banish that opponent's monster, face-down.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Maximum Gold
+- Raging Tempest

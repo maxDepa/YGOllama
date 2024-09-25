@@ -1,0 +1,17 @@
+Different Dimension Dragon
+Card Type: Effect Monster
+
+Description: This card cannot be destroyed by Spell/Trap effects that do not target it. This card cannot be destroyed by battle with a monster that has 1900 or less ATK.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 5
+Attack: 1200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duel Terminal 4
+- Duelist Pack: Kaiba

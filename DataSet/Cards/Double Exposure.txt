@@ -1,0 +1,13 @@
+Double Exposure
+Card Type: Spell Card
+
+Description: You can target 2 Level 6 or lower monsters with the same name on the field; their Levels are doubled. At the start of the Battle Phase: You can target 1 "Cipher" monster you control; choose 1 other face-up monster on the field, and its name becomes that "Cipher" monster's, until the End Phase. You can only use each effect of "Double Exposure" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Brothers of Legend

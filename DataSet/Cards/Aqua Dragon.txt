@@ -1,0 +1,13 @@
+Aqua Dragon
+Card Type: Fusion Monster
+
+Description: "Fairy Dragon" + "Amazon of the Seas" + "Zone Eater"
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 6
+Attack: 2250
+Defence: 1900
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

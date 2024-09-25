@@ -1,0 +1,29 @@
+Smashing Ground
+Card Type: Spell Card
+
+Description: Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Champion Pack: Game Two
+- Dark Legion Starter Deck
+- Dark Revelation Volume 2
+- Duel Terminal 3
+- Geargia Rampage Structure Deck
+- Gold Series 3
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Lost Sanctuary Structure Deck
+- Premium Gold: Return of the Bling
+- Saber Force Starter Deck
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's

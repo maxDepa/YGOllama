@@ -1,0 +1,13 @@
+Wattkeeper
+Card Type: Trap Card
+
+Description: Select 1 Level 4 or lower "Watt" monster in your Graveyard. Special Summon that monster from the Graveyard. Destroy it during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Starstrike Blast

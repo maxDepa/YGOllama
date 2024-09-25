@@ -1,0 +1,13 @@
+Abyss Script - Fantasy Magic
+Card Type: Spell Card
+
+Description: Target 1 "Abyss Actor" monster you control; this turn, every monster that battles it, but is not destroyed, returns to the hand at the end of the Damage Step. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up "Abyss Actor" Pendulum Monster in your Extra Deck: You can target 1 card your opponent controls; place it on top of the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Abyss Actor
+Present in Sets:
+- Destiny Soldiers

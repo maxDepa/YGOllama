@@ -1,0 +1,14 @@
+Constellar Acubens
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: All "Constellar" monsters you currently control gain 500 ATK.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

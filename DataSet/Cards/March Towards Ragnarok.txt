@@ -1,0 +1,15 @@
+March Towards Ragnarok
+Card Type: Spell Card
+
+Description: Target 1 "Aesir" monster you control; until the end of this turn, its effects are negated, also that face-up monster is unaffected by the effects of other Spells/Traps.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

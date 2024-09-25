@@ -1,0 +1,17 @@
+Amazoness Spellcaster
+Card Type: Spell Card
+
+Description: Target 1 "Amazoness" monster you control and 1 face-up monster your opponent controls; switch the original ATK of those targets until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows
+- Turbo Pack: Booster Four

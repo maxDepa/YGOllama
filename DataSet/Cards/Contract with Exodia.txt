@@ -1,0 +1,16 @@
+Contract with Exodia
+Card Type: Spell Card
+
+Description: If you have all 5 of "Exodia the Forbidden One", "Right Arm of the Forbidden One", "Left Arm of the Forbidden One", "Right Leg of the Forbidden One", and "Left Leg of the Forbidden One" in your Graveyard: Special Summon 1 "Exodia Necross" from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Exodia
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Decks II

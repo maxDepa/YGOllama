@@ -1,0 +1,14 @@
+Clay Charge
+Card Type: Trap Card
+
+Description: When an "Elemental HERO Clayman" you control is targeted for an attack (even if it is face-down, but reveal it to your opponent in that case): Destroy the attacking monster and that "Elemental HERO Clayman", and inflict 800 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack

@@ -1,0 +1,14 @@
+Lillybot
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned or flipped face-up: You can target 1 "Orbital 7" in your Graveyard; Special Summon that target in face-up Attack Position or face-down Defense Position. Once per turn: You can Tribute any number of Machine-Type monsters; Special Summon an equal number of "Photon" and/or "Galaxy" monsters from your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: Photon
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

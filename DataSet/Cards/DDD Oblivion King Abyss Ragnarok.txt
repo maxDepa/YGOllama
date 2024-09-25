@@ -1,0 +1,21 @@
+D/D/D Oblivion King Abyss Ragnarok
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you Special Summon a "D/D" monster(s), except during the Damage Step: You can target 1 "D/D" monster in your Graveyard; any battle damage your opponent takes becomes halved for the rest of this turn, also Special Summon that monster, and if you do, take 1000 damage. You can only use this effect of "D/D/D Oblivion King Abyss Ragnarok" once per turn.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can target 1 "D/D/D" monster in your Graveyard; Special Summon it. You can only use this effect of "D/D/D Oblivion King Abyss Ragnarok" once per turn. Once per turn: You can Tribute 1 other "D/D" monster, then target 1 monster your opponent controls; banish it.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2200
+Defence: 3000
+Archetype: D/D
+Present in Sets:
+- Dimension of Chaos
+- OTS Tournament Pack 4
+- Pendulum Domination Structure Deck
+- Star Pack Battle Royal
+- Star Pack Battle Royal

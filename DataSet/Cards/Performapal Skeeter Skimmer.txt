@@ -1,0 +1,14 @@
+Performapal Skeeter Skimmer
+Card Type: Effect Monster
+
+Description: When this face-up Attack Position card is targeted for an attack: You can change this card to face-up Defense Position, and if you do, negate that attack.
+
+Type: Insect
+Attribute: WATER
+Level: 4
+Attack: 500
+Defence: 1600
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

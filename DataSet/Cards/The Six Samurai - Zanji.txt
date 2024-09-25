@@ -1,0 +1,19 @@
+The Six Samurai - Zanji
+Card Type: Effect Monster
+
+Description: At the end of the Damage Step, if this card attacked: Destroy the monster this card attacked. You must control a face-up "Six Samurai" monster with a different name to activate and to resolve this effect. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1300
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Hobby League 5 participation card E
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 12 (POR)
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Strike of Neos

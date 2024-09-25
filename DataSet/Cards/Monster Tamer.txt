@@ -1,0 +1,13 @@
+Monster Tamer
+Card Type: Normal Monster
+
+Description: A master of monsters that exercises control over several creatures.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

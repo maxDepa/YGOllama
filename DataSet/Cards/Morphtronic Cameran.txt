@@ -1,0 +1,13 @@
+Morphtronic Cameran
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: When this card is destroyed by battle, you can Special Summon 1 Level 4 or lower "Morphtronic" monster from your hand or Graveyard, except "Morphtronic Cameran". ● While in Defense Position: "Morphtronic" monsters on the field cannot be targeted by effects.
+
+Type: Machine
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

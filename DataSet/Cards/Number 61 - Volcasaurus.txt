@@ -1,0 +1,15 @@
+Number 61: Volcasaurus
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. This card cannot attack your opponent directly during the turn you activate this effect.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 5
+Attack: 2500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Premium Gold: Infinite Gold
+- Zexal Collection Tin

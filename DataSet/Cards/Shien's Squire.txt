@@ -1,0 +1,14 @@
+Shien's Squire
+Card Type: Tuner Monster
+
+Description: During damage calculation, in either player's turn, if a "Six Samurai" monster you control battles: You can send this card from your hand to the Graveyard; that monster cannot be destroyed by battle this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 1
+Attack: 300
+Defence: 700
+Archetype: Six Samurai
+Present in Sets:
+- Samurai Warlords Structure Deck
+- Storm of Ragnarok

@@ -1,0 +1,15 @@
+Nemuriko
+Card Type: Normal Monster
+
+Description: A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

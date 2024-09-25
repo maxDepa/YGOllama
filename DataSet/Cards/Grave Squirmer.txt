@@ -1,0 +1,21 @@
+Grave Squirmer
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Legion Starter Deck
+- Duel Terminal 4
+- Duelist Pack: Jesse Anderson
+- Gates of the Underworld Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Structure Deck: Sacred Beasts

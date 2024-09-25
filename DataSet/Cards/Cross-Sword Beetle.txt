@@ -1,0 +1,16 @@
+Cross-Sword Beetle
+Card Type: Effect Monster
+
+Description: While you control an Insect-Type monster (other than this card), if an Insect-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Insect
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crimson Crisis
+- Speed Duel: Streets of Battle City

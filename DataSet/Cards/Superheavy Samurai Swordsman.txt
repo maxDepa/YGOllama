@@ -1,0 +1,14 @@
+Superheavy Samurai Swordsman
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can change its battle position. If a "Superheavy Samurai" monster you control battles an opponent's monster, after damage calculation: The opponent's monster's ATK and DEF become 0.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1800
+Archetype: Superheavy
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

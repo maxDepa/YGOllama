@@ -1,0 +1,18 @@
+Magic Formula
+Card Type: Spell Card
+
+Description: Equip only to "Dark Magician" or "Dark Magician Girl". It gains 700 ATK. If this card is sent from the field to the GY: Gain 1000 LP.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Duel Overload
+- Gladiator's Assault
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel: Battle City Box
+- Yugi's Legendary Decks

@@ -1,0 +1,17 @@
+Tornado Bird
+Card Type: Flip Effect Monster
+
+Description: FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Tournament Pack 5

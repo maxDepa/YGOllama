@@ -1,0 +1,15 @@
+Noble Knight Gawayn
+Card Type: Effect Monster
+
+Description: If you control a LIGHT Normal Monster, you can Special Summon this card (from your hand) in Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 500
+Archetype: Noble Knight
+Present in Sets:
+- Noble Knights of the Round Table Box Set
+- Return of the Duelist
+- Return of the Duelist Sneak Peek Participation Card

@@ -1,0 +1,14 @@
+Hibernation Dragon
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 Level 4 or lower Dragon monster in your GY; add it to your hand. While you control no Link Monsters, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 DARK Dragon Link Monster in your GY; Special Summon it. You can only use each effect of "Hibernation Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge

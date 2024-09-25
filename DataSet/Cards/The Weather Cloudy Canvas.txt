@@ -1,0 +1,16 @@
+The Weather Cloudy Canvas
+Card Type: Spell Card
+
+Description: "The Weather" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.
+● You can banish this card, then target 1 face-up monster on the field (except during the Damage Step) (Quick Effect); halve its current ATK for the rest of this turn, but it can attack directly this turn.
+You can only control 1 "The Weather Cloudy Canvas".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: The Weather
+Present in Sets:
+- Maximum Gold: El Dorado
+- Spirit Warriors

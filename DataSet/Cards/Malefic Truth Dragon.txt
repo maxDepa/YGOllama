@@ -1,0 +1,16 @@
+Malefic Truth Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a "Malefic" monster you control, except "Malefic Truth Dragon", is destroyed by battle or by card effect: You can pay half your Life Points; Special Summon this card from your hand or Graveyard. There can only be 1 "Malefic" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent's monster by battle: Destroy all face-up monsters your opponent controls.
+
+Type: Dragon
+Attribute: DARK
+Level: 12
+Attack: 5000
+Defence: 5000
+Archetype: Malefic
+Present in Sets:
+- Collectible Tins 2012 Wave 2
+- Shonen Jump Vol. 9, Issue 3 promotional card
+- Star Pack 2014
+- Star Pack 2014

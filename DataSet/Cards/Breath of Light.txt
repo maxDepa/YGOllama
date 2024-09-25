@@ -1,0 +1,14 @@
+Breath of Light
+Card Type: Spell Card
+
+Description: Destroy all face-up Rock-Type monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League Series 10 participation card
+- World Championship 2011 Card Pack

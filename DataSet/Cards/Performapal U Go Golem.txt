@@ -1,0 +1,18 @@
+Performapal U Go Golem
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if a monster is Fusion Summoned to your field (except during the Damage Step): You can add 1 "Performapal", "Odd-Eyes", or "Magician" Pendulum Monster from your GY or face-up in your Extra Deck to your hand.
+
+[ Monster Effect ] 
+Once per turn, during your Main Phase, if this card was Pendulum Summoned this turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and Dragon monsters you control as Fusion Materials.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Performapal
+Present in Sets:
+- Legendary Dragon Decks
+- Maximum Crisis

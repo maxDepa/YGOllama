@@ -1,0 +1,13 @@
+Introduction to Gallantry
+Card Type: Trap Card
+
+Description: Activate only when your opponent has 5 or more cards in their hand. Your opponent discards 1 random card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker

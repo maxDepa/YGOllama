@@ -1,0 +1,14 @@
+Melffy Hide-and-Seek
+Card Type: Spell Card
+
+Description: The first time each Beast monster you control would be destroyed by card effect each turn, it is not destroyed. You can target 3 Beast monsters in your GY with different names; shuffle them into the Deck, then draw 1 card. You can only use this effect of "Melffy Hide-and-Seek" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Melffy
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

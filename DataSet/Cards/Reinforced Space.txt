@@ -1,0 +1,13 @@
+Reinforced Space
+Card Type: Trap Card
+
+Description: Each face-up Xyz Monster you control gains 300 ATK for each Xyz Material attached to it, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Dawn of the Xyz

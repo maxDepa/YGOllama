@@ -1,0 +1,22 @@
+Volcanic Shell
+Card Type: Effect Monster
+
+Description: Once per turn: You can pay 500 LP; add 1 "Volcanic Shell" from your Deck to your hand. This card must be in the GY to activate and to resolve this effect.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 0
+Archetype: Volcanic
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- Duel Terminal 6b
+- Force of the Breaker
+- Force of the Breaker
+- Gold Series 2009
+- Legendary Duelists: Soulburning Volcano
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 5
+- Structure Deck: Soulburner

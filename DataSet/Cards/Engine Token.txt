@@ -1,0 +1,12 @@
+Engine Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Fiendish Engine Ω".
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

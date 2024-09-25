@@ -1,0 +1,17 @@
+Backfire
+Card Type: Trap Card
+
+Description: If a face-up FIRE monster(s) you control is destroyed and sent to the GY: Inflict 500 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Soulburner

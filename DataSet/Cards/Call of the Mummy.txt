@@ -1,0 +1,23 @@
+Call of the Mummy
+Card Type: Spell Card
+
+Description: Once per turn: You can Special Summon 1 Zombie monster from your hand. You must control no monsters to activate and to resolve this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Duelist League 17 participation cards
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Zombie Horde
+- Structure Deck: Zombie Madness
+- Zombie World Structure Deck

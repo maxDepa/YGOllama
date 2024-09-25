@@ -1,0 +1,15 @@
+Djinn Demolisher of Rituals
+Card Type: Effect Monster
+
+Description: When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, that Ritual Summoned monster cannot be targeted by the card effects of the other player.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1500
+Defence: 600
+Archetype: Djinn
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Astral Pack Seven
+- Duelist Alliance

@@ -1,0 +1,14 @@
+XX-Saber Emmersblade
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower "X-Saber" monster from your Deck.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 800
+Archetype: X-Saber
+Present in Sets:
+- Absolute Powerforce
+- Hidden Arsenal: Special Edition

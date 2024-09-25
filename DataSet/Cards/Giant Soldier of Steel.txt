@@ -1,0 +1,15 @@
+Giant Soldier of Steel
+Card Type: XYZ Monster
+
+Description: 2 Level 3 Rock-Type monsters
+This card is unaffected by other monsters' effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; it gains 1000 DEF until the end of this turn, and if it does, you take no effect damage from your opponent's card effects this turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Battle Pack 3: Monster League

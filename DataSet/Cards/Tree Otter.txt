@@ -1,0 +1,15 @@
+Tree Otter
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up monster you control; it gains 1000 ATK until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.
+
+Type: Beast
+Attribute: WATER
+Level: 2
+Attack: 1200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Raging Battle

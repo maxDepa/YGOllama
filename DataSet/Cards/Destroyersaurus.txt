@@ -1,0 +1,15 @@
+Destroyersaurus
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard; add 1 "Jurassic World" from your Deck to your hand.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Legendary Collection 4: Joey's World Mega Pack

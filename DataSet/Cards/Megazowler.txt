@@ -1,0 +1,13 @@
+Megazowler
+Card Type: Normal Monster
+
+Description: Nothing stands in the way of this spike-covered dinosaur!
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 6
+Attack: 1800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

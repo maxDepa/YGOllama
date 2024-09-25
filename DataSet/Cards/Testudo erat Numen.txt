@@ -1,0 +1,14 @@
+Testudo erat Numen
+Card Type: Effect Monster
+
+Description: Neither player can Special Summon monsters with 1800 or more ATK.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 21
+- The Shining Darkness

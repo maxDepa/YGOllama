@@ -1,0 +1,14 @@
+Malicevorous Knife
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Malicevorous" monster in your Graveyard except "Malicevorous Knife"; Special Summon that target.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 100
+Archetype: Malicevorous
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

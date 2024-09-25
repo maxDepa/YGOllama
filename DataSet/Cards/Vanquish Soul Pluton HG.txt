@@ -1,0 +1,16 @@
+Vanquish Soul Pluton HG
+Card Type: Effect Monster
+
+Description: During your opponent's turn, if you control no monsters, or only "Vanquish Soul" monsters, in your Main Monster Zone (Quick Effect): You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);
+● FIRE: This card gains 3000 DEF until the end of this turn.
+● DARK & EARTH: This card gains 3000 ATK until the end of this turn.
+You can only use each effect of "Vanquish Soul Pluton HG" once per turn, and cannot activate more than 1 in the same Chain.
+
+Type: Zombie
+Attribute: FIRE
+Level: 6
+Attack: 0
+Defence: 0
+Archetype: Vanquish Soul
+Present in Sets:
+- Wild Survivors

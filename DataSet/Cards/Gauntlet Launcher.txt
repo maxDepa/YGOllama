@@ -1,0 +1,16 @@
+Gauntlet Launcher
+Card Type: XYZ Monster
+
+Description: 2 Level 6 monsters
+You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 2800
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy

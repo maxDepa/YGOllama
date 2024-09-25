@@ -1,0 +1,14 @@
+Performapal Flip Hippo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Performapal" monster from your hand, but it has its effects negated until the end of this turn. Once per turn: You can change all monsters you control to Defense Position.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

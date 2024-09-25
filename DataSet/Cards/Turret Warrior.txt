@@ -1,0 +1,16 @@
+Turret Warrior
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 1 Warrior-Type monster, and if you do, it gains ATK equal to the Tributed monster's original ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Duelist Pack: Yusei 2
+- Legendary Collection 5D's Mega Pack
+- Starter Deck: Duelist Toolbox

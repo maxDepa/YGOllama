@@ -1,0 +1,15 @@
+Underworld Goddess of the Closed World
+Card Type: Link Monster
+
+Description: 4+ Effect Monsters
+You can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

@@ -1,0 +1,16 @@
+Dokuroyaiba
+Card Type: Normal Monster
+
+Description: A boomerang with brains that will pursue a target to the ends of the earth.
+
+Type: Fiend
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 400
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel Starter Decks: Twisted Nightmares

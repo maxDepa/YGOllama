@@ -1,0 +1,14 @@
+Beautunaful Princess
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can banish this card; Special Summon 1 Level 4 or lower Fish-Type monster from your Deck, except "Beautunaful Princess". You can only use this effect of "Beautunaful Princess" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magnificent Mavens
+- Primal Origin

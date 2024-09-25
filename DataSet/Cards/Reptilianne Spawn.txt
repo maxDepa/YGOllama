@@ -1,0 +1,15 @@
+Reptilianne Spawn
+Card Type: Spell Card
+
+Description: Remove from play 1 "Reptilianne" monster from your Graveyard. Special Summon 2 "Reptilianne Tokens" (Reptile-Type/EARTH/Level 1/ATK 0/DEF 0) to your side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 17 (POR)
+- Stardust Overdrive

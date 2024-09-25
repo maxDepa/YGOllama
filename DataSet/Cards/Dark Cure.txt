@@ -1,0 +1,13 @@
+Dark Cure
+Card Type: Trap Card
+
+Description: When your opponent Summons a monster(s), they gain Life Points equal to half the ATK of 1 of the Summoned monsters of your choice.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! GX Tag Force Evolution promotional cards

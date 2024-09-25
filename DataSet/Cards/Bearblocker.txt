@@ -1,0 +1,15 @@
+Bearblocker
+Card Type: Effect Monster
+
+Description: During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion
+- Tactical Masters

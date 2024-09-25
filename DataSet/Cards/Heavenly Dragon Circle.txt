@@ -1,0 +1,14 @@
+Heavenly Dragon Circle
+Card Type: Spell Card
+
+Description: Tribute 1 Wyrm monster; add 1 Wyrm monster from your Deck to your hand, or if you Tributed a non-Effect Monster to activate this card, you can Special Summon it instead, but negate its effects. During your Main Phase, if you control a face-up non-Effect Monster: You can banish this card from your GY; add 1 "Tenyi" card from your Deck to your hand. You can only use 1 "Heavenly Dragon Circle" effect per turn, and only once that turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Rise of the Duelist

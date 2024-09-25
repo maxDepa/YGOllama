@@ -1,0 +1,14 @@
+Six Style - Dual Wield
+Card Type: Trap Card
+
+Description: If the only monster you control is 1 "Six Samurai" monster in face-up Attack Position: Target 2 cards your opponent controls; return those targets to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Extreme Victory
+- Samurai Warlords Structure Deck

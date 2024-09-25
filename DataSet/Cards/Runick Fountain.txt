@@ -1,0 +1,15 @@
+Runick Fountain
+Card Type: Spell Card
+
+Description: You can activate "Runick" Quick-Play Spell Cards from your hand during your opponent's turn. Once per turn, if you activate a "Runick" Quick-Play Spell Card: You can target up to 3 "Runick" Quick-Play Spells in your GY; place them on the bottom of your Deck in any order, then draw the same number of cards.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Runick
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters
+- Tactical Masters

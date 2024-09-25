@@ -1,0 +1,15 @@
+Psi-Curse
+Card Type: Trap Card
+
+Description: When a Psychic-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Target the opponent's monster; destroy that target, and if you do, inflict damage to your opponent equal to the Level of your destroyed Psychic-Type monster x 300.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League

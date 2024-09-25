@@ -1,0 +1,13 @@
+Dragunity Legatus
+Card Type: Effect Monster
+
+Description: If you control "Dragon Ravine" or a "Dragunity" monster: You can Special Summon this card from your hand. If a "Dragunity" Monster Card(s) is in your Spell & Trap Zone: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of "Dragunity Legatus" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Dragunity
+Present in Sets:
+- Ghosts From the Past

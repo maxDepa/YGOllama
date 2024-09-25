@@ -1,0 +1,13 @@
+Doggy Diver
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and all face-up monsters you control (min. 1) are Level 4, you can Special Summon this card (from your hand). You can only Special Summon "Doggy Diver" once per turn this way. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Warrior-Type monster.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Secrets of Eternity

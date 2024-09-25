@@ -1,0 +1,15 @@
+Infernoid Antra
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 "Infernoid" monster from your hand or Graveyard while the total Levels and Ranks of all Effect Monsters you control are 8 or lower, and cannot be Special Summoned by other ways. Once per turn: You can target 1 face-up card your opponent controls; return it to the hand. Once per turn, during your opponent's turn: You can Tribute 1 monster, then target 1 card in your opponent's Graveyard; banish it (this is a Quick Effect).
+
+Type: Fiend
+Attribute: FIRE
+Level: 2
+Attack: 0
+Defence: 2000
+Archetype: Infernoid
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition

@@ -1,0 +1,18 @@
+Deskbot 005
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Deskbot" monsters. This effect cannot be negated.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it. This card gains 500 ATK for each face-up "Deskbot" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 "Deskbot" monster in your Graveyard; Special Summon it. You can only use this effect of "Deskbot 005" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 500
+Defence: 500
+Archetype: Deskbot
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

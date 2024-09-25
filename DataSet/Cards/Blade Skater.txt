@@ -1,0 +1,15 @@
+Blade Skater
+Card Type: Normal Monster
+
+Description: An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Speed Duel GX: Duel Academy Box

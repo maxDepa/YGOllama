@@ -1,0 +1,13 @@
+Emblem of the Awakening
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Cu Chulainn the Awakened". You must also Tribute monsters whose total Levels equal 4 or more from the field or your hand.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Strike of Neos

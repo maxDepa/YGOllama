@@ -1,0 +1,14 @@
+Elemental HERO Cosmo Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + 3 "Neo-Spacian" monsters with different Attributes
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) If this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, your opponent cannot activate cards, also cards your opponent controls cannot activate their effects. Your opponent cannot activate cards or effects in response to this effect's activation. Once per turn, during the End Phase: Shuffle this card into the Extra Deck, and if you do, destroy all cards your opponent controls.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 11
+Attack: 3500
+Defence: 3000
+Archetype: Elemental HERO
+Present in Sets:
+- Savage Strike

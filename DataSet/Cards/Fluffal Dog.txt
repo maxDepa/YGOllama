@@ -1,0 +1,15 @@
+Fluffal Dog
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned from the hand: You can add 1 "Edge Imp Sabres" or 1 "Fluffal" monster from your Deck to your hand, except "Fluffal Dog". You can only use this effect of "Fluffal Dog" once per turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Fluffal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Fusion Enforcers
+- The New Challengers

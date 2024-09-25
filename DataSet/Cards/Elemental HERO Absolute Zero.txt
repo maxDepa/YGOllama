@@ -1,0 +1,18 @@
+Elemental HERO Absolute Zero
+Card Type: Fusion Monster
+
+Description: 1 "HERO" monster + 1 WATER monster
+Must be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except "Elemental HERO Absolute Zero". If this card leaves the field: Destroy all monsters your opponent controls.
+
+Type: Warrior
+Attribute: WATER
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Generation Force: Special Edition
+- OTS Tournament Pack 5
+- Yu-Gi-Oh! GX Volume 4 promotional card

@@ -1,0 +1,12 @@
+Steam Knight - Hamburk
+Card Type: Normal Monster
+
+Description: ''One of the knights, he is equipped with "BFS Armor", which is made of a dense steel carefully refined at the factory, and "Foil-Packer", a special mechanism that can be converted into various weapons depending on the state of combat, thanks to it being linked with the highly analytical "Coc-OS". Although "Hamburk" is equipped with the usual suite of equipment, he is incredibly popular thanks to his combat style being extremely high calorie. His power is further enhanced by the blessings of the goddess "Madera".''
+
+Type: Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2500
+Defence: 200
+Archetype: //
+Present in Sets:

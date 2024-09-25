@@ -1,0 +1,13 @@
+Gagagarush
+Card Type: Trap Card
+
+Description: When a face-up "Gagaga" monster(s) you control is targeted by the effect of an opponent's monster: Negate the effect of that opponent's monster, and if you do, destroy it, then inflict damage to your opponent equal to the destroyed monster's ATK or DEF in the Graveyard (whichever is higher).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gagaga
+Present in Sets:
+- Return of the Duelist

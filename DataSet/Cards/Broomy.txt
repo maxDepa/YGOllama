@@ -1,0 +1,13 @@
+Broomy
+Card Type: Tuner Monster
+
+Description: Cannot be used as Synchro Material, except for the Synchro Summon of a Level 8 or lower monster. You can reveal this card and 1 monster in your hand; Special Summon 1 of the 2, and if you do, banish the other, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Synchro Monsters, and can only declare an attack with Synchro Monsters. You can only use this effect of "Broomy" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 700
+Defence: 700
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

@@ -1,0 +1,14 @@
+Blackwing - Brisote the Tailwind
+Card Type: Effect Monster
+
+Description: If 2 or more face-up "Blackwing" monsters you control were destroyed this turn, you can Special Summon this card (from your hand). If this card is sent to the Graveyard as a Synchro Material: Gain 600 LP.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 5
+Attack: 1200
+Defence: 1800
+Archetype: Blackwing
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

@@ -1,0 +1,20 @@
+Evil HERO Infernal Gainer
+Card Type: Effect Monster
+
+Description: During your Main Phase 1: You can banish this card from the field, then target 1 Fiend monster you control; that target can make a second attack during each Battle Phase while you control it face-up. Once per turn, during your second Standby Phase after this card was banished to activate this effect: Special Summon this card in Attack Position.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 0
+Archetype: Evil HERO
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist Pack: Jaden Yuki 3
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows

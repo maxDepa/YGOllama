@@ -1,0 +1,18 @@
+Machine Angel Ritual
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Cyber Angel" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If a LIGHT monster(s) you control would be destroyed by battle or card effect while this card is in your GY, you can banish this card instead.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Angel
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians
+- Legendary Duelists: Sisters of the Rose
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 5

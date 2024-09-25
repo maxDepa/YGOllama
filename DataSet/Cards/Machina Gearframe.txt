@@ -1,0 +1,15 @@
+Machina Gearframe
+Card Type: Union Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Machina" monster from your Deck to your hand, except "Machina Gearframe". Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Machina
+Present in Sets:
+- Machina Mayhem Structure Deck
+- Speed Duel: Battle City Box
+- Structure Deck: Mechanized Madness

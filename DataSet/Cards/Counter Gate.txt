@@ -1,0 +1,15 @@
+Counter Gate
+Card Type: Trap Card
+
+Description: When an opponent's monster declares a direct attack: Negate the attack, and if you do, draw 1 card, then if it is a monster, immediately after this effect resolves, you can Normal Summon it in face-up Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

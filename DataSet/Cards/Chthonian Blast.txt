@@ -1,0 +1,18 @@
+Chthonian Blast
+Card Type: Trap Card
+
+Description: When a face-up monster you control is destroyed and sent to the Graveyard: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, inflict damage to both players equal to half of that monster's ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- Elemental Energy
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,13 @@
+Motor Shell
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the GY: You can Special Summon 1 "Engine Token" (Machine/EARTH/Level 1/ATK 200/DEF 200) in Attack Position. You can only use this effect of "Motor Shell" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

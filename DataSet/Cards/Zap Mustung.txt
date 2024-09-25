@@ -1,0 +1,14 @@
+Zap Mustung
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect during your Main Phase 1, cannot be Special Summoned by other ways, and cannot be Special Summoned if you have Special Summoned this turn. Twice per turn, this card cannot be destroyed by battle. Each turn, the turn player can only Special Summon a number of times up to their number of attacks conducted (and reached the Damage Step) this turn.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

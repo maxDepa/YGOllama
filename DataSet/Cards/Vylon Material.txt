@@ -1,0 +1,14 @@
+Vylon Material
+Card Type: Spell Card
+
+Description: Equip only to a "Vylon" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 "Vylon" Spell Card from your Deck to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

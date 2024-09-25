@@ -1,0 +1,16 @@
+Wind-Up Zenmaintenance
+Card Type: Link Monster
+
+Description: 2 "Wind-Up" monsters
+If this card is destroyed and sent to the GY: You can target 1 "Wind-Up" Xyz Monster you control; attach this card to it as material. You can only use each of the following effects of "Wind-Up Zenmaintenance" once per turn.
+● If this card is Link Summoned: You can add 1 "Wind-Up" card from your Deck to your hand.
+● You can banish 1 face-up "Wind-Up" monster you control, face-down; Special Summon 1 monster from your Deck with the same name that card had on the field.
+
+Type: Machine
+Attribute: LIGHT
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: Wind-Up
+Present in Sets:
+- Flames of Destruction

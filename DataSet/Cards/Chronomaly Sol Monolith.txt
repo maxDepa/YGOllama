@@ -1,0 +1,13 @@
+Chronomaly Sol Monolith
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 "Chronomaly" monster you control; its Level becomes 6. You cannot Special Summon any monsters during the turn you activate this effect, except "Chronomaly" monsters.
+
+Type: Rock
+Attribute: EARTH
+Level: 6
+Attack: 600
+Defence: 600
+Archetype: Chronomaly
+Present in Sets:
+- Number Hunters

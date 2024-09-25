@@ -1,0 +1,17 @@
+Red-Eyes Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster that lists a "Red-Eyes" monster as material from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, and if you do, its name becomes "Red-Eyes B. Dragon". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 "Red-Eyes Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Brothers of Legend
+- Clash of Rebellions
+- Legendary Decks II
+- Legendary Duelists
+- Legendary Duelists: Season 1

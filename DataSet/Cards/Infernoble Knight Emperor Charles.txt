@@ -1,0 +1,16 @@
+Infernoble Knight Emperor Charles
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If an Equip Card becomes equipped to a monster on the field, even during the Damage Step: You can destroy 1 card on the field. During the End Phase: You can equip 1 Equip Spell from your hand or GY to this card, then you can equip 1 FIRE Warrior monster from your Deck to this card as an Equip Spell that gives it 500 ATK. You can only use each effect of "Infernoble Knight Emperor Charles" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 9
+Attack: 3000
+Defence: 200
+Archetype: Noble Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 22
+- Rise of the Duelist

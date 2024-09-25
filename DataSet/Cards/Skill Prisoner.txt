@@ -1,0 +1,14 @@
+Skill Prisoner
+Card Type: Trap Card
+
+Description: Target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 card you control; this turn, when any monster effect resolves that targeted that card at activation, negate that effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

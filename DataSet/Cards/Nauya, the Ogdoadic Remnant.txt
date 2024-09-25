@@ -1,0 +1,14 @@
+Nauya, the Ogdoadic Remnant
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the GY; send 1 LIGHT Reptile monster from your Deck to the GY. If this card is Normal or Special Summoned: You can add 1 "Ogdoadic" Spell/Trap from your Deck to your hand. You can only use each effect of "Nauya, the Ogdoadic Remnant" once per turn.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Ogdoadic
+Present in Sets:
+- Ancient Guardians
+- OTS Tournament Pack 23

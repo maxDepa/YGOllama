@@ -1,0 +1,13 @@
+Chronomaly Pyramid Eye Tablet
+Card Type: Spell Card
+
+Description: All "Chronomaly" monsters you control gain 800 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chronomaly
+Present in Sets:
+- Return of the Duelist

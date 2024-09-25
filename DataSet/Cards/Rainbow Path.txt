@@ -1,0 +1,16 @@
+Rainbow Path
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Send 1 "Crystal Beast" card from your Spell & Trap Card Zone to the Graveyard to target the attacking monster; negate the attack, then you can add 1 "Rainbow Dragon" or "Rainbow Dark Dragon" from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- Phantom Darkness
+- Ra Yellow Mega Pack

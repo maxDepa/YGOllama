@@ -1,0 +1,14 @@
+Thousand Energy
+Card Type: Spell Card
+
+Description: Increase the original ATK and DEF of all face-up Level 2 Normal Monsters (except Tokens) on your side of the field by 1000 points until the End Phase. Destroy all Level 2 Normal Monsters on your side of the field during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

@@ -1,0 +1,13 @@
+Swordsman from a Distant Land
+Card Type: Effect Monster
+
+Description: If this card attacked an opponent's monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.
+
+Type: Warrior
+Attribute: EARTH
+Level: 1
+Attack: 250
+Defence: 250
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

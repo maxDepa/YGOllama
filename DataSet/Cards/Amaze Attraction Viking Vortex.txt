@@ -1,0 +1,15 @@
+Amaze Attraction Viking Vortex
+Card Type: Trap Card
+
+Description: Target 1 "Amazement" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can activate the following effect, based on which player controls the equipped monster;
+● You: Once per turn, when an opponent's monster declares an attack: Negate the attack, and if you do, change control of the equipped monster until the end of the Battle Phase.
+● Your opponent: When the equipped monster activates its effect: Return it to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Attraction
+Present in Sets:
+- Dawn of Majesty

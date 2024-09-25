@@ -1,0 +1,17 @@
+Ally of Justice Cycle Reader
+Card Type: Tuner Monster
+
+Description: During either player's turn: You can discard this card to the Graveyard, then target up to 2 LIGHT monsters in your opponent's Graveyard; banish those targets.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 3

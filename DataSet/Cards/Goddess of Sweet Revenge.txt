@@ -1,0 +1,14 @@
+Goddess of Sweet Revenge
+Card Type: Effect Monster
+
+Description: While you control no cards and this is the only card in your hand, when an opponent's monster declares an attack: You can discard this card; destroy as many cards as possible your opponent controls, then you can Special Summon 1 monster from your Deck.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba
+- Legendary Collection Kaiba Mega Pack

@@ -1,0 +1,13 @@
+Room for Growth
+Card Type: Skill Card
+
+Description: During your Main Phase, you can increase the ATK of 1 Level 3 or lower monster you control by 300 x its Level, until the end of this turn. Flip this card over at the end of the turn you activated this Skill.
+
+Type: Syrus Truesda
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

@@ -1,0 +1,14 @@
+Gem-Knight Zirconia
+Card Type: Fusion Monster
+
+Description: 1 "Gem-Knight" monster + 1 Rock-Type monster
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 2900
+Defence: 2500
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

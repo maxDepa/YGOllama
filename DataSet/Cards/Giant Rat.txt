@@ -1,0 +1,32 @@
+Giant Rat
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in Attack Position.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1450
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Duelist League 2010 participation cards
+- Geargia Rampage Structure Deck
+- Hobby League 3 participation card A
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yuya
+- Structure Deck: Invincible Fortress
+- Tournament Pack 4

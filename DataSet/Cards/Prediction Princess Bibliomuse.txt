@@ -1,0 +1,15 @@
+Prediction Princess Bibliomuse
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 "Prediction Princess" monster, except "Prediction Princess Bibliomuse", and 1 Ritual Spell from your Deck to your hand.
+If this card is Tributed and sent to the GY: You can Special Summon this card in face-down Defense Position.
+You can only use each of the preceding effects of "Prediction Princess Bibliomuse" once per turn. Your opponent cannot target Ritual Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.
+
+Type: Fairy
+Attribute: EARTH
+Level: 9
+Attack: 2500
+Defence: 2500
+Archetype: Prediction Princess
+Present in Sets:
+- Darkwing Blast

@@ -1,0 +1,16 @@
+Unknown Synchron
+Card Type: Tuner Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon "Unknown Synchron" once per Duel this way.
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Synchron
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Synchro Storm
+- Synchron Extreme Structure Deck

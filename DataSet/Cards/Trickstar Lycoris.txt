@@ -1,0 +1,19 @@
+Trickstar Lycoris
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can reveal this card in your hand, then target 1 "Trickstar" monster you control, except "Trickstar Lycoris"; Special Summon this card, and if you do, return that monster to the hand. Each time a card(s) is added to your opponent's hand, inflict 200 damage to them for each.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1600
+Defence: 1200
+Archetype: Trickstar
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

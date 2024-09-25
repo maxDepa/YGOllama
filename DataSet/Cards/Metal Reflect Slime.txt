@@ -1,0 +1,26 @@
+Metal Reflect Slime
+Card Type: Trap Card
+
+Description: Special Summon this card in Defense Position as an Effect Monster (Aqua/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap.) This card cannot attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Slime
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Pack: Rivals of the Pharaoh
+- Egyptian God Deck: Slifer the Sky Dragon
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Rage of Ra
+- Magnificent Mavens
+- Phantom Darkness
+- Phantom Darkness
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Streets of Battle City
+- Structure Deck: Marik (TCG)

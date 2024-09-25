@@ -1,0 +1,15 @@
+Mind Haxorz
+Card Type: Trap Card
+
+Description: Pay 500 Life Points. Look at your opponent's hand and all Set cards on their side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

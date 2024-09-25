@@ -1,0 +1,14 @@
+Gishki Emilia
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Negate all Trap Card effects on the field, until the End Phase. You must control another face-up "Gishki" monster to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

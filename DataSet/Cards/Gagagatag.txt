@@ -1,0 +1,14 @@
+Gagagatag
+Card Type: Spell Card
+
+Description: All "Gagaga" monsters you currently control gain 500 ATK for each "Gagaga" monster you currently control, until your next Standby Phase. You can only activate 1 "Gagagatag" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gagaga
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

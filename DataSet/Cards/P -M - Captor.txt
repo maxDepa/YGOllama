@@ -1,0 +1,17 @@
+P.M. Captor
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When you Pendulum Summon a Zombie-Type monster(s): You can activate this effect; it cannot be destroyed by battle or card effects this turn.
+
+[ Monster Effect ] 
+If this card destroys a monster by battle: You can target 1 Pendulum Monster in your Graveyard; add it to your hand.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Superstars

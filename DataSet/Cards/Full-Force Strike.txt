@@ -1,0 +1,15 @@
+Full-Force Strike
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; this turn, it cannot be destroyed by battle, players take no battle damage from its attacks, and if it attacks an opponent's monster, destroy that opponent's monster after damage calculation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Order of Chaos

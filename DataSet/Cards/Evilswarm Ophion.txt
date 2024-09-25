@@ -1,0 +1,16 @@
+Evilswarm Ophion
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "lswarm" monsters
+While this card has Xyz Material, Level 5 or higher monsters cannot be Special Summoned. Once per turn: You can detach 1 Xyz Material from this card; add 1 "Infestation" Spell/Trap Card from your Deck to your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2550
+Defence: 1650
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7b
+- Duelist Saga
+- Hidden Arsenal 7: Knight of Stars

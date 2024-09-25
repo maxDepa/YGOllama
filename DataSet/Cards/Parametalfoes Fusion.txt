@@ -1,0 +1,14 @@
+Parametalfoes Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Metalfoes" Fusion Monster from your Extra Deck, using up to 1 monster each from your hand, field, and/or face-up Extra Deck as Fusion Material. You can only activate 1 "Parametalfoes Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Metalfoes
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

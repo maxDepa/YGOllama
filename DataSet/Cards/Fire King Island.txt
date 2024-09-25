@@ -1,0 +1,17 @@
+Fire King Island
+Card Type: Spell Card
+
+Description: If this face-up card in the Field Zone is sent to the Graveyard or banished: Destroy all monsters you control. You can only use 1 of the following effects of "Fire King Island" per turn, and only once that turn.
+● During your Main Phase: You can destroy 1 monster in your hand or you control, and if you do, add 1 "Fire King" monster from your Deck to your hand.
+● If you control no monsters: You can Special Summon 1 FIRE Winged Beast-Type monster from your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fire King
+Present in Sets:
+- OTS Tournament Pack 25
+- Shining Victories
+- Structure Deck: Fire Kings

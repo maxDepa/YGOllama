@@ -1,0 +1,14 @@
+Prediction Princess Arrowsylph
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 Ritual Spell Card from your Deck or Graveyard to your hand.
+
+Type: Fairy
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1400
+Archetype: Prediction Princess
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

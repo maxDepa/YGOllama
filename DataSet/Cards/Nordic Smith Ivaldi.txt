@@ -1,0 +1,13 @@
+Nordic Smith Ivaldi
+Card Type: Effect Monster
+
+Description: If you control an "Aesir" or "Nordic" monster: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 "Nordic Relic" card from your Deck to your hand. You can only use each effect of "Nordic Smith Ivaldi" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 700
+Archetype: Nordic
+Present in Sets:
+- Battle of Chaos

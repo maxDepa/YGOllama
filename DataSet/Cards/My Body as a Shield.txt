@@ -1,0 +1,22 @@
+My Body as a Shield
+Card Type: Spell Card
+
+Description: When your opponent activates a Spell/Trap Card or monster effect that would destroy a monster(s) on the field: Pay 1500 LP; negate the activation, and if you do, destroy it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game One
+- Dark Revelation Volume 1
+- Duel Terminal 5a
+- Gold Series 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magician's Force
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Premium Gold: Return of the Bling
+- Turbo Pack: Booster Two

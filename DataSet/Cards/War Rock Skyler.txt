@@ -1,0 +1,14 @@
+War Rock Skyler
+Card Type: Effect Monster
+
+Description: Gains 100 ATK for each monster your opponent controls. During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can target 1 Level 5 or lower Warrior monster in your GY; Special Summon it, also all "War Rock" monsters you currently control gain 200 ATK until the end of your opponent's turn, also for the rest of this turn, you cannot attack directly with Level 5 or lower monsters. You can only use this effect of "War Rock Skyler" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 2200
+Archetype: War Rock
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

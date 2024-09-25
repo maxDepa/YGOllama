@@ -1,0 +1,14 @@
+Divine Relic Mjollnir
+Card Type: Trap Card
+
+Description: Target 1 "Aesir" monster you control; it can make a second attack during each Battle Phase this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aesir
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

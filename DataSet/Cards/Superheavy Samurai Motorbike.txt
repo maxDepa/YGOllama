@@ -1,0 +1,14 @@
+Superheavy Samurai Motorbike
+Card Type: Tuner Monster
+
+Description: If you have no Spells/Traps in your GY: You can discard this card; add 1 "Superheavy Samurai" monster from your Deck to your hand, except "Superheavy Samurai Motorbike". You can only use this effect of "Superheavy Samurai Motorbike" once per turn. Once per turn: You can target 1 Machine monster you control; increase its Level by 2.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 1200
+Archetype: Superheavy Samurai
+Present in Sets:
+- Cyberstorm Access
+- OTS Tournament Pack 23

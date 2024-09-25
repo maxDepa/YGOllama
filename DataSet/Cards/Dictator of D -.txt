@@ -1,0 +1,14 @@
+Dictator of D.
+Card Type: Effect Monster
+
+Description: While you control a "Blue-Eyes" monster, you choose the attack targets for your opponent's attacks. You can only use each of the following effects of "Dictator of D." once per turn. You can send 1 "Blue-Eyes White Dragon" from your hand or Deck to the GY; Special Summon this card from your hand. You can discard 1 "Blue-Eyes White Dragon", or 1 card that mentions it, then target 1 "Blue-Eyes" monster in your GY; Special Summon it.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1100
+Archetype: Blue-Eyes
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

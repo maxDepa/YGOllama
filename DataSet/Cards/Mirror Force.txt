@@ -1,0 +1,48 @@
+Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Dark Legion Starter Deck
+- Dark Saviors
+- Demo Deck 2016
+- Dragunity Legion Structure Deck
+- Duelist League 15 participation cards
+- Duelist Pack: Yugi
+- Duelist Saga
+- Egyptian God Deck: Slifer the Sky Dragon
+- Gold Series
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Dragon Decks
+- Magnificent Mavens
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Premium Gold
+- Saber Force Starter Deck
+- Space-Time Showdown Power-Up Pack
+- Starter Deck: Codebreaker
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Link Strike
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Marik (TCG)
+- Structure Deck: Rokket Revolt
+- Structure Deck: Yugi Muto
+- Super Starter Power-Up Pack
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

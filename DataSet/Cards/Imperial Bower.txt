@@ -1,0 +1,14 @@
+Imperial Bower
+Card Type: Effect Monster
+
+Description: If you control no other monsters: You can Tribute this card; take 2 different monsters from your Deck among "Queen's Knight", "King's Knight", and/or "Jack's Knight", and either add to your hand or Special Summon each monster. You can only use this effect of "Imperial Bower" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Knight
+Present in Sets:
+- King's Court
+- King's Court

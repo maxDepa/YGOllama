@@ -1,0 +1,13 @@
+Swift Samurai Storm!
+Card Type: Trap Card
+
+Description: Each turn, after the first time a "Six Samurai" monster you control battles, all "Six Samurai" monsters you control gain 300 ATK until the end of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Strike of Neos

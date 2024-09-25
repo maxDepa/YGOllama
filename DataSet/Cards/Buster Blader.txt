@@ -1,0 +1,38 @@
+Buster Blader
+Card Type: Effect Monster
+
+Description: Gains 500 ATK for each Dragon monster your opponent controls or is in their GY.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Anniversary Pack
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Collectible Tins 2003
+- Dark Beginning 1
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Duelist League Series 1 participation cards
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel: Arena of Lost Souls
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

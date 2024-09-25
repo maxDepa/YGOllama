@@ -1,0 +1,15 @@
+Sorcerer of Dark Magic
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 2 Level 6 or higher Spellcaster-Type monsters, and cannot be Special Summoned by other ways. During either player's turn, when a Trap Card is activated: You can negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 9
+Attack: 3200
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Movie Pack

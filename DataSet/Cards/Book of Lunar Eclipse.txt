@@ -1,0 +1,15 @@
+Book of Lunar Eclipse
+Card Type: Spell Card
+
+Description: Discard 1 card, then target 2 face-up monsters on the field; change them to face-down Defense Position.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Book of
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive
+- Lightning Overdrive

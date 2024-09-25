@@ -1,0 +1,15 @@
+World Legacy - "World Ark"
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a monster. You can only use each of the following effects of "World Legacy - "World Ark"" once per turn.
+● If a Link Monster(s) you control is destroyed by an opponent's card effect and sent to your GY (except during the Damage Step): You can send this card from your hand to the GY, then target 1 of those Link Monsters; Special Summon it.
+● If your opponent Special Summons a monster(s) from the Extra Deck, while this Normal Summoned/Set card is on the field (except during the Damage Step): You can send 1 monster from your Deck to the GY.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 500
+Archetype: World Legacy
+Present in Sets:
+- Savage Strike

@@ -1,0 +1,18 @@
+Elder Entity N'tss
+Card Type: Fusion Monster
+
+Description: 1 Synchro Monster + 1 Xyz Monster
+Must be Special Summoned (from your Extra Deck) by sending the above cards you control to the GY. (You do not use "Polymerization".) Once per turn: You can Special Summon 1 Level 4 monster from your hand. If this card is sent to the GY: You can target 1 card on the field; destroy it. You can only Special Summon "Elder Entity N'tss(s)" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 2500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tins
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Magnificent Mavens
+- Maximum Gold

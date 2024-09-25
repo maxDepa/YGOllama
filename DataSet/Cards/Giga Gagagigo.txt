@@ -1,0 +1,16 @@
+Giga Gagagigo
+Card Type: Normal Monster
+
+Description: In order to fight tremendous evil, he gained formidable power through body reconstruction, but lost his heart and his redemption.
+
+Type: Reptile
+Attribute: WATER
+Level: 5
+Attack: 2450
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos

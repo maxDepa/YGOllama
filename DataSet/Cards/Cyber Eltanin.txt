@@ -1,0 +1,18 @@
+Cyber Eltanin
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT Machine monsters from your field and GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 500. If this card is Special Summoned: Send all other face-up monsters on the field to the GY.
+
+Type: Machine
+Attribute: LIGHT
+Level: 10
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- Cyber Dragon Revolution Structure Deck
+- Legendary Dragon Decks
+- Shonen Jump Vol. 8, Issue 3 promotional card
+- Turbo Pack: Booster Five

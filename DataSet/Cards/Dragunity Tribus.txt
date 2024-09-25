@@ -1,0 +1,17 @@
+Dragunity Tribus
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 1
+Attack: 500
+Defence: 300
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

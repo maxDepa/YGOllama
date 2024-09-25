@@ -1,0 +1,15 @@
+Centrifugal Field
+Card Type: Spell Card
+
+Description: When a Fusion Monster(s) is destroyed by a card effect and sent to the Graveyard: Its owner targets 1 Fusion Material Monster in their Graveyard that is listed on that Fusion Monster; that player Special Summons that target.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Legendary Collection 3: Yugi's World Mega Pack

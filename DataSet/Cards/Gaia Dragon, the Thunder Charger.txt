@@ -1,0 +1,17 @@
+Gaia Dragon, the Thunder Charger
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+You can also Xyz Summon this card by using a Rank 5 or 6 Xyz Monster you control as material. (Transfer its materials to this card.) If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2600
+Defence: 2100
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Astral Pack Seven
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Galactic Overlord

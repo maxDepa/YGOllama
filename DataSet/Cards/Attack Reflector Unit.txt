@@ -1,0 +1,15 @@
+Attack Reflector Unit
+Card Type: Trap Card
+
+Description: Tribute 1 "Cyber Dragon". Special Summon 1 "Cyber Barrier Dragon" from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Dragon
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Zane Truesdale
+- Shadow of Infinity

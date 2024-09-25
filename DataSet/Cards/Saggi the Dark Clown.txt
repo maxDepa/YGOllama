@@ -1,0 +1,19 @@
+Saggi the Dark Clown
+Card Type: Normal Monster
+
+Description: This clown appears from nowhere and executes very strange moves to avoid enemy attacks.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 2
+- Duelist Pack: Kaiba
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Battle City Box

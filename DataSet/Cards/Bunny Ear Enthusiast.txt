@@ -1,0 +1,13 @@
+Bunny Ear Enthusiast
+Card Type: Effect Monster
+
+Description: Once per Chain, when a monster on the field, except "Bunny Ear Enthusiast", activates its effect (Quick Effect): You can place 1 Bunny Ear Counter on it, and it cannot be destroyed by battle as long as it has that Counter. Once per turn (Quick Effect): You can target 1 monster with a Bunny Ear Counter; banish both it and this card until the Standby Phase of the next turn.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Cyberstorm Access

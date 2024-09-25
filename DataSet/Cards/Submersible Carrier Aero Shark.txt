@@ -1,0 +1,17 @@
+Submersible Carrier Aero Shark
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card; inflict 100 damage to your opponent for each of your banished monsters.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duel Terminal 7b
+- Generation Force
+- Star Pack 2013
+- Star Pack 2013

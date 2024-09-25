@@ -1,0 +1,13 @@
+Instructor of the Six Samurai
+Card Type: Tuner Monster
+
+Description: If you control a "Six Samurai" monster other than "Instructor of the Six Samurai", you can Special Summon this card (from your hand). You can only Special Summon "Instructor of the Six Samurai" once per turn this way. You can only use each of the following effects of "Instructor of the Six Samurai" once per turn. If this card is sent from the field to the GY: You can add 1 "Six Strike" card from your Deck to your hand. A "Six Samurai" monster Synchro Summoned using this card as material gains this effect.
+● Monsters your opponent controls lose 500 ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 200
+Defence: 1200
+Archetype: Six Samurai
+Present in Sets:

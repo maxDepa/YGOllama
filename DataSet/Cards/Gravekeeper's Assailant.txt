@@ -1,0 +1,19 @@
+Gravekeeper's Assailant
+Card Type: Effect Monster
+
+Description: When this card declares an attack while "Necrovalley" is on the field: You can target 1 face-up monster your opponent controls; change that target's battle position.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Retro Pack 2
+- Speed Duel Starter Decks: Destiny Masters
+- Structure Deck: Marik (TCG)
+- Turbo Pack: Booster Two

@@ -1,0 +1,27 @@
+Chiron the Mage
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 Spell Card, then target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Three
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Xyz Symphony

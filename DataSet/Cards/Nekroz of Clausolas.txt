@@ -1,0 +1,16 @@
+Nekroz of Clausolas
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Nekroz" Ritual Spell. Must be Ritual Summoned. You can only use each of these effects of "Nekroz of Clausolas" once per turn.
+● You can discard this card; add 1 "Nekroz" Spell/Trap from your Deck to your hand.
+● (Quick Effect): You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, that target's ATK becomes 0, also that target's effects are negated.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 2300
+Archetype: Nekroz
+Present in Sets:
+- Duel Power
+- The Secret Forces

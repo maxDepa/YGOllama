@@ -1,0 +1,19 @@
+Speed Warrior
+Card Type: Effect Monster
+
+Description: Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.
+
+Type: Warrior
+Attribute: WIND
+Level: 2
+Attack: 900
+Defence: 400
+Archetype: //
+Present in Sets:
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Synchron Extreme Structure Deck

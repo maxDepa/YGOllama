@@ -1,0 +1,16 @@
+Pendulum Switch
+Card Type: Trap Card
+
+Description: You can target 1 card in your Pendulum Zone; Special Summon it. You can target 1 Pendulum Monster in your Monster Zone; place that Pendulum Monster in your Pendulum Zone. You can only use 1 "Pendulum Switch" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Dragon Decks
+- Maximum Crisis
+- Maximum Crisis Sneak Peek Participation Card
+- Tactical Masters

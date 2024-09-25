@@ -1,0 +1,24 @@
+Skill Successor
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Ancient Prophecy
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 5a
+- Duelist Pack: Yusei 2
+- Realm of Light Structure Deck
+- Speed Duel Starter Decks: Match of the Millennium

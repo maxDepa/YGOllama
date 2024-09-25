@@ -1,0 +1,15 @@
+Dinowrestler Terra Parkourio
+Card Type: Link Monster
+
+Description: 2 "Dinowrestler" monsters
+If you activate "World Dino Wrestling": You can target 1 "Dinowrestler" monster in your GY; add it to your hand. If this card is sent to the GY as Link Material: You can target 1 "Dinowrestler" monster in your GY; Special Summon it in Defense Position, but negate its effects, also you cannot Special Summon monsters for the rest of this turn, except "Dinowrestler" monsters. You can only use each effect of "Dinowrestler Terra Parkourio" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

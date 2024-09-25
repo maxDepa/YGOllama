@@ -1,0 +1,14 @@
+Borrelend Dragon
+Card Type: Link Monster
+
+Description: 3+ Effect Monsters
+Cannot be destroyed by battle or card effects, also neither player can target this card with monster effects. This card can attack all monsters your opponent controls, once each. (Quick Effect): You can target 1 Effect Monster on the field and 1 "Rokket" monster in your GY; negate the effects of that monster on the field, and if you do, Special Summon that monster from your GY. Your opponent cannot activate cards or effects in response to this effect's activation. You can only use this effect of "Borrelend Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 3500
+Defence: 0
+Archetype: Borrel
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

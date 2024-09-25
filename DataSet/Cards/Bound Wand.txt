@@ -1,0 +1,18 @@
+Bound Wand
+Card Type: Spell Card
+
+Description: Equip only to a Spellcaster monster that has a Level. It gains ATK equal to its Level x 100. If the equipped monster is destroyed by your opponent's card and sent to the GY, and this card is sent to your GY as a result: You can Special Summon that monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Galactic Overlord
+- Star Pack 2014
+- Star Pack 2014
+- The Infinity Chasers

@@ -1,0 +1,16 @@
+Monk of the Tenyi
+Card Type: Link Monster
+
+Description: 1 non-Link "Tenyi" monster
+
+Type: Wyrm
+Attribute: EARTH
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Rising Rampage

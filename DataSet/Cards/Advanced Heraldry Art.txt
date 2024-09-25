@@ -1,0 +1,13 @@
+Advanced Heraldry Art
+Card Type: Spell Card
+
+Description: Target 2 "Heraldic Beast" monsters in your Graveyard; Special Summon both those targets. Immediately after this card resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Heraldic
+Present in Sets:
+- Abyss Rising

@@ -1,0 +1,18 @@
+Birthright
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 Normal Monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Streets of Battle City
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Strike of Neos
+- Strike of Neos
+- Warriors' Strike Structure Deck

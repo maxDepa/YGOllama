@@ -1,0 +1,16 @@
+Mirrorjade the Iceblade Dragon
+Card Type: Fusion Monster
+
+Description: "Fallen of Albaz" + 1 Fusion, Synchro, Xyz, or Link Monster
+You can only control 1 "Mirrorjade the Iceblade Dragon". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions "Fallen of Albaz" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.
+
+Type: Wyrm
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Albaz Dragon
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Photon Hypernova
+- Structure Deck: Albaz Strike

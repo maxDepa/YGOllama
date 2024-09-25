@@ -1,0 +1,15 @@
+Virtual World Dragon - Longlong
+Card Type: XYZ Monster
+
+Description: 2+ Level 3 monsters with the same Type and Attribute
+Your opponent cannot target this card with card effects while it has Xyz Material. When your opponent activates the effect of a monster with an Attribute that is not on their field, while they control a face-up monster (Quick Effect): You can detach 2 materials from this card; negate the activation. You can only use this effect of "Virtual World Dragon - Longlong" once per turn.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 3
+Attack: 2400
+Defence: 2000
+Archetype: Virtual World
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

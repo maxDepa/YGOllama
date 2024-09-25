@@ -1,0 +1,15 @@
+Vision HERO Multiply Guy
+Card Type: Effect Monster
+
+Description: If you take battle or effect damage while this card is in your GY: You can place this card from your GY in your Spell & Trap Zone as a face-up Continuous Trap. During the Main Phase, if this card is treated as a Continuous Trap: You can Tribute 1 "HERO" monster; Special Summon this card. If this card is Special Summoned from the Spell & Trap Zone: You can make 1 face-up monster on the field gain 800 ATK. You can only use each effect of "Vision HERO Multiply Guy" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 700
+Archetype: Vision HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Ghosts From the Past: The 2nd Haunting

@@ -1,0 +1,19 @@
+Genex Ally Birdman
+Card Type: Tuner Monster
+
+Description: You can return 1 face-up monster you control to the hand; Special Summon this card from your hand, but banish it when it leaves the field, also it gains 500 ATK if the returned monster was WIND on the field.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 400
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Structure Deck: Mechanized Madness
+- Structure Deck: Powercode Link
+- Synchron Extreme Structure Deck

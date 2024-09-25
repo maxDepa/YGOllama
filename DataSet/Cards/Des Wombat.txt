@@ -1,0 +1,15 @@
+Des Wombat
+Card Type: Effect Monster
+
+Description: Any damage to you from a card effect becomes 0.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Speed Duel GX: Midterm Paradox
+- The Lost Millennium

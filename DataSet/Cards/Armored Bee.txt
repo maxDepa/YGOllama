@@ -1,0 +1,13 @@
+Armored Bee
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up monster your opponent controls; halve that target's ATK until the End Phase.
+
+Type: Insect
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Premium Collection Tin

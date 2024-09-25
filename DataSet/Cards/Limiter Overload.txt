@@ -1,0 +1,14 @@
+Limiter Overload
+Card Type: Trap Card
+
+Description: If this card is sent to the Graveyard: Special Summon 1 "Speed Warrior" from your hand, Deck, or Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei
+- Synchron Extreme Structure Deck

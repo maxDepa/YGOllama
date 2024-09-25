@@ -1,0 +1,13 @@
+Susurrus of the Sinful Spoils
+Card Type: Spell Card
+
+Description: Target 1 Illusion or Spellcaster monster you control; return that face-up monster to the hand or Extra Deck, then Special Summon 1 Illusion or Spellcaster monster from your GY or banishment. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Susurrus of the Sinful Spoils" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sinful Spoils
+Present in Sets:
+- The Infinite Forbidden

@@ -1,0 +1,17 @@
+Felis, Lightsworn Archer
+Card Type: Tuner Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY by a monster effect: Special Summon it. You can Tribute this card, then target 1 monster your opponent controls; destroy that target, then send the top 3 cards of your Deck to the GY.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: Lightsworn
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

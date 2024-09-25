@@ -1,0 +1,14 @@
+Overlay Regen
+Card Type: Spell Card
+
+Description: Target 1 face-up Xyz Monster on the field; attach this card to it as an Xyz Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Return of the Duelist

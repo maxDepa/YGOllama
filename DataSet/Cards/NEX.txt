@@ -1,0 +1,13 @@
+NEX
+Card Type: Spell Card
+
+Description: Send 1 face-up "Neo-Spacian" monster you control to the Graveyard. Special Summon 1 Level 4 monster with the same name from your Extra Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Neo-Spacian
+Present in Sets:
+- Tactical Evolution

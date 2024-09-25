@@ -1,0 +1,13 @@
+Koa'ki Meiru Valafar
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard. You can Tribute Summon this monster by Tributing 1 "Koa'ki Meiru" monster. This card cannot be destroyed by the effects of Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+
+Type: Fiend
+Attribute: FIRE
+Level: 8
+Attack: 3000
+Defence: 2100
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Raging Battle

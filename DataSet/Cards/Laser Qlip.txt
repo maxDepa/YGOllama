@@ -1,0 +1,14 @@
+Laser Qlip
+Card Type: Spell Card
+
+Description: During your Main Phase, you can Normal Summon 1 "Qli" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Normal Summons of "Qli" monsters cannot be negated.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Qli
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

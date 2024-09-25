@@ -1,0 +1,19 @@
+The Fabled Kudabbi
+Card Type: Synchro Monster
+
+Description: 1 "Fabled" Tuner + 1 or more non-Tuner monsters
+This card gains the following effect based on the number of cards in your hand:
+● 0: This card cannot be destroyed by battle or card effects.
+● 3 or more: Destroy this card during the End Phase.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 2200
+Defence: 1100
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

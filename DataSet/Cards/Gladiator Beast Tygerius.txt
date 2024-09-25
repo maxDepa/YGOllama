@@ -1,0 +1,13 @@
+Gladiator Beast Tygerius
+Card Type: Effect Monster
+
+Description: This card cannot be used as a Fusion Material Monster. When this card is Special Summoned by the effect of a "Gladiator Beast" monster, you can discard 1 "Gladiator Beast" card to add 1 "Gladiator Beast" monster from your Deck to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Gladiator Beast
+Present in Sets:
+- Extreme Victory

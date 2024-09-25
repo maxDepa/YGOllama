@@ -1,0 +1,14 @@
+Jurrac Monoloph
+Card Type: Tuner Monster
+
+Description: This card can attack all monsters your opponent controls once each.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 1200
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

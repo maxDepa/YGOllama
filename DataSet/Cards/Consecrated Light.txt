@@ -1,0 +1,15 @@
+Consecrated Light
+Card Type: Effect Monster
+
+Description: Neither player can Normal or Special Summon DARK monsters or declare an attack with a DARK monster. This card cannot be destroyed by battle with a DARK monster, also you take no battle damage from that battle.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Astral Pack Four
+- Lost Sanctuary Structure Deck

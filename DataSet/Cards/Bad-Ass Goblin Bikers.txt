@@ -1,0 +1,12 @@
+Bad-Ass Goblin Bikers
+Card Type: Effect Monster
+
+Description: If you control no monsters, or all monsters you control are "Goblin" monsters, you can Normal Summon this card without Tributing. You can only use each of the following effects of "Bad-Ass Goblin Bikers" once per turn. If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower "Goblin" monster from your Deck. If this card is sent to the GY: You can target 1 card on the field; attach it to your "Goblin" Xyz Monster as material.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 0
+Archetype: Goblin
+Present in Sets:

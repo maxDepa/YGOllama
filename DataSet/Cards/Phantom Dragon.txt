@@ -1,0 +1,16 @@
+Phantom Dragon
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster (except during the Damage Step): You can Special Summon this card from your hand. 2 of your Monster Card Zones cannot be used.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2300
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Light of Destruction
+- Light of Destruction

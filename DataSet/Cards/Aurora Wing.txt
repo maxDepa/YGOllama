@@ -1,0 +1,13 @@
+Aurora Wing
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon this card in face-up Attack Position. You can only use the effect of "Aurora Wing" once per turn.
+
+Type: Winged Beast
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

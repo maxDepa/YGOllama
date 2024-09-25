@@ -1,0 +1,18 @@
+Earth Chant
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any EARTH Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack

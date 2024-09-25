@@ -1,0 +1,21 @@
+A Hero Emerges
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Your opponent chooses 1 random card from your hand, then if it is a monster that can be Special Summoned, Special Summon it. Otherwise, send it to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 2
+- Duel Terminal 2
+- Duelist Pack: Jaden Yuki
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duel Academy Box
+- Super Starter: Space-Time Showdown

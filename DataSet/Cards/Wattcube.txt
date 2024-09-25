@@ -1,0 +1,13 @@
+Wattcube
+Card Type: Spell Card
+
+Description: Equip only to a Thunder-Type monster. It gains 100 ATK for each Thunder-Type monster in your Graveyard. You can send this face-up card from the field to the Graveyard to have 1 face-up Thunder-Type monster you control gain 1000 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- The Shining Darkness

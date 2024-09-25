@@ -1,0 +1,15 @@
+Tyhone
+Card Type: Normal Monster
+
+Description: Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

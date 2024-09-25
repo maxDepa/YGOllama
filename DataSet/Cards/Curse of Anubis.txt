@@ -1,0 +1,21 @@
+Curse of Anubis
+Card Type: Trap Card
+
+Description: Change all Effect Monsters on the field to Defense Position. Until the end of this turn, the original DEF of those monsters becomes 0, also their battle positions cannot be changed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 2
+- Dark Revelation Volume 2
+- Legendary Decks II
+- Structure Deck: Dragon's Roar

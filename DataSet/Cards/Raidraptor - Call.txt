@@ -1,0 +1,14 @@
+Raidraptor - Call
+Card Type: Spell Card
+
+Description: Target 1 "Raidraptor" monster you control; Special Summon 1 monster with the same name as that monster on the field from your hand or Deck in Defense Position. You can only activate 1 "Raidraptor - Call" per turn. You cannot Special Summon monsters during the turn you activate this card, except "Raidraptor" monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Raidraptor
+Present in Sets:
+- OTS Tournament Pack 24
+- Wing Raiders

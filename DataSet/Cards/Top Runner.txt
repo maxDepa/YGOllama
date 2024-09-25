@@ -1,0 +1,13 @@
+Top Runner
+Card Type: Tuner Monster
+
+Description: All face-up Synchro Monsters you control gain 600 ATK.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok

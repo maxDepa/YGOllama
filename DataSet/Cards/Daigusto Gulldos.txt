@@ -1,0 +1,15 @@
+Daigusto Gulldos
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "Gusto" monsters
+Once per turn: You can shuffle 2 "Gusto" monsters from your Graveyard into the Main Deck to target 1 face-up monster your opponent controls; destroy that target.
+
+Type: Psychic
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 800
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

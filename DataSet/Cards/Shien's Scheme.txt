@@ -1,0 +1,14 @@
+Shien's Scheme
+Card Type: Trap Card
+
+Description: If a "Six Samurai" monster you control is destroyed by battle: Special Summon up to 2 "Six Samurai" monsters from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Samurai Warlords Structure Deck
+- Storm of Ragnarok

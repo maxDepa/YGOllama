@@ -1,0 +1,22 @@
+Miracle Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Elemental HERO" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or your GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duel Power
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Ra Yellow Mega Pack
+- Turbo Pack: Booster Five

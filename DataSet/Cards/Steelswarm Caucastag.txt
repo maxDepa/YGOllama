@@ -1,0 +1,16 @@
+Steelswarm Caucastag
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned by Tributing 2 "Steelswarm" monsters: Activate 1 of these effects.
+● Destroy all monsters on the field, except this card.
+● Destroy all Spell and Trap Cards on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 0
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

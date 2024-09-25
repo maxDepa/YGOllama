@@ -1,0 +1,15 @@
+Volcanic Counter
+Card Type: Effect Monster
+
+Description: When you take battle damage while this card is in your Graveyard: Banish it from your Graveyard, then if there is a FIRE monster other than "Volcanic Counter" in your Graveyard, inflict damage to your opponent equal to the amount of battle damage you took.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 300
+Defence: 1300
+Archetype: Volcanic
+Present in Sets:
+- Duel Terminal 5b
+- Onslaught of the Fire Kings Structure Deck
+- Phantom Darkness

@@ -1,0 +1,14 @@
+Serenade the Melodious Diva
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a Fairy-Type monster. After this card is Special Summoned to your side of the field, you can Normal Summon 1 "Melodious" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 400
+Defence: 1900
+Archetype: Melodious
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

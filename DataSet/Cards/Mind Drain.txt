@@ -1,0 +1,15 @@
+Mind Drain
+Card Type: Trap Card
+
+Description: Activate this card by paying 1000 LP. Effects of monsters in the hand cannot be activated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Structure Deck: Freezing Chains

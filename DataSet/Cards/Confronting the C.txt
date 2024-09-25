@@ -1,0 +1,14 @@
+Confronting the "C"
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can Special Summon this card from your hand. If you do, this card is unaffected by monster effects that target this card.
+
+Type: Insect
+Attribute: EARTH
+Level: 5
+Attack: 1100
+Defence: 2500
+Archetype: "C"
+Present in Sets:
+- Judgment of the Light
+- The Infinity Chasers

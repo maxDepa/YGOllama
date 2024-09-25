@@ -1,0 +1,12 @@
+Ceremonial Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Offering to the Immortals". This Token cannot be Tributed, except for a Tribute Summon of an "Earthbound Immortal" monster, and cannot be used as Synchro Material monsters.
+
+Type: Rock
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:

@@ -1,0 +1,16 @@
+Noble Knight Medraut
+Card Type: Effect Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field. While equipped with a "Noble Arms" Equip Spell, this card becomes an Effect Monster with this effect.
+● This card becomes DARK and its Level is increased by 1. Once per turn, if you control no other monsters: You can Special Summon 1 "Noble Knight" monster from your Deck in Defense Position, except "Noble Knight Medraut", and if you do, destroy 1 Equip Spell you control.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Noble Knight
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Cosmo Blazer
+- Noble Knights of the Round Table Box Set

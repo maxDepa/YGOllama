@@ -1,0 +1,18 @@
+Spell Canceller
+Card Type: Effect Monster
+
+Description: Spell Cards, and their effects on the field, cannot be activated. Negate all Spell effects on the field.
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Duel Devastator
+- Magician's Force
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City

@@ -1,0 +1,33 @@
+Magic Jammer
+Card Type: Trap Card
+
+Description: When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Rise of the Dragon Lords Structure Deck
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Jaden Yuki
+- Starter Deck: Pegasus
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yugi Evolution
+- Structure Deck: Lord of the Storm
+- Structure Deck: Warrior's Triumph
+- Structure Deck: Zombie Madness
+- Super Starter: Space-Time Showdown

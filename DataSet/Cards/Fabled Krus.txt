@@ -1,0 +1,17 @@
+Fabled Krus
+Card Type: Effect Monster
+
+Description: When this card is discarded to the Graveyard, select 1 Level 4 or lower "Fabled" monster in your Graveyard, except this card, and Special Summon it.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 2
+Attack: 1000
+Defence: 800
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 15 (POR)

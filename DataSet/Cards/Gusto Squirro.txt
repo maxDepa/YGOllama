@@ -1,0 +1,14 @@
+Gusto Squirro
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher "Gusto" monster from your Deck.
+
+Type: Thunder
+Attribute: WIND
+Level: 2
+Attack: 0
+Defence: 1800
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

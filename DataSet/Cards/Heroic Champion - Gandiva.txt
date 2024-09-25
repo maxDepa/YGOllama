@@ -1,0 +1,18 @@
+Heroic Champion - Gandiva
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Warrior-Type monsters
+Once per turn, when a Level 4 or lower monster(s) is Special Summoned to your opponent's side of the field (except during the Damage Step): You can detach 1 Xyz Material from this card; destroy that Special Summoned monster(s).
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2100
+Defence: 1800
+Archetype: Heroic
+Present in Sets:
+- Abyss Rising
+- Abyss Rising
+- Battle Pack 3: Monster League
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)

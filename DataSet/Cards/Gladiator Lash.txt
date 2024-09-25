@@ -1,0 +1,13 @@
+Gladiator Lash
+Card Type: Trap Card
+
+Description: Activate only when you Special Summon a "Gladiator Beast" monster. Your opponent discards 1 card of their choice.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Light of Destruction

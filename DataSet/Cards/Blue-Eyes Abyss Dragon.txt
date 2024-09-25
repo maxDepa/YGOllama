@@ -1,0 +1,16 @@
+Blue-Eyes Abyss Dragon
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can add 1 Ritual Spell or 1 "Polymerization" from your Deck to your hand. During your End Phase: You can add 1 Level 8 or higher Dragon monster from your Deck to your hand. You can banish this card from your GY; all Level 8 or higher Dragon monsters you control gain 1000 ATK. You can only use each effect of "Blue-Eyes Abyss Dragon" once per turn, and can only activate them while "Blue-Eyes White Dragon" is on your field or in your GY.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: Blue-Eyes
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Legendary Duelists: Season 2
+- Magnificent Mavens

@@ -1,0 +1,14 @@
+Fortissimo the Mobile Fortress
+Card Type: Spell Card
+
+Description: Once per turn: You can Special Summon 1 "Meklord Army" monster from your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

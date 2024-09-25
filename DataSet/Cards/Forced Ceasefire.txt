@@ -1,0 +1,15 @@
+Forced Ceasefire
+Card Type: Trap Card
+
+Description: Discard 1 card from your hand. No Trap Cards can be activated until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity

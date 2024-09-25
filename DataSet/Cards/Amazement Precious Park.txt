@@ -1,0 +1,13 @@
+Amazement Precious Park
+Card Type: Spell Card
+
+Description: During your Main Phase, you can activate 1 "Attraction" Trap the turn it was Set. During the End Phase: You can send 1 "Attraction" Trap you control equipped to a monster to the GY, then target 1 of your "Attraction" Traps, with a different name, that is banished or in your GY; Set that card. You can only use each effect of "Amazement Precious Park" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazement
+Present in Sets:
+- Lightning Overdrive

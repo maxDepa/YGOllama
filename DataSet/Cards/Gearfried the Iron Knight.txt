@@ -1,0 +1,27 @@
+Gearfried the Iron Knight
+Card Type: Effect Monster
+
+Description: If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Collectible Tins 2003
+- Dark Beginning 1
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 1
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Joey
+- Structure Deck: Warrior's Triumph

@@ -1,0 +1,13 @@
+Number Wall
+Card Type: Trap Card
+
+Description: Activate only if you control a "Number" monster. "Number" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another "Number" monster. When a "Number" monster you control is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Number Hunters

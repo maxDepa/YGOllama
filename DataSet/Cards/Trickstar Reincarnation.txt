@@ -1,0 +1,15 @@
+Trickstar Reincarnation
+Card Type: Trap Card
+
+Description: Banish your opponent's entire hand, and if you do, they draw the same number of cards. You can banish this card from your GY, then target 1 "Trickstar" monster in your GY; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Code of the Duelist
+- Maximum Gold

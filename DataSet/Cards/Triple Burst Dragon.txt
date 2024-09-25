@@ -1,0 +1,15 @@
+Triple Burst Dragon
+Card Type: Link Monster
+
+Description: 2+ monsters, except Tokens
+Once per turn, during the Damage Step, when a Spell/Trap Card, or monster effect, is activated (Quick Effect): You can negate the activation. If this card attacks a Defense Position monster, inflict piercing battle damage. During your Main Phase, except the turn this card was Special Summoned: You can Tribute this card, then target 1 Link-2 or lower monster in your GY; Special Summon it, then you can Special Summon 1 Level 4 or lower Dragon monster from your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Force
+- Structure Deck: Rokket Revolt

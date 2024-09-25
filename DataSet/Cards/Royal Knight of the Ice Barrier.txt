@@ -1,0 +1,16 @@
+Royal Knight of the Ice Barrier
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned, Special Summon 1 "Ice Coffin Token" (Aqua-Type/WATER/Level 1/ATK 1000/DEF 0) in Attack Position to your opponent's side of the field. This Token cannot be Tributed for a Tribute Summon.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 2000
+Defence: 2000
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Starstrike Blast

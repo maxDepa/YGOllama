@@ -1,0 +1,15 @@
+Voltic Bicorn
+Card Type: Synchro Monster
+
+Description: 1 Beast-Type Tuner + 1 or more non-Tuner monsters
+If this card is destroyed by your opponent's card (either by battle or by card effect), both players send the top 7 cards of their Deck to the Graveyard.
+
+Type: Beast
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- Duelist Revolution

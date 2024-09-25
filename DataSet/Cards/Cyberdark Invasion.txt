@@ -1,0 +1,16 @@
+Cyberdark Invasion
+Card Type: Trap Card
+
+Description: Once per turn: You can activate 1 of these effects;
+● Target 1 "Cyberdark" Effect Monster you control; equip 1 Dragon or Machine monster from either GY to it as an Equip Spell that gives it 1000 ATK.
+● Send 1 Equip Card you control equipped to a Machine monster to the GY; destroy 1 card your opponent controls.
+You can only use each effect of "Cyberdark Invasion" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyberdark
+Present in Sets:
+- Structure Deck: Cyber Strike

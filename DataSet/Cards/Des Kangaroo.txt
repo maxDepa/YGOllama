@@ -1,0 +1,16 @@
+Des Kangaroo
+Card Type: Effect Monster
+
+Description: If the ATK of a monster that attacks this monster in Defense Position is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duel Academy Box

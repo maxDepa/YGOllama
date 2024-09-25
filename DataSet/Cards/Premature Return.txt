@@ -1,0 +1,14 @@
+Premature Return
+Card Type: Trap Card
+
+Description: Banish 1 card from your hand, then target 1 of your banished monsters; Special Summon it in face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Cyberse Link
+- The Dark Illusion

@@ -1,0 +1,18 @@
+Destrudo the Lost Dragon's Frisson
+Card Type: Tuner Monster
+
+Description: If this card is in your hand or GY: You can pay half your LP, then target 1 Level 6 or lower monster you control; Special Summon this card, and if you do, this card's Level is reduced by the Level of the targeted monster, also place this card on the bottom of the Deck if it leaves the field. You can only use this effect of "Destrudo the Lost Dragon's Frisson" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 1000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)

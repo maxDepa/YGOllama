@@ -1,0 +1,17 @@
+Ghoti Cosmos
+Card Type: Trap Card
+
+Description: Apply these effects in sequence, based on the number of banished Fish monsters.
+● 1+: Your Fish monsters cannot be destroyed by battle this turn.
+● 4+: The activation and effects of Fish monster effects activated on your field cannot be negated this turn.
+● 8+: Special Summon 1 Fish Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)
+You can only activate 1 "Ghoti Cosmos" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghoti
+Present in Sets:
+- Darkwing Blast

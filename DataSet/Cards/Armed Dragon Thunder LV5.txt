@@ -1,0 +1,14 @@
+Armed Dragon Thunder LV5
+Card Type: Effect Monster
+
+Description: This card's name becomes "Armed Dragon LV5" while on the field or in the GY. You can only use each of the following effects of "Armed Dragon Thunder LV5" once per turn. You can send 1 monster from your hand to the GY; send this card from the field to the GY, and if you do, Special Summon 1 Level 7 or lower "Armed Dragon" monster from your hand or Deck. If this card is sent to the GY to activate a Dragon monster's effect: You can add 1 Level 5 or higher WIND Dragon monster from your Deck to your hand.
+
+Type: Dragon
+Attribute: WIND
+Level: 5
+Attack: 2400
+Defence: 1700
+Archetype: Armed Dragon
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

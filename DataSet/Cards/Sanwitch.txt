@@ -1,0 +1,15 @@
+Sanwitch
+Card Type: Fusion Monster
+
+Description: "Sangan" + "Witch of the Black Forest"
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Ghosts From the Past: The 2nd Haunting
+- Soul of the Duelist

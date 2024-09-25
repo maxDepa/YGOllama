@@ -1,0 +1,17 @@
+Crusadia Testament
+Card Type: Spell Card
+
+Description: Activate 1 of these effects.
+● Your opponent cannot activate cards or effects in response to the activation of your "Crusadia" monster effects this turn.
+● After damage calculation, if your "Crusadia" Link Monster destroys an opponent's monster by battle: Draw cards equal to your monster's Link Rating.
+You can only activate 1 "Crusadia Testament" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crusadia
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

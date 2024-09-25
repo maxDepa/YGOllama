@@ -1,0 +1,13 @@
+Ghost Fairy Elfobia
+Card Type: Effect Monster
+
+Description: Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next Main Phase 1, monsters with a Level higher than the revealed monster cannot activate their effects.
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 900
+Defence: 500
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

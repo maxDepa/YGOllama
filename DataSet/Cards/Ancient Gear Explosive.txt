@@ -1,0 +1,13 @@
+Ancient Gear Explosive
+Card Type: Spell Card
+
+Description: Target 1 "Ancient Gear" monster you control; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Structure Deck: Machine Re-Volt

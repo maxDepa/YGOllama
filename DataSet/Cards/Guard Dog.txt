@@ -1,0 +1,15 @@
+Guard Dog
+Card Type: Flip Effect Monster
+
+Description: FLIP: Your opponent cannot Special Summon for the rest of this turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Dark Revelation Volume 4
+- Enemy of Justice

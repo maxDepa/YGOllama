@@ -1,0 +1,18 @@
+Performage Wind Drainer
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 "Performage" Pendulum Monster you control, then activate 1 of these effects;
+● Reduce its Level by 1.
+● Increase this card's Pendulum Scale by that monster's.
+
+[ Monster Effect ] 
+If your opponent controls a monster, or a "Performage" monster is on the field: You can Special Summon this card from your hand, but while it is in the Monster Zone, you cannot Special Summon, except "Performage" monsters. You can only use this effect of "Performage Wind Drainer" once per turn. If this card is Special Summoned: You can reduce its Level by 1. Once per turn: You can change the Levels of all Level 4 "Performage" monsters you currently control to 5.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 5
+Attack: 2100
+Defence: 0
+Archetype: Performage
+Present in Sets:

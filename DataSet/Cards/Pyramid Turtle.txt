@@ -1,0 +1,23 @@
+Pyramid Turtle
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Zombie monster with 2000 or less DEF from your Deck.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Two
+- Dark Beginning 2
+- Duelist League 2 participation cards
+- Gold Series: Haunted Mine
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian
+- Structure Deck: Zombie Horde
+- Structure Deck: Zombie Madness
+- Tournament Pack 5
+- Zombie World Structure Deck

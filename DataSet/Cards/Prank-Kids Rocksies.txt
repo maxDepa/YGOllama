@@ -1,0 +1,15 @@
+Prank-Kids Rocksies
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as material for the Fusion or Link Summon of a "Prank-Kids" monster: You can banish 1 card from your hand, and if you do, draw 1 card, then, you can Special Summon 1 "Prank-Kids" monster from your hand or Deck in Defense Position, except "Prank-Kids Rocksies". You can only use this effect of "Prank-Kids Rocksies" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Prank-Kids
+Present in Sets:
+- Maximum Gold: El Dorado
+- Savage Strike
+- Soul Fusion Special Edition

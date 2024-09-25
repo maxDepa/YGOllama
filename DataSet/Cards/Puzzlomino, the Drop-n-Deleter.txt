@@ -1,0 +1,14 @@
+Puzzlomino, the Drop-n-Deleter
+Card Type: Link Monster
+
+Description: 2 monsters with different Levels
+If a monster is Special Summoned face-up to a zone this card points to while you control this monster (except during the Damage Step): You can declare a Level from 1 to 8; that monster becomes that Level until the end of the turn. You can target 2 monsters with the same Level (1 from each field); destroy them. You can only use each effect of "Puzzlomino, the Drop-n-Deleter" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 0
+Attack: 1300
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Neostorm

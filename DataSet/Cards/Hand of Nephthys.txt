@@ -1,0 +1,18 @@
+Hand of Nephthys
+Card Type: Effect Monster
+
+Description: You can Tribute this card and 1 other monster; Special Summon 1 "Sacred Phoenix of Nephthys" from your hand or Deck.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 2
+Attack: 600
+Defence: 600
+Archetype: Nephthys
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Revelation Volume 3
+- Duel Terminal 6a
+- Flaming Eternity
+- Hidden Summoners
+- Legendary Collection 3: Yugi's World Mega Pack

@@ -1,0 +1,16 @@
+Big Koala
+Card Type: Normal Monster
+
+Description: A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2700
+Defence: 2000
+Archetype: Koala
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duel Academy Box

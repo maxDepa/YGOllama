@@ -1,0 +1,16 @@
+Hieracosphinx
+Card Type: Effect Monster
+
+Description: Your opponent cannot select a face-down Defense Position monster as an attack target.
+
+Type: Rock
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: Sphinx
+Present in Sets:
+- Dark Revelation Volume 3
+- Structure Deck: Invincible Fortress
+- The Lost Millennium
+- The Lost Millennium

@@ -1,0 +1,13 @@
+Lady of D.
+Card Type: Effect Monster
+
+Description: Your opponent cannot target face-up Dragon-Type monsters you control for attacks. If this card on the field would be destroyed by battle or by a card effect, you can send 1 Dragon-Type monster from your hand to the Graveyard instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Galactic Overlord

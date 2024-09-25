@@ -1,0 +1,15 @@
+Pendulum Machine
+Card Type: Normal Monster
+
+Description: A horrible torture machine with a large pendulum blade.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 1750
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Millennium Pack
+- Speed Duel: Scars of Battle

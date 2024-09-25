@@ -1,0 +1,16 @@
+Fusion Weapon
+Card Type: Spell Card
+
+Description: Equip only to a Level 6 or lower Fusion Monster. The equipped monster gains 1500 ATK and DEF.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Streets of Battle City

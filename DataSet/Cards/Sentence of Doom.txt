@@ -1,0 +1,14 @@
+Sentence of Doom
+Card Type: Trap Card
+
+Description: You can target any number of your Fiend monsters that are banished or in your GY, up to the number of "Destiny Board" and/or "Spirit Message" cards you control; add them to your hand. You can send this card from your Spell & Trap Zone to the GY; place 1 "Spirit Message" card from your hand, Deck, or GY in your Spell & Trap Zone. (This is treated as being placed by the effect of "Destiny Board".) You can only use 1 "Sentence of Doom" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spirit Message
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

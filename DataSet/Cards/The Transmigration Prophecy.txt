@@ -1,0 +1,16 @@
+The Transmigration Prophecy
+Card Type: Trap Card
+
+Description: Target 2 cards in the GY(s); shuffle those targets into the Deck(s).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- Gates of the Underworld Structure Deck
+- Strike of Neos
+- Strike of Neos
+- Structure Deck: Soulburner

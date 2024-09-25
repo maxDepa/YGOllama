@@ -1,0 +1,14 @@
+Trifortressops
+Card Type: Effect Monster
+
+Description: During either player's turn, if your opponent Summoned 3 or more monsters this turn: You can Special Summon this card from your hand. If Summoned this way, it is unaffected by other cards' effects, but loses 500 DEF during each player's Standby Phase.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 1600
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Dinosmasher's Fury Structure Deck
+- Lord of the Tachyon Galaxy

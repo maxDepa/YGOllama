@@ -1,0 +1,17 @@
+Big-Tusked Mammoth
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls cannot attack the turn they are Summoned.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 2000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

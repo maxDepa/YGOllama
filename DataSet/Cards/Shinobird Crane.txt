@@ -1,0 +1,14 @@
+Shinobird Crane
+Card Type: Spirit Monster
+
+Description: Cannot be Special Summoned. Once per turn, if another Spirit monster is Normal or Special Summoned while this monster is on the field: You can draw 1 card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Shinobird
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

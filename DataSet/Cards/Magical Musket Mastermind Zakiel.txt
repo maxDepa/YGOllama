@@ -1,0 +1,13 @@
+Magical Musket Mastermind Zakiel
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card face-up by Tributing 1 "Magical Musket" monster. During either player's turn, you can activate "Magical Musket" Spell/Trap Cards from your hand. Once per turn, during your opponent's End Phase: You can draw cards equal to the number of "Magical Musket" Spell/Trap Cards you activated this turn while this card was face-up on your field. You can only use this effect of "Magical Musket Mastermind Zakiel" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: Magical Musket
+Present in Sets:
+- Spirit Warriors

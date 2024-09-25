@@ -1,0 +1,13 @@
+Froggy Forcefield
+Card Type: Trap Card
+
+Description: Activate only when a face-up "Frog" monster you control, except "Frog the Jam", is selected as an attack target. Destroy all Attack Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Frog
+Present in Sets:
+- Light of Destruction

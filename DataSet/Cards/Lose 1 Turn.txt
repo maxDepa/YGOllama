@@ -1,0 +1,16 @@
+Lose 1 Turn
+Card Type: Trap Card
+
+Description: Activate this card only if you currently control no Special Summoned monsters. While a monster is face-up on the field, negate its effects during the turn that monster was Special Summoned. If an Effect Monster(s) is Special Summoned in Attack Position: Change it to Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Astral Pack Eight
+- Crossed Souls
+- Maximum Gold

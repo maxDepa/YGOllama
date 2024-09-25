@@ -1,0 +1,14 @@
+Morphtronic Telefon
+Card Type: Tuner Monster
+
+Description: ● Attack Position: Once per turn, during your Main Phase: You can roll a six-sided die and gain LP equal to the result x 100, then you can Special Summon 1 "Morphtronic" monster from your GY with a Level equal to or lower than the result.
+● Defense Position: Once per turn, during your Main Phase: You can roll a six-sided die, excavate that many cards from the top of your Deck (or as many as you can), and if you do, you can send 1 excavated "Morphtronic" card to the GY, also place the rest on either the top or bottom of the Deck in any order.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Morphtronic
+Present in Sets:
+- Power of the Elements

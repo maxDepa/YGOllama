@@ -1,0 +1,14 @@
+Hyper Galaxy
+Card Type: Spell Card
+
+Description: Tribute 1 monster with 2000 or more ATK, except "Galaxy-Eyes Photon Dragon", then target 1 monster your opponent controls with 2000 or more ATK; Tribute it, and if you do, Special Summon 1 "Galaxy-Eyes Photon Dragon" from your hand, Deck, or GY. You can only activate 1 "Hyper Galaxy" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Galaxy-Eyes
+Present in Sets:
+- King's Court
+- King's Court

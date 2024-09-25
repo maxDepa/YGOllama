@@ -1,0 +1,17 @@
+ABC-Dragon Buster
+Card Type: Fusion Monster
+
+Description: "A-Assault Core" + "B-Buster Drake" + "C-Crush Wyvern"
+Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control and/or from your GY. (You do not use "Polymerization".) Once per turn (Quick Effect): You can discard 1 card, then target 1 card on the field; banish it. During your opponent's turn (Quick Effect): You can Tribute this card, then target 3 of your banished LIGHT Machine Union monsters with different names; Special Summon them.
+
+Type: Machine
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2800
+Archetype: ABC
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Structure Deck: Seto Kaiba

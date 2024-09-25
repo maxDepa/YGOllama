@@ -1,0 +1,12 @@
+Kappa Avenger
+Card Type: Normal Monster
+
+Description: An amphibian that sold his soul for unlimited power to avenge his late friend.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:

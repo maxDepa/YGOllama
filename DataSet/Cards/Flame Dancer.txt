@@ -1,0 +1,15 @@
+Flame Dancer
+Card Type: Normal Monster
+
+Description: This monster moves while swinging its burning rope.
+
+Type: Pyro
+Attribute: FIRE
+Level: 2
+Attack: 550
+Defence: 450
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

@@ -1,0 +1,18 @@
+Neo Space
+Card Type: Spell Card
+
+Description: "Elemental HERO Neos" and all Fusion Monsters that specifically list "Elemental HERO Neos" as a Fusion Material gain 500 ATK. Fusion Monsters that specifically list "Elemental HERO Neos" as a Fusion Material do not have to activate their effects during the End Phase that shuffle them into the Extra Deck.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Power of the Duelist
+- Power of the Duelist

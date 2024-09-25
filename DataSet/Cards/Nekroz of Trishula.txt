@@ -1,0 +1,16 @@
+Nekroz of Trishula
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Nekroz" Ritual Spell. Must be Ritual Summoned, without using any Level 9 monsters. You can only use each of these effects of "Nekroz of Trishula" once per turn.
+● When a card or effect is activated that targets a "Nekroz" monster(s) you control (Quick Effect): You can discard this card; negate the activation.
+● When this card is Ritual Summoned, you can: Banish exactly 3 of your opponent's cards, 1 each from their hand, field, and GY. (The card in the hand is chosen at random.)
+
+Type: Warrior
+Attribute: WATER
+Level: 9
+Attack: 2700
+Defence: 2000
+Archetype: Nekroz
+Present in Sets:
+- Duel Power
+- The Secret Forces

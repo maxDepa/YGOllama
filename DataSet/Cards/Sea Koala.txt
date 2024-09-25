@@ -1,0 +1,16 @@
+Sea Koala
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 monster your opponent controls; change its ATK to 0 until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 100
+Defence: 1600
+Archetype: Koala
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Phantom Darkness
+- Speed Duel GX: Midterm Paradox

@@ -1,0 +1,15 @@
+Intrigue Shield
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; equip this card to that target. Once per turn, while the equipped monster is in Attack Position, it cannot be destroyed by battle. You take no battle damage from attacks involving it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Shadow Specters

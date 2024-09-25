@@ -1,0 +1,16 @@
+Tiger Dragon
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned by Tributing a Dragon monster: You can target up to 2 Set cards in your opponent's Spell & Trap Zone; destroy those targets.
+
+Type: Dragon
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Starter Deck: Kaiba Reloaded

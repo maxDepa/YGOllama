@@ -1,0 +1,17 @@
+Hey, Trunade!
+Card Type: Spell Card
+
+Description: Return all Set Spells and Traps on the field to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force
+- Legendary Hero Decks
+- Maximum Gold
+- Yu-Gi-Oh! Advent Calendar (2018)

@@ -1,0 +1,14 @@
+Link Hole
+Card Type: Spell Card
+
+Description: If you control a Link-4 or higher monster: Destroy monsters your opponent controls, up to the number of Link-3 or higher monsters you control. You can only activate 1 "Link Hole" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

@@ -1,0 +1,18 @@
+First of the Dragons
+Card Type: Fusion Monster
+
+Description: 2 Normal Monsters
+Must be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 "First of the Dragons". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.
+
+Type: Dragon
+Attribute: DARK
+Level: 9
+Attack: 2700
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Advanced Demo Deck Extra Pack
+- Legendary Decks II
+- The New Challengers
+- The New Challengers: Super Edition

@@ -1,0 +1,27 @@
+Black Skull Dragon
+Card Type: Fusion Monster
+
+Description: "Summoned Skull" + "Red-Eyes Black Dragon"
+
+
+
+(This card is always treated as an "Archfiend" card.)
+
+Type: Dragon
+Attribute: DARK
+Level: 9
+Attack: 3200
+Defence: 2500
+Archetype: Archfiend
+Present in Sets:
+- Booster Pack Collectors Tins 2002
+- Dark Beginning 1
+- Dark Legends
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Millennium Pack
+- Retro Pack
+- Tournament Pack: 3rd Season

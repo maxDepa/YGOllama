@@ -1,0 +1,14 @@
+Altergeist Dragvirion
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When an opponent's Special Summoned monster declares an attack: You can return 1 "Altergeist" monster you control to the hand; negate that attack. If this card is Tributed and sent to the GY: You can Special Summon this card. You can only use each effect of "Altergeist Dragvirion" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1200
+Archetype: Altergeist
+Present in Sets:
+- Dark Neostorm

@@ -1,0 +1,18 @@
+Back to the Front
+Card Type: Trap Card
+
+Description: Target 1 monster in your GY; Special Summon it in Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Egyptian God Deck: Slifer the Sky Dragon
+- Structure Deck: Albaz Strike
+- Structure Deck: Mechanized Madness

@@ -1,0 +1,14 @@
+Mass Driver
+Card Type: Spell Card
+
+Description: Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

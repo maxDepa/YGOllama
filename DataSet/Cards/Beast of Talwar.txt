@@ -1,0 +1,22 @@
+Beast of Talwar
+Card Type: Normal Monster
+
+Description: Only the master of the sword among Fiend-Type monsters is permitted to hold the Talwar.
+
+
+(This card is always treated as an "Archfiend" card.)
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 2150
+Archetype: Archfiend
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Dark Legion Starter Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel: Battle City Box

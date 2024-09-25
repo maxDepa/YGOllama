@@ -1,0 +1,14 @@
+Reverse Jar
+Card Type: Flip Effect Monster
+
+Description: FLIP: Change as many other monsters on the field as possible to face-down Defense Position, then, return as many face-up Spells/Traps as possible from the field to the hand, then, each player can Set Spells/Traps from their hand, up to the number returned to their own hand by this effect. You can only use this effect of "Reverse Jar" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: Jar
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

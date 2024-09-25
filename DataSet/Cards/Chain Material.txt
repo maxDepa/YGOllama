@@ -1,0 +1,13 @@
+Chain Material
+Card Type: Trap Card
+
+Description: Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters. You cannot attack during the turn this card is activated. If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

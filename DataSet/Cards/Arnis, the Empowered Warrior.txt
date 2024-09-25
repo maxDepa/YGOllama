@@ -1,0 +1,13 @@
+Arnis, the Empowered Warrior
+Card Type: Effect Monster
+
+Description: When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 Spellcaster-Type monster with 1500 or less ATK from your Deck in Attack Position.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Empowered Warrior
+Present in Sets:
+- Super Starter: Space-Time Showdown

@@ -1,0 +1,22 @@
+Blast with Chain
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK. If this card is destroyed by a card effect while equipped: Target 1 card on the field; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Onslaught of the Fire Kings Structure Deck
+- Speed Duel: Streets of Battle City
+- Structure Deck: Warrior's Triumph

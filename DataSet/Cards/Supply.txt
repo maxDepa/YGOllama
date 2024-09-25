@@ -1,0 +1,16 @@
+Supply
+Card Type: Flip Effect Monster
+
+Description: FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 800
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

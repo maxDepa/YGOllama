@@ -1,0 +1,14 @@
+Lightray Gearfried
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard, and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when a Spell/Trap Card is activated: You can banish 1 Warrior-Type monster from your Graveyard; negate the activation, and if you do, destroy it. All face-up monsters you control must be Warrior-Type to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Legendary Collection 4: Joey's World Mega Pack

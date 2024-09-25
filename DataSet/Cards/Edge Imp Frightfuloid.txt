@@ -1,0 +1,15 @@
+Edge Imp Frightfuloid
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Frightfur" card.)
+You can target 1 "Frightfur" Fusion Monster you control or in your Graveyard; this card's ATK and DEF each become equal to the original ATK and DEF of that monster, until the end of this turn. You can only use this effect of "Edge Imp Frightfuloid" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: Edge Imp
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

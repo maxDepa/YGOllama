@@ -1,0 +1,13 @@
+Hard-sellin' Goblin
+Card Type: Trap Card
+
+Description: Each time a monster you control inflicts Battle Damage to your opponent, return 1 card in your opponent's Spell & Trap Card Zone to its owner's hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker

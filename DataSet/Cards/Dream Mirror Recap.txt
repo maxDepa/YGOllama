@@ -1,0 +1,13 @@
+Dream Mirror Recap
+Card Type: Trap Card
+
+Description: If a "Dream Mirror" monster you control would be Tributed to activate its own effect, shuffle it into the Deck instead of sending it to the GY. During the Main Phase: You can send this face-up card to the GY; place 1 of your "Dream Mirror of Joy" or "Dream Mirror of Terror" that is banished or in your GY, face-up in your Field Zone, then you can Special Summon 1 monster from your hand that specifically lists that card you placed in its text.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dream Mirror
+Present in Sets:
+- Blazing Vortex

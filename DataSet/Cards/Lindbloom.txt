@@ -1,0 +1,14 @@
+Lindbloom
+Card Type: Effect Monster
+
+Description: If a monster you control battles an opponent's monster, during damage calculation: The ATK of each monster in that battle becomes equal to their current DEF, until the end of the Damage Step.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

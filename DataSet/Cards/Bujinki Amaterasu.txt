@@ -1,0 +1,20 @@
+Bujinki Amaterasu
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+You can only control 1 "Bujinki Amaterasu". Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; apply this effect, depending on whose turn it is.
+● Your turn: Target 1 of your banished Level 4 or lower monsters; Special Summon that target.
+● Your opponent's turn: Target 1 of your banished Level 4 or lower monsters; add that target to your hand.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2600
+Defence: 2500
+Archetype: Bujin
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin
+- Primal Origin
+- Primal Origin
+- Wing Raiders

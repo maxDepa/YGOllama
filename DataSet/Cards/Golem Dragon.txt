@@ -1,0 +1,14 @@
+Golem Dragon
+Card Type: Effect Monster
+
+Description: Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.
+
+Type: Dragon
+Attribute: EARTH
+Level: 4
+Attack: 200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Shonen Jump Vol. 8, Issue 7 promotional card
+- Turbo Pack: Booster Six

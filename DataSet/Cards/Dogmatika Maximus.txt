@@ -1,0 +1,14 @@
+Dogmatika Maximus
+Card Type: Effect Monster
+
+Description: You can banish 1 Fusion, Synchro, Xyz, or Link Monster from your GY; Special Summon this card from your hand. During your Main Phase: You can activate this effect; send 2 monsters with different names from your Extra Deck to the GY, also your opponent sends 2 monsters from their Extra Deck to the GY, also you cannot Special Summon from the Extra Deck for the rest of this turn. You can only use each effect of "Dogmatika Maximus" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 1500
+Defence: 3000
+Archetype: Dogmatika
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

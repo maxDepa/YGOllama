@@ -1,0 +1,15 @@
+D/D/D Human Resources
+Card Type: Trap Card
+
+Description: Shuffle 3 cards into the Deck (any combination of "D/D" monsters in your hand, field, or Graveyard, and/or "D/D" cards in your Pendulum Zone), then you can add 2 "D/D" monsters from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Pendulum Domination Structure Deck

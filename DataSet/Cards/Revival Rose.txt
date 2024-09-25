@@ -1,0 +1,14 @@
+Revival Rose
+Card Type: Effect Monster
+
+Description: If a Level 5 or higher Plant-Type monster you control is destroyed, you can Special Summon this card from the Graveyard.
+
+Type: Plant
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Duelists: Season 2
+- The Shining Darkness

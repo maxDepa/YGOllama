@@ -1,0 +1,19 @@
+Majestic Star Dragon
+Card Type: Synchro Monster
+
+Description: "Majestic Dragon" + "Stardust Dragon" + 1 non-Tuner monster
+During either player's turn, when your opponent activates a card or effect: You can Tribute this card; negate the activation, and if you do, destroy all cards your opponent controls. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn, and you can activate 1 of its effects as this card's effect once this turn. During the End Phase: Target 1 "Stardust Dragon" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.
+
+Type: Dragon
+Attribute: WIND
+Level: 10
+Attack: 3800
+Defence: 3000
+Archetype: Majestic
+Present in Sets:
+- Collectible Tins 2009 Wave 2
+- Duelist Pack: Yusei 3
+- Legendary Collection 5D's Mega Pack
+- Stardust Overdrive
+- Stardust Overdrive
+- Stardust Overdrive

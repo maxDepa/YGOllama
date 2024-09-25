@@ -1,0 +1,13 @@
+Speaker for the Ice Barriers
+Card Type: Effect Monster
+
+Description: While you control another "Ice Barrier" monster, Defense Position monsters your opponent controls cannot change their battle positions. You can only use each of the following effects of "Speaker for the Ice Barriers" once per turn. If you control an "Ice Barrier" monster: You can Special Summon this card from your hand. If you control an "Ice Barrier" monster: You can banish this card from your GY; Special Summon 1 "Ice Barrier Token" (Aqua/WATER/Level 1/ATK 0/DEF 0).
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Ice Barrier
+Present in Sets:
+- Structure Deck: Freezing Chains

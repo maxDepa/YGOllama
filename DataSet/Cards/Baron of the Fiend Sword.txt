@@ -1,0 +1,14 @@
+Baron of the Fiend Sword
+Card Type: Normal Monster
+
+Description: An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1550
+Defence: 800
+Archetype: //
+Present in Sets:
+- Starter Deck: Yugi
+- Starter Deck: Yugi

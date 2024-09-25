@@ -1,0 +1,18 @@
+Sky Striker Mobilize - Engage!
+Card Type: Spell Card
+
+Description: If you control no monsters in your Main Monster Zone: Add 1 "Sky Striker" card from your Deck to your hand, except "Sky Striker Mobilize - Engage!", then, if you have 3 or more Spells in your GY, you can draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- Dark Saviors
+- Magnificent Mavens

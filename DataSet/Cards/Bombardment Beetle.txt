@@ -1,0 +1,17 @@
+Bombardment Beetle
+Card Type: Flip Effect Monster
+
+Description: FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent's side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.
+
+Type: Insect
+Attribute: WIND
+Level: 2
+Attack: 400
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

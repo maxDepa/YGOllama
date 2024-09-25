@@ -1,0 +1,13 @@
+Crimson Sunbird
+Card Type: Fusion Monster
+
+Description: "Faith Bird" + "Skull Red Bird"
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 6
+Attack: 2300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

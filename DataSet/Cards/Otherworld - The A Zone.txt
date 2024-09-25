@@ -1,0 +1,13 @@
+Otherworld - The "A" Zone
+Card Type: Spell Card
+
+Description: If your opponent's monster battles an "Alien" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Force of the Breaker

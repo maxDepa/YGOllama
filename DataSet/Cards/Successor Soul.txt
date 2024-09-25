@@ -1,0 +1,13 @@
+Successor Soul
+Card Type: Spell Card
+
+Description: Tribute 1 Effect Monster, then target 1 Effect Monster your opponent controls; send it to the GY, then Special Summon 1 Level 7 or higher Normal Monster from your hand or Deck. You can only activate 1 "Successor Soul" per turn. You can only attack with 1 monster during the turn you activate this card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories

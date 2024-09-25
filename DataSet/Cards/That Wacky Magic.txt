@@ -1,0 +1,13 @@
+That Wacky Magic!
+Card Type: Spell Card
+
+Description: Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished x 300.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord

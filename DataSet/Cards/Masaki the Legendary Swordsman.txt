@@ -1,0 +1,19 @@
+Masaki the Legendary Swordsman
+Card Type: Normal Monster
+
+Description: Legendary swordmaster Masaki is a veteran of over 100 battles.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1100
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Joey

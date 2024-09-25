@@ -1,0 +1,13 @@
+Fire Reaper
+Card Type: Normal Monster
+
+Description: A reaper with a flaming arrow that burns an enemy to a crisp.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 500
+Archetype: //
+Present in Sets:
+- Speed Duel: Scars of Battle

@@ -1,0 +1,13 @@
+Blackwing - Jin the Rain Shadow
+Card Type: Tuner Monster
+
+Description: If this card battles a face-up monster with DEF equal to or less than this card's ATK, destroy that monster at the start of the Damage Step (without damage calculation).
+
+Type: Winged Beast
+Attribute: DARK
+Level: 1
+Attack: 600
+Defence: 500
+Archetype: Blackwing
+Present in Sets:
+- Extreme Victory

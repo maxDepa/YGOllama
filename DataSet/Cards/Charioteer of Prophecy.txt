@@ -1,0 +1,13 @@
+Charioteer of Prophecy
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 "Spellbook" Spell Card to target 1 Spellcaster-Type monster in your Graveyard; add that target to your hand.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1300
+Archetype: Spellbook
+Present in Sets:
+- Return of the Duelist

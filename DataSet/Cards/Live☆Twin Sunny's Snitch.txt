@@ -1,0 +1,14 @@
+Live☆Twin Sunny's Snitch
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Live☆Twin" monster from your Deck to your hand. While you control an "Evil★Twin" monster, each time your opponent Normal or Special Summons a monster(s), you gain 200 LP, and if you do, inflict 200 damage to your opponent. You can only activate 1 "Live☆Twin Sunny's Snitch" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Live☆Twin
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

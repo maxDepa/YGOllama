@@ -1,0 +1,24 @@
+Thousand-Eyes Restrict
+Card Type: Fusion Monster
+
+Description: "Relinquished" + "Thousand-Eyes Idol"
+Other monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Eyes Restrict
+Present in Sets:
+- Dark Beginning 1
+- Duelist League Series 1 participation cards
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Master Collection Volume 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Starter Decks: Match of the Millennium

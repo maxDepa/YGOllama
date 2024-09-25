@@ -1,0 +1,13 @@
+Photon Lead
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 4 or lower LIGHT monster from your hand in face-up Attack Position.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- Photon Shockwave

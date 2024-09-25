@@ -1,0 +1,19 @@
+Ojama Green
+Card Type: Normal Monster
+
+Description: He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 1000
+Archetype: Ojama
+Present in Sets:
+- 2-Player Starter Set
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duelist Pack: Chazz Princeton
+- OTS Tournament Pack 7 (POR)
+- Speed Duel GX: Duel Academy Box

@@ -1,0 +1,18 @@
+Liberty at Last!
+Card Type: Trap Card
+
+Description: When a monster you control is destroyed by battle and sent to the Graveyard: Target 2 face-up monsters on the field; shuffle those targets into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Legendary Duelists: Synchro Storm
+- Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards
+- Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards

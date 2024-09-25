@@ -1,0 +1,14 @@
+Gussari @Ignister
+Card Type: Effect Monster
+
+Description: When a Link Monster is destroyed by battle: You can Special Summon this card from your hand. When your Link Monster destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK. When an attack is declared involving a Link Monster you control and an opponent's monster: You can banish this card from your GY; the ATK's of those monsters become 3000. You can only use each effect of "Gussari @Ignister" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 3000
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

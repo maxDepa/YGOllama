@@ -1,0 +1,13 @@
+Ms. Judge
+Card Type: Effect Monster
+
+Description: If an opponent's card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of "Ms. Judge" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: //
+Present in Sets:
+- The New Challengers

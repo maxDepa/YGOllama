@@ -1,0 +1,15 @@
+Gaia, the Mid-Knight Sun
+Card Type: Effect Monster
+
+Description: You can only use each effect of "Gaia, the Mid-Knight Sun" once per turn.
+● You can Tribute 1 other LIGHT monster; add 1 Level 4 DARK Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.
+● You can banish 1 DARK monster from your Graveyard, then target 1 monster on the field; it loses 500 ATK until the end of your opponent's turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Duelist Alliance

@@ -1,0 +1,16 @@
+Diskblade Rider
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 Normal Trap Card in your Graveyard; banish that target, and if you do, this card gains 500 ATK until the end of your opponent's turn.
+
+Type: Fiend
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Light of Destruction
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,18 @@
+Harpie Channeler
+Card Type: Effect Monster
+
+Description: You can discard 1 "Harpie" card; Special Summon 1 "Harpie" monster from your Deck in face-up Defense Position, except "Harpie Channeler". You can only use this effect of "Harpie Channeler" once per turn. While you control a Dragon-Type monster, this card's Level becomes 7. This card's name becomes "Harpie Lady" while it is on the field or in the Graveyard.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: Harpie
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Season 2
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 J

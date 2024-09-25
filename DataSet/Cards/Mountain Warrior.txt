@@ -1,0 +1,12 @@
+Mountain Warrior
+Card Type: Normal Monster
+
+Description: A tough warrior that can move smoothly on even the roughest terrain.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 1000
+Archetype: //
+Present in Sets:

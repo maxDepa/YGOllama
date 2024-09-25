@@ -1,0 +1,17 @@
+Fusilier Dragon, the Dual-Mode Beast
+Card Type: Effect Monster
+
+Description: You can Normal Summon/Set this card without Tributing, but its original ATK and DEF become halved.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven
+- Dark Revelation Volume 3
+- Master of Pendulum Structure Deck
+- Rise of Destiny
+- Rise of Destiny

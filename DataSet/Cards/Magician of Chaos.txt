@@ -1,0 +1,14 @@
+Magician of Chaos
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Chaos Form". This card's name becomes "Dark Magician" while on the field or in the GY. Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can target 1 card on the field; destroy it. If this Ritual Summoned card is destroyed by battle or card effect: You can Special Summon 1 "Chaos" or "Black Luster Soldier" Ritual Monster from your hand, except "Magician of Chaos", ignoring its Summoning conditions.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Dark Magician
+Present in Sets:
+- Duel Power
+- Legendary Duelists: Season 3

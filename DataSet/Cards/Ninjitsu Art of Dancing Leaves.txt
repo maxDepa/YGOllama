@@ -1,0 +1,14 @@
+Ninjitsu Art of Dancing Leaves
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 "Ninja" monster or 1 face-down Defense Position monster on the field; Tribute it, and if you do, Special Summon 1 "Ninja" monster from your Deck. When this card leaves the field, send that monster to the GY. You can target 1 "Ninjitsu Art" Continuous Spell/Trap in your Spell & Trap Zone; return it to the hand. You can only use 1 "Ninjitsu Art of Dancing Leaves" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninjitsu Art
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

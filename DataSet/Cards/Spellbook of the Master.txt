@@ -1,0 +1,14 @@
+Spellbook of the Master
+Card Type: Spell Card
+
+Description: If you control a Spellcaster-Type monster: You can reveal 1 other "Spellbook" card in your hand, then target 1 "Spellbook" Normal Spell Card in your Graveyard, except "Spellbook of the Master"; this card's effect becomes that target's effect. You can only activate 1 "Spellbook of the Master" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- 2013 Collectible Tins Wave 2
+- Cosmo Blazer

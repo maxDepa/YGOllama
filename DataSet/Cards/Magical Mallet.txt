@@ -1,0 +1,19 @@
+Magical Mallet
+Card Type: Spell Card
+
+Description: Shuffle any number of cards from your hand into the Deck, then draw that same number of cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 2
+- Duelist League 3 participation cards
+- Duelist Pack: Chazz Princeton
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Structure Deck: Dinosaur's Rage
+- Structure Deck: Invincible Fortress

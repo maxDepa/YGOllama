@@ -1,0 +1,16 @@
+Enlightenment Paladin
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is Synchro Summoned using a "Magician" Pendulum Monster as Material: You can target 1 Spell Card in your Graveyard; add it to your hand. You can only use this effect of "Enlightenment Paladin" once per turn. When this card destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that monster's original ATK.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes
+- Breakers of Shadow
+- Pendulum Evolution

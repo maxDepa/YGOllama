@@ -1,0 +1,18 @@
+Ribbon of Rebirth
+Card Type: Spell Card
+
+Description: During the End Phase, if the equipped monster was destroyed by battle and sent to the Graveyard this turn: Special Summon it from the Graveyard to your side of the field.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Light of Destruction
+- War of the Giants Reinforcements
+- War of the Giants: Round 2
+- Zombie World Structure Deck

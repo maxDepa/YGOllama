@@ -1,0 +1,18 @@
+Performapal Gold Fang
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if your "Performapal" monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: All "Performapal" monsters you currently control gain 200 ATK until the end of this turn.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 700
+Archetype: Performapal
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

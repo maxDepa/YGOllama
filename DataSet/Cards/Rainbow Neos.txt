@@ -1,0 +1,18 @@
+Rainbow Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + 1 "Ultimate Crystal" monster
+Must be Fusion Summoned with the above Fusion Material Monsters and cannot be Special Summoned by other ways. Once per turn: You can activate 1 of these effects. ● Send 1 monster you control to the Graveyard; shuffle all monsters your opponent controls into the Deck. ● Send 1 Spell/Trap Card you control to the Graveyard; shuffle all Spell and Trap Cards your opponent controls into the Deck. ● Send 1 card from the top of your Deck to the Graveyard; shuffle all cards in your opponent's Graveyard into the Deck.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 10
+Attack: 4500
+Defence: 3000
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Maximum Gold: El Dorado
+- Phantom Darkness
+- Phantom Darkness
+- Ra Yellow Mega Pack

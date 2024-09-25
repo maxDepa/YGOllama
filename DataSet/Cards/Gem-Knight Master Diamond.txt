@@ -1,0 +1,17 @@
+Gem-Knight Master Diamond
+Card Type: Fusion Monster
+
+Description: 3 "Gem-Knight" monsters
+Must first be Fusion Summoned. This card gains 100 ATK for each "Gem-" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower "Gem-Knight" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.
+
+Type: Rock
+Attribute: EARTH
+Level: 9
+Attack: 2900
+Defence: 2500
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars
+- Star Pack ARC-V
+- Star Pack ARC-V

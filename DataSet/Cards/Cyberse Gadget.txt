@@ -1,0 +1,15 @@
+Cyberse Gadget
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your GY; Special Summon it in Defense Position, but its effects are negated. If this card is sent from the field to the GY: You can Special Summon 1 "Gadget Token" (Cyberse/LIGHT/Level 2/ATK 0/DEF 0). You can only use this effect of "Cyberse Gadget" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 300
+Archetype: Gadget
+Present in Sets:
+- Genesis Impact
+- Maximum Gold: El Dorado
+- Structure Deck: Powercode Link

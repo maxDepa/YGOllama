@@ -1,0 +1,15 @@
+Millennium Eye (Skill Card)
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+At the start of the Duel, look at your opponent’s opening hand. You may choose to have that player shuffle their hand into their Deck and draw a new hand. (If both players use a Skill at the same time, the Turn player resolves their Skill first.)
+
+Type: Pegasus
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters

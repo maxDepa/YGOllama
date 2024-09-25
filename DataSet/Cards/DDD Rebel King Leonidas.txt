@@ -1,0 +1,19 @@
+D/D/D Rebel King Leonidas
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When you take effect damage (except during the Damage Step): You can destroy this card, and if you do, any effect that would inflict damage to a player this turn increases their LP by the same amount, instead.
+
+[ Monster Effect ] 
+When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took. You take no effect damage.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 1200
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension of Chaos

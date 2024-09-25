@@ -1,0 +1,20 @@
+Black Dragon's Chick
+Card Type: Effect Monster
+
+Description: You can send this face-up card you control to the Graveyard; Special Summon 1 "Red-Eyes B. Dragon" from your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 1
+Attack: 800
+Defence: 500
+Archetype: Red-Eyes
+Present in Sets:
+- Dark Revelation Volume 3
+- Dragons Collide Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 1
+- OTS Tournament Pack 3
+- Soul of the Duelist
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Dragon's Roar

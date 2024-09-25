@@ -1,0 +1,16 @@
+ZS - Ascended Sage
+Card Type: Effect Monster
+
+Description: If you control no cards, you can Special Summon this card (from your hand). A "Utopia" Xyz Monster that was Summoned using this card on the field as material gains this effect.
+● If this card is Xyz Summoned: You can add 1 "Rank-Up-Magic" Normal Spell from your Deck to your hand.
+You can only use this effect of "ZS - Ascended Sage" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 900
+Defence: 300
+Archetype: Zexal
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

@@ -1,0 +1,15 @@
+Fortune Lady Fire
+Card Type: Effect Monster
+
+Description: This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this card is Special Summoned in Attack Position by the effect of a "Fortune Lady" card: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 2
+Attack: -1
+Defence: -1
+Archetype: Fortune Lady
+Present in Sets:
+- Ancient Prophecy
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)

@@ -1,0 +1,14 @@
+Destructive Daruma Karma Cannon
+Card Type: Trap Card
+
+Description: Change as many monsters on the field as possible to face-down Defense Position, then, if either player controls a face-up monster(s), they must send all face-up monsters they control to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

@@ -1,0 +1,14 @@
+Fossil Machine Skull Convoy
+Card Type: Fusion Monster
+
+Description: 1 Rock monster in your GY + 1 Level 7 or higher monster
+Must first be Special Summoned with "Fossil Fusion". While you control this Fusion Summoned card, all monsters your opponent controls lose ATK equal to their original DEF. This card can make up to 3 attacks on monsters during each Battle Phase. When this card destroys an opponent's monster by battle: You can inflict 1000 damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 2100
+Defence: 1800
+Archetype: Fossil
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

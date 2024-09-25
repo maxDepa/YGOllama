@@ -1,0 +1,16 @@
+Traptrix Genlisea
+Card Type: Effect Monster
+
+Description: Unaffected by the effects of "Hole" Normal Traps. You can Tribute this card; Set 2 "Hole" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of "Traptrix Genlisea" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: Traptrix
+Present in Sets:
+- Duel Overload
+- Structure Deck: Beware of Traptrix
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023

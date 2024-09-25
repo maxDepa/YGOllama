@@ -1,0 +1,23 @@
+The Fiend Megacyber
+Card Type: Effect Monster
+
+Description: If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand).
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Beginning 1
+- Demo Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Tournament Pack 4

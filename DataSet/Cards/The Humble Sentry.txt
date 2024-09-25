@@ -1,0 +1,13 @@
+The Humble Sentry
+Card Type: Spell Card
+
+Description: Reveal your hand, choose 1 card, and shuffle it into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising

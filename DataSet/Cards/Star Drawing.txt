@@ -1,0 +1,17 @@
+Star Drawing
+Card Type: Effect Monster
+
+Description: If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card as an Xyz Material gains this effect.
+● If it is Xyz Summoned: Draw 1 card.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Astral Pack Five
+- Cosmo Blazer
+- Genesis Impact

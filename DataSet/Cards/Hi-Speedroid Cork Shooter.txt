@@ -1,0 +1,17 @@
+Hi-Speedroid Cork Shooter
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can activate 1 of these effects;
+● Add 1 "Speedroid" Spell/Trap from your Deck to your hand.
+● If all materials that were used for the Synchro Summon of this card were "Speedroid" monsters, and are all in your GY, Special Summon all of them.
+You cannot Special Summon monsters the turn you activate this effect, except WIND monsters. You can only use this effect of "Hi-Speedroid Cork Shooter" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 1000
+Archetype: Speedroid
+Present in Sets:
+- Legendary Duelists: Synchro Storm

@@ -1,0 +1,28 @@
+Bazoo the Soul-Eater
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 900
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Egyptian God Deck: Obelisk the Tormentor
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- The Dark Emperor Structure Deck
+- Tournament Pack 5

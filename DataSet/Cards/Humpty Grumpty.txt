@@ -1,0 +1,13 @@
+Humpty Grumpty
+Card Type: Effect Monster
+
+Description: Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: It gains 800 ATK until the end of this turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Superstars

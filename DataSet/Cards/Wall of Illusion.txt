@@ -1,0 +1,22 @@
+Wall of Illusion
+Card Type: Effect Monster
+
+Description: If this card is attacked by a monster, after damage calculation: Return that monster to the hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1850
+Archetype: //
+Present in Sets:
+- Dark Legends
+- Duel Terminal 4
+- Retro Pack
+- Speed Duel: Battle City Box
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Tournament Pack 7
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

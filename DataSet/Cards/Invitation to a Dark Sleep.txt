@@ -1,0 +1,16 @@
+Invitation to a Dark Sleep
+Card Type: Effect Monster
+
+Description: When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

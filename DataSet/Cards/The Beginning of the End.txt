@@ -1,0 +1,17 @@
+The Beginning of the End
+Card Type: Spell Card
+
+Description: If you have 7 or more DARK monsters in your GY: Banish 5 DARK monsters from your GY; draw 3 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Phantom Darkness
+- Phantom Darkness
+- Speed Duel: Scars of Battle
+- Structure Deck: Sacred Beasts

@@ -1,0 +1,18 @@
+Damage Condenser
+Card Type: Trap Card
+
+Description: When you take battle damage: Discard 1 card; Special Summon 1 monster from your Deck with ATK less than or equal to the battle damage you took, in face-up Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duel Terminal 3
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Shadow of Infinity
+- Shadow of Infinity
+- Speed Duel GX: Duel Academy Box

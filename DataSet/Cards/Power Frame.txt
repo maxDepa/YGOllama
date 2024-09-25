@@ -1,0 +1,19 @@
+Power Frame
+Card Type: Trap Card
+
+Description: When a face-up monster you control is targeted for an attack by a monster with a higher ATK: Target the attack target; negate that attack, and if you do, equip this card to that target. The equipped monster gains ATK equal to the difference between its ATK and the ATK of its attacker when this card resolves.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Pack: Yusei 3
+- The Shining Darkness

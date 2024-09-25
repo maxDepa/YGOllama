@@ -1,0 +1,15 @@
+Ivy Shackles
+Card Type: Trap Card
+
+Description: All face-up monsters your opponent controls become Plant-Type during your turns only. If this face-up card you control is destroyed and sent to your Graveyard by an opponent's card effect: Draw 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Duel Terminal 2
+- Legendary Collection 5D's Mega Pack

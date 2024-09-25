@@ -1,0 +1,15 @@
+Crawling Dragon #2
+Card Type: Normal Monster
+
+Description: A powerful dragon with teeth that can grind almost anything to dust.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Ultimate Predators
+- Tournament Pack: 2nd Season

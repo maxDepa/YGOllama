@@ -1,0 +1,13 @@
+Dragon Laser
+Card Type: Spell Card
+
+Description: Send 1 "Trigon" equipped to a face-up "Delta Tri" you control to the Graveyard, and destroy all monsters your opponent controls.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Shining Darkness

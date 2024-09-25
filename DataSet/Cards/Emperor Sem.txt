@@ -1,0 +1,14 @@
+Emperor Sem
+Card Type: Effect Monster
+
+Description: Each time you Tribute Summon a monster, each player can select 1 card from their Graveyard and return it to the top of their Deck.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1300
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Duel Terminal 5b
+- Raging Battle

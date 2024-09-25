@@ -1,0 +1,19 @@
+Gagaga Gardna
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. When this card is targeted for an attack: You can discard 1 card; this card cannot be destroyed by that battle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 2000
+Archetype: Gagaga
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Galactic Overlord
+- Number Hunters
+- Star Pack 2014
+- Star Pack 2014
+- Super Starter: V for Victory

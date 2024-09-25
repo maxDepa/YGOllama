@@ -1,0 +1,20 @@
+Acid Trap Hole
+Card Type: Trap Card
+
+Description: Target 1 face-down Defense Position monster on the field; flip it face-up, then destroy it if its DEF is 2000 or less, or return it face-down if its DEF is more than 2000.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Millennium Pack
+- Shadow of Infinity: Special Edition
+- Shadow of Infinity: Special Edition
+- Speed Duel: Battle City Box
+- Structure Deck: Marik (TCG)
+- Yu-Gi-Oh! Dark Duel Stories promotional cards
+- Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards

@@ -1,0 +1,15 @@
+Aztekipede, the Worm Warrior
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by banishing 1 Insect-Type monster from your Graveyard, and cannot be Special Summoned by other ways. If this card inflicts battle damage to your opponent: Send the top card of their Deck to the Graveyard.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 400
+Archetype: Worm
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Phantom Darkness

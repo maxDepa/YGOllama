@@ -1,0 +1,15 @@
+EXTINGUISH!
+Card Type: Trap Card
+
+Description: (This card is always treated as a "Rescue-ACE" card.)
+If you control a "Rescue-ACE" monster: Target 1 Effect Monster your opponent controls; destroy it, then, if you currently control "Rescue-ACE Hydrant", your opponent cannot activate the effects of that destroyed monster, or of monsters with its same original name, this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders
+- Maze of Millennia

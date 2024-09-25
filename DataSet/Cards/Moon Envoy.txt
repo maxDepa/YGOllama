@@ -1,0 +1,13 @@
+Moon Envoy
+Card Type: Normal Monster
+
+Description: Many have fallen victim to this lunar warrior's crescent pike.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

@@ -1,0 +1,16 @@
+Harpie Oracle
+Card Type: Effect Monster
+
+Description: This card's name becomes "Harpie Lady" while on the field or in the GY. You can only use each of these effects of "Harpie Oracle" once per turn.
+● If you control a Level 5 or higher "Harpie" monster: You can Special Summon this card from your hand.
+● If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your GY to your hand, that specifically lists the card "Harpie Lady Sisters" in its text, during the End Phase of this turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1300
+Defence: 1400
+Archetype: Harpie
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

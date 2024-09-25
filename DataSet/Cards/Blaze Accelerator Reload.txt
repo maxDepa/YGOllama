@@ -1,0 +1,14 @@
+Blaze Accelerator Reload
+Card Type: Trap Card
+
+Description: This card's name becomes "Tri-Blaze Accelerator" while in the Spell & Trap Zone. During either player's Main Phase: You can send 1 "Volcanic" card from your hand to the Graveyard, and if you do, draw 1 card. You can only use this effect of "Blaze Accelerator Reload" once per turn. During either player's Main Phase: You can banish this card from your Graveyard; send 1 "Volcanic" card from your Deck to the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blaze Accelerator
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano
+- Secrets of Eternity

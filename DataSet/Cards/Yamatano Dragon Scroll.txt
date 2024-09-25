@@ -1,0 +1,12 @@
+Yamatano Dragon Scroll
+Card Type: Normal Monster
+
+Description: A dragon conjured from the very scroll in which it was depicted.
+
+Type: Dragon
+Attribute: WIND
+Level: 2
+Attack: 900
+Defence: 300
+Archetype: //
+Present in Sets:

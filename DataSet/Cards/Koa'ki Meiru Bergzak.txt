@@ -1,0 +1,13 @@
+Koa'ki Meiru Bergzak
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Warrior-Type monster in your hand. If this card destroys an opponent's monster by battle, it can attack once again in a row.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 200
+Archetype: Koa'ki Meiru
+Present in Sets:
+- The Shining Darkness

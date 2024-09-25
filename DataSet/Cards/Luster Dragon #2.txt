@@ -1,0 +1,20 @@
+Luster Dragon #2
+Card Type: Normal Monster
+
+Description: This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.
+
+Type: Dragon
+Attribute: WIND
+Level: 6
+Attack: 2400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck 2006
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Kaiba Evolution

@@ -1,0 +1,18 @@
+Evilswarm Salamandra
+Card Type: Effect Monster
+
+Description: Up to twice per turn: You can banish 1 monster from your Graveyard; this card gains 300 ATK until the end of your opponent's turn.
+
+Type: Dinosaur
+Attribute: DARK
+Level: 4
+Attack: 1850
+Defence: 950
+Archetype: Lswarm
+Present in Sets:
+- Dinosmasher's Fury Structure Deck
+- Duel Terminal 7b
+- Egyptian God Deck: Obelisk the Tormentor
+- Hidden Arsenal 7: Knight of Stars
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

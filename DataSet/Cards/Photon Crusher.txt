@@ -1,0 +1,16 @@
+Photon Crusher
+Card Type: Effect Monster
+
+Description: If this card attacks, it is changed to Defense Position at the end of the Damage Step.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- Legendary Duelists: White Dragon Abyss
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014

@@ -1,0 +1,15 @@
+Common Charity
+Card Type: Trap Card
+
+Description: Draw 2 cards, then banish 1 Normal Monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel: Arena of Lost Souls
+- Tactical Evolution

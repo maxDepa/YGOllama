@@ -1,0 +1,13 @@
+Give and Take
+Card Type: Trap Card
+
+Description: Special Summon 1 monster from your Graveyard to your opponent's side of the field in Defense Position, and increase the Level of 1 monster you control by the Level of the Special Summoned monster, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei

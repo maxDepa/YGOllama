@@ -1,0 +1,16 @@
+Adamancipator Risen - Dragite
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can return cards your opponent controls to the hand, up to the number of excavated Rock monsters, also place the excavated cards on the bottom of your Deck in any order. When your opponent activates a Spell/Trap Card or effect, while a WATER monster is in your GY (Quick Effect): You can negate the activation, and if you do, destroy it. You can only use each effect of "Adamancipator Risen - Dragite" once per turn.
+
+Type: Rock
+Attribute: WATER
+Level: 8
+Attack: 3000
+Defence: 2200
+Archetype: Adamancipator
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 25
+- Secret Slayers

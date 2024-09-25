@@ -1,0 +1,39 @@
+Compulsory Evacuation Device
+Card Type: Trap Card
+
+Description: Target 1 monster on the field; return that target to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 2
+- Duel Overload
+- Duel Terminal 3
+- Duelist League 2010 participation cards
+- Gold Series 2009
+- HERO Strike Structure Deck
+- High-Speed Riders
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Machina Mayhem Structure Deck
+- Noble Knights of the Round Table Power-Up Pack
+- Premium Gold: Return of the Bling
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Starter Deck 2006
+- Starter Deck: Codebreaker
+- Starter Deck: Jaden Yuki
+- Starter Deck: Link Strike
+- Structure Deck: Invincible Fortress
+- Structure Deck: Zombie Madness
+- Tactical Masters
+- Turbo Pack: Booster Four

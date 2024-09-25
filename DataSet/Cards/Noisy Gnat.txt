@@ -1,0 +1,15 @@
+Noisy Gnat
+Card Type: Effect Monster
+
+Description: You can send this card from your hand to the Graveyard to target 1 face-up monster on the field; increase that target's Level by 1, until the End Phase.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 300
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- The Duelist Genesis

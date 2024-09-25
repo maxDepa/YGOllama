@@ -1,0 +1,13 @@
+Evo-Singularity
+Card Type: Trap Card
+
+Description: Target 1 "Evoltile" monster and 1 "Evolsaur" monster in your Graveyard; Special Summon 1 "Evolzar" Xyz Monster from your Extra Deck, and if you do, attach those monsters to it as Xyz Materials.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evolsaur
+Present in Sets:
+- Primal Origin

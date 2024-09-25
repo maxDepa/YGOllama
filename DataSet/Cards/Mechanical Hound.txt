@@ -1,0 +1,15 @@
+Mechanical Hound
+Card Type: Effect Monster
+
+Description: While you have no cards in your hand, your opponent cannot activate Spell Cards.
+
+Type: Machine
+Attribute: EARTH
+Level: 7
+Attack: 2800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel GX: Midterm Paradox

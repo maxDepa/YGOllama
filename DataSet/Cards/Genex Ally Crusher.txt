@@ -1,0 +1,14 @@
+Genex Ally Crusher
+Card Type: Effect Monster
+
+Description: Once per turn, when a monster with the same Attribute as this card is Normal Summoned to your side of the field, you can select 1 card your opponent controls, and destroy it.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph

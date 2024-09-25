@@ -1,0 +1,13 @@
+Starry Knight Orbitael
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can target 1 LIGHT monster you control; Tribute it, and if you do, Set 1 "Starry Knight" Spell/Trap directly from your Deck. If a face-up Level 7 LIGHT Dragon monster you control returns to the hand, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of "Starry Knight Orbitael" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 400
+Defence: 2100
+Archetype: Starry Knight
+Present in Sets:
+- Burst of Destiny

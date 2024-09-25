@@ -1,0 +1,16 @@
+Earthbound Linewalker
+Card Type: Effect Monster
+
+Description: "Earthbound Immortal" monsters cannot be destroyed by their own effects.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1900
+Archetype: Earthbound
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 3
+- Maze of Millennia

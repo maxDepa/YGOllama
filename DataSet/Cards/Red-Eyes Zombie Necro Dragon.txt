@@ -1,0 +1,15 @@
+Red-Eyes Zombie Necro Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Gains 100 ATK/DEF for each Zombie monster on the field and in the GYs. When another Zombie monster is destroyed by battle: You can Special Summon 1 Zombie monster from either GY to your field. You can only use this effect of "Red-Eyes Zombie Necro Dragon" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Red-Eyes
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Structure Deck: Zombie Horde

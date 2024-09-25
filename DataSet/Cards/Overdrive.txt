@@ -1,0 +1,16 @@
+Overdrive
+Card Type: Normal Monster
+
+Description: An all-terrain armored vehicle armed with a heavy-duty machine gun.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Demo Deck 2015
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

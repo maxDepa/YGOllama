@@ -1,0 +1,14 @@
+Prank-Kids Lampsies
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as material for the Fusion or Link Summon of a "Prank-Kids" monster: You can inflict 500 damage to your opponent, then you can Special Summon 1 "Prank-Kids" monster from your hand or Deck in Defense Position, except "Prank-Kids Lampsies". You can only use this effect of "Prank-Kids Lampsies" once per turn.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 500
+Archetype: Prank-Kids
+Present in Sets:
+- Hidden Summoners
+- Maximum Gold: El Dorado

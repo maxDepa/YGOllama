@@ -1,0 +1,13 @@
+Linear Accelerator Cannon
+Card Type: Spell Card
+
+Description: Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

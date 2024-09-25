@@ -1,0 +1,19 @@
+Pyramid of Wonders
+Card Type: Spell Card
+
+Description: All Zombie monsters you control gain 200 ATK for each monster your opponent controls. If exactly 1 Zombie monster you control (and no other cards) would be destroyed, you can send this card to the GY instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- Secret Slayers
+- Speed Duel: Attack from the Deep
+- The Shining Darkness

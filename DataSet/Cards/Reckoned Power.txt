@@ -1,0 +1,13 @@
+Reckoned Power
+Card Type: Trap Card
+
+Description: Reveal 1 "Iron Core of Koa'ki Meiru" in your hand. Destroy all face-down Spell and Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Raging Battle

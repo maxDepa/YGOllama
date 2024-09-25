@@ -1,0 +1,16 @@
+Silent Psychic Wizard
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Special Summon that monster banished by this effect.
+
+Type: Psychic
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Extreme Victory
+- High-Speed Riders

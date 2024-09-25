@@ -1,0 +1,14 @@
+Lyrilusc - Turquoise Warbler
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). If this card is Special Summoned from the hand: You can Special Summon 1 "Lyrilusc" monster from your hand or Graveyard. You can only use this effect of "Lyrilusc - Turquoise Warbler" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Lyrilusc
+Present in Sets:
+- Legendary Duelists: Synchro Storm
+- Maximum Crisis

@@ -1,0 +1,15 @@
+Skeletal Dragon Felgrand
+Card Type: Synchro Monster
+
+Description: 1 Zombie Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can target 1 monster your opponent controls or in their GY; banish it. If a monster(s) is Special Summoned from either GY, while this monster is on the field (except during the Damage Step): You can target 1 other face-up monster on the field; negate its effects until the end of this turn. You can only use each effect of "Skeletal Dragon Felgrand" once per turn.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2800
+Archetype: Felgrand
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

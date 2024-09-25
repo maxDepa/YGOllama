@@ -1,0 +1,13 @@
+Starry Knight Blast
+Card Type: Trap Card
+
+Description: When your opponent activates a card or effect: Return 1 Level 7 LIGHT Dragon monster you control to the hand; negate that effect, and if you do, destroy that card. You can only activate "Starry Knight Blast" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

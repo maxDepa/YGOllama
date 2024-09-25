@@ -1,0 +1,14 @@
+Abomination's Prison
+Card Type: Spell Card
+
+Description: Add 1 "Unchained" card from your Deck to your hand. If this Set card is destroyed by card effect: You can Special Summon 1 "Unchained" monster from your Deck. You can only use each effect of "Abomination's Prison" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Unchained
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

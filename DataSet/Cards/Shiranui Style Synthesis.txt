@@ -1,0 +1,17 @@
+Shiranui Style Synthesis
+Card Type: Spell Card
+
+Description: Once per turn, if you control no monsters: You can send 1 card from your hand to the Graveyard, then activate 1 of these effects.
+● Target 1 Zombie-Type monster with 0 DEF in your Graveyard; Special Summon it.
+● Target 1 of your banished Zombie-Type monsters with 0 DEF; return it to the Graveyard.
+You can only activate 1 "Shiranui Style Synthesis" per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

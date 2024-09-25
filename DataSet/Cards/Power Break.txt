@@ -1,0 +1,13 @@
+Power Break
+Card Type: Trap Card
+
+Description: Activate only while you control a face-up "Power Tool Dragon". Select up to 3 Equip Cards on your side of the field and/or in your Graveyard and return them to the Deck, and inflict 500 damage to your opponent for each card returned.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Power Tool
+Present in Sets:
+- The Shining Darkness

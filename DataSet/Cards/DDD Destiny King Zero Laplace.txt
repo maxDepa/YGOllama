@@ -1,0 +1,18 @@
+D/D/D Destiny King Zero Laplace
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can add 1 face-up "D/D/D" Pendulum Monster from your Extra Deck to your hand, except "D/D/D Destiny King Zero Laplace". You can only use this effect of "D/D/D Destiny King Zero Laplace" once per turn.
+
+[ Monster Effect ] 
+You can Special Summon this card (from your hand) by Tributing 1 "D/D/D" monster. Before damage calculation, if this card battles an opponent's monster: You can activate this effect; this card's ATK becomes double that opponent's monster's original ATK until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. The first time this card would be destroyed by battle each turn, it is not destroyed, and you take no battle damage from that battle.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: -1
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Yu-Gi-Oh! ARC-V Volume 3 promotional card

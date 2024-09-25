@@ -1,0 +1,15 @@
+Number C69: Heraldry Crest of Horror
+Card Type: XYZ Monster
+
+Description: 4 Level 5 monsters
+When an opponent's monster declares an attack: You can destroy all cards your opponent controls. If this card has "Number 69: Heraldry Crest" as an Xyz Material, it gains this effect.
+● Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; this card gains ATK equal to that face-up monster's original ATK, and if it gains ATK this way, this card's name becomes that monster's, and it gains that monster's original effect. These effects last until the End Phase.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 5
+Attack: 4000
+Defence: 1800
+Archetype: Heraldry
+Present in Sets:
+- Legacy of the Valiant

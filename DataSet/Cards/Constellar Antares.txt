@@ -1,0 +1,14 @@
+Constellar Antares
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can target 1 "Constellar" monster in your Graveyard; add that target to your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 900
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

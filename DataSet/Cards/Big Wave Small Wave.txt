@@ -1,0 +1,18 @@
+Big Wave Small Wave
+Card Type: Spell Card
+
+Description: Destroy all face-up WATER monsters you control, then you can Special Summon WATER monsters from your hand, up to the number of monsters destroyed by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Realm of the Sea Emperor Structure Deck
+- Soul of the Duelist
+- Speed Duel: Attack from the Deep
+- Speed Duel: Streets of Battle City
+- Structure Deck: Fury from the Deep

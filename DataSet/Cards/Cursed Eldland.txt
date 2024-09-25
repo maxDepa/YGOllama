@@ -1,0 +1,16 @@
+Cursed Eldland
+Card Type: Spell Card
+
+Description: You cannot declare attacks, except with Zombie monsters. You can only use each of the following effects of "Cursed Eldland" once per turn.
+● You can pay 800 LP; add 1 "Eldlich" monster or 1 "Golden Land" Spell/Trap from your Deck to your hand.
+● If this card is sent from the Spell & Trap Zone to the GY: You can send 1 "Eldlich" monster or 1 "Golden Land" Spell/Trap from your Deck to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Eldlich
+Present in Sets:
+- Maximum Gold: El Dorado
+- Secret Slayers

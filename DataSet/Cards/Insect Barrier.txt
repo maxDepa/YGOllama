@@ -1,0 +1,18 @@
+Insect Barrier
+Card Type: Spell Card
+
+Description: Insect-Type monsters your opponent controls cannot declare an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duelist League 13 participation cards
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel: Streets of Battle City

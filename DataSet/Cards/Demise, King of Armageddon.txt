@@ -1,0 +1,16 @@
+Demise, King of Armageddon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "End of the World". You can pay 2000 LP; destroy all other cards on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2400
+Defence: 2000
+Archetype: Demise
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity

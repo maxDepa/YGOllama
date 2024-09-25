@@ -1,0 +1,17 @@
+Illusion Magic
+Card Type: Spell Card
+
+Description: Tribute 1 Spellcaster monster; add up to 2 copies of "Dark Magician" from your Deck and/or GY to your hand. You can only activate 1 "Illusion Magic" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Dragon Decks
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- The Dark Illusion

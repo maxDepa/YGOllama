@@ -1,0 +1,14 @@
+D.D. Crazy Beast
+Card Type: Effect Monster
+
+Description: A monster that this card destroys as a result of battle is removed from play.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 1400
+Archetype: D.D.
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

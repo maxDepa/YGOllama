@@ -1,0 +1,15 @@
+Descending Lost Star
+Card Type: Trap Card
+
+Description: Target 1 Synchro Monster in your Graveyard; Special Summon that target in Defense Position, but its effects are negated, its Level is reduced by 1, its DEF becomes 0, also its battle position cannot be changed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Duelist Pack: Yusei 2
+- Legendary Collection 5D's Mega Pack

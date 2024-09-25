@@ -1,0 +1,17 @@
+Goblin Biker Grand Bash
+Card Type: Spell Card
+
+Description: "Goblin" monsters you control gain 300 ATK for each "Goblin" monster you control. During your Main Phase, you can Normal Summon 1 "Goblin" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can target 2 "Goblin" monsters you control, then activate 1 of these effects;
+● Make the Level of 1 of the monsters become the current Level of the other.
+● Both of their Levels become their combined original Levels.
+You can only use this effect of "Goblin Biker Grand Bash" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Goblin
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

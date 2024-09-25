@@ -1,0 +1,14 @@
+Valkyrian Knight
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls cannot target face-up Warrior-Type monsters for attacks, except "Valkyrian Knight". When this card is destroyed by battle and sent to the Graveyard: You can banish 1 Warrior-Type monster and this card from your Graveyard, then target 1 Level 5 or higher Warrior-Type monster in your Graveyard; Special Summon that target.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Cosmo Blazer
+- Legendary Decks II

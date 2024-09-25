@@ -1,0 +1,16 @@
+T.G. Striker
+Card Type: Tuner Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 "T.G." monster from your Deck to your hand, except "T.G. Striker".
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)

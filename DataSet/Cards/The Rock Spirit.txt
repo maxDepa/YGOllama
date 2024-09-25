@@ -1,0 +1,18 @@
+The Rock Spirit
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 EARTH monster in your Graveyard. Increase the ATK of this monster by 300 points during your opponent's Battle Phase.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box

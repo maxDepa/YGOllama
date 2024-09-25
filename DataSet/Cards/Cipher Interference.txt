@@ -1,0 +1,13 @@
+Cipher Interference
+Card Type: Spell Card
+
+Description: During damage calculation, if your "Cipher" monster battles, while another monster with its same name is on the field: You can double the ATK of your battling "Cipher" monster until the end of the Battle Phase. You can only use this effect of "Cipher Interference" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cipher
+Present in Sets:
+- Brothers of Legend

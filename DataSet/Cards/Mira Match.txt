@@ -1,0 +1,13 @@
+Mira Match
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can reveal 3 cards with different names from your hand and/or Deck that match the names of 3 different cards in your opponent's GY, and if you do, Special Summon this card. When your opponent activates a card or effect (Quick Effect): You can send this card Summoned by its previous effect to the GY; send 1 card with the same name as that opponent's card from your Deck or Extra Deck to the GY, and if you do, negate the activation. You can only use each effect of "Mira Match" once per turn.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Terminal Revenge

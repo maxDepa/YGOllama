@@ -1,0 +1,13 @@
+Heraldic Beast Amphisbaena
+Card Type: Effect Monster
+
+Description: You can discard 1 other "Heraldic Beast" monster; Special Summon this card from your hand. Once per turn: You can discard 1 "Heraldic Beast" monster; this card gains 800 ATK until the end of this turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1100
+Archetype: Heraldic
+Present in Sets:
+- World Superstars

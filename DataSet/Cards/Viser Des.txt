@@ -1,0 +1,16 @@
+Viser Des
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Millennium Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)

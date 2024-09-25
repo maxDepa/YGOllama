@@ -1,0 +1,13 @@
+Sound the Retreat!
+Card Type: Trap Card
+
+Description: Return all monsters you control to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

@@ -1,0 +1,13 @@
+Phantom Magician
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "HERO" monster with 1000 or less ATK from your Deck in face-up Defense Position.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 700
+Archetype: HERO
+Present in Sets:
+- Generation Force

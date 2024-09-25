@@ -1,0 +1,18 @@
+Performapal Hip Hippo
+Card Type: Effect Monster
+
+Description: After you Normal Summon this card, you can Tribute Summon 1 Level 7 or higher monster in face-up Attack Position during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Duelist Alliance: Deluxe Edition
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Starter Deck: Yuya

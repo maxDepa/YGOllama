@@ -1,0 +1,15 @@
+Ultimate Insect LV5
+Card Type: Effect Monster
+
+Description: If this card was Special Summoned by the effect of "Ultimate Insect LV3", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 "Ultimate Insect LV7" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)
+
+Type: Insect
+Attribute: WIND
+Level: 5
+Attack: 2300
+Defence: 900
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity

@@ -1,0 +1,17 @@
+Butterspy Protection
+Card Type: Trap Card
+
+Description: Target 1 face-up Attack Position monster on the field; change it to face-up Defense Position, also any damage you take for the rest of this turn is halved.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Butterspy
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Number Hunters
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

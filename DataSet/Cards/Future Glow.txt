@@ -1,0 +1,14 @@
+Future Glow
+Card Type: Spell Card
+
+Description: Activate this card by banishing 1 Psychic-Type monster from your Graveyard, and note its Level; all Psychic-Type monsters you control gain ATK equal to that Level x 200.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- High-Speed Riders

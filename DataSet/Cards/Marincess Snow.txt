@@ -1,0 +1,14 @@
+Marincess Snow
+Card Type: Trap Card
+
+Description: If a "Marincess" Link Monster(s) you control is destroyed by battle or card effect: Target 1 of those monsters; Special Summon 1 "Marincess" Link Monster from your Extra Deck with a lower Link Rating than that monster. (This is treated as a Link Summon.) It is unaffected by your opponent's card effects while you control it. You can only activate 1 "Marincess Snow" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Marincess
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

@@ -1,0 +1,17 @@
+Bashing Shield
+Card Type: Spell Card
+
+Description: Equip only to a Normal Summoned/Set monster. It gains 1000 ATK. You take no battle damage from attacks involving it.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Demo Deck 2016
+- Speed Duel Tournament Pack 3
+- Speed Duel: Trials of the Kingdom

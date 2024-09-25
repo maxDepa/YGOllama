@@ -1,0 +1,19 @@
+Slot Machine
+Card Type: Normal Monster
+
+Description: The machine's ability is said to vary according to its slot results.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2000
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Speed Duel: Scars of Battle
+- Spell Ruler
+- Spell Ruler

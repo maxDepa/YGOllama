@@ -1,0 +1,17 @@
+King Dragun
+Card Type: Fusion Monster
+
+Description: "Lord of D." + "Divine Dragon Ragnarok"
+Your opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Overload
+- Flaming Eternity
+- Flaming Eternity

@@ -1,0 +1,14 @@
+Xyz Encore
+Card Type: Spell Card
+
+Description: Target 1 face-up Xyz Monster your opponent controls that has Xyz Material; detach all Xyz Materials from it, and if you do, return it to the Extra Deck, then, if there is a Monster Card in the Graveyard among those detached Xyz Materials, Special Summon as many of those monsters as possible from the Graveyard to your opponent's side of the field in face-up Defense Position. Their Levels are reduced by 1 on the field. Cards and effects cannot be activated in response to this card's activation.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

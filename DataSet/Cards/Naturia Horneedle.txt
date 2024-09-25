@@ -1,0 +1,16 @@
+Naturia Horneedle
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster, you can Tribute 1 face-up "Naturia" monster you control, except this card, to destroy the Special Summoned monster.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 100
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,17 @@
+Abyss Actor - Super Producer
+Card Type: Link Monster
+
+Description: 2 monsters, including a Fiend monster
+During the Main Phase (Quick Effect): You can target 1 face-up card you control; destroy it, then you can apply 1 of these effects.
+● Place 1 "Abyss Playhouse - Fantastic Theater" from your Deck, face-up in your Field Zone.
+● Place 1 "Abyss Actor" Pendulum Monster from your Deck in your Pendulum Zone.
+You can only use this effect of "Abyss Actor - Super Producer" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: Abyss Actor
+Present in Sets:
+- Photon Hypernova

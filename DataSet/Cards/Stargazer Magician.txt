@@ -1,0 +1,22 @@
+Stargazer Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a "Magician" card or "Odd-Eyes" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.
+
+[ Monster Effect ] 
+Once per turn, when exactly 1 other Pendulum Monster you control (and no other cards) is returned to your hand by an opponent's card effect (except during the Damage Step): You can Special Summon 1 monster from your hand with the same name as that returned to the hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 1200
+Defence: 2400
+Archetype: Magician
+Present in Sets:
+- Master of Pendulum Structure Deck
+- Pendulum Evolution
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Starter Deck: Yuya
+- Super Starter: Space-Time Showdown

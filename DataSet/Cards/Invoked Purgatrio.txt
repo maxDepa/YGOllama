@@ -1,0 +1,15 @@
+Invoked Purgatrio
+Card Type: Fusion Monster
+
+Description: "Aleister the Invoker" + 1 FIRE monster
+This card gains 200 ATK for each card your opponent controls. This card can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Fiend
+Attribute: FIRE
+Level: 7
+Attack: 2300
+Defence: 2000
+Archetype: Invoked
+Present in Sets:
+- Battles of Legend: Armageddon
+- Fusion Enforcers

@@ -1,0 +1,18 @@
+Magician's Valkyria
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls cannot target face-up Spellcaster-Type monsters for attacks, except this one.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight
+- Collectible Tins 2010 Wave 2
+- Legendary Decks II
+- Shonen Jump Vol. 4, Issue 11 promotional card
+- Spellcaster's Command Structure Deck: Special Edition
+- Starter Deck: Yugi Reloaded

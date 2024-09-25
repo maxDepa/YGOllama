@@ -1,0 +1,16 @@
+Silent Graveyard
+Card Type: Spell Card
+
+Description: Discard 1 card; effects that activate in the GY this turn are negated.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Devastator
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- The Shining Darkness

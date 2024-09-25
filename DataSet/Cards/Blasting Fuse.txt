@@ -1,0 +1,14 @@
+Blasting Fuse
+Card Type: Trap Card
+
+Description: Activate only when all zones of this card's column are occupied. Destroy all cards in this column.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

@@ -1,0 +1,14 @@
+Cloudian - Smoke Ball
+Card Type: Normal Monster
+
+Description: Smoke Balls are newly born Cloudians. They fear being alone, and would rather swing and sway in the sky with their friends.
+
+Type: Fairy
+Attribute: WATER
+Level: 1
+Attack: 200
+Defence: 600
+Archetype: Cloudian
+Present in Sets:
+- Gladiator's Assault
+- Speed Duel GX: Duelists of Shadows

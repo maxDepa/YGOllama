@@ -1,0 +1,12 @@
+Man-Eating Plant
+Card Type: Normal Monster
+
+Description: A meat-eating plant that is attractive to the eye but dangerous when approached.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:

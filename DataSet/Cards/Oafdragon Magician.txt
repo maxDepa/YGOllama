@@ -1,0 +1,18 @@
+Oafdragon Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you have a "Magician" card in your other Pendulum Zone: You can add 1 face-up "Magician" or "Odd-Eyes" Pendulum Monster from your Extra Deck to your hand, except "Oafdragon Magician". You can only use this effect of "Oafdragon Magician" once per turn.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can target 1 "Magician" Pendulum Monster or "Odd-Eyes" monster in your Graveyard, except "Oafdragon Magician"; add it to your hand. You can only use this effect of "Oafdragon Magician" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 6
+Attack: 2100
+Defence: 1400
+Archetype: Magician
+Present in Sets:
+- Master of Pendulum Structure Deck
+- Pendulum Evolution

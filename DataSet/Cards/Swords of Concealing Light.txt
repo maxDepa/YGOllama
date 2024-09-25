@@ -1,0 +1,24 @@
+Swords of Concealing Light
+Card Type: Spell Card
+
+Description: Destroy this card during your 2nd Standby Phase after activation. When this card resolves, change all monsters your opponent controls to face-down Defense Position. Monsters your opponent controls cannot change their battle positions.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 3
+- Dinosmasher's Fury Structure Deck
+- Flaming Eternity
+- Flaming Eternity
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Sacred Beasts
+- Structure Deck: Warrior's Triumph
+- Structure Deck: Yugi Muto

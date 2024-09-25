@@ -1,0 +1,13 @@
+Achacha Chanbara
+Card Type: Effect Monster
+
+Description: During either player's turn, when a card or effect is activated that will inflict damage when it resolves: You can Special Summon this card from your hand, and if you do, inflict 400 damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1400
+Defence: 400
+Archetype: //
+Present in Sets:
+- Abyss Rising

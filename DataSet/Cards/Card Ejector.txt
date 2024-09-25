@@ -1,0 +1,16 @@
+Card Ejector
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 card in your opponent's Graveyard; banish that target.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 400
+Archetype: //
+Present in Sets:
+- Duel Terminal 5a
+- Duelist Pack Collection Tin 2008
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack

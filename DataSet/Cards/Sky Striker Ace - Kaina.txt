@@ -1,0 +1,17 @@
+Sky Striker Ace - Kaina
+Card Type: Link Monster
+
+Description: 1 non-EARTH "Sky Striker Ace" monster
+If this card is Special Summoned: You can target 1 face-up monster your opponent controls; it cannot attack until the end of your opponent's turn. Each time you activate a "Sky Striker" Spell Card, or its effect, gain 100 LP immediately after the card or effect resolves. You can only Special Summon "Sky Striker Ace - Kaina(s)" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Savage Strike

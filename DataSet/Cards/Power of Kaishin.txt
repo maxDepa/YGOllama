@@ -1,0 +1,16 @@
+Power of Kaishin
+Card Type: Spell Card
+
+Description: Equip only to an Aqua monster. It gains 300 ATK/DEF.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Speed Duel: Attack from the Deep

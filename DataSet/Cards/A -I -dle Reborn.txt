@@ -1,0 +1,14 @@
+A.I.dle Reborn
+Card Type: Spell Card
+
+Description: Target 1 "@Ignister" monster in your GY; Special Summon it, also you cannot Special Summon monsters for the rest of this turn after this card resolves, except Cyberse monsters. When an attack is declared involving 2 monsters: You can banish this card from your GY and 1 card from your hand, then target 1 of your "A.I." Spells/Traps that is banished or in your GY, except "A.I.dle Reborn"; add that card to your hand. You can only use each effect of "A.I.dle Reborn" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

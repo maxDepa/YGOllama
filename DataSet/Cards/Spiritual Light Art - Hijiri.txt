@@ -1,0 +1,13 @@
+Spiritual Light Art - Hijiri
+Card Type: Trap Card
+
+Description: Tribute 1 LIGHT monster to target 1 banished monster; your opponent can reveal 1 Trap Card from their hand to negate this card's effect, otherwise you Special Summon that monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord

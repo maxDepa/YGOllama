@@ -1,0 +1,24 @@
+Flame Swordsman
+Card Type: Fusion Monster
+
+Description: "Flame Manipulator" + "Masaki the Legendary Swordsman"
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Legends
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Millennium Pack
+- Retro Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Joey

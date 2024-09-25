@@ -1,0 +1,17 @@
+Genex Undine
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the Graveyard; add 1 "Genex Controller" from your Deck to your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Genex
+Present in Sets:
+- Astral Pack One
+- Duel Terminal 1
+- OTS Tournament Pack 25
+- Structure Deck: Freezing Chains
+- The Shining Darkness

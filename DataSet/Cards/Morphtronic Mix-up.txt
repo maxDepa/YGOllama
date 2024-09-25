@@ -1,0 +1,13 @@
+Morphtronic Mix-up
+Card Type: Trap Card
+
+Description: If you control 2 or more face-up "Morphtronic" monsters, select 2 cards your opponent controls. Destroy 1 card of your opponent's choice from those 2.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crimson Crisis

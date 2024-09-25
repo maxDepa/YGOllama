@@ -1,0 +1,13 @@
+Gemini Scorpion
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned, you can Special Summon 1 Level 4 or lower Gemini monster from your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 400
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

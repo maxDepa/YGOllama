@@ -1,0 +1,13 @@
+Yellow Dragon Ninja
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned, except with the effect of a "Ninja" monster or "Ninjitsu Art" card. Once per turn (Quick Effect): You can send 1 "Ninja" monster and 1 "Ninjitsu Art" card from your hand and/or face-up field to the GY, then target up to 2 Spells/Traps on the field; destroy them.
+
+Type: Dinosaur
+Attribute: WIND
+Level: 8
+Attack: 3000
+Defence: 1500
+Archetype: Ninja
+Present in Sets:
+- Shadows in Valhalla

@@ -1,0 +1,17 @@
+Red Dragon Archfiend/Assault Mode
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 "Red Dragon Archfiend" from your Graveyard.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 3500
+Defence: 2500
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis
+- Crimson Crisis
+- OTS Tournament Pack 10 (POR)
+- Structure Deck: The Crimson King

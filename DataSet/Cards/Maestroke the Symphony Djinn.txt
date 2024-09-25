@@ -1,0 +1,17 @@
+Maestroke the Symphony Djinn
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster your opponent controls; change it to face-down Defense Position. If a "Djinn" Xyz Monster you control would be destroyed, you can detach 1 Xyz Material from that monster instead.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 2300
+Archetype: Djinn
+Present in Sets:
+- Astral Pack Three
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Xyz Symphony

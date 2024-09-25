@@ -1,0 +1,13 @@
+Blizzard Falcon
+Card Type: Effect Monster
+
+Description: If this card's current ATK is higher than its original ATK: You can inflict 1500 damage to your opponent. This effect can only be used once while this card is face-up on the field. You can only use the effect of "Blizzard Falcon" once per turn.
+
+Type: Winged Beast
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

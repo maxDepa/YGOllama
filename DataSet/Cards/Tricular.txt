@@ -1,0 +1,13 @@
+Tricular
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 "Bicular" from your hand or Deck.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

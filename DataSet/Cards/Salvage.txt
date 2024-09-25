@@ -1,0 +1,22 @@
+Salvage
+Card Type: Spell Card
+
+Description: Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Duelist League 3 participation cards
+- Ghosts From the Past
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Realm of the Sea Emperor Structure Deck
+- Speed Duel: Streets of Battle City
+- Structure Deck: Freezing Chains
+- Structure Deck: Fury from the Deep

@@ -1,0 +1,15 @@
+Marincess Sleepy Maiden
+Card Type: Effect Monster
+
+Description: You can target 1 "Marincess" card you control; Special Summon this card from your hand, and if you do, it gains this effect.
+● While this card is in the Monster Zone, the targeted card cannot be destroyed by your opponent's card effects.
+You can banish this card from your GY, then target 1 "Marincess" Link Monster you control; equip it with 1 "Marincess" Link Monster from your GY. You can only use each effect of "Marincess Sleepy Maiden" once per turn.
+
+Type: Cyberse
+Attribute: WATER
+Level: 5
+Attack: 500
+Defence: 2500
+Archetype: Marincess
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

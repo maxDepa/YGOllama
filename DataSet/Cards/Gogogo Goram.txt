@@ -1,0 +1,13 @@
+Gogogo Goram
+Card Type: Effect Monster
+
+Description: If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 "Gogogo" monster from your Deck to the Graveyard.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 2300
+Defence: 0
+Archetype: Gogogo
+Present in Sets:
+- The New Challengers

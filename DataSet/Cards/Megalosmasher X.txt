@@ -1,0 +1,13 @@
+Megalosmasher X
+Card Type: Normal Monster
+
+Description: With its sound-baffling armor and gargantuan jaws, this primeval predator's phosphorescence was the only possible pardon for its primitive prey.
+
+Type: Dinosaur
+Attribute: WATER
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dinosmasher's Fury Structure Deck

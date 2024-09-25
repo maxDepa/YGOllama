@@ -1,0 +1,16 @@
+Magical Something
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. This card's Level is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell in your GY; Set that card to your Spell & Trap Zone. You can only use this effect of "Magical Something" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1300
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Structure Deck: Order of the Spellcasters
+- The Dark Illusion
+- The Dark Illusion Sneak Peek Participation Card

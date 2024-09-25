@@ -1,0 +1,15 @@
+Barrier Resonator
+Card Type: Tuner Monster
+
+Description: During either player's turn: You can send this card from your hand to the Graveyard, then target 1 Tuner monster you control; this turn, it cannot be destroyed by battle, also you take no battle damage from attacks involving it.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 800
+Archetype: Resonator
+Present in Sets:
+- 2-Player Starter Set
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

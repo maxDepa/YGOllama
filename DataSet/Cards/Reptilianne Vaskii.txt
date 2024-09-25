@@ -1,0 +1,13 @@
+Reptilianne Vaskii
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 2 face-up monsters with 0 ATK from anywhere on the field. Once per turn, you can select and destroy 1 face-up monster your opponent controls. There can only be 1 face-up "Reptilianne Vaskii" on the field.
+
+Type: Reptile
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Absolute Powerforce

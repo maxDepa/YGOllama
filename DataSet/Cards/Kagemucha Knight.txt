@@ -1,0 +1,17 @@
+Kagemucha Knight
+Card Type: Effect Monster
+
+Description: When you Normal Summon a Level 3 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Hero Decks
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Premium Collection Tin

@@ -1,0 +1,14 @@
+Rebuildeer
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle: You can target 1 Cyberse monster with 1500 or less ATK in your GY; Special Summon it.
+
+Type: Cyberse
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

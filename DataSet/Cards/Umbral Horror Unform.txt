@@ -1,0 +1,14 @@
+Umbral Horror Unform
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard while attacking a monster: You can Special Summon 2 "Umbral Horror" monsters from your Deck. You can only use the effect of "Umbral Horror Unform" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Umbral Horror
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

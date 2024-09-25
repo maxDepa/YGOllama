@@ -1,0 +1,15 @@
+Metalfoes Adamante
+Card Type: Fusion Monster
+
+Description: 1 "Metalfoes" monster + 1 monster with 2500 or less ATK
+
+Type: Psychic
+Attribute: FIRE
+Level: 5
+Attack: 2500
+Defence: 2500
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Pendulum Evolution
+- The Dark Illusion

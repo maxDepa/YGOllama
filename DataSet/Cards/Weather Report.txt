@@ -1,0 +1,16 @@
+Weather Report
+Card Type: Flip Effect Monster
+
+Description: FLIP: Destroys all of your opponent's face-up "Swords of Revealing Light" on the field. If "Swords of Revealing Light" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during your opponent's turn).
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 950
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

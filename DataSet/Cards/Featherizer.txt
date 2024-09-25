@@ -1,0 +1,13 @@
+Featherizer
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can send 1 Gemini monster from your Deck to the Graveyard and draw 1 card.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 2
+Attack: 700
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Warriors' Strike Structure Deck

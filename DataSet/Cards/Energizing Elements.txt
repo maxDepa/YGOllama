@@ -1,0 +1,13 @@
+Energizing Elements
+Card Type: Skill Card
+
+Description: You can declare FIRE, WATER, EARTH, or WIND. This turn, monsters with the declared Attribute gain 500 ATK and lose 400 DEF, also any battle damage they inflict is halved. If you control no monsters with the declared Attribute, flip this card over.
+
+Type: Bastion Misaw
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

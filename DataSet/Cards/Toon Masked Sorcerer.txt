@@ -1,0 +1,18 @@
+Toon Masked Sorcerer
+Card Type: Toon Monster
+
+Description: Cannot attack the turn it is Summoned. If "Toon World" on the field is destroyed, destroy this card. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Draw 1 card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 900
+Defence: 1400
+Archetype: Toon
+Present in Sets:
+- Astral Pack Eight
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium

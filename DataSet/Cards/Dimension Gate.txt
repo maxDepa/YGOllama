@@ -1,0 +1,17 @@
+Dimension Gate
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 monster you control; banish that target face-up. When an opponent's monster declares a direct attack: You can send this face-up card on the field to the Graveyard. If this card is sent to the Graveyard: You can Special Summon the monster banished by this card's effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Cosmo Blazer

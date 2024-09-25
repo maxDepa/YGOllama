@@ -1,0 +1,14 @@
+Chronomaly Crystal Chrononaut
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn, when this card is targeted for an attack: You can detach 1 Xyz Material from this card; this turn, this card cannot be destroyed by battle or by card effects, also your opponent takes any Battle Damage you would have taken from battles involving this card.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 3
+Attack: 2100
+Defence: 1000
+Archetype: Chronomaly
+Present in Sets:
+- Return of the Duelist

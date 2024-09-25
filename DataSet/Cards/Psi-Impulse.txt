@@ -1,0 +1,13 @@
+Psi-Impulse
+Card Type: Spell Card
+
+Description: Tribute 1 Psychic-Type monster. Return all cards in your opponent's hand to the Deck. Then, they draw 3 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

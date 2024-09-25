@@ -1,0 +1,15 @@
+Gizmek Naganaki, the Sunrise Signaler
+Card Type: Effect Monster
+
+Description: You can Tribute 1 Machine monster whose ATK equals its own DEF; Special Summon from your Deck, 1 Machine monster whose ATK equals its own DEF, with a lower Level than the Tributed monster. You can banish this card from your GY; add to your hand, 1 of your banished face-down Machine monsters whose ATK equals its own DEF. You can only use each effect of "Gizmek Naganaki, the Sunrise Signaler" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 2
+Attack: 950
+Defence: 950
+Archetype: Gizmek
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Amazing Defenders
+- Dawn of Majesty

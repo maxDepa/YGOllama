@@ -1,0 +1,15 @@
+Schwarzschild Limit Dragon
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster with 2000 or more ATK, you can Special Summon this card (from your hand).
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

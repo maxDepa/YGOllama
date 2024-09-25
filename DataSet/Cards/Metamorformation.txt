@@ -1,0 +1,14 @@
+Metamorformation
+Card Type: Spell Card
+
+Description: All "Metalfoes" monsters you control gain 300 ATK and DEF. While a "Metalfoes" card is in your Pendulum Zone, "Metalfoes" monsters you control, except Effect Monsters, are unaffected by your opponent's card effects.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Metalfoes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

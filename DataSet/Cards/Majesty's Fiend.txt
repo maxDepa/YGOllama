@@ -1,0 +1,16 @@
+Majesty's Fiend
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Neither player can activate monster effects.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tins
+- Duel Devastator
+- Maximum Gold: El Dorado
+- Primal Origin

@@ -1,0 +1,26 @@
+Dark Magician of Chaos
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card was Normal or Special Summoned this turn: You can target 1 Spell in your GY; add it to your hand. You can only use this effect of "Dark Magician of Chaos" once per turn. If this card destroys an opponent's monster by battle, after damage calculation: Banish that opponent's monster. If this face-up card would leave the field, banish it instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: Dark Magician
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 2
+- Dark Revelation Volume 2
+- Duelist Pack: Rivals of the Pharaoh
+- Duelist Saga
+- Gold Series
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Order of the Spellcasters
+- Yugi's Legendary Decks

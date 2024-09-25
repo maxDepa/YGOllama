@@ -1,0 +1,27 @@
+Mask of Weakness
+Card Type: Trap Card
+
+Description: Target 1 attacking monster; that target loses 700 ATK until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mask
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 1
+- Dark Legion Starter Deck
+- Demo Pack
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Battle City Box

@@ -1,0 +1,16 @@
+Megarock Dragon
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play a Rock-Type monster(s) in your Graveyard. The original ATK and DEF of this card become the number of Rock-Type monsters you removed from play when you Special Summoned this card x 700.
+
+Type: Rock
+Attribute: EARTH
+Level: 7
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Structure Deck: Invincible Fortress
+- The Lost Millennium
+- The Lost Millennium

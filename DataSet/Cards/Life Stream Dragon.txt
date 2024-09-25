@@ -1,0 +1,16 @@
+Life Stream Dragon
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + "Power Tool Dragon"
+When this card is Synchro Summoned: You can make your LP become 4000. You take no effect damage. If this face-up card on the field would be destroyed, you can banish 1 Equip Spell Card from your Graveyard instead.
+
+Type: Dragon
+Attribute: EARTH
+Level: 8
+Attack: 2900
+Defence: 2400
+Archetype: Power Tool
+Present in Sets:
+- Extreme Victory
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

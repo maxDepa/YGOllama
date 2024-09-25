@@ -1,0 +1,28 @@
+Offerings to the Doomed
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 2
+- Gold Series
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- OTS Tournament Pack 1
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3
+- Starter Deck: Kaiba Reloaded
+- Structure Deck: Powercode Link
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 E

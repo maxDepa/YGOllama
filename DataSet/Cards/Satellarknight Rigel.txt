@@ -1,0 +1,14 @@
+Satellarknight Rigel
+Card Type: Effect Monster
+
+Description: If this card is Summoned: You can target 1 "tellarknight" monster on the field; it gains 500 ATK, but send it to the Graveyard during the End Phase. You can only use this effect of "Satellarknight Rigel" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 700
+Archetype: Tellarknight
+Present in Sets:
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition

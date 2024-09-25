@@ -1,0 +1,13 @@
+Sea Lancer
+Card Type: Effect Monster
+
+Description: You can target any number of your banished Fish, Sea Serpent, and Aqua-Type monsters; equip them to this card. This effect can only be used once while this card is face-up on the field. If this face-up card on the field would be destroyed, you can destroy 1 of those cards, instead. This card gains 1000 ATK while equipped with a monster(s) by this effect.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 5
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Generation Force

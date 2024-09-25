@@ -1,0 +1,14 @@
+Blackwing - Hurricane the Tornado
+Card Type: Tuner Monster
+
+Description: Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

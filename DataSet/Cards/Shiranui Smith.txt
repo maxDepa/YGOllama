@@ -1,0 +1,14 @@
+Shiranui Smith
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the Graveyard as a Synchro Material: You can add 1 "Shiranui" card from your Deck to your hand, except "Shiranui Smith". You can only use this effect of "Shiranui Smith" once per turn. If this card is banished: You can activate this effect; this turn, Zombie-Type monsters you control cannot be destroyed by battle.
+
+Type: Zombie
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

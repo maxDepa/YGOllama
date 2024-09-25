@@ -1,0 +1,15 @@
+Boogie Trap
+Card Type: Spell Card
+
+Description: Discard 2 cards, then target 1 Trap in your GY; Set that target. It can be activated this turn. You can only activate 1 "Boogie Trap" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Code of the Duelist
+- Maximum Crisis: Special Edition
+- Structure Deck: Lair of Darkness

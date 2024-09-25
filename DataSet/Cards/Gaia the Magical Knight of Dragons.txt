@@ -1,0 +1,16 @@
+Gaia the Magical Knight of Dragons
+Card Type: Fusion Monster
+
+Description: 1 "Gaia The Fierce Knight" monster + 1 Level 5 Dragon monster
+This card's name becomes "Gaia the Dragon Champion" while on the field. You can only use each of the following effects of "Gaia the Magical Knight of Dragons" once per turn. During the Main Phase (Quick Effect): You can target 1 other card on the field; this card loses exactly 2600 ATK, and if it does, destroy that card. When this card destroys an opponent's monster by battle: You can make this card gain 2600 ATK.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2600
+Defence: 2100
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist
+- Rise of the Duelist

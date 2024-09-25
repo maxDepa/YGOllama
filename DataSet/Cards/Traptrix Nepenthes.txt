@@ -1,0 +1,16 @@
+Traptrix Nepenthes
+Card Type: Effect Monster
+
+Description: This card is unaffected by the effects of "Hole" Normal Trap Cards. If you activate a "Hole" Normal Trap Card (except during the Damage Step): You can add to your hand, or Special Summon, 1 "Traptrix" monster from your Deck, except "Traptrix Nepenthes". You can only use this effect of "Traptrix Nepenthes" once per turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: Traptrix
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Premium Gold: Return of the Bling
+- Structure Deck: Beware of Traptrix

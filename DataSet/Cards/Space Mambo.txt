@@ -1,0 +1,16 @@
+Space Mambo
+Card Type: Normal Monster
+
+Description: A Space Mambo floating in the vast universe. This living relic was found in the ruins of a super civilization on Alphard 4.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Demo Deck 2015
+- Flaming Eternity
+- Structure Deck: Fury from the Deep

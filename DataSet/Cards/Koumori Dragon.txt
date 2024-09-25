@@ -1,0 +1,15 @@
+Koumori Dragon
+Card Type: Normal Monster
+
+Description: A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution

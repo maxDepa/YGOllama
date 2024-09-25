@@ -1,0 +1,15 @@
+Angel O7
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned, it gains the following effect: ● The effects of Effect Monsters cannot be activated.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 1500
+Archetype: Fairy
+Present in Sets:
+- Light of Destruction
+- Speed Duel: Battle City Box
+- Yu-Gi-Oh! R Volume 4 promotional card

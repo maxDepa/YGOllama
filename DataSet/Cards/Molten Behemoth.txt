@@ -1,0 +1,13 @@
+Molten Behemoth
+Card Type: Normal Monster
+
+Description: A giant born from magma, it attacks with a magma punch.
+
+Type: Pyro
+Attribute: FIRE
+Level: 5
+Attack: 1000
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Pharaonic Guardian

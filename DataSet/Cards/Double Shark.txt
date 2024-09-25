@@ -1,0 +1,13 @@
+Double Shark
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can reduce the Levels of all Level 4 Fish-Type monsters you currently control by 1. This card can make a second attack during each Battle Phase.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

@@ -1,0 +1,15 @@
+Bellcat Fighter
+Card Type: Link Monster
+
+Description: 3 monsters, including a Token
+When this card destroys an opponent's monster by battle: You can Special Summon 1 "Bellcat Token" (Machine/WIND/Level 4/ATK 2000/DEF 2000) in Defense Position.
+
+Type: Machine
+Attribute: WIND
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

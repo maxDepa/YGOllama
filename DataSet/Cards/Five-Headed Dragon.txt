@@ -1,0 +1,19 @@
+Five-Headed Dragon
+Card Type: Fusion Monster
+
+Description: 5 Dragon monsters
+Must be Fusion Summoned. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.
+
+Type: Dragon
+Attribute: DARK
+Level: 12
+Attack: 5000
+Defence: 5000
+Archetype: //
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 3: Yugi's World
+- Millennium Pack
+- Premium Gold: Return of the Bling
+- Structure Deck: Dinosaur's Rage Special Set

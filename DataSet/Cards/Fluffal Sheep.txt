@@ -1,0 +1,16 @@
+Fluffal Sheep
+Card Type: Effect Monster
+
+Description: If you control a "Fluffal" monster, except "Fluffal Sheep", you can Special Summon this card (from your hand). You can return 1 other "Fluffal" monster you control to the hand; Special Summon 1 "Edge Imp" monster from your hand or Graveyard. You can only use this effect of "Fluffal Sheep" once per turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 800
+Archetype: Fluffal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal

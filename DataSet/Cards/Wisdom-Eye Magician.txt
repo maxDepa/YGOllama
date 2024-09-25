@@ -1,0 +1,20 @@
+Wisdom-Eye Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you have a "Magician" or "Performapal" card in your other Pendulum Zone: You can destroy this card, and if you do, place 1 "Magician" Pendulum Monster from your Deck in your Pendulum Zone, except "Wisdom-Eye Magician".
+
+[ Monster Effect ] 
+You can discard this card, then target 1 card in your Pendulum Zone, whose current Pendulum Scale is different from its original Pendulum Scale; its Pendulum Scale becomes its original Pendulum Scale until the end of this turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Magician
+Present in Sets:
+- Master of Pendulum Structure Deck
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Pendulum Evolution

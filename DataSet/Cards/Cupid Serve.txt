@@ -1,0 +1,13 @@
+Cupid Serve
+Card Type: Effect Monster
+
+Description: Unaffected by the activated effects of monsters, except monsters whose Level is equal or lower than this card. You can banish up to 3 cards from your GY; increase this card's Level by that number, until the end of this turn. You can only use this effect of "Cupid Serve" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 1000
+Defence: 600
+Archetype: //
+Present in Sets:
+- Ignition Assault

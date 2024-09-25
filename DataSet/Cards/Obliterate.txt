@@ -1,0 +1,13 @@
+Obliterate!!!
+Card Type: Trap Card
+
+Description: You can target 1 monster on the field; send 1 "Forbidden One" monster or "Exodia" card from your hand or Deck to the Graveyard, and if you do, return that target to the hand. If this card is sent from the Spell & Trap Zone to the Graveyard: You can target 1 "Forbidden One" monster or "Exodia" card in your Graveyard; add it to your hand. You can only use 1 "Obliterate!!!" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Exodia
+Present in Sets:
+- Legendary Decks II

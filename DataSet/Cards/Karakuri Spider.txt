@@ -1,0 +1,13 @@
+Karakuri Spider
+Card Type: Effect Monster
+
+Description: If this card attacks a DARK monster, destroy the attack target after damage calculation.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 500
+Archetype: Karakuri
+Present in Sets:
+- Starstrike Blast

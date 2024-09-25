@@ -1,0 +1,15 @@
+Infernity Necromancer
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, it is changed to Defense Position. If you have no cards in your hand, this card gains the following effect: Once per turn, you can select 1 "Infernity" monster in your Graveyard, except "Infernity Necromancer", and Special Summon it.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 2000
+Archetype: Infernity
+Present in Sets:
+- Duel Terminal 4
+- OTS Tournament Pack 14 (POR)
+- Stardust Overdrive

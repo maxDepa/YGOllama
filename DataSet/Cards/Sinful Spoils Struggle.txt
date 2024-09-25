@@ -1,0 +1,13 @@
+Sinful Spoils Struggle
+Card Type: Spell Card
+
+Description: Target any number of cards on the field (the max. number of targets on each side is the number of that player's "Sinful Spoils" cards that are banished or in their GY); destroy them. If this Set card is destroyed or banished by your opponent's activated effect: You can shuffle up to 2 cards from the field into the Deck. You can only activate 1 "Sinful Spoils Struggle" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sinful Spoils
+Present in Sets:
+- Legacy of Destruction

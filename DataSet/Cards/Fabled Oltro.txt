@@ -1,0 +1,16 @@
+Fabled Oltro
+Card Type: Tuner Monster
+
+Description: Once per turn, you can send 1 card from your hand to the Graveyard to Special Summon 1 Level 3 "Fabled" monster from your hand.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

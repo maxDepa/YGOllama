@@ -1,0 +1,13 @@
+Crystal Skull
+Card Type: Effect Monster
+
+Description: If this card is Summoned: Take 1000 damage, then change this card to Defense Position. During the End Phase, if you did not take effect damage this turn: You can either add to your hand or Special Summon 1 Rock monster with 0 ATK from your Deck. You can only use this effect of "Crystal Skull" once per turn.
+
+Type: Rock
+Attribute: WATER
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Ancient Treasure
+Present in Sets:
+- Battles of Legend: Crystal Revenge

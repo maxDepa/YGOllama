@@ -1,0 +1,18 @@
+Swing of Memories
+Card Type: Spell Card
+
+Description: Target 1 Normal Monster in your GY; Special Summon it, but destroy it during the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Duelist Pack: Jaden Yuki 3
+- Gladiator's Assault
+- OTS Tournament Pack 5
+- Speed Duel GX: Duelists of Shadows
+- Warriors' Strike Structure Deck

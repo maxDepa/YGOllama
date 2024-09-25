@@ -1,0 +1,12 @@
+Dark Shade
+Card Type: Normal Monster
+
+Description: A crystal monster that unleashes a brilliant light to blind enemies.
+
+Type: Fiend
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:

@@ -1,0 +1,36 @@
+Summoned Skull
+Card Type: Normal Monster
+
+Description: A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.
+
+(This card is always treated as an "Archfiend" card.)
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: Archfiend
+Present in Sets:
+- Anniversary Pack
+- Booster Pack Collectors Tins 2002
+- Dark Beginning 1
+- Dark Legends
+- Demo Deck 2015
+- Demo Pack
+- Duel Terminal 5a
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Millennium Pack
+- Retro Pack
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Summoned Skull Sample promotional card
+- Yugi's Legendary Decks

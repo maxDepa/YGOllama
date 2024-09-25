@@ -1,0 +1,14 @@
+Masked HERO Koga
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "Mask Change" and cannot be Special Summoned by other ways. This card gains 500 ATK for each monster your opponent controls. Once per turn, during either player's turn: You can banish 1 "HERO" monster from your Graveyard, then target 1 face-up monster on the field; that target loses ATK equal to the ATK of the monster banished to activate this effect, until the end of this turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 1800
+Archetype: Masked HERO
+Present in Sets:
+- Astral Pack Eight
+- HERO Strike Structure Deck

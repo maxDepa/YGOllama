@@ -1,0 +1,15 @@
+Plant Food Chain
+Card Type: Trap Card
+
+Description: Target 1 Plant-Type monster you control; equip this card to that target. It gains 500 ATK. If this card is destroyed by a card effect while equipped: You can target 1 Plant-Type monster in your Graveyard; Special Summon that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crossroads of Chaos

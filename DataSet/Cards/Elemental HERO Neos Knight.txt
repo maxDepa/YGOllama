@@ -1,0 +1,17 @@
+Elemental HERO Neos Knight
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + 1 Warrior monster
+Must be Fusion Summoned. Gains ATK equal to half the original ATK of the Warrior Fusion Material used for its Fusion Summon, except "Elemental HERO Neos". Can make a second attack during each Battle Phase. Your opponent takes no battle damage from attacks involving this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 1000
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Extreme Victory
+- Extreme Victory

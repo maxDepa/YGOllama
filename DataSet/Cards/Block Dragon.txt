@@ -1,0 +1,15 @@
+Block Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 EARTH monsters from your hand and/or GY. Rock monsters you control cannot be destroyed, except by battle. If this card is sent from the field to the GY: You can add up to 3 Rock monsters from your Deck to your hand, whose total Levels equal 8. You can only use this effect of "Block Dragon" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 2500
+Defence: 3000
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Secret Slayers
+- The Dark Illusion

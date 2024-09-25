@@ -1,0 +1,16 @@
+Gagaga Girl
+Card Type: Effect Monster
+
+Description: You can target 1 "Gagaga Magician" you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other "Gagaga" monsters as Xyz Material gains this effect.
+● When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: Gagaga
+Present in Sets:
+- Abyss Rising: Special Edition
+- Order of Chaos
+- Super Starter: V for Victory

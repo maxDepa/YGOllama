@@ -1,0 +1,13 @@
+Darksea Float
+Card Type: Effect Monster
+
+Description: When this card on the field is destroyed by a card effect and sent to the Graveyard, the owner of this card draws 1 card.
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 300
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

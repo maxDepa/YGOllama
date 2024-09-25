@@ -1,0 +1,21 @@
+The White Stone of Legend
+Card Type: Tuner Monster
+
+Description: If this card is sent to the GY: Add 1 "Blue-Eyes White Dragon" from your Deck to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 250
+Archetype: Blue-Eyes
+Present in Sets:
+- Crossroads of Chaos
+- Dragons Collide Structure Deck
+- Duelist Pack: Kaiba
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- OTS Tournament Pack 1
+- Saga of Blue-Eyes White Dragon Structure Deck

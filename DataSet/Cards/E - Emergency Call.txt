@@ -1,0 +1,20 @@
+E - Emergency Call
+Card Type: Spell Card
+
+Description: Add 1 "Elemental HERO" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Enemy of Justice
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 3
+- Ra Yellow Mega Pack

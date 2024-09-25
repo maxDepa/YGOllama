@@ -1,0 +1,14 @@
+"Infernoble Arms - Joyeuse"
+Card Type: Spell Card
+
+Description: While this card is equipped to a monster: You can target 1 FIRE Warrior monster in your GY; add it to your hand, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can Special Summon 1 FIRE Warrior monster from your hand. You can only use 1 ""Infernoble Arms - Joyeuse"" effect per turn, and only once that turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Noble Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

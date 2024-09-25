@@ -1,0 +1,22 @@
+Dragon's Gunfire
+Card Type: Spell Card
+
+Description: If you control a Dragon monster: Activate 1 of these effects;
+● Inflict 800 damage to your opponent.
+● Target 1 monster with 800 or less DEF; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Dragunity Legion Structure Deck
+- Legacy of Darkness
+- Legacy of Darkness
+- Mystic Fighters
+- Speed Duel GX: Duelists of Shadows

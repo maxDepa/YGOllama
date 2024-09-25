@@ -1,0 +1,14 @@
+Junk Blader
+Card Type: Effect Monster
+
+Description: You can banish 1 "Junk" monster from your Graveyard; this card gains 400 ATK until the end of this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Junk
+Present in Sets:
+- Judgment of the Light
+- Legendary Collection 5D's Mega Pack

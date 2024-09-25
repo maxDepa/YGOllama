@@ -1,0 +1,15 @@
+Kaiser Vorse Raider
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). If this card destroys an opponent's monster by battle: This card gains 500 ATK. If this card is destroyed by battle: The monster that destroyed it loses 500 ATK.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 5
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

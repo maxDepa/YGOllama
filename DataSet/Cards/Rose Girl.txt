@@ -1,0 +1,14 @@
+Rose Girl
+Card Type: Tuner Monster
+
+Description: If a face-up Plant monster(s) you control is sent to the GY (except during the Damage Step): You can Special Summon this card from your hand. If a Plant monster is on the field and this card is in your GY: You can add this card to your hand. You can only use 1 "Rose Girl" effect per turn, and only once that turn.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 600
+Archetype: Rose
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

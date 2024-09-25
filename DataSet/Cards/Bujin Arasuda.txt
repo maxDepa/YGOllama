@@ -1,0 +1,14 @@
+Bujin Arasuda
+Card Type: Effect Monster
+
+Description: If a "Bujin" monster in your Graveyard or face-up on your side of the field is banished (except during the Damage Step): You can Special Summon this card from your hand in face-up Defense Position. Once per turn, during the End Phase, if a "Bujin" card was added from your Deck to your hand this turn, except by drawing it, while you controlled this face-up card: You can draw 1 card, then discard 1 card. You can only control 1 "Bujin Arasuda".
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1900
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

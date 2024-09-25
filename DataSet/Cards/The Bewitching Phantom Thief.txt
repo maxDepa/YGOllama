@@ -1,0 +1,12 @@
+The Bewitching Phantom Thief
+Card Type: Normal Monster
+
+Description: An elegant thief with a black cloak that charms its enemies.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 700
+Archetype: //
+Present in Sets:

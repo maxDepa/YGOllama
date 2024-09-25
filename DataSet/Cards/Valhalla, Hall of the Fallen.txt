@@ -1,0 +1,21 @@
+Valhalla, Hall of the Fallen
+Card Type: Spell Card
+
+Description: Once per turn: You can Special Summon 1 Fairy monster from your hand. You must control no monsters to activate and to resolve this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Destiny Soldiers
+- Lost Sanctuary Structure Deck
+- Premium Pack 2 (TCG)
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Structure Deck: Wave of Light
+- Valiant Smashers

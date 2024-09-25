@@ -1,0 +1,15 @@
+Neo Bug
+Card Type: Normal Monster
+
+Description: A huge bug-like monster said to come from another planet. It gathers in swarms.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

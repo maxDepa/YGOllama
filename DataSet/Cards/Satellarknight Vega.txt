@@ -1,0 +1,14 @@
+Satellarknight Vega
+Card Type: Effect Monster
+
+Description: If this card is Summoned: You can Special Summon 1 "tellarknight" monster from your hand, except "Satellarknight Vega". You can only use this effect of "Satellarknight Vega" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: Tellarknight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

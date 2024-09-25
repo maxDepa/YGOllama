@@ -1,0 +1,14 @@
+Ninjitsu Art of Duplication
+Card Type: Trap Card
+
+Description: Tribute 1 "Ninja" monster; Special Summon any number of "Ninja" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 20

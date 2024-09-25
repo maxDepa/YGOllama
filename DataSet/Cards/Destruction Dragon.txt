@@ -1,0 +1,14 @@
+Destruction Dragon
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "The Fang of Critias", using "Ring of Destruction". Once per turn: You can target 1 card your opponent controls; destroy it. Then, if it was a Monster Card, inflict damage to your opponent equal to its original ATK.
+
+Type: Dragon
+Attribute: FIRE
+Level: 8
+Attack: 2000
+Defence: 3000
+Archetype: Legendary Knight
+Present in Sets:
+- Legendary Collection Kaiba
+- Legendary Collection Kaiba Mega Pack

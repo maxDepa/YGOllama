@@ -1,0 +1,20 @@
+Number 10: Illumiknight
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card; send 1 card from your hand to the Graveyard, and if you do, draw 1 card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2400
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Collectible Tins 2011 Wave 2
+- Duel Terminal 7b
+- Photon Shockwave
+- Photon Shockwave
+- Star Pack 2013
+- Star Pack 2013

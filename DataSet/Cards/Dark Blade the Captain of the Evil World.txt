@@ -1,0 +1,13 @@
+Dark Blade the Captain of the Evil World
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 Level 4 or lower LIGHT monster your opponent controls; equip it to this card. (You can only equip 1 monster at a time to this card with this effect.) If this card on the field would be destroyed, the monster equipped to it with this effect is destroyed, instead.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Order of Chaos

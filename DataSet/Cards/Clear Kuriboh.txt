@@ -1,0 +1,16 @@
+Clear Kuriboh
+Card Type: Effect Monster
+
+Description: When your opponent activates a monster effect that would inflict damage (Quick Effect): You can discard this card; negate the activation. When an opponent's monster declares a direct attack: You can banish this card from your GY; draw 1 card, and if it is a monster, you can Special Summon it, then change the attack target to it. You can only use this effect of "Clear Kuriboh" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- Yu-Gi-Oh! Advent Calendar (2019)
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

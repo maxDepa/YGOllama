@@ -1,0 +1,30 @@
+Effect Veiler
+Card Type: Tuner Monster
+
+Description: During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duel Devastator
+- Duelist Pack: Yusei 3
+- Duelist Revolution
+- Duelist Revolution
+- Duelist Saga
+- Eternity Code
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Noble Knights of the Round Table Power-Up Pack
+- Order of Chaos: Special Edition
+- Premium Gold
+- Starter Deck: Link Strike
+- Structure Deck: Albaz Strike
+- Structure Deck: Powercode Link
+- Structure Deck: Spirit Charmers
+- Synchron Extreme Structure Deck

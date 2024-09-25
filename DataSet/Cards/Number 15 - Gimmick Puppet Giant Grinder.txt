@@ -1,0 +1,16 @@
+Number 15: Gimmick Puppet Giant Grinder
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+Up to twice per turn, during your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Special Summoned monster your opponent controls; destroy it, then if it was an Xyz Monster, inflict damage to your opponent equal to its original ATK.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 1500
+Defence: 2500
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Season 3
+- Maximum Gold
+- Number Hunters

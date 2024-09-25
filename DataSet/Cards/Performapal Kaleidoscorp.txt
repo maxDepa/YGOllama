@@ -1,0 +1,20 @@
+Performapal Kaleidoscorp
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+All LIGHT monsters you control gain 300 ATK.
+
+[ Monster Effect ] 
+Once per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.
+
+Type: Insect
+Attribute: LIGHT
+Level: 6
+Attack: 100
+Defence: 2300
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

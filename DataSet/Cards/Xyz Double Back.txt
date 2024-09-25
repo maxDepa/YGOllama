@@ -1,0 +1,13 @@
+Xyz Double Back
+Card Type: Spell Card
+
+Description: During the turn a face-up Xyz Monster you control was destroyed, if you control no monsters: Target 1 Xyz Monster in your Graveyard that was destroyed this turn and 1 monster in your Graveyard with ATK less than or equal to that Xyz Monster's; Special Summon these targets, but they are destroyed during the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

@@ -1,0 +1,14 @@
+Outer Entity Nyarla
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+When this card is Xyz Summoned: You can discard any number of cards; increase this card's Rank by the number of discarded cards. Once per turn, while this card has Xyz Material: You can target 1 monster in your GY; detach all materials from this card, and if you do, attach that target to this card as material. When a monster is attached by this effect, this card's Type and Attribute become the same as that monster's original Type and Attribute.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Shadows in Valhalla

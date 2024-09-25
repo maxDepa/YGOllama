@@ -1,0 +1,14 @@
+A.I. Love Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Cyberse Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you use your "@Ignister" monster as Fusion Material, you can also use 1 Link Monster your opponent controls as material. You can only activate 1 "A.I. Love Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

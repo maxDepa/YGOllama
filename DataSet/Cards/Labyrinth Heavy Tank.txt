@@ -1,0 +1,13 @@
+Labyrinth Heavy Tank
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing. Cannot attack the turn it is Normal Summoned. During your Main Phase: You can place 1 of your "Sanga of the Thunder", "Kazejin", or "Suijin" that is banished, or in your hand or Deck, face-up in your Spell & Trap Zone as a Continuous Spell, then, if you control a "Labyrinth Wall" card, you can destroy 1 monster your opponent controls. You can only use this effect of "Labyrinth Heavy Tank" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Maze of Memories

@@ -1,0 +1,14 @@
+Rindbrumm the Striking Dragon
+Card Type: Fusion Monster
+
+Description: "Fallen of Albaz" + 1 Beast, Beast-Warrior, or Winged Beast monster
+When a Fusion, Synchro, Xyz, or Link Monster's effect is activated (Quick Effect): You can negate that effect, then you can return 1 monster from the field to the hand. During your opponent's turn, while this card is in your GY (Quick Effect): You can target 1 "Fallen of Albaz" in your GY; Special Summon either that monster or this card, and banish the other. You can only use each effect of "Rindbrumm the Striking Dragon" once per turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Albaz Dragon
+Present in Sets:
+- Photon Hypernova

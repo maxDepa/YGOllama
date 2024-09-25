@@ -1,0 +1,15 @@
+Shiranui Style Solemnity
+Card Type: Spell Card
+
+Description: This card's name becomes "Shiranui Style Synthesis" while in the Spell & Trap Zone. Once per turn, you can activate 1 of these effects.
+● Banish 1 Zombie monster from your GY; the Normal and Special Summons of your Zombie monsters cannot be negated for the rest of this turn (even if this card leaves the field).
+● Target 1 Zombie monster you control; banish it, then you can send 1 Zombie monster with 0 DEF from your Deck to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- Savage Strike

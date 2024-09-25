@@ -1,0 +1,21 @@
+Imperial Order
+Card Type: Trap Card
+
+Description: Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duelist Saga
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Structure Deck: Rokket Revolt

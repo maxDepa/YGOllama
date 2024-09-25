@@ -1,0 +1,16 @@
+Blue Rose Dragon
+Card Type: Effect Monster
+
+Description: When this card on the field is destroyed and sent to the GY: You can target 1 "Black Rose Dragon" or 1 Plant monster in your GY; Special Summon that monster.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Rose Dragon
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

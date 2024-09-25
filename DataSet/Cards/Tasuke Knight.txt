@@ -1,0 +1,18 @@
+Tasuke Knight
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack, while you have no cards in your hand and this card is in your Graveyard: You can Special Summon this card from your Graveyard, then end the Battle Phase. You can only use this effect of "Tasuke Knight" once per Duel.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 100
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Galactic Overlord
+- Star Pack 2014
+- Star Pack 2014
+- Super Starter: V for Victory

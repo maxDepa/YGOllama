@@ -1,0 +1,14 @@
+Salamangreat Spinny
+Card Type: Effect Monster
+
+Description: If you control a "Salamangreat" card: You can discard this card, then target 1 face-up monster on the field; it gains 500 ATK until the end of this turn. If you control a "Salamangreat" monster other than "Salamangreat Spinny" and this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Salamangreat Spinny" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 1500
+Archetype: Salamangreat
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano
+- Structure Deck: Soulburner

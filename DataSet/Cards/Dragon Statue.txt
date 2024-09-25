@@ -1,0 +1,12 @@
+Dragon Statue
+Card Type: Normal Monster
+
+Description: A stone warrior with the heart of a dragon.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 900
+Archetype: //
+Present in Sets:

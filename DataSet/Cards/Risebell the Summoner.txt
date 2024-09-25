@@ -1,0 +1,18 @@
+Risebell the Summoner
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).
+
+[ Monster Effect ] 
+''A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.''
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Risebell
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

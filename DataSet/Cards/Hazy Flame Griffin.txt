@@ -1,0 +1,13 @@
+Hazy Flame Griffin
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster, and all the monsters (if any) on your side of the field and in your Graveyard are FIRE (and only FIRE), you can Special Summon this card (from your hand). Your opponent cannot target this card with card effects.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 6
+Attack: 200
+Defence: 2100
+Archetype: Hazy
+Present in Sets:
+- Cosmo Blazer

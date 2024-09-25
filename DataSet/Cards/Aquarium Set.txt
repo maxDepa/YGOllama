@@ -1,0 +1,14 @@
+Aquarium Set
+Card Type: Spell Card
+
+Description: All WATER monsters you control gain 300 ATK and DEF. All "Aquaactress" monsters you control gain 300 ATK and DEF. If this card is sent from the field to the Graveyard: You can target 1 Aqua-Type monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua-Type monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Aquaactress
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

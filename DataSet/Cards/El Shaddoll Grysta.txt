@@ -1,0 +1,16 @@
+El Shaddoll Grysta
+Card Type: Fusion Monster
+
+Description: 1 "Shaddoll" monster + 1 FIRE monster
+Must first be Fusion Summoned. When your opponent would Special Summon a monster(s) while you have a "Shaddoll" card in your hand (Quick Effect): You can negate the Summon, and if you do, destroy that monster, then send 1 "Shaddoll" card from your hand to the GY. You can only use this effect of "El Shaddoll Grysta" once per turn. If this card is sent to the GY: You can target 1 "Shaddoll" Spell/Trap in your GY; add it to your hand.
+
+Type: Rock
+Attribute: FIRE
+Level: 7
+Attack: 2450
+Defence: 1950
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Structure Deck: Shaddoll Showdown
+- The New Challengers

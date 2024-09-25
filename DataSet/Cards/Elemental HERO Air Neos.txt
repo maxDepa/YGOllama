@@ -1,0 +1,15 @@
+Elemental HERO Air Neos
+Card Type: Fusion Monster
+
+Description: "Elemental Hero Neos" + "Neo-Spacian Air Hummingbird"
+This card can only be Special Summoned from your Extra Deck by returning the above cards you control to the Deck. (You do not use "Polymerization".) While your Life Points are lower than your opponent's, this card gains ATK equal to the difference. This card returns to the Extra Deck during the End Phase.
+
+Type: Warrior
+Attribute: WIND
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Strike of Neos
+- Strike of Neos

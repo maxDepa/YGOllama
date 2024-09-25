@@ -1,0 +1,33 @@
+Nobleman of Crossout
+Card Type: Spell Card
+
+Description: Target 1 face-down monster on the field; destroy that target, and if you do, banish it, then, if it was a Flip monster, each player reveals their Main Deck, then banishes all cards from it with that monster's name.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Dark Beginning 1
+- Duel Terminal 3
+- Duelist League 14 participation cards
+- Hobby League 6 participation card A
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Kaiba Evolution
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Dragon's Roar
+- Structure Deck: Lord of the Storm
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Zombie Madness
+- The Dark Emperor Structure Deck
+- Turbo Pack: Booster Three

@@ -1,0 +1,13 @@
+Gem-Elephant
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 1900
+Archetype: Gem-
+Present in Sets:
+- Generation Force

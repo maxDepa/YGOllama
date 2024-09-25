@@ -1,0 +1,15 @@
+Ray of Hope
+Card Type: Trap Card
+
+Description: Add 2 LIGHT monsters from your Graveyard to your Deck and shuffle it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

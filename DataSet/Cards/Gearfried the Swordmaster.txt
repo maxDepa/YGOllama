@@ -1,0 +1,19 @@
+Gearfried the Swordmaster
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned with "Release Restraint". Each time an Equip Card(s) is equipped to this card: Target 1 monster your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2600
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Tournament Pack 4
+- Speed Duel: Scars of Battle
+- Structure Deck: Warrior's Triumph

@@ -1,0 +1,19 @@
+The Shallow Grave
+Card Type: Spell Card
+
+Description: Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duel Terminal 3
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Rise of the Dragon Lords Structure Deck
+- Speed Duel: Arena of Lost Souls

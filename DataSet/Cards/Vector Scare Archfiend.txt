@@ -1,0 +1,14 @@
+Vector Scare Archfiend
+Card Type: Link Monster
+
+Description: 2+ Cyberse monsters
+When this card destroys an opponent's monster by battle and sends it to the GY: You can Tribute 1 monster that this card points to; Special Summon that destroyed monster to any zone this card points to. If you Special Summon to your opponent's field by this effect, this card can make a second attack during this Battle Phase (although your opponent gains control of that Special Summoned monster).
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Extreme Force

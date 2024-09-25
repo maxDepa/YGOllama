@@ -1,0 +1,15 @@
+Fairy Cheer Girl
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Fairy-Type monsters
+You can detach 1 Xyz Material from this card; draw 1 card. You can only use this effect of "Fairy Cheer Girl" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Lord of the Tachyon Galaxy

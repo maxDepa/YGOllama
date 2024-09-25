@@ -1,0 +1,18 @@
+Light-Imprisoning Mirror
+Card Type: Trap Card
+
+Description: Negate all LIGHT monster effects activated on the field or in the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Duel Terminal 7b
+- Duelist League 14 participation cards
+- Gladiator's Assault
+- Magnificent Mavens
+- Turbo Pack: Booster Two

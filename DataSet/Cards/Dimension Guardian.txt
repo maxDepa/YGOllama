@@ -1,0 +1,15 @@
+Dimension Guardian
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 face-up Attack Position monster you control. It cannot be destroyed by battle or card effects. If the targeted monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

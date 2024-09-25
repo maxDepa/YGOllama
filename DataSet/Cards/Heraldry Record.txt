@@ -1,0 +1,13 @@
+Heraldry Record
+Card Type: Trap Card
+
+Description: When an effect of your opponent's Xyz Monster is activated by detaching its own Xyz Material(s): Negate the activation, and if you do, destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Heraldry
+Present in Sets:
+- Number Hunters

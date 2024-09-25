@@ -1,0 +1,14 @@
+Genex Blastfan
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned, you can add 1 DARK "Genex" monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1300
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

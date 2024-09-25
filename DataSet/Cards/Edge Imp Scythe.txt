@@ -1,0 +1,13 @@
+Edge Imp Scythe
+Card Type: Effect Monster
+
+Description: During your opponent's Main Phase (Quick Effect): You can reveal this card in your hand; Fusion Summon 1 "Frightfur" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, including this card in your hand. If a "Frightfur" Fusion Monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of "Edge Imp Scythe" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 0
+Archetype: Edge Imp
+Present in Sets:
+- Rise of the Duelist

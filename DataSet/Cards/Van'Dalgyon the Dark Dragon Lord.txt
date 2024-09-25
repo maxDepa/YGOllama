@@ -1,0 +1,19 @@
+Van'Dalgyon the Dark Dragon Lord
+Card Type: Effect Monster
+
+Description: If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap:
+● Spell: Inflict 1500 damage to your opponent.
+● Trap: Target 1 card your opponent controls; destroy that target.
+● Monster: Target 1 monster in your Graveyard; Special Summon it.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Collectible Tins 2010 Wave 1
+- Shonen Jump Vol. 6, Issue 3 promotional card
+- Yu-Gi-Oh! R Volume 1 promotional card

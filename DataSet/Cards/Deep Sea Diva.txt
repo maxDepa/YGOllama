@@ -1,0 +1,19 @@
+Deep Sea Diva
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent monster from your Deck.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 2
+Attack: 200
+Defence: 400
+Archetype: //
+Present in Sets:
+- Duelist Saga
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Raging Battle
+- Realm of the Sea Emperor Structure Deck
+- Turbo Pack: Booster Four

@@ -1,0 +1,15 @@
+Invoked Raidjin
+Card Type: Fusion Monster
+
+Description: "Aleister the Invoker" + 1 WIND monster
+Once per turn, during either player's turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.
+
+Type: Warrior
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 2400
+Archetype: Invoked
+Present in Sets:
+- Battles of Legend: Armageddon
+- Fusion Enforcers

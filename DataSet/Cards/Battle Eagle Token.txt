@@ -1,0 +1,12 @@
+Battle Eagle Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Number 42: Galaxy Tomahawk". Destroy this Token during the End Phase of the turn it is Special Summoned.
+
+Type: Machine
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

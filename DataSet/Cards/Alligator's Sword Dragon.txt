@@ -1,0 +1,21 @@
+Alligator's Sword Dragon
+Card Type: Fusion Monster
+
+Description: "Baby Dragon" + "Alligator's Sword"
+This card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.
+
+Type: Dragon
+Attribute: WIND
+Level: 5
+Attack: 1700
+Defence: 1500
+Archetype: Alligator
+Present in Sets:
+- Duel Terminal 4
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Turbo Pack: Booster Eight
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

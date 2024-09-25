@@ -1,0 +1,15 @@
+White Night Queen
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Once per turn: You can target 1 Set card; destroy that target.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Order of Chaos
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

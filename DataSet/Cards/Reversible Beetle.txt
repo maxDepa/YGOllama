@@ -1,0 +1,15 @@
+Reversible Beetle
+Card Type: Effect Monster
+
+Description: FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).
+If this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of "Reversible Beetle" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Rising Rampage
+- Speed Duel: Streets of Battle City

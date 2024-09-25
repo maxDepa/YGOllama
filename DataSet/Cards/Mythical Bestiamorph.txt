@@ -1,0 +1,14 @@
+Mythical Bestiamorph
+Card Type: Trap Card
+
+Description: Each time an opponent's monster effect is activated, place 1 Spell Counter on this card when that effect resolves. You can send this card with 6 or more Spell Counters to the GY; add 1 Spell from your Deck to your hand. You can only use this effect of "Mythical Bestiamorph" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Force
+- Structure Deck: Order of the Spellcasters

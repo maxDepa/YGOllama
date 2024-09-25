@@ -1,0 +1,14 @@
+D/D/D Headhunt
+Card Type: Trap Card
+
+Description: If you control a "D/D/D" monster: Target 1 face-up monster your opponent controls; take control of it until the End Phase of the next turn, but its effects are negated, it cannot declare an attack, also if it is a monster Special Summoned from the Extra Deck, it is also treated as a "D/D/D" monster. You can only activate 1 "D/D/D Headhunt" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

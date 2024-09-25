@@ -1,0 +1,21 @@
+Colossal Fighter
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+This card gains 100 ATK for every Warrior-Type monster in any Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can target 1 Warrior-Type monster in either Graveyard; Special Summon that target.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Duelist League 2010 participation cards
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 10 (POR)
+- Premium Gold
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Turbo Pack: Booster Five
+- Valiant Smashers

@@ -1,0 +1,13 @@
+Byroad Sacrifice
+Card Type: Trap Card
+
+Description: Activate only if a monster on your side of the field is destroyed by battle. Special Summon 1 "Cyber Ogre" from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

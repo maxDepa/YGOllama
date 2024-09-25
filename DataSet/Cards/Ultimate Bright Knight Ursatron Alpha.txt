@@ -1,0 +1,14 @@
+Ultimate Bright Knight Ursatron Alpha
+Card Type: Effect Monster
+
+Description: (This card is always treated as an "Ursarctic" and "Drytron" card.)
+Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. If you control an "Ursarctic" or "Drytron" monster other than "Ultimate Bright Knight Ursatron Alpha": You can Special Summon this card from your hand, then you can add 1 "Ursarctic" or "Drytron" Spell/Trap from your Deck to your hand. You can only use this effect of "Ultimate Bright Knight Ursatron Alpha" once per turn.
+
+Type: Machine
+Attribute: WATER
+Level: 7
+Attack: 2000
+Defence: 700
+Archetype: Ursarctic
+Present in Sets:
+- Duelist Nexus

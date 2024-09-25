@@ -1,0 +1,14 @@
+Obese Marmot of Nefariousness
+Card Type: Normal Monster
+
+Description: An ill-mannered field varmint that will sink its teeth into anything.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 750
+Defence: 800
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

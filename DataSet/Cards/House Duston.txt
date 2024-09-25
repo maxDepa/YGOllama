@@ -1,0 +1,13 @@
+House Duston
+Card Type: Effect Monster
+
+Description: When this face-up card on the field is destroyed by your opponent's card (either by battle, and it was face-up at the start of the Damage Step, or by card effect) and sent to the Graveyard: You can Special Summon any "Duston" monsters of your choice from your hand and/or Deck to anywhere on the field, but you must Special Summon an equal number of monsters on each side.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 1000
+Archetype: Duston
+Present in Sets:
+- Abyss Rising

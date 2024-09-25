@@ -1,0 +1,16 @@
+Reincarnate Unveil Mail
+Card Type: Spell Card
+
+Description: (This card is always treated as an "Armored Xyz" card.)
+An Xyz Monster equipped with this card gains these effects.
+● Cannot be destroyed by battle.
+● Once per turn, if this card battled this turn (Quick Effect): You can return 1 Equip Card equipped to this card to the hand, then, immediately after this effect resolves, Xyz Summon 1 WATER Xyz Monster.
+Once per turn, during the End Phase, if this card is in your GY because it was sent there this turn: You can equip it to an Xyz Monster you control. You can only activate 1 "Reincarnate Unveil Mail" per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Xyz
+Present in Sets:

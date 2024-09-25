@@ -1,0 +1,16 @@
+Raging Eria
+Card Type: Effect Monster
+
+Description: Once per turn, you can Tribute 1 WATER monster (except this card) to Special Summon 1 WATER monster from your hand. The monster Special Summoned by this effect is destroyed if "Raging Eria" is removed from your side of the field.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 A

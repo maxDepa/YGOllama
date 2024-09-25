@@ -1,0 +1,14 @@
+Fabled Treason
+Card Type: Trap Card
+
+Description: Target 1 "Fabled" monster in your GY and 1 face-up card on the field; discard 1 card, and if you do, Special Summon that monster from your GY, and if you do that, destroy that card on the field. You can only activate 1 "Fabled Treason" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fabled
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

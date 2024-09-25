@@ -1,0 +1,14 @@
+Celestia
+Card Type: Spell Card
+
+Description: All Wyrm-Type monsters gain 300 ATK and DEF. Once per turn: You can banish 3 Wyrm-Type monsters from your Graveyard, then target 1 card on the field; destroy it.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

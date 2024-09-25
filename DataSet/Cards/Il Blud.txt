@@ -1,0 +1,19 @@
+Il Blud
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+● Once per turn: You can Special Summon 1 Zombie monster from your hand or from either GY, but if this card leaves the field, destroy all Zombie monsters Special Summoned by this effect.
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos: Special Edition
+- Legendary Collection 4: Joey's World Mega Pack
+- Secret Slayers
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Tactical Evolution

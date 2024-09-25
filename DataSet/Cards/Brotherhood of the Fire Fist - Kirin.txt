@@ -1,0 +1,15 @@
+Brotherhood of the Fire Fist - Kirin
+Card Type: Synchro Monster
+
+Description: 1 FIRE Tuner + 1 or more non-Tuner "Fire Fist" monsters
+When this card is Synchro Summoned: You can Set 1 "Fire Formation" Spell/Trap Card directly from your Deck. All monsters your opponent controls lose 100 ATK for each face-up Spell/Trap Card you control.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2000
+Defence: 2800
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

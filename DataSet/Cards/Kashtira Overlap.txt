@@ -1,0 +1,13 @@
+Kashtira Overlap
+Card Type: Spell Card
+
+Description: Target 1 monster on the field; banish 1 monster with 1500 ATK/2100 DEF from your hand, your GY, or face-up on either field, and if you do, the targeted monster gains 1500 ATK. If this card is banished and you control a "Kashtira" monster: You can target 1 Effect Monster your opponent controls; negate its effects until the end of this turn. You can only use each effect of "Kashtira Overlap" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kashtira
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,13 @@
+Tenpai Dragon Paidra
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add to your hand or Set 1 "Sangen" Spell/Trap from your Deck. You can only use this effect of "Tenpai Dragon Paidra" once per turn. You take no battle damage from battles involving your FIRE Dragon monsters. Once per turn, during the Battle Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Dragon
+Attribute: FIRE
+Level: 3
+Attack: 1700
+Defence: 1000
+Archetype: Tenpai Dragon
+Present in Sets:
+- Legacy of Destruction

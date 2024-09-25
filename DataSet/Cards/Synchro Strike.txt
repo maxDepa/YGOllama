@@ -1,0 +1,14 @@
+Synchro Strike
+Card Type: Trap Card
+
+Description: Target Synchro Summoned monster gains 500 ATK for each Synchro Material Monster used to Summon it, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Duelist Pack: Yusei

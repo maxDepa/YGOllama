@@ -1,0 +1,15 @@
+Vision HERO Witch Raider
+Card Type: Effect Monster
+
+Description: To Tribute Summon this card face-up, you can Tribute Trap(s) you control, as well as monsters. When this card is Normal Summoned: You can destroy all Spells and Traps your opponent controls. You cannot Special Summon monsters during the turn you activate this effect, except "HERO" monsters.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 1900
+Archetype: Vision HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge
+- Battles of Legend: Light's Revenge

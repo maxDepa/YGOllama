@@ -1,0 +1,13 @@
+Emperor Tanuki's Critter Count
+Card Type: Effect Monster
+
+Description: Cannot be Tributed while face-up in the Monster Zone. While this card is in the Monster Zone, when you Ritual Summon, you can also send 1 monster from your Extra Deck to the GY as 1 of the monsters used for the Ritual Summon. You can only use this effect of "Emperor Tanuki's Critter Count" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Power of the Elements

@@ -1,0 +1,13 @@
+Ghost of a Grudge
+Card Type: Trap Card
+
+Description: If your opponent has 8 or more cards in their Graveyard: The ATK of all monsters your opponent currently controls become 0.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Premium Gold

@@ -1,0 +1,13 @@
+Majesty's Pegasus
+Card Type: Spell Card
+
+Description: All "Majespecter" monsters on the field gain 300 ATK and DEF. You can Tribute 1 WIND Spellcaster-Type monster; Special Summon 1 Level 4 or lower "Majespecter" monster from your Deck. You can only use this effect of "Majesty's Pegasus" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Majespecter
+Present in Sets:
+- Dimension of Chaos

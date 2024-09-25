@@ -1,0 +1,14 @@
+Reinforcement of the Army's Troops
+Card Type: Spell Card
+
+Description: When an attack is declared involving your Warrior monster: You can Special Summon 1 Level 4 or lower Warrior monster from your hand. You can only use this effect of "Reinforcement of the Army's Troops" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

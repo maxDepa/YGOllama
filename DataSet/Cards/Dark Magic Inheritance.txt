@@ -1,0 +1,14 @@
+Dark Magic Inheritance
+Card Type: Spell Card
+
+Description: Banish 2 Spells from your GY; add 1 Spell/Trap from your Deck to your hand, that specifically lists the card "Dark Magician" or "Dark Magician Girl" in its text, except "Dark Magic Inheritance". You can only activate 1 "Dark Magic Inheritance" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Dragon Decks
+- Structure Deck: Yugi Muto

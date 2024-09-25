@@ -1,0 +1,14 @@
+Assault Synchron
+Card Type: Tuner Monster
+
+Description: During your Main Phase: You can Special Summon this card from your hand, then take 700 damage, also you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, while this card is face-up in the Monster Zone. If a face-up Dragon Synchro Monster(s) you control is Tributed or banished (except during the Damage Step): You can banish this card from your GY, then target 1 of those monsters; Special Summon it. You can only use each effect of "Assault Synchron" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 0
+Archetype: Synchron
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge

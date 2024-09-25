@@ -1,0 +1,13 @@
+Spiritual Beast Apelio
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's turn: You can banish 1 "Ritual Beast" card from your Graveyard; for the rest of this turn, all "Ritual Beast" monsters you control will gain 500 ATK and DEF. You can only Special Summon "Spiritual Beast Apelio(s)" once per turn.
+
+Type: Pyro
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

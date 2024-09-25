@@ -1,0 +1,15 @@
+Planckton
+Card Type: Trap Card
+
+Description: Apply these effects until the end of this turn.
+● Rank 3 or lower Xyz Monsters gain 500 ATK and DEF.
+● Rank 4 or higher Xyz Monsters cannot attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Superstars

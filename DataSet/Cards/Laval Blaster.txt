@@ -1,0 +1,14 @@
+Laval Blaster
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, if you have a "Laval" monster in your Graveyard other than "Laval Blaster": You can choose a number from 1 to 5, then send that many cards from the top of your Deck to the Graveyard; this card gains 200 ATK for each "Laval" monster sent to the Graveyard to activate this effect.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

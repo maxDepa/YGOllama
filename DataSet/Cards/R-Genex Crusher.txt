@@ -1,0 +1,14 @@
+R-Genex Crusher
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can add 1 Level 4 "R-Genex" monster from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

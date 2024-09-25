@@ -1,0 +1,14 @@
+Sonic Jammer
+Card Type: Flip Effect Monster
+
+Description: FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.
+
+Type: Machine
+Attribute: WIND
+Level: 2
+Attack: 350
+Defence: 650
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

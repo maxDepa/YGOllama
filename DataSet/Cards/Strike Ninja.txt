@@ -1,0 +1,20 @@
+Strike Ninja
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can banish 2 DARK monsters from your GY; banish this face-up card until the End Phase. You can only use this effect of "Strike Ninja" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Ninja
+Present in Sets:
+- Battle Pack Tournament Prize Cards
+- Dark Revelation Volume 2
+- Duelist League 13 participation cards
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Shadows in Valhalla
+- Speed Duel: Battle City Box

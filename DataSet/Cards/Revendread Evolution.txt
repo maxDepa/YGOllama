@@ -1,0 +1,14 @@
+Revendread Evolution
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Vendread" Ritual Monster from your hand or GY. You must also Tribute monsters from your hand or field, and/or send 1 "Vendread" monster from your Deck to the GY, whose total Levels equal the Level of the Ritual Monster you Ritual Summon. The Ritual Summoned monster is destroyed during the End Phase of the next turn. You can only activate 1 "Revendread Evolution" per turn.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vendread
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

@@ -1,0 +1,13 @@
+Hyper Metamorphosis
+Card Type: Skill Card
+
+Description: You can activate this Skill while you control a Level 3 or lower Insect Normal Monster. Discard 2 cards and Tribute 1 Level 3 or lower Insect Normal Monster you control to Special Summon 1 "Perfectly Ultimate Great Moth" from your hand or Deck, ignoring its Summoning conditions. Any damage your opponent takes for the rest of this turn is halved. 
+
+Type: Weevil
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators

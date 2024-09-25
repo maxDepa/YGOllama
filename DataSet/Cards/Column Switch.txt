@@ -1,0 +1,14 @@
+Column Switch
+Card Type: Spell Card
+
+Description: Target 1 monster in your Main Monster Zone; move that target to another of your Main Monster Zones.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

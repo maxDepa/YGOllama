@@ -1,0 +1,14 @@
+Performapal Handsamuraiger
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the GY: You can add 1 Level 5 or higher Pendulum Monster from your Deck to your hand. You can only use this effect of "Performapal Handsamuraiger" once per turn.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 400
+Archetype: Performapal
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

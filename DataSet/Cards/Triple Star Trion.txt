@@ -1,0 +1,13 @@
+Triple Star Trion
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card is in the Graveyard because it was sent there this turn as a Tribute for a successful Tribute Summon: You can Special Summon this card from your Graveyard.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Zexal Collection Tin

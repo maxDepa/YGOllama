@@ -1,0 +1,15 @@
+Vulcan the Divine
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is Synchro Summoned: Target 1 face-up card you control and 1 face-up card your opponent controls; return those targets to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as those returned to the hand by this effect. You can only use this effect of "Vulcan the Divine" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Weekly Shonen Jump September 2013 membership promotional card

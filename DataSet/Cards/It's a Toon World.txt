@@ -1,0 +1,15 @@
+It's a Toon World!
+Card Type: Skill Card
+
+Description: [At the start of the Duel, place this card in your center Spell & Trap Zone and flip it over.]
+
+This card is treated as “Toon World”.
+
+Type: Pegasus
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters

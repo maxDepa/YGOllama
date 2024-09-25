@@ -1,0 +1,16 @@
+Reinforce Truth
+Card Type: Trap Card
+
+Description: Special Summon 1 Level 2 or lower Warrior-Type monster from your Deck. You cannot conduct your Battle Phase the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Duelist Pack: Yusei 2
+- OTS Tournament Pack 15 (POR)
+- Starter Deck: Dawn of the Xyz

@@ -1,0 +1,18 @@
+Rigorous Reaver
+Card Type: Flip Effect Monster
+
+Description: FLIP: Each player discards 1 card.
+If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
+
+Type: Plant
+Attribute: FIRE
+Level: 3
+Attack: 1600
+Defence: 100
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Champion Pack: Game Six
+- Duel Terminal 4
+- Gold Series 2009

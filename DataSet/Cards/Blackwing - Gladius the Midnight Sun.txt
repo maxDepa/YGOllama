@@ -1,0 +1,14 @@
+Blackwing - Gladius the Midnight Sun
+Card Type: Effect Monster
+
+Description: If the only face-up monster you control is 1 "Blackwing" monster other than "Blackwing - Gladius the Midnight Sun", you can Special Summon this card (from your hand). Once per turn, this card cannot be destroyed by battle.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1500
+Archetype: Blackwing
+Present in Sets:
+- Cosmo Blazer
+- Legendary Collection 5D's Mega Pack

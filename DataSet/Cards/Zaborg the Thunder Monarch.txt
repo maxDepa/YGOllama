@@ -1,0 +1,20 @@
+Zaborg the Thunder Monarch
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned: Target 1 monster on the field; destroy that target.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: Monarch
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 2
+- Duelist League 2010 participation cards
+- Emperor of Darkness Structure Deck
+- Gold Series 2009
+- Tournament Pack 8

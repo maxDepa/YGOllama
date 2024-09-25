@@ -1,0 +1,12 @@
+Legendary Dueling Field
+Card Type: Normal Monster
+
+Description: ''A field of battle for those who believe in the Decks they've built, those who never turn their backs on any foes, those brave enough to fight to the very end and wage rites deciding winners and losers. It is said that when they unite their hearts with the hearts of their cards through bonds and take a step forward by swearing on their pride and souls, they can carve open a road continuing on to the as-of-yet unfinished future.''
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 0
+Defence: 3000
+Archetype: //
+Present in Sets:

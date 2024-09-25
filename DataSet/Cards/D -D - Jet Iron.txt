@@ -1,0 +1,14 @@
+D.D. Jet Iron
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 "D.D. Esper Star Sparrow", "Beast-Warrior Puma", "Phoenix Beast Gairuda", and "Ironhammer the Giant" from your hand and/or face-up from your side of the field to the Graveyard. You can Tribute this card to target 1 "D.D. Esper Star Sparrow", "Beast-Warrior Puma", "Phoenix Beast Gairuda" and "Ironhammer the Giant" in your Graveyard; Special Summon those targets.
+
+Type: Machine
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 0
+Archetype: D.D.
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

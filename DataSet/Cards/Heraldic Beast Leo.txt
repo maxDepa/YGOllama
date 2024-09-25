@@ -1,0 +1,13 @@
+Heraldic Beast Leo
+Card Type: Effect Monster
+
+Description: During the End Phase of the turn this card was Normal Summoned: Destroy this card. When this card is sent to the Graveyard: Add 1 "Heraldic Beast" monster from your Deck to your hand, except "Heraldic Beast Leo". You can only use this effect of "Heraldic Beast Leo" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 1000
+Archetype: Heraldic
+Present in Sets:
+- Cosmo Blazer

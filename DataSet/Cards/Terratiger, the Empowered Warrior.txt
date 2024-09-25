@@ -1,0 +1,13 @@
+Terratiger, the Empowered Warrior
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand in Defense Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Empowered Warrior
+Present in Sets:
+- Super Starter: Space-Time Showdown

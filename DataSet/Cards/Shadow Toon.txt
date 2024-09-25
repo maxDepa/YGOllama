@@ -1,0 +1,14 @@
+Shadow Toon
+Card Type: Spell Card
+
+Description: If you control "Toon World": Target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the ATK of that face-up monster. You can only activate 1 "Shadow Toon" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Toon
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

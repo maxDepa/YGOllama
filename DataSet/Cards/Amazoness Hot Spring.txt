@@ -1,0 +1,13 @@
+Amazoness Hot Spring
+Card Type: Trap Card
+
+Description: When this card is activated: You can take 1 "Amazoness" monster from your Deck, and either add it to your hand or (if it is a Pendulum Monster) place it in your Pendulum Zone. When you take battle damage while you control an "Amazoness" Monster Card: You can gain LP equal to the damage you took. You can only use this effect of "Amazoness Hot Spring" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- Battles of Legend: Crystal Revenge

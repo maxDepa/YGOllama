@@ -1,0 +1,13 @@
+Springans Booty
+Card Type: Spell Card
+
+Description: If a face-up Xyz Monster you control leaves the field by card effect: You can target 1 Effect Monster your opponent controls; neither player can activate that Effect Monster's effects on the field this turn. You can send this face-up card to the GY; activate 1 "Great Sand Sea - Gold Golgonda" directly from your Deck or GY. You can only use each effect of "Springans Booty" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Springans
+Present in Sets:
+- Lightning Overdrive

@@ -1,0 +1,14 @@
+Robot Buster Destruction Sword
+Card Type: Effect Monster
+
+Description: You can target 1 "Buster Blader" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, Spell/Trap Cards that are already face-up on your opponent's side of the field cannot activate their effects. You can send this Equip Card to the Graveyard; the monster that was equipped with this card gains 1000 ATK until the end of this turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Destruction Sword
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

@@ -1,0 +1,15 @@
+Grave Ohja
+Card Type: Effect Monster
+
+Description: While there is a face-down Defense Position monster(s) on your side of the field, no player can select this card as an attack target. Each time a monster on your side of the field is Flip Summoned, inflict 300 damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

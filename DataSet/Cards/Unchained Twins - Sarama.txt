@@ -1,0 +1,14 @@
+Unchained Twins - Sarama
+Card Type: Effect Monster
+
+Description: You can target 1 "Unchained" card in your GY, except "Unchained Twins - Sarama"; Set it to your field, then destroy 1 card you control. If this card on the field is destroyed by card effect, except "Unchained Twins - Sarama", or by battle: You can Special Summon 1 "Unchained" monster from your hand or Deck, except "Unchained Twins - Sarama". You can only use each effect of "Unchained Twins - Sarama" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1500
+Defence: 1500
+Archetype: Unchained
+Present in Sets:
+- Eternity Code
+- Ignition Assault Special Edition

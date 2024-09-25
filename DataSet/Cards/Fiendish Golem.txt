@@ -1,0 +1,13 @@
+Fiendish Golem
+Card Type: Trap Card
+
+Description: Target 1 monster on the field with 2000 or more ATK; banish it (until the End Phase of the next turn), then if you activated this card while you controlled "Red Dragon Archfiend" or a Synchro Monster that mentions it, you can Set 1 "Fiendish Chain" directly from your Deck or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: The Crimson King

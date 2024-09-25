@@ -1,0 +1,15 @@
+Reaper Scythe - Dreadscythe
+Card Type: Spell Card
+
+Description: Equip only to "Guardian Dreadscythe". It gains 500 ATK for each monster in the Graveyards.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardian
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

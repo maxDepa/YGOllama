@@ -1,0 +1,17 @@
+Ritual Weapon
+Card Type: Spell Card
+
+Description: Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK and DEF.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- The Secret Forces

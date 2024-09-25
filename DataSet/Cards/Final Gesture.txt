@@ -1,0 +1,13 @@
+Final Gesture
+Card Type: Spell Card
+
+Description: Target 1 face-up Level 3 monster you control; Special Summon 1 monster with the same name as that monster from your hand or Graveyard. Its effects are negated. During the End Phase of this turn, destroy the face-up monster that was targeted by this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising

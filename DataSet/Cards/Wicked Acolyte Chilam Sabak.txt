@@ -1,0 +1,14 @@
+Wicked Acolyte Chilam Sabak
+Card Type: Effect Monster
+
+Description: If you have 5 or more cards in your hand, you can Normal Summon this card without Tributing. When this card is destroyed by battle and sent to the GY: You can Special Summon this card in Defense Position, and if you do, it is treated as a Tuner. You can only use this effect of "Wicked Acolyte Chilam Sabak" once per turn.
+
+Type: Reptile
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

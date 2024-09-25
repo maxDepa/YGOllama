@@ -1,0 +1,42 @@
+Monster Token
+Tokens (Japanese: トークン Tōkun) are used as representations of Monster Cards. Tokens are Monsters Special Summoned out of nowhere by a card effect. These monsters are not included in the Deck, Extra Deck or Side Deck, as stated on the limitation text of each Token card.
+
+Mechanics
+Token Monsters are always Normal Monsters and never have effects. Thus, they qualify for Normal Monster support and non-Effect Monster support.
+Some Token Monsters have effects applied to them by the cards that Summon them, but these are not the effects of the Token Monsters themselves, so these "effects" cannot be negated by cards like "Skill Drain".
+Some Normal Monster support may specifically exclude Tokens, such as "Order to Charge".
+Tokens can only exist face-up on the field.
+Token Monsters cannot be face-down. Thus, they cannot be targeted by, and are unaffected by, effects that flip cards face-down (such as "Book of Moon" and "Swords of Concealing Light").
+If an Attack Position Token Monster would be affected by a card that would change it to face-down Defense Position, such as "Swords of Concealing Light", the Token Monster's battle position is not changed at all.
+Token Monsters cannot be banished face-down. They can't be targeted, and are unaffected, by card effects that would do so.
+The original ATK, DEF, Level, Name, Type and Attribute of a Token is stated on the card that Summons them.
+If a Token Monster would leave the field (i.e. if it would be returned to the hand or Main Deck, sent to GY, or banished), it simply disappears.
+Token Monsters can be successfully Tributed, destroyed, or banished; however, because they simply leave the field, they are not treated as being successfully moved to the specified zone.
+Token Monsters can be used to pay costs, as long as the cost does not specify a destination.
+Token Monsters can be Tributed for Tribute or Ritual Summon, or for the Special Summon of cards like "Destiny HERO - Plasma".
+They cannot be sent to the Graveyard as a cost (such as for the Special Summon of "Arcana Force EX - The Dark Ruler").
+Banishing does not specify a destination, so a Token can be banished for a cost (such as for the Special Summon of "Unibird").
+Token Monsters can be used as Fusion, Synchro, or Link Materials.
+Tokens cannot be used as Xyz Materials, because Xyz Materials are attached to the Xyz Monster and attached Xyz Materials are not considered to be on the field.
+Tokens can be the target of and are affected by card effects that cause them to leave the field, even if they specify a destination, such as "Number 50: Blackship of Corn" and "Compulsory Evacuation Device".
+Tokens cannot be targeted by the effect of a card that would attach them to an Xyz Monster, such as "Number 101: Silent Honor ARK".
+A Token Monster can be treated as an Equip Card by a card like "The Grand Jupiter"
+If so, Token Monsters cannot be Special Summoned from the Spell & Trap Zone.
+The owner of a Token Monster is the player who Special Summoned it.
+"Owner's Seal" will change control of Ojama Tokens Special Summoned by the effect of "Ojama Trio" to the player who activated "Ojama Trio".
+"Rose Tokens" are the exception to this, instead being owned by the player who controls the monster whose Summon caused the "Rose Token" to be Summoned (rather than the player who Summoned the "Rose Token"). (Example: Player A Normal Summons a monster, and trigger the effect of "Black Garden", Special Summoning "Rose Token". This "Rose Token" is owned by Player A.)[2][3]
+
+Usage in Real Life
+During a Duel, duelists may keep Token cards in a separate pile outside of the game mat or in the deck case.
+
+A Monster Token can be represented by a coin (Heads is treated as Attack Position and Tails is treated as Defense Position), a die, or other such acceptable markers. Fan-made cards are often used as markers in Tournament Duels.
+
+Card Layouts
+Official Token cards are grey.
+Most Token cards from Series 8 onward that correspond to specific Monster Tokens have their own names printed out, and sometimes also include ATK/DEF.[Notes 2]
+
+Card text
+Prior to Series 8 in the OCG and Series 9 in the TCG, all Token cards share the same card text (as listed in the following table) and name (Token). From these series onward in the respective games, some Token cards have different names or card text.
+
+Trivia
+The first Token that did not correspond to a specific Monster Token was the "National Championship 2009 Token", which in 2009 was given to participants of United States and Canada's National Championships and participants of the European and South American Continental Championships.

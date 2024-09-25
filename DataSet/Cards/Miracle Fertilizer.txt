@@ -1,0 +1,18 @@
+Miracle Fertilizer
+Card Type: Spell Card
+
+Description: Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crossroads of Chaos
+- Fusion Enforcers
+- Secret Slayers

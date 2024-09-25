@@ -1,0 +1,14 @@
+Magnet Circle LV2
+Card Type: Spell Card
+
+Description: Special Summon 1 Level 2 or lower Machine-Type monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

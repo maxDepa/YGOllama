@@ -1,0 +1,15 @@
+Greed
+Card Type: Trap Card
+
+Description: Each time a player draws cards because of a card effect, they take 500 damage during the End Phase for each card drawn by the card effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

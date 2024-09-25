@@ -1,0 +1,15 @@
+Electric Lizard
+Card Type: Effect Monster
+
+Description: A non Zombie-Type monster attacking "Electric Lizard" cannot attack on its following turn.
+
+Type: Thunder
+Attribute: EARTH
+Level: 3
+Attack: 850
+Defence: 800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

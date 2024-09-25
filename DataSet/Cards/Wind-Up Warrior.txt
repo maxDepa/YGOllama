@@ -1,0 +1,15 @@
+Wind-Up Warrior
+Card Type: Effect Monster
+
+Description: You can target 1 face-up "Wind-Up" monster you control; increase its Level by 1 and its ATK by 600, until the End Phase. This effect can only be used once while this card is face-up on the field.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Wind-Up
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Photon Shockwave

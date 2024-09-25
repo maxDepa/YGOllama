@@ -1,0 +1,13 @@
+S-Force Gravitino
+Card Type: Effect Monster
+
+Description: Each of your opponent's monsters in the same column as one of your "S-Force" monsters is banished when it leaves the field. If this card is Normal or Special Summoned: You can add 1 "S-Force" card from your Deck to your hand, except "S-Force Gravitino". You can only use this effect of "S-Force Gravitino" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1400
+Archetype: S-Force
+Present in Sets:
+- Blazing Vortex

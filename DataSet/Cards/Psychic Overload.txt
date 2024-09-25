@@ -1,0 +1,17 @@
+Psychic Overload
+Card Type: Trap Card
+
+Description: Target 3 Psychic-Type monsters in your Graveyard; shuffle all 3 into the Deck, then draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- High-Speed Riders
+- The Duelist Genesis
+- The Duelist Genesis

@@ -1,0 +1,25 @@
+Dark Magic Attack
+Card Type: Spell Card
+
+Description: If you control "Dark Magician": Destroy all Spells and Traps your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Duel Terminal - Preview Wave 1
+- Duel Terminal 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Dragon Decks
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

@@ -1,0 +1,14 @@
+Dinowrestler Valeonyx
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). While you control a Link-3 or higher "Dinowrestler" monster, face-up monsters you control are unaffected by the activated effects of your opponent's Link-3 or lower monsters.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

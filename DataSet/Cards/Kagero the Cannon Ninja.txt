@@ -1,0 +1,14 @@
+Kagero the Cannon Ninja
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned, Special Summoned, or flipped face-up: You can Special Summon 1 "Ninja" monster from your hand or GY in face-down Defense Position, except "Kagero the Cannon Ninja". When your opponent activates a card or effect that targets exactly 1 "Ninja" card or exactly 1 face-down Defense Position monster you control, while this card is in your GY (Quick Effect): You can Special Summon this card in face-down Defense Position, and if you do, return that targeted card to the hand. You can only use each effect of "Kagero the Cannon Ninja" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 2000
+Archetype: Ninja
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

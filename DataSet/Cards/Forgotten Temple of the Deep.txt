@@ -1,0 +1,16 @@
+Forgotten Temple of the Deep
+Card Type: Trap Card
+
+Description: While this card is on the field, this card's name becomes "Umi". Once per turn: You can target 1 Level 4 or lower Fish, Sea Serpent or Aqua-Type monster you control; banish that target. During your End Phase: Special Summon the monster(s) banished by this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Umi
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Realm of the Sea Emperor Structure Deck

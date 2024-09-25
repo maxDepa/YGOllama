@@ -1,0 +1,16 @@
+Neo Flamvell Garuda
+Card Type: Effect Monster
+
+Description: During your End Phase, if you control another face-up "Flamvell" monster, select 1 card in your opponent's Graveyard and remove it from play.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 1800
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

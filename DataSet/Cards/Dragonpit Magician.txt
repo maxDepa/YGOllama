@@ -1,0 +1,18 @@
+Dragonpit Magician
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if you have a "Magician" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.
+
+[ Monster Effect ] 
+''This gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.''
+
+Type: Spellcaster
+Attribute: WATER
+Level: 7
+Attack: 900
+Defence: 2700
+Archetype: Magician
+Present in Sets:
+- Master of Pendulum Structure Deck
+- Pendulum Evolution

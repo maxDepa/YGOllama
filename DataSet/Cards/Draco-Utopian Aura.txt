@@ -1,0 +1,15 @@
+Draco-Utopian Aura
+Card Type: Trap Card
+
+Description: When your opponent activates a monster effect on the field: Negate the activation, and if you do, destroy that card, then, you can apply the following effect.
+● Banish 1 monster from your hand, and if you do, Special Summon the monster that was destroyed and sent to the GY by this effect to your field, but negate its effects.
+You can only activate 1 "Draco-Utopian Aura" per turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Power of the Elements

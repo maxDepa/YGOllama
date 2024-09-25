@@ -1,0 +1,20 @@
+Chaos Emperor Dragon - Envoy of the End
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Chaos
+Present in Sets:
+- Dark Revelation Volume 2
+- Duelist Pack: Kaiba
+- Invasion of Chaos
+- Invasion of Chaos
+- The Lost Millennium: Special Edition
+- Toon Chaos
+- Toon Chaos
+- Weekly Shonen Jump November 2018 membership promotional card

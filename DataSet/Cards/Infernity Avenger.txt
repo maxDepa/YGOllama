@@ -1,0 +1,14 @@
+Infernity Avenger
+Card Type: Tuner Monster
+
+Description: When a monster you control, except "Infernity Avenger", is destroyed by battle with an opponent's monster and sent to the Graveyard, while you have no cards in your hand, you can Special Summon this card from your Graveyard. In that case, the Level of this card is equal to the Level of your destroyed monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- OTS Tournament Pack 14 (POR)
+- The Shining Darkness

@@ -1,0 +1,13 @@
+Starry Knight Astel
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can target 1 LIGHT monster you control; Tribute it, and if you do, Special Summon 1 Level 7 LIGHT Dragon monster from your hand. You can banish this card from your GY, then target 1 Level 7 LIGHT Dragon monster you control; it gains 1000 ATK until the end of your opponent's turn. You can only use each effect of "Starry Knight Astel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 2000
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

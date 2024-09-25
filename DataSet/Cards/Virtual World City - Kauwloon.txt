@@ -1,0 +1,18 @@
+Virtual World City - Kauwloon
+Card Type: Spell Card
+
+Description: Place 1 "Virtual World Gate" card from your Deck face-up in your Spell & Trap Zone, then you can apply any of the following effect(s) in sequence, based on the number of "Virtual World Gate" cards you control.
+● 2+: All "Virtual World" monsters you control gain 200 ATK this turn.
+● 3+: Send the top 3 cards of your Deck to the GY.
+● 4: Special Summon up to 4 "Virtual World" monsters with different names from your Extra Deck.
+You can only activate 1 "Virtual World City - Kauwloon" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Virtual World
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

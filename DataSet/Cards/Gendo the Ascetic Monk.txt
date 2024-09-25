@@ -1,0 +1,14 @@
+Gendo the Ascetic Monk
+Card Type: Effect Monster
+
+Description: Face-up Attack Position monsters on the field cannot activate their effects. This Defense Position card cannot be targeted, or destroyed, by card effects.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

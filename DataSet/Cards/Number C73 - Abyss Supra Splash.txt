@@ -1,0 +1,16 @@
+Number C73: Abyss Supra Splash
+Card Type: XYZ Monster
+
+Description: 3 Level 6 monsters
+If a monster you control battles an opponent's monster, during damage calculation (in either player's turn): You can detach 1 Xyz Material from this card once per battle; your battling monster gains ATK equal to the ATK of the opponent's monster it is battling, during that damage calculation only. If this card has "Number 73: Abyss Splash" as Xyz Material, it gains this effect.
+● This card cannot be destroyed by card effects.
+
+Type: Warrior
+Attribute: WATER
+Level: 6
+Attack: 3000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

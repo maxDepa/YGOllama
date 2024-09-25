@@ -1,0 +1,14 @@
+Mucus Yolk
+Card Type: Effect Monster
+
+Description: This card can attack your opponent's Life Points directly. Each time this card inflicts Battle Damage to your opponent's Life Points, increase the ATK of this card by 1000 points during your next Standby Phase. The ATK increase lasts as long as this card remains face-up on the field.
+
+Type: Aqua
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian

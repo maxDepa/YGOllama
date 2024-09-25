@@ -1,0 +1,13 @@
+Cyclos the Circular Sprite
+Card Type: Tuner Monster
+
+Description: If this card is Normal or Special Summoned: You can discard 1 card; add 1 Insect or Plant Tuner from your Deck to your hand, except "Cyclos the Circular Sprite". If an Insect or Plant Synchro Monster(s) is Special Summoned, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Cyclos the Circular Sprite" once per turn.
+
+Type: Plant
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Circular
+Present in Sets:
+- Legacy of Destruction

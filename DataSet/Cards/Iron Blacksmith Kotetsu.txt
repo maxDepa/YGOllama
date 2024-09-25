@@ -1,0 +1,17 @@
+Iron Blacksmith Kotetsu
+Card Type: Flip Effect Monster
+
+Description: FLIP: Add 1 Equip Spell from your Deck to your hand.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duelist League 3 participation cards
+- Speed Duel: Scars of Battle

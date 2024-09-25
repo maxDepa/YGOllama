@@ -1,0 +1,18 @@
+Shadow Vampire
+Card Type: Effect Monster
+
+Description: Cannot be used as material for an Xyz Summon, except for the Xyz Summon of a DARK monster. When this card is Normal Summoned: You can Special Summon 1 DARK "Vampire" monster from your hand or Deck, except "Shadow Vampire", but monsters you control cannot attack for the rest of this turn, except that Special Summoned monster.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 0
+Archetype: Vampire
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Dark Saviors
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Shadow Specters

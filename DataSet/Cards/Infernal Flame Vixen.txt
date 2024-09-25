@@ -1,0 +1,14 @@
+Infernal Flame Vixen
+Card Type: XYZ Monster
+
+Description: 2 Pyro-Type Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK until your opponent's End Phase. When this card with 2500 or more ATK is destroyed: Target 3 monsters in any Graveyard(s); banish those targets.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 2200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Cosmo Blazer

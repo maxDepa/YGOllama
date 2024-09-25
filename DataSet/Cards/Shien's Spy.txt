@@ -1,0 +1,17 @@
+Shien's Spy
+Card Type: Spell Card
+
+Description: Select 1 face-up monster you control to activate this card. Give control of the selected monster to your opponent until the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)

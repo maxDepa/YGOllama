@@ -1,0 +1,14 @@
+Nowru Aries the Vernal Dragon
+Card Type: Effect Monster
+
+Description: If this card is in your GY: You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card, but banish it when it leaves the field. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can target 1 card your opponent controls; banish it. You can only use each effect of "Nowru Aries the Vernal Dragon" once per turn.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

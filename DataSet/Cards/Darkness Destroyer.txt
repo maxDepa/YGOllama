@@ -1,0 +1,14 @@
+Darkness Destroyer
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Yu-Gi-Oh! GX Tag Force 3 promotional cards

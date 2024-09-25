@@ -1,0 +1,19 @@
+Guardian Sphinx
+Card Type: Effect Monster
+
+Description: Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Return all monsters your opponent controls to the hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 1700
+Defence: 2400
+Archetype: Sphinx
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Master Collection Volume 2
+- Pharaonic Guardian
+- Retro Pack 2
+- Structure Deck: Invincible Fortress

@@ -1,0 +1,14 @@
+Evigishki Soul Ogre
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can discard 1 "Gishki" monster to target 1 face-up card your opponent controls; shuffle that target into the Deck.
+
+Type: Aqua
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 2800
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,20 @@
+The Eye of Truth
+Card Type: Trap Card
+
+Description: Your opponent must keep their hand revealed. Once per turn, during your opponent's Standby Phase, if they have a Spell(s) in their hand: They gain 1000 LP if they have a Spell(s) in their hand at resolution.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel Starter Decks: Destiny Masters
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

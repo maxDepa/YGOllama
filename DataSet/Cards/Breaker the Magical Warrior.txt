@@ -1,0 +1,34 @@
+Breaker the Magical Warrior
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy that target.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 1
+- Egyptian God Deck: Slifer the Sky Dragon
+- Gold Series
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Dragon Decks
+- Magician's Force
+- Master Collection Volume 2
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Premium Gold
+- Speed Duel Tournament Pack 4
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Spellcaster's Judgment
+- Tournament Pack 7

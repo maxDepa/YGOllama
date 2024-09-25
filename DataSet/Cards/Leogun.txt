@@ -1,0 +1,15 @@
+Leogun
+Card Type: Normal Monster
+
+Description: Huge monster with a lion's mane similar to the King of Beasts.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 1750
+Defence: 1550
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,14 @@
+Altergeist Emulatelf
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Spellcaster/LIGHT/Level 4/ATK 1400/DEF 1800). (This card is also still a Trap.) If Summoned this way, while it is in the Monster Zone, other "Altergeist" Traps you control cannot be destroyed by card effects, also neither player can target them with card effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

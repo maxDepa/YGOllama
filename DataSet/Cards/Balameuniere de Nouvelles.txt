@@ -1,0 +1,13 @@
+Balameuniere de Nouvelles
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with a "Recipe" card. If this card is Special Summoned: You can add 1 "Nouvelles" or "Recipe" card from your Deck to your hand. You can target 1 Attack Position monster your opponent controls; Tribute it, and if you do, Special Summon 1 Level 6 "Nouvelles" Ritual Monster from your hand or Deck. This is a Quick Effect if this card was Special Summoned by the effect of a "Nouvelles" monster. You can only use each effect of "Balameuniere de Nouvelles" once per turn.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1850
+Archetype: Nouvelles
+Present in Sets:
+- Wild Survivors

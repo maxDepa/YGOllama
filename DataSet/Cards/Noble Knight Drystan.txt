@@ -1,0 +1,15 @@
+Noble Knight Drystan
+Card Type: Effect Monster
+
+Description: While you control another "Noble Knight" monster, your opponent cannot target your monsters with less than 1800 ATK, except this card, for attacks or with card effects. If a "Noble Arms" Equip Spell Card is equipped to this card: Target 1 face-up card on the field; destroy that target. You can only use this effect of "Noble Knight Drystan" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Noble Knight
+Present in Sets:
+- Judgment of the Light
+- Maximum Gold
+- Noble Knights of the Round Table Box Set

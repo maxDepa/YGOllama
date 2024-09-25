@@ -1,0 +1,15 @@
+Red Sprinter
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower Fiend-Type Tuner from your hand or Graveyard. You can only use this effect of "Red Sprinter" once per turn.
+
+Type: Fiend
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- High-Speed Riders
+- Structure Deck: The Crimson King

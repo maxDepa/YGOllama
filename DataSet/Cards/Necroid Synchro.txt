@@ -1,0 +1,13 @@
+Necroid Synchro
+Card Type: Spell Card
+
+Description: Banish 1 Tuner and up to 2 non-Tuner monsters from your Graveyard, and if you do, Special Summon 1 "Stardust" Synchro Monster from your Extra Deck whose Level equals the total Levels of those banished monsters, but it has its effects negated. (This Special Summon is treated as a Synchro Summon.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Roid
+Present in Sets:
+- Duelist Saga

@@ -1,0 +1,15 @@
+Blazing Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Destroy as many Attack Position monsters your opponent controls as possible, and if you do, take damage equal to half the combined original ATK of those destroyed monsters, then inflict damage to your opponent equal to the damage you took.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dimension of Chaos
+- Premium Gold: Infinite Gold
+- Structure Deck: Powercode Link

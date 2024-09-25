@@ -1,0 +1,15 @@
+Serial Spell
+Card Type: Spell Card
+
+Description: Activate only when you activate one of your Normal Spell Cards. Discard all the cards in your hand to the Graveyard. The effect of this card becomes the same as the Normal Spell Card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

@@ -1,0 +1,19 @@
+Edge Imp Sabres
+Card Type: Effect Monster
+
+Description: If this card is in your GY: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of "Edge Imp Sabres" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Edge Imp
+Present in Sets:
+- Fusion Enforcers
+- Star Pack ARC-V
+- Star Pack ARC-V
+- The Lost Art Promotion (series)
+- The Lost Art Promotion O
+- The New Challengers
+- The New Challengers: Super Edition

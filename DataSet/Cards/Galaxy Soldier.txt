@@ -1,0 +1,17 @@
+Galaxy Soldier
+Card Type: Effect Monster
+
+Description: You can send 1 other LIGHT monster from your hand to the GY; Special Summon this card from your hand in Defense Position. When this card is Special Summoned: You can add 1 "Galaxy" monster from your Deck to your hand. You can only use this effect of "Galaxy Soldier" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Duel Power
+- Ghosts From the Past: The 2nd Haunting
+- World Superstars

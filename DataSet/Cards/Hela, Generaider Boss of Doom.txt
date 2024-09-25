@@ -1,0 +1,14 @@
+Hela, Generaider Boss of Doom
+Card Type: Effect Monster
+
+Description: You can only control 1 "Hela, Generaider Boss of Doom". (Quick Effect): You can Tribute 1 "Generaider" monster or 1 Zombie monster, then target 1 "Generaider" monster or 1 Zombie monster in your GY, with a different name than the Tributed monster had on the field; Special Summon that monster in Defense Position. You can only use this effect of "Hela, Generaider Boss of Doom" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 9
+Attack: 800
+Defence: 2800
+Archetype: Generaider
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Mystic Fighters

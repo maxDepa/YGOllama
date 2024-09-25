@@ -1,0 +1,14 @@
+Blackwing - Kochi the Daybreak
+Card Type: Tuner Monster
+
+Description: If this card was Special Summoned, it cannot be used as a Synchro Material.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 700
+Defence: 1500
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack

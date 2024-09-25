@@ -1,0 +1,13 @@
+Gold Pride - Roller Baller
+Card Type: Effect Monster
+
+Description: If your LP are lower than your opponent's: You can Special Summon this card from your hand. During the Main Phase (Quick Effect): You can Fusion Summon 1 "Gold Pride" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of "Gold Pride - Roller Baller" once per turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1600
+Archetype: Gold Pride
+Present in Sets:
+- Cyberstorm Access

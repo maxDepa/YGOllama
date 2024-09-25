@@ -1,0 +1,13 @@
+Defcon Bird
+Card Type: Effect Monster
+
+Description: You can discard 1 other Cyberse monster; Special Summon this card from your hand. You can only use this effect of "Defcon Bird" once per turn. Once per turn, when your Cyberse monster is targeted for an attack: You can make its ATK/DEF become double its original ATK, then you can change it to Defense Position. This ATK/DEF change lasts until the end of the Damage Step.
+
+Type: Cyberse
+Attribute: WIND
+Level: 3
+Attack: 100
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Fists of the Gadgets

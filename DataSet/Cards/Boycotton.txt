@@ -1,0 +1,14 @@
+Boycotton
+Card Type: Effect Monster
+
+Description: You take any battle damage your opponent would have taken from battles involving this card, instead. If this card battles, is not destroyed, and you took damage from that battle: Return this card to the hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

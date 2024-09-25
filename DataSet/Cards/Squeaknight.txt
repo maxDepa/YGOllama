@@ -1,0 +1,14 @@
+Squeaknight
+Card Type: Union Effect Monster
+
+Description: If this card is Special Summoned: You can activate this effect; treat this card as a Tuner this turn, also you can only Special Summon once from the Extra Deck for the rest of this turn. Once per turn, you can either: Target 1 face-up monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+
+Type: Warrior
+Attribute: FIRE
+Level: 1
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

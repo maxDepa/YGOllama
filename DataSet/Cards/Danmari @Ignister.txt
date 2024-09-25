@@ -1,0 +1,14 @@
+Danmari @Ignister
+Card Type: Effect Monster
+
+Description: When an attack is declared involving your "@Ignister" monster: You can Special Summon this card from your hand, and if you do, negate that attack. While you control a Link-6 monster (Quick Effect): You can banish this card from your field or GY, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of "Danmari @Ignister" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 0
+Archetype: @Ignister
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

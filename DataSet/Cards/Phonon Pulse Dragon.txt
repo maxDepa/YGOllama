@@ -1,0 +1,17 @@
+Phonon Pulse Dragon
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: You can declare a Level from 1 to 3; this card becomes that Level, also you cannot Special Summon for the rest of this turn, except for a Synchro Summon using this card as a Synchro Material. You can only Special Summon "Phonon Pulse Dragon(s)" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Primal Origin

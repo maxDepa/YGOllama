@@ -1,0 +1,15 @@
+Express Train Trolley Olley
+Card Type: Effect Monster
+
+Description: An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.
+● If it is Xyz Summoned: It gains 800 ATK.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Train
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

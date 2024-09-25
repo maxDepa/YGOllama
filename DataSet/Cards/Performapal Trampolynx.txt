@@ -1,0 +1,20 @@
+Performapal Trampolynx
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of "Performapal Trampolynx" once per turn.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can target 1 card in either player's Pendulum Zone; return it to the hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 300
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Star Pack ARC-V
+- Star Pack ARC-V
+- The New Challengers

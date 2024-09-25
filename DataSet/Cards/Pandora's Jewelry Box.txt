@@ -1,0 +1,18 @@
+Pandora's Jewelry Box
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+While you have no cards in your Extra Deck: You can target 1 card in your opponent's Pendulum Zone; destroy it, and if you do, place this card in your opponent's Pendulum Zone.
+
+[ Monster Effect ] 
+While you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.
+
+Type: Wyrm
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

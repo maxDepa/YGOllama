@@ -1,0 +1,13 @@
+Mask Charge
+Card Type: Spell Card
+
+Description: Target 1 "HERO" monster and 1 "Change" Quick-Play Spell Card in your Graveyard; add them to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- HERO Strike Structure Deck

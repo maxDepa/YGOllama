@@ -1,0 +1,16 @@
+Noble Knight Brothers
+Card Type: Effect Monster
+
+Description: This card can only attack if you control exactly 3 "Noble Knight" monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 "Noble Knight" monsters from your hand, also you cannot Special Summon monsters for the rest of this turn, except "Noble Knight" monsters. Once per turn: You can target 3 "Noble Knight" and/or "Noble Arms" cards in your GY; shuffle all 3 into the Deck, then draw 1 card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 2400
+Archetype: Noble Knight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Maximum Gold
+- Primal Origin

@@ -1,0 +1,15 @@
+Ancient Gear Drill
+Card Type: Spell Card
+
+Description: If you control an "Ancient Gear" monster: Discard 1 card; Set 1 Spell Card directly from your Deck. This turn, that Spell Card cannot be activated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Gear
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Structure Deck: Machine Re-Volt

@@ -1,0 +1,14 @@
+Massivemorph
+Card Type: Trap Card
+
+Description: Target 1 face-up monster your opponent controls; its ATK and DEF become double its current ATK and DEF, but it cannot attack directly.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

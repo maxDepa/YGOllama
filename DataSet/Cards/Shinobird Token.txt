@@ -1,0 +1,15 @@
+Shinobird Token
+Card Type: Token
+
+Description: This card can be used as a "Shinobird Token".
+
+
+*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.
+
+Type: Winged Beast
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shinobird
+Present in Sets:

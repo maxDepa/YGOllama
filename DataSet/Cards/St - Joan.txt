@@ -1,0 +1,16 @@
+St. Joan
+Card Type: Fusion Monster
+
+Description: "The Forgiving Maiden" + "Darklord Marie"
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

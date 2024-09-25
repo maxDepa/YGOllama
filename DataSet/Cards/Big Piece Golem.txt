@@ -1,0 +1,15 @@
+Big Piece Golem
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Normal Summon this card without Tributes.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 2100
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- The Duelist Genesis

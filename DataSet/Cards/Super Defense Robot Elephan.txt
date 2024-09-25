@@ -1,0 +1,14 @@
+Super Defense Robot Elephan
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Super Defense Robot" monster or "Orbital 7" from your hand. Once per turn: You can target 1 "Super Defense Robot" monster or "Orbital 7" you control; it becomes Level 8 until the end of this turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Machine-Type monster.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 1400
+Defence: 2500
+Archetype: Super Defense Robot
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

@@ -1,0 +1,19 @@
+General Raiho of the Ice Barrier
+Card Type: Effect Monster
+
+Description: When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).
+
+Type: Warrior
+Attribute: WATER
+Level: 6
+Attack: 2100
+Defence: 2300
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

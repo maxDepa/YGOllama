@@ -1,0 +1,15 @@
+Synchro Chase
+Card Type: Spell Card
+
+Description: Your opponent cannot activate cards or effects in response to the effect activations of your Synchro Monsters with "Warrior", "Synchron", or "Stardust" in their original names. If you Synchro Summon a "Warrior", "Synchron", or "Stardust" Synchro Monster: You can target 1 monster in your GY used as its material; Special Summon it in Defense Position. You can only use this effect of "Synchro Chase" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Maze of Millennia

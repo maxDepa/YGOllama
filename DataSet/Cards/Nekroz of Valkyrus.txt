@@ -1,0 +1,16 @@
+Nekroz of Valkyrus
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Nekroz" Ritual Spell. Must be Ritual Summoned, without using any Level 8 monsters. You can only use each of these effects of "Nekroz of Valkyrus" once per turn.
+● When an opponent's monster declares an attack: You can banish 1 "Nekroz" card from your GY and discard this card; negate the attack, then end the Battle Phase.
+● During your Main Phase: You can Tribute up to 2 monsters from your hand and/or field, and if you do, draw the same number of cards you Tributed.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 8
+Attack: 2900
+Defence: 1700
+Archetype: Nekroz
+Present in Sets:
+- Duel Power
+- The Secret Forces

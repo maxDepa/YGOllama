@@ -1,0 +1,14 @@
+Angel Trumpeter
+Card Type: Normal Tuner Monster
+
+Description: This beautiful, fairy-like flower generates a delusional mist to keep intruders away from the deepest parts of the forest, where sacred beasts dwell.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1600
+Archetype: Fairy
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

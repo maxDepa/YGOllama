@@ -1,0 +1,15 @@
+Ignoble Knight of Black Laundsallyn
+Card Type: Effect Monster
+
+Description: You can send 1 face-up LIGHT Normal Monster you control to the Graveyard; Special Summon this card from your hand or Graveyard. You can Tribute 1 "Noble Knight" monster; add 1 "Noble Arms" card from your Deck to your hand. You can only use this effect of "Ignoble Knight of Black Laundsallyn" once per turn. You can only control 1 "Ignoble Knight of Black Laundsallyn".
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 800
+Archetype: Noble Knight
+Present in Sets:
+- Abyss Rising
+- Abyss Rising Sneak Peek Participation Card
+- Noble Knights of the Round Table Box Set

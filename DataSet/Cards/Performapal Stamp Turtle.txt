@@ -1,0 +1,14 @@
+Performapal Stamp Turtle
+Card Type: Effect Monster
+
+Description: Once per turn: You can target up to 2 face-up monsters on the field; increase their Levels by 1.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 100
+Defence: 1800
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity

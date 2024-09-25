@@ -1,0 +1,14 @@
+Gale Dogra
+Card Type: Effect Monster
+
+Description: You can pay 3000 Life Points to send 1 monster from your Extra Deck to the Graveyard.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 650
+Defence: 600
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Structure Deck: Cyber Strike

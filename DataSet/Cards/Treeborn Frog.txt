@@ -1,0 +1,23 @@
+Treeborn Frog
+Card Type: Effect Monster
+
+Description: Once per turn, during your Standby Phase, if this card is in your Graveyard and you do not control "Treeborn Frog": You can Special Summon this card. You must control no Spell/Trap Cards to activate and to resolve this effect.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Frog
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Four
+- Dark Revelation Volume 4
+- Duelist Saga
+- Gold Series 2009
+- Shadow of Infinity
+- Shadow of Infinity
+- The Lost Art Promotion 2024 B

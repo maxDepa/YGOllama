@@ -1,0 +1,13 @@
+Grandram
+Card Type: Effect Monster
+
+Description: If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand) in face-up Attack Position.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Abyss Rising

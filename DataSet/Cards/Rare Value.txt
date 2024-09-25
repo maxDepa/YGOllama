@@ -1,0 +1,21 @@
+Rare Value
+Card Type: Spell Card
+
+Description: If you control 2 or more "Crystal Beast" cards in your Spell & Trap Zone: Your opponent chooses 1 "Crystal Beast" card in your Spell & Trap Zone, you send it to the GY, and if you do, you draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 1
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

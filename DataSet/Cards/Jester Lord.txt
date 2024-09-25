@@ -1,0 +1,14 @@
+Jester Lord
+Card Type: Effect Monster
+
+Description: While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell & Trap Card Zones.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Jester
+Present in Sets:
+- Ancient Prophecy
+- Duel Terminal 4

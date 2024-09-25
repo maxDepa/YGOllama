@@ -1,0 +1,14 @@
+Pharaonic Guardian Sphinx
+Card Type: Effect Monster
+
+Description: Once per turn: You can change this card to face-down Defense Position. You can only use each of the following effects of "Pharaonic Guardian Sphinx" once per turn. If this card is Flip Summoned: Shuffle all monsters your opponent controls into the Deck. If this card in its owner's control is destroyed by an opponent's card: You can Special Summon 1 Level 5 Rock monster from your hand or Deck in face-down Defense Position.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 2300
+Defence: 3000
+Archetype: Sphinx
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

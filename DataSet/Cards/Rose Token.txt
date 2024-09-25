@@ -1,0 +1,12 @@
+Rose Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Black Garden".
+
+Type: Plant
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rose Dragon
+Present in Sets:

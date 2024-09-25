@@ -1,0 +1,16 @@
+Infinitrack Goliath
+Card Type: Link Monster
+
+Description: 1 non-Link "Infinitrack" monster
+If this card is sent from the field to the GY: You can target 1 Xyz Monster you control; attach this card to that monster as material. You can only use this effect of "Infinitrack Goliath" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.
+● This card cannot be destroyed by card effects.
+
+Type: Machine
+Attribute: EARTH
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Infinitrack
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

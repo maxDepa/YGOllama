@@ -1,0 +1,13 @@
+Wave-Motion Inferno
+Card Type: Spell Card
+
+Description: While you have no cards in your hand, face-up "Infernity" monsters you control gain 400 ATK and DEF. You can send this face-up card from the field to the Graveyard to send all cards from your hand to the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- The Shining Darkness

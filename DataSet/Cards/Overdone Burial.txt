@@ -1,0 +1,14 @@
+Overdone Burial
+Card Type: Spell Card
+
+Description: Activate this card by discarding 1 monster, then target 1 monster in your GY whose Level is lower than the discarded monster's original Level; Special Summon it and equip it with this card. The equipped monster has its effects negated. You can only activate 1 "Overdone Burial" per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

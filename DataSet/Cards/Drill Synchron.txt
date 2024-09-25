@@ -1,0 +1,17 @@
+Drill Synchron
+Card Type: Tuner Monster
+
+Description: If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 300
+Archetype: Synchron
+Present in Sets:
+- Absolute Powerforce
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei 3
+- Legendary Collection 5D's Mega Pack
+- Synchron Extreme Structure Deck

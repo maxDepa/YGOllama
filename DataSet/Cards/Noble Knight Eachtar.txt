@@ -1,0 +1,16 @@
+Noble Knight Eachtar
+Card Type: Effect Monster
+
+Description: You can banish 2 "Noble Knight" monsters from your Graveyard; Special Summon this card from your hand or Graveyard. You can only use this effect of "Noble Knight Eachtar" once per turn. A Synchro or Xyz Summon of a "Noble Knight" monster using this card as a Material cannot be negated, also your opponent cannot activate cards or effects when that monster is Special Summoned.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 2000
+Archetype: Noble Knight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Maximum Gold
+- Noble Knights of the Round Table Box Set
+- Primal Origin

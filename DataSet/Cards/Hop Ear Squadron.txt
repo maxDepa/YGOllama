@@ -1,0 +1,14 @@
+Hop Ear Squadron
+Card Type: Tuner Monster
+
+Description: During your opponent's Main Phase (Quick Effect): You can target 1 face-up monster you control; Special Summon this card from your hand, and if you do, immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and that target. You can only use this effect of "Hop Ear Squadron" once per turn.
+
+Type: Beast
+Attribute: WIND
+Level: 2
+Attack: 300
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

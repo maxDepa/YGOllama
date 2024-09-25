@@ -1,0 +1,14 @@
+Spellbook of Eternity
+Card Type: Spell Card
+
+Description: Target 1 of your banished "Spellbook" Spell Cards, except "Spellbook of Eternity"; add that target to your hand. You can only activate 1 "Spellbook of Eternity" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- Abyss Rising
+- Astral Pack Four

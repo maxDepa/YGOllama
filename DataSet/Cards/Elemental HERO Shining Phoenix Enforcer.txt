@@ -1,0 +1,18 @@
+Elemental HERO Shining Phoenix Enforcer
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Phoenix Enforcer" + "Elemental HERO Sparkman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each "Elemental HERO" card in your Graveyard. This card cannot be destroyed by battle.
+
+Type: Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2500
+Defence: 2100
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack

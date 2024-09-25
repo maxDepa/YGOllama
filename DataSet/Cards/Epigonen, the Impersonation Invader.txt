@@ -1,0 +1,13 @@
+Epigonen, the Impersonation Invader
+Card Type: Effect Monster
+
+Description: You can Tribute 1 Effect Monster: Special Summon this card from your hand, then Special Summon 1 "Epigonos Token" (Level 1/ATK 0/ DEF 0) with the same Type and Attribute as the Tributed monster's original Type and Attribute. You can only use this effect of "Epigonen, the Impersonation Invader" once per turn.
+
+Type: Rock
+Attribute: LIGHT
+Level: 7
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battle of Chaos

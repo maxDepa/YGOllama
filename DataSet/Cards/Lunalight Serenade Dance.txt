@@ -1,0 +1,17 @@
+Lunalight Serenade Dance
+Card Type: Trap Card
+
+Description: When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; apply these effects in sequence.
+● Special Summon 1 "Lunalight Token" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field.
+● That target gains 500 ATK for each monster your opponent controls (even if this card leaves the field).
+During your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 "Lunalight" monster from your Deck. You can only use this effect of "Lunalight Serenade Dance" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

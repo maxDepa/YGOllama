@@ -1,0 +1,26 @@
+One for One
+Card Type: Spell Card
+
+Description: Send 1 monster from your hand to the GY; Special Summon 1 Level 1 monster from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Amazing Defenders
+- Amazing Defenders
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei 2
+- Legendary Collection 5D's Mega Pack
+- Pendulum Domination Structure Deck
+- Raging Battle
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Star Pack 2013
+- Star Pack 2013
+- Structure Deck: Powercode Link
+- Structure Deck: Sacred Beasts
+- Synchron Extreme Structure Deck
+- Yu-Gi-Oh! Advent Calendar (2019)

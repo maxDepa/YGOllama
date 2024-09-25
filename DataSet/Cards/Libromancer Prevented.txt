@@ -1,0 +1,14 @@
+Libromancer Prevented
+Card Type: Trap Card
+
+Description: If you control a "Libromancer" monster: You can target 1 face-up monster your opponent controls; this turn, that face-up monster cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use this effect of "Libromancer Prevented" once per turn. Once per turn, during the End Phase, if you control no "Libromancer" Ritual Monsters: Send this card to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Libromancer
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

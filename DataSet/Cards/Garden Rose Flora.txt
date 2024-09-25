@@ -1,0 +1,15 @@
+Garden Rose Flora
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can target 1 card in the Field Zone; destroy it, then Special Summon to its controller's field, 1 "Rose Token" (Plant/DARK/Level 2/ATK 800/DEF 800) in Attack Position, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of "Garden Rose Flora" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Plant
+Attribute: LIGHT
+Level: 5
+Attack: 800
+Defence: 1600
+Archetype: Rose
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

@@ -1,0 +1,13 @@
+Crashbug Road
+Card Type: Spell Card
+
+Description: Each player can Special Summon 1 monster from their hand with the same Level as 1 face-up Level 4 or lower monster they control.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

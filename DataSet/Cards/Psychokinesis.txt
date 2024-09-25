@@ -1,0 +1,17 @@
+Psychokinesis
+Card Type: Spell Card
+
+Description: If you control a Psychic-Type monster: Target 1 card on the field; destroy it, and if you do, take 1000 damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crossroads of Chaos
+- Crossroads of Chaos
+- High-Speed Riders

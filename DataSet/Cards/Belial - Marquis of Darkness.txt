@@ -1,0 +1,16 @@
+Belial - Marquis of Darkness
+Card Type: Effect Monster
+
+Description: Your opponent cannot target any face-up monster you control, except "Belial - Marquis of Darkness", for an attack, or with Spell/Trap effects.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Gates of the Underworld Structure Deck
+- Phantom Darkness

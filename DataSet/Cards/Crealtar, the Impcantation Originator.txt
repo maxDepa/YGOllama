@@ -1,0 +1,13 @@
+Crealtar, the Impcantation Originator
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Impcantation Inception". During the Main Phase (Quick Effect): You can reveal this card in your hand; discard 1 card, then Special Summon "Impcantation" monsters from your GY whose total Levels equal 10, but shuffle them into the Deck during the End Phase. You can only use this effect of "Crealtar, the Impcantation Originator" once per turn. Non-Ritual "Impcantation" monsters you control gain 2000 ATK, but their effects are negated.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: Impcantation
+Present in Sets:
+- Dark Neostorm

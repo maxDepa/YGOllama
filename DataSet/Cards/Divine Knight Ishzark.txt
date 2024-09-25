@@ -1,0 +1,14 @@
+Divine Knight Ishzark
+Card Type: Effect Monster
+
+Description: After damage calculation, when this card destroys a monster by battle: Banish that monster.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Light of Destruction

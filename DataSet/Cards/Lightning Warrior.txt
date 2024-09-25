@@ -1,0 +1,16 @@
+Lightning Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 300 damage to your opponent for each card in your opponent's hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Shonen Jump December 2010 subscription bonus
+- Turbo Pack: Booster Seven

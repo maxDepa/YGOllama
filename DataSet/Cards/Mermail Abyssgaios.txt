@@ -1,0 +1,15 @@
+Mermail Abyssgaios
+Card Type: XYZ Monster
+
+Description: 2 Level 7 WATER monsters
+While this face-up card has Xyz Material, Level 5 or higher monsters cannot attack. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; negate the effects of all face-up monsters your opponent currently controls that have less ATK than this card, until the end of the turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 7
+Attack: 2800
+Defence: 1600
+Archetype: Mermail
+Present in Sets:
+- Abyss Rising
+- Abyss Rising

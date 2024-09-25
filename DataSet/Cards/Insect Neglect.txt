@@ -1,0 +1,14 @@
+Insect Neglect
+Card Type: Spell Card
+
+Description: When your opponent's monster declares an attack: You can banish 1 Insect monster from your GY; negate the attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators
+- Stardust Overdrive

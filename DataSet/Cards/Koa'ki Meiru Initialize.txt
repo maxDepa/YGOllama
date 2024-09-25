@@ -1,0 +1,13 @@
+Koa'ki Meiru Initialize!
+Card Type: Spell Card
+
+Description: Tribute 1 "Koa'ki Meiru" monster to add 1 "Iron Core of Koa'ki Meiru" from your Deck or Graveyard to your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- The Shining Darkness

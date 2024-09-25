@@ -1,0 +1,14 @@
+Xyz Energy
+Card Type: Spell Card
+
+Description: Detach 1 Xyz Material you control to target 1 face-up monster your opponent controls; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony

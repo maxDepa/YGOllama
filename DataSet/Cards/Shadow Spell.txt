@@ -1,0 +1,24 @@
+Shadow Spell
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 3
+- Legendary Decks II
+- Starter Deck: Codebreaker
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Kaiba Reloaded
+- Super Starter: Space-Time Showdown
+- Super Starter: V for Victory

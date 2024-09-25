@@ -1,0 +1,13 @@
+Pursuit Chaser
+Card Type: Effect Monster
+
+Description: When a Defense Position monster is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 600
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

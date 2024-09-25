@@ -1,0 +1,24 @@
+Nightmare Wheel
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Millennium Pack
+- Onslaught of the Fire Kings Structure Deck
+- Pharaonic Guardian
+- Retro Pack 2
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3
+- Structure Deck: Marik (TCG)

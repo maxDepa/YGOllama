@@ -1,0 +1,19 @@
+DNA Surgery
+Card Type: Trap Card
+
+Description: Activate this card by declaring 1 Monster Type. All face-up monsters on the field become that Type.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duelist League 18 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel: Streets of Battle City

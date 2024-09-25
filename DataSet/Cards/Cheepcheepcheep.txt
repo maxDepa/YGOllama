@@ -1,0 +1,14 @@
+Cheepcheepcheep
+Card Type: Effect Monster
+
+Description: FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

@@ -1,0 +1,13 @@
+Crazy Fish
+Card Type: Normal Monster
+
+Description: A flying fish that attacks with its pointed head.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Speed Duel: Trials of the Kingdom

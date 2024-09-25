@@ -1,0 +1,14 @@
+Monk Fighter
+Card Type: Effect Monster
+
+Description: Battle Damage to this card's controller from a battle involving this card becomes 0.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

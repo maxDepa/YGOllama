@@ -1,0 +1,14 @@
+Felgrand Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned except from the Graveyard, and only if it was sent there from the field. If this card is Special Summoned: Target 1 monster in your Graveyard; this card gains ATK equal to that monster's Level x 200.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck

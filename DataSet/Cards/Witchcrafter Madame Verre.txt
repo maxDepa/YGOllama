@@ -1,0 +1,15 @@
+Witchcrafter Madame Verre
+Card Type: Effect Monster
+
+Description: During damage calculation, if your Spellcaster monster battles an opponent's monster (Quick Effect): You can reveal any number of Spells with different names in your hand, and if you do, your battling monster gains 1000 ATK/DEF for each card revealed, until the end of this turn. (Quick Effect): You can discard 1 Spell; negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. You can only use each effect of "Witchcrafter Madame Verre" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 1000
+Defence: 2800
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Duel Overload
+- The Infinity Chasers

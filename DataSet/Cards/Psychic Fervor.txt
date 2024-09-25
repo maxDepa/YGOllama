@@ -1,0 +1,13 @@
+Psychic Fervor
+Card Type: Spell Card
+
+Description: During the Battle Phase: Target 1 face-up monster you control; you lose LP equal to its ATK, and if you do, that monster's ATK is doubled until the end of this turn. It cannot attack directly during the turn you activate this card. You can only activate 1 "Psychic Fervor" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Rising Rampage

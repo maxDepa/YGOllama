@@ -1,0 +1,16 @@
+World Gears of Theurlogical Demiurgy
+Card Type: Link Monster
+
+Description: 3 Level 5 or higher monsters
+Cannot be used as Link Material. This Link Summoned card is unaffected by other monsters' effects. You can only use each of the following effects of "World Gears of Theurlogical Demiurgy" once per turn.
+● During your Main Phase, if you control this card that was Link Summoned using 3 monsters that had 3 different Types and Attributes on the field: You can destroy all other cards on the field.
+● If your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can Special Summon 1 "World Legacy" monster from your Deck.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 3500
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- Dark Neostorm

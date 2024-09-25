@@ -1,0 +1,17 @@
+Magicalibra
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+You can declare a Level from 1 to 6, then target 2 face-up monsters you control; until the end of this turn, reduce the Level of 1 of those monsters by the declared amount, and if you do, increase the Level of the other by the same amount (even if this card leaves the field). You can only use this effect of "Magicalibra" once per turn.
+
+[ Monster Effect ] 
+''A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.''
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Rising Rampage

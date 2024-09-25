@@ -1,0 +1,12 @@
+Fiend Sword
+Card Type: Normal Monster
+
+Description: Whoever resists the curse of this blade will gain untold power.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 800
+Archetype: //
+Present in Sets:

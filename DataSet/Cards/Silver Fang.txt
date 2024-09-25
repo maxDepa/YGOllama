@@ -1,0 +1,20 @@
+Silver Fang
+Card Type: Normal Monster
+
+Description: A snow wolf that's beautiful to the eye, but absolutely vicious in battle.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Yugi
+- Starter Deck: Yugi

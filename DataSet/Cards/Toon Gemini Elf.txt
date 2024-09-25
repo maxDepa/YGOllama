@@ -1,0 +1,24 @@
+Toon Gemini Elf
+Card Type: Toon Monster
+
+Description: Cannot attack the turn it is Summoned. If "Toon World" on the field is destroyed, destroy this card. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 900
+Archetype: Toon
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Duelist League Series 6 participation card
+- Duelist Pack: Battle City
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Match of the Millennium

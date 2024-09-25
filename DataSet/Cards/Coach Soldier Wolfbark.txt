@@ -1,0 +1,16 @@
+Coach Soldier Wolfbark
+Card Type: Effect Monster
+
+Description: You can target 1 Level 4 FIRE Beast-Warrior-Type monster in your Graveyard; Special Summon it in face-up Defense Position. Its effects are negated. You can only use the effect of "Coach Soldier Wolfbark" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Maximum Gold
+- Structure Deck: Fire Kings

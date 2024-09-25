@@ -1,0 +1,13 @@
+Serpent Suppression
+Card Type: Trap Card
+
+Description: Face-up Attack Position monsters with 0 ATK your opponent controls cannot be destroyed by battle with "Reptilianne" monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Absolute Powerforce

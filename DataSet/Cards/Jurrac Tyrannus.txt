@@ -1,0 +1,15 @@
+Jurrac Tyrannus
+Card Type: Effect Monster
+
+Description: You can Tribute 1 Dinosaur monster; this card gains 500 ATK. If this card destroys an opponent's monster by battle and sends it to the GY: This card gains 300 ATK.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 7
+Attack: 2500
+Defence: 1400
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Speed Duel: Scars of Battle

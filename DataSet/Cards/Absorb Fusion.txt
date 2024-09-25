@@ -1,0 +1,15 @@
+Absorb Fusion
+Card Type: Spell Card
+
+Description: Add 1 "Gem-Knight" card from your Deck to your hand, then you can apply this effect.
+● Fusion Summon 1 "Gem-Knight" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your hand or your side of the field.
+You can only activate 1 "Absorb Fusion" per turn. You cannot Special Summon monsters the turn you activate this card, except "Gem-Knight" monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gem-
+Present in Sets:
+- Clash of Rebellions

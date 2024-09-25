@@ -1,0 +1,16 @@
+Fusionist
+Card Type: Fusion Monster
+
+Description: "Petit Angel" + "Mystical Sheep #2"
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- OTS Tournament Pack 3

@@ -1,0 +1,13 @@
+Majespecter Porcupine - Yamarashi
+Card Type: Pendulum Effect Monster
+
+Description: During the Main Phase, if you control a "Majespecter" monster (Quick Effect): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 "Majespecter" Spell in your GY; Set it. You can only use each of the previous effects of "Majespecter Porcupine - Yamarashi" once per turn. While this card is in your Monster Zone, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Majespecter
+Present in Sets:
+- Phantom Nightmare

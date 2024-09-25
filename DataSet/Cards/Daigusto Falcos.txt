@@ -1,0 +1,15 @@
+Daigusto Falcos
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "Gusto" monsters
+When this card is Synchro Summoned: All "Gusto" monsters currently on the field gain 600 ATK.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

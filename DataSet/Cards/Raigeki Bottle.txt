@@ -1,0 +1,18 @@
+Raigeki Bottle
+Card Type: Trap Card
+
+Description: Each time a monster you control declares an attack, place 1 Thunder Counter on this card. You can send this card with 4 or more Thunder Counters to the Graveyard; destroy all monsters your opponent controls.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Generation Force
+- Generation Force
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

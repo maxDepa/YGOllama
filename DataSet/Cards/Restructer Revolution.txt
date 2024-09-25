@@ -1,0 +1,15 @@
+Restructer Revolution
+Card Type: Spell Card
+
+Description: Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duelist League Series 5 participation card
+- Tournament Pack 6

@@ -1,0 +1,15 @@
+Imperial Custom
+Card Type: Trap Card
+
+Description: Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom". You can only control 1 "Imperial Custom".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Structure Deck: Sacred Beasts
+- Valiant Smashers

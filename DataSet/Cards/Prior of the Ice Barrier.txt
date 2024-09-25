@@ -1,0 +1,14 @@
+Prior of the Ice Barrier
+Card Type: Effect Monster
+
+Description: If you control a face-up "Ice Barrier" monster, you can Special Summon this card (from your hand). You cannot Special Summon any Level 5 or higher monsters the turn you use this effect. You can Tribute this card to target 1 "Ice Barrier" monster in your Graveyard, except "Prior of the Ice Barrier"; Special Summon that target.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 1000
+Defence: 400
+Archetype: Ice Barrier
+Present in Sets:
+- Photon Shockwave
+- Structure Deck: Freezing Chains

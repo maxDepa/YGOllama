@@ -1,0 +1,13 @@
+Influence Dragon
+Card Type: Tuner Monster
+
+Description: Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 300
+Defence: 900
+Archetype: //
+Present in Sets:
+- Galactic Overlord

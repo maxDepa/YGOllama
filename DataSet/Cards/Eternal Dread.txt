@@ -1,0 +1,14 @@
+Eternal Dread
+Card Type: Trap Card
+
+Description: Place 2 Clock Counters on each "Clock Tower Prison".
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Hero Decks

@@ -1,0 +1,17 @@
+Shaddoll Hound
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 "Shaddoll" card in your GY; add it to your hand.
+If this card is sent to the GY by a card effect: You can target 1 monster on the field; change its battle position. (Flip monsters' effects are not activated at this time, except "Shaddoll" monsters'.) You can only use 1 "Shaddoll Hound" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 900
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance: Deluxe Edition
+- Structure Deck: Shaddoll Showdown
+- The New Challengers

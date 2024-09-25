@@ -1,0 +1,14 @@
+Performapal Springoose
+Card Type: Effect Monster
+
+Description: You can banish this card from your Graveyard, then target 2 cards among the Pendulum Monsters you control and/or the "Magician" and "Performapal" cards in your Pendulum Zone; return both to the hand. You can only use this effect of "Performapal Springoose" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 1100
+Defence: 2400
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

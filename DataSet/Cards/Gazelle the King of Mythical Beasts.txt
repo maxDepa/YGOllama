@@ -1,0 +1,29 @@
+Gazelle the King of Mythical Beasts
+Card Type: Normal Monster
+
+Description: This monster moves so fast that it looks like an illusion to mortal eyes.
+
+
+(This card is always treated as a "Phantom Beast" card.)
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Legendary Collection 3: Yugi's World Mega Pack
+- Maze of Millennia
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel: Battle City Box
+- Starter Deck 2006
+- Starter Deck: Yugi Evolution
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

@@ -1,0 +1,65 @@
+Call of the Haunted
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- 2-Player Starter Deck: Yuya & Declan
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Cyber Dragon Revolution Structure Deck
+- Dark Beginning 1
+- Dark Legion Starter Deck
+- Dragons Collide Structure Deck
+- Duelist League 3 participation cards
+- Duelist Pack: Zane Truesdale
+- Egyptian God Deck: Obelisk the Tormentor
+- Gold Series: Haunted Mine
+- HERO Strike Structure Deck
+- Hobby League 6 participation card E
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Machine Reactor Structure Deck
+- Noble Knights of the Round Table Box Set
+- Onslaught of the Fire Kings Structure Deck
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Premium Gold: Return of the Bling
+- Retro Pack 2
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck
+- Saber Force Starter Deck
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Space-Time Showdown Power-Up Pack
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Cyber Strike
+- Structure Deck: Dragon's Roar
+- Structure Deck: Fury from the Deep
+- Structure Deck: Lord of the Storm
+- Structure Deck: Powercode Link
+- Structure Deck: Seto Kaiba
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Warrior's Triumph
+- Super Starter: V for Victory
+- Synchron Extreme Structure Deck
+- The Lost Art Promotion (series)
+- The Lost Art Promotion I
+- Valiant Smashers
+- Wing Raiders

@@ -1,0 +1,30 @@
+Number 39: Utopia
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+When a monster declares an attack: You can detach 1 material from this card; negate the attack. If this card is targeted for an attack, while it has no material: Destroy this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2500
+Defence: 2000
+Archetype: Utopia
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Battles of Legend: Armageddon
+- Brothers of Legend
+- Duel Power
+- Duel Terminal 7a
+- Duelist League 14 participation cards
+- Gold Series: Haunted Mine
+- King's Court
+- King's Court
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Star Pack 2013
+- Star Pack 2013
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony
+- Super Starter: V for Victory

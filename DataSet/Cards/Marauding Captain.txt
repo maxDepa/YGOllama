@@ -1,0 +1,28 @@
+Marauding Captain
+Card Type: Effect Monster
+
+Description: Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 400
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Beginning 2
+- Demo Pack
+- Hobby League 2 participation card E
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Link Strike
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Warrior's Triumph
+- Super Starter: V for Victory
+- Warriors' Strike Structure Deck

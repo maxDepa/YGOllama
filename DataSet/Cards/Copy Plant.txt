@@ -1,0 +1,14 @@
+Copy Plant
+Card Type: Tuner Monster
+
+Description: Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.
+
+Type: Plant
+Attribute: WIND
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Crossroads of Chaos

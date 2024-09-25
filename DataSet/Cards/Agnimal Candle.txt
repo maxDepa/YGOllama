@@ -1,0 +1,13 @@
+Agnimal Candle
+Card Type: Tuner Monster
+
+Description: If this card is added to your hand, except by drawing it: You can Special Summon this card. You can only use this effect of "Agnimal Candle" once per turn. Once per Chain, up to thrice per turn, if a monster is sent to your GY (except during the Damage Step): You can increase or decrease this card's Level by 1.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Nexus

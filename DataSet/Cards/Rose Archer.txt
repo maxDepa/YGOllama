@@ -1,0 +1,15 @@
+Rose Archer
+Card Type: Effect Monster
+
+Description: During either player's turn, when your opponent activates a Trap Card while you control a Plant-Type monster: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 100
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Primal Origin

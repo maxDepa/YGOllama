@@ -1,0 +1,13 @@
+Turning of the World
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Ruin, Queen of Oblivion" or "Demise, King of Armageddon" from your hand or Deck. You must also Tribute Ritual Monsters from your hand whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. You can only activate 1 "Turning of the World" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Demise
+Present in Sets:
+- Cybernetic Horizon

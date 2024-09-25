@@ -1,0 +1,14 @@
+Raidraptor - Rudder Strix
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned from the hand by the effect of a "Raidraptor" card, or Normal Summoned: You can inflict 600 damage to your opponent. When an opponent's monster declares an attack that targets this card: You can Special Summon up to 2 "Raidraptor" monsters from your hand, and if you do, monsters your opponent controls cannot target those monsters for attacks this turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 1600
+Archetype: Raidraptor
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge

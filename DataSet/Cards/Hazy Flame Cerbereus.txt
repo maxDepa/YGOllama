@@ -1,0 +1,13 @@
+Hazy Flame Cerbereus
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing, but its original ATK becomes 1000. Your opponent cannot target this card with card effects. When this card is destroyed and sent to the Graveyard: You can add 1 "Hazy" card from your Deck to your hand.
+
+Type: Beast
+Attribute: FIRE
+Level: 6
+Attack: 2000
+Defence: 200
+Archetype: Hazy
+Present in Sets:
+- Cosmo Blazer

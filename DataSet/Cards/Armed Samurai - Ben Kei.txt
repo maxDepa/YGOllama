@@ -1,0 +1,17 @@
+Armed Samurai - Ben Kei
+Card Type: Effect Monster
+
+Description: For each Equip Card equipped to this card, it gains 1 additional attack during each Battle Phase.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 14 participation cards
+- Flaming Eternity
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Warrior's Triumph

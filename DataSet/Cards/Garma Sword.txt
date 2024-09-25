@@ -1,0 +1,13 @@
+Garma Sword
+Card Type: Ritual Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Garma Sword Oath".
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 2550
+Defence: 2150
+Archetype: //
+Present in Sets:
+- Tournament Pack 8

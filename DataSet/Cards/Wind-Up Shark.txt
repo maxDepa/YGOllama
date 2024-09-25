@@ -1,0 +1,16 @@
+Wind-Up Shark
+Card Type: Effect Monster
+
+Description: When a "Wind-Up" monster is Normal or Special Summoned to your side of the field: You can Special Summon this card from your hand. Once per turn: You can activate 1 of these effects.
+● Increase this card's Level by 1, until the End Phase.
+● Reduce this card's Level by 1, until the End Phase.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: Wind-Up
+Present in Sets:
+- Cosmo Blazer: Special Edition
+- Order of Chaos

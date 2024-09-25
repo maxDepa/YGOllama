@@ -1,0 +1,15 @@
+Spell of Pain
+Card Type: Spell Card
+
+Description: When your opponent activates a card or effect that would inflict effect damage to you: Your opponent takes the effect damage from that card or effect, instead.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Raging Battle

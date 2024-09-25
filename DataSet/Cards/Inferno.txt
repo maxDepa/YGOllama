@@ -1,0 +1,17 @@
+Inferno
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your GY. If this card destroys an opponent's monster by battle and sends it to the GY: Inflict 1500 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1100
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Soulburner

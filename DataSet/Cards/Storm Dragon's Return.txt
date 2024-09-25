@@ -1,0 +1,15 @@
+Storm Dragon's Return
+Card Type: Trap Card
+
+Description: Target 1 banished monster; Special Summon it to your field, but return it to the hand during the End Phase. You can only activate 1 "Storm Dragon's Return" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage
+- Rising Rampage

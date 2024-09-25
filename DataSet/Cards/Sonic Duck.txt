@@ -1,0 +1,18 @@
+Sonic Duck
+Card Type: Normal Monster
+
+Description: A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1700
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Demo Deck 2015
+- Magician's Force
+- Speed Duel: Attack from the Deep
+- Starter Deck: Jaden Yuki
+- Structure Deck: Lord of the Storm

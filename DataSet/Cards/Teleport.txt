@@ -1,0 +1,13 @@
+Teleport
+Card Type: Spell Card
+
+Description: Once per turn, if your opponent controls a monster and you control no monsters, you can pay 800 Life Points to Special Summon 1 Psychic-Type monster from your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

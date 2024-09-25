@@ -1,0 +1,14 @@
+Sylvan Hermitree
+Card Type: Effect Monster
+
+Description: Once per turn: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard, and if you do, draw 1 card. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: Look at up to 3 cards from the top of your Deck, then place them on the top of the Deck in any order.
+
+Type: Plant
+Attribute: FIRE
+Level: 8
+Attack: 2700
+Defence: 1800
+Archetype: Sylvan
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

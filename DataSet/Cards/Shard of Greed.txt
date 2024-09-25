@@ -1,0 +1,21 @@
+Shard of Greed
+Card Type: Spell Card
+
+Description: Each time you draw a card(s) for your normal draw in your Draw Phase, place 1 Greed Counter on this card. You can send this card with 2 or more Greed Counters to the GY; draw 2 cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Event Pack Speed Duel
+- Photon Shockwave
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 3
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Yugi Reloaded
+- The Pot Collection

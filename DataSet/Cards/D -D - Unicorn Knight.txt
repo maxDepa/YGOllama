@@ -1,0 +1,13 @@
+D.D. Unicorn Knight
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned if your opponent controls a monster(s) and you control a face-up Tuner monster(s). When this card is Special Summoned this way, you can select 1 of your removed from play Level 3 or lower non-Tuner monsters and Special Summon it. Its effect(s) are negated. You cannot Normal Summon or Set the turn you Special Summon this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 900
+Archetype: D.D.
+Present in Sets:
+- Duelist Revolution

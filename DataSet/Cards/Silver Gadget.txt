@@ -1,0 +1,17 @@
+Silver Gadget
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can Special Summon 1 Level 4 Machine monster from your hand. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 "Gadget" monster from your Deck, except "Silver Gadget". You can only use 1 "Silver Gadget" effect per turn, and only once that turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Gadget
+Present in Sets:
+- Duel Power
+- Fists of the Gadgets
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

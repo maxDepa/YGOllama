@@ -1,0 +1,15 @@
+Heroic Champion - Kusanagi
+Card Type: XYZ Monster
+
+Description: 3 Level 4 Warrior-Type monsters
+Once per turn, during either player's turn, when a Trap Card is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it, then this card gains 500 ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2500
+Defence: 2400
+Archetype: Heroic
+Present in Sets:
+- Abyss Rising
+- Battle Pack 3: Monster League

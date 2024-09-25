@@ -1,0 +1,14 @@
+Bandit
+Card Type: Skill Card
+
+Description: If your LP are 1500 or less, activate this Skill. Take control of 1 Set card in your opponent's Spell & Trap Zone. This Skill can only be used once per Duel. 
+
+Type: Keith
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Scars of Battle
+- Speed Duel: Scars of Battle Launch Event participation card

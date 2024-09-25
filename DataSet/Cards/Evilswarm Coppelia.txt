@@ -1,0 +1,14 @@
+Evilswarm Coppelia
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 2450
+Defence: 2050
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

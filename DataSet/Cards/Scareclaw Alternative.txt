@@ -1,0 +1,14 @@
+Scareclaw Alternative
+Card Type: Trap Card
+
+Description: Tribute 3 "Scareclaw" monsters; for the rest of this turn, your opponent can only Special Summon monsters in Defense Position. During your turn: You can banish this card from your GY; inflict 100 damage to your opponent for each Defense Position monster on the field. You can only use this effect of "Scareclaw Alternative" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Scareclaw
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

@@ -1,0 +1,23 @@
+Magician's Circle
+Card Type: Trap Card
+
+Description: When a Spellcaster monster declares an attack: Each player Special Summons 1 Spellcaster monster with 2000 or less ATK from their Deck in Attack Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 3
+- Speed Duel Starter Decks: Destiny Masters
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters
+- Structure Deck: Yugi Muto
+- Turbo Pack: Booster Eight
+- Yu-Gi-Oh! Nightmare Troubadour promotional cards
+- Yugi's Legendary Decks

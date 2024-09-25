@@ -1,0 +1,16 @@
+Performapal Whip Snake
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's Main Phase: You can target 1 face-up monster on the field; switch its current ATK and DEF until the end of this turn.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 900
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

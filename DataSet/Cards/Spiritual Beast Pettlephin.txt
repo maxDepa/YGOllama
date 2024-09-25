@@ -1,0 +1,13 @@
+Spiritual Beast Pettlephin
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish 1 "Ritual Beast" card from your hand, then target 1 card your opponent controls; return it to the hand. You can only Special Summon "Spiritual Beast Pettlephin(s)" once per turn.
+
+Type: Aqua
+Attribute: WIND
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

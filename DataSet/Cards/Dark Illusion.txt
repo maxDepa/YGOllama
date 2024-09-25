@@ -1,0 +1,15 @@
+Dark Illusion
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, is activated that targets a DARK monster on the field: Negate the activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Phantom Darkness
+- Structure Deck: Marik (TCG)

@@ -1,0 +1,13 @@
+Advance Force
+Card Type: Spell Card
+
+Description: You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

@@ -1,0 +1,19 @@
+D.D.R. - Different Dimension Reincarnation
+Card Type: Spell Card
+
+Description: Discard 1 card, then target 1 of your banished monsters; Special Summon it in Attack Position, and equip it with this card. When this card leaves the field, destroy the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D.D.
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Dragons Collide Structure Deck
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Structure Deck: Cyberse Link
+- The Dark Emperor Structure Deck
+- Turbo Pack: Booster One

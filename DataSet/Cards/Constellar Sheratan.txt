@@ -1,0 +1,14 @@
+Constellar Sheratan
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Constellar" monster from your Deck to your hand.
+
+Type: Beast
+Attribute: LIGHT
+Level: 3
+Attack: 700
+Defence: 1900
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

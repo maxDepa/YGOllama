@@ -1,0 +1,16 @@
+Worm Bait
+Card Type: Spell Card
+
+Description: If you control an Insect monster: Special Summon 2 "Worm Tokens" (Insect/EARTH/Level 1/ATK 0/DEF 0). You cannot Normal or Special Summon any Level 3 or 4 monsters the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Worm
+Present in Sets:
+- Legendary Duelists: Ancient Millennium
+- Speed Duel Starter Decks: Ultimate Predators
+- Yu-Gi-Oh! 5D's Tag Force 4 promotional cards
+- Yu-Gi-Oh! 5D's Tag Force 4 promotional cards

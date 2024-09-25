@@ -1,0 +1,14 @@
+King Pyron
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
+● Once per turn, you can inflict 1000 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 5
+Attack: 1500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Tactical Evolution

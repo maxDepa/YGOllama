@@ -1,0 +1,14 @@
+Gladiator Beast Attorix
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Gladiator Beast" monster: You can send 1 "Gladiator Beast" monster from your Deck or Extra Deck to the GY, except "Gladiator Beast Attorix"; until the End Phase, this card's Level and name become the same as that monster sent to the GY. At the end of the Battle Phase, if this card battled: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Attorix".
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: Gladiator Beast
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

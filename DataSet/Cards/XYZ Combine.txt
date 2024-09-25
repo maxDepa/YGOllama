@@ -1,0 +1,14 @@
+XYZ Combine
+Card Type: Spell Card
+
+Description: If your LIGHT Machine Union Monster Card is banished (except during the Damage Step): You can Special Summon 1 "X-Head Cannon", "Y-Dragon Head", or "Z-Metal Tank" from your Deck. You can return 1 Fusion Monster you control to the Extra Deck; Special Summon up to 2 of your banished monsters with different names, from among "X-Head Cannon", "Y-Dragon Head", and "Z-Metal Tank". You can only use each effect of "XYZ Combine" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: ABC
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

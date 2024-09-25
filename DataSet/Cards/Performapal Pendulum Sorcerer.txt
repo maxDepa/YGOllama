@@ -1,0 +1,19 @@
+Performapal Pendulum Sorcerer
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a "Performapal" monster(s) is Pendulum Summoned to your field: All "Performapal" monsters you currently control gain 1000 ATK until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+If this card is Special Summoned: You can target up to 2 cards you control; destroy them, and if you do, add "Performapal" monsters with different names from your Deck to your hand, except "Performapal Pendulum Sorcerer", equal to the number of cards destroyed. You can only use this effect of "Performapal Pendulum Sorcerer" once per turn.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tins
+- Breakers of Shadow
+- Legendary Duelists: Magical Hero

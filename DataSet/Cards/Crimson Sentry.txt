@@ -1,0 +1,15 @@
+Crimson Sentry
+Card Type: Effect Monster
+
+Description: Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the bottom of your Deck.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

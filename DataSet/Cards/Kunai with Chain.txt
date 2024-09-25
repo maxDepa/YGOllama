@@ -1,0 +1,31 @@
+Kunai with Chain
+Card Type: Trap Card
+
+Description: Activate 1 or both of these effects (simultaneously).
+● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.
+● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 5a
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Millennium Pack
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 4
+- Speed Duel: Streets of Battle City
+- The Duelist Genesis
+- Warriors' Strike Structure Deck

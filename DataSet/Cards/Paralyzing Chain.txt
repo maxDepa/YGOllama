@@ -1,0 +1,13 @@
+Paralyzing Chain
+Card Type: Spell Card
+
+Description: When a card(s) is sent from your opponent's Deck to the Graveyard by a card effect, inflict 300 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

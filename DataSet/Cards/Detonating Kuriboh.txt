@@ -1,0 +1,13 @@
+Detonating Kuriboh
+Card Type: Effect Monster
+
+Description: If a "Kuriboh" Monster Card is on the field: You can Special Summon this card from your hand. When your opponent activates a monster effect on the field (Quick Effect): You can equip this card you control to that opponent's monster as an Equip Spell with this effect. You can only use each of the previous effects of "Detonating Kuriboh" once per turn.
+● The equipped monster's effects are negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:

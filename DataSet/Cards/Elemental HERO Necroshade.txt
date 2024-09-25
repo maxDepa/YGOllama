@@ -1,0 +1,19 @@
+Elemental HERO Necroshade
+Card Type: Effect Monster
+
+Description: Once, while this card is in the Graveyard, 1 Level 5 or higher "Elemental HERO" monster you Normal Summon can be Summoned without Tributing.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 1800
+Archetype: Elemental HERO
+Present in Sets:
+- Duel Terminal 4
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Jaden Yuki
+- Yu-Gi-Oh! GX Duel Academy promotional cards

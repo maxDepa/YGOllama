@@ -1,0 +1,23 @@
+Hammer Shot
+Card Type: Spell Card
+
+Description: Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Five
+- Dark Revelation Volume 3
+- Duel Terminal 2
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel Tournament Pack 5
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Duelist Toolbox
+- Structure Deck: Fury from the Deep
+- Structure Deck: Invincible Fortress

@@ -1,0 +1,13 @@
+Luna the Dark Spirit
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. Once per turn, during your Standby Phase: Inflict 500 damage to your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Chaos Impact

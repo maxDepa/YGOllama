@@ -1,0 +1,13 @@
+Lock Cat
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can select 1 Level 1 Beast-Type monster in your Graveyard and Special Summon it in face-up Defense Position. Its effects are negated.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duelist Revolution

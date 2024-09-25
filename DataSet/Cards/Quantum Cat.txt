@@ -1,0 +1,16 @@
+Quantum Cat
+Card Type: Trap Card
+
+Description: Activate this card by declaring 1 Monster Type and 1 Attribute; Special Summon this card as a Normal Monster (Level 4/ATK 0/DEF 2200) with that Type and Attribute. (This card is also still a Trap Card.)
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Speed Duel: Battle City Box
+- Structure Deck: Cyberse Link

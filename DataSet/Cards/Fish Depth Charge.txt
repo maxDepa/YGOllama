@@ -1,0 +1,15 @@
+Fish Depth Charge
+Card Type: Trap Card
+
+Description: Tribute 1 Fish-Type monster to target 1 card on the field; destroy that target, and if you do, draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist League 14 participation cards
+- Speed Duel: Streets of Battle City
+- The Duelist Genesis

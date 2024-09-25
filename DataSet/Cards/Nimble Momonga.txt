@@ -1,0 +1,26 @@
+Nimble Momonga
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of "Nimble Momongas" from your Deck in face-down Defense Position.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 1000
+Defence: 100
+Archetype: Nimble
+Present in Sets:
+- Champion Pack: Game Two
+- Dark Beginning 1
+- Dark Beginning 1
+- Dark Legends
+- Duel Terminal 5a
+- Duelist League Demo 2010
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Spell Ruler
+- Spell Ruler
+- Tournament Pack 4

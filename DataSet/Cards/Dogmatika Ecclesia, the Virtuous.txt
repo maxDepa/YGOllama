@@ -1,0 +1,19 @@
+Dogmatika Ecclesia, the Virtuous
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of "Dogmatika Ecclesia, the Virtuous" once per turn. If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can activate this effect; add 1 "Dogmatika" card from your Deck to your hand, except "Dogmatika Ecclesia, the Virtuous", also you cannot Special Summon monsters from the Extra Deck for the rest of this turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Dogmatika
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Rise of the Duelist
+- Rise of the Duelist

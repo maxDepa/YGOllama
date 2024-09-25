@@ -1,0 +1,14 @@
+Gladiator Rejection
+Card Type: Spell Card
+
+Description: Your opponent cannot target "Gladiator Beast" monsters you control with card effects, except during the Battle Phase. If a "Gladiator Beast" monster(s) is Special Summoned from your Main Deck (except during the Damage Step): You can Special Summon 1 "Gladiator Beast" monster from your Deck with a different Type from the monsters you control, in Defense Position. You can only use this effect of "Gladiator Rejection" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

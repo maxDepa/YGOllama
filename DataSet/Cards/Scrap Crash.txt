@@ -1,0 +1,13 @@
+Scrap Crash
+Card Type: Trap Card
+
+Description: Activate only when a "Scrap" monster you control is destroyed and sent to the Graveyard. Destroy all face-up Spell/Trap Cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Scrap
+Present in Sets:
+- Starstrike Blast

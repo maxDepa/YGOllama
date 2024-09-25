@@ -1,0 +1,14 @@
+Infinitrack Road Roller
+Card Type: Effect Monster
+
+Description: If an EARTH Machine monster is Tributed, or banished face-up: You can Special Summon this card from the GY (if it was there when the monster was Tributed or banished) or hand (even if not), but banish it when it leaves the field. You can only use this effect of "Infinitrack Road Roller" once per turn. An Xyz Monster whose original Type is Machine and has this card as material gains this effect.
+● Face-up monsters your opponent controls are changed to Defense Position, also they lose 1000 DEF.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 2100
+Defence: 2100
+Archetype: Infinitrack
+Present in Sets:
+- Cyberstorm Access

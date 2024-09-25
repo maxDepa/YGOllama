@@ -1,0 +1,14 @@
+Blackfeather Darkrage Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Once per turn, when you take damage: You can send up to 5 cards from the top of your Deck to the Graveyard, then if any monsters were sent to the Graveyard by this effect, this card gains 400 ATK.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Premium Gold

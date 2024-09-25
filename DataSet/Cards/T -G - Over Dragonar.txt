@@ -1,0 +1,15 @@
+T.G. Over Dragonar
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can Special Summon any number of "T.G." monsters from your GY in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except "T.G." monsters. You can only use this effect of "T.G. Over Dragonar" once per turn. If this card on the field is destroyed: Draw 1 card.
+
+Type: Dragon
+Attribute: DARK
+Level: 5
+Attack: 2100
+Defence: 1900
+Archetype: T.G.
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

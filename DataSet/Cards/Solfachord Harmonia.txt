@@ -1,0 +1,17 @@
+Solfachord Harmonia
+Card Type: Spell Card
+
+Description: You can activate 1 of these effects;
+● Add 1 face-up "Solfachord" Pendulum Monster from your Extra Deck to your hand.
+● Increase the Pendulum Scale of 1 "Solfachord" card in your Pendulum Zone by its Level this turn.
+● If you control "Solfachord" Pendulum Monster Cards with at least 3 different even Pendulum Scales or at least 3 different odd Pendulum Scales, destroy 1 card your opponent controls.
+You can only use each effect of "Solfachord Harmonia" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solfachord
+Present in Sets:
+- Ancient Guardians

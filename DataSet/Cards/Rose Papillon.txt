@@ -1,0 +1,13 @@
+Rose Papillon
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can Tribute Summon 1 Level 7 or higher monster in Attack Position in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) While you control another Insect monster, this card can attack directly.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 1400
+Defence: 800
+Archetype: Rose
+Present in Sets:
+- Age of Overlord

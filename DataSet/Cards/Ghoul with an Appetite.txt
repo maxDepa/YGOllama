@@ -1,0 +1,12 @@
+Ghoul with an Appetite
+Card Type: Normal Monster
+
+Description: A monster with a heavy appetite that has never been satisfied.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:

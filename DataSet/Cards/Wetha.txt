@@ -1,0 +1,13 @@
+Wetha
+Card Type: Normal Monster
+
+Description: A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1000
+Defence: 900
+Archetype: //
+Present in Sets:
+- Speed Duel: Trials of the Kingdom

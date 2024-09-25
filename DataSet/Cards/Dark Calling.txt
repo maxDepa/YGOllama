@@ -1,0 +1,19 @@
+Dark Calling
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, that must be Special Summoned with "Dark Fusion", by banishing the Fusion Materials listed on it from your hand and/or GY. (This is treated as a Fusion Summon with "Dark Fusion".)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Magnificent Mavens
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 6

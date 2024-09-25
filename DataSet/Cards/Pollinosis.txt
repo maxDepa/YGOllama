@@ -1,0 +1,18 @@
+Pollinosis
+Card Type: Trap Card
+
+Description: When a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Plant monster; negate the Summon or activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Crossroads of Chaos
+- Secret Slayers
+- Turbo Pack: Booster Three

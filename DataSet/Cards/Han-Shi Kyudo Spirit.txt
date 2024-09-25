@@ -1,0 +1,18 @@
+Han-Shi Kyudo Spirit
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a monster(s) is Pendulum Summoned: Return this card to the hand.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can return all cards you control in the same column as the cards in your Pendulum Zones to the hand (including the Pendulum Zone cards themselves), then you can add 1 monster with 2400 ATK/1000 DEF from your Deck to your hand, except "Han-Shi Kyudo Spirit". Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.
+
+Type: Warrior
+Attribute: WIND
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: Martial Art Spirit
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

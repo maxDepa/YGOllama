@@ -1,0 +1,18 @@
+Ancient Lamp
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can Special Summon "La Jinn the Mystical Genie of the Lamp" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 900
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Legends
+- Duelist Pack: Kaiba
+- Legendary Decks II
+- Retro Pack
+- Shadow of Infinity Sneak Peek Participation Card

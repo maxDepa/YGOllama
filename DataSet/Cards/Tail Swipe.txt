@@ -1,0 +1,16 @@
+Tail Swipe
+Card Type: Spell Card
+
+Description: Target 1 Level 5 or higher Dinosaur monster you control; if that Dinosaur monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return the chosen monsters to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel: Trials of the Kingdom
+- Structure Deck: Dinosaur's Rage
+- Turbo Pack: Booster Seven

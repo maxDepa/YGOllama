@@ -1,0 +1,18 @@
+D/D/D Duo-Dawn King Kali Yuga
+Card Type: XYZ Monster
+
+Description: 2 Level 8 "D/D" monsters
+After this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards on the field. You can detach 1 Xyz Material from this card, then target 1 "Dark Contract" Spell/Trap Card in your Graveyard; Set that target.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3500
+Defence: 3000
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Ghosts From the Past: The 2nd Haunting
+- Star Pack Battle Royal
+- Star Pack Battle Royal

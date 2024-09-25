@@ -1,0 +1,15 @@
+Beast Soul Swap
+Card Type: Trap Card
+
+Description: Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 16 participation cards
+- Flaming Eternity

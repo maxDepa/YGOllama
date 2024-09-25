@@ -1,0 +1,13 @@
+Ancient Warriors - Eccentric Lu Jing
+Card Type: Effect Monster
+
+Description: You can target 1 Continuous Spell/Trap you control; send it to the GY, and if you do, add 1 "Ancient Warriors" Spell/Trap with a different name from your GY to your hand. If your other "Ancient Warriors" monster's effect is activated (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of "Ancient Warriors - Eccentric Lu Jing" once per turn.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 4
+Attack: 700
+Defence: 2000
+Archetype: Ancient Warriors
+Present in Sets:
+- Ignition Assault

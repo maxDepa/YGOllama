@@ -1,0 +1,16 @@
+Destruction Swordsman Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster that lists "Buster Blader" as Material from your Extra Deck, using monsters from your hand or either side of the field as Fusion Materials. If this card is in your Graveyard: You can send 1 card from your hand to the Graveyard; add this card to your hand. You can only use each effect of "Destruction Swordsman Fusion" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destruction Sword
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City

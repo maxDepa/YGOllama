@@ -1,0 +1,15 @@
+Lord Gaia the Fierce Knight
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). Once per turn, if a monster(s) with ATK higher than this card is Special Summoned to your opponent's field (except during the Damage Step): You can make this card gain 700 ATK until the end of this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2300
+Defence: 2100
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

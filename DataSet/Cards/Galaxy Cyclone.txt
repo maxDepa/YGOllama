@@ -1,0 +1,20 @@
+Galaxy Cyclone
+Card Type: Spell Card
+
+Description: Target 1 Set Spell/Trap on the field; destroy it. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Spell/Trap on the field; destroy it. You can only use this effect of "Galaxy Cyclone" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Machine Reactor Structure Deck
+- Premium Gold: Infinite Gold
+- Secret Slayers
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 6

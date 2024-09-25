@@ -1,0 +1,14 @@
+Morphtronic Magnen Bar
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: Once per turn, if you control exactly 2 other face-up Attack Position monsters, and no additional monsters, this card gains the combined ATK of the other two monsters you control until the End Phase. The other two monsters cannot attack the turn you activate this effect.
+● While in Defense Position: Monsters you control cannot attack.
+
+Type: Thunder
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Morphtronic
+Present in Sets:
+- Ancient Prophecy

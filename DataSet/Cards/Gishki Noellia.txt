@@ -1,0 +1,15 @@
+Gishki Noellia
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can excavate the top 5 cards of your Deck, send any excavated Ritual Spell Cards and "Gishki" monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz
+- The Secret Forces

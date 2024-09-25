@@ -1,0 +1,14 @@
+Bujingi Wolf
+Card Type: Effect Monster
+
+Description: Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

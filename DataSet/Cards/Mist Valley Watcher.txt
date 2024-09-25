@@ -1,0 +1,14 @@
+Mist Valley Watcher
+Card Type: Normal Monster
+
+Description: Descendant of a family that has served as Mist Valley watchman over the generations. Never missed a single thing that happened in the valley, no matter how minute.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1900
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 1
+- Gold Series 3

@@ -1,0 +1,14 @@
+Gladiator Beast Sagittarii
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Gladiator Beast" monster: You can discard 1 "Gladiator Beast" card; draw 2 cards. At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Sagittarii".
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1400
+Defence: 1000
+Archetype: Gladiator Beast
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

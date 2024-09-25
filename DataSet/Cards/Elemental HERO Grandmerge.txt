@@ -1,0 +1,14 @@
+Elemental HERO Grandmerge
+Card Type: Fusion Monster
+
+Description: 2 "HERO" Normal Monsters
+Must be Fusion Summoned. Gains ATK/DEF equal to the combined original Levels of the materials used for its Fusion Summon x 300. When this card destroys an opponent's monster by battle: You can Tribute this card; Special Summon 1 "Elemental HERO" Fusion Monster from your Extra Deck, ignoring its Summoning conditions, but it cannot attack monsters with an equal or lower Level than it.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duel Power

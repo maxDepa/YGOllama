@@ -1,0 +1,14 @@
+Battle Waltz
+Card Type: Spell Card
+
+Description: Target 1 Synchro Monster you control; Special Summon 1 "Waltz Token" with the current Type, Attribute, Level, ATK and DEF of that monster. Neither player takes any battle damage from attacks involving this Token.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Legendary Collection 5D's Mega Pack

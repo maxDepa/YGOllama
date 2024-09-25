@@ -1,0 +1,14 @@
+Gunkan Suship Shirauo
+Card Type: Effect Monster
+
+Description: If you control a "Gunkan Suship Shari", or an Xyz Monster that has "Gunkan Suship Shari" as material: You can Special Summon this card from your hand. During your Main Phase: You can Special Summon 1 "Gunkan" monster from your hand, except "Gunkan Suship Shirauo", then you can take any number of "Gunkan Suship Shari" from your Deck or GY and place them on top of your Deck in any order. You can only use each effect of "Gunkan Suship Shirauo" once per turn.
+
+Type: Aqua
+Attribute: FIRE
+Level: 4
+Attack: 200
+Defence: 250
+Archetype: Gunkan
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

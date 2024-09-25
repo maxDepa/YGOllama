@@ -1,0 +1,15 @@
+Insect Soldiers of the Sky
+Card Type: Effect Monster
+
+Description: If this card attacks a WIND monster, it gains 1000 ATK during the Damage Step only.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,14 @@
+Parallel World Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Elemental HERO" Fusion Monster from your Extra Deck, by shuffling your banished Fusion Materials listed on it into your Deck. You cannot Special Summon monsters except by this card's effect, during the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years

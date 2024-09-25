@@ -1,0 +1,14 @@
+Crusadia Power
+Card Type: Spell Card
+
+Description: Target 1 "Crusadia" monster you control; that "Crusadia" monster is unaffected by card effects this turn, except its own. You can only activate 1 "Crusadia Power" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crusadia
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

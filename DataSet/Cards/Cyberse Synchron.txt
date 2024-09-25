@@ -1,0 +1,13 @@
+Cyberse Synchron
+Card Type: Tuner Monster
+
+Description: Once per turn: You can target 1 Level 4 or lower monster you control; increase its Level by its original Level until the end of this turn. If your monster(s) in the Extra Monster Zone would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use this effect of "Cyberse Synchron" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Synchron
+Present in Sets:
+- Savage Strike

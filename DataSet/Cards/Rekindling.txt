@@ -1,0 +1,19 @@
+Rekindling
+Card Type: Spell Card
+
+Description: Special Summon from your GY as many FIRE monsters as possible with 200 DEF, but banish them during the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Duel Terminal 7b
+- Mystic Fighters
+- Onslaught of the Fire Kings Structure Deck
+- Premium Gold: Return of the Bling
+- Structure Deck: Fire Kings
+- Turbo Pack: Booster Three

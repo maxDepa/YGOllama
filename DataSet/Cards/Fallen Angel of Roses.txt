@@ -1,0 +1,15 @@
+Fallen Angel of Roses
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by returning 1 Plant-Type monster you control to the hand, except "Fallen Angel of Roses", but banish it when it leaves the field.
+
+Type: Plant
+Attribute: EARTH
+Level: 7
+Attack: 2400
+Defence: 1300
+Archetype: Fairy
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Premium Collection Tin

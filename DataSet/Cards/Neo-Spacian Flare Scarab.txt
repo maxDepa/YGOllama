@@ -1,0 +1,17 @@
+Neo-Spacian Flare Scarab
+Card Type: Effect Monster
+
+Description: Gains 400 ATK for each Spell/Trap your opponent controls.
+
+Type: Insect
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: Neo-Spacian
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist
+- Shadows in Valhalla

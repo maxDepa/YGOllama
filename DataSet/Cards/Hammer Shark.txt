@@ -1,0 +1,15 @@
+Hammer Shark
+Card Type: Effect Monster
+
+Description: Once per turn: You can reduce the Level of this card by 1, and if you do, Special Summon 1 Level 3 or lower WATER monster from your hand.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Star Pack 2014
+- Star Pack 2014

@@ -1,0 +1,13 @@
+Sweet Corn
+Card Type: Effect Monster
+
+Description: Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 "Maize Token" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos

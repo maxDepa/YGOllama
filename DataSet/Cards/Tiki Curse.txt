@@ -1,0 +1,16 @@
+Tiki Curse
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Rock-Type/DARK/Level 4/ATK 1800/DEF 1000). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card that is a monster battles an opponent's monster, after damage calculation: Destroy that opponent's monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Gold Series: Haunted Mine
+- Storm of Ragnarok

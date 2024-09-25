@@ -1,0 +1,16 @@
+Ojama Red
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon up to 4 "Ojama" monsters from your hand in Attack Position.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 1000
+Archetype: Ojama
+Present in Sets:
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Raging Battle
+- Speed Duel GX: Duel Academy Box

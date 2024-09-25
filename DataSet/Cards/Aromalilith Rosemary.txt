@@ -1,0 +1,14 @@
+Aromalilith Rosemary
+Card Type: Link Monster
+
+Description: 2+ Plant monsters
+If this card is Special Summoned: You can add 1 "Aroma" card from your Deck to your hand. If you gain LP, even during the Damage Step: You can Special Summon up to 3 "Aroma" monsters from your hand to your zones this card points to. You can Tribute 1 monster this card points to, then target 1 card on the field; banish it, and if you do, gain 1000 LP. You can only use each effect of "Aromalilith Rosemary" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: Aroma
+Present in Sets:
+- Phantom Nightmare

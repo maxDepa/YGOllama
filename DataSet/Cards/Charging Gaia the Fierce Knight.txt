@@ -1,0 +1,16 @@
+Charging Gaia the Fierce Knight
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, its original ATK becomes 1900. If this card is Tributed: You can add 1 "Black Luster Soldier" monster from your Deck to your hand. You can only use this effect of "Charging Gaia the Fierce Knight" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2300
+Defence: 2100
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 3

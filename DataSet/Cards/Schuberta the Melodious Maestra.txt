@@ -1,0 +1,16 @@
+Schuberta the Melodious Maestra
+Card Type: Fusion Monster
+
+Description: 2 "Melodious" monsters
+During either player's turn: You can target up to 3 cards in any Graveyard(s); banish them, and if you do, this card gains 200 ATK for each. This effect can only be used once while this card is face-up on the field.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: Melodious
+Present in Sets:
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal

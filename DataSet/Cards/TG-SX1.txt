@@ -1,0 +1,14 @@
+TG-SX1
+Card Type: Trap Card
+
+Description: When a "T.G." monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Target 1 "T.G." Synchro Monster in your Graveyard; Special Summon that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

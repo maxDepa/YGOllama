@@ -1,0 +1,17 @@
+Gladiator Proving Ground
+Card Type: Spell Card
+
+Description: Add 1 Level 4 or lower "Gladiator Beast" monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 12 (POR)
+- Phantom Darkness
+- Ra Yellow Mega Pack
+- Turbo Pack: Booster Four

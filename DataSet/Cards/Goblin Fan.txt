@@ -1,0 +1,15 @@
+Goblin Fan
+Card Type: Trap Card
+
+Description: When a Level 2 or lower monster is Flip Summoned, destroy it. Its effects do not activate at that time.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- World Championship 2011 Card Pack
+- Yu-Gi-Oh! The Falsebound Kingdom promotional cards

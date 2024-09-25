@@ -1,0 +1,15 @@
+Mecha Phantom Beast Turtletracer
+Card Type: Effect Monster
+
+Description: This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Each turn, the first "Mecha Phantom Beast Token" you control that would be destroyed by battle, is not destroyed.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 2000
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy Sneak Peek Participation Card

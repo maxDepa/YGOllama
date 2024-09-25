@@ -1,0 +1,14 @@
+Volcanic Slicer
+Card Type: Effect Monster
+
+Description: Once per turn, you can inflict 500 damage to your opponent. If you activate this effect, this card cannot attack during this turn.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Volcanic
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker

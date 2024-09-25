@@ -1,0 +1,20 @@
+Performapal Partnaga
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster you control; it gains 300 ATK for each "Performapal" card you currently control, until the end of this turn.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can target 1 monster you control; it gains 300 ATK for each "Performapal" monster you currently control. Level 5 or lower monsters cannot attack.
+
+Type: Reptile
+Attribute: EARTH
+Level: 5
+Attack: 500
+Defence: 2100
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V

@@ -1,0 +1,15 @@
+Sasuke Samurai #2
+Card Type: Effect Monster
+
+Description: Once per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated.
+
+Type: Warrior
+Attribute: WIND
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

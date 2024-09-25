@@ -1,0 +1,17 @@
+Nephthys, the Sacred Flame
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Ritual Monster
+While this card is in the Extra Monster Zone, monsters your opponent controls cannot target "Nephthys" monsters in the Main Monster Zones for attacks. This card gains effects based on the number of Ritual Monsters used for its Link Summon.
+● 1+: Cannot be destroyed by battle.
+● 2+: Cannot be destroyed by card effects, also it gains 1200 ATK.
+● 3: Neither player can target this card with card effects, also it gains another 1200 ATK.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: Nephthys
+Present in Sets:
+- Hidden Summoners

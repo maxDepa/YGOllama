@@ -1,0 +1,16 @@
+Genex Ally Bellflame
+Card Type: Effect Monster
+
+Description: Each time a monster(s) you control is sent to the Graveyard, place 1 Genex Counter on this card. Each time a card(s) in your opponent's Graveyard is banished, place 2 Genex Counters on this card. This card gains 100 ATK for each Genex Counter on the field. If this card is destroyed by battle and sent to the Graveyard: Inflict 300 damage to your opponent for each Genex Counter that was on this card.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Genex
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph

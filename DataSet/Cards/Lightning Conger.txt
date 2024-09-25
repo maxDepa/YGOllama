@@ -1,0 +1,15 @@
+Lightning Conger
+Card Type: Normal Monster
+
+Description: This massive eel generates huge charges of electricity and unleashes them as thunderbolts.
+
+Type: Thunder
+Attribute: WATER
+Level: 3
+Attack: 350
+Defence: 750
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

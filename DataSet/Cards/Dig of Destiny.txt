@@ -1,0 +1,15 @@
+Dig of Destiny
+Card Type: Trap Card
+
+Description: When you take battle damage: Draw 1 card. If this card in its owner's control is destroyed by an opponent's card effect: You can draw cards, equal to the number of "Dig of Destiny" in your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

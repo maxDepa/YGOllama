@@ -1,0 +1,14 @@
+Yamadron
+Card Type: Normal Monster
+
+Description: This monster has three fire-breathing heads and can form a sea of blazing flames.
+
+Type: Dragon
+Attribute: FIRE
+Level: 5
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- McDonald's Promotional Cards

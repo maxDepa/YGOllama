@@ -1,0 +1,13 @@
+Neo Space Pathfinder
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard to add 1 "Neo Space" from your Deck or Graveyard to your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Tactical Evolution

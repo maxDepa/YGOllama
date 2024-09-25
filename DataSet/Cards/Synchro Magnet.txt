@@ -1,0 +1,13 @@
+Synchro Magnet
+Card Type: Tuner Monster
+
+Description: This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 600
+Archetype: //
+Present in Sets:
+- The Shining Darkness

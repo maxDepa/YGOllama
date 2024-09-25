@@ -1,0 +1,16 @@
+Double Headed Anger Knuckle
+Card Type: Link Monster
+
+Description: 2 Machine monsters
+Cannot be used as Link Material. You can only use 1 of the following effects of "Double Headed Anger Knuckle" per turn, and only once that turn.
+● During the Main Phase (Quick Effect): You can send 1 monster from your hand or field to the GY, then target 1 Level 10 Machine monster in your GY; Special Summon it in Defense Position, but negate its effects.
+● If this card is in your GY: You can send 1 card from your hand or field to the GY; Special Summon this card.
+
+Type: Machine
+Attribute: EARTH
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: Train
+Present in Sets:
+- Battles of Legend: Hero's Revenge

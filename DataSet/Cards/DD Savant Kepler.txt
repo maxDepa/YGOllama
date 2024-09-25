@@ -1,0 +1,22 @@
+D/D Savant Kepler
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "D/D" monsters. This effect cannot be negated. Once per turn, during your Standby Phase: Reduce this card's Pendulum Scale by 2 (min. 1), then destroy all monsters you control with a Level greater than or equal to this card's Pendulum Scale, except "D/D" monsters.
+
+[ Monster Effect ] 
+If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of "D/D Savant Kepler" once per turn.
+● Target 1 other "D/D" card you control; return it to the hand.
+● Add 1 "Dark Contract" card from your Deck to your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Magnificent Mavens
+- Pendulum Domination Structure Deck

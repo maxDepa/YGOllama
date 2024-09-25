@@ -1,0 +1,15 @@
+Aroma Strategy
+Card Type: Skill Card
+
+Description: [At the start of the Duel, flip this card over.] 
+
+You may look at the top card of your Deck at any time.
+
+Type: Mai
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Duelists of Tomorrow

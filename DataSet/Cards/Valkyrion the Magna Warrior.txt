@@ -1,0 +1,20 @@
+Valkyrion the Magna Warrior
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 "Alpha The Magnet Warrior", "Beta The Magnet Warrior", and "Gamma The Magnet Warrior" from your hand and/or field. You can Tribute this card, then target 1 "Alpha The Magnet Warrior", "Beta The Magnet Warrior", and "Gamma The Magnet Warrior" in your Graveyard; Special Summon them.
+
+Type: Rock
+Attribute: EARTH
+Level: 8
+Attack: 3500
+Defence: 3850
+Archetype: Magnet Warrior
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Structure Deck: Yugi Muto
+- Yu-Gi-Oh! World Championship Tournament 2004 promotional cards
+- Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards
+- Yugi's Legendary Decks

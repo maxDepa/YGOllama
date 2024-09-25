@@ -1,0 +1,16 @@
+Power Up!
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase.
+Once per Duel, you can make 1 face-up monster on the field gain 500 ATK until the end of this turn.
+
+Type: Yami Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Event Pack Speed Duel
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020

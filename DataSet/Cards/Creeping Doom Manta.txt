@@ -1,0 +1,15 @@
+Creeping Doom Manta
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned successfully, no Trap Cards can be activated.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Structure Deck: Fury from the Deep

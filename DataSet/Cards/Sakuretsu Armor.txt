@@ -1,0 +1,31 @@
+Sakuretsu Armor
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Target the attacking monster; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game One
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Demo Deck 2015
+- Duelist League 2010 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Rise of the Dragon Lords Structure Deck
+- Starter Deck 2006
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Jaden Yuki
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Lord of the Storm
+- Structure Deck: Machine Re-Volt
+- Super Starter: Space-Time Showdown
+- The Dark Emperor Structure Deck
+- Warriors' Strike Structure Deck

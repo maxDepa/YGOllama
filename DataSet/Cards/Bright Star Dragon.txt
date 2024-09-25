@@ -1,0 +1,14 @@
+Bright Star Dragon
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 other face-up monster on the field; increase that target's Level by 2 until the end of this turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Galactic Overlord

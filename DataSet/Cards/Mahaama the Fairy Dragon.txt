@@ -1,0 +1,18 @@
+Mahaama the Fairy Dragon
+Card Type: Tuner Monster
+
+Description: During your opponent's turn, when either player takes battle damage: You can Special Summon this card from your hand, then apply 1 of these effects.
+● Gain LP equal to that battle damage.
+● Inflict damage to your opponent equal to that battle damage.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 5
+Attack: 0
+Defence: 2500
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Phantom Rage

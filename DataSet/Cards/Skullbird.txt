@@ -1,0 +1,13 @@
+Skullbird
+Card Type: Fusion Monster
+
+Description: "Takuhee" + "Temple of Skulls"
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 1900
+Defence: 1700
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 2

@@ -1,0 +1,18 @@
+Hi-Speedroid Chanbara
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+This card can make a second attack during each Battle Phase. At the start of the Damage Step, if this card battles: It gains 200 ATK. If this card is sent to the GY: You can target 1 of your banished "Speedroid" cards; add it to your hand. You can only Special Summon "Hi-Speedroid Chanbara(s)" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 2000
+Defence: 1000
+Archetype: Hi-Speedroid
+Present in Sets:
+- High-Speed Riders
+- Legendary Duelists: Synchro Storm
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Shadows in Valhalla

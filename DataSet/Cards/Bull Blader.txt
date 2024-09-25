@@ -1,0 +1,15 @@
+Bull Blader
+Card Type: Effect Monster
+
+Description: When an attack is declared involving this card and an opponent's monster: You can activate this effect; during this battle involving this monster, neither player takes any battle damage, also destroy the opponent's monster after damage calculation.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants

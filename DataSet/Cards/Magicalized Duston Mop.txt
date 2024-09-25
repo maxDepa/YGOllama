@@ -1,0 +1,13 @@
+Magicalized Duston Mop
+Card Type: Spell Card
+
+Description: You can only control 1 "Magicalized Duston Mop". The equipped monster cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. When this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can add 1 "Duston" monster from your Deck to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Duston
+Present in Sets:
+- Shadow Specters

@@ -1,0 +1,20 @@
+Herald of Orange Light
+Card Type: Tuner Monster
+
+Description: When your opponent activates a monster effect (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 300
+Defence: 500
+Archetype: Herald
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- OTS Tournament Pack 20
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Structure Deck: Wave of Light
+- The Duelist Genesis
+- Turbo Pack: Booster Seven

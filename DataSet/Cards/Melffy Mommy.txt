@@ -1,0 +1,20 @@
+Melffy Mommy
+Card Type: XYZ Monster
+
+Description: 2+ Level 2 Beast monsters
+Once per turn (Quick Effect): You can attach 1 Beast monster from your hand or face-up field to this card as material. This card gains effects based on the number of materials attached to it.
+● 3+: Cannot be destroyed by battle.
+● 4+: You take no damage from battles involving this card.
+● 5+: When an attack is declared involving this card and an Attack Position monster: You can inflict damage to your opponent equal to that Attack Position monster's ATK.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 1000
+Defence: 1000
+Archetype: Melffy
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Rise of the Duelist

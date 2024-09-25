@@ -1,0 +1,13 @@
+Yowie
+Card Type: Effect Monster
+
+Description: If this card is Summoned (and no other cards): You can activate this effect; your opponent skips their next Draw Phase. You can only Special Summon once, the turn you activate this effect. You can only use this effect of "Yowie" once per Duel.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Brothers of Legend

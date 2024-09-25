@@ -1,0 +1,13 @@
+Execute Protocols
+Card Type: Trap Card
+
+Description: During each Battle Phase: You can banish 1 DARK Link Monster from your GY, then target 1 "Borrel" monster you control; until the end of this turn, it gains ATK equal to the ATK of the monster banished to activate this effect. You can only use this effect of "Execute Protocols" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Borrel
+Present in Sets:
+- Structure Deck: Rokket Revolt

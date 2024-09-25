@@ -1,0 +1,15 @@
+Steam Gyroid
+Card Type: Fusion Monster
+
+Description: "Gyroid" + "Steamroid"
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 1600
+Archetype: Roid
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel GX: Midterm Paradox

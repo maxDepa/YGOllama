@@ -1,0 +1,32 @@
+Pot of Greed
+Card Type: Spell Card
+
+Description: Draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Duelist Pack: Kaiba
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Starter Deck: Yugi Evolution
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Dragon's Roar
+- Structure Deck: Fury from the Deep
+- Structure Deck: Zombie Madness
+- The Pot Collection
+- The Pot Collection
+- Tournament Pack: 3rd Season
+- Yugi's Legendary Decks

@@ -1,0 +1,15 @@
+Fiend Griefing
+Card Type: Trap Card
+
+Description: Target 1 monster in your opponent's Graveyard; shuffle it into the Deck, then you can send 1 Fiend-Type monster from your Deck to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Tactical Masters

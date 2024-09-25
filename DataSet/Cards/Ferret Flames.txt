@@ -1,0 +1,15 @@
+Ferret Flames
+Card Type: Trap Card
+
+Description: If the combined ATK of all face-up monsters your opponent controls is higher than your LP: Make your opponent shuffle monsters they control into the Deck (their choice), so that the combined ATK of the remaining monsters they control becomes less than or equal to your LP.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Structure Deck: Legend of the Crystal Beasts

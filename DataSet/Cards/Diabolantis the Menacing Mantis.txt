@@ -1,0 +1,14 @@
+Diabolantis the Menacing Mantis
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can send Insect and/or Plant monsters from your Deck to the GY up to the number of non-Tuners used for its Synchro Summon. If you control this Synchro Summoned card: You can target 1 Insect or Plant monster you control; treat it as a Tuner until the end of this turn. You can only use each effect of "Diabolantis the Menacing Mantis" once per turn.
+
+Type: Insect
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Photon Hypernova

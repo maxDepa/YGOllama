@@ -1,0 +1,13 @@
+Present Card
+Card Type: Trap Card
+
+Description: Your opponent discards their entire hand, then draws 5 cards. You can only activate 1 "Present Card" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Invasion: Vengeance

@@ -1,0 +1,19 @@
+Helping Robo for Combat
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Trials of the Kingdom

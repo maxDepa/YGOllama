@@ -1,0 +1,14 @@
+Samurai Sword Baron
+Card Type: Effect Monster
+
+Description: Once per turn, you can select 1 Defense Position monster your opponent controls. Change it to face-up Attack Position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards
+- Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards

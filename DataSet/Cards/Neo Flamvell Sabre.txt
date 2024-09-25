@@ -1,0 +1,17 @@
+Neo Flamvell Sabre
+Card Type: Effect Monster
+
+Description: While your opponent has 4 or less cards in their Graveyard, this card gains 600 ATK. While your opponent has 8 or more cards in their Graveyard, this card loses 300 ATK.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Onslaught of the Fire Kings Structure Deck

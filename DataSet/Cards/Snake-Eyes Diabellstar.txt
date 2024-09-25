@@ -1,0 +1,14 @@
+Snake-Eyes Diabellstar
+Card Type: Effect Monster
+
+Description: When an attack is declared involving this card and an opponent's monster: You can place this card from the field, and that opponent's monster, face-up in their owners' Spell & Trap Zones as Continuous Spells. While this card is a Continuous Spell: You can target 1 FIRE monster in your GY, except "Snake-Eyes Diabellstar"; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon this card. You can only use each effect of "Snake-Eyes Diabellstar" once per turn.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: Snake-Eye
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

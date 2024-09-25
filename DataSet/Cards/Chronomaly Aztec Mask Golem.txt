@@ -1,0 +1,13 @@
+Chronomaly Aztec Mask Golem
+Card Type: Effect Monster
+
+Description: During your turn, if you have activated a "Chronomaly" Spell Card previously this turn, you can Special Summon this card (from your hand). You can only control 1 "Chronomaly Aztec Mask Golem".
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Chronomaly
+Present in Sets:
+- Number Hunters

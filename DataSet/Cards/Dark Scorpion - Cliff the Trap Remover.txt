@@ -1,0 +1,18 @@
+Dark Scorpion - Cliff the Trap Remover
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:
+● Target 1 Spell/Trap Card on the field; destroy that target.
+● Send the top 2 cards of their Deck to the Graveyard.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 1000
+Archetype: Dark Scorpion
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows

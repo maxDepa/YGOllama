@@ -1,0 +1,17 @@
+Miracle Restoring
+Card Type: Trap Card
+
+Description: Remove 2 Spell Counters from your side of the field, then target 1 "Dark Magician" or "Buster Blader" in your Graveyard; Special Summon that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yugi Reloaded
+- Yugi's Legendary Decks

@@ -1,0 +1,14 @@
+Encode Talker
+Card Type: Link Monster
+
+Description: 2+ Cyberse monsters
+Once per turn, before damage calculation, if your monster this card points to battles an opponent's monster with higher ATK than it: You can make that monster unable to be destroyed by that battle, also you take no battle damage from that battle. After that damage calculation, have this card or 1 monster it points to gain ATK equal to the ATK of that battled opponent's monster, until the end of this turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Structure Deck: Cyberse Link

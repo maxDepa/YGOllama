@@ -1,0 +1,14 @@
+Tuned Magician
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
+● This card is treated as a Tuner monster.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

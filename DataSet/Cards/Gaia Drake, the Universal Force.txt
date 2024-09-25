@@ -1,0 +1,15 @@
+Gaia Drake, the Universal Force
+Card Type: Fusion Monster
+
+Description: 1 "Gaia Knight, the Force of Earth" + 1 non-Effect Synchro Monster
+This card cannot be targeted by, or destroyed by, the effects of Effect Monsters.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 10
+Attack: 3500
+Defence: 2800
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Starstrike Blast
+- Starstrike Blast

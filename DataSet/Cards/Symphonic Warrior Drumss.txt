@@ -1,0 +1,14 @@
+Symphonic Warrior Drumss
+Card Type: Tuner Monster
+
+Description: Once per turn, you can declare 1 Attribute and select 1 face-up "Symphonic Warrior" monster on the field. That monster becomes that Attribute. You can declare 1 Attribute and remove from play this card from your Graveyard to select 1 face-up "Symphonic Warrior" monster you control, and make it that Attribute.
+
+Type: Machine
+Attribute: WIND
+Level: 2
+Attack: 700
+Defence: 700
+Archetype: Symphonic Warrior
+Present in Sets:
+- OTS Tournament Pack 19 (POR)
+- Storm of Ragnarok

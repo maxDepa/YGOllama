@@ -1,0 +1,12 @@
+Dark Plant
+Card Type: Normal Monster
+
+Description: This mutant flower draws its power from pollutants and the dark forces.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 400
+Archetype: //
+Present in Sets:

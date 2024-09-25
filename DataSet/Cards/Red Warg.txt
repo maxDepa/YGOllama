@@ -1,0 +1,16 @@
+Red Warg
+Card Type: Effect Monster
+
+Description: When you Normal Summon a "Resonator" monster: You can Special Summon this card from your hand, but its ATK becomes halved.
+
+Type: Fiend
+Attribute: FIRE
+Level: 6
+Attack: 1400
+Defence: 2200
+Archetype: Resonator
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- Structure Deck: The Crimson King
+- The Dark Illusion

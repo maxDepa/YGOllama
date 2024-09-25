@@ -1,0 +1,16 @@
+Security Orb
+Card Type: Trap Card
+
+Description: When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gladiator's Assault
+- Gladiator's Assault
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Scars of Battle

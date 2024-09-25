@@ -1,0 +1,15 @@
+Infernal Incinerator
+Card Type: Effect Monster
+
+Description: This card can only be Normal Summoned or Set by discarding all other card(s) in your hand and Tributing 1 card you control with 2000 or more ATK. This card gains 200 ATK for each monster your opponent controls. This card loses 500 ATK for each other monster you control.
+
+Type: Fiend
+Attribute: FIRE
+Level: 6
+Attack: 2800
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy

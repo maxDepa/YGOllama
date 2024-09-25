@@ -1,0 +1,16 @@
+That Wacky Alchemy!
+Card Type: Trap Card
+
+Description: If a face-up Spell Card(s) in your opponent's Spell & Trap Card Zones is sent to the Graveyard: You can target 1 face-up monster on the field; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Abyss Rising
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

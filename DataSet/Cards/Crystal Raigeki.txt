@@ -1,0 +1,18 @@
+Crystal Raigeki
+Card Type: Trap Card
+
+Description: Send 1 "Crystal Beast" card from your Spell & Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Duel Terminal 1
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box

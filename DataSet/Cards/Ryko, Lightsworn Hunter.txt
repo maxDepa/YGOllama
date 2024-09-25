@@ -1,0 +1,24 @@
+Ryko, Lightsworn Hunter
+Card Type: Flip Effect Monster
+
+Description: FLIP: Apply these effects (simultaneously).
+● You can destroy 1 card on the field.
+● Send the top 3 cards of your Deck to the GY.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 200
+Defence: 100
+Archetype: Lightsworn
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dragons Collide Structure Deck
+- Gold Series 4: Pyramids Edition
+- Light of Destruction
+- Premium Gold
+- Realm of Light Structure Deck
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Turbo Pack: Booster One

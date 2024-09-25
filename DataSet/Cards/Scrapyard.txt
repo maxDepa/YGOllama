@@ -1,0 +1,14 @@
+Scrapyard
+Card Type: Spell Card
+
+Description: Add 1 "Scrap" Tuner monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Scrap
+Present in Sets:
+- Duelist Revolution
+- OTS Tournament Pack 9 (POR)

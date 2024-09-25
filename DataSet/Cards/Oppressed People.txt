@@ -1,0 +1,14 @@
+Oppressed People
+Card Type: Normal Monster
+
+Description: They are oppressed, but believe they will have their freedom someday.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

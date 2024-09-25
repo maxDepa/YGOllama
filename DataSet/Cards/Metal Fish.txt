@@ -1,0 +1,16 @@
+Metal Fish
+Card Type: Normal Monster
+
+Description: A metal fish with a razor-sharp caudal fin.
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 1600
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

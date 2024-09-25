@@ -1,0 +1,15 @@
+Boneheimer
+Card Type: Normal Monster
+
+Description: This monster wanders the seas, sucking dry any creatures it may encounter.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 850
+Defence: 400
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

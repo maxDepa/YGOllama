@@ -1,0 +1,16 @@
+The Bystial Aluber
+Card Type: Tuner Monster
+
+Description: This card's name becomes "Fallen of Albaz" while on the field or in the GY. If this card is Normal or Special Summoned: You can discard 1 card, then target 1 Dragon monster your opponent controls or in their GY, and activate the appropriate effect;
+● Send this card to the GY, and if you do, take control of that monster on the field until the End Phase.
+● Send this card to the GY, and if you do, Special Summon that monster from the GY to your field.
+You can only use this effect of "The Bystial Aluber" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: Bystial
+Present in Sets:
+- Cyberstorm Access

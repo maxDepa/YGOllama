@@ -1,0 +1,13 @@
+Hi-Five the Sky
+Card Type: Trap Card
+
+Description: During your Battle Phase: Target 1 face-up Xyz Monster that attacked this turn; it can make a second attack during this Battle Phase. If it does so using this effect, your opponent cannot activate cards or effects until the end of the Damage Step.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Superstars

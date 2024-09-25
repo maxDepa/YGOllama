@@ -1,0 +1,24 @@
+Red-Eyes Darkness Metal Dragon
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 face-up Dragon monster you control. You can only Special Summon "Red-Eyes Darkness Metal Dragon" once per turn this way. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or GY, except "Red-Eyes Darkness Metal Dragon". You can only use this effect of "Red-Eyes Darkness Metal Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: 2800
+Defence: 2400
+Archetype: Red-Eyes
+Present in Sets:
+- Absolute Powerforce: Special Edition
+- Dragons Collide Structure Deck
+- Duel Terminal 4
+- Duelist Saga
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 1
+- Maximum Gold: El Dorado
+- Rise of the True Dragons Structure Deck
+- Shonen Jump February 2009 subscription bonus
+- Structure Deck: Albaz Strike

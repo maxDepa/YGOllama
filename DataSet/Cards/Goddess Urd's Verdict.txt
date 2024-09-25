@@ -1,0 +1,13 @@
+Goddess Urd's Verdict
+Card Type: Spell Card
+
+Description: Your opponent cannot target "Valkyrie" monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. Once per turn: You can declare 1 card name, then target 1 Set card your opponent controls; reveal the Set card, and if it was the declared card, banish it. Otherwise, banish 1 card you control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Valkyrie
+Present in Sets:
+- Shadows in Valhalla

@@ -1,0 +1,20 @@
+Reprodocus
+Card Type: Link Monster
+
+Description: 2 monsters
+You can activate 1 of these effects.
+● Declare 1 Monster Type; all face-up monsters this card points to become that Type until the end of this turn.
+● Declare 1 Attribute; all face-up monsters this card points to become that Attribute until the end of this turn.
+You can only use this effect of "Reprodocus" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)

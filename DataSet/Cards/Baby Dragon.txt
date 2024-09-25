@@ -1,0 +1,25 @@
+Baby Dragon
+Card Type: Normal Monster
+
+Description: Much more than just a child, this dragon is gifted with untapped power.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 700
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Speed Duel Demo Deck
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Starter Deck: Joey

@@ -1,0 +1,13 @@
+Blind Obliteration
+Card Type: Trap Card
+
+Description: Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Code of the Duelist

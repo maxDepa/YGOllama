@@ -1,0 +1,13 @@
+Green Turtle Summoner
+Card Type: Effect Monster
+
+Description: FLIP: Target 1 monster your opponent controls; destroy it.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 3
+Attack: 400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Super Starter: Space-Time Showdown

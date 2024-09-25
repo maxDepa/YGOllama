@@ -1,0 +1,14 @@
+Fragment Fusion
+Card Type: Trap Card
+
+Description: Banish from your Graveyard the Fusion Material Monsters that are listed on a "Gem-Knight" Fusion Monster Card, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) Destroy it during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

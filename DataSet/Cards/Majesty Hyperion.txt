@@ -1,0 +1,13 @@
+Majesty Hyperion
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand or GY) by banishing 1 "The Agent" monster from your hand, field, or GY. You can only Special Summon "Majesty Hyperion" once per turn this way. Any battle damage you take from battles involving your Fairy monsters is also inflicted to your opponent. Once per turn: You can banish 1 Fairy monster from your hand or GY, then target 1 card in either GY; banish it. If "The Sanctuary in the Sky" is on the field or in either GY, you can use this effect up to twice per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 8
+Attack: 2100
+Defence: 2700
+Archetype: Hyperion
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

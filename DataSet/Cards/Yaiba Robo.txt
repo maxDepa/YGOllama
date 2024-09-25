@@ -1,0 +1,13 @@
+Yaiba Robo
+Card Type: Normal Monster
+
+Description: A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares

@@ -1,0 +1,13 @@
+Guts of Steel
+Card Type: Spell Card
+
+Description: Select 3 "Scrap" monsters in your Graveyard. Your opponent picks 1 of them, you Special Summon it to either player's side of the field, and remove the rest from play.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

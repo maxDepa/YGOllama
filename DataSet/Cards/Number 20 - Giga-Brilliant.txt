@@ -1,0 +1,17 @@
+Number 20: Giga-Brilliant
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card; all face-up monsters you currently control gain 300 ATK.
+
+Type: Insect
+Attribute: LIGHT
+Level: 3
+Attack: 1800
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 3: Monster League
+- Photon Shockwave
+- Zexal Collection Tin

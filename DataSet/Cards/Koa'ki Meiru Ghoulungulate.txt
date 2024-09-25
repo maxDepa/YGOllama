@@ -1,0 +1,14 @@
+Koa'ki Meiru Ghoulungulate
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Zombie-Type monster in your hand. If a "Koa'ki Meiru" monster you control would be destroyed by battle or by a card effect, you can remove from play 1 "Koa'ki Meiru" monster in your Graveyard instead.
+
+Type: Zombie
+Attribute: EARTH
+Level: 5
+Attack: 2500
+Defence: 1700
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Ancient Prophecy
+- Ancient Prophecy

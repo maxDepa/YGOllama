@@ -1,0 +1,15 @@
+Laval Stennon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner FIRE monsters
+When this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. During either player's turn, when this card is targeted by a card effect: You can banish 1 "Laval" monster from your Graveyard; negate the activation, and if you do, destroy the targeting card.
+
+Type: Pyro
+Attribute: FIRE
+Level: 7
+Attack: 2700
+Defence: 1800
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

@@ -1,0 +1,13 @@
+Dread Dragon
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 3 or lower Dragon-Type monster from your Deck to your hand.
+
+Type: Dragon
+Attribute: FIRE
+Level: 2
+Attack: 1100
+Defence: 400
+Archetype: //
+Present in Sets:
+- The Shining Darkness

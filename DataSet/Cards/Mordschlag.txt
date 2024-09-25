@@ -1,0 +1,14 @@
+Mordschlag
+Card Type: Spell Card
+
+Description: Equip only to a Normal Summoned/Set monster you control. It is unaffected by your opponent's activated effects of Special Summoned monsters. During damage calculation, if the equipped monster battles an opponent's Special Summoned monster: That opponent's monster loses ATK/DEF equal to the equipped monster's original ATK, during that damage calculation only.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

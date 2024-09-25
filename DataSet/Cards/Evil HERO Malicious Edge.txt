@@ -1,0 +1,21 @@
+Evil HERO Malicious Edge
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster, you can Tribute Summon this card face-up with 1 Tribute. If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Fiend
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: Evil HERO
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duelist Pack: Jaden Yuki 3
+- Gladiator's Assault
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows

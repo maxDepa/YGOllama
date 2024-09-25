@@ -1,0 +1,14 @@
+Cyberse Integrator
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned, you can: Special Summon 1 Cyberse Tuner from your hand or GY in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Cyberse monsters. If this Synchro Summoned card is sent to the GY: You can draw 1 card. You can only use each effect of "Cyberse Integrator" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Savage Strike

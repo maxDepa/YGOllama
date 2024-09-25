@@ -1,0 +1,18 @@
+Superheavy Samurai Warlord Susanowo
+Card Type: Synchro Monster
+
+Description: 1 Machine-Type Tuner + 1 or more non-Tuner "Superheavy Samurai" monsters
+This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player's turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent's Graveyard; Set it to your side of the field, but banish it when it leaves the field.
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 2400
+Defence: 3800
+Archetype: Superheavy
+Present in Sets:
+- Secrets of Eternity
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition
+- Star Pack ARC-V
+- Star Pack ARC-V

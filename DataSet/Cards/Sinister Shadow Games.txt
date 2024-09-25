@@ -1,0 +1,15 @@
+Sinister Shadow Games
+Card Type: Trap Card
+
+Description: Send 1 "Shaddoll" card from your Deck to the GY, then you can change any number of face-down Defense Position "Shaddoll" monsters you control to face-up Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

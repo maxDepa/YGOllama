@@ -1,0 +1,14 @@
+Mermail Abyssleed
+Card Type: Effect Monster
+
+Description: You can discard 3 other WATER monsters to the GY; Special Summon this card from your hand. When Summoned this way: You can target 1 "Abyss-" Spell/Trap in your GY; add that target to your hand. You can Tribute 1 other Attack Position "Mermail" monster; send 1 random card from your opponent's hand to the GY. You can only use this effect of "Mermail Abyssleed" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 7
+Attack: 2700
+Defence: 1000
+Archetype: Mermail
+Present in Sets:
+- Cosmo Blazer
+- Shadows in Valhalla

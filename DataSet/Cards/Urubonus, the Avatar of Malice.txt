@@ -1,0 +1,13 @@
+Urubonus, the Avatar of Malice
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls lose 300 ATK/DEF. You can only use each of the following effects of "Urubonus, the Avatar of Malice" once per turn. You can Tribute 1 Reptile monster; Special Summon this card from your hand. You can Tribute 1 monster; all monsters your opponent currently controls lose ATK/DEF equal to the original ATK of the Tributed monster, until the end of this turn.
+
+Type: Reptile
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

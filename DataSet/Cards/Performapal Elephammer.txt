@@ -1,0 +1,14 @@
+Performapal Elephammer
+Card Type: Effect Monster
+
+Description: If you control 2 or more "Performapal" cards, you can Normal Summon this card without Tributing. Cannot attack unless you control another "Performapal" card. When this card declares an attack: You can return all Spell and Trap Cards your opponent controls to the hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 6
+Attack: 2600
+Defence: 1800
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

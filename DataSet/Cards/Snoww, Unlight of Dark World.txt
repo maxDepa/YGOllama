@@ -1,0 +1,15 @@
+Snoww, Unlight of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target 1 monster in your opponent's Graveyard; add 1 "Dark World" card from your Deck to your hand, then Special Summon that target (if any) in face-up Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

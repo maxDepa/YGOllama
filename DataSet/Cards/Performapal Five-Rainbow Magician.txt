@@ -1,0 +1,19 @@
+Performapal Five-Rainbow Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon, except from the Extra Deck. This effect cannot be negated. Each player applies 1 of these effects based on the number of Set cards in their Spell & Trap Zones.
+● 0: All monsters they control cannot attack or activate their effects.
+● 4 or more: The ATK of all monsters they control become double their original ATK.
+
+[ Monster Effect ] 
+If either player Sets a Spell/Trap on your field while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Performapal
+Present in Sets:
+- Battles of Legend: Light's Revenge

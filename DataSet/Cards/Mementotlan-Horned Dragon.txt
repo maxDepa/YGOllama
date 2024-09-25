@@ -1,0 +1,13 @@
+Mementotlan-Horned Dragon
+Card Type: Effect Monster
+
+Description: If you have 3 or more "Memento" monsters with different names in your GY, you can Special Summon this card (from your hand). You can only Special Summon "Mementotlan-Horned Dragon" once per turn this way. If this card on the field is destroyed by card effect: You can target 3 face-up cards on the field, including a "Memento" card you control; destroy them. You can only use this effect of "Mementotlan-Horned Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2850
+Defence: 2350
+Archetype: Memento
+Present in Sets:
+- Valiant Smashers

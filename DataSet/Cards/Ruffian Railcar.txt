@@ -1,0 +1,14 @@
+Ruffian Railcar
+Card Type: Effect Monster
+
+Description: Once per turn: You can inflict 500 damage to your opponent. You cannot conduct your Battle Phase the turn you activate this effect. During the End Phase, if this card is in the GY because it was sent there this turn: You can add 1 Level 10 EARTH Machine monster from your Deck to your hand. You can only use this effect of "Ruffian Railcar" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Train
+Present in Sets:
+- Legendary Duelists: Sisters of the Rose
+- The New Challengers

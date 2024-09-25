@@ -1,0 +1,15 @@
+Trent
+Card Type: Normal Monster
+
+Description: A guardian of the woods, this massive tree is believed to be immortal.
+
+Type: Plant
+Attribute: EARTH
+Level: 5
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

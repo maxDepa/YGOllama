@@ -1,0 +1,16 @@
+Avenging Knight Parshath
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner LIGHT monsters
+Once per turn: You can target 1 face-up monster your opponent controls; change that target's battle position. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2600
+Defence: 2100
+Archetype: Parshath
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- The Duelist Genesis
+- The Duelist Genesis Sneak Peek Participation Card

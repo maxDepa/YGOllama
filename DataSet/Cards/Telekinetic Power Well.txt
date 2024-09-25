@@ -1,0 +1,13 @@
+Telekinetic Power Well
+Card Type: Spell Card
+
+Description: Special Summon any number of Level 2 or lower Psychic-Type monsters from your Graveyard. You take damage equal to the total Levels of those monsters x 300.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis

@@ -1,0 +1,16 @@
+Echo Oscillation
+Card Type: Trap Card
+
+Description: You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of "Echo Oscillation" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Legendary Dragon Decks
+- Pendulum Evolution
+- Secrets of Eternity

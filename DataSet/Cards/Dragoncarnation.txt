@@ -1,0 +1,13 @@
+Dragoncarnation
+Card Type: Trap Card
+
+Description: Target 1 of your banished Dragon-Type monsters; add that target to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

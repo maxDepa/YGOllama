@@ -1,0 +1,15 @@
+Vanadis of the Nordic Ascendant
+Card Type: Tuner Monster
+
+Description: For a Synchro Summon, you can substitute this card for any 1 "Nordic" Tuner. If this card is used as Synchro Material, all other Synchro Materials must be "Nordic" monsters. Once per turn: You can send 1 "Nordic" monster from your Deck to the GY; this card's Level becomes the Level of that monster, until the end of this turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 400
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

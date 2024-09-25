@@ -1,0 +1,14 @@
+Space Dragster
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Machine-Type/Tuner/FIRE/Level 1/ATK 0/DEF 1800). (This card is also still a Trap Card.) If Summoned this way, other Tuners you control cannot be destroyed by battle or your opponent's card effects while this card is in the Monster Zone.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Invasion: Vengeance
+- Invasion: Vengeance Sneak Peek Participation Card

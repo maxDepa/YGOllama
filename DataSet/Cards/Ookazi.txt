@@ -1,0 +1,17 @@
+Ookazi
+Card Type: Spell Card
+
+Description: Inflict 800 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Starter Deck 2006
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

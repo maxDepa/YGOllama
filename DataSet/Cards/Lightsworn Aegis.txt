@@ -1,0 +1,13 @@
+Lightsworn Aegis
+Card Type: Trap Card
+
+Description: Target face-up cards your opponent controls, up to the number of "Lightsworn" monsters you control; negate their effects until the end of this turn. If this card is sent from the Deck to the GY: You can Set this card. You can only use each effect of "Lightsworn Aegis" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Legacy of Destruction

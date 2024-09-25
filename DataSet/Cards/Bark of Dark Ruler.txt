@@ -1,0 +1,20 @@
+Bark of Dark Ruler
+Card Type: Trap Card
+
+Description: If a Fiend-Type monster you control battles, during the Damage Step: Pay LP (in multiples of 100 points), then target the opponent's battling monster; that opponent's monster loses that much ATK and DEF, until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- Turbo Pack: Booster Four

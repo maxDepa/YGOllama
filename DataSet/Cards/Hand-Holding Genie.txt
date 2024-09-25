@@ -1,0 +1,14 @@
+Hand-Holding Genie
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls cannot target monsters for attacks, except this one. This card gains DEF equal to the combined original DEF of all other face-up Defense Position monsters you control.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

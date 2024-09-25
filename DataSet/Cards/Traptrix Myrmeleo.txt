@@ -1,0 +1,18 @@
+Traptrix Myrmeleo
+Card Type: Effect Monster
+
+Description: This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can add 1 "Hole" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Traptrix
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Astral Pack Six
+- Judgment of the Light
+- Maximum Gold
+- Premium Gold: Return of the Bling
+- Structure Deck: Beware of Traptrix

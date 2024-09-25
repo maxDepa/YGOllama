@@ -1,0 +1,17 @@
+Gunkan Suship Uni-class Super-Dreadnought
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+If this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of "Gunkan Suship Uni-class Super-Dreadnought" once per turn.
+● "Gunkan Suship Shari": Draw 1 card. ● "Gunkan Suship Uni": This card gains the ability to attack directly.
+Once per turn, during your Main Phase or your opponent's Battle Phase (Quick Effect): You can target face-up cards your opponent controls, up to the number of "Gunkan" monsters you control Special Summoned from the Extra Deck; negate their effects.
+
+Type: Aqua
+Attribute: FIRE
+Level: 5
+Attack: 2900
+Defence: 500
+Archetype: Gunkan
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

@@ -1,0 +1,13 @@
+Chakra
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "Resurrection of Chakra".
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2450
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Number Hunters

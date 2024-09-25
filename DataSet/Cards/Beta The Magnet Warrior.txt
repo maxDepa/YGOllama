@@ -1,0 +1,19 @@
+Beta The Magnet Warrior
+Card Type: Normal Monster
+
+Description: ''Alpha, Beta, and Gamma meld as one to form a powerful monster.''
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Magnet Warrior
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Structure Deck: Yugi Muto
+- Yu-Gi-Oh! The Duelists of the Roses promotional cards
+- Yu-Gi-Oh! The Duelists of the Roses promotional cards
+- Yugi's Legendary Decks

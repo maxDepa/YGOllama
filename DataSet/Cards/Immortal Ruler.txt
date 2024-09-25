@@ -1,0 +1,14 @@
+Immortal Ruler
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. You can Tribute this card, then target 1 "Zombie World" in your GY; add that target to your hand.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: //
+Present in Sets:
+- Raging Battle
+- Structure Deck: Zombie Horde

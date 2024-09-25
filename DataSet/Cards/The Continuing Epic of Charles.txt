@@ -1,0 +1,13 @@
+The Continuing Epic of Charles
+Card Type: Trap Card
+
+Description: Reveal 1 "Noble Arms" Equip Spell in your hand, and if you do, Special Summon 1 "Infernoble Knight" monster from your hand or Deck, then either equip the revealed card to that monster, or send it to the GY. You can banish this card from your GY, then target 1 "Infernoble Knight Emperor Charles" you control; equip 1 "Noble Knight" monster from your hand or Deck to that monster as an Equip Spell that gives it 500 ATK. You can only use each effect of "The Continuing Epic of Charles" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Noble Knight
+Present in Sets:
+- Duelist Nexus

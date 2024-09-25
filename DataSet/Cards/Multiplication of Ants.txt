@@ -1,0 +1,16 @@
+Multiplication of Ants
+Card Type: Spell Card
+
+Description: Tribute 1 Insect-Type Monster on your side of the field. Special Summon 2 "Army Ant Tokens" (Insect-Type/EARTH/Level 4/ATK 500/DEF 1200) on your side of the field. The tokens cannot be used as a Tribute for a Tribute Summon.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel: Streets of Battle City

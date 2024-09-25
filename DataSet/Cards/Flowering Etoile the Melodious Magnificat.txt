@@ -1,0 +1,14 @@
+Flowering Etoile the Melodious Magnificat
+Card Type: Fusion Monster
+
+Description: 1 "Melodious Maestra" monster + 2 "Melodious" monsters
+(Quick Effect): You can banish (until the End Phase) any number of "Melodious" monsters you control, then you can return up to that many face-up cards your opponent controls to the hand. You can only use this effect of "Flowering Etoile the Melodious Magnificat" once per turn. If this face-up Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 "Melodious" monster from your Deck or Extra Deck, except "Flowering Etoile the Melodious Magnificat".
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 1500
+Archetype: Melodious
+Present in Sets:
+- Legacy of Destruction

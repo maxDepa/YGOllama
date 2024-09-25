@@ -1,0 +1,13 @@
+Maliss Q HEARTS OF CRYPTER
+Card Type: Link Monster
+
+Description: 3 monsters, including a "Maliss" monster
+(Quick Effect): You can target 1 of your banished "Maliss" cards; shuffle it into the Deck, and if you do, banish 1 card on the field. This effect's activation and effect cannot be negated if this card points to a monster. If this card is banished: You can pay 900 LP; Special Summon this card, and if you do, its ATK becomes doubled. You can only use each effect of "Maliss HEARTS OF CRYPTER" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: Maliss
+Present in Sets:

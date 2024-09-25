@@ -1,0 +1,14 @@
+Circle of the Fairies
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+During your Main Phase, you can Normal Summon 1 Insect or Plant monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When a monster is destroyed by battle involving your Insect or Plant monster, and sent to the GY: You can target 1 of those destroyed monsters; inflict damage to your opponent equal to half its ATK, then gain LP equal to the damage inflicted to your opponent. You can only use this effect of "Circle of the Fairies" once per turn.
+
+Type: Plant
+Attribute: WIND
+Level: 7
+Attack: 2200
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Photon Hypernova

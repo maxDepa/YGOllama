@@ -1,0 +1,15 @@
+Dragonmaid Tinkhec
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by card effects while you control a Fusion Monster. You can only use each of the following effects of "Dragonmaid Tinkhec" once per turn.
+● (Quick Effect): You can discard this card, then target 1 "Dragonmaid" monster you control; it gains 2000 ATK until the end of this turn.
+● At the end of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 3 "Dragonmaid" monster from your hand.
+
+Type: Dragon
+Attribute: FIRE
+Level: 8
+Attack: 2700
+Defence: 1700
+Archetype: Dragonmaid
+Present in Sets:
+- Mystic Fighters

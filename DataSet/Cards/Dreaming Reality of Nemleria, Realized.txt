@@ -1,0 +1,15 @@
+Dreaming Reality of Nemleria, Realized
+Card Type: Effect Monster
+
+Description: Gains 100 ATK for each face-down card in your Extra Deck. You can only use each of the following effects of "Dreaming Reality of Nemleria, Realized" once per turn. If this card is in your hand: You can target 1 monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. If this card is Special Summoned: You can activate 1 of these effects;
+● Add 1 "Dreaming Nemleria" from your Deck to your face-up Extra Deck.
+● Change 1 other face-up monster on the field to face-down Defense Position.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 10
+Attack: 1500
+Defence: 3000
+Archetype: Nemleria
+Present in Sets:
+- Duelist Nexus

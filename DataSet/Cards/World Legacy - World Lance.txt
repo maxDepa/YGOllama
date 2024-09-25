@@ -1,0 +1,17 @@
+World Legacy - "World Lance"
+Card Type: Effect Monster
+
+Description: Monsters your opponent controls cannot attack "World Legacy" monsters you control, except this one. You can only use each of the following effects of "World Legacy - "World Lance"" once per turn.
+● During damage calculation, if a Link Monster battles a monster (Quick Effect): You can discard this card; the opponent's battling monster loses 3000 ATK.
+● If a monster(s) is Special Summoned from the Extra Deck: Special Summon 1 "World Legacy Token" (Machine/DARK/Level 1/ATK 0/DEF 0) to both players' fields in Defense Position.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- Genesis Impact

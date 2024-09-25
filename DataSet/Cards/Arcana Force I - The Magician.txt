@@ -1,0 +1,15 @@
+Arcana Force I - The Magician
+Card Type: Effect Monster
+
+Description: When this card is Summoned, toss a coin:
+● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn.
+● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 1100
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction

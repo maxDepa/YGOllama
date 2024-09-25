@@ -1,0 +1,14 @@
+Adamancipator Relief
+Card Type: Trap Card
+
+Description: Tribute any number of "Adamancipator" monsters, then target cards on the field equal to that number +1; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Adamancipator
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Secret Slayers

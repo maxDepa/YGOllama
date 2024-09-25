@@ -1,0 +1,12 @@
+Mech Mole Zombie
+Card Type: Normal Monster
+
+Description: This creature attacks by launching missile-like arms.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 400
+Archetype: //
+Present in Sets:

@@ -1,0 +1,17 @@
+Harpie's Feather Storm
+Card Type: Trap Card
+
+Description: If you control a WIND Winged Beast monster: Until the end of this turn, negate any monster effects your opponent activates. If you control a "Harpie" monster, you can activate this card from your hand. If this card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can add 1 "Harpie's Feather Duster" from your Deck or GY to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duelist Saga
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

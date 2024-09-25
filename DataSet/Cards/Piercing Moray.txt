@@ -1,0 +1,15 @@
+Piercing Moray
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 Fish, Sea Serpent, or Aqua-Type monster; this card gains 600 ATK. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Generation Force
+- Generation Force
+- Speed Duel: Streets of Battle City

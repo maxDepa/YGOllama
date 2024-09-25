@@ -1,0 +1,16 @@
+Fortress Whale
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "Fortress Whale's Oath".
+
+Type: Fish
+Attribute: WATER
+Level: 7
+Attack: 2350
+Defence: 2150
+Archetype: Umi
+Present in Sets:
+- Speed Duel Tournament Pack 2
+- Speed Duel: Scars of Battle
+- Speed Duel: Streets of Battle City
+- Tournament Pack 7

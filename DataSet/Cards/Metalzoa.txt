@@ -1,0 +1,15 @@
+Metalzoa
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Zoa" equipped with "Metalmorph".
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2300
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- World Championship 2011 Card Pack
+- Yu-Gi-Oh! The Falsebound Kingdom promotional cards

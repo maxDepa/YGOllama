@@ -1,0 +1,15 @@
+Dimension Fortress Weapon
+Card Type: Effect Monster
+
+Description: Cards cannot be sent from the Deck to the Graveyard.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 200
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)

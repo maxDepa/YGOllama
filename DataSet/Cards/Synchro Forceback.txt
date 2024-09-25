@@ -1,0 +1,13 @@
+Synchro Forceback
+Card Type: Trap Card
+
+Description: Target monsters on the field, up to the number of Synchro Monsters with different names you control; return them to the hand. You can only activate 1 "Synchro Forceback" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Synchro
+Present in Sets:
+- Duelist Nexus

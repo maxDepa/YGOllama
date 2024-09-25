@@ -1,0 +1,13 @@
+Minerva, Scholar of the Sky
+Card Type: Effect Monster
+
+Description: Each time a Counter Trap Card is activated, immediately after it resolves, this card gains 500 ATK, and if it does, and "The Sanctuary in the Sky" is on the field, add 1 Counter Trap with a different name from your GY to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 400
+Archetype: //
+Present in Sets:
+- Structure Deck: Wave of Light

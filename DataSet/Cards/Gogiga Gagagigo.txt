@@ -1,0 +1,15 @@
+Gogiga Gagagigo
+Card Type: Normal Monster
+
+Description: His soul long-since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....
+
+Type: Reptile
+Attribute: WATER
+Level: 8
+Attack: 2950
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

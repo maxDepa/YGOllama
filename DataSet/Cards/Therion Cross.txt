@@ -1,0 +1,17 @@
+Therion Cross
+Card Type: Trap Card
+
+Description: When your opponent activates a monster effect, while you control a "Therion" monster: You can activate 1 of these effects;
+● Negate that effect.
+● Banish that monster.
+If you have "Endless Engine Argyro System" in your GY at activation, you can activate both effects (at resolution, negate, then banish). You can only activate 1 "Therion Cross" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Therion
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

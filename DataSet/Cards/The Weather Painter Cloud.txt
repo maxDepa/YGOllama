@@ -1,0 +1,13 @@
+The Weather Painter Cloud
+Card Type: Effect Monster
+
+Description: If another face-up "The Weather" card you control is sent to the GY: You can target up to 2 "The Weather" Spells/Traps in your GY; place them face-up in your Spell & Trap Zone. You can only use this effect of "The Weather Painter Cloud" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a "The Weather" card's effect: You can Special Summon this banished card.
+
+Type: Fairy
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: The Weather
+Present in Sets:
+- Spirit Warriors

@@ -1,0 +1,13 @@
+Gazelle the King of Mythical Claws
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Level 5 Fiend monster or 1 "Chimera Fusion" from your Deck to your hand. If this card is sent to the GY as material for a Fusion Summon: You can add 1 Illusion monster from your Deck to your hand. You can only use each effect of "Gazelle the King of Mythical Claws" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Nexus

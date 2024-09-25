@@ -1,0 +1,33 @@
+Axe of Despair
+Card Type: Spell Card
+
+Description: (This card is always treated as an "Archfiend" card.)
+The equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dark Legends
+- Dark Legion Starter Deck
+- Duel Terminal 2
+- Duelist League Demo 2010
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Speed Duel GX: Duelists of Shadows
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Yugi Evolution
+- Super Starter: Space-Time Showdown
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2022

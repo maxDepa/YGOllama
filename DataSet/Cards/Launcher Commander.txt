@@ -1,0 +1,17 @@
+Launcher Commander
+Card Type: Effect Monster
+
+Description: All other Cyberse monsters you control gain 300 ATK/DEF. Once per turn: You can Tribute 1 Cyberse monster, then target 1 face-up monster your opponent controls; destroy it.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Starter Deck: Codebreaker
+- Structure Deck: Cyberse Link
+- Structure Deck: Powercode Link

@@ -1,0 +1,14 @@
+Infernalqueen Salmon
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can Special Summon 1 Fish Normal Monster from your hand, Deck, or GY. If this card is destroyed by battle, or if this card in its owner's possession is destroyed by an opponent's card effect: You can Special Summon any number of "Vilepawn Salmon Tokens" (Fish/WATER/Level 1/ATK 0/DEF 0). You can only use each effect of "Infernalqueen Salmon" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

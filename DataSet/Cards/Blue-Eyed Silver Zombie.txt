@@ -1,0 +1,13 @@
+Blue-Eyed Silver Zombie
+Card Type: Normal Monster
+
+Description: The beams from the eyes of this creature are said to turn enemies into zombies.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 700
+Archetype: //
+Present in Sets:
+- Speed Duel: Scars of Battle

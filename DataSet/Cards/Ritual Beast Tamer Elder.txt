@@ -1,0 +1,13 @@
+Ritual Beast Tamer Elder
+Card Type: Effect Monster
+
+Description: After you Normal Summon this card, you can Normal Summon 1 "Ritual Beast" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only Special Summon "Ritual Beast Tamer Elder(s)" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 2
+Attack: 200
+Defence: 1000
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

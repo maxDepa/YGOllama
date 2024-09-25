@@ -1,0 +1,13 @@
+Salamangreat of Fire
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Level 4 or lower "Salamangreat" monster from your Deck to your hand, except "Salamangreat of Fire", also you cannot Special Summon monsters for the rest of this turn, except FIRE monsters. At the start of the Damage Step, if a Cyberse monster you control battles: You can banish this card from your GY; destroy that monster you control. You can only use each effect of "Salamangreat of Fire" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: Salamangreat
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

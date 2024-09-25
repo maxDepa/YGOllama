@@ -1,0 +1,21 @@
+Yazi, Evil of the Yang Zing
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Cannot be targeted by an opponent's card effects. You can only use each of these effects of "Yazi, Evil of the Yang Zing" once per turn.
+● You can target 1 "Yang Zing" monster you control and 1 card your opponent controls; destroy them.
+● When this card you control is destroyed by battle or card effect and sent to your Graveyard: You can Special Summon 1 Wyrm-Type monster from your Deck in Defense Position.
+
+Type: Wyrm
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 2100
+Archetype: Yang Zing
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- The New Challengers
+- The New Challengers

@@ -1,0 +1,13 @@
+Judgment of Thunder
+Card Type: Trap Card
+
+Description: Activate only when you Summon a Thunder-Type monster(s). Destroy 1 card your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

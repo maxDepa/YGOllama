@@ -1,0 +1,17 @@
+Magical Android
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+During each of your End Phases: Gain 600 LP for each Psychic-Type monster you currently control.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 5
+Attack: 2400
+Defence: 1700
+Archetype: Roid
+Present in Sets:
+- Duel Terminal 5b
+- Legendary Collection 5D's Mega Pack
+- The Duelist Genesis
+- Turbo Pack: Booster Three

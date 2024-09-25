@@ -1,0 +1,14 @@
+Anthrosaurus
+Card Type: Normal Monster
+
+Description: Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 850
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Ultimate Predators

@@ -1,0 +1,15 @@
+Gravekeeper's Ambusher
+Card Type: Effect Monster
+
+Description: When this card is flipped face-up: You can target 1 card in your opponent's GY; place that target on the bottom of their Deck. If this card is sent from the field to the GY after being flipped face-up: You can target 1 "Necrovalley" card in your GY; add that target to your hand. These effects are unaffected by "Necrovalley".
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: Gravekeeper's
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Speed Duel: Arena of Lost Souls

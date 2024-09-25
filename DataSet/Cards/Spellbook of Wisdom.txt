@@ -1,0 +1,19 @@
+Spellbook of Wisdom
+Card Type: Spell Card
+
+Description: Target 1 Spellcaster monster on the field, then activate 1 of these effects;
+● That face-up monster is unaffected by other Spell effects this turn.
+● That face-up monster is unaffected by Trap effects this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- Astral Pack Four
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Return of the Duelist
+- Structure Deck: Order of the Spellcasters

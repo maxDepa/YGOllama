@@ -1,0 +1,16 @@
+Gaia Knight, the Force of Earth
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2600
+Defence: 800
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Advanced Demo Deck Extra Pack
+- Duelist League 17 participation cards
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's

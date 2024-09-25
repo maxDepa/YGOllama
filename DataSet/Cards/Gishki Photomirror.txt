@@ -1,0 +1,14 @@
+Gishki Photomirror
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Gishki" Ritual Monster. You must also pay Life Points equal to the Level of the Ritual Summoned monster x 500 (when this card resolves).
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

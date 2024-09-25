@@ -1,0 +1,16 @@
+Ultimate Baseball Kid
+Card Type: Effect Monster
+
+Description: This card gains 1000 ATK for each face-up FIRE monster on the field, except this card. You can send 1 other face-up FIRE monster you control to the Graveyard; inflict 500 damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 15 participation cards
+- Soul of the Duelist
+- Structure Deck: Blaze of Destruction

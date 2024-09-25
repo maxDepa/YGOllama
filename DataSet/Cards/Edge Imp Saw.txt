@@ -1,0 +1,16 @@
+Edge Imp Saw
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 "Fluffal" monster from your hand to the Graveyard; draw 2 cards, then place 1 card from your hand on either the top or bottom of your Deck. You can only use this effect of "Edge Imp Saw" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 500
+Defence: 1000
+Archetype: Edge Imp
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal

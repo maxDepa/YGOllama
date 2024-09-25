@@ -1,0 +1,15 @@
+The Bystial Lubellion
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 6 or higher DARK Dragon monster. You can only Special Summon "The Bystial Lubellion" once per turn this way. You can send this card from your hand to the GY; add 1 "Bystial" monster from your Deck to your hand, except "The Bystial Lubellion". During your Main Phase: You can place 1 "Branded" Continuous Spell/Trap from your Deck face-up on your field. You can only use each effect of "The Bystial Lubellion" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 3000
+Archetype: Bystial
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battles of Legend: Monstrous Revenge
+- Darkwing Blast

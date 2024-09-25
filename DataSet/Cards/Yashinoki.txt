@@ -1,0 +1,12 @@
+Yashinoki
+Card Type: Normal Monster
+
+Description: An intelligent palm tree that drops a hail of rock-hard coconuts on its enemies.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:

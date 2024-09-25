@@ -1,0 +1,17 @@
+Defender, the Magical Knight
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Once per turn, if a Spellcaster monster(s) on the field would be destroyed, you can remove 1 Spell Counter from your field for each of those monsters instead.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist League 14 participation cards
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters

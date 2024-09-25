@@ -1,0 +1,13 @@
+Soundproofed
+Card Type: Spell Card
+
+Description: This card can only be activated at the start of Main Phase 1, and only if you control no face-up Synchro Monsters. Neither player can Special Summon a Synchro Monster until your opponent's next End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory

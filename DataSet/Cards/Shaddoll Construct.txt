@@ -1,0 +1,16 @@
+Shaddoll Construct
+Card Type: Link Monster
+
+Description: 2 Flip monsters
+During your Main Phase: You can Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If this card is in your GY: You can send 1 "Shaddoll" card from your hand or face-up field to the GY, and if you do, Special Summon this card. You can only use each effect of "Shaddoll Construct" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: Shaddoll
+Present in Sets:
+- Duel Power
+- Flames of Destruction
+- Structure Deck: Shaddoll Showdown

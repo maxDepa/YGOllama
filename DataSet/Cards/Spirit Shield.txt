@@ -1,0 +1,12 @@
+Spirit Shield
+Card Type: Trap Card
+
+Description: Once per battle, when an opponent's monster declares an attack: You can banish 1 Fiend or Zombie monster from your GY; negate the attack. Once per turn, when your opponent activates a card or effect that would destroy a card(s): You can banish 1 Fiend or Zombie monster from your GY; negate the activation. Once per turn, during the End Phase, if you do not control a Fiend or Zombie monster: Send this card to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

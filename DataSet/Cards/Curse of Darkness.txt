@@ -1,0 +1,16 @@
+Curse of Darkness
+Card Type: Trap Card
+
+Description: Each time a Spell Card is activated, immediately after it resolves, the player that activated it takes 1000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Structure Deck: Lair of Darkness

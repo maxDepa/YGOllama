@@ -1,0 +1,15 @@
+Number 97: Draglubion
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+Your opponent cannot target this card with card effects. You can detach 1 material from this card; take 2 Dragon "Number" monsters with different names from your Extra Deck and/or GY, except "Number 97: Draglubion", Special Summon 1 of them and attach the other to it as material, also for the rest of this turn you cannot Special Summon other monsters, or declare an attack, except with that Special Summoned monster. You can only use this effect of "Number 97: Draglubion" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Battles of Legend: Hero's Revenge
+- Ghosts From the Past: The 2nd Haunting

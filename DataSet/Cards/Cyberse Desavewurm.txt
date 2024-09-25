@@ -1,0 +1,14 @@
+Cyberse Desavewurm
+Card Type: Fusion Monster
+
+Description: 1 Cyberse Ritual, Fusion, Synchro, Xyz, or Link Monster + 1 Cyberse monster
+During your Main Phase: You can Special Summon 1 Cyberse monster from your hand, then you can make this card's Level become the same as that monster. When your opponent activates a Spell/Trap Card or effect, while you control a Link-4 or higher Cyberse monster (Quick Effect): You can banish this card from your field or GY; negate that activation. You can only use each effect of "Cyberse Desavewurm" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1500
+Archetype: Cyber
+Present in Sets:
+- Cyberstorm Access

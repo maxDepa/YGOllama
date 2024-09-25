@@ -1,0 +1,16 @@
+Recycling Batteries
+Card Type: Spell Card
+
+Description: Target 2 Thunder-Type monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Two
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- The Duelist Genesis

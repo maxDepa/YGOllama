@@ -1,0 +1,17 @@
+Toll
+Card Type: Spell Card
+
+Description: Each player must pay 500 Life Points to declare an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

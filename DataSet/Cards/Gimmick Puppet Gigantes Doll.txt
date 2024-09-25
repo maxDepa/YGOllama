@@ -1,0 +1,15 @@
+Gimmick Puppet Gigantes Doll
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Gimmick Puppet" monsters
+You can detach 2 materials from this card, then target up to 2 monsters your opponent controls; gain control of them until the End Phase, also for the rest of this turn you cannot Special Summon monsters, except "Gimmick Puppet" monsters, nor declare an attack, except with Xyz Monsters. You can Tribute this card; all monsters you currently control become Level 8 until the end of this turn. You can only use each effect of "Gimmick Puppet Gigantes Doll" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

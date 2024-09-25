@@ -1,0 +1,22 @@
+Swift Gaia the Fierce Knight
+Card Type: Effect Monster
+
+Description: If this is the only card in your hand, you can Normal Summon it without Tributing.
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 2300
+Defence: 2100
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- Astral Pack Eight
+- Collectible Tins 2004
+- Dark Beginning 2
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Structure Deck: Warrior's Triumph

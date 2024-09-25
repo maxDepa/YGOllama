@@ -1,0 +1,14 @@
+Cynet Backdoor
+Card Type: Spell Card
+
+Description: Target 1 Cyberse monster you control; banish it, and if you do, add 1 Cyberse monster from your Deck to your hand, whose ATK is lower than that monster's original ATK. During your next Standby Phase, return that monster banished by this effect to the field, and it can attack directly that turn. You can only activate 1 "Cynet Backdoor" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Mystic Fighters
+- Structure Deck: Cyberse Link

@@ -1,0 +1,13 @@
+Skull Stalker
+Card Type: Normal Monster
+
+Description: Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

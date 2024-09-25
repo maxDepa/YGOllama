@@ -1,0 +1,17 @@
+Ojamuscle
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Ojama" card.)
+Select 1 face-up "Ojama King". Destroy all "Ojama" monsters on the field, except the selected "Ojama King". It gains 1000 ATK for each monster destroyed this way.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy
+- OTS Tournament Pack 15 (POR)

@@ -1,0 +1,13 @@
+Numbers Overlay Boost
+Card Type: Trap Card
+
+Description: Target 1 "Number" Xyz Monster you control that has no Xyz Materials; attach 2 monsters from your hand to that face-up Xyz Monster, as Xyz Materials.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Shadow Specters

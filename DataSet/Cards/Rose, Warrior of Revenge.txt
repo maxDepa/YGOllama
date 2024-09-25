@@ -1,0 +1,16 @@
+Rose, Warrior of Revenge
+Card Type: Tuner Monster
+
+Description: When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 600
+Archetype: Rose Dragon
+Present in Sets:
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Crossroads of Chaos Sneak Peek Participation Card
+- Duelist League 16 participation cards

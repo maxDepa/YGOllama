@@ -1,0 +1,16 @@
+Ritual Raven
+Card Type: Effect Monster
+
+Description: If you Ritual Summon a DARK Ritual Monster, this 1 card can be used as the entire Tribute.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Speed Duel: Battle City Box
+- Tactical Evolution

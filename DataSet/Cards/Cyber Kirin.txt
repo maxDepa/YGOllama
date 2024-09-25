@@ -1,0 +1,15 @@
+Cyber Kirin
+Card Type: Effect Monster
+
+Description: You can Tribute this card to make any effect damage you take this turn 0.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 300
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Zane Truesdale
+- Enemy of Justice

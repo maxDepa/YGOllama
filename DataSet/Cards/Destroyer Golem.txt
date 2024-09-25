@@ -1,0 +1,18 @@
+Destroyer Golem
+Card Type: Normal Monster
+
+Description: A golem with a massive right hand for crushing its victims.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

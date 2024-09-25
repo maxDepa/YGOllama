@@ -1,0 +1,22 @@
+Exploder Dragon
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.
+
+Type: Dragon
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Legion Starter Deck
+- Duel Terminal 4
+- Gold Series 3
+- Premium Gold
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 5
+- Yu-Gi-Oh! World Championship 2007 promotional cards

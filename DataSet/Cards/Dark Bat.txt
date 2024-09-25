@@ -1,0 +1,15 @@
+Dark Bat
+Card Type: Normal Monster
+
+Description: Bats from the netherworld that use their hyper senses to detect their enemies.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

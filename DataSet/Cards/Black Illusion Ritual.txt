@@ -1,0 +1,27 @@
+Black Illusion Ritual
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Relinquished". You must also Tribute a monster from your hand or field whose Level is 1 or more.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Eyes Restrict
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Magic Ruler
+- Magic Ruler
+- Millennium Pack
+- Retro Pack
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 1
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Pegasus

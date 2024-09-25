@@ -1,0 +1,14 @@
+Speedroid Pachingo-Kart
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 Machine-Type monster, then target 1 monster on the field; destroy it.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Roid
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

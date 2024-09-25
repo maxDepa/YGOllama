@@ -1,0 +1,14 @@
+Abyss Stungray
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Thunder-Type/LIGHT/Level 5/ATK 1900/DEF 0). (This card is also still a Trap Card.) If Summoned this way, this card cannot be destroyed by battle.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

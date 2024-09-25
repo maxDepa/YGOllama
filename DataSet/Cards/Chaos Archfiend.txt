@@ -1,0 +1,14 @@
+Chaos Archfiend
+Card Type: Synchro Monster
+
+Description: 1 LIGHT Tuner + 1+ non-Tuner DARK monsters
+If any card(s) have been banished this turn, this card gains 2000 ATK. This card can attack all monsters your opponent controls, once each, also banish any monster destroyed by battle with this card. If this card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 "Chaos" Synchro Monster from your Extra Deck, except "Chaos Archfiend". You can only use this effect of "Chaos Archfiend" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 1800
+Archetype: Chaos
+Present in Sets:
+- Photon Hypernova

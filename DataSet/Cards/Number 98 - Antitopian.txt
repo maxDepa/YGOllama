@@ -1,0 +1,15 @@
+Number 98: Antitopian
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+When any player's monster declares an attack: You can detach 1 Xyz Material from this card; change that monster to Defense Position. During either player's turn, while this card is in your Graveyard: You can target 1 "Utopia" monster on the field; Special Summon this card in Defense Position, and if you do, attach that monster to this card as an Xyz Material. You can only use this effect of "Number 98: Antitopian" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

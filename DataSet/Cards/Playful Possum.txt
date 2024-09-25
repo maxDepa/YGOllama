@@ -1,0 +1,15 @@
+Playful Possum
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can destroy this face-up card on the field. Your opponent must control a monster with a higher ATK than this card for you to activate and to resolve this effect. During your Standby Phase, if this card was destroyed by this effect: You can Special Summon this card from the Graveyard.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,18 @@
+Tri-Edge Master
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can apply the appropriate effect, based on the Levels used for its Synchro Summon, or if you used 3 or more monsters as materials, apply all these effects, in sequence.
+● 1 & 5: Destroy 1 other card on the field. ● 2 & 4: Draw 1 card.
+● 3 & 3: Treat this card as a Tuner.
+You can only use this effect of "Tri-Edge Master" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge

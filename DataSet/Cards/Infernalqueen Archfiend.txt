@@ -1,0 +1,16 @@
+Infernalqueen Archfiend
+Card Type: Effect Monster
+
+Description: The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 2 or 5, negate the effect and destroy the opponent's card. As long as this card remains on the field, during each Standby Phase, increase the ATK of 1 Archfiend Monster Card by 1000 points until the End Phase.
+
+Type: Fiend
+Attribute: FIRE
+Level: 4
+Attack: 900
+Defence: 1500
+Archetype: Archfiend
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel GX: Duelists of Shadows

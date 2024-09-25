@@ -1,0 +1,17 @@
+Fires of Doomsday
+Card Type: Spell Card
+
+Description: Special Summon 2 "Doomsday Tokens" (Fiend/DARK/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a DARK monster. You cannot Summon other monsters the turn you activate this card (but you can Normal Set).
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Duelist League 15 participation cards
+- Phantom Darkness
+- Structure Deck: Lair of Darkness
+- Structure Deck: Powercode Link

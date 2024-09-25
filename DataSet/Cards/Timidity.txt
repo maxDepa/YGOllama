@@ -1,0 +1,14 @@
+Timidity
+Card Type: Spell Card
+
+Description: Neither player can destroy Set Spell and Trap Cards on the field until your opponent's next End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian

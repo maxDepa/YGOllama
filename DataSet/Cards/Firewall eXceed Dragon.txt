@@ -1,0 +1,15 @@
+Firewall eXceed Dragon
+Card Type: XYZ Monster
+
+Description: 2+ Level 4 monsters
+This Xyz Summoned card gains 500 ATK x the total Link Rating of Link Monsters linked to this card. You can detach 2 materials from this card, then target 1 Link-4 Cyberse Link Monster in your GY; Special Summon it to your field so it points to this card, also you cannot Special Summon other monsters or attack directly for the rest of this turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 4
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

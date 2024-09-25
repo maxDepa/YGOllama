@@ -1,0 +1,19 @@
+Infinite Cards
+Card Type: Spell Card
+
+Description: There is no limit to the number of cards in players' hands.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- King's Court
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Speed Duel: Streets of Battle City

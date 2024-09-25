@@ -1,0 +1,14 @@
+D-Boyz
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon any number of "D-Boyz" from your Deck in face-up Attack Position, then you take 1000 damage for each monster Special Summoned by this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Photon Shockwave
+- Speed Duel GX: Duelists of Shadows

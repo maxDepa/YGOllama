@@ -1,0 +1,15 @@
+Muckraker From the Underworld
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+Cannot be used as Link Material the turn it is Link Summoned. If a monster(s) you control would be destroyed by battle or card effect, you can Tribute 1 Fiend monster instead. You can target 1 Fiend monster in your GY, except "Muckraker From the Underworld"; discard 1 card, and if you do, Special Summon that monster, also you cannot Special Summon monsters for the rest of this turn, except Fiend monsters. You can only use this effect of "Muckraker From the Underworld" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: From the Underworld
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

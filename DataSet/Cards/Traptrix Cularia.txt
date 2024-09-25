@@ -1,0 +1,16 @@
+Traptrix Cularia
+Card Type: Link Monster
+
+Description: 2 Insect and/or Plant monsters
+This Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of "Traptrix Cularia" once per turn. After you activate a "Hole" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 "Traptrix" monster in your GY; Special Summon it in Defense Position.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: Traptrix
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive
+- Structure Deck: Beware of Traptrix

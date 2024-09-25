@@ -1,0 +1,16 @@
+Cyclone Blade
+Card Type: Spell Card
+
+Description: Equip only to a "Destiny HERO" monster. At the end of the Damage Step, if the equipped monster attacked: Target 1 Spell/Trap Card on the field; destroy that target.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist

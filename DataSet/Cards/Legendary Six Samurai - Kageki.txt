@@ -1,0 +1,15 @@
+Legendary Six Samurai - Kageki
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower "Six Samurai" monster from your hand. While you control a "Six Samurai" monster with a different name, this card gains 1500 ATK.
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 200
+Defence: 2000
+Archetype: Six Samurai
+Present in Sets:
+- Samurai Warlords Structure Deck
+- Spirit Warriors
+- Storm of Ragnarok

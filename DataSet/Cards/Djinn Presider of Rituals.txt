@@ -1,0 +1,14 @@
+Djinn Presider of Rituals
+Card Type: Effect Monster
+
+Description: When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If the monster Ritual Summoned using this card destroys a monster by battle, the controller of the Ritual Monster draws 1 card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Djinn
+Present in Sets:
+- Stardust Overdrive
+- The Secret Forces

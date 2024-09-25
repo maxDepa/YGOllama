@@ -1,0 +1,16 @@
+Gladiator Beast Essedarii
+Card Type: Fusion Monster
+
+Description: 2 "Gladiator Beast" monsters
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".)
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 2500
+Defence: 1400
+Archetype: Gladiator Beast
+Present in Sets:
+- Duelist League 18 participation cards
+- Extreme Victory
+- Extreme Victory

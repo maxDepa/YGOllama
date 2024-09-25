@@ -1,0 +1,14 @@
+The Kick Man
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned, you can equip 1 appropriate Equip Spell Card from your Graveyard to this card.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

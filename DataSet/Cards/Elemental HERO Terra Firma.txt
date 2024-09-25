@@ -1,0 +1,17 @@
+Elemental HERO Terra Firma
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Ocean" + "Elemental HERO Woodsman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. You can Tribute 1 face-up "Elemental HERO" monster; this card gains ATK equal to the Tributed monster's ATK, until the End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Duel Terminal 4
+- Duel Terminal 4
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)

@@ -1,0 +1,17 @@
+X-Saber Urbellum
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2200
+Defence: 1300
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

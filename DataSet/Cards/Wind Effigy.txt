@@ -1,0 +1,13 @@
+Wind Effigy
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a WIND Normal Monster.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: //
+Present in Sets:
+- Phantom Darkness

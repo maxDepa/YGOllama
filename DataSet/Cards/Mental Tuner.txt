@@ -1,0 +1,16 @@
+Mental Tuner
+Card Type: Tuner Monster
+
+Description: You can activate 1 of these effects;
+● Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.
+● Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.
+You can only use this effect of "Mental Tuner" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 3
+Attack: 200
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Photon Hypernova

@@ -1,0 +1,14 @@
+Dinowrestler Coelasilat
+Card Type: Tuner Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, this card cannot be used as Link Material, except for the Link Summon of a "Dinowrestler" monster. You can only Special Summon "Dinowrestler Coelasilat" once per Duel this way.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 2
+Attack: 100
+Defence: 800
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

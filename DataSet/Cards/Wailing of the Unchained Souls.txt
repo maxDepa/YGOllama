@@ -1,0 +1,14 @@
+Wailing of the Unchained Souls
+Card Type: Spell Card
+
+Description: If you Link Summon an "Unchained" Link Monster: You can target 1 card on the field; destroy it. If this Set card is destroyed by card effect: You can Special Summon 1 "Unchained" monster from your Deck. You can only use each effect of "Wailing of the Unchained Souls" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Unchained
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

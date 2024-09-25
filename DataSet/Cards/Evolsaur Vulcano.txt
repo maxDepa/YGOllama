@@ -1,0 +1,13 @@
+Evolsaur Vulcano
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: You can target 1 "Evolsaur" monster in your Graveyard; Special Summon that target. It cannot declare an attack.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave

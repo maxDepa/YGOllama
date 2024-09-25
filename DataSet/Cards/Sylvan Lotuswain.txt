@@ -1,0 +1,14 @@
+Sylvan Lotuswain
+Card Type: Effect Monster
+
+Description: Once per turn: You can excavate a number of cards from the top of your Deck, equal to the number of cards your opponent controls, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target up to 5 "Sylvan" cards in your Graveyard, except "Sylvan Lotuswain"; place them on the bottom of your Deck in any order.
+
+Type: Plant
+Attribute: WATER
+Level: 5
+Attack: 2300
+Defence: 1100
+Archetype: Sylvan
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Primal Origin

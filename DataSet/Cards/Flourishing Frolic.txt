@@ -1,0 +1,14 @@
+Flourishing Frolic
+Card Type: Spell Card
+
+Description: Excavate cards from your Deck equal to the number of "Flourishing Frolic" in your GY + 3, and if you excavate at least 1 Monster, 1 Spell, and 1 Trap, add 1 of them to your hand and send the other cards to the GY. If you did not, shuffle all excavated cards into your Deck. You can only activate 1 "Flourishing Frolic" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

@@ -1,0 +1,17 @@
+Tyrant Burst Dragon
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "The Fang of Critias", using "Tyrant Wing". This card can attack all your opponent's monsters, once each. You can target 1 face-up monster you control; equip this monster to that target. It gains 400 ATK/DEF, also it can make 3 attacks during each Battle Phase.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2900
+Defence: 2500
+Archetype: Legendary Knight
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Collection Kaiba Mega Pack
+- Legendary Dragon Decks

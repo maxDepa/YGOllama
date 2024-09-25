@@ -1,0 +1,22 @@
+Foucault's Cannon
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, during the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.
+
+[ Monster Effect ] 
+''A mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?''
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Advanced Demo Deck Extra Pack
+- Demo Deck 2016
+- Duelist Alliance
+- Pendulum Evolution
+- Starter Deck: Yuya

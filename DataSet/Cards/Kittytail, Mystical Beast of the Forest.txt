@@ -1,0 +1,13 @@
+Kittytail, Mystical Beast of the Forest
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster in your GY; send 1 monster from your Deck to the GY with the same original Type as that monster. If this card in its owner's possession is destroyed by an opponent's card: You can add 1 Beast, Beast-Warrior, Winged Beast, Insect, or Plant monster from your Deck to your hand, except "Kittytail, Mystical Beast of the Forest". You can only use each effect of "Kittytail, Mystical Beast of the Forest" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 200
+Defence: 200
+Archetype: Mystical Beast of the Forest
+Present in Sets:
+- Cyberstorm Access

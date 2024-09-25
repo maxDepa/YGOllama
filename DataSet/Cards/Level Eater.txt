@@ -1,0 +1,21 @@
+Level Eater
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can target 1 Level 5 or higher monster you control; reduce its Level by 1, and if you do, Special Summon this card. This face-up card on the field cannot be Tributed, except for a Tribute Summon.
+
+Type: Insect
+Attribute: DARK
+Level: 1
+Attack: 600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 5a
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei 2
+- Emperor of Darkness Structure Deck
+- Legendary Collection 5D's Mega Pack
+- Stardust Overdrive
+- Synchron Extreme Structure Deck

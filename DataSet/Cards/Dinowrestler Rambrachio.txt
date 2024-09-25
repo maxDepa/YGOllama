@@ -1,0 +1,14 @@
+Dinowrestler Rambrachio
+Card Type: Effect Monster
+
+Description: When your "Dinowrestler" monster inflicts battle damage to your opponent: You can Special Summon this card from your hand in Defense Position. You can only use this effect of "Dinowrestler Rambrachio" once per turn. Your opponent cannot target other "Dinowrestler" monsters you control with card effects.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

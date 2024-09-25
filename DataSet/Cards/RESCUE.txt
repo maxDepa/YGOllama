@@ -1,0 +1,15 @@
+RESCUE!
+Card Type: Spell Card
+
+Description: (This card is always treated as a "Rescue-ACE" card.)
+Target 1 "Rescue-ACE" monster in your GY, or if you control "Rescue-ACE Hydrant", you can target 1 monster in your opponent's GY instead; Special Summon it to your field. You can only activate 1 "RESCUE!" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders
+- Maze of Millennia

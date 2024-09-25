@@ -1,0 +1,13 @@
+Angel O1
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by revealing 1 Level 7 or higher monster from your hand. You can only Special Summon "Angel O1" once per turn this way. While you control this Special Summoned card, you can Tribute Summon 1 Level 7 or higher monster in Attack Position during your Main Phase, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Obelisk the Tormentor

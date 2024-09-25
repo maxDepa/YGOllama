@@ -1,0 +1,13 @@
+Bubble Illusion
+Card Type: Spell Card
+
+Description: You can only activate this card while there is a face-up "Elemental Hero Bubbleman" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki

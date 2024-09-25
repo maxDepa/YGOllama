@@ -1,0 +1,13 @@
+Stardust Shimmer
+Card Type: Spell Card
+
+Description: Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster and Special Summon it from the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Stardust
+Present in Sets:
+- Storm of Ragnarok

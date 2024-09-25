@@ -1,0 +1,16 @@
+Naturia Antjaw
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster(s), you can Special Summon 1 Level 3 or lower "Naturia" monster from your Deck.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 200
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

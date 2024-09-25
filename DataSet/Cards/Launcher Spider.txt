@@ -1,0 +1,20 @@
+Launcher Spider
+Card Type: Normal Monster
+
+Description: A mechanical spider with rocket launchers capable of random fire.
+
+Type: Machine
+Attribute: FIRE
+Level: 7
+Attack: 2200
+Defence: 2500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Dark Beginning 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Millennium Pack
+- Speed Duel: Scars of Battle

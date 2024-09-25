@@ -1,0 +1,16 @@
+Flame Administrator
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+All Link Monsters you control gain 800 ATK. You can only control 1 "Flame Administrator".
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force
+- Structure Deck: Soulburner

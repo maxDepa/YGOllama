@@ -1,0 +1,14 @@
+Escape of the Unchained
+Card Type: Trap Card
+
+Description: Target 1 "Unchained" monster you control and 1 card on the field; destroy both. If this Set card is destroyed by card effect: You can Special Summon 1 "Unchained" monster from your Deck. You can only use each effect of "Escape of the Unchained" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Unchained
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

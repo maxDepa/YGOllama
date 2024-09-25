@@ -1,0 +1,17 @@
+Abyss Actor - Twinkle Little Star
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Abyss Actor" monsters. This effect cannot be negated. Once per turn: You can target 1 "Abyss Actor" monster you control; this turn, it can make up to 3 attacks on monsters during each Battle Phase, also other monsters you control cannot attack for the rest of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+Cannot be destroyed by battle during your turn. This card can make up to 3 attacks on monsters during each Battle Phase.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Abyss Actor
+Present in Sets:
+- Rise of the Duelist

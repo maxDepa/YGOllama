@@ -1,0 +1,13 @@
+Chow Chow Chan
+Card Type: Effect Monster
+
+Description: When your opponent activates a Normal Trap Card in response to your monster's attack declaration targeting an opponent's monster: You can discard this card; negate the activation, and if you do, destroy that card (this is a Quick Effect).
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Shadow Specters

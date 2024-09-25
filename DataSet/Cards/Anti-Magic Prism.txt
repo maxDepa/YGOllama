@@ -1,0 +1,13 @@
+Anti-Magic Prism
+Card Type: Trap Card
+
+Description: Activate only when your opponent activates a Quick-Play Spell Card. Select 1 card on the field and destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Anti
+Present in Sets:
+- Duelist Revolution

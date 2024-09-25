@@ -1,0 +1,17 @@
+Axe of Fools
+Card Type: Spell Card
+
+Description: The equipped monster gains 1000 ATK, also its effects are negated. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Starstrike Blast

@@ -1,0 +1,16 @@
+Dragunity Angusticlavii
+Card Type: Effect Monster
+
+Description: While this card is equipped with a Dragon-Type "Dragunity" monster, during battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this monster, inflict the difference as Battle Damage to your opponent.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 2100
+Defence: 1000
+Archetype: Dragunity
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

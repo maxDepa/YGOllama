@@ -1,0 +1,14 @@
+Worm Opera
+Card Type: Flip Effect Monster
+
+Description: FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type "Worm" monsters.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 2
+Attack: 400
+Defence: 800
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

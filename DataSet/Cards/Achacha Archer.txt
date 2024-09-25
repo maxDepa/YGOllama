@@ -1,0 +1,16 @@
+Achacha Archer
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: //
+Present in Sets:
+- Generation Force
+- Star Pack 2013
+- Star Pack 2013
+- Super Starter: V for Victory

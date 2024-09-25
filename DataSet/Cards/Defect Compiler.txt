@@ -1,0 +1,17 @@
+Defect Compiler
+Card Type: Effect Monster
+
+Description: Once per turn, if you would take damage from an opponent's card effect, place 1 Defect Counter on this card instead (max. 1). Once per turn (Quick Effect): You can remove 1 Defect Counter from this card, then target 1 Cyberse monster you control; it gains 800 ATK until the end of this turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

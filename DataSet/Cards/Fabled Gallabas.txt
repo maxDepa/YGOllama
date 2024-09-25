@@ -1,0 +1,16 @@
+Fabled Gallabas
+Card Type: Effect Monster
+
+Description: You can discard 1 card to the Graveyard to select and destroy 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

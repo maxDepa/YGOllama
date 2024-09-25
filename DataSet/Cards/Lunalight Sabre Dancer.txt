@@ -1,0 +1,15 @@
+Lunalight Sabre Dancer
+Card Type: Fusion Monster
+
+Description: 3 "Lunalight" monsters
+Must be Fusion Summoned. Gains 200 ATK for each Beast-Warrior monster that is banished or in the GYs. Your opponent cannot target this card with card effects. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 Fusion Monster you control; it gains 3000 ATK until the end of this turn. You can only use this effect of "Lunalight Sabre Dancer" once per turn.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 9
+Attack: 3000
+Defence: 2600
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

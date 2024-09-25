@@ -1,0 +1,13 @@
+Lyrilusc - Celestine Wagtail
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can add 1 "Lyrilusc" Spell/Trap from your Deck to your hand. If this card is in your GY: You can target 1 "Lyrilusc" Xyz Monster you control; attach this card to it as material. You can only use each effect of "Lyrilusc - Celestine Wagtail" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 1
+Attack: 200
+Defence: 0
+Archetype: Lyrilusc
+Present in Sets:
+- Legendary Duelists: Synchro Storm

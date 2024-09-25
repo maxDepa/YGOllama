@@ -1,0 +1,21 @@
+Uraby
+Card Type: Normal Monster
+
+Description: Fast on its feet, this dinosaur rips enemies to shreds with its sharp claws.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Speed Duel Starter Decks: Ultimate Predators
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus

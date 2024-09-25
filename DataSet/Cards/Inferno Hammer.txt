@@ -1,0 +1,13 @@
+Inferno Hammer
+Card Type: Effect Monster
+
+Description: When this card destroys your opponent's monster and sends it to the Graveyard as a result of battle, you can select 1 face-up monster on your opponent's side of the field and flip it into face-down Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Capsule Monster Coliseum promotional cards

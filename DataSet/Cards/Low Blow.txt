@@ -1,0 +1,14 @@
+Low Blow
+Card Type: Skill Card
+
+Description: Activate this Skill during your Main Phase. Once per Duel, you can make 1 monster on the field lose 500 ATK/DEF until the end of this turn.
+
+Type: Andrew
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards

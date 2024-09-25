@@ -1,0 +1,14 @@
+Prufinesse, the Tactical Trapper
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can banish 1 Trap from your Deck; increase this card's Level by 1. You can target 1 Trap in either GY; banish it, and if you do, increase this card's Level by 1. If this card in its owner's possession is destroyed by an opponent's card: You can Set 1 of your banished Normal Traps. You can only use each effect of "Prufinesse, the Tactical Trapper" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

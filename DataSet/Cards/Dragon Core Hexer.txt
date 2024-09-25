@@ -1,0 +1,14 @@
+Dragon Core Hexer
+Card Type: Normal Tuner Monster
+
+Description: Many years of dragonslaying have bathed this huntress in countless amounts of blood. Each drop gave her more power, but at a terrible price, as her cursed body now spreads the dragontaint like an epidemic. No village will take her in, and she no longer even remembers what inspired her crusade in the first place.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2300
+Defence: 3000
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

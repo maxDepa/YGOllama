@@ -1,0 +1,13 @@
+Sunvine Maiden
+Card Type: Effect Monster
+
+Description: When your opponent activates a card or effect that targets a Plant monster(s) you control that was Special Summoned from the Extra Deck (Quick Effect): You can Special Summon this card from your hand, and if you do, negate that effect. You can only use this effect of "Sunvine Maiden" once per turn. Your opponent cannot target "Sunavalon" or "Sunvine" Spells/Traps you control with card effects.
+
+Type: Plant
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Sunvine
+Present in Sets:
+- Ghosts From the Past

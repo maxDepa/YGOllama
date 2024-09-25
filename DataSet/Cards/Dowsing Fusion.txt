@@ -1,0 +1,13 @@
+Dowsing Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your GY. Only Pendulum Monsters can be used as Fusion Material for this card's effect. You can only activate 1 "Dowsing Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- King's Court

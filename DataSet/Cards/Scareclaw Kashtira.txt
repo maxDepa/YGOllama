@@ -1,0 +1,14 @@
+Scareclaw Kashtira
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 "Kashtira" or "Scareclaw" card from your hand or GY. You can only use this effect of "Scareclaw Kashtira" once per turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If your "Kashtira" or "Scareclaw" monster battles an opponent's monster, that opponent's monster's effects are negated until the end of this turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 7
+Attack: 0
+Defence: 2600
+Archetype: Kashtira
+Present in Sets:
+- OTS Tournament Pack 21
+- Photon Hypernova

@@ -1,0 +1,14 @@
+Witchcrafter Masterpiece
+Card Type: Trap Card
+
+Description: If you control a "Witchcrafter" monster: Target 1 Spell in either GY; add 1 card with the same name from your Deck to your hand. During either player's turn, except the turn this card was sent to the GY: You can banish this card and any number of Spells from your GY; Special Summon 1 "Witchcrafter" monster from your Deck whose Level equals the number of Spells banished to activate this effect. You can only use each effect of "Witchcrafter Masterpiece" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

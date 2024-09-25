@@ -1,0 +1,14 @@
+Interceptomato
+Card Type: Effect Monster
+
+Description: During your opponent's turn: You can banish this card from your Graveyard; this turn, any effect damage you take becomes 0 (this is a Quick Effect).
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

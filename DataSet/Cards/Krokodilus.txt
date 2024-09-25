@@ -1,0 +1,12 @@
+Krokodilus
+Card Type: Normal Monster
+
+Description: A vicious crocodile with great intelligence.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:

@@ -1,0 +1,15 @@
+Resonator Command
+Card Type: Spell Card
+
+Description: Discard 1 "Resonator" monster; add 1 Level 4 or lower Fiend monster from your Deck to your hand. You can only activate 1 "Resonator Command" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Resonator
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- Structure Deck: The Crimson King

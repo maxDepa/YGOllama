@@ -1,0 +1,14 @@
+Rainbow Life
+Card Type: Trap Card
+
+Description: Discard 1 card. Until the end of this turn, whenever you would take damage you gain that amount of Life Points instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness
+- Speed Duel GX: Duel Academy Box

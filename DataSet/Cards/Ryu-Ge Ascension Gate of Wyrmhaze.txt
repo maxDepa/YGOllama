@@ -1,0 +1,13 @@
+Ryu-Ge Ascension Gate of Wyrmhaze
+Card Type: Spell Card
+
+Description: You can only control 1 "Ryu-Ge Ascension Gate of Wyrmhaze". Any monster sent from the field to the GY during your opponent's turn is banished instead. "Ryu-Ge" Pendulum Monsters, and Level 10 or higher monsters whose original Type is Wyrm, you control gain this effect.
+● Once per opponent's turn (Quick Effect): You can place 1 face-up "Ryu-Ge" Continuous Spell you control on the bottom of the Deck, then target 1 face-up monster on the field; change its ATK to 0.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ryu-Ge
+Present in Sets:

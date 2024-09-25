@@ -1,0 +1,14 @@
+Infinity Dark
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
+● When this card declares an attack, you can change the battle position of 1 face-up monster your opponent controls.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Gladiator's Assault

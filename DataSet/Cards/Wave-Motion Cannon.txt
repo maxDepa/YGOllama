@@ -1,0 +1,16 @@
+Wave-Motion Cannon
+Card Type: Spell Card
+
+Description: During your Main Phase: You can send this face-up card to the GY; inflict 1000 damage to your opponent for each of your Standby Phases that have passed since this card was activated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Five
+- Dark Revelation Volume 1
+- Duel Devastator
+- Magician's Force

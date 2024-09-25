@@ -1,0 +1,14 @@
+Ghostrick Mansion
+Card Type: Spell Card
+
+Description: Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. All effect damage, and battle damage inflicted by monsters other than "Ghostrick" monsters, is halved.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

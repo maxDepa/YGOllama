@@ -1,0 +1,13 @@
+Battlewasp - Pin the Bullseye
+Card Type: Effect Monster
+
+Description: If you control an Insect monster: You can Special Summon this card from your hand. During your Main Phase: You can inflict 200 damage to your opponent for each "Battlewasp - Pin the Bullseye" you control. You can only use each effect of "Battlewasp - Pin the Bullseye" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 1
+Attack: 200
+Defence: 300
+Archetype: Battlewasp
+Present in Sets:
+- Battles of Legend: Hero's Revenge

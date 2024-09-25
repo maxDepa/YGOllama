@@ -1,0 +1,19 @@
+Performage Ball Balancer
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+During your Main Phase: You can send 1 face-up "Performage" Pendulum Monster from your Extra Deck to the GY, then you can increase this card's Pendulum Scale by the sent monster's. You can only use this effect of "Performage Ball Balancer" once per turn.
+
+[ Monster Effect ] 
+If you control a "Performage" monster: You can Special Summon this card from your hand. When an opponent's Special Summoned monster declares a direct attack: You can Special Summon this card from your GY. If this card is Normal or Special Summoned: You can activate 1 of these effects;
+● Add 1 "Performage" Pendulum Monster from your Deck to your Extra Deck face-up.
+● Destroy 1 "Performage" Monster Card you control.
+You can only use each monster effect of "Performage Ball Balancer" once per turn.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Performage
+Present in Sets:

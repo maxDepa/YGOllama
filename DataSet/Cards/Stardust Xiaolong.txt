@@ -1,0 +1,15 @@
+Stardust Xiaolong
+Card Type: Effect Monster
+
+Description: When you Synchro Summon "Stardust Dragon", you can Special Summon this card from your Graveyard in face-up Attack Position. Once per turn, if this card would be destroyed by battle, it is not destroyed.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Stardust
+Present in Sets:
+- Duelist Pack: Yusei 3
+- King's Court
+- Stardust Overdrive

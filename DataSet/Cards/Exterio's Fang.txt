@@ -1,0 +1,14 @@
+Exterio's Fang
+Card Type: Trap Card
+
+Description: Activate only if you control a face-up "Naturia" monster and have at least 1 card in your hand. Negate the activation of an opponent's Spell/Trap Card and destroy it. Then, send 1 card from your hand to the Graveyard.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Naturia
+Present in Sets:
+- OTS Tournament Pack 18 (POR)
+- Starstrike Blast

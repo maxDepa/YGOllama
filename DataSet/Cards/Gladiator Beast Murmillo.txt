@@ -1,0 +1,15 @@
+Gladiator Beast Murmillo
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of a "Gladiator Beast" monster: Target 1 face-up monster; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Murmillo".
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 400
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Turbo Pack: Booster One

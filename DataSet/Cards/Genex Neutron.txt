@@ -1,0 +1,15 @@
+Genex Neutron
+Card Type: Effect Monster
+
+Description: Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Genex
+Present in Sets:
+- Collectible Tins 2012 Wave 1
+- Synchron Extreme Structure Deck
+- The Shining Darkness

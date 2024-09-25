@@ -1,0 +1,14 @@
+Morphtransition
+Card Type: Trap Card
+
+Description: Activate only when a face-up "Morphtronic" monster you control is selected as an attack target. Negate the attack, and change the battle position of the selected "Morphtronic" monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos
+- Duel Terminal 2

@@ -1,0 +1,14 @@
+Tindangle Hound
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 other face-up monster on the field; this card gains ATK equal to that target's original ATK, then change that target to face-down Defense Position.
+Each monster your opponent controls loses 1000 ATK for each monster linked to it. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 face-down monster on the field; change it to face-up Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 0
+Archetype: Tindangle
+Present in Sets:
+- Extreme Force

@@ -1,0 +1,15 @@
+Trickstar Crimson Heart
+Card Type: Link Monster
+
+Description: 2 "Trickstar" monsters
+Each time a "Trickstar" monster(s) is Normal or Special Summoned to a zone(s) this card points to, gain 200 LP. You can discard 1 "Trickstar" card; both players draw 1 card, but if your LP was at least 2000 higher than your opponent's when this effect was activated, you draw 2 cards instead. You can only use this effect of "Trickstar Crimson Heart" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- Savage Strike Special Edition
+- Weekly Shonen Jump January 2018 membership promotional card

@@ -1,0 +1,15 @@
+Mystical Beast of Serket
+Card Type: Effect Monster
+
+Description: If you do not control "Temple of the Kings", destroy this card. Banish any monster destroyed by battle with this card. If this card destroys a monster by battle: It gains 500 ATK.
+
+Type: Fairy
+Attribute: EARTH
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Premium Gold: Return of the Bling
+- Structure Deck: Marik (TCG)

@@ -1,0 +1,12 @@
+Lucky Trinket
+Card Type: Normal Monster
+
+Description: This creature may look slim and weak, but it's protected by a mystical force.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 600
+Defence: 800
+Archetype: //
+Present in Sets:

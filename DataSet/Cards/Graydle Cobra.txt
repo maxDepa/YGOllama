@@ -1,0 +1,13 @@
+Graydle Cobra
+Card Type: Effect Monster
+
+Description: If this card in your Monster Zone is destroyed by battle or Trap effect and sent to your Graveyard: You can target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Graydle
+Present in Sets:
+- Dimension of Chaos

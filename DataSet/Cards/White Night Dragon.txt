@@ -1,0 +1,20 @@
+White Night Dragon
+Card Type: Effect Monster
+
+Description: During either player's turn, when a Spell/Trap Card that targets this card is activated: Negate the activation, and if you do, destroy it. When another face-up monster you control is targeted for an attack: You can send 1 Spell/Trap Card you control to the Graveyard; change the attack target to this card.
+
+Type: Dragon
+Attribute: WATER
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 4
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Rise of the True Dragons Structure Deck

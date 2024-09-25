@@ -1,0 +1,19 @@
+Time Machine
+Card Type: Trap Card
+
+Description: When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Crossroads of Chaos
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Machina Mayhem Structure Deck
+- Speed Duel: Trials of the Kingdom

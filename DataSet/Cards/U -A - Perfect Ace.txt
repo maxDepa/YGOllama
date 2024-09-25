@@ -1,0 +1,13 @@
+U.A. Perfect Ace
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Perfect Ace". You can only Special Summon "U.A. Perfect Ace" once per turn this way. Once per turn, during your opponent's turn, when a card or effect is activated: You can discard 1 card; negate that activation, and if you do, destroy it (this is a Quick Effect).
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1500
+Defence: 2500
+Archetype: U.A.
+Present in Sets:
+- Duelist Alliance

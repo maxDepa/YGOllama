@@ -1,0 +1,17 @@
+Harpie's Pet Dragon
+Card Type: Effect Monster
+
+Description: Gains 300 ATK/DEF for each "Harpie Lady" on the field.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2000
+Defence: 2500
+Archetype: Harpie
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Retro Pack 2
+- Speed Duel: Arena of Lost Souls
+- Yu-Gi-Oh! Forbidden Memories promotional cards

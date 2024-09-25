@@ -1,0 +1,15 @@
+Mokey Mokey King
+Card Type: Fusion Monster
+
+Description: "Mokey Mokey" + "Mokey Mokey" + "Mokey Mokey"
+When this card is removed from the field, you can Special Summon as many "Mokey Mokey" as possible from your Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 300
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny

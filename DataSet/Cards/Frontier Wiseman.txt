@@ -1,0 +1,17 @@
+Frontier Wiseman
+Card Type: Effect Monster
+
+Description: Negate any Spell effects that target a Warrior-Type monster you control, and if you do, destroy that card.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness

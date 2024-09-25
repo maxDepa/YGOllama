@@ -1,0 +1,17 @@
+Altergeist Camouflage
+Card Type: Trap Card
+
+Description: Target 1 "Altergeist" monster you control; equip this card to it. Your opponent cannot target it for attacks, but it does not prevent your opponent from attacking you directly. Negate an opponent's monster effect that activates by targeting the equipped monster. If an "Altergeist" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

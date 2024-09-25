@@ -1,0 +1,13 @@
+Light of Destruction
+Card Type: Trap Card
+
+Description: When an opponent's card effect sends a card(s) from their Deck to the Graveyard, send the top 3 cards of their Deck to the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

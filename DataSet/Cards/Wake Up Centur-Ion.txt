@@ -1,0 +1,14 @@
+Wake Up Centur-Ion!
+Card Type: Spell Card
+
+Description: If a Monster Card is face-up in your Spell & Trap Zone: You can declare Level 4 or 8; Special Summon 1 "Centur-Ion Token" (Pyro/DARK/ATK 0/DEF 0) with the declared Level, but it cannot be used as Fusion or Link Material. During your Main Phase: You can banish this card from your GY; send 1 "Centur-Ion" card from your Deck to the GY, except "Wake Up Centur-Ion!". You can only use each effect of "Wake Up Centur-Ion!" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Centur-Ion
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

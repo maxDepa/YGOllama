@@ -1,0 +1,14 @@
+Howl of the Wild
+Card Type: Trap Card
+
+Description: When a monster you control destroys an opponent's monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent for each face-up Beast-Type monster you control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution
+- Speed Duel: Battle City Box

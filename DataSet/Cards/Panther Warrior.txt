@@ -1,0 +1,16 @@
+Panther Warrior
+Card Type: Effect Monster
+
+Description: This card cannot declare an attack unless you Tribute 1 monster.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Collectible Tins 2005
+- Duel Terminal 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Millennium Pack

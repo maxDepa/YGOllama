@@ -1,0 +1,16 @@
+Dark Eradicator Warlock
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Dark Magician", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Dark Magician
+Present in Sets:
+- OTS Tournament Pack 2
+- Structure Deck: Spellcaster's Judgment
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

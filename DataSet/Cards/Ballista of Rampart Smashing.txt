@@ -1,0 +1,14 @@
+Ballista of Rampart Smashing
+Card Type: Spell Card
+
+Description: If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny

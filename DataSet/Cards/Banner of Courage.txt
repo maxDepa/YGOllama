@@ -1,0 +1,21 @@
+Banner of Courage
+Card Type: Spell Card
+
+Description: All monsters you control gain 200 ATK during your Battle Phase only.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Legion Starter Deck
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Jaden Yuki

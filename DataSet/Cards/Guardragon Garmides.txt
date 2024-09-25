@@ -1,0 +1,14 @@
+Guardragon Garmides
+Card Type: Effect Monster
+
+Description: If a Normal Monster(s) is sent to your GY (except during the Damage Step): You can Special Summon this card from your hand. If this card is in your GY: You can send 1 Dragon monster from your hand to the GY; add this card to your hand. You can only use each effect of "Guardragon Garmides" once per turn.
+
+Type: Dragon
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 1000
+Archetype: Guardragon
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

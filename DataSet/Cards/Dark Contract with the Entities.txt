@@ -1,0 +1,19 @@
+Dark Contract with the Entities
+Card Type: Spell Card
+
+Description: When a "D/D/D" monster of the below card type is Special Summoned from the Extra Deck to your field: You can activate the appropriate effect once per turn;
+● Fusion: Gain 1000 LP.
+● Synchro: Your opponent cannot target that Special Summoned monster with card effects.
+● Xyz: Banish 1 card from the field or the Graveyard.
+● Pendulum: Draw 1 card, then discard 1 card.
+Once per turn, during your Standby Phase: Take 2000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

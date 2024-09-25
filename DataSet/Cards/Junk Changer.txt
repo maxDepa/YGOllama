@@ -1,0 +1,15 @@
+Junk Changer
+Card Type: Tuner Monster
+
+Description: You can only use the following effect of "Junk Changer" once per turn. If this card is Normal or Special Summoned: You can target 1 "Junk" monster on the field, then activate 1 of these effects;
+● Increase its Level by 1.
+● Reduce its Level by 1.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 900
+Archetype: Junk
+Present in Sets:
+- Premium Gold: Infinite Gold

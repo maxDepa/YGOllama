@@ -1,0 +1,15 @@
+The Little Swordsman of Aile
+Card Type: Effect Monster
+
+Description: Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,14 @@
+Level Lifter
+Card Type: Spell Card
+
+Description: Send 1 monster from your hand to the Graveyard, then target up to 2 face-up monsters you control; until the end of this turn, their Levels become the original Level of the monster sent to the Graveyard to activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity

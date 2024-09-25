@@ -1,0 +1,16 @@
+Trishula, the Dragon of Icy Imprisonment
+Card Type: Fusion Monster
+
+Description: 3 monsters with different names
+Must first be either Fusion Summoned using only monsters in your hand and/or field, or Special Summoned (from your Extra Deck) by banishing the above cards you control (in which case you do not use "Polymerization"). If this card was Special Summoned using only monsters that were originally Dragons: You can reveal and banish 3 cards (1 from your Deck, 1 from the top of your opponent's Deck, and 1 from their Extra Deck). You can only use this effect of "Trishula, the Dragon of Icy Imprisonment" once per turn.
+
+Type: Dragon
+Attribute: WATER
+Level: 9
+Attack: 2700
+Defence: 2000
+Archetype: Ice Barrier
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Weekly Shonen Jump December 2018 membership promotional cards

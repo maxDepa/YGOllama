@@ -1,0 +1,13 @@
+Dragon of Pride and Soul
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while your opponent has 25 or more cards in their GY. While you have 25 or more cards in your GY, this card gains 2500 ATK/DEF.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

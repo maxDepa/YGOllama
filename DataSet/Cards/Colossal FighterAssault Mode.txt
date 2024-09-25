@@ -1,0 +1,15 @@
+Colossal Fighter/Assault Mode
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". When this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard. All monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard. When this card on the field is destroyed, you can Special Summon 1 "Colossal Fighter" from your Graveyard.
+
+Type: Warrior
+Attribute: DARK
+Level: 10
+Attack: 3300
+Defence: 1500
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis Sneak Peek Participation Card
+- OTS Tournament Pack 10 (POR)

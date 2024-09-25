@@ -1,0 +1,15 @@
+Majestic Mech - Senku
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent by a direct attack: Draw 1 card. During the End Phase of the turn this card was Summoned: Send it to the Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 500
+Archetype: Majestic
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Starter Deck: Dawn of the Xyz

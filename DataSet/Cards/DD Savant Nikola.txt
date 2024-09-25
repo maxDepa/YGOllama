@@ -1,0 +1,18 @@
+D/D Savant Nikola
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "D/D" monsters. This effect cannot be negated. Once per turn: You can discard 1 "D/D/D" monster, then target 1 Level 6 or lower "D/D" monster you control; it gains 2000 ATK and DEF until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+If this card in the Pendulum Zone is destroyed: You can target 1 "D/D/D" monster you control; return it to the hand, and if you do, place up to 2 face-up "D/D" Pendulum Monsters from your Extra Deck in your Pendulum Zones, but they cannot activate their Pendulum Effects this turn. You can only use this effect of "D/D Savant Nikola" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2000
+Archetype: D/D
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

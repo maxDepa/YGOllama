@@ -1,0 +1,15 @@
+Number 65: Djinn Buster
+Card Type: XYZ Monster
+
+Description: 2 Level 2 DARK monsters
+During either player's turn, when an effect of an opponent's monster is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, inflict 500 damage to your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 1300
+Defence: 0
+Archetype: Djinn
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Shadow Specters

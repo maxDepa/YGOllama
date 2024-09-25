@@ -1,0 +1,14 @@
+Runick Allure
+Card Type: Spell Card
+
+Description: Each time a Quick-Play Spell Card activates: Banish the top card of your opponent's Deck. You can only control 1 "Runick Allure".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Runick
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

@@ -1,0 +1,23 @@
+Thousand Dragon
+Card Type: Fusion Monster
+
+Description: "Time Wizard" + "Baby Dragon"
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Millennium Pack
+- Retro Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Starter Deck: Joey

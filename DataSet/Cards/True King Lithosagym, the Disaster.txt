@@ -1,0 +1,16 @@
+True King Lithosagym, the Disaster
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can destroy 2 other monsters in your hand and/or face-up field, including an EARTH monster, and if you do, Special Summon this card, and if you do that, and both destroyed monsters were EARTH, you can also look at your opponent's Extra Deck and banish up to 3 monsters from it with different names. If this card is destroyed by card effect: You can Special Summon 1 non-EARTH Wyrm monster from your GY. You can only use each effect of "True King Lithosagym, the Disaster" once per turn.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 9
+Attack: 2500
+Defence: 2300
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest
+- Toon Chaos
+- Wild Survivors

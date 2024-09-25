@@ -1,0 +1,12 @@
+Korogashi
+Card Type: Normal Monster
+
+Description: A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 550
+Defence: 400
+Archetype: //
+Present in Sets:

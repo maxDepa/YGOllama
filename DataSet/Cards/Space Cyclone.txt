@@ -1,0 +1,13 @@
+Space Cyclone
+Card Type: Spell Card
+
+Description: Detach 1 Xyz Material from a monster.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

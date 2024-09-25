@@ -1,0 +1,16 @@
+Flash Knight
+Card Type: Pendulum Normal Monster
+
+Description: ''The power of the pendulum flashes forth from this shining knight.''
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Advanced Demo Deck Extra Pack
+- Demo Deck 2016
+- Duelist Alliance

@@ -1,0 +1,15 @@
+Charubin the Fire Knight
+Card Type: Fusion Monster
+
+Description: "Monster Egg" + "Hinotama Soul"
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 1100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

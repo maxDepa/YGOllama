@@ -1,0 +1,13 @@
+Xyz Revenge Shuffle
+Card Type: Trap Card
+
+Description: When a face-up Xyz Monster you control is targeted for an attack: Target 1 Xyz Monster in your Graveyard; return that face-up attack target to the Extra Deck, then Special Summon this card's target from the Graveyard, and if you do, attach this card to it, as an Xyz Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

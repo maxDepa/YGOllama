@@ -1,0 +1,15 @@
+Prepare to Strike Back
+Card Type: Trap Card
+
+Description: Each time your opponent declares a face-up Defense Position monster as an attack target, toss a coin and call it. If you call it right, change the targeted monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the amount that the ATK of the attacking monster is higher than the DEF of the attack target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4

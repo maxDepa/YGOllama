@@ -1,0 +1,17 @@
+Penguin Knight
+Card Type: Effect Monster
+
+Description: When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: Penguin
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

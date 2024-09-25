@@ -1,0 +1,13 @@
+Ojamassimilation
+Card Type: Spell Card
+
+Description: Reveal 1 LIGHT Machine Fusion Monster from your Extra Deck and banish any number of "Ojama" monsters from your hand, face-up field, and/or GY; Special Summon Fusion Materials with different names whose names are specifically listed on the card you revealed, from your hand, Deck, and/or GY, equal to the number of monsters banished to activate this effect. You can banish this card from your GY, then target 3 of your banished "Ojama" monsters; shuffle them into the Deck, then draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:
+- Legendary Duelists: Ancient Millennium

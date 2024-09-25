@@ -1,0 +1,16 @@
+Dewdark of the Ice Barrier
+Card Type: Tuner Monster
+
+Description: If the only face-up monsters you control are Level 2 or lower, this card can attack your opponent directly.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 1200
+Defence: 800
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

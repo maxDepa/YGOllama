@@ -1,0 +1,17 @@
+Shaddoll Hedgehog
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 "Shaddoll" Spell/Trap from your Deck to your hand.
+If this card is sent to the GY by a card effect: You can add 1 "Shaddoll" monster from your Deck to your hand, except "Shaddoll Hedgehog". You can only use 1 "Shaddoll Hedgehog" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 200
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

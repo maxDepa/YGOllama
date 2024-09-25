@@ -1,0 +1,16 @@
+Hero Kid
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: You can Special Summon any number of "Hero Kid"(s) from your Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 300
+Defence: 600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Shadow of Infinity

@@ -1,0 +1,13 @@
+Esper Girl
+Card Type: Tuner Monster
+
+Description: When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand.
+
+Type: Psychic
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 300
+Archetype: //
+Present in Sets:
+- Extreme Victory

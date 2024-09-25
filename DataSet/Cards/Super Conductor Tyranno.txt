@@ -1,0 +1,20 @@
+Super Conductor Tyranno
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 monster; inflict 1000 damage to your opponent. This card cannot declare an attack the turn this effect is activated.
+
+Type: Dinosaur
+Attribute: LIGHT
+Level: 8
+Attack: 3300
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dinosmasher's Fury Structure Deck
+- Structure Deck: Dinosaur's Rage
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

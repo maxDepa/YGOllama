@@ -1,0 +1,16 @@
+Reptilianne Hydra
+Card Type: Synchro Monster
+
+Description: 1 "Reptilianne" Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.
+
+Type: Reptile
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 1500
+Archetype: Reptilianne
+Present in Sets:
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Stardust Overdrive

@@ -1,0 +1,17 @@
+Inzektor Sword - Zektkaliber
+Card Type: Spell Card
+
+Description: Equip only to an "Inzektor" monster. It gains 800 ATK and DEF. When this face-up card on the field is sent to the Graveyard: Target 1 "Inzektor" monster in your Graveyard; add that target to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Order of Chaos
+- Order of Chaos
+- OTS Tournament Pack 17 (POR)
+- The Grand Creators

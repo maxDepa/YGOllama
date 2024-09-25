@@ -1,0 +1,17 @@
+Pendulum Dimension
+Card Type: Trap Card
+
+Description: If you Special Summon any of these monsters using a Pendulum Monster(s) as material, while this card is already face-up in your Spell & Trap Zone: You can activate the appropriate effect. You cannot apply that same effect of "Pendulum Dimension" for the rest of this turn (even if this card leaves the field).
+● Fusion: Special Summon 1 monster from your Deck with the same original Level as that Fusion Monster, in Defense Position, but negate its effects.
+● Synchro: Add 1 "Polymerization" from your Deck to your hand.
+● Xyz: Take 1 Tuner from your Deck with an equal or lower Level than that Xyz Monster's Rank, and add it to your hand or Special Summon it.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

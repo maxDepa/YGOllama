@@ -1,0 +1,16 @@
+Constellar Algiedi
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 "Constellar" monster from your hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars
+- Star Pack ARC-V
+- Star Pack ARC-V

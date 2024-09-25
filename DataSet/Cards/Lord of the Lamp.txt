@@ -1,0 +1,15 @@
+Lord of the Lamp
+Card Type: Normal Monster
+
+Description: This spirit emerges from the mystic lamp and obeys the wishes of its summoner.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Dark Beginning 2
+- Hobby League 1 participation cards A

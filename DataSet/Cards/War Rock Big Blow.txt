@@ -1,0 +1,13 @@
+War Rock Big Blow
+Card Type: Trap Card
+
+Description: During the Main Phase, if a face-up "War Rock" monster(s) you control leaves the field by an opponent's card effect: Destroy up to 2 cards your opponent controls. You can only activate 1 "War Rock Big Blow" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: War Rock
+Present in Sets:
+- Lightning Overdrive

@@ -1,0 +1,17 @@
+Armored Lizard
+Card Type: Normal Monster
+
+Description: A lizard with a very tough hide and a vicious bite.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Joey

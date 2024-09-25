@@ -1,0 +1,13 @@
+Radius, the Half-Moon Dragon
+Card Type: Effect Monster
+
+Description: If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). If you do, this card's Level becomes 8.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

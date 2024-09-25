@@ -1,0 +1,17 @@
+Flash Assailant
+Card Type: Effect Monster
+
+Description: Decrease the ATK and DEF of this card by 400 points for each card in your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

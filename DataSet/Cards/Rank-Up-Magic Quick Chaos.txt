@@ -1,0 +1,15 @@
+Rank-Up-Magic Quick Chaos
+Card Type: Spell Card
+
+Description: Target 1 "Number" Xyz Monster you control, except a "Number C" monster; Special Summon from your Extra Deck, 1 "Number C" monster with the same number in its name as that target, but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.)
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chaos
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Legendary Duelists: Duels From the Deep

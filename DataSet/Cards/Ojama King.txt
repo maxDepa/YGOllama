@@ -1,0 +1,19 @@
+Ojama King
+Card Type: Fusion Monster
+
+Description: "Ojama Green" + "Ojama Yellow" + "Ojama Black"
+Select up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.
+
+Type: Beast
+Attribute: LIGHT
+Level: 6
+Attack: 0
+Defence: 3000
+Archetype: Ojama
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist Pack: Chazz Princeton
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box

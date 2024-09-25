@@ -1,0 +1,19 @@
+Black Luster Ritual
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Black Luster Soldier". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Black Luster Soldier
+Present in Sets:
+- Duel Terminal 7a
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

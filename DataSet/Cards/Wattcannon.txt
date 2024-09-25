@@ -1,0 +1,13 @@
+Wattcannon
+Card Type: Trap Card
+
+Description: Once per turn, when a Level 4 or lower Thunder-Type monster(s) is Normal or Special Summoned to the field, inflict 600 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Duelist Revolution

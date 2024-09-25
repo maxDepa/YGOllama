@@ -1,0 +1,13 @@
+Reptilianne Nyami
+Card Type: Effect Monster
+
+Description: During the Main Phase, if you have a Reptile monster in your GY (Quick Effect): You can send this card from your hand to the GY, then target 1 face-up monster your opponent controls; change its ATK to 0. If your opponent controls a monster with 0 ATK: You can Special Summon this card from your GY. You can only use 1 "Reptilianne Nyami" effect per turn, and only once that turn.
+
+Type: Reptile
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 0
+Archetype: Reptilianne
+Present in Sets:
+- Burst of Destiny

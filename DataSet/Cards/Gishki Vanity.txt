@@ -1,0 +1,14 @@
+Gishki Vanity
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can discard this card; this turn, your opponent cannot activate Spells, Traps, Spell/Trap effects, or Monster Card effects when a "Gishki" monster is Ritual Summoned, or when a "Gishki" Ritual Spell Card is activated.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 1000
+Defence: 800
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

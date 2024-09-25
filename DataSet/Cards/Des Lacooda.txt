@@ -1,0 +1,17 @@
+Des Lacooda
+Card Type: Effect Monster
+
+Description: Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.
+
+Type: Zombie
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 600
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Gold Series
+- Pharaonic Guardian
+- Speed Duel: Battle City Box
+- Zombie World Structure Deck

@@ -1,0 +1,13 @@
+Mystic Potato
+Card Type: Effect Monster
+
+Description: If this card on the field is destroyed by card effect and sent to the GY: You can Special Summon 1 DARK monster with 1500 or less ATK from your Deck in Attack Position, except "Mystic Potato".
+
+Type: Plant
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1100
+Archetype: Attribute Summoner
+Present in Sets:
+- Phantom Nightmare

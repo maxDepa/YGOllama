@@ -1,0 +1,13 @@
+Greed Quasar
+Card Type: Effect Monster
+
+Description: This card's original ATK and DEF are each equal to its Level x 300. This monster's Level is increased by the Level of monsters it destroys by battle.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Crimson Crisis

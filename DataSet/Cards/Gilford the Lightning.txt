@@ -1,0 +1,20 @@
+Gilford the Lightning
+Card Type: Effect Monster
+
+Description: You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Collectible Tins 2005
+- Dark Revelation Volume 4
+- Legendary Collection 4: Joey's World Mega Pack
+- Millennium Pack
+- Rise of the Dragon Lords Structure Deck
+- Speed Duel: Attack from the Deep
+- Star Pack 2013
+- Star Pack 2013

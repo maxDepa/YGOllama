@@ -1,0 +1,20 @@
+Book of Eclipse
+Card Type: Spell Card
+
+Description: Change all face-up monsters on the field to face-down Defense Position. During the End Phase of this turn, change as many face-down Defense Position monsters your opponent controls as possible to face-up Defense Position, then your opponent draws cards equal to the number of monsters changed face-up by this effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Book of
+Present in Sets:
+- Astral Pack Eight
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battles of Legend: Monstrous Revenge
+- Duel Devastator
+- Structure Deck: Spirit Charmers
+- Tactical Masters
+- The Duelist Genesis

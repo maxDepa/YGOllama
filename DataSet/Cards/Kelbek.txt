@@ -1,0 +1,17 @@
+Kelbek
+Card Type: Effect Monster
+
+Description: A monster that attacks this card returns to the hand. Damage calculation is applied normally.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duel Terminal 5b
+- Speed Duel: Battle City Box

@@ -1,0 +1,13 @@
+Sour Scheduling - Red Vinegar Vamoose
+Card Type: Trap Card
+
+Description: Activate this card only if your opponent controls a card in this Set card's column; return all other cards in this card's column to the hand. Neither player can use the unused zones in this card's column. You can only control 1 "Sour Scheduling - Red Vinegar Vamoose".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Hypernova

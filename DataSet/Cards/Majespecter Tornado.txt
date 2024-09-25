@@ -1,0 +1,15 @@
+Majespecter Tornado
+Card Type: Trap Card
+
+Description: Tribute 1 WIND Spellcaster-Type monster, then target 1 monster your opponent controls; banish it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Majespecter
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- OTS Tournament Pack 24

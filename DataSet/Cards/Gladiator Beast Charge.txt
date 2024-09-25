@@ -1,0 +1,14 @@
+Gladiator Beast Charge
+Card Type: Trap Card
+
+Description: Target face-up cards on the field, up to the number of "Gladiator Beast" monsters you control with different names; destroy them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

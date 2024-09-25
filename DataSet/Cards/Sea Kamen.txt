@@ -1,0 +1,13 @@
+Sea Kamen
+Card Type: Normal Monster
+
+Description: A merciless monster that tears opponents to shreds with razor-like claws.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1100
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Astral Pack Six

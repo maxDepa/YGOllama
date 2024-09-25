@@ -1,0 +1,17 @@
+Star Changer
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field and activate 1 of these effects;
+● Increase that target's Level by 1.
+● Reduce that target's Level by 1.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Generation Force
+- Starter Deck: Xyz Symphony

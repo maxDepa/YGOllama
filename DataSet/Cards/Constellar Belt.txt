@@ -1,0 +1,14 @@
+Constellar Belt
+Card Type: Spell Card
+
+Description: The activation of LIGHT monsters' effects cannot be negated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Constellar
+Present in Sets:
+- Galactic Overlord
+- Spirit Warriors

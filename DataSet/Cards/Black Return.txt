@@ -1,0 +1,14 @@
+Black Return
+Card Type: Trap Card
+
+Description: When exactly 1 "Blackwing" monster (and no other monster) is Special Summoned: Target 1 face-up monster your opponent controls; gain LP equal to the ATK of that target, and if you do, return it to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Legendary Collection 5D's Mega Pack

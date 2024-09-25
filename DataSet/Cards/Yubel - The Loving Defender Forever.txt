@@ -1,0 +1,15 @@
+Yubel - The Loving Defender Forever
+Card Type: Fusion Monster
+
+Description: 1 "Yubel" monster + 1+ Effect Monsters on the field
+If this card is Fusion Summoned: You can inflict 500 damage to your opponent for each material used. You can only use this effect of "Yubel - The Loving Defender Forever" once per turn. Cannot be destroyed by battle or card effects, also you take no battle damage from battles involving this card. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, banish that monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 12
+Attack: 0
+Defence: 0
+Archetype: Yubel
+Present in Sets:
+- Phantom Nightmare
+- Phantom Nightmare

@@ -1,0 +1,21 @@
+Emergency Provisions
+Card Type: Spell Card
+
+Description: Send any number of other Spell/Trap Cards you control to the Graveyard; gain 1000 LP for each card sent to the Graveyard this way.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Pendulum Domination Structure Deck
+- Retro Pack 2
+- Speed Duel: Streets of Battle City
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Tournament Pack 6

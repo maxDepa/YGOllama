@@ -1,0 +1,14 @@
+Constellar Meteor
+Card Type: Trap Card
+
+Description: During the turn this card is activated, if an opponent's monster battles a "Constellar" monster, and the opponent's monster is not destroyed, shuffle it into the Deck at the end of the Damage Step.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

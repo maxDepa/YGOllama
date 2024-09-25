@@ -1,0 +1,18 @@
+Ghost Beef
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).
+
+[ Monster Effect ] 
+''The Ghost of Christmas Dinner.''
+
+Type: Beast
+Attribute: DARK
+Level: 7
+Attack: 2000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis

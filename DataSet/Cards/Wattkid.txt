@@ -1,0 +1,16 @@
+Wattkid
+Card Type: Normal Monster
+
+Description: A creature that electrocutes opponents with bolts of lightning.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: Watt
+Present in Sets:
+- Dark Beginning 2
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season
+- Turbo Pack: Booster Four

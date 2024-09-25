@@ -1,0 +1,15 @@
+Knightmare Corruptor Iblee
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it to your field so it points to this card, but change its ATK to 0, also negate its effects. You cannot Special Summon monsters, except Link Monsters. If this card in its owner's control is sent to the GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of "Knightmare Corruptor Iblee" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Knightmare
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Battles of Legend: Monstrous Revenge
+- Flames of Destruction

@@ -1,0 +1,13 @@
+Yajiro Invader
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned to a zone that is not the center Main Monster Zone, destroy this card. Once per turn: You can move this card to an unused adjacent Main Monster Zone. Each time exactly 1 monster is Normal or Special Summoned, to your opponent's field: Move this card to the adjacent Main Monster Zone closer to that opponent's monster, then destroy all other cards in this card's column.
+
+Type: Reptile
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Flames of Destruction

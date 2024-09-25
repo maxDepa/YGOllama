@@ -1,0 +1,13 @@
+Cynet Storm
+Card Type: Spell Card
+
+Description: All linked monsters on the field gain 500 ATK/DEF. Link Summons of Link Monsters cannot be negated. Once per Chain, if you take 2000 or more battle or effect damage: You can shuffle the face-down cards in your Extra Deck, excavate the top card, and if it is a Cyberse Link Monster, Special Summon it. Otherwise, return it to the Extra Deck.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Powercode Link

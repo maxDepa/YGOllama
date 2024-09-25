@@ -1,0 +1,13 @@
+Trickstar Colchica
+Card Type: Link Monster
+
+Description: 1 non-Link "Trickstar" monster
+You can only Special Summon "Trickstar Colchica(s)" once per turn. When a monster(s) is destroyed by battle involving your "Trickstar" monster while this card is in your GY: You can banish this card, then target 1 of those destroyed monsters; inflict damage to your opponent equal to its ATK. You can only use this effect of "Trickstar Colchica" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 200
+Defence: 0
+Archetype: Trickstar
+Present in Sets:

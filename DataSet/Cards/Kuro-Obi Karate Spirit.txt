@@ -1,0 +1,18 @@
+Kuro-Obi Karate Spirit
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.
+
+Type: Warrior
+Attribute: WIND
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: Martial Art Spirit
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

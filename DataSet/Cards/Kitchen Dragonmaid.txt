@@ -1,0 +1,14 @@
+Kitchen Dragonmaid
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Dragonmaid" monster from your Deck to your hand, except "Kitchen Dragonmaid", then send 1 "Dragonmaid" monster from your hand to the GY. At the start of the Battle Phase: You can return this card to the hand, and if you do, Special Summon 1 Level 8 "Dragonmaid" monster from your hand or GY. You can only use each effect of "Kitchen Dragonmaid" once per turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 1700
+Archetype: Dragonmaid
+Present in Sets:
+- Maximum Gold
+- Mystic Fighters

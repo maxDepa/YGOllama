@@ -1,0 +1,15 @@
+Neutron Blast
+Card Type: Spell Card
+
+Description: Target 1 Fusion Summoned "Blue-Eyes Ultimate Dragon" you control; this turn, it can make a second and third attack during each Battle Phase, also when it attacks, your opponent's cards and effects cannot be activated until the end of the Damage Step.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Collection Kaiba Mega Pack
+- Legendary Duelists: Season 2

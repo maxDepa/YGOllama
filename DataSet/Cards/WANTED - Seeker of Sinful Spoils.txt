@@ -1,0 +1,14 @@
+WANTED: Seeker of Sinful Spoils
+Card Type: Spell Card
+
+Description: Add 1 "Diabellstar" monster from your Deck or GY to your hand. During your Main Phase: You can banish this card from your GY, then target 1 of your "Sinful Spoils" Spells/Traps that is banished or in your GY, except "WANTED: Seeker of Sinful Spoils"; place it on the bottom of the Deck, then draw 1 card. You can only use each effect of "WANTED: Seeker of Sinful Spoils" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sinful Spoils
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

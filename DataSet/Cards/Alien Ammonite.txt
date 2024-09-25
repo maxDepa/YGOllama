@@ -1,0 +1,14 @@
+Alien Ammonite
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower "Alien" monster from your Graveyard. Destroy it during the End Phase.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 1
+Attack: 500
+Defence: 200
+Archetype: Alien
+Present in Sets:
+- Crimson Crisis
+- Ghosts From the Past: The 2nd Haunting

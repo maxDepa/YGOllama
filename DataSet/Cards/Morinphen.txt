@@ -1,0 +1,15 @@
+Morinphen
+Card Type: Normal Monster
+
+Description: A strange fiend with long arms and razor-sharp talons.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1550
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,17 @@
+Dimension Shifter
+Card Type: Effect Monster
+
+Description: If you have no cards in your GY (Quick Effect): You can send this card from your hand to the GY; until the end of the next turn, any card sent to the GY is banished instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 1200
+Defence: 2200
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin
+- 2022 Tin of the Pharaoh's Gods
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Structure Deck: Legend of the Crystal Beasts

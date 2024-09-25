@@ -1,0 +1,17 @@
+Shaddoll Squamata
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 monster on the field; destroy it.
+If this card is sent to the GY by a card effect: You can send 1 "Shaddoll" card from your Deck to the GY, except "Shaddoll Squamata". You can only use 1 "Shaddoll Squamata" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Duelist Alliance
+- Structure Deck: Shaddoll Showdown

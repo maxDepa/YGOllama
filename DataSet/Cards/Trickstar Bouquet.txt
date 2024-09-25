@@ -1,0 +1,14 @@
+Trickstar Bouquet
+Card Type: Spell Card
+
+Description: Target 1 "Trickstar" monster you control and 1 face-up monster on the field; return that "Trickstar" monster to the hand, and if you do, the other monster gains ATK equal to the original ATK of the returned monster, until the end of this turn. You can only activate 1 "Trickstar Bouquet" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

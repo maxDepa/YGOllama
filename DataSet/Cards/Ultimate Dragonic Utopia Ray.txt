@@ -1,0 +1,17 @@
+Ultimate Dragonic Utopia Ray
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+(This card is always treated as "Number C39: Utopia Ray".)
+Once per turn, when a card or effect is activated that targets this card, or when this card is targeted for an attack (Quick Effect): You can equip 1 "ZW -" monster from your hand or Deck to this card as if it were equipped by that monster's effect. Once per turn: You can detach 1 material from this card, then target face-up cards your opponent controls up to the number of "ZW -" Monster Cards equipped to this card; negate their effects.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2500
+Defence: 2000
+Archetype: Number
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

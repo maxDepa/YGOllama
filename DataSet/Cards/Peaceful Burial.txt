@@ -1,0 +1,14 @@
+Peaceful Burial
+Card Type: Trap Card
+
+Description: Send 1 monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name the sent monster had in the GY. You can only activate 1 "Peaceful Burial" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

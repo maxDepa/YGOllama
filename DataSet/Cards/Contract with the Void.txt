@@ -1,0 +1,13 @@
+Contract with the Void
+Card Type: Spell Card
+
+Description: If you have 3 or more other cards in your hand: Discard your entire hand, then you can Special Summon 1 "Infernity" monster or 1 Level 8 DARK Dragon Synchro Monster from your GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Void
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

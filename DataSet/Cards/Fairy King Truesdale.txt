@@ -1,0 +1,15 @@
+Fairy King Truesdale
+Card Type: Effect Monster
+
+Description: While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.
+
+Type: Plant
+Attribute: WATER
+Level: 6
+Attack: 2200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven
+- Yu-Gi-Oh! The Falsebound Kingdom promotional cards
+- Yu-Gi-Oh! World Championship Tournament 2004 promotional cards

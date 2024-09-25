@@ -1,0 +1,14 @@
+Tenmataitei
+Card Type: Effect Monster
+
+Description: Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.
+
+Type: Warrior
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

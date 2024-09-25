@@ -1,0 +1,17 @@
+Bitron
+Card Type: Normal Monster
+
+Description: A new species found in electronic space. There's not much information on it.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 2
+Attack: 200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

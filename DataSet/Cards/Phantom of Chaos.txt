@@ -1,0 +1,18 @@
+Phantom of Chaos
+Card Type: Effect Monster
+
+Description: Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card's name and original ATK become that monster's name and original ATK, and replace this effect with that monster's original effects. You must control this face-up card to activate and to resolve this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Chaos
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Gladiator's Assault: Special Edition
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Structure Deck: Lair of Darkness
+- Structure Deck: Sacred Beasts

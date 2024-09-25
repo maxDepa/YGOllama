@@ -1,0 +1,16 @@
+Hysteric Fairy
+Card Type: Effect Monster
+
+Description: Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

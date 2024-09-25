@@ -1,0 +1,21 @@
+Dark Factory of Mass Production
+Card Type: Spell Card
+
+Description: Target 2 Normal Monsters in your GY; add them to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Dark Revelation Volume 3
+- Duelist League 13 participation cards
+- Legendary Decks II
+- Soul of the Duelist
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 5
+- Starter Deck 2006
+- Super Starter: Space-Time Showdown

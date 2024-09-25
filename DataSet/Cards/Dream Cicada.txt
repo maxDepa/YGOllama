@@ -1,0 +1,13 @@
+Dream Cicada
+Card Type: Effect Monster
+
+Description: If you control an Attack Position Insect monster, you can Special Summon this card (from your hand). You can only Special Summon "Dream Cicada" once per turn this way. If this card is Normal or Special Summoned: You can target 1 monster on the field; change its battle position. You can only use this effect of "Dream Cicada" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 300
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge

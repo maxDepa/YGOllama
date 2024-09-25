@@ -1,0 +1,15 @@
+Junk Barrage
+Card Type: Spell Card
+
+Description: When the equipped monster destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's ATK in the Graveyard.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Junk
+Present in Sets:
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- The Duelist Genesis

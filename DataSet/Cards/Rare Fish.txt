@@ -1,0 +1,14 @@
+Rare Fish
+Card Type: Fusion Monster
+
+Description: "Fusionist" + "Enchanting Mermaid"
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 3

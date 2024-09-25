@@ -1,0 +1,17 @@
+Maple Maiden
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can declare 1 Attribute; this card gains the following effect.
+● All face-up monsters become that Attribute.
+You can target 1 monster in your opponent's Main Monster Zone; your opponent must send 1 card from among its adjacent Monster Zones or Spell & Trap Zones to the GY. You can only use each effect of "Maple Maiden" once per turn.
+
+Type: Fairy
+Attribute: WIND
+Level: 7
+Attack: 2100
+Defence: 2600
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

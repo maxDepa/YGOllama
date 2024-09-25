@@ -1,0 +1,15 @@
+Ancient Gear Cannon
+Card Type: Effect Monster
+
+Description: You can Tribute this card; inflict 500 damage to your opponent, and if you do, neither player can activate Trap Cards during the Battle Phase of this turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Ancient Gear
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Structure Deck: Machine Re-Volt

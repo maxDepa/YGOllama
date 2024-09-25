@@ -1,0 +1,16 @@
+Stairs of Mail
+Card Type: Spell Card
+
+Description: During your Main Phase: You can activate this effect; discard 1 "Tindangle" card, and if you do, apply 1 of these effects.
+● Change 1 face-down Defense Position monster you control to face-up Attack Position.
+● Change 1 face-up Attack Position monster you control to face-down Defense Position.
+This turn, you cannot discard another card with the same name for the effect of "Stairs of Mail" (even if this card leaves the field).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tindangle
+Present in Sets:
+- Eternity Code

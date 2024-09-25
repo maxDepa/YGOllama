@@ -1,0 +1,13 @@
+Saambell the Summoner
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can Special Summon 1 monster from your hand with the same Level as this card. This effect can only be used once while this card is face-up on the field.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 2
+Attack: 600
+Defence: 400
+Archetype: //
+Present in Sets:
+- Generation Force

@@ -1,0 +1,14 @@
+Hieratic Seal of Supremacy
+Card Type: Spell Card
+
+Description: Special Summon 1 "Hieratic" monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hieratic
+Present in Sets:
+- Galactic Overlord
+- Ghosts From the Past

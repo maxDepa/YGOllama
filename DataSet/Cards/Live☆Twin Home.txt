@@ -1,0 +1,13 @@
+Live☆Twin Home
+Card Type: Spell Card
+
+Description: Discard 1 card; Special Summon 1 "Ki-sikil" monster or 1 "Lil-la" monster from your Deck, also for the rest of this turn after this card resolves, you cannot Special Summon monsters from the Extra Deck, except "Evil★Twin" monsters. You can only activate 1 "Live☆Twin Home" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Live☆Twin
+Present in Sets:
+- Genesis Impact

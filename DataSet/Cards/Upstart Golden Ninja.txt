@@ -1,0 +1,14 @@
+Upstart Golden Ninja
+Card Type: Effect Monster
+
+Description: Once per turn: You can send 1 Trap from your hand to the GY; Special Summon 1 Level 4 or lower "Ninja" monster from your Deck in face-up Defense Position or face-down Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 500
+Defence: 1800
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- Shadows in Valhalla

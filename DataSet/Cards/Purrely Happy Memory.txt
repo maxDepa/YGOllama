@@ -1,0 +1,17 @@
+Purrely Happy Memory
+Card Type: Spell Card
+
+Description: Choose 1 card on the field, and until the end of the next turn, the first time it would be destroyed by card effect, it is not destroyed. After choosing a card, then you can apply the following effect.
+● Discard 1 card, and if you do, Special Summon 1 Level 1 "Purrely" monster from your Deck.
+A "Purrely" Xyz Monster that has this card as material gains the following effect.
+● This card can attack monsters a number of times each Battle Phase, up to the number of "Purrely Happy Memory" attached to it +1.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Purrely
+Present in Sets:
+- Amazing Defenders
+- OTS Tournament Pack 22

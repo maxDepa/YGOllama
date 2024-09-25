@@ -1,0 +1,13 @@
+Castle Gate
+Card Type: Effect Monster
+
+Description: This card cannot be destroyed by battle. Once per turn, if this card is in face-up Attack Position, you can Tribute 1 Level 5 or lower monster to inflict damage to your opponent equal to that monster's original ATK.
+
+Type: Rock
+Attribute: EARTH
+Level: 6
+Attack: 0
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Phantom Darkness

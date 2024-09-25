@@ -1,0 +1,16 @@
+XX-Saber Fulhelmknight
+Card Type: Tuner Monster
+
+Description: When an opponent's monster declares an attack: You can target the attacking monster; negate that attack. This effect can only be used once while this card is face-up on the field. If this card destroys an opponent's Defense Position monster by battle: You can target 1 Level 4 or lower "X-Saber" monster in your Graveyard; Special Summon it.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 1000
+Archetype: X-Saber
+Present in Sets:
+- Ancient Prophecy
+- Star Pack ARC-V
+- Star Pack ARC-V
+- X-Saber Power-Up

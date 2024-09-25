@@ -1,0 +1,14 @@
+Blackwing - Aurora the Northern Lights
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 face-up monsters you control (1 "Blackwing" Tuner and 1 non-Tuner), and cannot be Special Summoned by other ways. Once per turn: You can banish 1 "Blackwing" Synchro Monster from your Extra Deck; until the End Phase, this card's name and original ATK become that monster's, and replace this effect with that monster's original effects.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 10
+Attack: -1
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Starstrike Blast

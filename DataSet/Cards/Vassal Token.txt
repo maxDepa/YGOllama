@@ -1,0 +1,12 @@
+Vassal Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Mithra the Thunder Vassal".
+
+Type: Thunder
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vassal
+Present in Sets:

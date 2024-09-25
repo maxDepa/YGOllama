@@ -1,0 +1,13 @@
+Strength of Prophecy
+Card Type: Effect Monster
+
+Description: Once per turn: You can shuffle 1 "Spellbook" Spell Card from your Graveyard into your Deck to target 1 face-up Spellcaster-Type monster on the field; increase its Level by 1 and its ATK by 500.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 1400
+Archetype: Spellbook
+Present in Sets:
+- Return of the Duelist

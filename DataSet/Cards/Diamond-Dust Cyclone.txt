@@ -1,0 +1,14 @@
+Diamond-Dust Cyclone
+Card Type: Spell Card
+
+Description: Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gladiator's Assault
+- Speed Duel GX: Duelists of Shadows

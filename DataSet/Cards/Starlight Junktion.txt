@@ -1,0 +1,14 @@
+Starlight Junktion
+Card Type: Spell Card
+
+Description: You can Tribute 1 Tuner monster; Special Summon 1 "Synchron" monster from your Deck with a different Level than the Tributed monster had on the field. During your opponent's turn, if you Special Summon a Synchro Monster from your Extra Deck: Target 1 card on the field; shuffle it into the Deck. You can only use each effect of "Starlight Junktion" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Junk
+Present in Sets:
+- Maximum Gold
+- Synchron Extreme Structure Deck

@@ -1,0 +1,18 @@
+Black Fang Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK (until the end of this turn), then destroy this card.
+
+[ Monster Effect ] 
+(This card is always treated as an "Xyz Dragon" card.)
+If this card is destroyed by battle or card effect: You can target 1 DARK Spellcaster-Type monster in your Graveyard; Special Summon it.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 800
+Archetype: Magician
+Present in Sets:
+- Pendulum Evolution

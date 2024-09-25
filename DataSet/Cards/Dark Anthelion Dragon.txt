@@ -1,0 +1,18 @@
+Dark Anthelion Dragon
+Card Type: XYZ Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster your opponent controls; halve its original ATK until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+2 Level 7 monsters
+If you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 face-up monster your opponent controls; until the end of this turn, its ATK becomes half its current ATK, and if it does, this card gains that lost ATK. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Duel Overload

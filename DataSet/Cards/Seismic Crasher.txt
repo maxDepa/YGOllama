@@ -1,0 +1,13 @@
+Seismic Crasher
+Card Type: Effect Monster
+
+Description: Twice per turn, you can send 1 face-up Continuous Spell or Continuous Trap Card you control to the Graveyard to inflict 500 damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Force of the Breaker

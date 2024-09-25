@@ -1,0 +1,14 @@
+Shore Knight
+Card Type: Effect Monster
+
+Description: Once per turn, if the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the GY.
+
+Type: Warrior
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Speed Duel: Trials of the Kingdom

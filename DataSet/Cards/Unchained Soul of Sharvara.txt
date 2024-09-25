@@ -1,0 +1,14 @@
+Unchained Soul of Sharvara
+Card Type: Effect Monster
+
+Description: During the Main Phase, if this card is in your hand (Quick Effect): You can target 1 Fiend monster or 1 face-down card you control; destroy it, and if you do, Special Summon this card, but while it is face-up in the Monster Zone, you cannot Special Summon monsters, except Fiend monsters. If this card is sent to the GY: You can Set 1 "Unchained" Spell/Trap directly from your Deck. You can only use each effect of "Unchained Soul of Sharvara" once per turn.
+
+Type: Fiend
+Attribute: FIRE
+Level: 6
+Attack: 2000
+Defence: 1500
+Archetype: Unchained
+Present in Sets:
+- Duelist Nexus
+- OTS Tournament Pack 24

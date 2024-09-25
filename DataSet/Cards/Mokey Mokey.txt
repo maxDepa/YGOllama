@@ -1,0 +1,16 @@
+Mokey Mokey
+Card Type: Normal Monster
+
+Description: An outcast angel. Nobody knows what he is thinking at all. Sometimes he gets mad and that is dreadful.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 100
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Duel Academy Box
+- Turbo Pack: Booster Four

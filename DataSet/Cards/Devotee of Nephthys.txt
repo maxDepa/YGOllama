@@ -1,0 +1,15 @@
+Devotee of Nephthys
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Rebirth of Nephthys". You can only use each of the following effects of "Devotee of Nephthys" once per turn.
+● If this card is Ritual Summoned: You can activate this effect; Special Summon 1 "Nephthys" monster from your Deck, also during the End Phase of this turn, destroy this card.
+● If this card is in the GY: You can destroy 1 "Nephthys" card in your hand, and if you do, Special Summon this card.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 2
+Attack: 1200
+Defence: 1200
+Archetype: Nephthys
+Present in Sets:
+- Hidden Summoners

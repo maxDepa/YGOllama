@@ -1,0 +1,13 @@
+Jinzo the Machine Menace
+Card Type: Effect Monster
+
+Description: If a Trap is face-up on the field or in either GY: You can Special Summon this card from your hand, and if you do, it becomes Level 6 until the end of this turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 "Jinzo" from your hand or GY, then you can destroy all Traps your opponent controls (if a card is Set, reveal it). You can only use each effect of "Jinzo the Machine Menace" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 1500
+Archetype: Jinzo
+Present in Sets:
+- Legendary Duelists: Rage of Ra

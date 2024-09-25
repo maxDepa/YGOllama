@@ -1,0 +1,15 @@
+Cyber Revsystem
+Card Type: Spell Card
+
+Description: Special Summon 1 "Cyber Dragon" from your hand or GY. It cannot be destroyed by card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- Magnificent Mavens

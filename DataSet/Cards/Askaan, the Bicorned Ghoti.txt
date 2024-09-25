@@ -1,0 +1,14 @@
+Askaan, the Bicorned Ghoti
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can target 1 Fish monster you control and 1 card your opponent controls; banish them. If this card is banished: You can banish 1 Fish monster from your GY; Special Summon this card. You can only use each effect of "Askaan, the Bicorned Ghoti" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 8
+Attack: 2700
+Defence: 0
+Archetype: Ghoti
+Present in Sets:
+- Power of the Elements

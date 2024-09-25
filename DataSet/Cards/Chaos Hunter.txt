@@ -1,0 +1,18 @@
+Chaos Hunter
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1600
+Archetype: Chaos
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Magnificent Mavens
+- Master of Pendulum Structure Deck
+- Storm of Ragnarok
+- Structure Deck: Sacred Beasts

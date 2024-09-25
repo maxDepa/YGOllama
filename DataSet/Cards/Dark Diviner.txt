@@ -1,0 +1,14 @@
+Dark Diviner
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1 non-Tuner Insect-Type monster
+This card cannot be destroyed by battle. When this card declares an attack, if the ATK of the attack target is higher than this card: The ATK of the attack target becomes equal to this face-up card's current ATK. This change lasts until the end of the Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Send the top 3 cards of your opponent's Deck to the Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Order of Chaos

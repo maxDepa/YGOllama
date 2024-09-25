@@ -1,0 +1,14 @@
+T.G. Mighty Striker
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1 non-Tuner monster
+Once per turn, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of "T.G. Mighty Striker" once per turn. If this card is Synchro Summoned: You can add 1 "T.G." Spell/Trap from your Deck to your hand. If this card is sent from your Monster Zone to the GY: You can send 1 "T.G." card from your Deck to the GY.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 1800
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Age of Overlord

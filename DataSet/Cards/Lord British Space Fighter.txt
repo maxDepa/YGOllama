@@ -1,0 +1,16 @@
+Lord British Space Fighter
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, select and activate 1 of these effects:
+● You can attack once again in a row. ● Select and destroy 1 Set card on the field. ● Special Summon 1 "Multi Token" (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 800
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Stardust Overdrive

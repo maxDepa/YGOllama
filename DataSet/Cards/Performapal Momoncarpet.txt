@@ -1,0 +1,17 @@
+Performapal Momoncarpet
+Card Type: Pendulum Flip Effect Monster
+
+Description: [ Pendulum Effect ] 
+Unless you have a card in your other Pendulum Zone, destroy this card. While this card is in the Pendulum Zone, any battle damage you take becomes halved.
+
+[ Monster Effect ] 
+FLIP: You can target 1 Set card on the field; destroy it. If this card is Special Summoned: You can change it to face-down Defense Position.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 100
+Archetype: Performapal
+Present in Sets:
+- Starter Deck: Yuya

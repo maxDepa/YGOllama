@@ -1,0 +1,13 @@
+Nekogal #2
+Card Type: Normal Monster
+
+Description: A fast and lethal creature with very dangerous claws.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Tournament Pack 7

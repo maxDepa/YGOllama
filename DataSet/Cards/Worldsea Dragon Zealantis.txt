@@ -1,0 +1,15 @@
+Worldsea Dragon Zealantis
+Card Type: Link Monster
+
+Description: 1+ Effect Monsters
+You can only control 1 "Worldsea Dragon Zealantis". You can only use each of the following effects of "Worldsea Dragon Zealantis" once per turn. During your Main Phase: You can banish all monsters on the field, then Special Summon as many monsters as possible that were banished by this effect, to their owners' fields, face-up, or in face-down Defense Position. During the Battle Phase (Quick Effect): You can destroy cards on the field up to the number of co-linked monsters on the field.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 0
+Attack: 2500
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

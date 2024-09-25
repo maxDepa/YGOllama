@@ -1,0 +1,13 @@
+Cup of Ace
+Card Type: Spell Card
+
+Description: Toss a coin: ● Heads: Draw 2 cards. ● Tails: Your opponent draws 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction

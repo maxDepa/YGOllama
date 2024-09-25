@@ -1,0 +1,19 @@
+Mask of Brutality
+Card Type: Spell Card
+
+Description: The equipped monster gains 1000 ATK and loses 1000 DEF. During each of your Standby Phases, pay 1000 LP or destroy this card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mask
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Battle City Box

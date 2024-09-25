@@ -1,0 +1,13 @@
+Alien Psychic
+Card Type: Effect Monster
+
+Description: This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.
+
+Type: Reptile
+Attribute: DARK
+Level: 1
+Attack: 200
+Defence: 100
+Archetype: Alien
+Present in Sets:
+- Strike of Neos

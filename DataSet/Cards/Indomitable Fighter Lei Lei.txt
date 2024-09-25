@@ -1,0 +1,14 @@
+Indomitable Fighter Lei Lei
+Card Type: Effect Monster
+
+Description: If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 2300
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

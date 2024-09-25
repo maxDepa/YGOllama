@@ -1,0 +1,18 @@
+Advance Draw
+Card Type: Spell Card
+
+Description: Tribute 1 face-up Level 8 or higher monster you control; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Destiny Soldiers
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei 2
+- Legendary Collection 5D's Mega Pack
+- Valiant Smashers

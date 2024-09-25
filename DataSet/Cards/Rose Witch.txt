@@ -1,0 +1,15 @@
+Rose Witch
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a Plant-Type monster.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Rose Dragon
+Present in Sets:
+- Legacy of the Valiant
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2

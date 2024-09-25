@@ -1,0 +1,13 @@
+Transmigration Break
+Card Type: Trap Card
+
+Description: Any cards that would be returned to the Deck from the Graveyard are removed from play instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

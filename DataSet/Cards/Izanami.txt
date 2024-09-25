@@ -1,0 +1,13 @@
+Izanami
+Card Type: Spirit Monster
+
+Description: This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card is Normal Summoned or flipped face-up, you can discard 1 card to add 1 Spirit monster from your Graveyard to your hand.
+
+Type: Fairy
+Attribute: WATER
+Level: 4
+Attack: 1100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

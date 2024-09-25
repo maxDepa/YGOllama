@@ -1,0 +1,14 @@
+Bean Soldier
+Card Type: Normal Monster
+
+Description: A plant-warrior that attacks with seeds and sword.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

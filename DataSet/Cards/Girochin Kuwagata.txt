@@ -1,0 +1,16 @@
+Girochin Kuwagata
+Card Type: Normal Monster
+
+Description: Despite its small size, this monster has powerful jaws that can rip metal to shreds.
+
+Type: Insect
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel: Trials of the Kingdom

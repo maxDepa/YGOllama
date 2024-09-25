@@ -1,0 +1,16 @@
+Oneiros, the Dream Mirror Tormentor
+Card Type: Fusion Monster
+
+Description: 2 "Dream Mirror" monsters with different Attributes
+While face-up on the field, this card is also LIGHT-Attribute. You can only use each of the following effects of "Oneiros, the Dream Mirror Tormentor" once per turn.
+● When a monster effect is activated while "Dream Mirror of Terror" is in a Field Zone (Quick Effect): You can negate that effect.
+● If "Dream Mirror of Joy" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 "Oneiros, the Dream Mirror Erlking" from your Extra Deck in Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 3000
+Archetype: Dream Mirror
+Present in Sets:
+- Blazing Vortex

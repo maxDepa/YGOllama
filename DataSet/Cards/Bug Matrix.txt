@@ -1,0 +1,14 @@
+Bug Matrix
+Card Type: Spell Card
+
+Description: All Insect-Type monsters you control gain 300 ATK and DEF. You can target 1 Insect-Type Xyz Monster you control; attach 1 Insect-Type monster from your hand to that monster as Xyz Material. You can only use this effect of "Bug Matrix" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

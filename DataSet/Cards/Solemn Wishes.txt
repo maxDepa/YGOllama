@@ -1,0 +1,18 @@
+Solemn Wishes
+Card Type: Trap Card
+
+Description: Increase your Life Points by 500 points each time you draw a card (or cards).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solemn
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel: Streets of Battle City

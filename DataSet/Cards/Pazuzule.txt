@@ -1,0 +1,18 @@
+Pazuzule
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 card in your other Pendulum Zone; this card's Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.
+
+[ Monster Effect ] 
+Pendulum Summons of your monsters cannot be negated.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

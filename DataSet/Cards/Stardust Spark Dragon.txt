@@ -1,0 +1,16 @@
+Stardust Spark Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Once per turn (Quick Effect): You can target 1 face-up card you control; once during this turn, it cannot be destroyed by battle or card effects.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Stardust
+Present in Sets:
+- Duel Devastator
+- High-Speed Riders
+- Yu-Gi-Oh! 5D's Volume 5 promotional card

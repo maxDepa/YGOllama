@@ -1,0 +1,14 @@
+Gadget Hauler
+Card Type: Effect Monster
+
+Description: Once per turn, you can send any number of "Morphtronic" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 1300
+Defence: 0
+Archetype: Gadget
+Present in Sets:
+- Crossroads of Chaos
+- Duel Terminal 2

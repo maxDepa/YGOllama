@@ -1,0 +1,14 @@
+Gem-Armadillo
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Gem-Knight" monster from your Deck to your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 500
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

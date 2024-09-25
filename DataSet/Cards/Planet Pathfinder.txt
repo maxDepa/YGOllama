@@ -1,0 +1,15 @@
+Planet Pathfinder
+Card Type: Effect Monster
+
+Description: You can Tribute this card; add 1 Field Spell Card from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Machine Reactor Structure Deck
+- Maximum Gold

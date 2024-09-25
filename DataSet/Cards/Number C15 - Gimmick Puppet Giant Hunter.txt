@@ -1,0 +1,15 @@
+Number C15: Gimmick Puppet Giant Hunter
+Card Type: XYZ Monster
+
+Description: 3 Level 9 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 card your opponent controls; destroy it, and if you do, and it was a monster, inflict damage to your opponent equal to its original ATK.
+
+Type: Machine
+Attribute: DARK
+Level: 9
+Attack: 2500
+Defence: 1500
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Season 3
+- Premium Gold

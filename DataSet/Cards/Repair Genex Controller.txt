@@ -1,0 +1,15 @@
+Repair Genex Controller
+Card Type: Link Monster
+
+Description: 1 Level 4 or lower "Genex" monster
+You can only Special Summon "Repair Genex Controller(s)" once per turn. If this card is Link Summoned: You can add 1 "Genex" monster from your GY to your hand. Once per Chain, if a "Genex" monster(s) is added to your hand, except by drawing it, you can (except during the Damage Step): Immediately after this effect resolves, Normal Summon 1 "Genex" monster, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Summon using a "Genex" Tuner as material.
+
+Type: Machine
+Attribute: DARK
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Battles of Legend: Terminal Revenge

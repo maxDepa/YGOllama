@@ -1,0 +1,16 @@
+Exploder Dragonwing
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Dragon-Type monsters
+At the start of the Damage Step, if this card battles a monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field. This card's ATK must be greater than or equal to the ATK of that monster to activate and to resolve this effect.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Raging Battle
+- Raging Battle

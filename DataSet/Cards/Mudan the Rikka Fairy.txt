@@ -1,0 +1,14 @@
+Mudan the Rikka Fairy
+Card Type: Effect Monster
+
+Description: You can Tribute 1 Plant monster; Special Summon this card from your hand. If this card is Normal Summoned, or Special Summoned by the effect of a Plant monster: You can add 1 "Rikka" Spell/Trap from your Deck to your hand. You can only use each effect of "Mudan the Rikka Fairy" once per turn.
+
+Type: Plant
+Attribute: WATER
+Level: 6
+Attack: 1000
+Defence: 2400
+Archetype: Rikka
+Present in Sets:
+- Maze of Memories
+- Secret Slayers

@@ -1,0 +1,15 @@
+Frenzied Panda
+Card Type: Normal Monster
+
+Description: A savage beast that carries a big bamboo stick for beating down its enemies.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

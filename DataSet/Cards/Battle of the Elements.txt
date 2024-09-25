@@ -1,0 +1,13 @@
+Battle of the Elements
+Card Type: Trap Card
+
+Description: Activate only while all monsters on the field are face-up. Both players send monsters they control to the Graveyard so that they each control only 1 Attribute.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

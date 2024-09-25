@@ -1,0 +1,13 @@
+Silvervine Senri
+Card Type: Effect Monster
+
+Description: You can Tribute this card, then target 1 Level 2 monster in your GY, except "Silvervine Senri"; Special Summon it, then you can Special Summon 1 Level 2 monster from your hand with a different Attribute than the monster Special Summoned by this effect. You can only use this effect of "Silvervine Senri" once per turn.
+
+Type: Beast
+Attribute: WIND
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle of Chaos

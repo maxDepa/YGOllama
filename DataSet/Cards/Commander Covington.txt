@@ -1,0 +1,15 @@
+Commander Covington
+Card Type: Effect Monster
+
+Description: You can send 1 face-up "Machina Soldier", "Machina Sniper", and "Machina Defender" you control to the GY; Special Summon 1 "Machina Force" from your hand or Deck.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 600
+Archetype: Machina
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Structure Deck: Mechanized Madness

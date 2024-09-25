@@ -1,0 +1,13 @@
+Handigallop
+Card Type: Effect Monster
+
+Description: Cannot attack directly. Gains ATK equal to the difference between your LP and your opponent's. If your LP are higher than your opponent's, you take any battle damage your opponent would have taken from battles involving this attacking card, instead.
+
+Type: Beast
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Neostorm

@@ -1,0 +1,14 @@
+Xyz Veil
+Card Type: Trap Card
+
+Description: Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- Generation Force Sneak Peek Participation Card

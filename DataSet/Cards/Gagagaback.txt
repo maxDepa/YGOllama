@@ -1,0 +1,13 @@
+Gagagaback
+Card Type: Spell Card
+
+Description: During the turn a "Gagaga" monster you control was destroyed by battle and sent to the Graveyard: Special Summon from your Graveyard as many monsters as possible that were destroyed by battle this turn, in face-up Defense Position, then take 600 damage for each monster Special Summoned by this effect. You can only activate 1 "Gagagaback" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gagaga
+Present in Sets:
+- Zexal Collection Tin

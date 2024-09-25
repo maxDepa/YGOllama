@@ -1,0 +1,18 @@
+Performapal Bit Bite Turtle
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can reveal 1 "Performapal" or "Odd-Eyes" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).
+
+[ Monster Effect ] 
+When this card is destroyed by battle: You can destroy the monster that destroyed it.
+
+Type: Reptile
+Attribute: WATER
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

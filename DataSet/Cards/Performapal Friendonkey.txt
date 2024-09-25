@@ -1,0 +1,16 @@
+Performapal Friendonkey
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower "Performapal" monster from your hand or Graveyard.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 600
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V

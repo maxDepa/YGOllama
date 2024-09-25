@@ -1,0 +1,17 @@
+El Shaddoll Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. You can only activate 1 "El Shaddoll Fusion" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duel Power
+- Structure Deck: Shaddoll Showdown
+- The New Challengers
+- The New Challengers: Super Edition

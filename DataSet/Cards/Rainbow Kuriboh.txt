@@ -1,0 +1,18 @@
+Rainbow Kuriboh
+Card Type: Effect Monster
+
+Description: You can only use each effect of "Rainbow Kuriboh" once per turn.
+● When an opponent's monster declares an attack: You can target that attacking monster; equip this card from your hand to that monster. It cannot attack.
+● When an opponent's monster declares a direct attack while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Kuriboh
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Emperor of Darkness Structure Deck
+- Legacy of the Valiant
+- Yu-Gi-Oh! Advent Calendar (2019)

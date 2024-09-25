@@ -1,0 +1,15 @@
+Fortune Lady Light
+Card Type: Effect Monster
+
+Description: This card's ATK/DEF become its Level x 200. Once per turn, during your Standby Phase: Increase this card's Level by 1 (max. 12). When this face-up card leaves the field by card effect: You can Special Summon 1 "Fortune Lady" monster from your Deck.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: -1
+Defence: -1
+Archetype: Fortune Lady
+Present in Sets:
+- Ancient Prophecy
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)

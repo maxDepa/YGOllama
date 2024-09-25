@@ -1,0 +1,13 @@
+Three Thousand Needles
+Card Type: Effect Monster
+
+Description: At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card's DEF: Destroy the attacking monster.
+
+Type: Beast
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Return of the Duelist

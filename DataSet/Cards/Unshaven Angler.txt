@@ -1,0 +1,16 @@
+Unshaven Angler
+Card Type: Effect Monster
+
+Description: When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Speed Duel GX: Midterm Paradox
+- Structure Deck: Fury from the Deep

@@ -1,0 +1,17 @@
+Shaman of the Tenyi
+Card Type: Link Monster
+
+Description: 2 Wyrm monsters
+You can discard 1 card, then target 1 Wyrm monster in your GY; Special Summon it, also, for the rest of this turn, you cannot activate the effects of monsters Special Summoned from the Extra Deck, except "Tenyi" monsters. When an attack is declared involving your face-up non-Effect Monster: You can target 1 card your opponent controls; destroy it. You can only use each effect of "Shaman of the Tenyi" once per turn.
+
+Type: Wyrm
+Attribute: FIRE
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Rising Rampage

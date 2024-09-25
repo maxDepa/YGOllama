@@ -1,0 +1,21 @@
+Shift
+Card Type: Trap Card
+
+Description: When your opponent targets exactly 1 monster you control (and no other cards) for an attack, or with a Spell/Trap effect: Target another monster you control that would be an appropriate target; that attack/Spell/Trap now targets the new target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Starter Deck: Yugi Evolution
+- War of the Giants Reinforcements
+- War of the Giants: Round 2
+- Yugi's Legendary Decks

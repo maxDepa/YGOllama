@@ -1,0 +1,15 @@
+Marincess Wave
+Card Type: Trap Card
+
+Description: If you control a "Marincess" Link Monster: Target 1 face-up monster your opponent controls; negate that face-up monster's effects until the end of this turn, then, if you control a Link-2 or higher "Marincess" monster, all face-up monsters you currently control are unaffected by your opponent's card effects until the end of this turn. If you control a Link-3 or higher "Marincess" monster, you can activate this card from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Marincess
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Legendary Duelists: Duels From the Deep
+- Rising Rampage

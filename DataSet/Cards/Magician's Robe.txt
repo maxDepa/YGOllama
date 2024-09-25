@@ -1,0 +1,19 @@
+Magician's Robe
+Card Type: Effect Monster
+
+Description: During your opponent's turn (Quick Effect): You can discard 1 Spell/Trap; Special Summon 1 "Dark Magician" from your Deck. During your opponent's turn, if you activate a Spell/Trap Card or effect while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Magician's Robe" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 2000
+Archetype: Dark Magician
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Dragon Decks
+- Legendary Duelists: Season 3
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Shining Victories: Special Edition
+- The Dark Illusion

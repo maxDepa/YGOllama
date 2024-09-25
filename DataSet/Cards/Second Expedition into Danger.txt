@@ -1,0 +1,13 @@
+Second Expedition into Danger!
+Card Type: Trap Card
+
+Description: Discard 1 card, then target 1 "Danger!" monster you control; it gains 500 ATK/DEF until the end of this turn. If this card is in the GY: You can discard 1 "Danger!" monster; place this card on the bottom of the Deck, then draw 1 card. You can only use each effect of "Second Expedition into Danger!" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Danger!
+Present in Sets:
+- Soul Fusion

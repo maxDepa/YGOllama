@@ -1,0 +1,13 @@
+Deep-Space Cruiser IX
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by sending 1 other Machine-Type monster from your hand to the Graveyard.
+
+Type: Machine
+Attribute: LIGHT
+Level: 9
+Attack: 900
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

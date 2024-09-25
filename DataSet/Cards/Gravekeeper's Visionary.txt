@@ -1,0 +1,15 @@
+Gravekeeper's Visionary
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 "Gravekeeper's" monster. This card gains 200 ATK for each "Gravekeeper's" monster in your Graveyard. If this face-up card would be destroyed, you can discard 1 "Gravekeeper's" monster instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2000
+Defence: 1800
+Archetype: Gravekeeper's
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Marik (TCG)

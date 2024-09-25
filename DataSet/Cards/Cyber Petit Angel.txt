@@ -1,0 +1,16 @@
+Cyber Petit Angel
+Card Type: Effect Monster
+
+Description: If this card is Summoned: You can add 1 "Cyber Angel" monster or "Machine Angel Ritual" from your Deck to your hand. You can only use this effect of "Cyber Petit Angel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 300
+Defence: 200
+Archetype: Cyber Angel
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians
+- Legendary Duelists: Sisters of the Rose

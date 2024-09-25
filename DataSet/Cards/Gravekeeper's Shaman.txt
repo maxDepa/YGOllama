@@ -1,0 +1,15 @@
+Gravekeeper's Shaman
+Card Type: Effect Monster
+
+Description: Gains 200 DEF for each "Gravekeeper's" monster in your GY. Negate all monster effects that activate in the GY, except "Gravekeeper's" monsters. While "Necrovalley" is on the field, your opponent cannot activate Field Spell Cards, also Field Spell Cards cannot be destroyed by your opponent's card effects.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 1500
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant
+- Speed Duel Starter Decks: Destiny Masters

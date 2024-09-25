@@ -1,0 +1,14 @@
+Proof of Pruflas
+Card Type: Effect Monster
+
+Description: If you control no Special Summoned monsters: You can Special Summon this card from your hand, also you cannot Special Summon other monsters for the rest of this turn. You can only use this effect of "Proof of Pruflas" once per turn. If this card is Normal or Special Summoned, you can (except during the Damage Step): Immediately after this effect resolves, Tribute Summon 1 monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

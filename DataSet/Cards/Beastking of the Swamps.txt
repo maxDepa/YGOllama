@@ -1,0 +1,16 @@
+Beastking of the Swamps
+Card Type: Effect Monster
+
+Description: You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Tournament Pack 5
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

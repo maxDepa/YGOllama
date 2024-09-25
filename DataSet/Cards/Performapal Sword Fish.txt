@@ -1,0 +1,16 @@
+Performapal Sword Fish
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: All monsters your opponent currently controls lose 600 ATK and DEF. If you Special Summon a monster(s) while you control this card: All monsters your opponent currently controls lose 600 ATK and DEF.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 600
+Defence: 600
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

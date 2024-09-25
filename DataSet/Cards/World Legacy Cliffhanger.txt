@@ -1,0 +1,14 @@
+World Legacy Cliffhanger
+Card Type: Trap Card
+
+Description: When an attack is declared involving 2 Link Monsters: Shuffle all monsters on the field and in the GYs into the Decks. For the rest of this turn after this card resolves, neither player can Link Summon.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

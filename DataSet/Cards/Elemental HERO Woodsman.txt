@@ -1,0 +1,16 @@
+Elemental HERO Woodsman
+Card Type: Effect Monster
+
+Description: Once per turn, during your Standby Phase: You can add 1 "Polymerization" from your Deck or Graveyard to your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Duel Terminal 4
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)

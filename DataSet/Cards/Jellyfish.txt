@@ -1,0 +1,15 @@
+Jellyfish
+Card Type: Normal Monster
+
+Description: An almost invisible, semi-transparent jellyfish that drifts in the sea.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

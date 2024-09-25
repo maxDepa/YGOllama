@@ -1,0 +1,16 @@
+Dragon Piper
+Card Type: Flip Effect Monster
+
+Description: FLIP: Destroy all face-up "Dragon Capture Jar"(s) on the field. If you destroy any, change all face-up Dragon-Type monsters on the field to Attack Position.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

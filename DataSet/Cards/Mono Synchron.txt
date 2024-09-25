@@ -1,0 +1,13 @@
+Mono Synchron
+Card Type: Tuner Monster
+
+Description: When using this card as Synchro Material, the other Synchro Material(s) must be Level 4 or lower Warrior or Machine-Type monsters, and they are treated as Level 1.
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Synchron
+Present in Sets:
+- Legendary Collection 5D's Mega Pack

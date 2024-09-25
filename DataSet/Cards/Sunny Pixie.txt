@@ -1,0 +1,13 @@
+Sunny Pixie
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard for the Synchro Summon of a LIGHT Synchro Monster: Gain 1000 Life Points.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 400
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

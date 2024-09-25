@@ -1,0 +1,16 @@
+D - Shield
+Card Type: Trap Card
+
+Description: When an Attack Position "Destiny HERO" monster you control is targeted for an attack: Target it; change it to Defense Position and equip it with this card. The equipped monster cannot be destroyed by battle.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack

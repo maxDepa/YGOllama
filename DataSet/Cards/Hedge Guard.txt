@@ -1,0 +1,18 @@
+Hedge Guard
+Card Type: Effect Monster
+
+Description: During damage calculation, in either player's turn, when a monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; halve the ATK of that monster you control until the end of this turn, but that monster cannot be destroyed by this battle.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Legendary Collection 5D's Mega Pack
+- Raging Battle

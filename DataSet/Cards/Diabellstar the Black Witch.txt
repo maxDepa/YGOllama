@@ -1,0 +1,14 @@
+Diabellstar the Black Witch
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by sending 1 card from your hand or field to the GY. You can only Special Summon "Diabellstar the Black Witch" once per turn this way. You can only use each of the following effects of "Diabellstar the Black Witch" once per turn. If this card is Normal or Special Summoned: You can Set 1 "Sinful Spoils" Spell/Trap directly from your Deck. During your opponent's turn, if this card is sent from its owner's hand or field to the GY: You can send 1 card from your hand or field to the GY, and if you do, Special Summon this card.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Diabellstar
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

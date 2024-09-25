@@ -1,0 +1,16 @@
+Tiki Soul
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Rock-Type/LIGHT/Level 4/ATK 1000/DEF 1800). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card you control that is a monster would be destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard, you can Set it in the Spell & Trap Card Zone instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Gold Series: Haunted Mine
+- Storm of Ragnarok

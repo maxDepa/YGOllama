@@ -1,0 +1,13 @@
+Power Invader
+Card Type: Effect Monster
+
+Description: If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

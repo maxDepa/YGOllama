@@ -1,0 +1,14 @@
+Shiny Black "C" Squadder
+Card Type: Normal Monster
+
+Description: ''Wherever there are shadows, you'll find the "C" Squad! Their hidden flying abilities let them confront the giants on equal terms!''
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: "C"
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

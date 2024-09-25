@@ -1,0 +1,16 @@
+Shiranui Style Samsara
+Card Type: Trap Card
+
+Description: This card's name becomes "Shiranui Style Synthesis" while it is in the Spell & Trap Zone. Once per turn: You can activate 1 of these effects.
+● Banish 1 face-up Zombie-Type monster you control; you take no damage this turn (even if this card leaves the field).
+● Target 2 of your banished Zombie-Type monsters with 0 DEF; shuffle them both into the Deck, then draw 1 card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

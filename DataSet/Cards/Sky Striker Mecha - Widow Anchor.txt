@@ -1,0 +1,16 @@
+Sky Striker Mecha - Widow Anchor
+Card Type: Spell Card
+
+Description: If you control no monsters in your Main Monster Zone: Target 1 face-up Effect Monster on the field; negate that face-up monster's effects until the end of this turn, then, if you have 3 or more Spells in your GY, you can take control of that monster until the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Battles of Legend: Hero's Revenge
+- Dark Saviors
+- Magnificent Mavens

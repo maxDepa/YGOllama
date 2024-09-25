@@ -1,0 +1,13 @@
+Morpheus, the Dream Mirror Black Knight
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Dream Mirror" monster: You can target 1 card on the field; destroy it. During the Main or Battle Phase, if "Dream Mirror of Joy" is in a Field Zone (Quick Effect): You can Tribute this card; Special Summon 1 "Morpheus, the Dream Mirror White Knight" from your Deck. You can only use each effect of "Morpheus, the Dream Mirror Black Knight" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 1000
+Archetype: Dream Mirror
+Present in Sets:
+- Rising Rampage

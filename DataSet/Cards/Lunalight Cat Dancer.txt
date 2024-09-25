@@ -1,0 +1,15 @@
+Lunalight Cat Dancer
+Card Type: Fusion Monster
+
+Description: 2 "Lunalight" monsters
+Cannot be destroyed by battle. Once per turn, during your Main Phase 1: You can Tribute 1 other "Lunalight" monster; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. If this card declares an attack: Inflict 100 damage to your opponent.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Sisters of the Rose
+- Shining Victories

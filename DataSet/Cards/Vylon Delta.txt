@@ -1,0 +1,14 @@
+Vylon Delta
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner LIGHT monsters
+If this card is in face-up Defense Position during your End Phase, you can add 1 Equip Spell Card from your Deck to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 1700
+Defence: 2800
+Archetype: Vylon
+Present in Sets:
+- Storm of Ragnarok

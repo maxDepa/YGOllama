@@ -1,0 +1,14 @@
+Gate Guardian of Thunder and Wind
+Card Type: Fusion Monster
+
+Description: "Sanga of the Thunder" + "Kazejin"
+Must be Special Summoned (from your Extra Deck) by banishing the above cards you control. During your Main Phase: You can add 1 Spell/Trap from your Deck to your hand that mentions "Sanga of the Thunder", "Kazejin", AND "Suijin". You can only use this effect of "Gate Guardian of Thunder and Wind" once per turn. If this face-up Special Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your banished "Sanga of the Thunder" or "Kazejin".
+
+Type: Thunder
+Attribute: LIGHT
+Level: 9
+Attack: 2500
+Defence: 2200
+Archetype: Gate Guardian
+Present in Sets:
+- Maze of Memories

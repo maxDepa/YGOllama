@@ -1,0 +1,16 @@
+Dark Elf
+Card Type: Effect Monster
+
+Description: This card requires a cost of 1000 of your own Life Points to attack.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 2000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Tournament Pack: 3rd Season

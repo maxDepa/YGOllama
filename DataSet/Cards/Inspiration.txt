@@ -1,0 +1,17 @@
+Inspiration
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; it gains 700 ATK until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Demo Deck 2015
+- Demo Deck 2016
+- Speed Duel: Battle City Box

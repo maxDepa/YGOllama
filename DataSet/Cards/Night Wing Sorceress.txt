@@ -1,0 +1,13 @@
+Night Wing Sorceress
+Card Type: Effect Monster
+
+Description: You can activate "Assault Mode Activate" the turn it is Set.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 1200
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis

@@ -1,0 +1,14 @@
+Saqlifice
+Card Type: Spell Card
+
+Description: Equip only to a "Qli" monster. It gains 300 ATK and cannot be destroyed by battle. The equipped monster can be treated as 2 Tributes for the Tribute Summon of a "Qli" monster. If this card is sent from the field to the Graveyard: You can add 1 "Qli" monster from your Deck to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Qli
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

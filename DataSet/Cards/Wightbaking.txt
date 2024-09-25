@@ -1,0 +1,14 @@
+Wightbaking
+Card Type: Effect Monster
+
+Description: This card's name becomes "Skull Servant" while in the GY. If a Level 3 or lower Zombie monster(s) you control would be destroyed by battle or card effect, you can discard this card, instead. If this card is sent to the GY: You can add 2 monsters with different names from your Deck to your hand, except "Wightbaking", that are either "Skull Servant" or mention it, then discard 1 card. You can only use this effect of "Wightbaking" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Wight
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

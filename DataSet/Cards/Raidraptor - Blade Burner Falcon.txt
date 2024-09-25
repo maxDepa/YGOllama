@@ -1,0 +1,15 @@
+Raidraptor - Blade Burner Falcon
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Winged Beast-Type monsters
+If this card is Xyz Summoned, and your opponent's LP is at least 3000 higher than yours: You can make this card gain 3000 ATK. When this card destroys an opponent's monster by battle: You can detach any number of Xyz Materials from this card; destroy exactly that number of monsters your opponent controls.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Raidraptor
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

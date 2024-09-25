@@ -1,0 +1,13 @@
+Morphtronic Radion
+Card Type: Effect Monster
+
+Description: ● While in Attack Position: "Morphtronic" monsters you control gain 800 ATK. ● While in Defense Position: "Morphtronic" monsters you control gain 1000 DEF.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 900
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

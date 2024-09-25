@@ -1,0 +1,25 @@
+Big Shield Gardna
+Card Type: Effect Monster
+
+Description: When a Spell Card is activated that targets this face-down card (and no other cards) (Quick Effect): Change this card to face-up Defense Position, and if you do, negate the activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game One
+- Dark Beginning 1
+- Duelist League 2010 participation cards
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Decks II
+- Legendary Dragon Decks
+- Tournament Pack 5
+- Yugi's Legendary Decks

@@ -1,0 +1,20 @@
+Pinch Hopper
+Card Type: Effect Monster
+
+Description: When this card you control is sent to your GY: You can Special Summon 1 Insect monster from your hand.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Duelist League 13 participation cards
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Duelists: Ancient Millennium
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Streets of Battle City

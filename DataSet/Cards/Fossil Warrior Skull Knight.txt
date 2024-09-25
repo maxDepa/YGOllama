@@ -1,0 +1,16 @@
+Fossil Warrior Skull Knight
+Card Type: Fusion Monster
+
+Description: 1 Rock monster + 1 Level 5 or 6 monster
+Must first be Special Summoned with "Fossil Fusion". If this card attacks a Defense Position monster, inflict piercing battle damage. When this attacking card destroys a monster by battle: You can activate this effect; this card can make a second attack in a row. You can banish this card from your GY, then target 1 monster on the field; destroy it. You can only use this effect of "Fossil Warrior Skull Knight" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1100
+Archetype: Fossil
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Ghosts From the Past: The 2nd Haunting

@@ -1,0 +1,15 @@
+Photon Generator Unit
+Card Type: Spell Card
+
+Description: Tribute 2 "Cyber Dragons". Special Summon 1 "Cyber Laser Dragon" from your hand, Deck, or Graveyard.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyber Dragon
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Zane Truesdale
+- Shadow of Infinity

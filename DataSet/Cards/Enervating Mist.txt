@@ -1,0 +1,15 @@
+Enervating Mist
+Card Type: Trap Card
+
+Description: Your opponent's hand size limit becomes 5.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

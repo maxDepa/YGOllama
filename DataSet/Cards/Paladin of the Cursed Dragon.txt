@@ -1,0 +1,15 @@
+Paladin of the Cursed Dragon
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 Level 4 or lower Zombie monster in your opponent's GY, that was destroyed by battle; Special Summon that target.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Zombie Horde
+- Zombie World Structure Deck

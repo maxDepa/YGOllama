@@ -1,0 +1,14 @@
+Thron the Disciplined Angel
+Card Type: Effect Monster
+
+Description: If a monster(s) that was originally an EARTH Fairy is sent from your hand or field to the GY (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of "Thron the Disciplined Angel" once per turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

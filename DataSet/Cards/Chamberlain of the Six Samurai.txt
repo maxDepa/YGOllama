@@ -1,0 +1,17 @@
+Chamberlain of the Six Samurai
+Card Type: Normal Monster
+
+Description: The Six Samurai are supported from the shadows by this silent and mysterious warrior. His past is unknown to them, but his countless scars are proof of his experience.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 200
+Defence: 2000
+Archetype: Six Samurai
+Present in Sets:
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Samurai Warlords Structure Deck
+- Super Starter: Space-Time Showdown
+- Super Starter: V for Victory

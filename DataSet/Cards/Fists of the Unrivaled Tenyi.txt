@@ -1,0 +1,15 @@
+Fists of the Unrivaled Tenyi
+Card Type: Trap Card
+
+Description: When a Spell/Trap Card, or monster effect, is activated while you control a face-up non-Effect Monster: Negate the activation. If this Set card you control is destroyed by your opponent's card effect: You can Special Summon 1 non-Effect Monster from your Extra Deck.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- Rising Rampage

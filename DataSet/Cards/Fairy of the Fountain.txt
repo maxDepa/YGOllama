@@ -1,0 +1,12 @@
+Fairy of the Fountain
+Card Type: Normal Monster
+
+Description: This fairy protects a fountain from any who seek to muddy its waters.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1100
+Archetype: //
+Present in Sets:

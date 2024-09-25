@@ -1,0 +1,18 @@
+Sky Scout
+Card Type: Normal Monster
+
+Description: With eyes like a hawk and a flying speed exceeding Mach 5, this monster is a master of the sky.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Astral Pack Two
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Starter Deck: Joey

@@ -1,0 +1,16 @@
+Gorgonic Golem
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the Graveyard: The ATK of the monster that destroyed it becomes 0. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that target cannot be activated this turn. Your opponent cannot activate the targeted card in response to this effect's activation.
+
+Type: Rock
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Gorgonic
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legacy of the Valiant

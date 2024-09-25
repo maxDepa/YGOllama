@@ -1,0 +1,15 @@
+Draco Masters of the Tenyi
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Link Monster
+Cannot be destroyed by battle with an Effect Monster. If you control no other Effect Monsters: You can destroy Effect Monsters your opponent controls, up to the number of non-Effect Monsters you control and/or in your GY. You can only use this effect of "Draco Masters of the Tenyi" once per turn.
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 0
+Attack: 2600
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact

@@ -1,0 +1,14 @@
+Ragnaraika Skeletal Soldier
+Card Type: Link Monster
+
+Description: 2 monsters, including an Insect, Plant, or Reptile monster
+You can target 1 "Ragnaraika" monster in your GY; Special Summon it in Defense Position. If this card is in your GY: You can target 1 Insect, Plant, or Reptile monster you control; place it on the bottom of the Deck, and if you do, Special Summon this card. You can only use each effect of "Ragnaraika Skeletal Soldier" once per turn, also you cannot Special Summon during the turn you activate either of this card's effects, except Insect, Plant, or Reptile monsters.
+
+Type: Plant
+Attribute: FIRE
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: Ragnaraika
+Present in Sets:
+- Legacy of Destruction

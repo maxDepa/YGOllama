@@ -1,0 +1,20 @@
+Big Eye
+Card Type: Flip Effect Monster
+
+Description: FLIP: Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Joey
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

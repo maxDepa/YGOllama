@@ -1,0 +1,13 @@
+Mermaid Shark
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 Level 3, 4 or 5 Fish-Type monster from your Deck to your hand.
+
+Type: Fish
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 300
+Archetype: //
+Present in Sets:
+- Primal Origin

@@ -1,0 +1,19 @@
+Naturia Barkion
+Card Type: Synchro Monster
+
+Description: 1 EARTH Tuner + 1 or more non-Tuner EARTH monsters 
+During either player's turn, when a Trap Card is activated: You can banish 2 cards from your Graveyard; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Dragon
+Attribute: EARTH
+Level: 6
+Attack: 2500
+Defence: 1800
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 3
+- Gold Series: Haunted Mine
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 5D's Mega Pack
+- Premium Gold: Return of the Bling

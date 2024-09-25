@@ -1,0 +1,14 @@
+Labrynth Archfiend
+Card Type: Effect Monster
+
+Description: Gains 400 ATK for each Normal Trap with a different name in your GY. Your opponent's monsters cannot target Fiend monsters for attacks, except "Labrynth Archfiend". You can only use each of the following effects of "Labrynth Archfiend" once per turn. If a Trap Card is activated (except during the Damage Step): You can Special Summon this card from your hand. If this card is Special Summoned: You can Set 1 Normal Trap from your Deck that can only be activated when an attack is declared.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2000
+Defence: 2800
+Archetype: Archfiend
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

@@ -1,0 +1,14 @@
+World Legacy Awakens
+Card Type: Trap Card
+
+Description: Immediately after this effect resolves, Link Summon 1 Link Monster using monster(s) you control as material. You can only activate 1 "World Legacy Awakens" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

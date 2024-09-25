@@ -1,0 +1,15 @@
+Trap of Board Eraser
+Card Type: Trap Card
+
+Description: You can only activate this card when an effect that inflicts damage to your Life Points is activated (except Battle Damage). Negate the Effect Damage you receive and your opponent then selects 1 card from his/her hand and discards it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Tournament Pack 5

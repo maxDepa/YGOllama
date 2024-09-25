@@ -1,0 +1,18 @@
+Odd-Eyes Revolution Dragon
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except Dragon monsters. This effect cannot be negated. You can target 1 Dragon Fusion, Synchro, or Xyz Monster in your GY; destroy this card, and if you do, Special Summon that target.
+
+[ Monster Effect ] 
+Cannot be Normal Summoned/Set. Must be Pendulum Summoned (from your hand), or be Special Summoned (from your hand) by Tributing 3 Dragon monsters (1 Fusion, 1 Synchro, and 1 Xyz). You can discard this card and pay 500 LP: Add 1 Level 8 or lower Dragon Pendulum Monster from your Deck to your hand. Gains ATK/DEF equal to half of your opponent's LP. Once per turn: You can pay half your LP; shuffle all other cards from the field and the GYs into the Deck.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+Attack: -1
+Defence: -1
+Archetype: -Eyes Dragon
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

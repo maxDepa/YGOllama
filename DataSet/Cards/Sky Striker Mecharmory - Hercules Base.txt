@@ -1,0 +1,14 @@
+Sky Striker Mecharmory - Hercules Base
+Card Type: Spell Card
+
+Description: Activate this card only if you control no monsters in your Main Monster Zone. The equipped monster cannot attack directly. It can make a second attack on monsters during each Battle Phase. If the equipped monster destroys a monster by its attack while you have 3 or more Spells in your GY: Draw 1 card. If this card is sent from the field to the GY by a card effect: You can target up to 3 "Sky Striker" cards in your GY, except "Sky Striker Mecharmory - Hercules Base"; shuffle them into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sky Striker
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

@@ -1,0 +1,14 @@
+Deep Sea Repetiteur
+Card Type: Synchro Tuner Monster
+
+Description: "Deep Sea Diva" + 1+ non-Tuner monsters
+Once per turn (Quick Effect): You can discard 1 Level 4 or lower WATER monster; this card gains 800 ATK until the end of this turn. If this Synchro Summoned card is sent to your GY: You can target 1 Level 5 or higher WATER monster in your GY, except "Deep Sea Repetiteur"; Special Summon it in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except WATER monsters. You can only use this effect of "Deep Sea Repetiteur" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: Deep Sea
+Present in Sets:
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,15 @@
+Overmind Archfiend
+Card Type: Synchro Monster
+
+Description: 1 Psychic-Type Tuner + 2 or more non-Tuner Psychic-Type monsters
+Once per turn, you can select 1 Psychic-Type monster in your Graveyard, and remove it from play. When this card is sent from the field to the Graveyard, Special Summon as many monsters as possible that were removed from play by this effect.
+
+Type: Psychic
+Attribute: DARK
+Level: 9
+Attack: 3300
+Defence: 3000
+Archetype: Archfiend
+Present in Sets:
+- Extreme Victory
+- Extreme Victory

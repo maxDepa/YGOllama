@@ -1,0 +1,14 @@
+United Resistance
+Card Type: Normal Monster
+
+Description: The people that gather to swear to fight their oppressors. A revolution is coming.
+
+Type: Thunder
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 400
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

@@ -1,0 +1,18 @@
+Trickstar Lilybell
+Card Type: Effect Monster
+
+Description: If this card is added to your hand, except by drawing it: You can Special Summon it from your hand. You can only use this effect of "Trickstar Lilybell" once per turn. This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 "Trickstar" monster in your GY; add it to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 2000
+Archetype: Trickstar
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- OTS Tournament Pack 6
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

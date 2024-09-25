@@ -1,0 +1,14 @@
+Catnipped Kitty
+Card Type: Effect Monster
+
+Description: This card cannot be attacked if there is another Beast-Type monster on your side of the field. Once per turn, you can make the DEF of 1 monster on your opponent's side of the field 0 until the end of this turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

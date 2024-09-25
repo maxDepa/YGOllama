@@ -1,0 +1,15 @@
+Triggered Summon
+Card Type: Trap Card
+
+Description: Activate only when a monster is Special Summoned to your opponent's side of the field. Each player can Special Summon 1 Level 4 or lower monster from their hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jesse Anderson
+- Force of the Breaker
+- Force of the Breaker

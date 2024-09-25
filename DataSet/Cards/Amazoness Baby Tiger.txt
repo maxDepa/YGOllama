@@ -1,0 +1,14 @@
+Amazoness Baby Tiger
+Card Type: Effect Monster
+
+Description: This card's name becomes "Amazoness Tiger" while on the field or in the GY. If an "Amazoness" monster is Normal or Special Summoned to your field while this card is in your hand or GY: You can Special Summon this card. You can only use this effect of "Amazoness Baby Tiger" once per turn. Gains 100 ATK for each "Amazoness" card in your GY.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Amazoness
+Present in Sets:
+- Legendary Duelists
+- Legendary Duelists: Season 1

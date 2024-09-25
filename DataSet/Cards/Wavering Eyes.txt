@@ -1,0 +1,21 @@
+Wavering Eyes
+Card Type: Spell Card
+
+Description: Destroy as many cards in each player's Pendulum Zones as possible, then apply these effects, in sequence, depending on the number of cards destroyed by this effect.
+● 1 or more: Inflict 500 damage to your opponent.
+● 2 or more: You can add 1 Pendulum Monster from your Main Deck to your hand.
+● 3 or more: You can banish 1 card on the field.
+● 4: You can add 1 "Wavering Eyes" from your Deck to your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- Ancient Guardians
+- Clash of Rebellions
+- Crossed Souls: Advance Edition
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)

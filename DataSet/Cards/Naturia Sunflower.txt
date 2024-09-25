@@ -1,0 +1,16 @@
+Naturia Sunflower
+Card Type: Effect Monster
+
+Description: You can Tribute this card and 1 "Naturia" monster to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it.
+
+Type: Plant
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 0
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,16 @@
+Gravekeeper's Descendant
+Card Type: Effect Monster
+
+Description: You can Tribute 1 other face-up "Gravekeeper's" monster to target 1 card your opponent controls; destroy that target.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: Gravekeeper's
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack Tournament Prize Cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Marik (TCG)

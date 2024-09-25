@@ -1,0 +1,19 @@
+Armageddon Knight
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Saviors
+- Legendary Hero Decks
+- Pendulum Domination Structure Deck
+- Phantom Darkness
+- Structure Deck: Shaddoll Showdown
+- The Secret Forces
+- Turbo Pack: Booster One

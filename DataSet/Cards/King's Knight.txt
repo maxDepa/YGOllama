@@ -1,0 +1,25 @@
+King's Knight
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned while you control "Queen's Knight": You can Special Summon 1 "Jack's Knight" from your Deck.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Knight
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Elemental Energy
+- Elemental Energy
+- King's Court
+- King's Court
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Tournament Pack 3
+- Speed Duel: Arena of Lost Souls
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

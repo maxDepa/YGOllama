@@ -1,0 +1,14 @@
+Burning Bamboo Sword
+Card Type: Spell Card
+
+Description: If you activate a "Bamboo Sword" card while this card is already face-up in your Spell & Trap Zone: You can skip your opponent's next Main Phase 1.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bamboo Sword
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

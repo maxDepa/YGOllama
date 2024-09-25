@@ -1,0 +1,16 @@
+King Beast Barbaros
+Card Type: Effect Monster
+
+Description: This card can attack all monsters your opponent controls once each. You can only use each of the following effects of "King Beast Barbaros" once per turn.
+● You can Tribute monsters whose total Levels equal 8 or more; Special Summon this card from your hand.
+● You can banish 1 "Barbaros" monster from your GY or face-up field, then target 2 cards your opponent controls; destroy them.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 1200
+Archetype: Barbaros
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

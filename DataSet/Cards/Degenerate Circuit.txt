@@ -1,0 +1,14 @@
+Degenerate Circuit
+Card Type: Spell Card
+
+Description: The controller of this card pays 500 Life Points during each of their Standby Phases (this is not optional). Monster Cards that would be returned from the field to the hand are removed from play instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

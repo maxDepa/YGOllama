@@ -1,0 +1,27 @@
+Black Rose Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When this card is Synchro Summoned: You can destroy all cards on the field. Once per turn: You can banish 1 Plant monster from your GY, then target 1 Defense Position monster your opponent controls; change that target to face-up Attack Position, and if you do, its ATK becomes 0 until the end of this turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 7
+Attack: 2400
+Defence: 1800
+Archetype: Rose Dragon
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes
+- Collectible Tins 2008 Wave 2
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Crossroads of Chaos
+- Duel Devastator
+- Duelist Saga
+- Legendary Collection 5D's
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Lightning Overdrive
+- Maximum Gold: El Dorado
+- Premium Gold: Infinite Gold

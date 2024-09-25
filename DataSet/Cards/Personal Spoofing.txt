@@ -1,0 +1,19 @@
+Personal Spoofing
+Card Type: Trap Card
+
+Description: Once per turn: You can shuffle 1 "Altergeist" card from your hand or face-up from your field into the Main Deck; add 1 "Altergeist" monster from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

@@ -1,0 +1,15 @@
+Dark Magic Veil
+Card Type: Spell Card
+
+Description: Pay 1000 LP; Special Summon 1 DARK Spellcaster-Type monster from your hand or Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

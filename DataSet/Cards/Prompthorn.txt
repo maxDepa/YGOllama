@@ -1,0 +1,14 @@
+Prompthorn
+Card Type: Effect Monster
+
+Description: You can Tribute 1 Level 4 or lower Cyberse monster; Special Summon any number of Cyberse Normal Monsters from your Deck and/or GY whose total Levels equal the Tributed monster's Level on the field, but banish them during the End Phase. You can only use this effect of "Prompthorn" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 1
+Attack: 200
+Defence: 400
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

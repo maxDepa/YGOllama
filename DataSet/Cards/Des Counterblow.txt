@@ -1,0 +1,14 @@
+Des Counterblow
+Card Type: Trap Card
+
+Description: Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

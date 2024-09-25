@@ -1,0 +1,14 @@
+High Rate Draw
+Card Type: Trap Card
+
+Description: Destroy 2 or more monsters you control, and if you do, draw 1 card for every 2 monsters destroyed. During your opponent's Main Phase, if this card is in your GY: You can target 1 monster you control; destroy it, and if you do, Set this card, but banish it when it leaves the field. You can only use this effect of "High Rate Draw" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1

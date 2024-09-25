@@ -1,0 +1,14 @@
+Red Screen
+Card Type: Trap Card
+
+Description: Your opponent's monsters cannot declare attacks. During each of your End Phases, you must pay 1000 LP (this is not optional), or this card is destroyed. You can target 1 Level 1 Tuner monster in your Graveyard; destroy this card, and if you do, Special Summon that target. "Red Dragon Archfiend" must be on the field to activate and to resolve this effect.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Starstrike Blast

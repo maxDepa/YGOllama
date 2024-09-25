@@ -1,0 +1,12 @@
+Worm Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Worm Bait".
+
+Type: Insect
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Worm
+Present in Sets:

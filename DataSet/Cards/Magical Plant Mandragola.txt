@@ -1,0 +1,16 @@
+Magical Plant Mandragola
+Card Type: Flip Effect Monster
+
+Description: FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Scars of Battle
+- Spellcaster's Command Structure Deck

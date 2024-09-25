@@ -1,0 +1,16 @@
+Guardian Tryce
+Card Type: Effect Monster
+
+Description: Cannot be Summoned unless you control a face-up "Twin Swords of Flashing Light - Tryce". When this card is destroyed and sent to the Graveyard: Special Summon the monster from the Graveyard that was used for its Tribute Summon.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 5
+Attack: 1900
+Defence: 1700
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

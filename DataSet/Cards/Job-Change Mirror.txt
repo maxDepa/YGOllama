@@ -1,0 +1,12 @@
+Job-Change Mirror
+Card Type: Normal Monster
+
+Description: A wicked mirror that blocks off the damaging effects of an attack.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1300
+Archetype: //
+Present in Sets:

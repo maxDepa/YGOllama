@@ -1,0 +1,14 @@
+Skelgon
+Card Type: Fusion Monster
+
+Description: "The Snake Hair" + "Blackland Fire Dragon"
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 1700
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Battles of Legend: Terminal Revenge

@@ -1,0 +1,17 @@
+Performapal Laugh Maker
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if your opponent controls a monster whose current ATK is higher than its original ATK: You can gain 1000 LP.
+
+[ Monster Effect ] 
+When this card declares an attack: You can make this card gain 1000 ATK for each monster on the field whose current ATK is higher than its original ATK, except other monsters you control, until the end of the Battle Phase. If this card is destroyed by battle or card effect while its current ATK is higher than its original ATK: You can target 1 monster in your Graveyard; Special Summon it. You can only use 1 monster effect of "Performapal Laugh Maker" per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Performapal
+Present in Sets:
+- Raging Tempest

@@ -1,0 +1,14 @@
+Soul of Fire
+Card Type: Spell Card
+
+Description: Your opponent draws 1 card. Select 1 Pyro-Type monster from your Deck and remove it from play. Inflict damage to your opponent equal to half the ATK of the removed monster. If you activate this card, you cannot declare an attack this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker

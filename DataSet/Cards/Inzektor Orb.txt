@@ -1,0 +1,13 @@
+Inzektor Orb
+Card Type: Trap Card
+
+Description: Target 1 face-up "Inzektor" monster you control; equip this card to that target. It gains 500 ATK and DEF. When exactly 1 "Inzektor" monster you control is targeted by a card effect (except during the Damage Step): You can send this Equip Card to the Graveyard; negate that effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Order of Chaos

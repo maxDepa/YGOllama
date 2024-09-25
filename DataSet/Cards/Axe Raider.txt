@@ -1,0 +1,20 @@
+Axe Raider
+Card Type: Normal Monster
+
+Description: An axe-wielding monster of tremendous strength and agility.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1150
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Speed Duel: Attack from the Deep
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season
+- Tournament Pack: 3rd Season

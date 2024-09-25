@@ -1,0 +1,13 @@
+Prisman
+Card Type: Normal Monster
+
+Description: This crystalline monster focuses light to create a lethal laser.
+
+Type: Rock
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Tournament Pack 7

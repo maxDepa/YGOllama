@@ -1,0 +1,18 @@
+Performapal Bubblebowwow
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If a face-up non-Pendulum Monster(s) you control that was Special Summoned from the Extra Deck would be destroyed by battle or card effect, you can destroy this card instead.
+
+[ Monster Effect ] 
+When this card is Special Summoned from the Extra Deck: You can activate this effect; for the rest of this turn, Pendulum Monsters you control that were Special Summoned from the Extra Deck cannot be destroyed by card effects.
+
+Type: Beast
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

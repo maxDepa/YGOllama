@@ -1,0 +1,19 @@
+There Can Be Only One
+Card Type: Trap Card
+
+Description: Each player can only control 1 monster of each Type. If a player controls 2 or more monsters of the same Type, they must send some to the GY so they control no more than 1 monster of that Type.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Devastator
+- Extreme Force
+- Maximum Gold
+- Structure Deck: Albaz Strike
+- Valiant Smashers
+- Wild Survivors
+- Wild Survivors

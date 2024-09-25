@@ -1,0 +1,21 @@
+Proto-Cyber Dragon
+Card Type: Effect Monster
+
+Description: This card's name becomes "Cyber Dragon" while on the field.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 1100
+Defence: 600
+Archetype: Cyber Dragon
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Dark Revelation Volume 4
+- Duelist Pack: Zane Truesdale
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Dragon Decks
+- Machina Mayhem Structure Deck
+- Shadow of Infinity
+- Shadow of Infinity
+- Speed Duel GX: Duel Academy Box

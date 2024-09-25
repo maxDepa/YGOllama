@@ -1,0 +1,13 @@
+Sealing Ceremony of Raiton
+Card Type: Trap Card
+
+Description: Once per turn: You can return 1 face-up WIND monster you control to the bottom of the Main Deck to target up to 2 cards in your opponent's Graveyard; banish those targets.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord

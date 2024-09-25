@@ -1,0 +1,16 @@
+Battlin' Boxer King Dempsey
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+If this card is Special Summoned: You can take 1 Level 4 or lower FIRE Warrior monster or 1 "Battlin' Boxing" Spell/Trap from your Deck, and either add it to your hand or send it to the GY. (Quick Effect): You can detach 1 material from a monster you control, and if you do, apply the following effect.
+● Your opponent cannot target "Battlin' Boxer" monsters you control with card effects for the rest of this turn.
+You can only use each effect of "Battlin' Boxer King Dempsey" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 2300
+Defence: 1800
+Archetype: Battlin' Boxer
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

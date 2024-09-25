@@ -1,0 +1,13 @@
+Setuppercut
+Card Type: Trap Card
+
+Description: When a monster you control is destroyed by battle: Special Summon 1 monster from your hand or Deck with ATK less than or equal to that destroyed monster, in face-down Defense Position. You can only activate 1 "Setuppercut" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Rising Rampage

@@ -1,0 +1,20 @@
+Black Whirlwind
+Card Type: Spell Card
+
+Description: When a "Blackwing" monster is Normal Summoned to your field: You can add 1 "Blackwing" monster from your Deck to your hand with less ATK than that monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Duelist League 15 participation cards
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: White Dragon Abyss
+- Raging Battle
+- Turbo Pack: Booster One

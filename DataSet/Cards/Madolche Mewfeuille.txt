@@ -1,0 +1,13 @@
+Madolche Mewfeuille
+Card Type: Effect Monster
+
+Description: When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can Special Summon 1 "Madolche" monster from your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 300
+Archetype: Madolche
+Present in Sets:
+- Return of the Duelist

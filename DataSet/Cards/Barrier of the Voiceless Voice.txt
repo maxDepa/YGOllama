@@ -1,0 +1,13 @@
+Barrier of the Voiceless Voice
+Card Type: Spell Card
+
+Description: While you control "Lo, the Prayers of the Voiceless Voice" and a LIGHT Ritual Monster, your opponent's monsters can only target Ritual Monsters for attacks, also your opponent cannot target LIGHT monsters you control with card effects. During your Main Phase: You can add 1 "Voiceless Voice" card or 1 "Skull Guardian" Ritual Monster from your Deck to your hand, except "Barrier of the Voiceless Voice". You can only use this effect of "Barrier of the Voiceless Voice" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Voiceless Voice
+Present in Sets:
+- Phantom Nightmare

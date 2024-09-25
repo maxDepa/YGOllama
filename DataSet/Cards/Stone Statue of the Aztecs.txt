@@ -1,0 +1,16 @@
+Stone Statue of the Aztecs
+Card Type: Effect Monster
+
+Description: Double any Battle Damage your opponent takes when they attack this monster.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel GX: Midterm Paradox
+- Structure Deck: Invincible Fortress

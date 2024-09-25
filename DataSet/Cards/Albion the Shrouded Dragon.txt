@@ -1,0 +1,18 @@
+Albion the Shrouded Dragon
+Card Type: Effect Monster
+
+Description: This card's name becomes "Fallen of Albaz" while on the field or in the GY. If this card is in your hand or GY: You can send 1 "Fallen of Albaz" or 1 "Branded" Spell/Trap from your hand or Deck to the GY; apply the following effect based on where you sent it from.
+● Hand: Special Summon this card.
+● Deck: Place this card on the bottom of the Deck, then, if you placed this card from your hand, draw 1 card.
+You can only use this effect of "Albion the Shrouded Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty
+- Structure Deck: Albaz Strike

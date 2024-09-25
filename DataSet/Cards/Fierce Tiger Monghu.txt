@@ -1,0 +1,14 @@
+Fierce Tiger Monghu
+Card Type: Effect Monster
+
+Description: All other monsters on the field lose 500 ATK. Once per turn, during your Main Phase: You can destroy all monsters on the field with less ATK than this card.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Photon Hypernova

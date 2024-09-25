@@ -1,0 +1,16 @@
+Soul-Absorbing Bone Tower
+Card Type: Effect Monster
+
+Description: If you control another Zombie-Type monster, your opponent cannot target this card for attacks. Each time a Zombie-Type monster(s) is Special Summoned: Send the top 2 cards of your opponent's Deck to the Graveyard.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 400
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Zombie Madness

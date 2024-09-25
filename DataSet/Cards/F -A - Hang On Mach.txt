@@ -1,0 +1,14 @@
+F.A. Hang On Mach
+Card Type: Effect Monster
+
+Description: Gains ATK equal to its Level x 300. Unaffected by activated effects from an opponent's monster whose original Level/Rank is lower than this card's Level. Each time a "F.A." Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, any card sent to your opponent's GY is banished instead.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 0
+Defence: 1800
+Archetype: F.A.
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

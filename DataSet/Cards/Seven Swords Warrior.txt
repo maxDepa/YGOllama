@@ -1,0 +1,16 @@
+Seven Swords Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+Once per turn, when an Equip Card is equipped to this card: Inflict 800 damage to your opponent. Once per turn: You can target 1 Equip Card equipped to this card; send it to the Graveyard. When an Equip Card equipped to this card is sent to the Graveyard (except during the Damage Step): You can target 1 face-up monster your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Shonen Jump December 2010 subscription bonus
+- Star Pack 2013
+- Star Pack 2013

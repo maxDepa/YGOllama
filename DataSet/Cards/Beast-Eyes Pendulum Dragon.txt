@@ -1,0 +1,15 @@
+Beast-Eyes Pendulum Dragon
+Card Type: Fusion Monster
+
+Description: 1 DARK Dragon-Type monster + 1 Beast-Type monster
+Must be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use "Polymerization"), and cannot be Special Summoned by other ways. If this card destroys a monster by battle: Inflict damage to your opponent equal to the original ATK of the Beast-Type Fusion Material used for this card's Summon.
+
+Type: Dragon
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: Pendulum Dragon
+Present in Sets:
+- Breakers of Shadow: Special Edition
+- Weekly Shonen Jump October 2015 membership promotional card

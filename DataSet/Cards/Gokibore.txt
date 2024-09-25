@@ -1,0 +1,14 @@
+Gokibore
+Card Type: Normal Monster
+
+Description: A large, spherical roach that attacks its enemies by rolling over them.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2
+- Speed Duel: Streets of Battle City

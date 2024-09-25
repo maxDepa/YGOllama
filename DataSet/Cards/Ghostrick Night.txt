@@ -1,0 +1,13 @@
+Ghostrick Night
+Card Type: Trap Card
+
+Description: While a "Ghostrick" monster is on the field, your opponent cannot Flip Summon. When this card in your possession is destroyed by your opponent's card and sent to your Graveyard: Your opponent cannot declare attacks for the rest of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- Primal Origin

@@ -1,0 +1,14 @@
+Noh-P.U.N.K. Ze Amin
+Card Type: Tuner Monster
+
+Description: You can pay 600 LP; add 1 "P.U.N.K." monster from your Deck to your hand, except "Noh-P.U.N.K. Ze Amin". If this card is sent to the GY: You can target 1 "P.U.N.K." monster you control; it gains 600 ATK. You can only use each effect of "Noh-P.U.N.K. Ze Amin" once per turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 600
+Archetype: P.U.N.K.
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- The Grand Creators

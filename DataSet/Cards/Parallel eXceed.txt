@@ -1,0 +1,18 @@
+Parallel eXceed
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of "Parallel eXceed", its Level becomes 4 and its original ATK/DEF become halved. You can only use each of the following effects of "Parallel eXceed" once per turn.
+● If you Link Summon: You can Special Summon this card from your hand to your zone that Link Monster points to.
+● If this card is Normal or Special Summoned: You can Special Summon 1 "Parallel eXceed" from your Deck.
+
+Type: Cyberse
+Attribute: WIND
+Level: 8
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)

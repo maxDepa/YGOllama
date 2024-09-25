@@ -1,0 +1,13 @@
+Kozmo Dark Eclipser
+Card Type: Effect Monster
+
+Description: Cannot be targeted by an opponent's card effects. During either player's turn, when a Trap Card is activated: You can banish 1 "Kozmo" monster from your Graveyard; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; add 1 Level 8 or lower "Kozmo" monster from your Deck to your hand.
+
+Type: Machine
+Attribute: DARK
+Level: 9
+Attack: 3000
+Defence: 2600
+Archetype: Kozmo
+Present in Sets:
+- Breakers of Shadow

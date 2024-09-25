@@ -1,0 +1,13 @@
+Trojan Gladiator Beast
+Card Type: Trap Card
+
+Description: Special Summon 1 "Gladiator Beast" monster from your hand to your opponent's side of the field. Then, draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Crimson Crisis

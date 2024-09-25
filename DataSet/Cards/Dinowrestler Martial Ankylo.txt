@@ -1,0 +1,14 @@
+Dinowrestler Martial Ankylo
+Card Type: Effect Monster
+
+Description: During damage calculation, if another "Dinowrestler" monster you control battles an opponent's monster (Quick Effect): You can send this card from your hand or field to the GY; that monster you control cannot be destroyed by that battle, also the ATK of your opponent's battling monster is halved at the end of the Damage Step. During the End Phase, if this card is in the GY because it was sent there from the field this turn: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Dinowrestler Martial Ankylo" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 2
+Attack: 1000
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

@@ -1,0 +1,18 @@
+4-Starred Ladybug of Doom
+Card Type: Flip Effect Monster
+
+Description: FLIP: Destroy all Level 4 monsters your opponent controls.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Starter Deck: Yugi Reloaded

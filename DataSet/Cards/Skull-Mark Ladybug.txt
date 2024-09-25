@@ -1,0 +1,16 @@
+Skull-Mark Ladybug
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard, increase your Life Points by 1000 points.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos

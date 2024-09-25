@@ -1,0 +1,15 @@
+Scramble!! Scramble!!
+Card Type: Spell Card
+
+Description: If your opponent's monsters on the field outnumber your non-Token monsters on the field: Tribute any number of "Mecha Phantom Beast Tokens"; Special Summon an equal number of "Mecha Phantom Beast" monsters from your Deck. Shuffle them into the Deck during the End Phase. You can only activate 1 "Scramble!! Scramble!!" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy

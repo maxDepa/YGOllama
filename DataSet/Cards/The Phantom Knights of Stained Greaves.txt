@@ -1,0 +1,14 @@
+The Phantom Knights of Stained Greaves
+Card Type: Effect Monster
+
+Description: If a "The Phantom Knights" monster(s) is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand, then you can increase the Level of this card by 1. You can banish this card from your GY; Special Summon 1 "The Phantom Knights" monster from your hand, except "The Phantom Knights of Stained Greaves", then you can increase its Level by 1. You can only use each effect of "The Phantom Knights of Stained Greaves" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Phantom Knights
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

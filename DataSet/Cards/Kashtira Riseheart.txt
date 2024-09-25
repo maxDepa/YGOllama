@@ -1,0 +1,13 @@
+Kashtira Riseheart
+Card Type: Effect Monster
+
+Description: If you control a "Kashtira" monster: You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. During your Main Phase, if this card was Normal or Special Summoned this turn: You can banish 1 "Kashtira" card from your Deck, except "Kashtira Riseheart"; banish the top 3 cards of your opponent's Deck face-down, and if you banish any, this card's Level becomes 7. You can only use each effect of "Kashtira Riseheart" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 2100
+Archetype: Kashtira
+Present in Sets:
+- Photon Hypernova

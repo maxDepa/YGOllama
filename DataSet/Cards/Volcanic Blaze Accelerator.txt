@@ -1,0 +1,13 @@
+Volcanic Blaze Accelerator
+Card Type: Spell Card
+
+Description: Activate this card by sending 1 "Blaze Accelerator" from your hand, Deck, or face-up field to the GY. You can only control 1 "Volcanic Blaze Accelerator". Once per turn, during your Main Phase: You can Special Summon 1 "Volcanic" monster from your hand. Once per turn: You can target 1 face-up monster your opponent controls; send 1 Level 1 Pyro monster from your Deck to the GY, and if you do, destroy that monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blaze Accelerator
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

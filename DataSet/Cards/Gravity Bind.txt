@@ -1,0 +1,24 @@
+Gravity Bind
+Card Type: Trap Card
+
+Description: Level 4 or higher monsters cannot attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Dark Beginning 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Realm of the Sea Emperor Structure Deck
+- Retro Pack 2
+- Structure Deck: Fury from the Deep
+- Tournament Pack 4

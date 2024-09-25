@@ -1,0 +1,18 @@
+Pandemonium
+Card Type: Spell Card
+
+Description: Neither player has to pay Life Points during the Standby Phase for "Archfiend" monsters. Each time a player's "Archfiend" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 "Archfiend" monster from their Deck to their hand that is a lower Level than the destroyed card.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Gold Series
+- Speed Duel GX: Duelists of Shadows

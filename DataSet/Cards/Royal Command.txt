@@ -1,0 +1,19 @@
+Royal Command
+Card Type: Trap Card
+
+Description: Flip monsters' effects cannot be activated, also their effects are negated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Dark Beginning 2
+- Gold Series
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Turbo Pack: Booster Five

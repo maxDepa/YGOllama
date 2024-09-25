@@ -1,0 +1,15 @@
+Bacon Saver
+Card Type: Effect Monster
+
+Description: During either player's Battle Step, while an attack is occurring: You can banish this card from your Graveyard; negate the attack. You can only use the effect of "Bacon Saver" once per Duel.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 700
+Defence: 600
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cosmo Blazer

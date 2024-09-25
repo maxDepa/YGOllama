@@ -1,0 +1,16 @@
+Barrel Behind the Door
+Card Type: Trap Card
+
+Description: Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Retro Pack 2
+- Speed Duel: Streets of Battle City

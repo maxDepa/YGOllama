@@ -1,0 +1,14 @@
+Barrier Statue of the Drought
+Card Type: Effect Monster
+
+Description: No monsters can be Special Summoned, except for EARTH monsters.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Maximum Gold

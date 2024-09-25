@@ -1,0 +1,14 @@
+Codebreaker Virus Berserker
+Card Type: Link Monster
+
+Description: 2+ monsters, including a "Codebreaker" monster
+When this card is Special Summoned, if it is co-linked: You can Special Summon up to 2 "Codebreaker" monsters from your hand and/or GY to any zone(s) a Link Monster(s) points to. During your Main Phase: You can destroy Spells/Traps your opponent controls, up to the number of linked "Codebreaker" monsters on the field. You can only use each effect of "Codebreaker Virus Berserker" once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Codebreaker
+Present in Sets:
+- Eternity Code

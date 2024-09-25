@@ -1,0 +1,13 @@
+Flame Viper
+Card Type: Normal Monster
+
+Description: A fire-breathing snake whose speed makes it a difficult target.
+
+Type: Pyro
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 450
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

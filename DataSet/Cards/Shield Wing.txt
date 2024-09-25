@@ -1,0 +1,15 @@
+Shield Wing
+Card Type: Effect Monster
+
+Description: Twice per turn, this card cannot be destroyed by battle.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 0
+Defence: 900
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Duelist Pack: Yusei 3
+- Legendary Collection 5D's Mega Pack

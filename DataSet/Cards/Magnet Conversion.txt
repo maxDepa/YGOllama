@@ -1,0 +1,14 @@
+Magnet Conversion
+Card Type: Trap Card
+
+Description: Target up to 3 Level 4 or lower "Magnet Warrior" monsters in your Graveyard; add them to your hand. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished Level 4 or lower "Magnet Warrior" monsters; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magnet Warrior
+Present in Sets:
+- Speed Duel: Battle City Box
+- Structure Deck: Yugi Muto

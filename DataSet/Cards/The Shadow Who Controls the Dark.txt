@@ -1,0 +1,13 @@
+The Shadow Who Controls the Dark
+Card Type: Normal Monster
+
+Description: A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 700
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares

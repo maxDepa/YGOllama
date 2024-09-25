@@ -1,0 +1,24 @@
+Night Assailant
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 monster your opponent controls; destroy that target.
+When this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 200
+Defence: 500
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game One
+- Dark Revelation Volume 2
+- Duel Terminal 3
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box

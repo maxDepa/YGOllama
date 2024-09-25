@@ -1,0 +1,16 @@
+Cyber-Tech Alligator
+Card Type: Normal Monster
+
+Description: Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 2500
+Defence: 1600
+Archetype: Alligator
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

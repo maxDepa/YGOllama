@@ -1,0 +1,18 @@
+Advanced Dark
+Card Type: Spell Card
+
+Description: All "Crystal Beast" monsters on the field and in the GY become DARK. If an "Ultimate Crystal" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a "Crystal Beast" monster you control battles and you would take damage: You can send 1 "Crystal Beast" monster from your Deck to the GY; you take no battle damage from that battle.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Legendary Duelists: Season 1
+- Return of the Duelist
+- Shadows in Valhalla
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Legend of the Crystal Beasts

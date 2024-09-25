@@ -1,0 +1,13 @@
+Dream Mirror Hypnagogia
+Card Type: Trap Card
+
+Description: Choose 1 "Dream Mirror of Joy" and 1 "Dream Mirror of Terror" from your hand and/or Deck, and place 1 in your Field Zone and the other in your opponent's Field Zone, face-up. You can only activate 1 "Dream Mirror Hypnagogia" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dream Mirror
+Present in Sets:
+- Chaos Impact

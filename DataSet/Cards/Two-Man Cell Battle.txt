@@ -1,0 +1,15 @@
+Two-Man Cell Battle
+Card Type: Spell Card
+
+Description: During each player's End Phase, the turn player can Special Summon 1 Level 4 Normal Monster from their hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist

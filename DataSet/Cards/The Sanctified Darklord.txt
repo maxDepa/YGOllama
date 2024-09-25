@@ -1,0 +1,13 @@
+The Sanctified Darklord
+Card Type: Trap Card
+
+Description: Send 1 "Darklord" monster from your hand or face-up from your field to the GY; negate the effects of 1 Effect Monster on the field until the end of this turn, and if you do, gain LP equal to its ATK. You can only activate 1 "The Sanctified Darklord" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Darklord
+Present in Sets:
+- Flames of Destruction

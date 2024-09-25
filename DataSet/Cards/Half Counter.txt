@@ -1,0 +1,16 @@
+Half Counter
+Card Type: Trap Card
+
+Description: During damage calculation, if a monster you control is being attacked: Target that monster you control; that target gains ATK equal to half the original ATK of the attacking monster, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Speed Duel GX: Duelists of Shadows
+- Starstrike Blast

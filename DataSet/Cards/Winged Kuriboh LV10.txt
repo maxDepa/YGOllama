@@ -1,0 +1,19 @@
+Winged Kuriboh LV10
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned with "Transcendent Wings". During your opponent's Battle Phase (Quick Effect): You can Tribute this face-up card; destroy as many Attack Position monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monster(s).
+
+Type: Fairy
+Attribute: LIGHT
+Level: 10
+Attack: 300
+Defence: 200
+Archetype: Kuriboh
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 3
+- Yu-Gi-Oh! Advent Calendar (2019)

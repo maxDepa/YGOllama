@@ -1,0 +1,14 @@
+XX-clusion
+Card Type: Trap Card
+
+Description: When your opponent activates a monster effect in their hand: Negate that activation, then if they have any cards in their hand, you discard 1 card from their hand (of their choice).
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

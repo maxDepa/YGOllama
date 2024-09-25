@@ -1,0 +1,26 @@
+Trade-In
+Card Type: Spell Card
+
+Description: Discard 1 Level 8 monster; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Ancient Guardians
+- Ancient Guardians
+- Destiny Soldiers
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Maximum Gold
+- Rise of the Dragon Lords Structure Deck
+- Rise of the True Dragons Structure Deck
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Structure Deck: Fire Kings
+- Turbo Pack: Booster One

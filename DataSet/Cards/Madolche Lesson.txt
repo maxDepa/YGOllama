@@ -1,0 +1,13 @@
+Madolche Lesson
+Card Type: Trap Card
+
+Description: Target 1 "Madolche" monster in your Graveyard; shuffle that target into the Deck, and if you do, all "Madolche" monsters you currently control gain 800 ATK and DEF, then you can shuffle 1 other monster from your Graveyard into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Madolche
+Present in Sets:
+- Return of the Duelist

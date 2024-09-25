@@ -1,0 +1,15 @@
+Flame Cerebrus
+Card Type: Normal Monster
+
+Description: Known to many as the "Burning Executioner", this monster is capable of burning enemies to cinders.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

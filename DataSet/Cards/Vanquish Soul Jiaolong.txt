@@ -1,0 +1,17 @@
+Vanquish Soul Jiaolong
+Card Type: Effect Monster
+
+Description: If you reveal a card(s) in your hand to activate a "Vanquish Soul" card or effect (except during the Damage Step): You can Special Summon this card from your hand. (Quick Effect): You can activate 1 of these effects, by revealing monster(s) in your hand with the listed Attribute(s);
+● FIRE: Change the battle position of 1 monster on the field.
+● 2 FIRE: Add 1 "Vanquish Soul" card from your Deck to your hand, except "Vanquish Soul Jiaolong".
+You can only use each effect of "Vanquish Soul Jiaolong" once per turn, and cannot activate more than 1 in the same Chain.
+
+Type: Wyrm
+Attribute: FIRE
+Level: 5
+Attack: 2400
+Defence: 2100
+Archetype: Vanquish Soul
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

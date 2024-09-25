@@ -1,0 +1,13 @@
+Kunoichi
+Card Type: Effect Monster
+
+Description: When control of this face-up card changes, its new controller discards 1 random card.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

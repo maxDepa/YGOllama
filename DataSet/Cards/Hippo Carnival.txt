@@ -1,0 +1,17 @@
+Hippo Carnival
+Card Type: Spell Card
+
+Description: Special Summon 3 "Hippo Tokens" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a "Hippo Token" is in a Monster Zone. For the rest of this turn after this card resolves, monsters your opponent controls cannot target monsters for attacks, except "Hippo Tokens".
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Starter Deck: Yuya

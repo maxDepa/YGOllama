@@ -1,0 +1,16 @@
+Enchanting Mermaid
+Card Type: Normal Monster
+
+Description: A beautiful mermaid that lures voyagers to a watery grave.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- OTS Tournament Pack 3

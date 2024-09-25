@@ -1,0 +1,13 @@
+Soul Transition
+Card Type: Trap Card
+
+Description: If you control no Special Summoned monsters: Tribute 1 face-up Level 4 Normal Summoned/Set monster; draw 2 cards. You can only activate 1 "Soul Transition" per turn. You cannot Special Summon monsters the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Secrets of Eternity

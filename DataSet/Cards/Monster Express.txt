@@ -1,0 +1,13 @@
+Monster Express
+Card Type: Effect Monster
+
+Description: You can target 1 face-up monster you control; send 1 monster from your Extra Deck to the GY with the same original Type as that face-up monster, but for the rest of this turn, you cannot Special Summon monsters, except monsters with the same original Type as the monster sent to the GY by this effect. You can only use this effect of "Monster Express" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Chaos Impact

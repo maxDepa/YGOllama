@@ -1,0 +1,15 @@
+Windrose the Elemental Lord
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WIND monsters in your GY. If this card is Special Summoned: Destroy all Spells and Traps your opponent controls. You can only use this effect of "Windrose the Elemental Lord" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 8
+Attack: 2800
+Defence: 2200
+Archetype: Elemental Lord
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Lord of the Tachyon Galaxy

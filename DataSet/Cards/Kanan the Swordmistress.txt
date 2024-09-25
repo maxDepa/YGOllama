@@ -1,0 +1,13 @@
+Kanan the Swordmistress
+Card Type: Normal Monster
+
+Description: A lady warrior armed with sword and shield, she floats lightly and stings sharply.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack

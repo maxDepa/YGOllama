@@ -1,0 +1,15 @@
+Leghul
+Card Type: Effect Monster
+
+Description: This monster may attack your opponent's Life Points directly.
+
+Type: Insect
+Attribute: EARTH
+Level: 1
+Attack: 300
+Defence: 350
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

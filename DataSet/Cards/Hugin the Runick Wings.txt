@@ -1,0 +1,15 @@
+Hugin the Runick Wings
+Card Type: Fusion Monster
+
+Description: 2 "Runick" monsters
+If this card is Special Summoned from the Extra Deck: You can discard 1 card; add 1 "Runick" Field Spell from your Deck to your hand. If another card(s) you control would be destroyed by card effect, you can banish this card you control instead. If this card on the field is destroyed by battle or card effect: Return this card to the Extra Deck.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Runick
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters

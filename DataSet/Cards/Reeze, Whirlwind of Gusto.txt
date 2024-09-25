@@ -1,0 +1,14 @@
+Reeze, Whirlwind of Gusto
+Card Type: Effect Monster
+
+Description: Once per turn: You can return 1 card from your hand to the bottom of the Deck to target 1 monster your opponent controls and 1 face-up "Gusto" monster you control; switch control of both monsters.
+
+Type: Psychic
+Attribute: WIND
+Level: 5
+Attack: 1900
+Defence: 1400
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

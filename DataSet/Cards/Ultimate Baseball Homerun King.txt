@@ -1,0 +1,12 @@
+Ultimate Baseball Homerun King
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle: You can make this card gain 1000 ATK.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 300
+Archetype: //
+Present in Sets:

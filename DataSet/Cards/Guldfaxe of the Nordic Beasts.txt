@@ -1,0 +1,17 @@
+Guldfaxe of the Nordic Beasts
+Card Type: Tuner Monster
+
+Description: If your opponent controls a Synchro Monster and you control no monsters, you can Special Summon this card (from your hand).
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Star Pack 2014
+- Star Pack 2014
+- Storm of Ragnarok

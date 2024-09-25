@@ -1,0 +1,15 @@
+Sentry Soldier of Stone
+Card Type: Effect Monster
+
+Description: If all monsters you control are Rock-Type monsters (min. 1) while this card is in your Graveyard: You can Special Summon this card. You can only use this effect of "Sentry Soldier of Stone" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

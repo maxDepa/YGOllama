@@ -1,0 +1,13 @@
+Digitron
+Card Type: Normal Monster
+
+Description: A subspecies found in electronic space. There's little information on it.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 2
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Cyberse Link

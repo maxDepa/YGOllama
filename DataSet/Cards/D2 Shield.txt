@@ -1,0 +1,13 @@
+D2 Shield
+Card Type: Trap Card
+
+Description: Select 1 face-up Defense Position monster you control. Its DEF becomes double its original DEF.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starstrike Blast

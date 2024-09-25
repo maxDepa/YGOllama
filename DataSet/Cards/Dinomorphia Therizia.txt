@@ -1,0 +1,15 @@
+Dinomorphia Therizia
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can Set 1 "Dinomorphia" Trap directly from your Deck to your Spell & Trap Zone, then if your LP are 2000 or less, this card gains 500 ATK. If this card is destroyed by battle or card effect: You can banish 1 Trap from your GY; Special Summon 1 Level 4 or lower "Dinomorphia" monster from your GY, except "Dinomorphia Therizia". You can only use each effect of "Dinomorphia Therizia" once per turn.
+
+Type: Dinosaur
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 0
+Archetype: Dinomorphia
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos
+- Battle of Chaos

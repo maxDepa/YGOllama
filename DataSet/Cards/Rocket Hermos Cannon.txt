@@ -1,0 +1,16 @@
+Rocket Hermos Cannon
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "The Claw of Hermos", using a Warrior monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It can make a second attack during each Battle Phase, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: Legendary Knight
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Legendary Dragon Decks

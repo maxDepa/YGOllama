@@ -1,0 +1,13 @@
+Dancing Elf
+Card Type: Normal Monster
+
+Description: An elf that dances across the sky with wings of razor-sharp blades.
+
+Type: Fairy
+Attribute: WIND
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

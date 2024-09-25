@@ -1,0 +1,15 @@
+Moulinglacia the Elemental Lord
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 WATER monsters in your GY. If this card is Special Summoned: Discard 2 random cards from your opponent's hand (or their entire hand, if less than 2). You can only use this effect of "Moulinglacia the Elemental Lord" once per turn. If this face-up card leaves the field, skip the Battle Phase of your next turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 2200
+Archetype: Elemental Lord
+Present in Sets:
+- Abyss Rising
+- Flames of Destruction Special Edition
+- Structure Deck: Freezing Chains

@@ -1,0 +1,14 @@
+Galaxy Brave
+Card Type: Effect Monster
+
+Description: If this card is in your hand: You can reveal 1 "Photon" monster in your hand; Special Summon this card, and if you do, its Level becomes the Level of that "Photon" monster. If this card is Normal or Special Summoned: You can target 1 "Galaxy" monster in your GY; this card's ATK/DEF become that monster's ATK/DEF. You can only use each effect of "Galaxy Brave" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

@@ -1,0 +1,15 @@
+Flamvell Commando
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. This card can only be Normal Summoned by Tributing 1 "Flamvell" monster you control. Once per turn, you can remove from play 1 monster in your Graveyard with 200 DEF to inflict damage to your opponent equal to that monster's ATK.
+
+Type: Pyro
+Attribute: FIRE
+Level: 6
+Attack: 2200
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Ancient Prophecy
+- Ancient Prophecy
+- OTS Tournament Pack 18 (POR)

@@ -1,0 +1,14 @@
+Hieratic Dragon of Gebeb
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 "Hieratic" Normal Monster from your hand, Deck or Graveyard.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 400
+Archetype: Hieratic
+Present in Sets:
+- Galactic Overlord
+- OTS Tournament Pack 16 (POR)

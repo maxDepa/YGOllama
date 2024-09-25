@@ -1,0 +1,13 @@
+Woodland Archer
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having 2 or more Normal Monsters in your Graveyard. You can Tribute this card to add 1 Gemini monster from your Deck to your hand.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

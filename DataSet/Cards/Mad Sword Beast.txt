@@ -1,0 +1,22 @@
+Mad Sword Beast
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Retro Pack 2
+- Speed Duel Starter Decks: Ultimate Predators
+- Starter Deck: Kaiba Evolution
+- Structure Deck: Dinosaur's Rage
+- Tournament Pack 4

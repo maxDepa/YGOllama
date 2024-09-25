@@ -1,0 +1,15 @@
+Steel Ogre Grotto #1
+Card Type: Normal Monster
+
+Description: A steel idol worshipped in the Land of Machines.
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

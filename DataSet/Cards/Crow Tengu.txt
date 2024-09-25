@@ -1,0 +1,13 @@
+Crow Tengu
+Card Type: Effect Monster
+
+Description: If this card in your possession is destroyed by an opponent's card effect and sent to your GY, or if this card is Special Summoned from the GY: You can target 1 Attack Position monster your opponent controls; destroy it. You can only use this effect of "Crow Tengu" once per turn.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dimension Force

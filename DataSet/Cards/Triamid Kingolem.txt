@@ -1,0 +1,13 @@
+Triamid Kingolem
+Card Type: Spell Card
+
+Description: All Rock-Type monsters on the field gain 500 ATK. If a "Triamid" monster you control battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If this face-up card in the Field Zone is sent to the Graveyard: You can Special Summon 1 "Triamid" monster from your hand. You can only use this effect of "Triamid Kingolem" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Triamid
+Present in Sets:
+- The Dark Illusion

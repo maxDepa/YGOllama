@@ -1,0 +1,15 @@
+Hunting Instinct
+Card Type: Trap Card
+
+Description: When a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): Special Summon 1 Dinosaur monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Ultimate Predators
+- Structure Deck: Dinosaur's Rage

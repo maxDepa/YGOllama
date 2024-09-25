@@ -1,0 +1,22 @@
+Sacred Phoenix of Nephthys
+Card Type: Effect Monster
+
+Description: Once per turn, during your next Standby Phase after this card was destroyed by a card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all Spells and Traps on the field.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 8
+Attack: 2400
+Defence: 1600
+Archetype: Nephthys
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 6a
+- Elemental Energy: Special Edition
+- Flaming Eternity
+- Flaming Eternity
+- Hidden Summoners
+- Legendary Collection 3: Yugi's World Mega Pack
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Fire Kings
+- Yu-Gi-Oh! Advent Calendar (2018)

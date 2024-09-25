@@ -1,0 +1,14 @@
+Doomsday Horror
+Card Type: Effect Monster
+
+Description: This card's ATK and DEF are equal to the number of banished DARK monsters x 300. If this card is destroyed and sent to the Graveyard: Return all banished DARK monsters to the Graveyards.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Destiny Soldiers
+- Phantom Darkness

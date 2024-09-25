@@ -1,0 +1,13 @@
+Witch Doctor of Sparta
+Card Type: Effect Monster
+
+Description: Inflict 500 damage to your opponent each time a monster(s) is Special Summoned from either player's Deck.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Gladiator's Assault

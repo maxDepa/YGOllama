@@ -1,0 +1,15 @@
+Inpachi
+Card Type: Normal Monster
+
+Description: A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1900
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Dark Revelation Volume 1
+- Pharaonic Guardian

@@ -1,0 +1,27 @@
+Dark Paladin
+Card Type: Fusion Monster
+
+Description: "Dark Magician" + "Buster Blader"
+Must be Fusion Summoned. When a Spell Card is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. Gains 500 ATK for each Dragon monster on the field and in the GY.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2400
+Archetype: Dark Magician
+Present in Sets:
+- Dark Revelation Volume 1
+- Duel Master's Guide promotional cards
+- Duel Terminal 3
+- Duelist Pack: Yugi
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Dragon Decks
+- Magician's Force
+- Millennium Pack
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Structure Deck: Yugi Muto
+- Yugi's Legendary Decks

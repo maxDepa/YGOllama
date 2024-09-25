@@ -1,0 +1,13 @@
+Wretched Ghost of the Attic
+Card Type: Normal Monster
+
+Description: A harmless monster found lurking in just about any attic.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 550
+Defence: 400
+Archetype: //
+Present in Sets:
+- Tournament Pack 8

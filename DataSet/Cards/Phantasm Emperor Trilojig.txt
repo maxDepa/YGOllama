@@ -1,0 +1,15 @@
+Phantasm Emperor Trilojig
+Card Type: Fusion Monster
+
+Description: 3 Level 10 monsters
+If this card is Special Summoned, or if another monster is Special Summoned from the GY to your field while you control this monster: You can target 1 face-up monster your opponent controls; inflict damage to your opponent equal to half its original ATK. You can only use this effect of "Phantasm Emperor Trilojig" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Chaos Phantom
+Present in Sets:
+- Duel Overload
+- Structure Deck: Sacred Beasts

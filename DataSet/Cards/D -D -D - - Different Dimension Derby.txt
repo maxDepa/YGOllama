@@ -1,0 +1,13 @@
+D.D.D. - Different Dimension Derby
+Card Type: Trap Card
+
+Description: If you control a face-up monster that was Ritual Summoned using a Normal Monster, or was Fusion, Synchro, Xyz, or Link Summoned using a Normal Monster as material: You can target 1 card on the field; banish it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D.D.
+Present in Sets:
+- Dawn of Majesty

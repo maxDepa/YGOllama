@@ -1,0 +1,14 @@
+Dark Assailant
+Card Type: Normal Monster
+
+Description: Armed with the Psycho Sword, this sinister assassin rules the bad land.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

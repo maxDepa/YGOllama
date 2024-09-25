@@ -1,0 +1,16 @@
+Infernity Dwarf
+Card Type: Effect Monster
+
+Description: While you have no cards in your hand, if a monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Warrior
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: Infernity
+Present in Sets:
+- Gold Series 3
+- Speed Duel: Scars of Battle
+- Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards
+- Yu-Gi-Oh! 5D's Stardust Accelerator promotional cards

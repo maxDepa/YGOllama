@@ -1,0 +1,14 @@
+Special Hurricane
+Card Type: Spell Card
+
+Description: Discard 1 card from your hand. Destroy all Special Summoned monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

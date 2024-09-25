@@ -1,0 +1,14 @@
+Subterror Behemoth Ultramafus
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can change all other face-up monsters on the field to face-down Defense Position. You can only use this effect of "Subterror Behemoth Ultramafus" once per turn.
+When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.
+
+Type: Pyro
+Attribute: EARTH
+Level: 12
+Attack: 3000
+Defence: 1800
+Archetype: Subterror
+Present in Sets:
+- Invasion: Vengeance

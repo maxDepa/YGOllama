@@ -1,0 +1,12 @@
+Clone Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Cloning". If the monster is destroyed and sent to the Graveyard, destroy this Token.
+
+Type: Warrior
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

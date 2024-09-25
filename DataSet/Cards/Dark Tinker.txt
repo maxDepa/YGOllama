@@ -1,0 +1,14 @@
+Dark Tinker
+Card Type: Tuner Monster
+
+Description: When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 1000
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Starter Deck: Duelist Toolbox

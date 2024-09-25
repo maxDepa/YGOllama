@@ -1,0 +1,15 @@
+Elemental Absorber
+Card Type: Trap Card
+
+Description: Remove from play 1 Monster Card in your hand to activate this card. Your opponent's monsters that have the same Attribute as the monster removed by this effect cannot declare an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice

@@ -1,0 +1,13 @@
+Superheavy Samurai Helper
+Card Type: Effect Monster
+
+Description: During damage calculation, if your Defense Position monster battles an opponent's monster while you have no Spells/Traps in your GY (Quick Effect): You can discard this card, then target 1 "Superheavy Samurai" monster you control other than the battling monster; your battling monster gains DEF equal to that monster's DEF, during that damage calculation only. When an opponent's monster declares a direct attack: You can banish this card from your GY, then target 1 "Superheavy Samurai" monster in your GY; Special Summon it.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Superheavy
+Present in Sets:
+- Battles of Legend: Light's Revenge

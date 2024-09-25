@@ -1,0 +1,14 @@
+D - Formation
+Card Type: Spell Card
+
+Description: Each time a face-up "Destiny HERO" monster(s) you control is destroyed, place 1 D Counter on this card for each of those monsters. When you Normal or Special Summon a monster during your Main Phase: You can send this card with 2 or more D Counters to the Graveyard; add up to 2 cards from your Deck and/or Graveyard to your hand, with the same name as that monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction

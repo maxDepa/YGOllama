@@ -1,0 +1,14 @@
+Mathmech Equation
+Card Type: Spell Card
+
+Description: Target 1 "Mathmech" monster in your GY; Special Summon it, and if you do, it gains 1000 ATK until the end of this turn. You can only activate 1 "Mathmech Equation" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mathmech
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Mystic Fighters

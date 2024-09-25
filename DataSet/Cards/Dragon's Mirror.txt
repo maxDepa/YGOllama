@@ -1,0 +1,20 @@
+Dragon's Mirror
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Rivals of the Pharaoh
+- Maximum Gold
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Pendulum Evolution

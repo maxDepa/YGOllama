@@ -1,0 +1,16 @@
+Aurkus, Lightsworn Druid
+Card Type: Effect Monster
+
+Description: Neither player can target "Lightsworn" monsters (anywhere) with card effects. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 1200
+Defence: 1800
+Archetype: Lightsworn
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction
+- Ra Yellow Mega Pack
+- Realm of Light Structure Deck

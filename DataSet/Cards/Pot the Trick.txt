@@ -1,0 +1,12 @@
+Pot the Trick
+Card Type: Normal Monster
+
+Description: A not-so-powerful servant, he is an errand boy of a master sorcerer.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 400
+Archetype: //
+Present in Sets:

@@ -1,0 +1,14 @@
+Kuji-Kiri Curse
+Card Type: Spell Card
+
+Description: Send 1 Level 9 monster from your hand or face-up field to the GY; draw 2 cards. You can only activate 1 "Kuji-Kiri Curse" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

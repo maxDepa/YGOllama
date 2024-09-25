@@ -1,0 +1,15 @@
+Amatsu-Okami of the Divine Peaks
+Card Type: Link Monster
+
+Description: 3+ Dragon Effect Monsters
+Must be Link Summoned. If this Extra Linked card attacks your opponent directly and reduces their LP to 0, you win the Match.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! World Championship 2018 prize cards
+- Yu-Gi-Oh! World Championship 2019 Japanese National Qualifiers prize cards

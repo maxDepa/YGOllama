@@ -1,0 +1,13 @@
+Depth Amulet
+Card Type: Trap Card
+
+Description: When your opponent's monster declares an attack, you can discard 1 card to negate the attack. Destroy this card during your opponent's 3rd End Phase after activation.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

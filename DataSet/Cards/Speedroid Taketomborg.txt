@@ -1,0 +1,15 @@
+Speedroid Taketomborg
+Card Type: Effect Monster
+
+Description: If you control a WIND monster, you can Special Summon this card (from your hand). You can Tribute this card; Special Summon 1 "Speedroid" Tuner monster from your Deck, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only Special Summon "Speedroid Taketomborg(s)" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 600
+Defence: 1200
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders
+- Legendary Duelists: Synchro Storm
+- Maximum Gold

@@ -1,0 +1,14 @@
+Ryko, Twilightsworn Fighter
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned or flipped face-up: You can banish 1 "Lightsworn" monster from your hand or GY; banish 1 card on the field. Once per turn, if your other "Lightsworn" monster's effect is activated: Send the top 3 cards of your Deck to the GY.
+
+Type: Beast
+Attribute: DARK
+Level: 2
+Attack: 200
+Defence: 100
+Archetype: Lightsworn
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

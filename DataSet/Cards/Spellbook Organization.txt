@@ -1,0 +1,15 @@
+Spellbook Organization
+Card Type: Spell Card
+
+Description: Look at the top 3 cards of your Deck, then return them to the top of the Deck in any order.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spellbook
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series: Haunted Mine
+- Magician's Force

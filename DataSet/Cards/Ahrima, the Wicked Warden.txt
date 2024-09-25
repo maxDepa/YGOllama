@@ -1,0 +1,14 @@
+Ahrima, the Wicked Warden
+Card Type: Effect Monster
+
+Description: You can discard this card; add 1 "Lair of Darkness" from your Deck to your hand. You can Tribute 1 DARK monster; draw 1 card, or, if you Tributed a DARK monster other than this card to activate this effect, you can add 1 DARK monster with 2000 or more DEF from your Deck to your hand, instead. You can only use this effect of "Ahrima, the Wicked Warden" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Slifer the Sky Dragon
+- Structure Deck: Lair of Darkness

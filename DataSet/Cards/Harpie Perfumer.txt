@@ -1,0 +1,15 @@
+Harpie Perfumer
+Card Type: Effect Monster
+
+Description: This card's name becomes "Harpie Lady" while on the field or in the GY. If this card is Normal or Special Summoned: You can add 1 Spell/Trap from your Deck to your hand that specifically lists the card "Harpie Lady Sisters" in its text. If you controlled a Level 5 or higher "Harpie" monster when you activated this effect, you can also add a second such card, with a different name from the first. You can only use this effect of "Harpie Perfumer" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: Harpie
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose

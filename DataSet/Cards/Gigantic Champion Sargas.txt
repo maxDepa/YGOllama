@@ -1,0 +1,14 @@
+Gigantic "Champion" Sargas
+Card Type: XYZ Monster
+
+Description: 2+ Level 8 monsters
+Once per turn, you can also Xyz Summon "Gigantic "Champion" Sargas" by using 1 "Springans" Xyz Monster you control. (Transfer its materials to this card.) While this card has material: You can add 1 "Springans" or "Therion" card from your Deck to your hand. If material is detached from a monster(s) on the field (except during the Damage Step): You can target 1 card on the field; either destroy it or return it to the hand. You can only use each effect of "Gigantic "Champion" Sargas" once per turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Photon Hypernova

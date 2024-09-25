@@ -1,0 +1,14 @@
+Sunlit Sentinel
+Card Type: Effect Monster
+
+Description: You can Set this card from your hand to your Spell & Trap Zone as a Spell. Once per turn, during the Standby Phase of the next turn after this Set card was destroyed and sent to the GY: You can Special Summon this card, then destroy all cards your opponent controls in this card's column.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

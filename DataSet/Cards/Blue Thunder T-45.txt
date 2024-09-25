@@ -1,0 +1,17 @@
+Blue Thunder T-45
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle: Special Summon 1 "Thunder Option Token" (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500). This Token cannot be Tributed for a Tribute Summon.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Phantom Darkness

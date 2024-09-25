@@ -1,0 +1,14 @@
+Yellow Baboon, Archer of the Forest
+Card Type: Effect Monster
+
+Description: When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Stardust Overdrive
+- Stardust Overdrive

@@ -1,0 +1,17 @@
+Trap Master
+Card Type: Flip Effect Monster
+
+Description: FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Yugi
+- Starter Deck: Yugi

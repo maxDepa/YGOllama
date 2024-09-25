@@ -1,0 +1,15 @@
+Doble Passe
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack on a face-up Attack Position monster you control: Make your opponent's attack a direct attack instead and inflict damage to your opponent equal to the ATK of the attack target you control. Also, that monster you control can attack your opponent directly during your next turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Speed Duel GX: Duel Academy Box

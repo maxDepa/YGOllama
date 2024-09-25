@@ -1,0 +1,13 @@
+Dimension Explosion
+Card Type: Spell Card
+
+Description: Return 1 face-up Fusion Monster you control to the Extra Deck. Both players select up to 2 of their monsters that are removed from play, and Special Summon them.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

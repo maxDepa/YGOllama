@@ -1,0 +1,14 @@
+Neos Fusion
+Card Type: Spell Card
+
+Description: Special Summon 1 Fusion Monster from your Extra Deck that lists exactly 2 monsters as material, including "Elemental HERO Neos", by sending those monsters from your hand, Deck, or field, ignoring its Summoning conditions. For the rest of this turn after this card resolves, you cannot Special Summon monsters. If a Fusion Monster(s) you control that lists "Elemental HERO Neos" as material would be destroyed by battle or card effect, or shuffled into the Extra Deck by its own effect, you can banish this card from your GY instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

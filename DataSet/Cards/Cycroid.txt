@@ -1,0 +1,16 @@
+Cycroid
+Card Type: Normal Monster
+
+Description: The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: Roid
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

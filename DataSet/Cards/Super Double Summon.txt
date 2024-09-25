@@ -1,0 +1,13 @@
+Super Double Summon
+Card Type: Spell Card
+
+Description: Select 1 Gemini monster you control and Normal Summon it. During the End Phase of this turn, return it to your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gladiator's Assault

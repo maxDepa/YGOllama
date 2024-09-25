@@ -1,0 +1,36 @@
+Solemn Judgment
+Card Type: Trap Card
+
+Description: When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Solemn
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Battles of Legend: Relentless Revenge
+- Champion Pack: Game One
+- Dark Beginning 2
+- Dark Legends
+- Gold Series 2009
+- Gold Series: Haunted Mine
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Lost Sanctuary Structure Deck
+- Maximum Gold
+- Maze of Memories
+- Maze of Memories
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Retro Pack
+- Secret Slayers
+- Structure Deck: Fire Kings
+- The Lost Art Promotion (series)
+- The Lost Art Promotion N

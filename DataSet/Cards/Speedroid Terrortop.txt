@@ -1,0 +1,17 @@
+Speedroid Terrortop
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can add 1 "Speedroid" monster from your Deck to your hand, except "Speedroid Terrortop". You can only use this effect of "Speedroid Terrortop" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 600
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders
+- Legendary Duelists: Synchro Storm
+- OTS Tournament Pack 3
+- Star Pack Battle Royal
+- Star Pack Battle Royal

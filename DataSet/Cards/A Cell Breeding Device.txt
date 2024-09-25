@@ -1,0 +1,13 @@
+"A" Cell Breeding Device
+Card Type: Spell Card
+
+Description: During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Force of the Breaker

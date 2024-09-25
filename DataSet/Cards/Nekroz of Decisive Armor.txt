@@ -1,0 +1,15 @@
+Nekroz of Decisive Armor
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned without using any Level 10 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of "Nekroz of Decisive Armor" once per turn.
+● During either player's turn: You can discard this card, then target 1 "Nekroz" monster you control; it gains 1000 ATK and DEF until the end of this turn.
+● You can target 1 Set card your opponent controls; destroy it, and if you do, banish it.
+
+Type: Dragon
+Attribute: WATER
+Level: 10
+Attack: 3300
+Defence: 2300
+Archetype: Nekroz
+Present in Sets:
+- The Secret Forces

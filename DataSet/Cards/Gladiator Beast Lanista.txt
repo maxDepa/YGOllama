@@ -1,0 +1,14 @@
+Gladiator Beast Lanista
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of a "Gladiator Beast" monster: Target 1 "Gladiator Beast" monster in your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Lanista".
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: Gladiator Beast
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack

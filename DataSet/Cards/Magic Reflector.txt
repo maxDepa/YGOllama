@@ -1,0 +1,16 @@
+Magic Reflector
+Card Type: Spell Card
+
+Description: Target 1 face-up Spell Card you control; place 1 counter on it. If it would ever be destroyed, remove the counter instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duelist Pack: Kaiba
+- Legacy of Darkness
+- Legacy of Darkness

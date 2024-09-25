@@ -1,0 +1,13 @@
+Swordsoul Punishment
+Card Type: Spell Card
+
+Description: If you control a Synchro Monster: Target 1 card on the field or in either GY; banish it. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster: You can banish 1 Synchro Monster from your GY; add this card from the GY to your hand. You can only use each effect of "Swordsoul Punishment" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Swordsoul
+Present in Sets:
+- Cyberstorm Access

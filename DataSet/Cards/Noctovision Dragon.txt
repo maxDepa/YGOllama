@@ -1,0 +1,18 @@
+Noctovision Dragon
+Card Type: Effect Monster
+
+Description: When your opponent activates a card or effect that targets a face-down card(s) you control (Quick Effect): You can banish this card from your GY; negate that effect, also your opponent cannot target that face-down card(s) with card effects for the rest of this turn. You can only use each of the following effects of "Noctovision Dragon" once per turn.
+● If a DARK Dragon monster(s) is Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand.
+● If this card is sent to the GY as Link Material: You can draw 1 card.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 0
+Defence: 2800
+Archetype: Rokket
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)

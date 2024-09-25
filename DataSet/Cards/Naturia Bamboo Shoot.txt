@@ -1,0 +1,15 @@
+Naturia Bamboo Shoot
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned by Tributing a "Naturia" monster, while this card remains face-up on the field, your opponent cannot activate Spell or Trap Cards.
+
+Type: Plant
+Attribute: EARTH
+Level: 5
+Attack: 2000
+Defence: 2000
+Archetype: Naturia
+Present in Sets:
+- Duelist Revolution
+- Duelist Revolution
+- Hidden Arsenal: Chapter 1

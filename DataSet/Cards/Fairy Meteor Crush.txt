@@ -1,0 +1,20 @@
+Fairy Meteor Crush
+Card Type: Spell Card
+
+Description: If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Duel Terminal 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Kaiba Evolution

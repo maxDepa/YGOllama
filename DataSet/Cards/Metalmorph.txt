@@ -1,0 +1,30 @@
+Metalmorph
+Card Type: Trap Card
+
+Description: Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK/DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 2
+- Geargia Rampage Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Machina Mayhem Structure Deck
+- Millennium Pack
+- Premium Pack (TCG)
+- Premium Pack (TCG)
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Scars of Battle
+- Speed Duel: Streets of Battle City
+- Star Pack 2013
+- Star Pack 2013
+- World Championship 2011 Card Pack
+- Yu-Gi-Oh! Forbidden Memories promotional cards

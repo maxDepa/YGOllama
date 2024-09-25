@@ -1,0 +1,14 @@
+Worm Illidan
+Card Type: Effect Monster
+
+Description: Each time a card is Set on your side of the field, place 1 Worm Counter on this card. You can remove 2 Worm Counters from this card to select 1 card your opponent controls, and destroy it.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1800
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Storm of Ragnarok

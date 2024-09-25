@@ -1,0 +1,14 @@
+Mischief of the Yokai
+Card Type: Trap Card
+
+Description: Each face-up monster on the field loses 2 Levels, until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up monster, and reduce its Level by 1, until the End Phase. This effect cannot be activated the turn this card is sent to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starstrike Blast
+- Starstrike Blast

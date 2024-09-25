@@ -1,0 +1,14 @@
+Infestation Tool
+Card Type: Trap Card
+
+Description: Send 1 "Steelswarm" monster from your Deck to the Graveyard to target 1 face-up "Steelswarm" monster you control; it gains 800 ATK until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infestation
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

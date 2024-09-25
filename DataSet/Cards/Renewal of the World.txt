@@ -1,0 +1,16 @@
+Renewal of the World
+Card Type: Trap Card
+
+Description: When this card is activated: Banish 1 Ritual Monster from your Deck. You can send this card to the GY, then activate 1 of these effects;
+● Tribute 1 monster from your hand or field, or shuffle 1 Ritual Monster from your GY into the Deck, whose Level equals or exceeds the Level of the monster banished by this card's effect, then Ritual Summon that monster.
+● Add the monster banished by this card's effect to your hand.
+You can only use 1 "Renewal of the World" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Horizon

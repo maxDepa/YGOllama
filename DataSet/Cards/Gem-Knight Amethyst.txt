@@ -1,0 +1,15 @@
+Gem-Knight Amethyst
+Card Type: Fusion Monster
+
+Description: 1 "Gem-Knight" monster + 1 Aqua-Type monster
+Must first be Fusion Summoned. When this card is sent from the field to the Graveyard: Return all Set Spell and Trap Cards on the field to the hand.
+
+Type: Aqua
+Attribute: EARTH
+Level: 7
+Attack: 1950
+Defence: 2450
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

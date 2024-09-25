@@ -1,0 +1,12 @@
+Dorover
+Card Type: Normal Monster
+
+Description: This ugly monster emits a highly poisonous gas.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 900
+Defence: 800
+Archetype: //
+Present in Sets:

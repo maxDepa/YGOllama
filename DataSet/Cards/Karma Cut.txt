@@ -1,0 +1,18 @@
+Karma Cut
+Card Type: Trap Card
+
+Description: Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then banish all cards with the same name as that monster from your opponent's Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duel Terminal 5b
+- Premium Gold: Return of the Bling
+- Shadow of Infinity
+- Shadow of Infinity
+- The Dark Emperor Structure Deck

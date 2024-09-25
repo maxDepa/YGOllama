@@ -1,0 +1,14 @@
+Djinn Releaser of Rituals
+Card Type: Effect Monster
+
+Description: When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, the other player cannot Special Summon while that Ritual Summoned monster is face-up on the field.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 2000
+Archetype: Djinn
+Present in Sets:
+- Stardust Overdrive
+- The Secret Forces

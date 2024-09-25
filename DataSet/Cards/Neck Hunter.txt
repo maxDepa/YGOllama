@@ -1,0 +1,13 @@
+Neck Hunter
+Card Type: Normal Monster
+
+Description: A fiend that wields a mean sickle and fires devastating beams from its eyes.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 1750
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares

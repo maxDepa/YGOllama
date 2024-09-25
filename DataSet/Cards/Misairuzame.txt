@@ -1,0 +1,15 @@
+Misairuzame
+Card Type: Normal Monster
+
+Description: A missile-launching fish protected by deadly spikes.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1400
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

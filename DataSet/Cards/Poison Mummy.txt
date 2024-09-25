@@ -1,0 +1,15 @@
+Poison Mummy
+Card Type: Flip Effect Monster
+
+Description: FLIP: Inflict 500 damage to your opponent.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Pharaonic Guardian
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale

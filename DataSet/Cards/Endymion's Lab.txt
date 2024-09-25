@@ -1,0 +1,13 @@
+Endymion's Lab
+Card Type: Spell Card
+
+Description: This card's name becomes "Magical Citadel of Endymion" while in the Spell & Trap Zone. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn, after damage calculation, if your Spellcaster monster is destroyed by battle: You can remove 6 Spell Counters from your field; Special Summon 1 Level 7 or higher Spellcaster monster from your hand or Deck. You can only activate 1 "Endymion's Lab" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Endymion
+Present in Sets:
+- Structure Deck: Order of the Spellcasters

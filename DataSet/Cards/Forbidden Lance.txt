@@ -1,0 +1,24 @@
+Forbidden Lance
+Card Type: Spell Card
+
+Description: Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Forbidden
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Egyptian God Deck: Obelisk the Tormentor
+- Legendary Hero Decks
+- Noble Knights of the Round Table Power-Up Pack
+- Premium Gold
+- Starter Deck: Link Strike
+- Storm of Ragnarok

@@ -1,0 +1,15 @@
+Simorgh, Bird of Divinity
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 7
+Attack: 2700
+Defence: 1000
+Archetype: Simorgh
+Present in Sets:
+- Structure Deck: Lord of the Storm
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

@@ -1,0 +1,20 @@
+Destiny Signal
+Card Type: Trap Card
+
+Description: When a monster you control is destroyed by battle and sent to the GY: Special Summon 1 Level 4 or lower "Destiny HERO" monster from your hand or Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Destiny Soldiers
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box

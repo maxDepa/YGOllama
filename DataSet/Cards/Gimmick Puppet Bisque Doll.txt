@@ -1,0 +1,14 @@
+Gimmick Puppet Bisque Doll
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by discarding 1 "Gimmick Puppet" monster. You can banish this card from your GY; your opponent cannot target "Gimmick Puppet" monsters you control with card effects this turn.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 1000
+Defence: 1000
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

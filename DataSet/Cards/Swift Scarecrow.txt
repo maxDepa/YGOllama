@@ -1,0 +1,19 @@
+Swift Scarecrow
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares a direct attack (Quick Effect): You can discard this card; negate the attack, then end the Battle Phase.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Four
+- Astral Pack One
+- Geargia Rampage Structure Deck
+- Starstrike Blast
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Synchron Extreme Structure Deck

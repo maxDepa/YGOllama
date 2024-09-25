@@ -1,0 +1,17 @@
+Time Seal
+Card Type: Trap Card
+
+Description: Skip the Draw Phase of your opponent's next turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

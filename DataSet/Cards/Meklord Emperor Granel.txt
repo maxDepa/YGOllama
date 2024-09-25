@@ -1,0 +1,17 @@
+Meklord Emperor Granel
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. This card gains ATK and DEF equal to half your LP. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect. You can target 1 of these equipped monsters; Special Summon that target to your side of the field in Defense Position.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Rage of Ra
+- Shonen Jump Vol. 9, Issue 6 promotional card
+- Valiant Smashers
+- Yu-Gi-Oh! World Championship Qualifier National Championships 2011 prize cards

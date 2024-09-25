@@ -1,0 +1,20 @@
+Black Luster Soldier
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "Black Luster Ritual".
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Black Luster Soldier
+Present in Sets:
+- Duel Terminal 7a
+- Duelist Pack: Battle City
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 3
+- Starter Deck: Yugi Evolution
+- Yugi's Legendary Decks

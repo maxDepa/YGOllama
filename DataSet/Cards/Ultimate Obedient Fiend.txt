@@ -1,0 +1,14 @@
+Ultimate Obedient Fiend
+Card Type: Effect Monster
+
+Description: This card can only attack if this card is the only card on your side of the field and if you also have no cards in your hand. The effects of Effect Monsters that this card destroys are negated.
+
+Type: Fiend
+Attribute: FIRE
+Level: 10
+Attack: 3500
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

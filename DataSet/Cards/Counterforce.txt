@@ -1,0 +1,13 @@
+Counterforce
+Card Type: Trap Card
+
+Description: When a monster's attack is negated that targeted a face-up Attack Position monster: Inflict damage to your opponent equal to the difference in ATK between the 2 monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos

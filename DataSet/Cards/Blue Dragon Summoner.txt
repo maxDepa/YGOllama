@@ -1,0 +1,15 @@
+Blue Dragon Summoner
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the GY: You can add 1 Dragon, Warrior, or Spellcaster Normal Monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 600
+Archetype: //
+Present in Sets:
+- Demo Deck 2016
+- Speed Duel Starter Decks: Destiny Masters
+- Super Starter: Space-Time Showdown

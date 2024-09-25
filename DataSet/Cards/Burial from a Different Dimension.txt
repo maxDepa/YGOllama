@@ -1,0 +1,20 @@
+Burial from a Different Dimension
+Card Type: Spell Card
+
+Description: Target up to 3 banished monsters; return them to the GY.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Eight
+- Dinosmasher's Fury Structure Deck
+- Duel Terminal 3
+- Duelist Pack: Jaden Yuki 2
+- Lost Sanctuary Structure Deck
+- Maze of Memories
+- Structure Deck: Zombie Horde
+- The Secret Forces

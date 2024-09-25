@@ -1,0 +1,13 @@
+Malefic Claw Stream
+Card Type: Trap Card
+
+Description: Activate only if you control a face-up "Malefic" monster. Select 1 monster your opponent controls, and destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Malefic
+Present in Sets:
+- Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack

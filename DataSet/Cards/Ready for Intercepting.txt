@@ -1,0 +1,21 @@
+Ready for Intercepting
+Card Type: Trap Card
+
+Description: Target 1 Warrior or Spellcaster monster on the field; change that target to face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel Tournament Pack 2
+- Speed Duel: Attack from the Deep
+- Speed Duel: Streets of Battle City
+- Starter Deck 2006
+- Turbo Pack: Booster Eight

@@ -1,0 +1,16 @@
+Warrior Elimination
+Card Type: Spell Card
+
+Description: Destroy all Warrior monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series 2009
+- Legendary Collection Kaiba Mega Pack
+- Speed Duel: Attack from the Deep
+- Tournament Pack 7

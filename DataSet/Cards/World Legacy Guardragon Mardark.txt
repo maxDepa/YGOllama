@@ -1,0 +1,17 @@
+World Legacy Guardragon Mardark
+Card Type: Effect Monster
+
+Description: All monsters your opponent controls lose 500 ATK/DEF for each Dragon monster you control. You can only use each of the following effects of "World Legacy Guardragon Mardark" once per turn.
+● You can banish 2 Normal Monsters from your hand or GY; Special Summon this card from your hand.
+● If this card on the field is destroyed by battle or card effect: You can add, from your GY to your hand, 1 Level 9 monster with a different original Type and Attribute than this card.
+
+Type: Dragon
+Attribute: WIND
+Level: 9
+Attack: 2600
+Defence: 3000
+Archetype: Guardragon
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm
+- Mystic Fighters

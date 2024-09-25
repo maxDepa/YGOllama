@@ -1,0 +1,17 @@
+Dragunity Dux
+Card Type: Effect Monster
+
+Description: Gains 200 ATK for each "Dragunity" card you control. When this card is Normal Summoned: You can target 1 Level 3 or lower Dragon "Dragunity" monster in your GY; equip that target to this card.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Legendary Collection Kaiba Mega Pack

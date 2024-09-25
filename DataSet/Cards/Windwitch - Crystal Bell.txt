@@ -1,0 +1,14 @@
+Windwitch - Crystal Bell
+Card Type: Fusion Monster
+
+Description: "Windwitch - Winter Bell" + 1 "Windwitch" monster
+You can target 1 monster in either player's Graveyard; until the End Phase, this card's name becomes that target's original name, and replace this effect with that target's original effects. If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 "Windwitch - Winter Bell" and 1 Level 4 or lower "Windwitch" monster in your Graveyard; Special Summon them. You can only use each effect of "Windwitch - Crystal Bell" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 8
+Attack: 2800
+Defence: 2400
+Archetype: Windwitch
+Present in Sets:
+- Raging Tempest

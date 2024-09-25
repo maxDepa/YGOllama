@@ -1,0 +1,16 @@
+Spined Gillman
+Card Type: Effect Monster
+
+Description: All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 3
+Attack: 1300
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Raging Battle
+- Realm of the Sea Emperor Structure Deck

@@ -1,0 +1,14 @@
+Battle Warrior
+Card Type: Normal Monster
+
+Description: A warrior that fights with his bare hands!!!
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Number Hunters
+- OTS Tournament Pack 1

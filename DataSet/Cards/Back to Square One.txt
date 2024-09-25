@@ -1,0 +1,17 @@
+Back to Square One
+Card Type: Spell Card
+
+Description: Discard 1 card, then target 1 monster on the field; place that target on the top of the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

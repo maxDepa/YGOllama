@@ -1,0 +1,15 @@
+Hard Armor
+Card Type: Normal Monster
+
+Description: A living suit of armor that attacks enemies with a bone-jarring tackle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

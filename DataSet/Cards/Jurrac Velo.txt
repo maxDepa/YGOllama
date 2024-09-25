@@ -1,0 +1,14 @@
+Jurrac Velo
+Card Type: Effect Monster
+
+Description: When this face-up Attack Position card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can Special Summon 1 "Jurrac" monster with 1700 or less ATK from your Deck.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

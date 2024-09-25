@@ -1,0 +1,13 @@
+Noble Knight Bedwyr
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can send 1 "Noble Arms" Equip Spell Card from your Deck to the Graveyard. During either player's turn: You can target 1 "Noble Arms" Equip Spell Card and 1 appropriate monster on the field; equip that Equip Spell Card to that appropriate monster. This effect can only be used once while this card is face-up on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1500
+Archetype: Noble Knight
+Present in Sets:
+- Noble Knights of the Round Table Box Set

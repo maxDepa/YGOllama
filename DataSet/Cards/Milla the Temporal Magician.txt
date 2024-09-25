@@ -1,0 +1,15 @@
+Milla the Temporal Magician
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: Target 1 Set card your opponent controls; look at it. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Magician
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Generation Force

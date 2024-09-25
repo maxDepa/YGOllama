@@ -1,0 +1,16 @@
+Ancient One of the Deep Forest
+Card Type: Normal Monster
+
+Description: This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.
+
+Type: Beast
+Attribute: EARTH
+Level: 6
+Attack: 1800
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

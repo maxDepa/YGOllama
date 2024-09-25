@@ -1,0 +1,14 @@
+Speedroid Block-n-Roll
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as Synchro Material: You can Special Summon 1 "Speedroid Token" (Machine/WIND/ATK 0/DEF 0) with a Level equal to the original Level of the Synchro Monster that used this card as material. You can only use this effect of "Speedroid Block-n-Roll" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Speedroid
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

@@ -1,0 +1,14 @@
+Glacial Beast Iceberg Narwhal
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner WATER monsters
+Each time another monster(s) you control is destroyed by your opponent's attack or card effect: Inflict 600 damage to your opponent. During the Battle Phase, when your opponent activates a card or effect while you control another monster (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use this effect of "Glacial Beast Iceberg Narwhal" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 7
+Attack: 2700
+Defence: 1600
+Archetype: Glacial Beast
+Present in Sets:
+- Battles of Legend: Armageddon

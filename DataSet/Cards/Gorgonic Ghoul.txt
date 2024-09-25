@@ -1,0 +1,14 @@
+Gorgonic Ghoul
+Card Type: Effect Monster
+
+Description: If you control a "Gorgonic Ghoul": You can pay 300 LP; Special Summon this card from your hand. You can use the effect of "Gorgonic Ghoul" up to twice per turn.
+
+Type: Rock
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Gorgonic
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

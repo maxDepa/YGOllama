@@ -1,0 +1,16 @@
+Psychic Shockwave
+Card Type: Trap Card
+
+Description: Activate only when your opponent activates a Trap Card. Discard 1 Spell/Trap Card to Special Summon 1 Level 6 DARK Machine-Type monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- Legendary Duelists: Rage of Ra
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City

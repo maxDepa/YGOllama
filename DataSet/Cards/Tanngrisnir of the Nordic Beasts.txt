@@ -1,0 +1,20 @@
+Tanngrisnir of the Nordic Beasts
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the GY: Special Summon 2 "Nordic Beast Tokens" (Beast/EARTH/Level 3/ATK 0/DEF 0).
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Nordic
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Legendary Hero Decks
+- Storm of Ragnarok

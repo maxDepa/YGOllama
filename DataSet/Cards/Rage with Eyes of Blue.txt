@@ -1,0 +1,14 @@
+Rage with Eyes of Blue
+Card Type: Spell Card
+
+Description: Banish this card, and as many cards as possible from your hand, field, and GY, face-down, and if you do, Special Summon up to 3 copies of "Blue-Eyes White Dragon" from your Deck. You cannot Normal or Special Summon monsters the turn you activate this card, except "Blue-Eyes White Dragon".
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

@@ -1,0 +1,18 @@
+Scrap Fist
+Card Type: Spell Card
+
+Description: Target 1 "Junk Warrior" you control; if it battles an opponent's monster this turn while you control it, apply these effects.
+● Your opponent cannot activate cards or effects until the end of the Damage Step.
+● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+● Double any battle damage your opponent takes.
+● It cannot be destroyed by battle.
+● Destroy the opponent's monster that battled it at the end of the Damage Step.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Junk
+Present in Sets:
+- Synchron Extreme Structure Deck

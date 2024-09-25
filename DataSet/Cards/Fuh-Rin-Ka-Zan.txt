@@ -1,0 +1,20 @@
+Fuh-Rin-Ka-Zan
+Card Type: Trap Card
+
+Description: When there are face-up WIND, WATER, FIRE and EARTH monster(s) on the field: Apply 1 of these effects.
+● Destroy all monsters your opponent controls.
+● Destroy all Spell and Trap Cards your opponent controls.
+● Discard 2 random cards from your opponent's hand.
+● Draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

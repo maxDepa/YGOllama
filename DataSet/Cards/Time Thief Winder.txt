@@ -1,0 +1,15 @@
+Time Thief Winder
+Card Type: Effect Monster
+
+Description: You can detach 1 material from an Xyz Monster you control; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 "Time Thief" card from your Deck to your hand, except "Time Thief Winder". You can only use each effect of "Time Thief Winder" once per turn.
+
+Type: Psychic
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1300
+Archetype: Time Thief
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past
+- Savage Strike

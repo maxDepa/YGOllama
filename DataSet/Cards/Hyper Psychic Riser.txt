@@ -1,0 +1,15 @@
+Hyper Psychic Riser
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Monsters with less ATK than this card cannot attack, also neither player can activate the effects of face-up monsters on the field with more ATK than this card. If this card in your possession is destroyed by your opponent's card and sent to your GY: You can target 1 Tuner and 1 non-Tuner monster in your GY with the same Type and Attribute as each other; add them to your hand. You can only use this effect of "Hyper Psychic Riser" once per turn.
+
+Type: Psychic
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

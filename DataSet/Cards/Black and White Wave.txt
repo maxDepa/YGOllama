@@ -1,0 +1,13 @@
+Black and White Wave
+Card Type: Spell Card
+
+Description: If there is a face-up Xyz Monster on the field with a Synchro Monster as Xyz Material: Target 1 card on the field; banish that target, and if you do, draw 1 card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

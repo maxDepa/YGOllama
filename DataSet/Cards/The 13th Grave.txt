@@ -1,0 +1,15 @@
+The 13th Grave
+Card Type: Normal Monster
+
+Description: A zombie that suddenly appeared from plot #13 - an empty grave.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

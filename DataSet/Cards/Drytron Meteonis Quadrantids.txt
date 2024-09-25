@@ -1,0 +1,14 @@
+Drytron Meteonis Quadrantids
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Meteonis Drytron". Your opponent cannot target this card with Spell/Trap Cards or effects. You can only use each of the following effects of "Drytron Meteonis Quadrantids" once per turn. If the total Levels of monsters used for this card's Ritual Summon were 2 or less: You can destroy all Spells and Traps your opponent controls. If this Ritual Summoned card is destroyed: You can Special Summon "Drytron" monsters from your GY, except "Drytron Meteonis Quadrantids", whose combined ATK equals exactly 4000.
+
+Type: Machine
+Attribute: LIGHT
+Level: 12
+Attack: 4000
+Defence: 4000
+Archetype: Drytron
+Present in Sets:
+- Genesis Impact
+- Genesis Impact

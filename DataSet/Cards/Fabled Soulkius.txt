@@ -1,0 +1,18 @@
+Fabled Soulkius
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can send 2 cards, except "Fabled Soulkius", from your hand to the Graveyard; Special Summon this card from the Graveyard.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 2100
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

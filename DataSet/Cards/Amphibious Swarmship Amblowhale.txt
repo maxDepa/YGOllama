@@ -1,0 +1,17 @@
+Amphibious Swarmship Amblowhale
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+Gains 200 ATK for each Link Monster in the GYs. You can only use each of the following effects of "Amphibious Swarmship Amblowhale" once per turn.
+● If this card is destroyed: You can target 1 Link-3 or lower monster in either GY; Special Summon it.
+● If a Link-3 or lower monster(s) on the field is destroyed by battle or card effect while this card is in your GY: You can banish this card from your GY; destroy 1 card on the field.
+
+Type: Machine
+Attribute: FIRE
+Level: 0
+Attack: 2600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Neostorm
+- Dark Neostorm Sneak Peek Participation Card

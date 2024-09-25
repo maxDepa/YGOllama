@@ -1,0 +1,13 @@
+Endless Traps
+Card Type: Skill Card
+
+Description: If you have exactly 3 Traps in your GY, randomly add 1 Trap from your GY to your hand, randomly shuffle 1 Trap from your GY into your Deck, then randomly banish 1 Trap from your GY. This Skill can only be used once per Duel.
+
+Type: Odion
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box

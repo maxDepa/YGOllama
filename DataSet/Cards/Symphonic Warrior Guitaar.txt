@@ -1,0 +1,18 @@
+Symphonic Warrior Guitaar
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can discard 1 card; Special Summon 1 "Symphonic Warrior" monster from your Deck, except "Symphonic Warrior Guitaar". You can only use this effect of "Symphonic Warrior Guitaar" once per turn.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can target 1 "Symphonic Warrior" monster in your Graveyard; Special Summon it.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 100
+Archetype: Symphonic Warrior
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

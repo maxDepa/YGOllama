@@ -1,0 +1,13 @@
+Armored White Bear
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned while a Synchro Monster is on the field: You can target 1 Field Spell in your GY; add it to your hand. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 Level 4 or lower Beast monster from your Deck or GY, except "Armored White Bear". You can only use each effect of "Armored White Bear" once per turn.
+
+Type: Beast
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon

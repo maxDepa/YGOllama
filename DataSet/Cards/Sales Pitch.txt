@@ -1,0 +1,14 @@
+Sales Pitch
+Card Type: Trap Card
+
+Description: If your opponent adds a card(s) from the Deck to their hand, except by drawing them, by their card effect: Reveal 1 card from your Deck, and add it to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only activate 1 "Sales Pitch" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

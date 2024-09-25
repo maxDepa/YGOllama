@@ -1,0 +1,13 @@
+Arcana Force VI - The Lovers
+Card Type: Effect Monster
+
+Description: When this card is Summoned, toss a coin: ● Heads: This card can be treated as 2 Tributes for the Tribute Summon of an "Arcana Force" monster. ● Tails: You cannot Tribute Summon "Arcana Force" monsters.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction

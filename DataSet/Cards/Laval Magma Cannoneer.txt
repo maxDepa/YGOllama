@@ -1,0 +1,13 @@
+Laval Magma Cannoneer
+Card Type: Effect Monster
+
+Description: Up to twice per turn: You can send 1 FIRE monster from your hand to the Graveyard; inflict 500 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Generation Force

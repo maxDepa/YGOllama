@@ -1,0 +1,17 @@
+White Dragon Ritual
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Paladin of White Dragon". You must also Tribute monsters from your hand or field whose total Levels equal 4 or more.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist Pack: Kaiba
+- Magician's Force
+- Speed Duel: Battle City Box
+- Starter Deck: Kaiba Evolution

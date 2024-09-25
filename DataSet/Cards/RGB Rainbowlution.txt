@@ -1,0 +1,13 @@
+RGB Rainbowlution
+Card Type: Trap Card
+
+Description: Once per turn: You can target 1 face-up monster on the field; its Type is changed to Machine, also it gains the LIGHT/DARK/EARTH/WATER/FIRE/WIND Attributes (even if this card leaves the field).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

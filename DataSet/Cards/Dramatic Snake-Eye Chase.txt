@@ -1,0 +1,13 @@
+Dramatic Snake-Eye Chase
+Card Type: Spell Card
+
+Description: Place 1 "Diabellstar" monster from your hand, Deck, or GY face-up in its owner's Spell & Trap Zone as a Continuous Spell. During the End Phase: You can banish this card from your GY, then target 1 Monster Card treated as a Continuous Spell you control; Special Summon it. You can only use each effect of "Dramatic Snake-Eye Chase" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Snake-Eye
+Present in Sets:
+- Phantom Nightmare

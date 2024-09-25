@@ -1,0 +1,14 @@
+Sage of Silence
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, your opponent cannot activate Spell Cards during the next turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Strike of Neos
+- Strike of Neos

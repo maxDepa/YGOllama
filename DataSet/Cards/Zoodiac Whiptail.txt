@@ -1,0 +1,16 @@
+Zoodiac Whiptail
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can target 1 Beast-Warrior Xyz Monster you control; attach this card from your hand or field to it as material. An Xyz Monster whose original Type is Beast-Warrior and has this card as material gains this effect.
+● If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 400
+Archetype: Zoodiac
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- OTS Tournament Pack 5
+- Raging Tempest

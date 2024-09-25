@@ -1,0 +1,19 @@
+Chaos Form
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Chaos" or "Black Luster Soldier" Ritual Monster. You must also Tribute monsters from your hand or field and/or banish "Blue-Eyes White Dragon" or "Dark Magician" from your GY, whose total Levels exactly equal the Level of the "Chaos" or "Black Luster Soldier" Ritual Monster you Ritual Summon.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Duel Power
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- Maze of Memories
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

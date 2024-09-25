@@ -1,0 +1,14 @@
+Royal Knight
+Card Type: Effect Monster
+
+Description: When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to the DEF of the destroyed monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1300
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice

@@ -1,0 +1,18 @@
+Dragon Spirit of White
+Card Type: Effect Monster
+
+Description: (This card is always treated as a "Blue-Eyes" card.)
+This card is treated as a Normal Monster while in the hand or GY. When this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; banish it. If your opponent controls a monster (Quick Effect): You can Tribute this card; Special Summon 1 "Blue-Eyes White Dragon" from your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Blue-Eyes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Shining Victories

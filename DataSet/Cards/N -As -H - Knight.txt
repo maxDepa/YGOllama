@@ -1,0 +1,14 @@
+N.As.H. Knight
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Cannot be destroyed by battle while a "Number" monster is on the field. During the Main Phase (Quick Effect): You can detach 2 materials from this card; attach 1 "Number" Xyz Monster from your Extra Deck to this card as material that has a number between "101" and "107" in its name, then you can attach 1 other face-up monster on the field to this card as material. You can only use this effect of "N.As.H. Knight" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1700
+Defence: 2700
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

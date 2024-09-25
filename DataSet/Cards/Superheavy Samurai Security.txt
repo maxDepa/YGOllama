@@ -1,0 +1,13 @@
+Superheavy Samurai Security
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 face-up Machine Pendulum Monster from your Extra Deck to your hand. If you have no Spells/Traps in your GY: You can Tribute this card; Special Summon 1 EARTH Machine monster with 1500 or less ATK from your hand or GY, except "Superheavy Samurai Security". You can only use each effect of "Superheavy Samurai Security" once per turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 1500
+Archetype: Superheavy Samurai
+Present in Sets:
+- Duelist Nexus

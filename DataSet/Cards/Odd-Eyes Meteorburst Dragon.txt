@@ -1,0 +1,16 @@
+Odd-Eyes Meteorburst Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+When this card is Special Summoned: You can target 1 card in your Pendulum Zone; Special Summon it, also this card cannot attack for the rest of this turn. You can only use this effect of "Odd-Eyes Meteorburst Dragon" once per turn. Monsters in your opponent's possession cannot activate their effects during the Battle Phase.
+
+Type: Dragon
+Attribute: FIRE
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Odd-Eyes
+Present in Sets:
+- Legendary Dragon Decks
+- Master of Pendulum Structure Deck
+- Pendulum Evolution

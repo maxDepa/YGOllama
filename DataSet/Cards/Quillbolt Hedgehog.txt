@@ -1,0 +1,22 @@
+Quillbolt Hedgehog
+Card Type: Effect Monster
+
+Description: If this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You must control a Tuner monster to activate and to resolve this effect.
+
+Type: Machine
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Duel Terminal 7a
+- Duelist Pack Collection Tin 2010
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Synchro Storm
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- Synchron Extreme Structure Deck
+- The Duelist Genesis

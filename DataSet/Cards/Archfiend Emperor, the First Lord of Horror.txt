@@ -1,0 +1,16 @@
+Archfiend Emperor, the First Lord of Horror
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing, but its original ATK/DEF become halved. If Summoned this way, this card is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend monsters. Once per turn: You can banish 1 "Archfiend" card from your hand or GY, then target 1 card on the field; destroy it.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: Archfiend
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Judgment of the Light: Deluxe Edition
+- Structure Deck: Lair of Darkness

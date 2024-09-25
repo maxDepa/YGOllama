@@ -1,0 +1,14 @@
+Gem-Knight Crystal
+Card Type: Normal Monster
+
+Description: A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.
+
+Type: Rock
+Attribute: EARTH
+Level: 7
+Attack: 2450
+Defence: 1950
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

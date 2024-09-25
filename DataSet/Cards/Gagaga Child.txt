@@ -1,0 +1,13 @@
+Gagaga Child
+Card Type: Effect Monster
+
+Description: If you control a "Gagaga" monster other than "Gagaga Child", you can Special Summon this card (from your hand). When you do: You can target 1 "Gagaga" monster you control with a different Level than this card; this card's Level becomes the Level of that monster. You cannot conduct your Battle Phase the turn you activate this effect.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 1200
+Archetype: Gagaga
+Present in Sets:
+- Super Starter: V for Victory

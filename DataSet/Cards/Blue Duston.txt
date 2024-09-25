@@ -1,0 +1,13 @@
+Blue Duston
+Card Type: Effect Monster
+
+Description: Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: Banish 1 random card from its controller's hand, face-down, until the Standby Phase of the next turn. You can only control 1 face-up "Blue Duston".
+
+Type: Fiend
+Attribute: WATER
+Level: 1
+Attack: 0
+Defence: 1000
+Archetype: Duston
+Present in Sets:
+- Shadow Specters

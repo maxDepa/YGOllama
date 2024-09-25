@@ -1,0 +1,17 @@
+Reign-Beaux, Overlord of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1800
+Archetype: Dark World
+Present in Sets:
+- Gates of the Underworld Structure Deck
+- Speed Duel GX: Duelists of Shadows
+- Strike of Neos
+- Strike of Neos
+- Structure Deck: Dark World

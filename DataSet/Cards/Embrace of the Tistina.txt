@@ -1,0 +1,13 @@
+Embrace of the Tistina
+Card Type: Trap Card
+
+Description: When your opponent activates a monster effect on the field: You can target that monster; change it to face-down Defense Position. During the End Phase: You can target 1 face-down Defense Position monster your opponent controls; take control of that monster. You can only use each effect of "Embrace of the Tistina" once per turn, and can only activate them while you control a "Tistina" monster with 3000 or more DEF.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Tistina
+Present in Sets:
+- Age of Overlord

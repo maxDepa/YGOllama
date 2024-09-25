@@ -1,0 +1,17 @@
+Puppet Master
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Duel Terminal 5b
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Sacred Beasts

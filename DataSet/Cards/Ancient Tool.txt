@@ -1,0 +1,13 @@
+Ancient Tool
+Card Type: Normal Monster
+
+Description: A destructive machine discovered in the Ruins of the Ancients.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

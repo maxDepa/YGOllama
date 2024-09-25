@@ -1,0 +1,16 @@
+Mystic Lamp
+Card Type: Effect Monster
+
+Description: This monster can attack your opponent's Life Points directly.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

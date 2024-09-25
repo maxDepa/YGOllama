@@ -1,0 +1,14 @@
+Cyber Esper
+Card Type: Effect Monster
+
+Description: While this card is in face-up Attack Position, you can look at every card your opponent draws.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

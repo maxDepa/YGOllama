@@ -1,0 +1,14 @@
+Cyber Soldier of Darkworld
+Card Type: Normal Monster
+
+Description: A mechanical soldier that won't stop attacking until all life readings have been extinguished from its sensors.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

@@ -1,0 +1,14 @@
+Bujingi Raven
+Card Type: Effect Monster
+
+Description: When a "Bujin" monster you control is destroyed by battle with an opponent's monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent's monster.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 900
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

@@ -1,0 +1,14 @@
+Rookie Fur Hire
+Card Type: Spell Card
+
+Description: Tribute 1 monster; Special Summon 1 monster "Fur Hire" from your hand or Deck, whose Level is 1 higher or 1 lower than the Tributed monster had on the field. You cannot declare attacks the turn you activate this card, except with monsters "Fur Hire". You can only activate 1 "Rookie Fur Hire" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fur Hire
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

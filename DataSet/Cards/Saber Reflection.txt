@@ -1,0 +1,13 @@
+Saber Reflection
+Card Type: Spell Card
+
+Description: When you take battle or effect damage while you control an "X-Saber" monster: Gain LP equal to the damage you took, and if you do, inflict the same amount of damage to your opponent, then you can add 1 "Saber" Spell/Trap Card or "Gottoms" card from your Deck to your hand. You can only activate 1 "Saber Reflection" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: X-Saber
+Present in Sets:
+- Invasion: Vengeance

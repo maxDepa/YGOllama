@@ -1,0 +1,14 @@
+Gogogo Gigas
+Card Type: Effect Monster
+
+Description: While this card is in your Graveyard, if you Special Summon a "Gogogo" monster(s) (except during the Damage Step): You can Special Summon this card from your Graveyard in face-up Defense Position. You cannot conduct your Battle Phase the turn you activate this effect. You can only use the effect of "Gogogo Gigas" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2200
+Archetype: Gogogo
+Present in Sets:
+- Lord of the Tachyon Galaxy
+- Maximum Gold

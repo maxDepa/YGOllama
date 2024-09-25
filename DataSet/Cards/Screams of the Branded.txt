@@ -1,0 +1,15 @@
+Screams of the Branded
+Card Type: Trap Card
+
+Description: If a Fusion Monster was sent to your GY this turn: Special Summon 1 of your Fusion Monsters that is banished or in your GY. During the End Phase, if this card is in the GY because it was sent there to activate the effect of "Fallen of Albaz" this turn: You can Set this card. You can only use this effect of "Screams of the Branded" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive
+- Structure Deck: Albaz Strike

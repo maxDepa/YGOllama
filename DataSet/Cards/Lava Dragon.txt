@@ -1,0 +1,13 @@
+Lava Dragon
+Card Type: Effect Monster
+
+Description: You can Tribute this face-up Defense Position card to Special Summon 2 Level 3 or lower Dragon-Type monsters: 1 from your hand, and 1 from your Graveyard.
+
+Type: Dragon
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Raging Battle

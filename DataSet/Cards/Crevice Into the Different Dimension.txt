@@ -1,0 +1,13 @@
+Crevice Into the Different Dimension
+Card Type: Trap Card
+
+Description: Declare 1 Attribute and select a total of 2 monsters with that Attribute from the Graveyards. Remove those monsters from play.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Shining Darkness

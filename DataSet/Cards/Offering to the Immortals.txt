@@ -1,0 +1,15 @@
+Offering to the Immortals
+Card Type: Trap Card
+
+Description: When your opponent's monster declares a direct attack while you have 3000 or less LP: Negate the attack, and if you do, Special Summon 2 "Ceremonial Tokens" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0), and if you do that, add 1 "Earthbound Immortal" card, "Earthbound Revival", or "Roar of the Earthbound" from your Deck to your hand. "Ceremonial Tokens" cannot be Tributed, except for a Tribute Summon of an "Earthbound Immortal" monster, and cannot be used as Synchro Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 3

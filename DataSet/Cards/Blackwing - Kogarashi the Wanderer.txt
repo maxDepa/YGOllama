@@ -1,0 +1,15 @@
+Blackwing - Kogarashi the Wanderer
+Card Type: Tuner Monster
+
+Description: When a face-up "Blackwing" monster you control is destroyed by a card effect and sent to the Graveyard (except during the Damage Step): You can Special Summon this card from your hand. When a monster is Synchro Summoned using this card as a Synchro Material, the opponent of this card's owner cannot activate cards or effects.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1600
+Archetype: Blackwing
+Present in Sets:
+- Extreme Victory
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

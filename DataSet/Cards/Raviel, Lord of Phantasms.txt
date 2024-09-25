@@ -1,0 +1,22 @@
+Raviel, Lord of Phantasms
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. If your opponent Normal Summons a monster(s): Special Summon 1 "Phantasm Token" (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned, but it cannot declare an attack. Once per turn: You can Tribute 1 monster; this card gains ATK equal to the original ATK of the Tributed monster until the end of this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Sacred Beast
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Collectible Tins 2006 Wave 1
+- Dark Revelation Volume 4
+- Duelist Saga
+- Legendary Collection 2: The Duel Academy Years
+- Shadow of Infinity
+- Shadow of Infinity
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Sacred Beasts

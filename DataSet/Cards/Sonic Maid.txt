@@ -1,0 +1,13 @@
+Sonic Maid
+Card Type: Normal Monster
+
+Description: A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

@@ -1,0 +1,17 @@
+Surprise Chain
+Card Type: Spell Card
+
+Description: Activate only as Chain Link 2 or higher; apply the following effects, depending on the Chain Link number of this card, in sequence (skip over any that do not apply). You cannot activate this card if multiple cards/effects with the same name are in that Chain.
+● 2+: Excavate the top cards of your Deck, equal to the Chain Link number of this card, then place them on the top of your Deck in any order.
+● 3+: Send the top card of your Deck to the GY.
+● 4+: Draw 1 card.
+You can only activate 1 "Surprise Chain" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dimension Force

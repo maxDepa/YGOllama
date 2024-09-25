@@ -1,0 +1,16 @@
+Full-Armored Xyz
+Card Type: Trap Card
+
+Description: If an Xyz Monster(s) is on the field: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control. You can banish this card from your GY, then target 1 Xyz Monster you control; equip 1 other Xyz Monster from your face-up field or GY to that monster as an Equip Spell with the following effects.
+● The equipped monster gains ATK equal to this card's ATK.
+● If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Xyz
+Present in Sets:
+- Age of Overlord
+- OTS Tournament Pack 25

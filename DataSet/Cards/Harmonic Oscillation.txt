@@ -1,0 +1,14 @@
+Harmonic Oscillation
+Card Type: Spell Card
+
+Description: If your opponent has 2 cards in their Pendulum Zones: Target those 2 cards; while both targets are in their Pendulum Zones, you can Pendulum Summon using their Pendulum Scales this turn, but only from the Extra Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

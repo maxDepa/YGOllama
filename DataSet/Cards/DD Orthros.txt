@@ -1,0 +1,17 @@
+D/D Orthros
+Card Type: Pendulum Tuner Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 Spell/Trap Card on the field and 1 other "D/D" or "Dark Contract" card you control; destroy them.
+
+[ Monster Effect ] 
+When you take battle or effect damage: You can Special Summon this card from your hand. If this card is Special Summoned to your field, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 600
+Defence: 1800
+Archetype: D/D
+Present in Sets:
+- Pendulum Domination Structure Deck

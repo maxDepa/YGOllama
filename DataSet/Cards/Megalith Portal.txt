@@ -1,0 +1,13 @@
+Megalith Portal
+Card Type: Spell Card
+
+Description: The first time each Ritual Summoned monster would be destroyed by battle each turn, it is not destroyed. If a "Megalith" monster is Special Summoned (except during the Damage Step): You can target 1 Ritual Monster in your GY; add it to your hand. You can only use this effect of "Megalith Portal" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Megalith
+Present in Sets:
+- Ignition Assault

@@ -1,0 +1,17 @@
+Speedroid Dominobutterfly
+Card Type: Pendulum Tuner Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except WIND monsters. This effect cannot be negated. You can discard 1 WIND monster, then target 1 of your banished WIND monsters; add it to your hand. You can only use this effect of "Speedroid Dominobutterfly" once per turn.
+
+[ Monster Effect ] 
+Cannot be used as a Synchro Material, except for the Synchro Summon of a WIND Dragon or Machine-Type Synchro Monster. If this card, Special Summoned from the Extra Deck, is used as a Material for a Synchro Summon, banish it.
+
+Type: Machine
+Attribute: WIND
+Level: 2
+Attack: 100
+Defence: 300
+Archetype: roid
+Present in Sets:
+- Duelist Pack: Dimensional Guardians

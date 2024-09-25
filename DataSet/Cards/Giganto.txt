@@ -1,0 +1,13 @@
+Giganto
+Card Type: Normal Monster
+
+Description: A massive steel ball that mows down anything in its path.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1700
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

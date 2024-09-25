@@ -1,0 +1,13 @@
+Gimmick Puppet Gear Changer
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned from the Deck. Once per turn: You can target 1 "Gimmick Puppet" monster you control, except this card; this card's Level becomes the Level of that monster.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Gimmick Puppet
+Present in Sets:
+- Number Hunters

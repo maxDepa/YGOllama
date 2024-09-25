@@ -1,0 +1,17 @@
+Turbo Synchron
+Card Type: Tuner Monster
+
+Description: When this card declares an attack: You can change the attack target to Defense Position. When you take battle damage while this card is attacking: You can Special Summon 1 monster from your hand with ATK less than or equal to the battle damage you took.
+
+Type: Machine
+Attribute: WIND
+Level: 1
+Attack: 100
+Defence: 500
+Archetype: Synchron
+Present in Sets:
+- Crossroads of Chaos
+- Duel Terminal 2
+- Duelist Pack: Yusei
+- Legendary Collection 5D's Mega Pack
+- Synchron Extreme Structure Deck

@@ -1,0 +1,14 @@
+Bujingi Peacock
+Card Type: Effect Monster
+
+Description: During your Main Phase 2: You can send this card from your hand to the Graveyard; add 1 "Bujin" monster from your Deck to your hand. You cannot activate cards or effects the turn you activate this effect, except "Bujin" cards. You can only use the effect of "Bujingi Peacock" once per turn.
+
+Type: Winged Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 700
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

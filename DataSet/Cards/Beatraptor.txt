@@ -1,0 +1,15 @@
+Beatraptor
+Card Type: Effect Monster
+
+Description: Negate the effects of monsters in the Extra Monster Zones while this card is in the Main Monster Zone. When this card is destroyed by battle: You can Special Summon 1 "Beatraptor" from your Deck. You can only use this effect of "Beatraptor" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm Special Edition
+- Rising Rampage

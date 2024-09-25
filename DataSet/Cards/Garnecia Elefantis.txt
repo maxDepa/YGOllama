@@ -1,0 +1,15 @@
+Garnecia Elefantis
+Card Type: Normal Monster
+
+Description: A monster so heavy that each step rocks the earth.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

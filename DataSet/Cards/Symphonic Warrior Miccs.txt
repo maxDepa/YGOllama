@@ -1,0 +1,18 @@
+Symphonic Warrior Miccs
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Unless you have a "Symphonic Warrior" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. Once per turn, during your End Phase: You can target 1 of your banished "Symphonic Warrior" monsters; add it to your hand.
+
+[ Monster Effect ] 
+You can Special Summon this card (from your hand) by removing 3 Symphonic Counters from your field. After you Normal or Special Summon this card, you can Normal Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 2300
+Defence: 1100
+Archetype: Symphonic Warrior
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

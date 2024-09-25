@@ -1,0 +1,13 @@
+Star Pendulumgraph
+Card Type: Spell Card
+
+Description: Your opponent cannot target Spellcaster-Type monsters you control with Spell Cards or effects. If a face-up "Magician" Pendulum Monster Card(s) leaves your Monster Zone or Pendulum Zone: Add 1 "Magician" Pendulum Monster from your Deck to your hand. You can only use this effect of "Star Pendulumgraph" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magician
+Present in Sets:
+- Pendulum Evolution

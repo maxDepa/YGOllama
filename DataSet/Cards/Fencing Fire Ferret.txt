@@ -1,0 +1,19 @@
+Fencing Fire Ferret
+Card Type: Effect Monster
+
+Description: If this card is destroyed and sent to the GY: Target 1 face-up monster your opponent controls; destroy that target, and if you do, inflict 500 damage to your opponent.
+
+Type: Beast
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Judgment of the Light
+- Master of Pendulum Structure Deck
+- Structure Deck: Fire Kings
+- Structure Deck: Soulburner

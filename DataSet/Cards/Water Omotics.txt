@@ -1,0 +1,15 @@
+Water Omotics
+Card Type: Normal Monster
+
+Description: Transforms the water overflowing from a jar into attacking dragons.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

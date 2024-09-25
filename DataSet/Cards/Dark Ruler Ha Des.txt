@@ -1,0 +1,25 @@
+Dark Ruler Ha Des
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2450
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game Five
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Master Collection Volume 1
+- Retro Pack 2
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3
+- The Lost Art Promotion (series)
+- The Lost Art Promotion J

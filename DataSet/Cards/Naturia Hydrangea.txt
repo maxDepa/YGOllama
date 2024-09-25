@@ -1,0 +1,16 @@
+Naturia Hydrangea
+Card Type: Effect Monster
+
+Description: If the effect of a "Naturia" monster you control was activated during this turn, you can Special Summon this card from your hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 5
+Attack: 1900
+Defence: 2000
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

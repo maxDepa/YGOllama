@@ -1,0 +1,14 @@
+Ultimate Slayer
+Card Type: Spell Card
+
+Description: Your opponent cannot activate monster effects in response to this card's activation. Send 1 monster from your Extra Deck to the GY, then target 1 monster your opponent controls with the same card type (Fusion, Synchro, Xyz, Pendulum, or Link); shuffle it into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Power of the Elements
+- Power of the Elements

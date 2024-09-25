@@ -1,0 +1,13 @@
+Trickstar Magical Laurel
+Card Type: Spell Card
+
+Description: Activate this card by targeting 1 "Trickstar" monster in your GY; Special Summon it and equip it with this card. When this card leaves the field, destroy that monster. Once per turn, if the equipped monster inflicts battle or effect damage to your opponent: You can Special Summon 1 "Trickstar" monster from your hand. You can only activate 1 "Trickstar Magical Laurel" per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trickstar
+Present in Sets:
+- Duel Power

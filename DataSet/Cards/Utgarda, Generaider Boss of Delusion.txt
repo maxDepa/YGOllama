@@ -1,0 +1,13 @@
+Utgarda, Generaider Boss of Delusion
+Card Type: Effect Monster
+
+Description: You can only control 1 "Utgarda, Generaider Boss of Delusion". (Quick Effect): You can Tribute 2 "Generaider" monsters and/or Rock monsters, then target 1 card on the field; banish it. You can only use this effect of "Utgarda, Generaider Boss of Delusion" once per turn.
+
+Type: Rock
+Attribute: LIGHT
+Level: 9
+Attack: 2200
+Defence: 2700
+Archetype: Generaider
+Present in Sets:
+- Ignition Assault

@@ -1,0 +1,14 @@
+Gemini Trap Hole
+Card Type: Trap Card
+
+Description: Activate only when a Gemini monster that is treated as an Effect Monster is destroyed by battle. Destroy all monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Phantom Darkness
+- Warriors' Strike Structure Deck

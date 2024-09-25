@@ -1,0 +1,17 @@
+Kasha
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.
+
+Type: Zombie
+Attribute: EARTH
+Level: 8
+Attack: -1
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Duelist League 16 participation cards
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Structure Deck: Zombie Horde

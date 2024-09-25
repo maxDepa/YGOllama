@@ -1,0 +1,17 @@
+World Legacy Monstrosity
+Card Type: Spell Card
+
+Description: Activate 1 of these effects.
+● Special Summon 1 Level 9 monster from your hand.
+● Target 1 Level 9 monster you control; Special Summon from your Deck, 2 Level 9 monsters each with different original Type and Attribute from that face-up targeted monster, and with different names from each other, but these 2 monsters cannot attack, also destroy them during the End Phase.
+You can only activate 1 "World Legacy Monstrosity" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: World Legacy
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

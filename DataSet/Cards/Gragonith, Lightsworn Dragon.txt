@@ -1,0 +1,15 @@
+Gragonith, Lightsworn Dragon
+Card Type: Effect Monster
+
+Description: This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2000
+Defence: 1600
+Archetype: Lightsworn
+Present in Sets:
+- Dragons Collide Structure Deck
+- Light of Destruction
+- Realm of Light Structure Deck

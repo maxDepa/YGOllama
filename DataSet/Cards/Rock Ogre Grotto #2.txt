@@ -1,0 +1,12 @@
+Rock Ogre Grotto #2
+Card Type: Normal Monster
+
+Description: A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 1400
+Archetype: //
+Present in Sets:

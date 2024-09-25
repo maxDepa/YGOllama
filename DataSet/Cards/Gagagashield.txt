@@ -1,0 +1,15 @@
+Gagagashield
+Card Type: Trap Card
+
+Description: Target 1 Spellcaster monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gagaga
+Present in Sets:
+- Structure Deck: Order of the Spellcasters
+- Super Starter: V for Victory
+- Zexal Collection Tin

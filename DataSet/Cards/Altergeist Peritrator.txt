@@ -1,0 +1,13 @@
+Altergeist Peritrator
+Card Type: Effect Monster
+
+Description: This card can attack directly. You can only use each of the following effects of "Altergeist Peritrator" once per turn. When this card inflicts battle damage to your opponent: You can draw 1 card. If this card is sent from the field to the GY: You can send 1 "Altergeist" card from your hand, Deck, or face-up field to the GY, except "Altergeist Peritrator".
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 1
+Attack: 500
+Defence: 300
+Archetype: Altergeist
+Present in Sets:
+- Duelist Nexus

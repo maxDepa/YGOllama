@@ -1,0 +1,16 @@
+Greed Jar
+Card Type: Flip Effect Monster
+
+Description: FLIP: Apply these effects in sequence.
+● Excavate any number of cards from the top of your Deck, up to the number of cards your opponent controls, and if you do, add 1 of them to your hand, also send the remaining to the GY.
+● Send monsters from your Extra Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.
+You can only use this effect of "Greed Jar" once per turn.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 800
+Archetype: Jar
+Present in Sets:
+- Duelist Nexus

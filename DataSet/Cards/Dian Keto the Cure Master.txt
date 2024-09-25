@@ -1,0 +1,17 @@
+Dian Keto the Cure Master
+Card Type: Spell Card
+
+Description: Increase your Life Points by 1000 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starter Deck: Joey
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution

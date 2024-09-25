@@ -1,0 +1,16 @@
+Dragon Ice
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand or Graveyard. There can only be 1 "Dragon Ice" on the field.
+
+Type: Dragon
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Gladiator's Assault

@@ -1,0 +1,17 @@
+Safe Zone
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be destroyed by battle or your opponent's card effects, your opponent cannot target it with card effects, also it cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Eight
+- Extreme Victory
+- Structure Deck: Powercode Link
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

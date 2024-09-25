@@ -1,0 +1,14 @@
+Shield Handler
+Card Type: Trap Card
+
+Description: When a card or effect is activated that would destroy a monster on the field (except during the Damage Step): Target 1 Link Monster on each field; negate the effects of your opponent's targeted monster, and if you do, equip this card to your targeted monster. The equipped monster cannot be destroyed by card effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

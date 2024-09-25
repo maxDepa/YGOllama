@@ -1,0 +1,12 @@
+Steam Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Blackwing - Steam the Cloak".
+
+Type: Aqua
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:

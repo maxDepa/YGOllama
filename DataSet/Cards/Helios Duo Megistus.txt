@@ -1,0 +1,15 @@
+Helios Duo Megistus
+Card Type: Effect Monster
+
+Description: You can Special Summon this card by Tributing 1 "Helios - The Primordial Sun". This card's ATK and DEF are equal to the number of removed from play monsters x 200. If this card is destroyed by battle and sent to the Graveyard, Special Summon it during the End Phase, and it gains 300 ATK and DEF.
+
+Type: Pyro
+Attribute: LIGHT
+Level: 6
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Six
+- Speed Duel GX: Duelists of Shadows
+- Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards

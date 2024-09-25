@@ -1,0 +1,16 @@
+Golden Flying Fish
+Card Type: Effect Monster
+
+Description: You can Tribute 1 other Fish-Type monster, then target 1 card on the field; destroy that target.
+
+Type: Fish
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Phantom Darkness
+- Turbo Pack: Booster One

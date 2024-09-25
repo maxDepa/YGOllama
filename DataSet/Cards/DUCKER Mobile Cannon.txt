@@ -1,0 +1,18 @@
+DUCKER Mobile Cannon
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 Level 4 monster in your Graveyard; add that target to your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Light of Destruction
+- Saber Force Starter Deck
+- Speed Duel: Battle City Box

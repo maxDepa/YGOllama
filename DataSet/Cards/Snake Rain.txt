@@ -1,0 +1,15 @@
+Snake Rain
+Card Type: Spell Card
+
+Description: Discard 1 card. Select 4 Reptile-Type monsters from your Deck and send them to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Ancient Guardians
+- Tactical Evolution

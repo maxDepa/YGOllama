@@ -1,0 +1,15 @@
+Bujingi Turtle
+Card Type: Effect Monster
+
+Description: During either player's turn, when a card or effect is activated that targets a "Bujin" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Astral Pack Five
+- Judgment of the Light

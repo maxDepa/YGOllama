@@ -1,0 +1,14 @@
+Gladiator Beast Torax
+Card Type: Effect Monster
+
+Description: If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase that this card attacked or was attacked, you can return it to the Deck to draw 1 card.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1400
+Defence: 400
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault
+- Gladiator's Assault

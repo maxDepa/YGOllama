@@ -1,0 +1,13 @@
+Magical Musket - Last Stand
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell/Trap Card while you control a "Magical Musket" monster: Negate the activation, and if you do, destroy that card. You can only activate 1 "Magical Musket - Last Stand" per turn.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magical Musket
+Present in Sets:
+- Spirit Warriors

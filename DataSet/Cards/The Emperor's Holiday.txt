@@ -1,0 +1,17 @@
+The Emperor's Holiday
+Card Type: Trap Card
+
+Description: Negate all Equip Card effects on the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Turbo Pack: Booster Eight

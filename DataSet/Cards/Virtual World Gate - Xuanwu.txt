@@ -1,0 +1,14 @@
+Virtual World Gate - Xuanwu
+Card Type: Trap Card
+
+Description: During the Battle Phase, if you control another "Virtual World Gate" card: You can target 1 face-up monster on the field; change its battle position. During your Main Phase: You can banish this card from your GY, then target 1 "Virtual World" monster in your GY; Special Summon it, but negate its effects, then send 1 card from your hand to the GY. You can only use each effect of "Virtual World Gate - Xuanwu" once per turn. You can only activate 1 "Virtual World Gate - Xuanwu" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Virtual World
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

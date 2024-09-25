@@ -1,0 +1,13 @@
+Ghost Lancer, the Underworld Spearman
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). Cannot be destroyed by battle, except with monsters Special Summoned from the Extra Deck. If this card attacks a Defense Position monster, inflict piercing battle damage.
+
+Type: Zombie
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 0
+Archetype: Underworld
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

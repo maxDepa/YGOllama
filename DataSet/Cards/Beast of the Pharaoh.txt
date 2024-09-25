@@ -1,0 +1,15 @@
+Beast of the Pharaoh
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY for a Synchro Summon: You can target 1 Level 4 or lower Zombie monster in your GY; Special Summon that target.
+
+Type: Zombie
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 600
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 3
+- Structure Deck: Zombie Horde
+- The Duelist Genesis

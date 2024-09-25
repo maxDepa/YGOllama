@@ -1,0 +1,14 @@
+Magical Cylinders
+Card Type: Trap Card
+
+Description: Set 1 "Magic Cylinder" directly from your Deck or GY. If Set from the Deck, it can be activated this turn. When you activate "Magic Cylinder": You can banish this card from your GY; double that damage inflicted to your opponent. You can only use this effect of "Magical Cylinders" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

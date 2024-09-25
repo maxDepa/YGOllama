@@ -1,0 +1,14 @@
+Jenis, Lightsworn Mender
+Card Type: Effect Monster
+
+Description: During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a "Lightsworn" card this turn: Inflict 500 damage to your opponent, and if you do, gain 500 LP.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 300
+Defence: 2100
+Archetype: Lightsworn
+Present in Sets:
+- Astral Pack Five
+- The Duelist Genesis

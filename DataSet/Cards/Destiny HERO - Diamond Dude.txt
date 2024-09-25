@@ -1,0 +1,23 @@
+Destiny HERO - Diamond Dude
+Card Type: Effect Monster
+
+Description: Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: Destiny HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Destiny Soldiers
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 5
+- Turbo Pack: Booster Three

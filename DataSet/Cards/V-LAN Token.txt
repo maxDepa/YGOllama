@@ -1,0 +1,12 @@
+V-LAN Token
+Card Type: Token
+
+Description: Special Summoned by the effect of "V-LAN Hydra".
+
+Type: Cyberse
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

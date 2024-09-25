@@ -1,0 +1,19 @@
+Evil HERO Dark Gaia
+Card Type: Fusion Monster
+
+Description: 1 Fiend-Type monster + 1 Rock-Type monster
+Must be Special Summoned with "Dark Fusion" and cannot be Special Summoned by other ways. The original ATK of this card is equal to the combined original ATK of the Fusion Material Monsters used to Fusion Summon it. When this card declares an attack: You can change all Defense Position monsters your opponent controls to face-up Attack Position. (Flip Effects are not activated at this time.)
+
+Type: Fiend
+Attribute: EARTH
+Level: 8
+Attack: -1
+Defence: 0
+Archetype: Evil HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 6

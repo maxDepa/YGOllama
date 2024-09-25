@@ -1,0 +1,15 @@
+Newbee!
+Card Type: Effect Monster
+
+Description: If you have a monster with 0 ATK/DEF in your GY, you can Special Summon this card (from your hand). You can only Special Summon "Newbee!" once per turn this way. If this card is Special Summoned from the hand: You can apply any of these effects, in sequence.
+● Add 1 LIGHT Insect monster from your GY to your hand, except "Newbee!".
+● Place 1 Trap from your GY or banishment on the top or bottom of your Deck.
+You can only use this effect of "Newbee!" once per turn.
+
+Type: Insect
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

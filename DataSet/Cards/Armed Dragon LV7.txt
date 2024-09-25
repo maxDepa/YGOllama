@@ -1,0 +1,23 @@
+Armed Dragon LV7
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by "Armed Dragon LV5". You can send 1 monster from your hand to the GY; destroy all monsters your opponent controls with ATK less than or equal to that sent monster's ATK.
+
+Type: Dragon
+Attribute: WIND
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: Armed Dragon
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist Pack: Chazz Princeton
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Ancient Millennium
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Soul of the Duelist
+- Soul of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Deluxe Edition

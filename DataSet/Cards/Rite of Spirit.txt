@@ -1,0 +1,17 @@
+Rite of Spirit
+Card Type: Trap Card
+
+Description: Target 1 "Gravekeeper's" monster in your GY; Special Summon that target. This card's activation and effect are unaffected by "Necrovalley".
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist League 2 participation cards
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Destiny Masters

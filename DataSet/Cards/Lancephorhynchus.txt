@@ -1,0 +1,21 @@
+Lancephorhynchus
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+If a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+[ Monster Effect ] 
+''This primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.''
+
+Type: Dinosaur
+Attribute: WIND
+Level: 6
+Attack: 2500
+Defence: 800
+Archetype: //
+Present in Sets:
+- Advanced Demo Deck Extra Pack
+- Demo Deck 2016
+- The New Challengers
+- The New Challengers Sneak Peek Participation Card
+- The New Challengers: Super Edition

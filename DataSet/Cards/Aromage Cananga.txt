@@ -1,0 +1,14 @@
+Aromage Cananga
+Card Type: Effect Monster
+
+Description: While your LP is higher than your opponent's, face-up monsters your opponent controls lose 500 ATK and DEF. Once per turn, if you gain LP: Target 1 Spell/Trap Card your opponent controls; return it to the hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 1400
+Defence: 1000
+Archetype: Aroma
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

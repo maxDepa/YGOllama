@@ -1,0 +1,20 @@
+Banisher of the Radiance
+Card Type: Effect Monster
+
+Description: Any card sent to the Graveyard is banished instead.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 6
+- Speed Duel: Battle City Box
+- The Dark Emperor Structure Deck

@@ -1,0 +1,13 @@
+Attack Gainer
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard as a Synchro Material Monster, select 1 face-up monster your opponent controls. The selected opponent's monster loses 1000 ATK until the End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Starstrike Blast

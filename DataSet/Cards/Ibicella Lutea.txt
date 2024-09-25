@@ -1,0 +1,15 @@
+Ibicella Lutea
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle while you control another monster. Neither player can target face-up Spells/Traps you control with card effects.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault
+- Valiant Smashers

@@ -1,0 +1,16 @@
+Dark Strike Fighter
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+During your Main Phase 1: You can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster's Level on the field x 200. You can only use this effect of "Dark Strike Fighter" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 18 (POR)

@@ -1,0 +1,13 @@
+Delicious Morsel!
+Card Type: Skill Card
+
+Description: During the End Phase, if a Zombie "Vampire" monster you control inflicted battle damage to your opponent this turn, gain LP equal to half the total battle damage your monsters inflicted to your opponent this turn.
+
+Type: Camula
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

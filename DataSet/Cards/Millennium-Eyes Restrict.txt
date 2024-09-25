@@ -1,0 +1,17 @@
+Millennium-Eyes Restrict
+Card Type: Fusion Monster
+
+Description: "Relinquished" + 1 Effect Monster
+Once per turn, when your opponent activates a monster effect (Quick Effect): You can target 1 Effect Monster your opponent controls or in their GY; equip that target to this card you control. This card gains ATK/DEF equal to that equipped monster's. Monsters with that equipped monster's name cannot attack, also their effects on the field and their activated effects are negated.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Eyes Restrict
+Present in Sets:
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Magnificent Mavens
+- Magnificent Mavens

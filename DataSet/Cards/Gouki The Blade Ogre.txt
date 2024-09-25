@@ -1,0 +1,14 @@
+Gouki The Blade Ogre
+Card Type: Link Monster
+
+Description: 2+ "Gouki" monsters
+Gains 300 ATK for each monster it points to. Once per turn: You can Tribute 1 monster this card points to on either field; this card can make a second attack during each Battle Phase this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 2400
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- Dark Neostorm

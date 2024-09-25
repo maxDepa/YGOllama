@@ -1,0 +1,22 @@
+Quickdraw Synchron
+Card Type: Tuner Monster
+
+Description: You can Special Summon this card (from your hand) by sending 1 monster from your hand to the GY. For a Synchro Summon, you can substitute this card for any 1 "Synchron" Tuner. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that lists a "Synchron" Tuner as material.
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 700
+Defence: 1400
+Archetype: Synchron
+Present in Sets:
+- Duel Terminal 6b
+- Duelist League 17 participation cards
+- Duelist Pack: Yusei 2
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Stardust Overdrive
+- Starter Deck: Duelist Toolbox
+- Synchron Extreme Structure Deck
+- Turbo Pack: Booster Six

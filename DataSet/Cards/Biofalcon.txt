@@ -1,0 +1,13 @@
+Biofalcon
+Card Type: Effect Monster
+
+Description: When a Machine-Type monster you control is destroyed by battle and sent to the Graveyard while this card is face-up on the field, you can add 1 Machine-Type monster with 1000 or less ATK from your Deck to your hand.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- The Shining Darkness

@@ -1,0 +1,15 @@
+CXyz Mechquipped Djinn Angeneral
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+When this card is Xyz Summoned: You can target 1 Defense Position monster on the field; change that target to face-up Attack Position. If this card has "Mechquipped Angineer" as an Xyz Material, it gains this effect.
+● When this card inflicts battle damage to your opponent: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 2600
+Defence: 1600
+Archetype: Djinn
+Present in Sets:
+- Number Hunters

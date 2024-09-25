@@ -1,0 +1,14 @@
+Gravekeeper's Spiritualist
+Card Type: Effect Monster
+
+Description: During your Main Phase, if "Necrovalley" is on the field: You can Fusion Summon 1 Spellcaster Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material. You can only use this effect of "Gravekeeper's Spiritualist" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

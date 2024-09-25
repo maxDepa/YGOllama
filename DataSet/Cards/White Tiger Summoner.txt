@@ -1,0 +1,13 @@
+White Tiger Summoner
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand. All monsters you control gain 100 ATK and DEF.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Super Starter: Space-Time Showdown

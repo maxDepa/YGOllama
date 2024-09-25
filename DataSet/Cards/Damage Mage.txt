@@ -1,0 +1,13 @@
+Damage Mage
+Card Type: Effect Monster
+
+Description: When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Return of the Duelist

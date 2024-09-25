@@ -1,0 +1,13 @@
+Shiranui Spectralsword Shade
+Card Type: Tuner Monster
+
+Description: You can Tribute this card, then target 2 of your banished Zombie monsters, except "Shiranui Spectralsword Shade", including a "Shiranui" monster; Special Summon them in Defense Position, but negate their effects, also, you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can only use this effect of "Shiranui Spectralsword Shade" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- Savage Strike

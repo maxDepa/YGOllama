@@ -1,0 +1,13 @@
+Apoqliphort Towers
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Requires 3 "Qli" Tributes to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card's current Level. All Special Summoned monsters lose 500 ATK and DEF. Once per turn: You can make your opponent send 1 monster from their hand or their side of the field to the Graveyard (their choice).
+
+Type: Machine
+Attribute: EARTH
+Level: 10
+Attack: 3000
+Defence: 2600
+Archetype: Apoqliphort
+Present in Sets:
+- The New Challengers

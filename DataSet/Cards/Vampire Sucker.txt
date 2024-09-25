@@ -1,0 +1,18 @@
+Vampire Sucker
+Card Type: Link Monster
+
+Description: 2 Zombie monsters
+If you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of "Vampire Sucker" once per turn.
+● You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.
+● If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.
+
+Type: Zombie
+Attribute: DARK
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: Vampire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction
+- Ghosts From the Past: The 2nd Haunting

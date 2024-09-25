@@ -1,0 +1,14 @@
+Bonfire Colossus
+Card Type: Effect Monster
+
+Description: If you control a FIRE monster, you can Special Summon this card (from your hand). When this card is Special Summoned: Target 2 FIRE monsters you control; destroy those targets.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2600
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Cosmo Blazer
+- Structure Deck: Fire Kings

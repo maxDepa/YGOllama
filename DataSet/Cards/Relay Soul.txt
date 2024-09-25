@@ -1,0 +1,15 @@
+Relay Soul
+Card Type: Trap Card
+
+Description: Special Summon 1 monster from your hand. While it is face-up on your side of the field, you take no damage. When it leaves the field, your opponent wins the Duel.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

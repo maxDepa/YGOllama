@@ -1,0 +1,13 @@
+Drill Barnacle
+Card Type: Effect Monster
+
+Description: This card can attack your opponent directly. Each time this card inflicts Battle Damage to your opponent by a direct attack: This card gains 1000 ATK.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 300
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

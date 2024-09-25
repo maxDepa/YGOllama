@@ -1,0 +1,16 @@
+Performapal Turn Trooper
+Card Type: Effect Monster
+
+Description: At the start of your Battle Phase: You can place 1 counter on this card (max. 2). This card gains the following effect, based on the number of counters on it.
+● 1: Once per turn, when an opponent's monster declares an attack: You can negate that attack.
+● 2: You can Tribute this card; banish all monsters on the field, until your opponent's 2nd End Phase.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: Performapal
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

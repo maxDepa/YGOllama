@@ -1,0 +1,12 @@
+Allure Dance
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Allure Queen" monster or 1 "Allure Palace" from your Deck to your hand. Each "Allure Queen" monster you control gains ATK equal to the ATK of the monsters equipped to it by its own effect. You can send 1 other Spell/Trap you control to the GY; Special Summon as many "Allure Queen" monsters with different names as possible from your GY. You can only use this effect of "Allure Dance" once per turn. You can only activate 1 "Allure Dance" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

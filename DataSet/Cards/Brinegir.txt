@@ -1,0 +1,13 @@
+Brinegir
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 WATER monster in your GY; this card gains ATK equal to that monster's ATK until the end of this turn. If this card is sent to the GY: You can target 1 WATER monster you control; it gains 1000 ATK until the end of this turn. You can only use each effect of "Brinegir" once per turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 7
+Attack: 1000
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Chaos Impact

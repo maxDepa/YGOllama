@@ -1,0 +1,14 @@
+Meklord Factory
+Card Type: Trap Card
+
+Description: When a "Meklord" monster on the field is targeted for an attack: Target 1 "Meklord Army" monster in your Graveyard; add that target to your hand, then destroy the attack target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

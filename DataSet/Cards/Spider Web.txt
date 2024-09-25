@@ -1,0 +1,13 @@
+Spider Web
+Card Type: Spell Card
+
+Description: If a monster declares an attack, it is changed to Defense Position at the end of the Damage Step. It cannot change its battle position until the End Phase of its controller's next turn, while this card remains on the field.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

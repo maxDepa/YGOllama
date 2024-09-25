@@ -1,0 +1,15 @@
+Nephe Shaddoll Fusion
+Card Type: Spell Card
+
+Description: Activate this card by declaring 1 Attribute. Equip only to a "Shaddoll" monster, and it becomes that Attribute. During your Main Phase: You can Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, including the equipped monster. You can only use this effect of "Nephe Shaddoll Fusion" once per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Structure Deck: Shaddoll Showdown

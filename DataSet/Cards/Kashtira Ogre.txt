@@ -1,0 +1,14 @@
+Kashtira Ogre
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). You can only use each of the following effects of "Kashtira Ogre" once per turn. During your Main Phase: You can add 1 "Kashtira" Trap from your Deck to your hand. When this card declares an attack, or if your opponent activates a monster effect (except during the Damage Step): You can excavate up to 5 cards from the top of your opponent's Deck, banish 1 excavated card, face-down, and place the rest on the top of the Deck in the same order.
+
+Type: Psychic
+Attribute: WATER
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: Kashtira
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

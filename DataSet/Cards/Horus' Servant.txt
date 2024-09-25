@@ -1,0 +1,15 @@
+Horus' Servant
+Card Type: Effect Monster
+
+Description: Your opponent cannot target face-up "Horus the Black Flame Dragon" monsters with Spells, Traps, or card effects.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Horus the Black Flame Dragon
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 3: Yugi's World Mega Pack
+- Soul of the Duelist

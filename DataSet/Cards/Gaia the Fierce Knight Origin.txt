@@ -1,0 +1,15 @@
+Gaia the Fierce Knight Origin
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of a Warrior monster. You can only use each of the following effects of "Gaia the Fierce Knight Origin" once per turn. You can send 1 Level 5 or higher monster from your hand to the GY; Special Summon this card from your hand. During the Battle Phase (Quick Effect): You can banish this card from your GY, then target 1 monster on the field whose current ATK is different from its original ATK; its ATK becomes its original ATK.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist
+- Rise of the Duelist Premiere! promotional card

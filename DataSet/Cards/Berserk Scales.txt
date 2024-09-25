@@ -1,0 +1,16 @@
+Berserk Scales
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control (except a monster that is attacking directly); it gains 1000 ATK, also it cannot attack your opponent directly for the rest of this turn. During the End Phase of this turn, it loses 2000 ATK.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Speed Duel GX: Duel Academy Box
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

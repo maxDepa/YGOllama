@@ -1,0 +1,12 @@
+Time Dimension Hole
+Card Type: Trap Card
+
+Description: Shuffle your Deck, then excavate the top card of your Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it. If it wasn't a monster, or couldn't be Special Summoned, place it on the top or bottom of the Deck. You can only activate 1 "Time Dimension Hole" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:

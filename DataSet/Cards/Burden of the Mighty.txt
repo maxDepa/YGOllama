@@ -1,0 +1,22 @@
+Burden of the Mighty
+Card Type: Spell Card
+
+Description: Each face-up monster your opponent controls loses 100 ATK x its own Level.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Onslaught of the Fire Kings Structure Deck
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yuya
+- Warriors' Strike Structure Deck
+- Yu-Gi-Oh! World Championship 2008 promotional cards

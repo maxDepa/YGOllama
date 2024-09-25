@@ -1,0 +1,17 @@
+Disappear
+Card Type: Trap Card
+
+Description: Remove from play 1 card from your opponent's Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Legacy of Darkness
+- Starter Deck: Yugi Evolution

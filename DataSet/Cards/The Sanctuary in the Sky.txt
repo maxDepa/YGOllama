@@ -1,0 +1,17 @@
+The Sanctuary in the Sky
+Card Type: Spell Card
+
+Description: Battle damage to the controller of a Fairy monster from a battle involving that monster becomes 0.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: The Agent
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Ghosts From the Past: The 2nd Haunting
+- Lost Sanctuary Structure Deck
+- Structure Deck: Wave of Light

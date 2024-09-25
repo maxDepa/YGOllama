@@ -1,0 +1,23 @@
+Fighting Spirit
+Card Type: Spell Card
+
+Description: The equipped monster gains 300 ATK for each monster your opponent controls. If it would be destroyed by battle, you can destroy this card instead.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duelist Pack: Yusei
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Scars of Battle
+- The Duelist Genesis

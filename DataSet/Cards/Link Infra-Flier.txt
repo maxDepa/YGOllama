@@ -1,0 +1,14 @@
+Link Infra-Flier
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) to your zone a Link Monster points to. You can only Special Summon "Link Infra-Flier" once per turn this way.
+
+Type: Cyberse
+Attribute: WIND
+Level: 2
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break

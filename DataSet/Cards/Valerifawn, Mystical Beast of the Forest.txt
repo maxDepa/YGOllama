@@ -1,0 +1,16 @@
+Valerifawn, Mystical Beast of the Forest
+Card Type: Tuner Monster
+
+Description: You can discard 1 card, then target 1 Level 2 or lower Beast monster in your GY, except "Valerifawn, Mystical Beast of the Forest"; Special Summon it in Attack Position or face-down Defense Position. You can only use this effect of "Valerifawn, Mystical Beast of the Forest" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 900
+Archetype: Mystical Beast of the Forest
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- The New Challengers
+- Yu-Gi-Oh! Advent Calendar (2018)

@@ -1,0 +1,18 @@
+Summoner of Illusions
+Card Type: Flip Effect Monster
+
+Description: FLIP: Tribute 1 other monster, and if you do, Special Summon 1 Fusion Monster from your Extra Deck, but destroy it during the End Phase of this turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:
+- Fusion Enforcers
+- Gold Series
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 3: Yugi's World Mega Pack

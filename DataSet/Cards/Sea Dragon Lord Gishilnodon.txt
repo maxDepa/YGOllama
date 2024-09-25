@@ -1,0 +1,14 @@
+Sea Dragon Lord Gishilnodon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 Level 3 non-Tuner monster
+When a face-up Level 3 or lower monster on the field is sent to the Graveyard, this card's ATK becomes 3000 until the End Phase of this turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 5
+Attack: 2300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Raging Battle

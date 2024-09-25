@@ -1,0 +1,15 @@
+Scrap Wyvern
+Card Type: Link Monster
+
+Description: 2 monsters, including a "Scrap" monster
+You can target 1 "Scrap" monster in your GY; Special Summon it, then destroy 1 card you control. If another face-up "Scrap" monster is destroyed by card effect, while you control this monster (except during the Damage Step): You can Special Summon 1 "Scrap" monster from your Deck, then destroy 1 card on the field. You can only use each effect of "Scrap Wyvern" once per turn.
+
+Type: Dragon
+Attribute: EARTH
+Level: 0
+Attack: 1700
+Defence: 0
+Archetype: Scrap
+Present in Sets:
+- Chaos Impact Special Edition
+- Maximum Gold: El Dorado

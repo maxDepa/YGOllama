@@ -1,0 +1,13 @@
+Twilight Twin Dragons
+Card Type: Spell Card
+
+Description: If you control "Punishment Dragon": Target 1 "Judgment Dragon" in your GY; add it to your hand, then send the top 4 cards of your Deck to the GY. If this card is sent from the Deck to the GY by a "Lightsworn" monster's effect: You can target 1 "Punishment Dragon" in your GY; add it to your hand, then banish the top 4 cards of your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Code of the Duelist

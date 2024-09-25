@@ -1,0 +1,18 @@
+Kotodama
+Card Type: Effect Monster
+
+Description: If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped face-up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Turbo Pack: Booster Seven

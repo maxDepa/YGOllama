@@ -1,0 +1,14 @@
+Jar Turtle
+Card Type: Effect Monster
+
+Description: Each time "Jar of Greed" is activated, draw 1 card.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 200
+Defence: 2100
+Archetype: Greed
+Present in Sets:
+- Extreme Victory
+- Extreme Victory

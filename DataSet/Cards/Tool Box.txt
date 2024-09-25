@@ -1,0 +1,13 @@
+Tool Box
+Card Type: Spell Card
+
+Description: If you control a monster: You can reveal 2 Equip Spells from your Deck with different names, your opponent randomly picks 1 for you to add to your hand, also place the remaining card on the bottom of your Deck. You can only use this effect of "Tool Box" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge

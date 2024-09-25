@@ -1,0 +1,15 @@
+Reverse Buster
+Card Type: Effect Monster
+
+Description: This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If this card attacked a face-down Defense Position monster, at the start of the Damage Step: You can destroy that face-down monster.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014

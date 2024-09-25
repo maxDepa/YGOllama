@@ -1,0 +1,13 @@
+Big Insect
+Card Type: Normal Monster
+
+Description: A giant ant that dwells in the jungle, it is powerful whether attacking or defending.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators

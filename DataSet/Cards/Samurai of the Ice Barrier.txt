@@ -1,0 +1,18 @@
+Samurai of the Ice Barrier
+Card Type: Effect Monster
+
+Description: When this face-up Attack Position card is changed to face-up Defense Position: Destroy this card, and if you do, draw 1 card.
+
+Type: Warrior
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: Ice Barrier
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

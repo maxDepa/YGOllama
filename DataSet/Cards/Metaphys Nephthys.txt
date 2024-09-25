@@ -1,0 +1,13 @@
+Metaphys Nephthys
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Metaphys" monster: You can banish all Set Spells and Traps on the field. If this card is banished, during the Standby Phase of the next turn: You can shuffle this banished card into the Deck; add 1 "Metaphys" card from your Deck to your hand, except "Metaphys Nephthys".
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 8
+Attack: 2400
+Defence: 1600
+Archetype: Metaphys
+Present in Sets:
+- Circuit Break

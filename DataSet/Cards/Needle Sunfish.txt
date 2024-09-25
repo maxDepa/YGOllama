@@ -1,0 +1,18 @@
+Needle Sunfish
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard: Target 1 face-up monster your opponent controls; that target loses 500 ATK.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1500
+Defence: 100
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Photon Shockwave
+- Speed Duel: Streets of Battle City
+- Star Pack 2013
+- Star Pack 2013

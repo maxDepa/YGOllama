@@ -1,0 +1,13 @@
+Trap Tracks
+Card Type: Trap Card
+
+Description: Target 1 monster you control; destroy it, and if you do, Set 1 Normal Trap directly from your Deck, except "Trap Tracks". It can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 "Trap Tracks" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberstorm Access

@@ -1,0 +1,13 @@
+Solitaire Magician
+Card Type: Effect Monster
+
+Description: Once per turn, you can select 1 face-up "Fortune Lady" monster you control and 1 other face-up monster on the field. Reduce the Level of the selected "Fortune Lady" monster by 3, and destroy the other selected monster.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1300
+Archetype: Fortune Lady
+Present in Sets:
+- Stardust Overdrive

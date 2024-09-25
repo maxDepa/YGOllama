@@ -1,0 +1,17 @@
+Gem-Knight Seraphinite
+Card Type: Fusion Monster
+
+Description: 1 "Gem-Knight" monster + 1 LIGHT monster
+Must first be Fusion Summoned with the above Fusion Materials. During your Main Phase, you can Normal Summon/Set 1 monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Fairy
+Attribute: EARTH
+Level: 5
+Attack: 2300
+Defence: 1400
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars
+- OTS Tournament Pack 6
+- Shadows in Valhalla

@@ -1,0 +1,14 @@
+Nightmell the Dark Bonder
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster; Special Summon from your Deck, 1 monster with the same original Type, Attribute, Level, and ATK/DEF as the Tributed monster, but with a different original name. If you Tributed a monster Special Summoned from the Extra Deck, you can Special Summon a monster from your Extra Deck instead that meets those same criteria. You can only use this effect of "Nightmell the Dark Bonder" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Power of the Elements

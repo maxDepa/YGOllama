@@ -1,0 +1,14 @@
+Allvain the Essence of Vanity
+Card Type: Fusion Monster
+
+Description: 2 Normal Monsters
+
+Type: Fairy
+Attribute: DARK
+Level: 2
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

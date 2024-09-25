@@ -1,0 +1,14 @@
+Noble Knight Joan
+Card Type: Effect Monster
+
+Description: If this card attacks, it loses 300 ATK during the Damage Step only. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can send 1 card from your hand to the Graveyard then target 1 Level 4 or lower Warrior-Type monster in your Graveyard; add that target to your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 1300
+Archetype: Noble Knight
+Present in Sets:
+- Cosmo Blazer
+- Legendary Duelists: Synchro Storm

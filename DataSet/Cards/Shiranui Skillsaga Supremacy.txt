@@ -1,0 +1,14 @@
+Shiranui Skillsaga Supremacy
+Card Type: Link Monster
+
+Description: 2+ Zombie monsters
+Synchro Monsters you control cannot be destroyed by card effects. FIRE monsters you control cannot be destroyed by battle. During your opponent's turn (Quick Effect): You can target 1 of your banished Zombie Synchro Monsters; Special Summon it to your zone this card points to. You can only use this effect of "Shiranui Skillsaga Supremacy" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- Savage Strike

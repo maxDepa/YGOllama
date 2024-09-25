@@ -1,0 +1,13 @@
+Volcanic Recharge
+Card Type: Trap Card
+
+Description: Return up to 3 "Volcanic" Monster Cards from your Graveyard to your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Volcanic
+Present in Sets:
+- Force of the Breaker

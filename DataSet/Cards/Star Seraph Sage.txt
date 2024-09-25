@@ -1,0 +1,13 @@
+Star Seraph Sage
+Card Type: Effect Monster
+
+Description: Once per turn: You can send 1 Spell Card from your hand to the Graveyard; Special Summon 1 "Star Seraph" monster from your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Star Seraph
+Present in Sets:
+- Judgment of the Light

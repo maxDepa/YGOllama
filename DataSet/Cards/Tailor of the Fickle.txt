@@ -1,0 +1,17 @@
+Tailor of the Fickle
+Card Type: Spell Card
+
+Description: Switch 1 Equip Card equipped to a monster to another correct target.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

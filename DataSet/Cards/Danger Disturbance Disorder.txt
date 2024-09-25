@@ -1,0 +1,14 @@
+Danger! Disturbance! Disorder!
+Card Type: Spell Card
+
+Description: When your "Danger!" monster is destroyed by battle with an opponent's monster: You can destroy that opponent's monster. You can banish 3 "Danger!" Spells/Traps with different names from your GY; destroy all cards on the field, also you cannot Special Summon monsters for the rest of this turn, except "Danger!" monsters. You can only use this effect of "Danger! Disturbance! Disorder!" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Danger!
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

@@ -1,0 +1,14 @@
+Forbidden Arts of the Gishki
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any "Gishki" Ritual Monster. You must also Tribute face-up monsters from anywhere on the field, whose total Levels equal the Level of the Ritual Monster you Ritual Summon. Halve the ATK of the monster Ritual Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

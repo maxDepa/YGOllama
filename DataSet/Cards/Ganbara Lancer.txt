@@ -1,0 +1,13 @@
+Ganbara Lancer
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Ganbara Lancer" from your hand or Graveyard in face-up Defense Position.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Super Starter Power-Up Pack

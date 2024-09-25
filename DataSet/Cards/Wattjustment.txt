@@ -1,0 +1,15 @@
+Wattjustment
+Card Type: Spell Card
+
+Description: Equip only to a Level 3 or lower Thunder-Type monster. It gains 800 ATK, also its effects are negated. Each time it inflicts battle damage to your opponent: Draw 1 card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Starstrike Blast

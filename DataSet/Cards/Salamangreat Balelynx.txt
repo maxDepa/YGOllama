@@ -1,0 +1,15 @@
+Salamangreat Balelynx
+Card Type: Link Monster
+
+Description: 1 Level 4 or lower Cyberse monster
+If this card is Link Summoned: You can add 1 "Salamangreat Sanctuary" from your Deck to your hand. If a "Salamangreat" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of "Salamangreat Balelynx" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 0
+Attack: 500
+Defence: 0
+Archetype: Salamangreat
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano
+- Structure Deck: Soulburner

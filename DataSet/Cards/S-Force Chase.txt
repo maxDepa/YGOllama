@@ -1,0 +1,13 @@
+S-Force Chase
+Card Type: Trap Card
+
+Description: Target face-up cards your opponent controls, up to the number of "S-Force" monsters you control with different names; return them to the hand. If a "S-Force" monster you control would banish a card(s) from your hand to activate its effect, you can banish this card from your GY instead. You can only use each effect of "S-Force Chase" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: S-Force
+Present in Sets:
+- Lightning Overdrive

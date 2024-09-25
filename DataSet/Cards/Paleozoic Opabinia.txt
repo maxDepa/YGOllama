@@ -1,0 +1,15 @@
+Paleozoic Opabinia
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters
+This card is unaffected by other monsters' effects. You can activate "Paleozoic" Trap Cards from your hand. If this card has a Trap Card as Xyz Material: You can detach 1 Xyz Material from this card; add 1 "Paleozoic" Trap Card from your Deck to your hand. You can only use this effect of "Paleozoic Opabinia" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 2400
+Archetype: Paleozoic
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

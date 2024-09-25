@@ -1,0 +1,13 @@
+Core Blaster
+Card Type: Spell Card
+
+Description: Equip only to a "Koa'ki Meiru" monster. If it battles a LIGHT or DARK monster, destroy that monster without applying damage calculation. When the equipped monster is removed from the field and this card is sent to the Graveyard, you can return this card to your hand.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Ancient Prophecy

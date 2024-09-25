@@ -1,0 +1,13 @@
+Infernity Knight
+Card Type: Effect Monster
+
+Description: When this card on the field is destroyed and sent to the Graveyard: You can discard 2 cards; Special Summon this card from the Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 400
+Archetype: Infernity
+Present in Sets:
+- Photon Shockwave

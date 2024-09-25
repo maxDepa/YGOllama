@@ -1,0 +1,16 @@
+Waterfall of Dragon Souls
+Card Type: Trap Card
+
+Description: Activate 1 of these effects;
+● Add 1 Wyrm monster from your Deck to your hand.
+● Send any number of Wyrm monsters from your hand and/or face-up from your field to the GY; draw cards equal to the number of monsters you sent to the GY +1.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis

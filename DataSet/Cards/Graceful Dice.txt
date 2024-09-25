@@ -1,0 +1,18 @@
+Graceful Dice
+Card Type: Spell Card
+
+Description: Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Yu-Gi-Oh! The Eternal Duelist Soul promotional cards
+- Yu-Gi-Oh! The Sacred Cards promotional cards

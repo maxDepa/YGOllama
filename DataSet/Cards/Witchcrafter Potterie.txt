@@ -1,0 +1,14 @@
+Witchcrafter Potterie
+Card Type: Effect Monster
+
+Description: During the Main Phase (Quick Effect): You can Tribute this card, then discard 1 Spell; Special Summon 1 "Witchcrafter" monster from your Deck, except "Witchcrafter Potterie". If you have no cards in your hand: You can banish this card from your GY, then target 1 "Witchcrafter" card in your GY; add it to your hand. You can only use each effect of "Witchcrafter Potterie" once per turn.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 2
+Attack: 0
+Defence: 2000
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

@@ -1,0 +1,17 @@
+Performage Trick Clown
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: You can target 1 "Performage" monster in your GY; Special Summon it, but its ATK/DEF become 0, then you take 1000 damage. You can only use this effect of "Performage Trick Clown" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Performage
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Clash of Rebellions
+- Structure Deck: Shaddoll Showdown
+- Valiant Smashers

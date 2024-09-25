@@ -1,0 +1,15 @@
+Flame Armor Ninja
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can target 1 "Ninja" monster you control; increase its Level by 1.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- Star Pack 2013
+- Star Pack 2013

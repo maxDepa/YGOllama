@@ -1,0 +1,13 @@
+Legendary Ebon Steed
+Card Type: Spell Card
+
+Description: Equip only to a "Six Samurai" monster. It gains 200 ATK and DEF. If it would be destroyed, destroy this card instead.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Strike of Neos

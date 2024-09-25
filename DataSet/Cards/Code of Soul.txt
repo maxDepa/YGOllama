@@ -1,0 +1,13 @@
+Code of Soul
+Card Type: Effect Monster
+
+Description: If you control a Link Monster: You can Special Summon this card from your hand. During your Main Phase: You can activate this effect; once this turn, if you Link Summon a "Salamangreat" Link Monster, you can use 1 "Salamangreat" Link Monster you control with its same name as the entire material. During your opponent's Main Phase (Quick Effect): You can banish this card from your GY; immediately after this effect resolves, Link Summon 1 Link-3 or higher Cyberse Link Monster. You can only use each effect of "Code of Soul" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Legacy of Destruction

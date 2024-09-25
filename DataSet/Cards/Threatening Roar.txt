@@ -1,0 +1,29 @@
+Threatening Roar
+Card Type: Trap Card
+
+Description: Your opponent cannot declare an attack this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Champion Pack: Game One
+- Champion Pack: Game Seven
+- Dark Revelation Volume 3
+- Demo Deck 2015
+- Demo Pack
+- Duel Terminal 3
+- Duelist League 2010 participation cards
+- Flaming Eternity
+- Legendary Collection 3: Yugi's World Mega Pack
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Syrus Truesdale
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Starter Deck: Yuya
+- Structure Deck: Soulburner

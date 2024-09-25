@@ -1,0 +1,13 @@
+Rikka Tranquility
+Card Type: Trap Card
+
+Description: When you activate this card, you can also Tribute 1 Plant monster; Special Summon 1 "Rikka" monster from your GY in Defense Position, then, if you Tributed a monster when you activated this card, Special Summon 1 Plant monster from your GY in Defense Position. You can only activate 1 "Rikka Tranquility" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rikka
+Present in Sets:
+- Secret Slayers

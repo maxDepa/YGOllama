@@ -1,0 +1,13 @@
+Deepsea Macrotrema
+Card Type: Effect Monster
+
+Description: When this card is sent from the field to the Graveyard, all face-up WATER monsters you control gain 500 ATK until the end of this turn.
+
+Type: Fish
+Attribute: WATER
+Level: 1
+Attack: 600
+Defence: 100
+Archetype: //
+Present in Sets:
+- Phantom Darkness

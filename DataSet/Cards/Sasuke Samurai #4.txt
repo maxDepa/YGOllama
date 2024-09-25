@@ -1,0 +1,15 @@
+Sasuke Samurai #4
+Card Type: Effect Monster
+
+Description: If this card battles a monster, toss a coin and call heads or tails before damage calculation. If you call it right, destroy the opponent's monster with this effect.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

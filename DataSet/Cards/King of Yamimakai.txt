@@ -1,0 +1,16 @@
+King of Yamimakai
+Card Type: Normal Monster
+
+Description: Wields the power of darkness to destroy its enemies.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1530
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

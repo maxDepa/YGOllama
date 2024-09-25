@@ -1,0 +1,20 @@
+Goddess with the Third Eye
+Card Type: Effect Monster
+
+Description: You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Gold Series 4: Pyramids Edition
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Midterm Paradox
+- Speed Duel Tournament Pack 5
+- Tournament Pack 5
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

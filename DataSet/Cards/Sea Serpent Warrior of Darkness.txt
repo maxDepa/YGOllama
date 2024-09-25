@@ -1,0 +1,16 @@
+Sea Serpent Warrior of Darkness
+Card Type: Normal Monster
+
+Description: A warrior who defends the world of the Sea of Darkness. He prides himself on his fighting prowess both on the ground and, of course, in the water.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Structure Deck: Fury from the Deep

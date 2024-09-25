@@ -1,0 +1,16 @@
+Flint
+Card Type: Spell Card
+
+Description: The equipped monster loses 300 ATK and cannot change its battle position or declare an attack. If this card is destroyed because the equipped monster is destroyed: Target 1 monster on the field; equip this card to that monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- Speed Duel: Trials of the Kingdom

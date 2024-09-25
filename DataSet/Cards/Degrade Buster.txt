@@ -1,0 +1,13 @@
+Degrade Buster
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. You can target 1 monster your opponent controls with higher ATK than this card (Quick Effect); banish it until the End Phase. You can only use this effect of "Degrade Buster" once per turn.
+
+Type: Cyberse
+Attribute: FIRE
+Level: 7
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Flames of Destruction

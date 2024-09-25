@@ -1,0 +1,14 @@
+Performapal Odd-Eyes Metal Claw
+Card Type: Fusion Monster
+
+Description: 1 "Odd-Eyes" monster + 1 "Performapal" monster
+Cannot be used as Fusion Material. If this card was Fusion Summoned with "Polymerization", it is unaffected by other cards' effects. When this card declares an attack: All monsters you currently control gain 300 ATK until the end of the Battle Phase.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 3000
+Archetype: Odd-Eyes
+Present in Sets:
+- Rise of the Duelist

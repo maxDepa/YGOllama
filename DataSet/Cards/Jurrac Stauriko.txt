@@ -1,0 +1,16 @@
+Jurrac Stauriko
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle: Special Summon 2 "Jurrac Tokens" (Dinosaur/FIRE/Level 1/ATK 0/DEF 0) in Defense Position. They cannot be Tributed for a Tribute Summon, unless it is for a "Jurrac" monster.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 2
+Attack: 500
+Defence: 400
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Speed Duel Tournament Pack 4
+- Speed Duel: Trials of the Kingdom

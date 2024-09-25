@@ -1,0 +1,21 @@
+Lightning Blade
+Card Type: Spell Card
+
+Description: Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Jaden Yuki
+- Structure Deck: Warrior's Triumph

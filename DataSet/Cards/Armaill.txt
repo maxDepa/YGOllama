@@ -1,0 +1,15 @@
+Armaill
+Card Type: Normal Monster
+
+Description: A strange warrior who manipulates three deadly blades with both hands and his tail.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

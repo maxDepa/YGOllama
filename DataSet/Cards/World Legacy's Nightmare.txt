@@ -1,0 +1,16 @@
+World Legacy's Nightmare
+Card Type: Spell Card
+
+Description: You take no battle damage from attacks involving your co-linked monsters. Once per turn: You can activate 1 of these effects;
+● Move 1 "Knightmare" monster you control to another of your Main Monster Zones.
+● Switch the locations of 2 "Knightmare" monsters in your Main Monster Zones.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Knightmare
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Flames of Destruction

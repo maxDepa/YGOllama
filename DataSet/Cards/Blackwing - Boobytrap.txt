@@ -1,0 +1,13 @@
+Blackwing - Boobytrap
+Card Type: Trap Card
+
+Description: When this Set card is destroyed by your opponent's card effect while you control a face-up "Blackwing" monster, inflict 1000 damage to your opponent and draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Starstrike Blast

@@ -1,0 +1,14 @@
+Idaten the Conqueror Star
+Card Type: Fusion Monster
+
+Description: 2 Level 5 or higher Warrior monsters
+If this card is Fusion Summoned: You can add 1 Level 5 Warrior monster from your Deck to your hand. You can only use this effect of "Idaten the Conqueror Star" once per turn. Once per turn: You can discard any number of cards; this card gains 200 ATK for each card discarded. Once per battle, during damage calculation, if this card battles an opponent's monster with an equal or lower Level (Quick Effect): You can make that opponent's monster's ATK 0 during that damage calculation only.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge

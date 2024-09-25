@@ -1,0 +1,15 @@
+Ice Queen
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned from the GY. When this face-up card you control is destroyed and sent to your GY: You can target 1 Spell in your GY; add that target to your hand. You must have 3 or more Spellcaster monsters in your GY to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 8
+Attack: 2900
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Stardust Overdrive
+- Yu-Gi-Oh! Advent Calendar (2018)

@@ -1,0 +1,13 @@
+Magician of Black Chaos MAX
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Chaos Form". If this card is Special Summoned: You can Tribute 1 monster; your opponent cannot activate monster effects this turn. When this card destroys an opponent's monster by battle: You can target 1 Spell in your GY; add it to your hand. You can only use each effect of "Magician of Black Chaos MAX" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: Dark Magician
+Present in Sets:
+- 2019 Gold Sarcophagus Tin

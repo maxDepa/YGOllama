@@ -1,0 +1,25 @@
+Elemental HERO Shining Flare Wingman
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Flame Wingman" + "Elemental HERO Sparkman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each "Elemental HERO" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2100
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Collectible Tins 2006 Wave 2
+- Dark Revelation Volume 4
+- Duel Terminal 3
+- Elemental Energy
+- Elemental Energy
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows

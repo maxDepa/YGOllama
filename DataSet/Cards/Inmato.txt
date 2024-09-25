@@ -1,0 +1,14 @@
+Inmato
+Card Type: Effect Monster
+
+Description: When 1 other face-up Plant-Type monster is targeted by the effect of a Spell or Trap Card your opponent controls, you can Tribute this card to draw 2 cards.
+
+Type: Plant
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 800
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Duelist League 2 participation cards

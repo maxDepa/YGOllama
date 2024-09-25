@@ -1,0 +1,16 @@
+Centur-Ion Legatia
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Your monsters with 2000 or less ATK cannot be destroyed by battle. You can only use each of the following effects of "Centur-Ion Legatia" once per turn. If this card is Special Summoned: You can draw 1 card, then you can destroy the monster your opponent controls with the highest ATK (your choice, if tied). During the End Phase: You can place 1 non-Synchro "Centur-Ion" monster from your hand or GY in your Spell & Trap Zone as a face-up Continuous Trap.
+
+Type: Machine
+Attribute: LIGHT
+Level: 12
+Attack: 3500
+Defence: 2000
+Archetype: Centur-Ion
+Present in Sets:
+- Valiant Smashers
+- Valiant Smashers
+- Valiant Smashers

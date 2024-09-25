@@ -1,0 +1,15 @@
+Solomon's Lawbook
+Card Type: Trap Card
+
+Description: Skip your next Standby Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant

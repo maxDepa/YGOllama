@@ -1,0 +1,18 @@
+Twilight Ninja Kagen
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Ninja" monsters. This effect cannot be negated. Once per turn, when your "Ninja" monster declares an attack: You can make that monster gain 1000 ATK until the end of the Damage Step (even if this card leaves the field).
+
+[ Monster Effect ] 
+You can Tribute this card, then target 1 "Ninja" monster you control; it gains 800 ATK until the end of this turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 2000
+Archetype: Ninja
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge

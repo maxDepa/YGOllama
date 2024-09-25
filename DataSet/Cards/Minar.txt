@@ -1,0 +1,17 @@
+Minar
+Card Type: Effect Monster
+
+Description: When this card is discarded directly from your hand to the Graveyard by an effect of a card controlled by your opponent, inflict 1000 points of damage to your opponent's Life Points.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 850
+Defence: 750
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

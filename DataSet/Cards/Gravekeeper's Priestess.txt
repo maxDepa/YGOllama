@@ -1,0 +1,17 @@
+Gravekeeper's Priestess
+Card Type: Effect Monster
+
+Description: While there is no face-up Field Spell, the field is treated as "Necrovalley". All "Gravekeeper's" monsters on the field gain 200 ATK/DEF.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1500
+Archetype: Gravekeeper's
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce Sneak Peek Participation Card
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Tournament Pack 1

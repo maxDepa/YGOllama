@@ -1,0 +1,23 @@
+Goblin Elite Attack Force
+Card Type: Effect Monster
+
+Description: If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the end of your next turn.
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 2200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Legion Starter Deck
+- Dark Revelation Volume 4

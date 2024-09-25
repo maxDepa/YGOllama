@@ -1,0 +1,14 @@
+Toll Hike
+Card Type: Trap Card
+
+Description: Each player must send 1 card from their hand to the GY to declare an attack.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

@@ -1,0 +1,15 @@
+Reboot
+Card Type: Spell Card
+
+Description: Shuffle 1 "Meklord" monster from your hand into the Deck, then target 1 "Meklord" card in your Graveyard; add that target to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Meklord
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Rage of Ra

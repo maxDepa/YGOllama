@@ -1,0 +1,18 @@
+Leviair the Sea Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn: You can detach 1 material from this card, then target 1 banished Level 4 or lower monster; Special Summon that target to your field.
+
+Type: Aqua
+Attribute: WIND
+Level: 3
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Collectible Tins 2012 Wave 2
+- Generation Force
+- Generation Force
+- Legendary Hero Decks

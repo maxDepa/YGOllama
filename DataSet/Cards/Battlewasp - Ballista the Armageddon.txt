@@ -1,0 +1,14 @@
+Battlewasp - Ballista the Armageddon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.
+
+Type: Insect
+Attribute: WIND
+Level: 12
+Attack: 3000
+Defence: 800
+Archetype: Battlewasp
+Present in Sets:
+- Battles of Legend: Hero's Revenge

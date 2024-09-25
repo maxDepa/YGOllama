@@ -1,0 +1,23 @@
+Twin Twisters
+Card Type: Spell Card
+
+Description: Discard 1 card, then target up to 2 Spells/Traps on the field; destroy them.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow
+- Dinosmasher's Fury Structure Deck
+- Legendary Hero Decks
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Shadows in Valhalla
+- Structure Deck: Rokket Revolt
+- Structure Deck: Shaddoll Showdown
+- Structure Deck: Spirit Charmers

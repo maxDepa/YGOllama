@@ -1,0 +1,15 @@
+Laval Warrior
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to the original ATK of the destroyed monster. You must have 4 or more "Laval" monsters with different names in your Graveyard to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 500
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,15 @@
+Black Luster Soldier - Super Soldier
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Super Soldier Ritual". If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to its ATK in the Graveyard. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 "Gaia The Fierce Knight" monster from your hand, Deck, or Graveyard. You can only Special Summon "Black Luster Soldier - Super Soldier(s)" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Black Luster Soldier
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Dimension of Chaos

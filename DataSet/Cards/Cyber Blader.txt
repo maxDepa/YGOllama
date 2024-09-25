@@ -1,0 +1,18 @@
+Cyber Blader
+Card Type: Fusion Monster
+
+Description: "Etoile Cyber" + "Blade Skater"
+A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monster Cards.
+
+Type: Warrior
+Attribute: EARTH
+Level: 7
+Attack: 2100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box

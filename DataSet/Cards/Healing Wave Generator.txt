@@ -1,0 +1,14 @@
+Healing Wave Generator
+Card Type: Effect Monster
+
+Description: Once per turn, you can select another face-up monster you control to gain Life Points equal to that monster's Level x 100.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Duelist Pack: Yusei

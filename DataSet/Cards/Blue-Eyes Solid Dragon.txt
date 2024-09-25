@@ -1,0 +1,14 @@
+Blue-Eyes Solid Dragon
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; negate its effects. When your opponent activates a card or effect (Quick Effect): You can shuffle this card from the field into the Deck, and if you do, Special Summon 1 "Blue-Eyes White Dragon" from your Deck. You can only use each effect of "Blue-Eyes Solid Dragon" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Blue-Eyes
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss

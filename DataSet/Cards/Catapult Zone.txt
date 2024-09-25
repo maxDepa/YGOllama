@@ -1,0 +1,13 @@
+Catapult Zone
+Card Type: Spell Card
+
+Description: Once per turn, if a monster you control would be destroyed by battle, you can send 1 Rock-Type monster from your Deck to the Graveyard instead.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

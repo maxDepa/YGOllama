@@ -1,0 +1,14 @@
+Guardragon Justicia
+Card Type: Normal Tuner Monster
+
+Description: ''The fate of the World depends on the Guardragons, born from the World Legacy.''
+
+Type: Dragon
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 2100
+Archetype: Guardragon
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

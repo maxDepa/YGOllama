@@ -1,0 +1,14 @@
+Reverse Reuse
+Card Type: Trap Card
+
+Description: Target up to 2 Flip monsters in your Graveyard; Special Summon them to your opponent's side of the field, in face-up or face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

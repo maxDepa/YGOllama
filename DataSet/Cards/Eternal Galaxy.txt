@@ -1,0 +1,15 @@
+Eternal Galaxy
+Card Type: Trap Card
+
+Description: If you control a "Photon" or "Galaxy" monster: Target 1 Xyz Monster you control; Special Summon from your Extra Deck, 1 "Photon" or "Galaxy" Xyz Monster that is 4 Ranks higher than that target, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only activate 1 "Eternal Galaxy" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon Special Edition
+- Soul Fusion

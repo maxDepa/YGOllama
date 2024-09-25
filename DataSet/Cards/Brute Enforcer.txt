@@ -1,0 +1,14 @@
+Brute Enforcer
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+You can discard 1 card, then target 1 face-up card your opponent controls; your opponent can discard 1 card with the same original card type (Monster, Spell, or Trap) as that face-up card to negate this effect, otherwise destroy that face-up card. You can only use this effect of "Brute Enforcer" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

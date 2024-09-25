@@ -1,0 +1,18 @@
+King Tiger Wanghu
+Card Type: Effect Monster
+
+Description: When a monster(s) with 1400 or less ATK is Normal Summoned or Special Summoned: Destroy those monsters with 1400 or less ATK. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Champion Pack: Game One
+- Dark Beginning 2
+- OTS Tournament Pack 24
+- Pharaonic Guardian

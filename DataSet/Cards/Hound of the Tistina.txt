@@ -1,0 +1,13 @@
+Hound of the Tistina
+Card Type: Effect Monster
+
+Description: If this card is in your hand or GY and you control a LIGHT "Tistina" monster: You can Special Summon this card. You can only use this effect of "Hound of the Tistina" once per turn. "Tistina" monsters you control can attack directly while your opponent controls a face-down Defense Position monster.
+
+Type: Aqua
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 700
+Archetype: Tistina
+Present in Sets:
+- Duelist Nexus

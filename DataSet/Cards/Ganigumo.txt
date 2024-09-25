@@ -1,0 +1,12 @@
+Ganigumo
+Card Type: Normal Monster
+
+Description: A crab that binds its enemies with a sticky web and attacks them with its sharp claws.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 600
+Defence: 800
+Archetype: //
+Present in Sets:

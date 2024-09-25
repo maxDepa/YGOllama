@@ -1,0 +1,16 @@
+Evilswarm Nightmare
+Card Type: XYZ Monster
+
+Description: 2 Level 4 DARK monsters
+When your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 material from this card; change that Special Summoned monster(s) to face-down Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 950
+Defence: 1950
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars
+- Legendary Hero Decks

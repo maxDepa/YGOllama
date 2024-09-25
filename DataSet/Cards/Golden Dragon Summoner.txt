@@ -1,0 +1,13 @@
+Golden Dragon Summoner
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of "Golden Dragon Summoner" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Super Starter: Space-Time Showdown

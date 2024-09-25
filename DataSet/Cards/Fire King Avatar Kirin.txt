@@ -1,0 +1,14 @@
+Fire King Avatar Kirin
+Card Type: Effect Monster
+
+Description: If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the Graveyard: You can send 1 FIRE monster from your Deck to the Graveyard.
+
+Type: Beast
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 200
+Archetype: Fire King
+Present in Sets:
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Fire Kings

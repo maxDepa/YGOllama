@@ -1,0 +1,13 @@
+Oily Cicada
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can reduce the Levels of all Insect monsters you currently control by 1. If the battle position of this card is changed: You can Special Summon 1 "Oily Cicada" from your hand, Deck, or GY. You can only use each effect of "Oily Cicada" once per turn.
+
+Type: Insect
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge

@@ -1,0 +1,14 @@
+Samsara
+Card Type: Spell Card
+
+Description: Monster Cards Tributed for a Ritual Summon are returned to the owner's Deck instead of being sent to the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

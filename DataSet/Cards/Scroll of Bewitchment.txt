@@ -1,0 +1,17 @@
+Scroll of Bewitchment
+Card Type: Spell Card
+
+Description: Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel GX: Midterm Paradox

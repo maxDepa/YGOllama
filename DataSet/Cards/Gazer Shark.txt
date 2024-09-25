@@ -1,0 +1,13 @@
+Gazer Shark
+Card Type: Effect Monster
+
+Description: You can banish this card from your Graveyard, then target 2 Level 5 WATER monsters in your Graveyard, except "Gazer Shark"; Special Summon both those monsters, but their effects are negated. Immediately after this effect resolves, Xyz Summon 1 WATER Xyz Monster using only those 2 monsters. You can only use this effect of "Gazer Shark" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1000
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Primal Origin

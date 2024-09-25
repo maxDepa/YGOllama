@@ -1,0 +1,18 @@
+Cyberse Beacon
+Card Type: Trap Card
+
+Description: If you took damage by battle or an opponent's card effect this turn: Add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 "Cyberse Beacon" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Code of the Duelist Special Edition
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

@@ -1,0 +1,22 @@
+Dark Rebellion Xyz Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+You can detach 2 materials from this card, then target 1 face-up monster your opponent controls; its ATK becomes half its current ATK, and if it does, this card gains that lost ATK.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tins
+- Legendary Dragon Decks
+- Legendary Hero Decks
+- Maximum Gold
+- Star Pack ARC-V
+- The New Challengers
+- The New Challengers
+- The New Challengers
+- Wing Raiders

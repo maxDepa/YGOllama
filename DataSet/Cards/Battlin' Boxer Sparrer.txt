@@ -1,0 +1,14 @@
+Battlin' Boxer Sparrer
+Card Type: Effect Monster
+
+Description: If you control a "Battlin' Boxer" monster, you can Special Summon this card (from your hand). If you do, you cannot conduct your Battle Phase for the rest of this turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1200
+Defence: 1400
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy

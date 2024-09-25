@@ -1,0 +1,17 @@
+D - Chain
+Card Type: Trap Card
+
+Description: Target a "Destiny HERO" monster you control; equip this card to that target. It gains 500 ATK. When it destroys a monster your opponent controls by battle and sends it to the Graveyard: Inflict 500 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box

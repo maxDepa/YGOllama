@@ -1,0 +1,14 @@
+Evilswarm Hraesvelg
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 face-up card your opponent controls; return that target to the hand.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1150
+Defence: 1850
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

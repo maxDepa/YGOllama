@@ -1,0 +1,27 @@
+United We Stand
+Card Type: Spell Card
+
+Description: The equipped monster gains 800 ATK/DEF for each face-up monster you control.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 1
+- Dragunity Legion Structure Deck
+- Duel Terminal 3
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- OTS Tournament Pack 2
+- Remote Duel at Home Sweepstakes
+- Retro Pack 2
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

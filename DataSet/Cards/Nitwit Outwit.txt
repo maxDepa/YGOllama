@@ -1,0 +1,17 @@
+Nitwit Outwit
+Card Type: Trap Card
+
+Description: Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Galactic Overlord
+- Star Pack 2013
+- Star Pack 2013
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

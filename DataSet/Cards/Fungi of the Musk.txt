@@ -1,0 +1,12 @@
+Fungi of the Musk
+Card Type: Normal Monster
+
+Description: Melts away anything that dares to stand before it.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 400
+Defence: 300
+Archetype: //
+Present in Sets:

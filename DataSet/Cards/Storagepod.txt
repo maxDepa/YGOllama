@@ -1,0 +1,14 @@
+Storagepod
+Card Type: Fusion Monster
+
+Description: "Trifortressops" or "Stegocyber" + 1 Machine or Dinosaur monster
+Cannot be destroyed by battle while a monster Special Summoned from the GY is on the field. If a monster(s) is Special Summoned from the hand while this monster is on the field (except during the Damage Step): You can target 1 card you control and 1 card your opponent controls; destroy them. You can only use this effect of "Storagepod" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Duelist Nexus

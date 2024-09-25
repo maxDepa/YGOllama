@@ -1,0 +1,15 @@
+Number 45: Crumble Logos the Prophet of Demolition
+Card Type: XYZ Monster
+
+Description: 2 or more Level 2 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 other face-up card on the field; while this monster is face-up on the field, that target has its effects negated. While that target is on the field, cards with the same name as that target, and their effects, cannot be activated.
+
+Type: Zombie
+Attribute: EARTH
+Level: 2
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

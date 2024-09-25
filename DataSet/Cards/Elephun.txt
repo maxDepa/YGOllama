@@ -1,0 +1,13 @@
+Elephun
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can select 1 of your Level 3 or lower Beast-Type, Beast-Warrior-Type or Winged Beast-Type monsters that is removed from play, and add it to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 300
+Archetype: //
+Present in Sets:
+- Duelist Revolution

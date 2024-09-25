@@ -1,0 +1,17 @@
+Mystic Clown
+Card Type: Normal Monster
+
+Description: Nothing can stop the mad attack of this powerful creature.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution

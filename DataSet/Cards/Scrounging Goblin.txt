@@ -1,0 +1,13 @@
+Scrounging Goblin
+Card Type: Effect Monster
+
+Description: If this card inflicts battle damage to your opponent: They can hand you 1 card from their hand to negate this effect, otherwise you add 1 "Goblin" card from your Deck to your hand, except "Goblin Fan".
+
+Type: Fiend
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- The New Challengers

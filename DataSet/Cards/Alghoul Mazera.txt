@@ -1,0 +1,13 @@
+Alghoul Mazera
+Card Type: Effect Monster
+
+Description: If a Zombie monster(s) you control would be destroyed by battle or card effect, you can banish this card from your hand or GY instead. If this card is banished from the hand or GY: You can Special Summon this card in Defense Position, then you can reduce its Level by 1. You can only use each effect of "Alghoul Mazera" once per turn.
+
+Type: Zombie
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 2300
+Archetype: Zera
+Present in Sets:
+- Dimension Force

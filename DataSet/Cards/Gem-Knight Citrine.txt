@@ -1,0 +1,15 @@
+Gem-Knight Citrine
+Card Type: Fusion Monster
+
+Description: 1 "Gem-Knight" monster + 1 Pyro-Type monster
+Must first be Fusion Summoned. If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.
+
+Type: Pyro
+Attribute: EARTH
+Level: 7
+Attack: 2200
+Defence: 1950
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

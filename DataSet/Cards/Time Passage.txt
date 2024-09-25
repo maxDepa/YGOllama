@@ -1,0 +1,14 @@
+Time Passage
+Card Type: Spell Card
+
+Description: Increase the Level of 1 face-up "Fortune Lady" monster you control by 3, until the End Phase.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Lady
+Present in Sets:
+- OTS Tournament Pack 11 (POR)
+- Stardust Overdrive

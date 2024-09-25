@@ -1,0 +1,14 @@
+Disc Fighter
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster with DEF 2000 or more, destroy the monster with this card's effect without applying damage calculation.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

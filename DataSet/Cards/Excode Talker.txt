@@ -1,0 +1,15 @@
+Excode Talker
+Card Type: Link Monster
+
+Description: 2+ Cyberse monsters
+When this card is Link Summoned: You can choose unused Main Monster Zones equal to the number of monsters currently in the Extra Monster Zones; those zones cannot be used while this monster is face-up on the field. You can only use this effect of "Excode Talker" once per turn. Monsters this card points to gain 500 ATK, also they cannot be destroyed by card effects.
+
+Type: Cyberse
+Attribute: WIND
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Extreme Force
+- Maximum Gold: El Dorado

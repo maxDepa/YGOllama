@@ -1,0 +1,14 @@
+Asceticism of the Six Samurai
+Card Type: Spell Card
+
+Description: Target 1 "Six Samurai" monster you control; Special Summon 1 "Six Samurai" monster from your Deck with the same ATK but a different name, and if you do, destroy it during the End Phase of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Spirit Warriors
+- Storm of Ragnarok

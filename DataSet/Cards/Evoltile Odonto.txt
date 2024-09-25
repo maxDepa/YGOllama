@@ -1,0 +1,13 @@
+Evoltile Odonto
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Evolsaur" monster from your hand.
+
+Type: Reptile
+Attribute: FIRE
+Level: 2
+Attack: 500
+Defence: 1200
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave

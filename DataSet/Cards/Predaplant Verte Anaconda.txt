@@ -1,0 +1,15 @@
+Predaplant Verte Anaconda
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+You can target 1 face-up monster on the field; it becomes DARK until the end of this turn. You can pay 2000 LP and send 1 "Fusion" or "Polymerization" Normal or Quick-Play Spell from your Deck to the GY; this effect becomes that Spell's effect when that card is activated, also, you cannot Special Summon monsters for the rest of this turn. You can only use each effect of "Predaplant Verte Anaconda" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 0
+Attack: 500
+Defence: 0
+Archetype: Predaplant
+Present in Sets:
+- Duel Overload
+- Maximum Gold: El Dorado

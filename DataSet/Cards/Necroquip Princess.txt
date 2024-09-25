@@ -1,0 +1,17 @@
+Necroquip Princess
+Card Type: Fusion Monster
+
+Description: 1 monster equipped with a Monster Card + 1 Fiend Monster Card
+Must be Special Summoned (from your Extra Deck) by sending the above cards from your hand and/or field to the GY. You can only control 1 "Necroquip Princess". If a monster(s) is sent from the hand to the GY to activate a card or effect: You can activate 1 of these effects;
+● Equip 1 of those monsters to this card as an Equip Spell that gives it 500 ATK.
+● Draw 1 card.
+You can only use this effect of "Necroquip Princess" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

@@ -1,0 +1,20 @@
+Patissciel Couverture
+Card Type: Pendulum Effect Fusion Monster
+
+Description: [ Pendulum Effect ] 
+If you have no card in your other Pendulum Zone: You can place 1 face-up Pendulum Monster from your Extra Deck in your Pendulum Zone. You can only use this effect of "Patissciel Couverture" once per turn.
+
+[ Monster Effect ] 
+2 Pendulum Monsters
+If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
+
+Type: Fairy
+Attribute: DARK
+Level: 5
+Attack: 1700
+Defence: 700
+Archetype: Patissciel
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force
+- Dimension Force

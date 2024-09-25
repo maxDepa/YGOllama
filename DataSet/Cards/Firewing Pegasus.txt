@@ -1,0 +1,13 @@
+Firewing Pegasus
+Card Type: Normal Monster
+
+Description: A heavenly stallion soaring through the skies on crimson wings.
+
+Type: Beast
+Attribute: FIRE
+Level: 6
+Attack: 2250
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Premium Collection Tin

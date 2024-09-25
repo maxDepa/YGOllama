@@ -1,0 +1,17 @@
+Tornado Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 Spell/Trap on the field; destroy it.
+
+Type: Wyrm
+Attribute: WIND
+Level: 4
+Attack: 2100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Duel Devastator
+- Legendary Duelists: Synchro Storm
+- Maximum Crisis

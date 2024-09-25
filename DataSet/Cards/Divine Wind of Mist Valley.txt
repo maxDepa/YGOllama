@@ -1,0 +1,14 @@
+Divine Wind of Mist Valley
+Card Type: Spell Card
+
+Description: Once per turn, if a WIND monster you control returns to the hand (except during the Damage Step): You can Special Summon 1 Level 4 or lower WIND monster from your Deck.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mist Valley
+Present in Sets:
+- Storm of Ragnarok
+- The Secret Forces

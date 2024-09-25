@@ -1,0 +1,17 @@
+Hinotama
+Card Type: Spell Card
+
+Description: Inflict 500 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler

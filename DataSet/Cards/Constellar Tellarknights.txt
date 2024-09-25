@@ -1,0 +1,13 @@
+Constellar Tellarknights
+Card Type: Spell Card
+
+Description: When this card is activated: You can Special Summon 1 "tellarknight" or "Constellar" monster from your hand or GY. You can target 1 "tellarknight" or "Constellar" Xyz Monster you control; Special Summon from your Extra Deck, 1 "tellarknight" or "Constellar" Xyz Monster with a different Rank, by using that Xyz Monster you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of "Constellar Tellarknights" once per turn. You can only activate 1 "Constellar Tellarknights" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Constellar
+Present in Sets:
+- Cyberstorm Access

@@ -1,0 +1,15 @@
+Orcustrated Babel
+Card Type: Spell Card
+
+Description: You can activate the effects of "Orcust" monsters in your GY, or of Link Monsters you control with "Orcust" in their original names, as Quick Effects. During your Main Phase, if this card is in your GY, except the turn it was sent to the GY: You can send 1 card from your hand to the GY; add this card to your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Soul Fusion

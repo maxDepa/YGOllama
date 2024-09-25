@@ -1,0 +1,16 @@
+Spikeshield with Chain
+Card Type: Trap Card
+
+Description: Target 1 face-up monster on the field; equip this card to that target. It gains 500 ATK. If the equipped monster attacks or is attacked while in Defense Position, it gains DEF equal to its ATK during damage calculation only.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cosmo Blazer
+- Speed Duel GX: Duel Academy Box

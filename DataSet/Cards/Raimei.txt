@@ -1,0 +1,14 @@
+Raimei
+Card Type: Spell Card
+
+Description: Decrease your opponent's Life Points by 300 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

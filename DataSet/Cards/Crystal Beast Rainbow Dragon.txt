@@ -1,0 +1,14 @@
+Crystal Beast Rainbow Dragon
+Card Type: Effect Monster
+
+Description: If this face-up card is destroyed in a Monster Zone, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY. You can only use each of the following effects of "Crystal Beast Rainbow Dragon" once per turn. When an attack is declared involving a "Crystal Beast" monster: You can Special Summon this card from your hand. You can banish this Continuous Spell; Special Summon 1 Level 4 or lower "Crystal Beast" monster from your Deck, but negate its effects (if any), and if you do, add 1 "Ultimate Crystal" monster from your Deck to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: Crystal Beast
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Structure Deck: Legend of the Crystal Beasts

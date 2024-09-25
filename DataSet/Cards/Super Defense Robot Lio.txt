@@ -1,0 +1,14 @@
+Super Defense Robot Lio
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Super Defense Robot" monster or "Orbital 7" from your hand. Once per turn, when exactly 1 "Super Defense Robot" monster or "Orbital 7" (and no other cards) is added from your Graveyard to your hand (except during the Damage Step): You can Special Summon it from your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: Super Defense Robot
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

@@ -1,0 +1,13 @@
+Ambush Fangs
+Card Type: Trap Card
+
+Description: Activate only when a face-up "Venom" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Venom
+Present in Sets:
+- Tactical Evolution

@@ -1,0 +1,17 @@
+Ties of the Brethren
+Card Type: Spell Card
+
+Description: Pay 2000 LP, then target 1 Level 4 or lower monster you control; for the rest of this turn after this card resolves, you cannot Special Summon monsters, also Special Summon 2 monsters from your Deck, with the same Type, Attribute, and Level as that monster, but with different names from each other and that monster. You cannot conduct your Battle Phase the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- King's Court
+- Legendary Decks II
+- Structure Deck: Mechanized Madness
+- Structure Deck: Wave of Light
+- The Grand Creators

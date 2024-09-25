@@ -1,0 +1,14 @@
+Magical Hound
+Card Type: Tuner Monster
+
+Description: If this card is in your hand or GY: You can target 1 face-up Spell/Trap your opponent controls; return it to the hand, and if you do, Special Summon this card. You can only use this effect of "Magical Hound" once per Duel.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 500
+Defence: 800
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

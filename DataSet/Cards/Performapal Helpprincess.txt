@@ -1,0 +1,14 @@
+Performapal Helpprincess
+Card Type: Effect Monster
+
+Description: When you Normal or Special Summon a "Performapal" monster(s), except "Performapal Helpprincess" (except during the Damage Step): You can Special Summon this card from your hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1200
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

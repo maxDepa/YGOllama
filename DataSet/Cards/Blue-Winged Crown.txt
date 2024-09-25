@@ -1,0 +1,15 @@
+Blue-Winged Crown
+Card Type: Normal Monster
+
+Description: With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

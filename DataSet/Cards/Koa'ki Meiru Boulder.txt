@@ -1,0 +1,13 @@
+Koa'ki Meiru Boulder
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can add 1 "Iron Core of Koa'ki Meiru" or 1 Level 4 or lower "Koa'ki Meiru" monster from your Deck to your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Ancient Prophecy

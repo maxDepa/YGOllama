@@ -1,0 +1,22 @@
+Advanced Ritual Art
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Duel Terminal 6a
+- Duelist Saga
+- Ghosts From the Past: The 2nd Haunting
+- Premium Gold: Return of the Bling
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 3
+- Strike of Neos
+- The Secret Forces
+- Turbo Pack: Booster Four

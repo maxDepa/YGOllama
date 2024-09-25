@@ -1,0 +1,23 @@
+Double Summon
+Card Type: Spell Card
+
+Description: You can conduct 2 Normal Summons/Sets this turn, not just 1.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 6b
+- Duelist League 17 participation cards
+- Egyptian God Deck: Obelisk the Tormentor
+- Geargia Rampage Structure Deck
+- Legendary Collection Kaiba Mega Pack
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Tactical Evolution
+- War of the Giants Reinforcements
+- War of the Giants: Round 2
+- Warriors' Strike Structure Deck

@@ -1,0 +1,21 @@
+Little-Winguard
+Card Type: Effect Monster
+
+Description: Once per turn, during your End Phase: You can change the battle position of this card.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel: Streets of Battle City
+- Starter Deck: Jaden Yuki

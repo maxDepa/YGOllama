@@ -1,0 +1,19 @@
+Bowganian
+Card Type: Effect Monster
+
+Description: Once per turn, during your Standby Phase: Inflict 600 damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)

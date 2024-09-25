@@ -1,0 +1,14 @@
+Mythic Water Dragon
+Card Type: Effect Monster
+
+Description: If you control an EARTH monster, you can Special Summon this card (from your hand). You can only Special Summon "Mythic Water Dragon" once per turn this way.
+
+Type: Dragon
+Attribute: WATER
+Level: 8
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

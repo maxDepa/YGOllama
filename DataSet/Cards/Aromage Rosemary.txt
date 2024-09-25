@@ -1,0 +1,14 @@
+Aromage Rosemary
+Card Type: Effect Monster
+
+Description: While your LP are higher than your opponent's, if a Plant monster you control attacks, your opponent cannot activate monster effects until the end of the Damage Step. Once per turn, if you gain LP: Target 1 face-up monster on the field; change its battle position.
+
+Type: Plant
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 700
+Archetype: Aroma
+Present in Sets:
+- Clash of Rebellions
+- Duel Power

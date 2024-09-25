@@ -1,0 +1,13 @@
+Ride of the Valkyries
+Card Type: Spell Card
+
+Description: Special Summon any number of "Valkyrie" monsters with different names from your hand. If you Special Summoned 3 or more monsters with this effect, you take no battle damage until the end of the next turn. During the End Phase of the turn you activated this card, shuffle all monsters you control into the Deck. You can banish this card from your GY; add 1 "Mischief of the Time Goddess" from your Deck to your hand. You can only use this effect of "Ride of the Valkyries" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Valkyrie
+Present in Sets:
+- Shadows in Valhalla

@@ -1,0 +1,17 @@
+Sergeant Electro
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is face-up on the field, its target(s) cannot be activated.
+
+Type: Machine
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Legendary Duelists
+- Photon Shockwave
+- Photon Shockwave
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

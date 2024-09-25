@@ -1,0 +1,18 @@
+Destiny HERO - Plasma
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. Negate the effects of face-up monsters while your opponent controls them. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). Gains ATK equal to half the original ATK of the monster equipped to it by this effect.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 1900
+Defence: 600
+Archetype: Destiny HERO
+Present in Sets:
+- Collectible Tins 2007 Wave 1
+- Destiny Soldiers
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Hero Decks
+- Maximum Gold: El Dorado
+- Ra Yellow Mega Pack

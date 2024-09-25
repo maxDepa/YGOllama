@@ -1,0 +1,14 @@
+Guardragon Corewakening
+Card Type: Trap Card
+
+Description: You can send 1 Effect Monster from your hand to the GY; Special Summon 1 Level 4 or lower Dragon Normal Monster from your hand, Deck, or GY, in Defense Position. You can only use this effect of "Guardragon Corewakening" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardragon
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

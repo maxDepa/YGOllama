@@ -1,0 +1,13 @@
+Cyberse White Hat
+Card Type: Effect Monster
+
+Description: If you control 2 or more monsters with the same Type, you can Special Summon this card (from your hand). You can only Special Summon "Cyberse White Hat" once per turn this way. If this card is sent to the GY as Link Material: You can make all monsters your opponent currently controls lose 1000 ATK until the end of this turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Starter Deck: Codebreaker

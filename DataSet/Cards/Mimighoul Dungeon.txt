@@ -1,0 +1,14 @@
+Mimighoul Dungeon
+Card Type: Spell Card
+
+Description: "Mimighoul" monsters you control that were not Normal or Special Summoned this turn gain ATK equal to their original DEF. Any player who controls a face-down monster cannot Normal Summon monsters, nor declare an attack with monsters that were Special Summoned this turn. During your Main Phase: You can add 1 "Mimighoul" monster from your Deck or GY to your hand. You can only use this effect of "Mimighoul Dungeon" once per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mimighoul
+Present in Sets:
+- The Infinite Forbidden
+- The Infinite Forbidden

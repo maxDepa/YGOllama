@@ -1,0 +1,20 @@
+Damage Gate
+Card Type: Trap Card
+
+Description: When you take battle damage: Target 1 monster in your Graveyard with ATK less than or equal to the amount of damage you took; Special Summon that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Starter Deck: Kaiba Reloaded
+- The Shining Darkness

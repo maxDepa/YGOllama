@@ -1,0 +1,16 @@
+Galaxy Serpent
+Card Type: Normal Tuner Monster
+
+Description: Your hopes and dreams will be refreshed if you catch a glimpse of this rare creature in the evening twilight, soaring in the Sea of Stars.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 2
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Advanced Demo Deck Extra Pack
+- Judgment of the Light
+- Judgment of the Light Sneak Peek Participation Card
+- Starter Deck: Link Strike

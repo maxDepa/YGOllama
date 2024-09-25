@@ -1,0 +1,13 @@
+Litmus Doom Ritual
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Litmus Doom Swordsman". You must also Tribute monsters from your hand or field, whose total Levels equal 8 or more. If this card is in the GY: You can target 1 "Litmus Doom Swordsman" in your GY; shuffle both it and this card from the GY into the Deck, then draw 1 card. You can only use this effect of "Litmus Doom Ritual" once per turn.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge

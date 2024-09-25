@@ -1,0 +1,13 @@
+Unicycular
+Card Type: Normal Monster
+
+Description: The third of the brothers, following Tricular and Bicular.
+
+Type: Machine
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

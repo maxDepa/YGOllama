@@ -1,0 +1,18 @@
+Number C105: Battlin' Boxer Comet Cestus
+Card Type: XYZ Monster
+
+Description: 4 Level 5 monsters
+When this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's original ATK. If this card has "Number 105: Battlin' Boxer Star Cestus" as an Xyz Material, it gains this effect.
+● Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2800
+Defence: 2000
+Archetype: Battlin' Boxer
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legendary Duelists: Soulburning Volcano
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy

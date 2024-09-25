@@ -1,0 +1,14 @@
+Photon Token
+Card Type: Token
+
+Description: This card can be used as a "Photon Token".
+
+*If used for another Token, apply that Token's Type/Attribute/Level/ATK/DEF.
+
+Type: Thunder
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:

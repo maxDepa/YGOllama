@@ -1,0 +1,28 @@
+Super Polymerization
+Card Type: Spell Card
+
+Description: Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field as Fusion Material. Neither player can activate cards or effects in response to this card's activation.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- Cyber Dragon Revolution Structure Deck
+- Duel Devastator
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Maximum Gold
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Phantom Darkness
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Shaddoll Showdown

@@ -1,0 +1,14 @@
+Morphtronic Scopen
+Card Type: Tuner Monster
+
+Description: ● While in Attack Position: Once per turn, you can Special Summon 1 Level 4 "Morphtronic" monster from your hand. Destroy it during the End Phase.
+● While in Defense Position: While this card is in face-up Defense Position, it is Level 4.
+
+Type: Machine
+Attribute: LIGHT
+Level: 3
+Attack: 800
+Defence: 1400
+Archetype: Morphtronic
+Present in Sets:
+- Raging Battle

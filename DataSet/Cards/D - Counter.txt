@@ -1,0 +1,15 @@
+D - Counter
+Card Type: Trap Card
+
+Description: When a "Destiny HERO" monster you control is targeted for an attack: Destroy the attacking monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duel Academy Box

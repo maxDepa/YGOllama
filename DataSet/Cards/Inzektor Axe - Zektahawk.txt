@@ -1,0 +1,14 @@
+Inzektor Axe - Zektahawk
+Card Type: Spell Card
+
+Description: Equip only to an "Inzektor" monster. It gains 1000 ATK. When the equipped monster declares an attack, your opponent cannot activate Spell/Trap Cards.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Inzektor
+Present in Sets:
+- Order of Chaos
+- Order of Chaos Sneak Peek Participation Card

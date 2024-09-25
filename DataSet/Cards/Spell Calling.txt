@@ -1,0 +1,14 @@
+Spell Calling
+Card Type: Spell Card
+
+Description: When this face-down card is destroyed and sent to the Graveyard by the effect of a Spell or Trap Card controlled by your opponent, select 1 Quick-Play Spell Card from your Deck and Set it after showing it to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Power of the Duelist
+- Power of the Duelist

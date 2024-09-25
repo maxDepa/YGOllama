@@ -1,0 +1,16 @@
+Dimension Fusion
+Card Type: Spell Card
+
+Description: Pay 2000 Life Points. Both players Special Summon as many of their removed from play monsters as possible.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

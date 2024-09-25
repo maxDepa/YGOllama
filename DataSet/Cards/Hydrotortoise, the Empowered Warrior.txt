@@ -1,0 +1,13 @@
+Hydrotortoise, the Empowered Warrior
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 1400
+Defence: 900
+Archetype: Empowered Warrior
+Present in Sets:
+- Super Starter: Space-Time Showdown

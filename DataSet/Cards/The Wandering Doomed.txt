@@ -1,0 +1,12 @@
+The Wandering Doomed
+Card Type: Normal Monster
+
+Description: A monster that wanders the edges of the netherworld.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:

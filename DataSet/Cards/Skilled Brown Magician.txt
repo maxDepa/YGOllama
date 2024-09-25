@@ -1,0 +1,16 @@
+Skilled Brown Magician
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 1 Spell Counter from this card, then activate 1 of these effects;
+● This card gains 1500 ATK, and its Level is increased by 1.
+● Add 1 "Kuriboh" monster or 1 "Multiply" from your Deck or GY to your hand.
+You can only use this effect of "Skilled Brown Magician" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 300
+Defence: 200
+Archetype: Skilled Magician
+Present in Sets:
+- Battle of Chaos

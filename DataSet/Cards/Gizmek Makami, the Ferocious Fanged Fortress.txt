@@ -1,0 +1,14 @@
+Gizmek Makami, the Ferocious Fanged Fortress
+Card Type: Effect Monster
+
+Description: While 6 or more of your cards are banished, you can Normal Summon this card without Tributing. You can only use each of the following effects of "Gizmek Makami, the Ferocious Fanged Fortress" once per turn. If this card is Normal or Special Summoned: You can discard 1 monster; add 1 monster whose ATK equals its own DEF from your Deck to your hand, except "Gizmek Makami, the Ferocious Fanged Fortress". If this card in the Monster Zone is destroyed: You can shuffle 6 of your banished cards into the Deck.
+
+Type: Machine
+Attribute: WIND
+Level: 6
+Attack: 2150
+Defence: 2150
+Archetype: Gizmek
+Present in Sets:
+- Egyptian God Deck: Obelisk the Tormentor
+- Phantom Rage

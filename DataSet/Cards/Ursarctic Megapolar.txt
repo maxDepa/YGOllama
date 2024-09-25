@@ -1,0 +1,13 @@
+Ursarctic Megapolar
+Card Type: Tuner Monster
+
+Description: During the Main Phase (Quick Effect): You can Tribute 1 other Level 7 or higher monster from your hand; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except monsters with a Level. If this card is Special Summoned while you control another "Ursarctic" monster: You can target 1 Spell/Trap your opponent controls; destroy it. You can only use each effect of "Ursarctic Megapolar" once per turn.
+
+Type: Beast-Warrior
+Attribute: WATER
+Level: 8
+Attack: 2500
+Defence: 700
+Archetype: Ursarctic
+Present in Sets:
+- Ancient Guardians

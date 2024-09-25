@@ -1,0 +1,16 @@
+Grand Horn of Heaven
+Card Type: Trap Card
+
+Description: During your opponent's Main Phase, when they would Special Summon a monster(s): Negate the Summon, and if you do, destroy that monster, then your opponent draws 1 card, then end the Main Phase.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Dinosmasher's Fury Structure Deck
+- Premium Gold: Infinite Gold

@@ -1,0 +1,14 @@
+Constellar Rasalhague
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 1 "Constellar" monster from your hand or Graveyard in face-up Defense Position, except "Constellar Rasalhague".
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 900
+Defence: 100
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

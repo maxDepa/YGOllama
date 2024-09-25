@@ -1,0 +1,12 @@
+30,000-Year White Turtle
+Card Type: Normal Monster
+
+Description: A huge turtle that has existed for more than 30,000 years.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1250
+Defence: 2100
+Archetype: //
+Present in Sets:

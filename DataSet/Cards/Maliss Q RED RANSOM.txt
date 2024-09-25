@@ -1,0 +1,13 @@
+Maliss Q RED RANSOM
+Card Type: Link Monster
+
+Description: 2+ monsters, including a "Maliss" monster
+While this card points to a monster, switch the original ATK and DEF of all Effect Monsters your opponent controls. You can only use each of the following effects of "Maliss RED RANSOM" once per turn. If this card is Special Summoned: You can add 1 "Maliss" Spell from your Deck to your hand. If this card is banished: You can pay 900 LP; Special Summon this card, then you can banish 1 Cyberse monster from your Deck.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Maliss
+Present in Sets:

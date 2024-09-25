@@ -1,0 +1,22 @@
+Catapult Turtle
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster's ATK on the field.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Duelist League 18 participation cards
+- Duelist Pack: Yugi
+- Legendary Collection 3: Yugi's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Yugi's Legendary Decks

@@ -1,0 +1,14 @@
+Desmanian Devil
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle: You can add 1 Level 4 or lower Beast monster from your Deck to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

@@ -1,0 +1,13 @@
+Red Potan
+Card Type: Effect Monster
+
+Description: You can target 1 "Potan" monster you control; treat it as a Tuner until the end of the next turn. If a monster is Synchro Summoned while you control this monster: You can Special Summon 1 "Potan" monster from your hand or Deck. You can only use each effect of "Red Potan" once per turn.
+
+Type: Fairy
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 200
+Archetype: Potan
+Present in Sets:
+- Rise of the Duelist

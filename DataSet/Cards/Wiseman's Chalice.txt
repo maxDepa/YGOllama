@@ -1,0 +1,13 @@
+Wiseman's Chalice
+Card Type: Spell Card
+
+Description: If you control no monsters, select 1 monster in your opponent's Graveyard. Special Summon it. During the End Phase of this turn, give control of that Special Summoned monster to your opponent. The monster cannot be Tributed, or used as a Synchro Material Monster, while it is face-up on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

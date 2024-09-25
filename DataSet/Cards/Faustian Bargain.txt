@@ -1,0 +1,15 @@
+Faustian Bargain
+Card Type: Spell Card
+
+Description: Target 1 Special Summoned monster on either field; send it to the GY, and if you do, Special Summon 1 Level 4 or lower Normal Monster from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 5
+- Stardust Overdrive

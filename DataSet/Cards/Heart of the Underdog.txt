@@ -1,0 +1,17 @@
+Heart of the Underdog
+Card Type: Spell Card
+
+Description: During your Draw Phase, when you draw a Normal Monster(s): You can reveal it; draw 1 more card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack

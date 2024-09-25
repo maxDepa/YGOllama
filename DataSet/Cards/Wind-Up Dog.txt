@@ -1,0 +1,15 @@
+Wind-Up Dog
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can increase this card's Level by 2 and ATK by 600, until the End Phase. This effect can be used only once while this card is face-up on the field.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: Wind-Up
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Generation Force

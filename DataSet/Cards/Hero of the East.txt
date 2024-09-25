@@ -1,0 +1,13 @@
+Hero of the East
+Card Type: Normal Monster
+
+Description: Feel da strength ah dis sword-swingin' samurai from da Far East.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

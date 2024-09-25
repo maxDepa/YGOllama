@@ -1,0 +1,18 @@
+Underclock Taker
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+Once per turn: You can target 1 face-up monster this card points to and 1 face-up monster your opponent controls; the opponent's target loses ATK equal to the ATK of the target this monster points to, until the end of this turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Duel Devastator
+- Extreme Force
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)

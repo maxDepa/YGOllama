@@ -1,0 +1,16 @@
+Dark Horus
+Card Type: Effect Monster
+
+Description: Once per turn, after resolving a Spell Card that was activated during your opponent's Main Phase: You can target 1 Level 4 DARK monster in your Graveyard; Special Summon that target. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Phantom Darkness
+- Phantom Darkness
+- Turbo Pack: Booster Seven

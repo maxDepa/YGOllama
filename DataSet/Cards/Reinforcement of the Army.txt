@@ -1,0 +1,49 @@
+Reinforcement of the Army
+Card Type: Spell Card
+
+Description: Add 1 Level 4 or lower Warrior monster from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Amazing Defenders
+- Dark Beginning 2
+- Dark Saviors
+- Gold Series
+- HERO Strike Structure Deck
+- Hobby League 6 participation card D
+- King's Court
+- King's Court
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Dragon Decks
+- Legendary Hero Decks
+- Magnificent Mavens
+- Maximum Gold
+- Noble Knights of the Round Table Box Set
+- Premium Gold
+- Rise of the True Dragons Structure Deck
+- Samurai Warlords Structure Deck
+- Space-Time Showdown Power-Up Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Xyz Symphony
+- Structure Deck: Warrior's Triumph
+- Super Starter: V for Victory
+- Synchron Extreme Structure Deck
+- The Dark Emperor Structure Deck
+- Warriors' Strike Structure Deck
+- Wing Raiders

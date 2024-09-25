@@ -1,0 +1,16 @@
+Ojama Blue
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can add 2 "Ojama" cards from your Deck to your hand.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 0
+Defence: 1000
+Archetype: Ojama
+Present in Sets:
+- OTS Tournament Pack 6
+- Raging Battle
+- Speed Duel GX: Duel Academy Box
+- Speed Duel Tournament Pack 5

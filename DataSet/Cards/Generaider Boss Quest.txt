@@ -1,0 +1,13 @@
+Generaider Boss Quest
+Card Type: Spell Card
+
+Description: Reveal 1 "Generaider" monster in your hand, and if you do, add up to 2 "Generaider" Spells/Traps with different names from each other from your Deck to your hand, except "Generaider Boss Quest". Then place the revealed card on the bottom of your Deck. You can only activate 1 "Generaider Boss Quest" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Generaider
+Present in Sets:
+- Mystic Fighters

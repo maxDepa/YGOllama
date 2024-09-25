@@ -1,0 +1,14 @@
+Bujingi Quilin
+Card Type: Effect Monster
+
+Description: If you control a Beast-Warrior-Type "Bujin" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of "Bujingi Quilin" once per turn.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 900
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

@@ -1,0 +1,19 @@
+Luster Pendulum, the Dracoslayer
+Card Type: Pendulum Tuner Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if you have a card in your other Pendulum Zone: You can destroy that card, and if you do, add 1 card from your Deck to your hand, with the same name as that card.
+
+[ Monster Effect ] 
+Cannot Special Summon Fusion, Synchro, or Xyz Monsters using this card as material, except "Dracoslayer" monsters.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1850
+Defence: 0
+Archetype: Dracoslayer
+Present in Sets:
+- Ancient Guardians
+- Clash of Rebellions
+- Premium Gold: Infinite Gold

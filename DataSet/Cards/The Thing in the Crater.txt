@@ -1,0 +1,15 @@
+The Thing in the Crater
+Card Type: Effect Monster
+
+Description: When this card is destroyed and sent from the field to the Graveyard, you can Special Summon 1 Pyro-Type Monster from your hand.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

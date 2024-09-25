@@ -1,0 +1,16 @@
+Super Quantal Mech Beast Magnaliger
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Cannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 monster on the field; destroy it. This is a Quick Effect if this card has "Super Quantum Red Layer" as material. Once per turn: You can attach 1 "Super Quantum" monster from your hand or field to this card as material.
+
+Type: Machine
+Attribute: FIRE
+Level: 5
+Attack: 2600
+Defence: 2000
+Archetype: Super Quant
+Present in Sets:
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Wing Raiders

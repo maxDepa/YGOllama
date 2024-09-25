@@ -1,0 +1,17 @@
+Bountiful Artemis
+Card Type: Effect Monster
+
+Description: Each time a Counter Trap Card is activated, immediately after it resolves, draw 1 card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- OTS Tournament Pack 1
+- Structure Deck: Wave of Light
+- Turbo Pack: Booster Six

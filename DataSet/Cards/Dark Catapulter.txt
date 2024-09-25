@@ -1,0 +1,17 @@
+Dark Catapulter
+Card Type: Effect Monster
+
+Description: During your Standby Phase, if this card is in Defense Position, put 1 counter on this card. You can remove from play a number of card(s) in your Graveyard equal to the number of counters on this card to destroy that many Spell or Trap Card(s) on the field. Then remove all counter(s) from this card.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Speed Duel GX: Midterm Paradox

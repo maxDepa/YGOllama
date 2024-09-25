@@ -1,0 +1,14 @@
+Topologic Gumblar Dragon
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+If another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Discard 1 or 2 random cards, then your opponent discards the same number. During your Main Phase, if this card is Extra Linked and your opponent has at least 1 card in their hand: You can make your opponent discard 1 or 2 cards (whichever is higher), then, if they have no more cards in their hand, inflict 3000 damage to them. You can only use 1 "Topologic Gumblar Dragon" effect per turn, and only once that turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge

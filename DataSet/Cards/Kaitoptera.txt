@@ -1,0 +1,13 @@
+Kaitoptera
+Card Type: Effect Monster
+
+Description: If your opponent controls 2 or more face-up monsters, except WIND monsters, those monsters cannot target this card for attacks. You can only use each of the following effects of "Kaitoptera" once per turn. During your Main Phase: You can add 1 "Polymerization" from your Deck to your hand. If this card is banished: You can Special Summon it, then you can add 1 "Polymerization" from your GY to your hand.
+
+Type: Dinosaur
+Attribute: WIND
+Level: 4
+Attack: 1400
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Maze of Millennia

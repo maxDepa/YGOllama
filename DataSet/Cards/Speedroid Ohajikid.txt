@@ -1,0 +1,13 @@
+Speedroid Ohajikid
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Tuner monster in either player's Graveyard; Special Summon it to your side of the field, and if you do, immediately after this effect resolves, Synchro Summon 1 WIND Synchro Monster, using that monster and this card only.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 200
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders

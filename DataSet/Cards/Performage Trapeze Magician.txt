@@ -1,0 +1,15 @@
+Performage Trapeze Magician
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Spellcaster-Type monsters
+You never take damage if the amount is less than or equal to this card's ATK. Once per turn, during either player's Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster the turn player controls (other than this card); it can make a second attack during each Battle Phase this turn, also destroy it at the end of the Battle Phase. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 "Performage" monster from the Deck.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 2500
+Defence: 2000
+Archetype: Performage
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

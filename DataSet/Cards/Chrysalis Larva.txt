@@ -1,0 +1,13 @@
+Chrysalis Larva
+Card Type: Effect Monster
+
+Description: You can Tribute this card while "Neo Space" is on the field to Special Summon 1 "Neo-Spacian Flare Scarab" from your hand or Deck.
+
+Type: Insect
+Attribute: FIRE
+Level: 2
+Attack: 300
+Defence: 300
+Archetype: Chrysalis
+Present in Sets:
+- Tactical Evolution

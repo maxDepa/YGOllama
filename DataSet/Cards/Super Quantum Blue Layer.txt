@@ -1,0 +1,14 @@
+Super Quantum Blue Layer
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can add 1 "Super Quant" card from your Deck to your hand, except "Super Quantum Blue Layer". If this card is sent to the Graveyard: You can target up to 3 "Super Quant" cards in your Graveyard; shuffle them into the Deck. You can only use each effect of "Super Quantum Blue Layer" once per turn.
+
+Type: Psychic
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 2000
+Archetype: Super Quant
+Present in Sets:
+- OTS Tournament Pack 2
+- Wing Raiders

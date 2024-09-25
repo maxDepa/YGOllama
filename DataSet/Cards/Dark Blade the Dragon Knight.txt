@@ -1,0 +1,16 @@
+Dark Blade the Dragon Knight
+Card Type: Fusion Monster
+
+Description: "Dark Blade" + "Pitch-Dark Dragon"
+Each time this card inflicts Battle Damage to your opponent, you can select up to 3 Monster Cards from your opponent's Graveyard and remove them from play.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny

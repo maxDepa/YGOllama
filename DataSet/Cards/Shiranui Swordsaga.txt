@@ -1,0 +1,14 @@
+Shiranui Swordsaga
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can only Special Summon "Shiranui Swordsaga(s)" once per turn. If this card is Special Summoned: You can target 1 monster on the field; change its battle position. If this card is banished: You can Special Summon 1 "Shiranui Token" (Zombie/FIRE/Level 1/ATK 0/DEF 0). You can only use this effect of "Shiranui Swordsaga" once per turn.
+
+Type: Zombie
+Attribute: FIRE
+Level: 5
+Attack: 1900
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- Savage Strike

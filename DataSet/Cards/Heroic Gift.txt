@@ -1,0 +1,14 @@
+Heroic Gift
+Card Type: Trap Card
+
+Description: If your opponent's Life Points are 2000 or less: Make their Life Points 8000, and if you do, draw 2 cards. You can only activate 1 "Heroic Gift" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Heroic
+Present in Sets:
+- Abyss Rising
+- OTS Tournament Pack 19 (POR)

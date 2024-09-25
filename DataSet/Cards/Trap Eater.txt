@@ -1,0 +1,16 @@
+Trap Eater
+Card Type: Tuner Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by sending 1 face-up Trap Card your opponent controls to the Graveyard, and cannot be Special Summoned by other ways.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)

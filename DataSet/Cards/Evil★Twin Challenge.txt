@@ -1,0 +1,15 @@
+Evil★Twin Challenge
+Card Type: Trap Card
+
+Description: Target 1 "Ki-sikil" monster or 1 "Lil-la" monster in your GY; Special Summon it, then you can apply the following effect.
+● Immediately after this effect resolves, Link Summon 1 "Evil★Twin" Link Monster using monsters you control as material.
+You can only activate 1 "Evil★Twin Challenge" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evil★Twin
+Present in Sets:
+- Genesis Impact

@@ -1,0 +1,17 @@
+Doma The Angel of Silence
+Card Type: Normal Monster
+
+Description: This fairy rules over the end of existence.
+
+Type: Fairy
+Attribute: DARK
+Level: 5
+Attack: 1600
+Defence: 1400
+Archetype: Fairy
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Yugi
+- Starter Deck: Yugi

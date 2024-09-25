@@ -1,0 +1,16 @@
+Witch Doctor of Chaos
+Card Type: Flip Effect Monster
+
+Description: FLIP: Select 1 Monster Card from you or your opponent's Graveyard. Remove it from play.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Chaos
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos

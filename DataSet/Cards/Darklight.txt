@@ -1,0 +1,15 @@
+Darklight
+Card Type: Trap Card
+
+Description: Tribute 1 DARK monster with 1500 or more ATK; destroy all monsters that were Special Summoned this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave
+- Speed Duel: Battle City Box
+- Structure Deck: Lair of Darkness

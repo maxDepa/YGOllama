@@ -1,0 +1,25 @@
+Ghost Belle & Haunted Mansion
+Card Type: Tuner Monster
+
+Description: When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that activation.
+● Add a card(s) from the GY to the hand, Deck, and/or Extra Deck.
+● Special Summon a Monster Card(s) from the GY.
+● Banish a card(s) from the GY.
+You can only use this effect of "Ghost Belle & Haunted Mansion" once per turn.
+
+Type: Zombie
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Dimension Force
+- Duel Devastator
+- Duel Power
+- Flames of Destruction
+- Maximum Gold
+- Structure Deck: Legend of the Crystal Beasts

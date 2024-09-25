@@ -1,0 +1,13 @@
+Hazy Flame Sphynx
+Card Type: Effect Monster
+
+Description: Your opponent cannot target this card with card effects. You can declare 1 card type (Monster, Spell, or Trap); send the top card of your Deck to the Graveyard, then if it was the declared card type, you can Special Summon 1 FIRE monster from your hand or Graveyard. You can only use this effect of "Hazy Flame Sphynx" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 6
+Attack: 1900
+Defence: 1900
+Archetype: Hazy
+Present in Sets:
+- Cosmo Blazer

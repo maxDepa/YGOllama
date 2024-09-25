@@ -1,0 +1,14 @@
+Infestation Terminus
+Card Type: Trap Card
+
+Description: Target 1 "lswarm" monster you control and 2 cards your opponent controls; banish the first target, and if you do, return the second targets to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infestation
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

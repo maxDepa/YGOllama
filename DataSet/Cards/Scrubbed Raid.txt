@@ -1,0 +1,13 @@
+Scrubbed Raid
+Card Type: Trap Card
+
+Description: During the Battle Phase, you can send 1 card you control to the Graveyard, except this card, to end the Battle Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 2

@@ -1,0 +1,15 @@
+Psi-Station
+Card Type: Spell Card
+
+Description: When a Psychic-Type monster is Normal Summoned: You can pay 500 LP; increase its Level by 1 and ATK by 300. (This remains even if this card leaves the field.)
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- The Duelist Genesis

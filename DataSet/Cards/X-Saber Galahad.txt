@@ -1,0 +1,15 @@
+X-Saber Galahad
+Card Type: Effect Monster
+
+Description: If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another "Saber" monster to negate the attack.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 1
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

@@ -1,0 +1,20 @@
+Saffira, Queen of Dragons
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Hymn of Light". During the End Phase, if this card was Ritual Summoned this turn, or if a LIGHT monster was sent from the hand or Deck to the Graveyard this turn while this card was face-up on the field: You can activate 1 of these effects;
+● Draw 2 cards, then discard 1 card.
+● Discard 1 random card from your opponent's hand.
+● Add 1 LIGHT monster from your Graveyard to your hand.
+You can only use 1 "Saffira, Queen of Dragons" effect per turn, and only once that turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2500
+Defence: 2400
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Duelist Alliance
+- OTS Tournament Pack 24

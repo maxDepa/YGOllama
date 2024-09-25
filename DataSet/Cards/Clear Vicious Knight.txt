@@ -1,0 +1,12 @@
+Clear Vicious Knight
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card by Tributing 1 monster that mentions "Clear World". Gains ATK equal to the highest original ATK among monsters your opponent controls. You are unaffected by the effects of "Clear World". Your opponent cannot activate the effects of Special Summoned monsters with ATK lower than this Tribute Summoned card's.
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 2300
+Defence: 1100
+Archetype: Clear
+Present in Sets:

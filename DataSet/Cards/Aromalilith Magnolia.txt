@@ -1,0 +1,14 @@
+Aromalilith Magnolia
+Card Type: Fusion Monster
+
+Description: 1 "Aroma" monster + 1 Plant monster
+While your LP are higher than your opponent's, Plant monsters you control cannot be destroyed by your opponent's card effects. Once per turn: You can pay 2000 LP; banish cards on the field equal to the number of "Humid Winds", "Dried Winds", and "Blessed Winds" you control. Once per turn, if you gain LP, even during the Damage Step: You can make all Plant monsters you currently control gain ATK equal to the LP gained, until the end of this turn.
+
+Type: Plant
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 1800
+Archetype: Aroma
+Present in Sets:
+- Phantom Nightmare

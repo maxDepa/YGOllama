@@ -1,0 +1,16 @@
+Brigrand the Glory Dragon
+Card Type: Fusion Monster
+
+Description: "Fallen of Albaz" + 1 Level 8 or higher monster
+Cannot be destroyed by battle. While you control this Fusion Summoned card, your opponent cannot target other monsters you control with monster effects. During the End Phase, if this card is in the GY because it was sent there this turn: You can add to your hand, or Special Summon, 1 "Tri-Brigade" monster or 1 "Fallen of Albaz" from your Deck. You can only use this effect of "Brigrand the Glory Dragon" once per turn.
+
+Type: Beast
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage
+- Structure Deck: Albaz Strike

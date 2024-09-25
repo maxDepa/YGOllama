@@ -1,0 +1,15 @@
+Constellar Praesepe
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Constellar" monsters
+Once per turn, during the Damage Step of either player's turn, when a "Constellar" monster you control is attacking or being attacked: You can detach 1 Xyz Material from this card; that monster gains 1000 ATK, until the End Phase.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 2400
+Defence: 800
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

@@ -1,0 +1,14 @@
+Number 104: Masquerade
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+During either player's Battle Phase, when an opponent's monster effect is activated: You can detach 1 Xyz Material from this card; negate the activation, and if you do, inflict 800 damage to your opponent. Once per turn: You can send the top card of your opponent's Deck to the Graveyard.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 2700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Judgment of the Light

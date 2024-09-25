@@ -1,0 +1,13 @@
+Heraldic Beast Eale
+Card Type: Effect Monster
+
+Description: If you control 2 or more "Heraldic Beast" monsters, you can Special Summon this card (from your hand).
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Heraldic
+Present in Sets:
+- Cosmo Blazer

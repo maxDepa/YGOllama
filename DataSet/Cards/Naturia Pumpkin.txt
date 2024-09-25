@@ -1,0 +1,15 @@
+Naturia Pumpkin
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, if your opponent controls a monster, you can Special Summon 1 "Naturia" monster from your hand.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 800
+Archetype: Naturia
+Present in Sets:
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Starstrike Blast

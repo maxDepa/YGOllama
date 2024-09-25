@@ -1,0 +1,17 @@
+Spirit Ryu
+Card Type: Effect Monster
+
+Description: During your Battle Step, if this card battles (Quick Effect): You can discard 1 Dragon monster to the GY; this card gains 1000 ATK/DEF until the end of the Battle Phase.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Kaiba Evolution

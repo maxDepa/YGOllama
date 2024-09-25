@@ -1,0 +1,13 @@
+Libromancer Origin Story
+Card Type: Spell Card
+
+Description: When this card is activated: You can Set 1 "Libromancer" Spell/Trap directly from your Deck, except "Libromancer Origin Story". "Libromancer" Ritual Monsters you control gain ATK equal to their own Level x 100. If a Ritual Monster is Ritual Summoned to your field (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of "Libromancer Origin Story" once per turn. You can only activate 1 "Libromancer Origin Story" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Libromancer
+Present in Sets:
+- Cyberstorm Access

@@ -1,0 +1,14 @@
+Raidraptor - Booster Strix
+Card Type: Effect Monster
+
+Description: When a "Raidraptor" monster you control is targeted for an attack by an opponent's monster: You can banish this card from your hand; destroy the attacking monster.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 1700
+Archetype: Raidraptor
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

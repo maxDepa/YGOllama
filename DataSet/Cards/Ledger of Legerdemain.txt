@@ -1,0 +1,14 @@
+Ledger of Legerdemain
+Card Type: Spell Card
+
+Description: Banish 3 cards from the top of your Deck, face-down. During your 3rd Standby Phase after this card's activation, add all 3 cards to your hand. You can only activate 1 "Ledger of Legerdemain" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Horizon
+- Speed Duel: Streets of Battle City

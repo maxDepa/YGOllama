@@ -1,0 +1,13 @@
+Oath of Companionship
+Card Type: Trap Card
+
+Description: If you control no monsters that were Special Summoned from the Extra Deck: Target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; take control of it until the End Phase. You cannot Special Summon during the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of the Valiant

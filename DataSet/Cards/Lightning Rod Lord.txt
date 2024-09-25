@@ -1,0 +1,15 @@
+Lightning Rod Lord
+Card Type: Effect Monster
+
+Description: Neither player can activate Spell Cards during Main Phase 1.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 100
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition

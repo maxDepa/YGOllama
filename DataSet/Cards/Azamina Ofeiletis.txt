@@ -1,0 +1,12 @@
+Azamina Ofeiletis
+Card Type: Spell Card
+
+Description: During the Main Phase: Reveal 1 "Azamina" Fusion Monster in your Extra Deck and send 1 "Sinful Spoils" card from your hand and/or field to the GY for every 4 Levels the revealed monster has (if those cards are Set, reveal them), then Special Summon it. (This is treated as a Fusion Summon.) During your Main Phase: You can banish this card from your GY, then target 1 "Azamina" monster in your GY; Special Summon it. You can only use 1 "Azamina Ofeiletis" effect per turn, and only once that turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Azamina
+Present in Sets:

@@ -1,0 +1,18 @@
+Gravekeeper's Cannonholder
+Card Type: Effect Monster
+
+Description: You can Tribute 1 "Gravekeeper's" monster, except "Gravekeeper's Cannonholder"; inflict 700 damage to your opponent.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: Gravekeeper's
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Destiny Masters
+- Structure Deck: Marik (TCG)
+- Turbo Pack: Booster Two

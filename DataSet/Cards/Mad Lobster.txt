@@ -1,0 +1,14 @@
+Mad Lobster
+Card Type: Normal Monster
+
+Description: A gourmet food renowned by the Dark World upper crust. It has sensational flavor.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1700
+Defence: 1000
+Archetype: Dark World
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4

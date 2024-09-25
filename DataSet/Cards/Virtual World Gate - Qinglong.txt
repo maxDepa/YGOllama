@@ -1,0 +1,16 @@
+Virtual World Gate - Qinglong
+Card Type: Spell Card
+
+Description: You can banish 1 "Virtual World" card from your GY, then target 1 face-up monster on the field; negate its effects until the end of this turn (even if this card leaves the field). You can banish this card from your GY; add 1 "Virtual World" monster from your Deck to your hand, then send 1 card from your hand to the GY. You can only use each effect of "Virtual World Gate - Qinglong" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Virtual World
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 16
+- OTS Tournament Pack 16 (POR)
+- Phantom Rage

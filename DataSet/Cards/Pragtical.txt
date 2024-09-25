@@ -1,0 +1,13 @@
+Pragtical
+Card Type: Fusion Monster
+
+Description: "Trakodon" + "Flame Viper"
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 5
+Attack: 1900
+Defence: 1500
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

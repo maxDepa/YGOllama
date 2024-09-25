@@ -1,0 +1,14 @@
+Fusion Devourer
+Card Type: Effect Monster
+
+Description: When this card battles a Fusion Monster, the ATK of the Fusion Monster becomes 0 during the Damage Step only.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Strike of Neos
+- Strike of Neos

@@ -1,0 +1,13 @@
+Ritual Beast Steeds
+Card Type: Trap Card
+
+Description: If you control a "Ritual Beast" monster: Destroy monsters on the field up to the number of "Ritual Beast" monsters you currently control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

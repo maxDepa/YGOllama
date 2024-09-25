@@ -1,0 +1,17 @@
+Vylon Prism
+Card Type: Tuner Monster
+
+Description: If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster attacks or is attacked: It gains 1000 ATK during the Damage Step only.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: Vylon
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz
+- Realm of Light Structure Deck

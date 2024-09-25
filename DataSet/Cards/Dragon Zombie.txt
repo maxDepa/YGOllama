@@ -1,0 +1,17 @@
+Dragon Zombie
+Card Type: Normal Monster
+
+Description: A dragon revived by sorcery. Its breath is highly corrosive.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Demo Deck 2020
+- Speed Duel: Arena of Lost Souls
+- Starter Deck: Yugi
+- Starter Deck: Yugi

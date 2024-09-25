@@ -1,0 +1,13 @@
+Kamionwizard
+Card Type: Fusion Monster
+
+Description: "Mystical Elf" + "Curtain of the Dark Ones"
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Astral Pack Three

@@ -1,0 +1,18 @@
+Cyberse Accelerator
+Card Type: Link Monster
+
+Description: 2+ monsters, except Tokens
+During the Battle Phase (Quick Effect): You can target 1 Cyberse monster this card points to and activate 1 of these effects;
+● It gains 2000 ATK until the end of this turn.
+● It can make up to 2 attacks on monsters during each Battle Phase this turn.
+This card cannot attack the turn this effect is activated. You can only use this effect of "Cyberse Accelerator" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault Special Edition

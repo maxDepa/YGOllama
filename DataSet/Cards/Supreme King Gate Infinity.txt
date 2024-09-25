@@ -1,0 +1,19 @@
+Supreme King Gate Infinity
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you control a monster, you cannot Pendulum Summon. This effect cannot be negated. Once per turn, if you control "Supreme King Z-ARC": You can target 1 face-up monster your opponent controls; gain LP equal to its ATK.
+
+[ Monster Effect ] 
+Once per turn: You can target 1 other face-up card you control; destroy both it and this card, and if you do, Special Summon 1 Dragon-Type Xyz or Pendulum Monster from your Extra Deck, but its ATK and DEF become 0, it has its effects negated, also it cannot be used as a Material for a Synchro or Xyz Summon. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 0
+Defence: 0
+Archetype: Supreme King
+Present in Sets:
+- Maximum Crisis
+- Maze of Millennia
+- OTS Tournament Pack 23

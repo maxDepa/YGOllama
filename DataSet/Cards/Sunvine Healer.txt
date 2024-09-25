@@ -1,0 +1,14 @@
+Sunvine Healer
+Card Type: Link Monster
+
+Description: 1 Plant Normal Monster
+If a "Sunavalon" Link Monster you control leaves the field by card effect: Destroy this card. If this card is Special Summoned: You can target 1 "Sunavalon" Link Monster on the field; gain LP equal to its Link Rating x 300. When your Plant Link Monster inflicts battle damage to your opponent: You can gain 600 LP.
+
+Type: Plant
+Attribute: EARTH
+Level: 0
+Attack: 600
+Defence: 0
+Archetype: Sunvine
+Present in Sets:
+- Ghosts From the Past

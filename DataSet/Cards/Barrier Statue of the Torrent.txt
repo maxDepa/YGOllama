@@ -1,0 +1,15 @@
+Barrier Statue of the Torrent
+Card Type: Effect Monster
+
+Description: Neither player can Special Summon monsters, except WATER monsters.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Maximum Gold
+- OTS Tournament Pack 4

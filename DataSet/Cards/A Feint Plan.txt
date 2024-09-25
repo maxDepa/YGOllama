@@ -1,0 +1,14 @@
+A Feint Plan
+Card Type: Trap Card
+
+Description: A player cannot attack face-down monsters during this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of Darkness
+- Legacy of Darkness

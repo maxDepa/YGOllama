@@ -1,0 +1,16 @@
+Overworked
+Card Type: Trap Card
+
+Description: Destroy each monster whose ATK is higher than its original ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- The Duelist Genesis

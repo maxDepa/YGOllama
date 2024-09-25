@@ -1,0 +1,17 @@
+Raidraptor - Rise Falcon
+Card Type: XYZ Monster
+
+Description: 3 Level 4 Winged Beast-Type monsters
+This card can attack all Special Summoned monsters your opponent controls, once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Special Summoned monster your opponent controls; this card gains ATK equal to that monster's current ATK.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: Raidraptor
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V

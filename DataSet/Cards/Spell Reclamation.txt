@@ -1,0 +1,13 @@
+Spell Reclamation
+Card Type: Trap Card
+
+Description: Discard 1 card and chain this card to a Spell Card you activated. Whenever that Spell Card is sent to the Graveyard, return it to its owner's hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

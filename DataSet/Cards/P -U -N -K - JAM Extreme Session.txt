@@ -1,0 +1,13 @@
+P.U.N.K. JAM Extreme Session
+Card Type: Spell Card
+
+Description: Once per turn: You can banish 1 "P.U.N.K." card from your GY; Special Summon 1 "P.U.N.K." monster from your hand. If a Psychic monster you control paid LP to activate its effect: You can draw 1 card. You can use this effect of "P.U.N.K. JAM Extreme Session" up to twice per turn.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: P.U.N.K.
+Present in Sets:
+- Power of the Elements

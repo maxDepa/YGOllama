@@ -1,0 +1,17 @@
+El Shaddoll Wendigo
+Card Type: Fusion Monster
+
+Description: 1 "Shaddoll" monster + 1 WIND monster
+Must first be Fusion Summoned. (Quick Effect): You can target 1 monster you control; this turn, it cannot be destroyed by battle with an opponent's Special Summoned monster. You can only use this effect of "El Shaddoll Wendigo" once per turn. If this card is sent to the GY: You can target 1 "Shaddoll" Spell/Trap in your GY; add it to your hand.
+
+Type: Psychic
+Attribute: WIND
+Level: 6
+Attack: 200
+Defence: 2800
+Archetype: Shaddoll
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Secrets of Eternity: Super Edition
+- Structure Deck: Shaddoll Showdown

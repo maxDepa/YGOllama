@@ -1,0 +1,14 @@
+Master Gig
+Card Type: Effect Monster
+
+Description: Once per turn, you can pay 1000 Life Points to destroy monsters your opponent controls equal to the number of face-up Psychic-Type monsters you control.
+
+Type: Psychic
+Attribute: EARTH
+Level: 8
+Attack: 2600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Duelist Pack Collection Tin 2009
+- Raging Battle

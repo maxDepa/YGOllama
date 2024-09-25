@@ -1,0 +1,13 @@
+Emes the Infinity
+Card Type: Effect Monster
+
+Description: Each time this card destroys an opponent's monster and sends it to the Graveyard as a result of battle, increase the ATK of this card by 700 points.
+
+Type: Machine
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Destiny Board Traveler promotional cards

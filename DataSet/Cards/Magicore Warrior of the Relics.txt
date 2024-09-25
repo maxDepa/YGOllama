@@ -1,0 +1,14 @@
+Magicore Warrior of the Relics
+Card Type: Effect Monster
+
+Description: Cannot attack unless you control an "Adventurer Token". You can only use each of the following effects of "Magicore Warrior of the Relics" once per turn. If you control an "Adventurer Token": You can Special Summon this card from your hand. At the end of the Battle Phase, if your monster that mentions "Adventurer Token" battled: You can Set 1 Trap that mentions "Adventurer Token" directly from your Deck.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 2300
+Defence: 1000
+Archetype: Adventurer Token
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- The Grand Creators

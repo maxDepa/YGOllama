@@ -1,0 +1,13 @@
+Doodle Beast - Stego
+Card Type: Effect Monster
+
+Description: If you control no monsters, or if all monsters you control are Dinosaur monsters: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 "Doodlebook" Spell/Trap from your Deck to your hand, then discard 1 card. You can only use each effect of "Doodle Beast - Stego" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 5
+Attack: 1200
+Defence: 1800
+Archetype: Doodle Beast
+Present in Sets:
+- Battles of Legend: Crystal Revenge

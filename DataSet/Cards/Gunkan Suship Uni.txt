@@ -1,0 +1,18 @@
+Gunkan Suship Uni
+Card Type: Effect Monster
+
+Description: You can reveal 1 other "Gunkan" card in your hand; Special Summon this card from your hand, then apply the following effect based on the revealed card.
+● "Gunkan Suship Shari": You can Special Summon the revealed monster.
+● Other: Place the revealed card on the bottom of the Deck.
+You can target 1 "Gunkan" monster you control: Change its Level to 4 or 5, then you can add 1 "Gunkan Suship Shari" from your Deck to your hand.
+You can only use each effect of "Gunkan Suship Uni" once per turn.
+
+Type: Aqua
+Attribute: FIRE
+Level: 5
+Attack: 900
+Defence: 500
+Archetype: Gunkan
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

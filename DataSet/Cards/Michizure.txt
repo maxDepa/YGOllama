@@ -1,0 +1,19 @@
+Michizure
+Card Type: Trap Card
+
+Description: When a monster is sent from the field to your GY, even during the Damage Step: Target 1 monster on the field; destroy it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 1
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Speed Duel GX: Duel Academy Box
+- Speed Duel: Arena of Lost Souls
+- Speed Duel: Streets of Battle City

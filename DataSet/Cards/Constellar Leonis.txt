@@ -1,0 +1,14 @@
+Constellar Leonis
+Card Type: Effect Monster
+
+Description: During your Main Phase, you can Normal Summon 1 "Constellar" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Beast
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1800
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

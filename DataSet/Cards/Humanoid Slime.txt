@@ -1,0 +1,18 @@
+Humanoid Slime
+Card Type: Normal Monster
+
+Description: This slime apparently has some human genes in its genetic makeup.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 800
+Defence: 2000
+Archetype: Slime
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Streets of Battle City

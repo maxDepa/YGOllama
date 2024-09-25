@@ -1,0 +1,14 @@
+Chronomaly Moai Carrier
+Card Type: Effect Monster
+
+Description: If your opponent controls a card and you control no cards, you can Special Summon this card (from your hand).
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 900
+Defence: 1800
+Archetype: Chronomaly
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

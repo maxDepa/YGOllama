@@ -1,0 +1,15 @@
+Guardragon Elpy
+Card Type: Link Monster
+
+Description: 1 Level 4 or lower Dragon monster
+You cannot Special Summon monsters, except Dragon monsters. During your Main Phase: You can Special Summon 1 Dragon monster from your hand or Deck to your zone that 2 or more Link Monsters point to. You can only use this effect of "Guardragon Elpy" once per turn. You can only Special Summon "Guardragon Elpy(s)" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Guardragon
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

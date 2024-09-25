@@ -1,0 +1,18 @@
+Imperial Iron Wall
+Card Type: Trap Card
+
+Description: Neither player can banish cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Maze of Memories
+- OTS Tournament Pack 1
+- Synchron Extreme Structure Deck
+- Tactical Masters
+- Zombie World Structure Deck

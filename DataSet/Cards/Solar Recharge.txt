@@ -1,0 +1,19 @@
+Solar Recharge
+Card Type: Spell Card
+
+Description: Discard 1 "Lightsworn" monster; draw 2 cards, then send the top 2 cards of your Deck to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Ancient Prophecy: Special Edition
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Light of Destruction
+- Light of Destruction
+- Premium Gold
+- Realm of Light Structure Deck

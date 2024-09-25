@@ -1,0 +1,15 @@
+Herald of Pure Light
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters
+You can detach 1 Xyz Material from this card, then target 1 monster in your Graveyard; add it to your hand, then shuffle 1 card from your hand into the Deck. You can only use the effect of "Herald of Pure Light" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 600
+Defence: 1000
+Archetype: Herald
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Judgment of the Light

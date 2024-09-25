@@ -1,0 +1,15 @@
+Restoration Point Guard
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+Once per turn, if another Link Monster is Link Summoned: This card cannot be destroyed by battle or card effects for the rest of this turn. If a Link Monster, that was Link Summoned using this card as material, is destroyed by an opponent's card effect, while this card is in the GY (except during the Damage Step): You can Special Summon this card. You can only use this effect of "Restoration Point Guard" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

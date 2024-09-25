@@ -1,0 +1,13 @@
+Frequency Magician
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: //
+Present in Sets:
+- Starter Deck: Yu-Gi-Oh! 5D's

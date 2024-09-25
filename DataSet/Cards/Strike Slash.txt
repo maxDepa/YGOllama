@@ -1,0 +1,15 @@
+Strike Slash
+Card Type: Trap Card
+
+Description: When a monster you control declares an attack: Until the End Phase, that monster gains 700 ATK, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Tactical Evolution

@@ -1,0 +1,15 @@
+Neo Space Connector
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Neo-Spacian" monster or 1 "Elemental HERO Neos" from your hand or Deck in Defense Position. You can Tribute this card, then target 1 "Neo-Spacian" monster or 1 "Elemental HERO Neos" in your GY; Special Summon it in Defense Position. You can only use each effect of "Neo Space Connector" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: Elemental HERO
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike
+- Soul Fusion Special Edition

@@ -1,0 +1,14 @@
+Ryu Okami
+Card Type: Effect Monster
+
+Description: If your opponent Special Summons a monster(s): Your opponent sends 1 card from their Extra Deck to the Graveyard.
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 8
+Attack: 2900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

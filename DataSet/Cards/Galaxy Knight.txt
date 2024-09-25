@@ -1,0 +1,15 @@
+Galaxy Knight
+Card Type: Effect Monster
+
+Description: If you control a "Photon" or "Galaxy" monster, you can Normal Summon this card without Tributing. If Summoned this way: Target 1 "Galaxy-Eyes Photon Dragon" in your GY (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in Defense Position. This ATK decrease lasts until the end of this turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: Galaxy-Eyes
+Present in Sets:
+- Legendary Duelists: Season 2
+- Legendary Duelists: White Dragon Abyss
+- Zexal Collection Tin

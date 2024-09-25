@@ -1,0 +1,13 @@
+Noble Knight's Spearholder
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 Level 8 or lower monster you control; its name becomes "Fleur Synchron", also it is treated as a Tuner, until the End Phase. You can Tribute this card; add 1 Equip Spell from your Deck to your hand. You can only use each effect of "Noble Knight's Spearholder" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: Noble Knight
+Present in Sets:
+- Brothers of Legend

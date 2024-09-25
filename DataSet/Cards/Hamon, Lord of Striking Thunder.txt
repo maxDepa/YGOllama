@@ -1,0 +1,23 @@
+Hamon, Lord of Striking Thunder
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, monsters your opponent controls cannot target monsters for attacks, except this one.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 4000
+Archetype: Sacred Beast
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Collectible Tins 2006 Wave 2
+- Dark Revelation Volume 4
+- Duelist Saga
+- Legendary Collection 2: The Duel Academy Years
+- Shadow of Infinity
+- Shadow of Infinity
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Structure Deck: Legend of the Crystal Beasts
+- Structure Deck: Sacred Beasts

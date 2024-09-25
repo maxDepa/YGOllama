@@ -1,0 +1,14 @@
+Elemental HERO Shadow Mist
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can add 1 "Change" Quick-Play Spell Card from your Deck to your hand. If this card is sent to the GY: You can add 1 "HERO" monster from your Deck to your hand, except "Elemental HERO Shadow Mist". You can only use 1 "Elemental HERO Shadow Mist" effect per turn, and only once that turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: Elemental HERO
+Present in Sets:
+- HERO Strike Structure Deck
+- Legendary Hero Decks

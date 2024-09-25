@@ -1,0 +1,15 @@
+XX-Saber Faultroll
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more face-up "X-Saber" monsters, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Level 4 or lower "X-Saber" monster in your Graveyard; Special Summon that target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: X-Saber
+Present in Sets:
+- Ancient Prophecy
+- Duel Terminal 7a
+- Turbo Pack: Booster Three

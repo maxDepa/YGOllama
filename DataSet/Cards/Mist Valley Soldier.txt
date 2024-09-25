@@ -1,0 +1,16 @@
+Mist Valley Soldier
+Card Type: Tuner Monster
+
+Description: While you control this face-up card, any opponent's monster that battles this card, but is not destroyed by the battle, returns to its owner's hand at the end of the Damage Step.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 300
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

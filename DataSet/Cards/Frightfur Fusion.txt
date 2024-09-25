@@ -1,0 +1,17 @@
+Frightfur Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 "Frightfur" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard. You can only activate 1 "Frightfur Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Frightfur
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Fusion Enforcers
+- Star Pack Battle Royal
+- Star Pack Battle Royal

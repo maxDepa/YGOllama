@@ -1,0 +1,16 @@
+Noble Knight Gwalchavad
+Card Type: Effect Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field. While equipped with a "Noble Arms" Equip Spell Card, this card becomes an Effect Monster with this effect.
+● You can target 1 "Noble Knight" monster in your Graveyard; add it to your hand, and if you do, destroy 1 "Noble Arms" Equip Spell Card you control. You can only use this effect of "Noble Knight Gwalchavad" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1500
+Defence: 1800
+Archetype: Noble Knight
+Present in Sets:
+- Lord of the Tachyon Galaxy
+- Lord of the Tachyon Galaxy
+- Noble Knights of the Round Table Box Set

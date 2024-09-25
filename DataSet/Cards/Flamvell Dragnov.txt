@@ -1,0 +1,16 @@
+Flamvell Dragnov
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 "Flamvell Dragnov" from your Deck to your hand.
+
+Type: Dragon
+Attribute: FIRE
+Level: 2
+Attack: 1100
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

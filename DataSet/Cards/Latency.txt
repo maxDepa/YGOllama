@@ -1,0 +1,13 @@
+Latency
+Card Type: Effect Monster
+
+Description: If this card is added from your GY to your hand by a card effect: You can Special Summon it from your hand. If this card Summoned this way is sent to the GY as Link Material: You can draw 1 card. You can only use each effect of "Latency" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Fists of the Gadgets

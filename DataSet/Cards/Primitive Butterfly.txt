@@ -1,0 +1,14 @@
+Primitive Butterfly
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can increase the Levels of all Insect-Type monsters you currently control by 1.
+
+Type: Insect
+Attribute: WIND
+Level: 5
+Attack: 1200
+Defence: 900
+Archetype: Butterfly
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

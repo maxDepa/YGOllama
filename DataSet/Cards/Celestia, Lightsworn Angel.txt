@@ -1,0 +1,21 @@
+Celestia, Lightsworn Angel
+Card Type: Effect Monster
+
+Description: When you Tribute Summon this card by Tributing a "Lightsworn" monster: You can send the top 4 cards of your Deck to the GY, then target up to 2 cards your opponent controls; destroy those targets.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2300
+Defence: 200
+Archetype: Lightsworn
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Gold Series 4: Pyramids Edition
+- Light of Destruction
+- Light of Destruction
+- Premium Gold
+- Realm of Light Structure Deck
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2021 F

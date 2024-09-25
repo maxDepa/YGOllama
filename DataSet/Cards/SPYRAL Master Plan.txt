@@ -1,0 +1,13 @@
+SPYRAL Master Plan
+Card Type: Effect Monster
+
+Description: Once per turn: You can add 1 "SPYRAL MISSION" card from your Deck to your hand. If this card is sent from the field to the Graveyard: You can add 1 "SPYRAL Resort" and 1 "SPYRAL" monster from your Deck to your hand, except "SPYRAL Master Plan". You can only use this effect of "SPYRAL Master Plan" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 1200
+Defence: 2800
+Archetype: SPYRAL
+Present in Sets:
+- Invasion: Vengeance

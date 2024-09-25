@@ -1,0 +1,19 @@
+Altergeist Primebanshee
+Card Type: Link Monster
+
+Description: 2+ "Altergeist" monsters
+During the Main Phase (Quick Effect): You can Tribute 1 other "Altergeist" monster; Special Summon 1 "Altergeist" monster from your Deck to your zone this card points to. If this card is sent from the field to the GY: You can target 1 "Altergeist" card in your GY; add it to your hand. You can only use each effect of "Altergeist Primebanshee" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 2100
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Maze of Millennia
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

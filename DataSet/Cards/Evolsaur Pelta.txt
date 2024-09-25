@@ -1,0 +1,13 @@
+Evolsaur Pelta
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: It gains 500 DEF. If this card was Special Summoned by the effect of an "Evoltile" monster, then is destroyed by battle: You can add 1 "Evoltile" monster from your Deck to your hand.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave

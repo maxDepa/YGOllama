@@ -1,0 +1,19 @@
+Harpie Queen
+Card Type: Effect Monster
+
+Description: This card's name becomes "Harpie Lady" while on the field or in the GY. You can discard this card to the GY; add 1 "Harpies' Hunting Ground" from your Deck to your hand.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Harpie
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 I

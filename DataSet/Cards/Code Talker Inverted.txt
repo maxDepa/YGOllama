@@ -1,0 +1,18 @@
+Code Talker Inverted
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+If this card is Link Summoned: You can Special Summon 1 Cyberse monster from your hand to your zone this card points to. You can only use this effect of "Code Talker Inverted" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Ignition Assault
+- Maximum Gold: El Dorado

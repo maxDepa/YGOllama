@@ -1,0 +1,16 @@
+Fabled Miztoji
+Card Type: Tuner Monster
+
+Description: You can send this card from your hand to the Graveyard to select 1 face-up "Fabled" monster you control. The selected monster is treated as a Tuner monster while face-up on the field.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 2
+Attack: 400
+Defence: 200
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,15 @@
+Mekk-Knight of the Morning Star
+Card Type: Link Monster
+
+Description: 2 monsters, including a "Mekk-Knight" monster
+If this card is Link Summoned: You can discard 1 "Mekk-Knight" monster or 1 "World Legacy" card; add 1 "World Legacy" card from your Deck to your hand. You can only use this effect of "Mekk-Knight of the Morning Star" once per turn. If your "Mekk-Knight" monster battles a monster in a different column than it, your monster cannot be destroyed by that battle, also you take no battle damage from that battle.
+
+Type: Machine
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Mekk-Knight
+Present in Sets:
+- Cybernetic Horizon
+- Maximum Gold

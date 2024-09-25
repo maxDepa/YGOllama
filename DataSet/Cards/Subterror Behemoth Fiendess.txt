@@ -1,0 +1,14 @@
+Subterror Behemoth Fiendess
+Card Type: Link Monster
+
+Description: 2 Flip monsters
+Gains ATK equal to the combined original Levels of the "Subterror" monsters used for its Link Summon x 100. During your Main Phase: You can send 1 Flip monster from your Deck to the GY, and if you do, Special Summon 1 monster from your hand in face-down Defense Position to your zone this card points to. You can only use this effect of "Subterror Behemoth Fiendess" once per turn. Once per turn, if a monster this card points to is flipped face-up: Add 1 Flip monster from your Deck or GY to your hand.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Subterror
+Present in Sets:
+- Circuit Break

@@ -1,0 +1,13 @@
+Bracchio-raidus
+Card Type: Fusion Monster
+
+Description: "Two-Headed King Rex" + "Crawling Dragon #2"
+
+Type: Dinosaur
+Attribute: WATER
+Level: 6
+Attack: 2200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

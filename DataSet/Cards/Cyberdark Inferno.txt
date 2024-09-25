@@ -1,0 +1,15 @@
+Cyberdark Inferno
+Card Type: Spell Card
+
+Description: "Cyberdark" Effect Monsters you control that are equipped with an Equip Card cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects. You can target 1 "Cyberdark" monster you control; return it to the hand, then, immediately after this effect resolves, you can Normal Summon 1 "Cyberdark" monster. You can only use this effect of "Cyberdark Inferno" once per turn. If this card in its owner's control is destroyed by an opponent's card effect: You can add 1 "Polymerization" Spell or "Fusion" Spell from your Deck to your hand.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cyberdark
+Present in Sets:
+- Legendary Duelists
+- Legendary Duelists: Season 1
+- Structure Deck: Cyber Strike

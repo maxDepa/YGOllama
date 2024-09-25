@@ -1,0 +1,13 @@
+Evolsaur Diplo
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of an "Evoltile" monster: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Evolsaur
+Present in Sets:
+- Photon Shockwave

@@ -1,0 +1,16 @@
+Delta Tri
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, select and activate 1 of these effects: 
+● Select 1 appropriate Union monster in your Graveyard and equip it to this card. 
+● Select 1 face-up LIGHT Machine-Type monster you control, and return it to the Deck. Then draw 1 card.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Speed Duel: Battle City Box
+- The Shining Darkness

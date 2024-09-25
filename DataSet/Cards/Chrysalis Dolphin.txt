@@ -1,0 +1,14 @@
+Chrysalis Dolphin
+Card Type: Effect Monster
+
+Description: By Tributing this card while "Neo Space" is on the field, Special Summon 1 "Neo-Spacian Aqua Dolphin" from your hand or Deck.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 400
+Defence: 600
+Archetype: Chrysalis
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Power of the Duelist

@@ -1,0 +1,14 @@
+Lightsworn Judgment
+Card Type: Trap Card
+
+Description: Place this card on top of the Deck. If this card is sent from the Deck to the Graveyard by a "Lightsworn" monster's effect: You can add 1 "Judgment Dragon" from your Deck to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

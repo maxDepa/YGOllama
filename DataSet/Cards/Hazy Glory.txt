@@ -1,0 +1,13 @@
+Hazy Glory
+Card Type: Trap Card
+
+Description: You can Normal Summon "Hazy Flame" monsters for 1 less Tribute. You can send this face-up card from the field to the Graveyard to target 1 "Hazy" card in your Graveyard, except "Hazy Glory"; add that target to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hazy
+Present in Sets:
+- Cosmo Blazer

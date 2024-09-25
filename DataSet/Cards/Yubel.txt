@@ -1,0 +1,16 @@
+Yubel
+Card Type: Effect Monster
+
+Description: This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. Before damage calculation, when this face-up Attack Position card is attacked by an opponent's monster: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 "Yubel - Terror Incarnate" from their hand, Deck, or Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 10
+Attack: 0
+Defence: 0
+Archetype: Yubel
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Phantom Darkness
+- Ra Yellow Mega Pack

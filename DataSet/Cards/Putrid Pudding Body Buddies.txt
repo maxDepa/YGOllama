@@ -1,0 +1,14 @@
+Putrid Pudding Body Buddies
+Card Type: Effect Monster
+
+Description: Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. During your End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, give control of this card to your opponent. During each of your Standby Phases: Take 300 damage.
+
+Type: Fiend
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

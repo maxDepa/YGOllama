@@ -1,0 +1,15 @@
+Machina Defender
+Card Type: Flip Effect Monster
+
+Description: FLIP: Add 1 "Commander Covington" from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1800
+Archetype: Machina
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Structure Deck: Mechanized Madness

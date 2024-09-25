@@ -1,0 +1,16 @@
+Guardian Grarl
+Card Type: Effect Monster
+
+Description: Cannot be Summoned unless you control a face-up "Gravity Axe - Grarl". If this is the only card in your hand, you can Special Summon it (from your hand).
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 5
+Attack: 2500
+Defence: 1000
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

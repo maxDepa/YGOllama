@@ -1,0 +1,20 @@
+White Dragon Wyverburster
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon "White Dragon Wyverburster" once per turn this way. If this card is sent from the field to the GY: You can add 1 "Black Dragon Collapserpent" from your Deck to your hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Astral Pack Six
+- Battles of Legend: Hero's Revenge
+- Maximum Gold: El Dorado
+- Rise of the True Dragons Structure Deck
+- Shadow Specters
+- Structure Deck: Albaz Strike
+- Synchron Extreme Structure Deck

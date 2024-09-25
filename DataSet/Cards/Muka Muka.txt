@@ -1,0 +1,20 @@
+Muka Muka
+Card Type: Effect Monster
+
+Description: This card gains 300 ATK and DEF for each card in your hand.
+
+Type: Rock
+Attribute: EARTH
+Level: 2
+Attack: 600
+Defence: 300
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Streets of Battle City
+- Starter Deck: Pegasus

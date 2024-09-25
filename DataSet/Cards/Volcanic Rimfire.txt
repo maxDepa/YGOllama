@@ -1,0 +1,15 @@
+Volcanic Rimfire
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: You can activate 1 of these effects (but you can only use each effect of "Volcanic Rimfire" once per turn);
+● Banish this card from your GY, and if you do, send 1 "Volcanic" monster from your Deck to the GY, except "Volcanic Rimfire".
+● Banish 1 "Blaze Accelerator" card from your face-up field or GY, and if you do, place 1 "Blaze Accelerator" Continuous Spell/Trap from your hand or Deck face-up on your field.
+
+Type: Pyro
+Attribute: FIRE
+Level: 1
+Attack: 300
+Defence: 0
+Archetype: Volcanic
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

@@ -1,0 +1,13 @@
+Inzektor Firefly
+Card Type: Effect Monster
+
+Description: Once per turn: You can equip 1 "Inzektor" monster from your hand or Graveyard to this card. If an "Inzektor" card equips to this card: You can look at all Set cards your opponent controls. While this card is equipped to a monster, that monster's Level is increased by 1, also it gains ATK and DEF equal to this card's ATK and DEF.
+
+Type: Insect
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Inzektor
+Present in Sets:
+- Galactic Overlord

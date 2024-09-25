@@ -1,0 +1,14 @@
+Worm Erokin
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type "Worm" monster on the field and change it to face-down Defense Position.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal

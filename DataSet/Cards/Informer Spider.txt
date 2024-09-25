@@ -1,0 +1,13 @@
+Informer Spider
+Card Type: Effect Monster
+
+Description: When this card is sent from the field to the Graveyard by a card effect, take control of 1 Defense Position monster your opponent controls.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

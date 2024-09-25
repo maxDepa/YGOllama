@@ -1,0 +1,18 @@
+Constellar Kaus
+Card Type: Effect Monster
+
+Description: Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 "Constellar" monster on the field, then activate 1 of these effects;
+● Increase its Level by 1.
+● Reduce its Level by 1.
+
+Type: Beast-Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 700
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars
+- Star Pack ARC-V
+- Star Pack ARC-V

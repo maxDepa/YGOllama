@@ -1,0 +1,14 @@
+Genex Ally Duradark
+Card Type: Effect Monster
+
+Description: Once per turn, during your Main Phase, you can select 1 face-up Attack Position monster your opponent controls with the same Attribute as this card, and destroy it. This card cannot attack the turn you activate this effect.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Starstrike Blast

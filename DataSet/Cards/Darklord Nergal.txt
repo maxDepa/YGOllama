@@ -1,0 +1,14 @@
+Darklord Nergal
+Card Type: Effect Monster
+
+Description: If your Fairy monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. (Quick Effect): You can pay 1000 LP, then target 1 "Darklord" Spell/Trap in your GY; apply that target's effect, then shuffle that target into the Deck. You can only use this effect of "Darklord Nergal" once per turn. You can only Special Summon "Darklord Nergal" once per turn.
+
+Type: Fairy
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 2500
+Archetype: Darklord
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

@@ -1,0 +1,16 @@
+Mokey Mokey Smackdown
+Card Type: Spell Card
+
+Description: While a face-up "Mokey Mokey" is on your side of the field, if a Fairy-Type monster on your side of the field is destroyed, the ATK of each "Mokey Mokey" on your side of the field becomes 3000 until the end of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Rise of Destiny
+- Speed Duel GX: Duel Academy Box

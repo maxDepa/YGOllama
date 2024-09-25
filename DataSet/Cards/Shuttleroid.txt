@@ -1,0 +1,12 @@
+Shuttleroid
+Card Type: Effect Monster
+
+Description: When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 1000
+Defence: 1200
+Archetype: Roid
+Present in Sets:

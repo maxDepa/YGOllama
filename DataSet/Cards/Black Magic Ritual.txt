@@ -1,0 +1,17 @@
+Black Magic Ritual
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Magician of Black Chaos". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Pack (TCG)
+- Speed Duel Tournament Pack 6
+- Speed Duel: Trials of the Kingdom
+- Yugi's Legendary Decks

@@ -1,0 +1,23 @@
+Qliphort Scout
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. Once per turn: You can pay 800 LP; add 1 "Qli" card from your Deck to your hand, except "Qliphort Scout".
+
+[ Monster Effect ] 
+''Booting in Replica Mode...
+An error has occurred while executing C:\sophia\zefra.exe
+Unknown publisher.
+Allow C:\tierra\qliphort.exe ? ...[Y]
+Booting in Autonomy Mode...''
+
+Type: Machine
+Attribute: EARTH
+Level: 5
+Attack: 1000
+Defence: 2800
+Archetype: Qli
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Pendulum Evolution
+- The New Challengers

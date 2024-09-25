@@ -1,0 +1,14 @@
+Hushed Psychic Cleric
+Card Type: Effect Monster
+
+Description: If this card is Normal or Flip Summoned: Change it to Defense Position. Once per turn: You can send 1 card from your hand to the Graveyard, then target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Target 1 monster banished by this card's effect; Special Summon that target.
+
+Type: Psychic
+Attribute: EARTH
+Level: 3
+Attack: 0
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- High-Speed Riders

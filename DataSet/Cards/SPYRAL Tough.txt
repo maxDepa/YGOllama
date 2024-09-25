@@ -1,0 +1,15 @@
+SPYRAL Tough
+Card Type: Effect Monster
+
+Description: This card's name becomes "SPYRAL Super Agent" while it is on the field or in the GY. Once per turn: You can declare 1 type of card (Monster, Spell, or Trap) and target 1 card your opponent controls; reveal the top card of your opponent's Deck, and if you do, destroy the targeted card if the revealed card is the declared type.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 1500
+Archetype: SPYRAL
+Present in Sets:
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Raging Tempest

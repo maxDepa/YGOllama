@@ -1,0 +1,18 @@
+Wroughtweiler
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Target 1 "Elemental HERO" card and 1 "Polymerization" in your Graveyard; add both those targets to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1200
+Archetype: Elemental HERO
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duel Academy Box

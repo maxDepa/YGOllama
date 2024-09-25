@@ -1,0 +1,17 @@
+Tiger Axe
+Card Type: Normal Monster
+
+Description: A fast and powerful axe-wielding beast-warrior.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Millennium Pack
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

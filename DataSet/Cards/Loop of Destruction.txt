@@ -1,0 +1,14 @@
+Loop of Destruction
+Card Type: Trap Card
+
+Description: This card's name becomes "Ring of Destruction" while on the field. Once per turn, if a monster(s) on the field is destroyed by a card effect (except during the Damage Step): You can target 1 monster on the field; destroy it, and if you do, each player takes 500 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Collection Kaiba
+- Legendary Collection Kaiba Mega Pack

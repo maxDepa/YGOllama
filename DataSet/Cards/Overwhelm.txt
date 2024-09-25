@@ -1,0 +1,13 @@
+Overwhelm
+Card Type: Trap Card
+
+Description: Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

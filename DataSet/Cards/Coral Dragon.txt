@@ -1,0 +1,16 @@
+Coral Dragon
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Once per turn: You can discard 1 card, then target 1 card your opponent controls; destroy it. If this Synchro Summoned card is sent from the field to the GY: You can draw 1 card. You can only use this effect of "Coral Dragon" once per turn.
+
+Type: Dragon
+Attribute: WATER
+Level: 6
+Attack: 2400
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Legendary Hero Decks
+- The Dark Illusion

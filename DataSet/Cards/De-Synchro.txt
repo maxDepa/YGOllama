@@ -1,0 +1,19 @@
+De-Synchro
+Card Type: Spell Card
+
+Description: Target 1 Synchro Monster on the field; return that target to the Extra Deck, then, if all of the monsters that were used for the Synchro Summon of that monster are in your GY, you can Special Summon all of them.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Summoners
+- Legendary Collection 5D's Mega Pack
+- Maze of Millennia
+- OTS Tournament Pack 22
+- Starter Deck: Yu-Gi-Oh! 5D's 2009
+- The Duelist Genesis

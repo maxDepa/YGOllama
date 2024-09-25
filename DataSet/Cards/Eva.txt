@@ -1,0 +1,14 @@
+Eva
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except "Eva". You can only use this effect of "Eva" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 1
+Attack: 500
+Defence: 200
+Archetype: //
+Present in Sets:
+- Maximum Gold: El Dorado
+- Structure Deck: Wave of Light

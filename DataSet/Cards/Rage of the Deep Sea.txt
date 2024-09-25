@@ -1,0 +1,13 @@
+Rage of the Deep Sea
+Card Type: Effect Monster
+
+Description: This card gains 500 ATK and DEF for each Fish, Sea Serpent, or Aqua-Type monster in your Graveyard.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Abyss Rising

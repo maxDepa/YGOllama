@@ -1,0 +1,20 @@
+Harpies' Hunting Ground
+Card Type: Spell Card
+
+Description: All Winged Beast monsters gain 200 ATK/DEF. If any "Harpie Lady" or "Harpie Lady Sisters" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Astral Pack Two
+- Dark Revelation Volume 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Legendary Duelists: Sisters of the Rose
+- Rise of Destiny
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Structure Deck: Lord of the Storm

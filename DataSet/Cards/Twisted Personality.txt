@@ -1,0 +1,18 @@
+Twisted Personality
+Card Type: Skill Card
+
+Description: [At the start of the Duel, flip this card over.]
+
+Each time a player loses LP, place 1 counter on this card (max. 3). Once per turn, during your Main Phase, you can use 1 of the following Skills.
+● Remove 2 counters from this card, then discard 1 random card from your opponent's hand.
+● Remove 3 counters from this card, then destroy 1 face-up card your opponent controls.
+
+Type: Yami Marik
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3

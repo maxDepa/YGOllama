@@ -1,0 +1,16 @@
+Great White
+Card Type: Normal Monster
+
+Description: A giant white shark with razor-sharp teeth.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: Shark
+Present in Sets:
+- Speed Duel: Attack from the Deep
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution

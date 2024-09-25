@@ -1,0 +1,20 @@
+Number 11: Big Eye
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn this effect is activated.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Astral Pack Six
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Galactic Overlord
+- Premium Gold: Infinite Gold
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,14 @@
+Second Booster
+Card Type: Effect Monster
+
+Description: You can Tribute this card to select 1 face-up Attack Position monster you control. The selected monster gains 1500 ATK until the End Phase.
+
+Type: Machine
+Attribute: FIRE
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- The Shining Darkness

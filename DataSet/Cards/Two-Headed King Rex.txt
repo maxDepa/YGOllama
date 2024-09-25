@@ -1,0 +1,19 @@
+Two-Headed King Rex
+Card Type: Normal Monster
+
+Description: A powerful monster whose two heads attack as one.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Demo Deck 2020
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Trials of the Kingdom Sneak Peek participation cards
+- Tournament Pack: 2nd Season

@@ -1,0 +1,16 @@
+The Suppression Pluto
+Card Type: Effect Monster
+
+Description: Once per turn: You can declare 1 card name; look at your opponent's hand, then if they have the declared card in their hand, apply 1 of these effects.
+● Take control of 1 monster your opponent controls.
+● Destroy 1 Spell/Trap Card your opponent controls, then you can Set the destroyed Spell/Trap Card on your field.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed

@@ -1,0 +1,13 @@
+Paladin of Photon Dragon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Luminous Dragon Ritual". You can Tribute this card; Special Summon 1 "Galaxy-Eyes Photon Dragon" from your hand or Deck. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 800
+Archetype: Galaxy-Eyes
+Present in Sets:
+- Legacy of the Valiant

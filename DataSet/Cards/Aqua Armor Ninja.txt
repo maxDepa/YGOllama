@@ -1,0 +1,15 @@
+Aqua Armor Ninja
+Card Type: Effect Monster
+
+Description: When your opponent's monster declares a direct attack, if you have another "Ninja" monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.
+
+Type: Warrior
+Attribute: WATER
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: Ninja
+Present in Sets:
+- Order of Chaos
+- Star Pack 2013
+- Star Pack 2013

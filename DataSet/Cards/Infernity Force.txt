@@ -1,0 +1,13 @@
+Infernity Force
+Card Type: Trap Card
+
+Description: Activate only when an "Infernity" monster is selected as an attack target while you have no cards in your hand. Destroy the attacking monster and Special Summon 1 "Infernity" monster from your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infernity
+Present in Sets:
+- Stardust Overdrive

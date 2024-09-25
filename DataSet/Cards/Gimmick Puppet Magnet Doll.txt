@@ -1,0 +1,14 @@
+Gimmick Puppet Magnet Doll
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster, and all monsters you control are face-up "Gimmick Puppet" monsters (min. 1), you can Special Summon this card (from your hand).
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 1000
+Defence: 1000
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Premium Gold

@@ -1,0 +1,15 @@
+Duza the Meteor Cubic Vessel
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "Cubic" card from your Deck to the Graveyard. Once per turn, during either player's turn, if a monster was sent to your Graveyard this turn while this card was face-up on the field: You can make this card gain 200 ATK for each monster with a different name in your Graveyard, until the end of this turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: Cubic
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Special Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

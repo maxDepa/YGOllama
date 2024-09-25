@@ -1,0 +1,17 @@
+Spiritual Fire Art - Kurenai
+Card Type: Trap Card
+
+Description: Tribute 1 FIRE monster; inflict damage to your opponent equal to that monster's original ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Fire Kings
+- Structure Deck: Spirit Charmers

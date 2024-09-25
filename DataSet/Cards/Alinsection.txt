@@ -1,0 +1,13 @@
+Alinsection
+Card Type: Normal Monster
+
+Description: A stag beetle with a saw-like head and arms.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 950
+Defence: 700
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators

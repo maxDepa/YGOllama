@@ -1,0 +1,15 @@
+Sorciere de Fleur
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned, select 1 monster in your opponent's Graveyard. Special Summon that monster to your side of the field. It cannot attack your opponent directly, and is destroyed during the End Phase of this turn. The effect of "Sorciere de Fleur" can only be activated once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Synchro Storm
+- Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards
+- Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards

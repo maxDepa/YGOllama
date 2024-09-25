@@ -1,0 +1,13 @@
+Ragnaraika Armored Lizard
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 Insect, Plant, or Reptile monster from your GY. You can only Special Summon "Ragnaraika Armored Lizard" once per turn this way. You can discard 1 Insect, Plant, or Reptile monster, then target 1 face-up monster your opponent controls, except an Insect, Plant, or Reptile monster; return it to the hand. You can only use this effect of "Ragnaraika Armored Lizard" once per turn.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 2300
+Archetype: Ragnaraika
+Present in Sets:
+- Legacy of Destruction

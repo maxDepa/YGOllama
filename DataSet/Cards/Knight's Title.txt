@@ -1,0 +1,15 @@
+Knight's Title
+Card Type: Spell Card
+
+Description: Tribute 1 face-up "Dark Magician"; Special Summon 1 "Dark Magician Knight" from your hand, Deck or Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Yu-Gi-Oh! Double Pack promotional cards
+- Yu-Gi-Oh! Reshef of Destruction promotional cards

@@ -1,0 +1,14 @@
+Annihilator Archfiend
+Card Type: Effect Monster
+
+Description: You can target 1 card you control and 1 card your opponent controls; destroy them, and if you destroyed a face-up Fiend monster(s) by this effect, this card gains ATK equal to half the Fiend monster(s)'s original ATK, until the end of this turn. You can only use this effect of "Annihilator Archfiend" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 9
+Attack: 2000
+Defence: 3000
+Archetype: Archfiend
+Present in Sets:
+- Ignition Assault
+- Speed Duel GX: Duelists of Shadows

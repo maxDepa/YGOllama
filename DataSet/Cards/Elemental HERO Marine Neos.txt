@@ -1,0 +1,15 @@
+Elemental HERO Marine Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + "Neo-Spacian Marine Dolphin"
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) Once per turn: You can destroy 1 random card in your opponent's hand.
+
+Type: Warrior
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 2300
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Tactical Evolution

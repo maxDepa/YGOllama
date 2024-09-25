@@ -1,0 +1,15 @@
+Petit Angel
+Card Type: Normal Monster
+
+Description: A quick-moving and tiny fairy that's very difficult to hit.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 600
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

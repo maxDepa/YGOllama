@@ -1,0 +1,19 @@
+Meklord Army of Granel
+Card Type: Effect Monster
+
+Description: This card gains 100 ATK for each "Meklord" monster on the field, except this card. When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; halve that target's ATK, until the end of this turn.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Meklord
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Rage of Ra
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

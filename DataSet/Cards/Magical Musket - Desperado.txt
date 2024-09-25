@@ -1,0 +1,13 @@
+Magical Musket - Desperado
+Card Type: Trap Card
+
+Description: If you control a "Magical Musket" monster: Target 1 face-up card on the field; destroy it. You can only activate 1 "Magical Musket - Desperado" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Magical Musket
+Present in Sets:
+- Spirit Warriors

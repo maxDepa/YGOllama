@@ -1,0 +1,13 @@
+B.E.S. Big Core MK-3
+Card Type: Effect Monster
+
+Description: If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand) in Defense Position. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it. You can banish this card from your Graveyard; shuffle all "B.E.S." monsters from your Graveyard into the Deck.
+
+Type: Machine
+Attribute: LIGHT
+Level: 8
+Attack: 2700
+Defence: 1900
+Archetype: B.E.S.
+Present in Sets:
+- Maximum Crisis

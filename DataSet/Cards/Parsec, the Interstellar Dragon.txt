@@ -1,0 +1,13 @@
+Parsec, the Interstellar Dragon
+Card Type: Effect Monster
+
+Description: If you control a Level 8 monster, you can Normal Summon this card without Tributing.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

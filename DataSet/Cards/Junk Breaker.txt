@@ -1,0 +1,14 @@
+Junk Breaker
+Card Type: Effect Monster
+
+Description: During your Main Phase, if this card was Normal Summoned this turn: You can Tribute this card; all face-up monsters on the field have their effects negated until the end of this turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Junk
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

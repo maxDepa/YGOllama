@@ -1,0 +1,13 @@
+Firewall Phantom
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can add 1 "Cynet" Spell/Trap from your Deck to your hand, then discard 1 card. You can banish this card from your GY; during the End Phase of this turn, shuffle 1 Cyberse monster from your GY into the Deck. You can only use each effect of "Firewall Phantom" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 1300
+Archetype: Firewall
+Present in Sets:
+- Cyberstorm Access

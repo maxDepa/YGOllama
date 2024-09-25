@@ -1,0 +1,13 @@
+Tradetoad
+Card Type: Effect Monster
+
+Description: Once per turn, you can Tribute 1 Aqua-Type monster to select 1 "Frog" monster in your Graveyard, except "Frog the Jam". Special Summon that monster from your Graveyard.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 2000
+Archetype: Frog
+Present in Sets:
+- Extreme Victory

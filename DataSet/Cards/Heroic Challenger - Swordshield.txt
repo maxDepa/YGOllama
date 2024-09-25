@@ -1,0 +1,14 @@
+Heroic Challenger - Swordshield
+Card Type: Effect Monster
+
+Description: During either player's turn, if you control a face-up "Heroic" monster: You can send this card from your hand to the Graveyard; for the rest of this turn, you take no Battle Damage and "Heroic" monsters you control cannot be destroyed by battle.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Heroic
+Present in Sets:
+- OTS Tournament Pack 19 (POR)
+- Return of the Duelist

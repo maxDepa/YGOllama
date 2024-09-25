@@ -1,0 +1,17 @@
+Gouki Re-Match
+Card Type: Spell Card
+
+Description: Target 2 "Gouki" monsters in your GY with different Levels; Special Summon them in Defense Position. You can only activate 1 "Gouki Re-Match" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

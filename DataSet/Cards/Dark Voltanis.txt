@@ -1,0 +1,13 @@
+Dark Voltanis
+Card Type: Effect Monster
+
+Description: After 1 Counter Trap Card you control has been activated and has resolved, you can Tribute 1 DARK monster to Special Summon this card from your hand. If this card is Special Summoned in this way, destroy 1 card on the field.
+
+Type: Fairy
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Crimson Crisis

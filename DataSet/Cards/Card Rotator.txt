@@ -1,0 +1,14 @@
+Card Rotator
+Card Type: Spell Card
+
+Description: Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos
+- Duelist Pack: Yusei

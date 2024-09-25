@@ -1,0 +1,15 @@
+Cyber Slash Harpie Lady
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+For this card's Synchro Summon, you can treat 1 "Harpie" monster you control as a Tuner. This card's name becomes "Harpie Lady" while on the field or in the GY. When a Spell/Trap Card or effect is activated (except during the Damage Step) (Quick Effect): You can target 1 monster your opponent controls or 1 "Harpie" monster you control; return it to the hand. You can only use this effect of "Cyber Slash Harpie Lady" once per turn.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 8
+Attack: 2600
+Defence: 1400
+Archetype: Harpie
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Dragons of Legend: The Complete Series

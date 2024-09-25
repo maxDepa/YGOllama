@@ -1,0 +1,13 @@
+Galaxy Wave
+Card Type: Spell Card
+
+Description: Each time you Xyz Summon: Inflict 500 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos

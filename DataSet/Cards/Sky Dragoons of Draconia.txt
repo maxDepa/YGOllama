@@ -1,0 +1,18 @@
+Sky Dragoons of Draconia
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.
+
+[ Monster Effect ] 
+''Rumored as being formed to invade the neutral, floating Sky-State of Cxulub, these mounted air troops of the Draconia Empire have prompted bordering nations to strengthen their security.''
+
+Type: Winged Beast
+Attribute: WIND
+Level: 5
+Attack: 2200
+Defence: 200
+Archetype: Draconia
+Present in Sets:
+- Clash of Rebellions
+- Clash of Rebellions Sneak Peek Participation Card

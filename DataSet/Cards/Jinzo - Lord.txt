@@ -1,0 +1,15 @@
+Jinzo - Lord
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 face-up "Jinzo" you control to the Graveyard. Trap Cards cannot be activated and the effects of all Trap Cards on the field are negated. Once per turn, you can destroy all face-up Trap Cards. Inflict 300 damage to your opponent for each card destroyed by this effect.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 2600
+Defence: 1600
+Archetype: Jinzo
+Present in Sets:
+- Legendary Duelists: Rage of Ra
+- Light of Destruction
+- Speed Duel: Streets of Battle City

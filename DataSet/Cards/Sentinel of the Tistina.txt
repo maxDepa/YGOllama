@@ -1,0 +1,12 @@
+Sentinel of the Tistina
+Card Type: Effect Monster
+
+Description: If this card is in your hand or GY and you control a LIGHT "Tistina" monster: You can Special Summon this card. You can target 1 "Tistina" monster or 1 face-down card you control; destroy it, then add 1 "Tistina" card from your Deck to your hand. You can only use each effect of "Sentinel of the Tistina" once per turn.
+
+Type: Aqua
+Attribute: WIND
+Level: 3
+Attack: 1200
+Defence: 1400
+Archetype: Tistina
+Present in Sets:

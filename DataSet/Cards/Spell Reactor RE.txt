@@ -1,0 +1,13 @@
+Spell Reactor RE
+Card Type: Effect Monster
+
+Description: Once per turn, when your opponent activates a Spell Card, you can destroy the Spell Card and inflict 800 damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: //
+Present in Sets:
+- Crimson Crisis

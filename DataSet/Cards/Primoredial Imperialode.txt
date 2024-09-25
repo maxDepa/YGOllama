@@ -1,0 +1,12 @@
+Primoredial Imperialode
+Card Type: Spell Card
+
+Description: Normal Monsters and "Primoredial" monsters you control gain 300 ATK for each Normal Monster in your GY with different names. You can only use each of the following effects of "Primoredial Imperialode" once per turn. When this card is activated: Add 1 "Primoredial" card from your Deck to your hand, except "Primoredial Imperialode". You can declare 1 Normal Monster's name; Special Summon 1 Normal Monster with that name from your hand, Deck, or GY, also you cannot activate Special Summoned monsters' effects for the rest of this turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Primoredial
+Present in Sets:

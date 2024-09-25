@@ -1,0 +1,16 @@
+Energy Drain
+Card Type: Trap Card
+
+Description: Target 1 face-up monster you control; it gains 200 ATK/DEF for each card your opponent currently has in their hand, until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel: Trials of the Kingdom

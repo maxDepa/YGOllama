@@ -1,0 +1,19 @@
+Stygian Street Patrol
+Card Type: Effect Monster
+
+Description: If this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the original Level of that monster in the GY x 100. You can banish this card from your GY; Special Summon 1 Fiend monster with 2000 or less ATK from your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Collectible Tins 2011 Wave 1
+- Duelist Revolution
+- Pendulum Domination Structure Deck
+- Structure Deck: Lair of Darkness
+- Structure Deck: Sacred Beasts

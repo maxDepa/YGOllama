@@ -1,0 +1,13 @@
+Lyrilusc - Bird Call
+Card Type: Spell Card
+
+Description: Take 1 "Lyrilusc" monster from your Deck, and either add it to your hand or send it to the GY, then you can Special Summon 1 "Lyrilusc" monster with a different name from your hand. You can only activate 1 "Lyrilusc - Bird Call" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lyrilusc
+Present in Sets:
+- Legendary Duelists: Synchro Storm

@@ -1,0 +1,15 @@
+Weeping Idol
+Card Type: Effect Monster
+
+Description: You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.
+
+Type: Rock
+Attribute: DARK
+Level: 2
+Attack: 0
+Defence: 500
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)

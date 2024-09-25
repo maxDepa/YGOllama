@@ -1,0 +1,16 @@
+Mefist the Infernal General
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Make your opponent discard 1 random card.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1800
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel Starter Decks: Twisted Nightmares

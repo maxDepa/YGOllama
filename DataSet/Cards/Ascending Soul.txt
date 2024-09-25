@@ -1,0 +1,14 @@
+Ascending Soul
+Card Type: Spell Card
+
+Description: Once per turn, when a Ritual Monster(s) is Ritual Summoned: You can target 1 monster in your Graveyard that was Tributed for the Ritual Summon; add that target to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- The Secret Forces

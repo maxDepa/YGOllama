@@ -1,0 +1,14 @@
+Power Capsule
+Card Type: Spell Card
+
+Description: Select 1 face-up "Victory Viper XX03" you control to activate this card. Select 1 effect of "Victory Viper XX03", and apply it as this card's effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice

@@ -1,0 +1,23 @@
+Beast King Barbaros
+Card Type: Effect Monster
+
+Description: You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all cards your opponent controls.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 1200
+Archetype: Barbaros
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Collectible Tins 2011 Wave 1
+- Egyptian God Deck: Slifer the Sky Dragon
+- Shonen Jump Vol. 7, Issue 6 promotional card
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Starter Deck: Yuya

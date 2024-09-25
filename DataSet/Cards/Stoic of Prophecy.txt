@@ -1,0 +1,13 @@
+Stoic of Prophecy
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard: Add 1 Level 3 "Prophecy" monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Spellbook
+Present in Sets:
+- Abyss Rising

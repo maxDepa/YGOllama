@@ -1,0 +1,19 @@
+Frostosaurus
+Card Type: Normal Monster
+
+Description: This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.
+
+Type: Dinosaur
+Attribute: WATER
+Level: 6
+Attack: 2600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Legendary Duelists: Duels From the Deep
+- Starter Deck: Xyz Symphony
+- Strike of Neos
+- Strike of Neos
+- Wild Survivors

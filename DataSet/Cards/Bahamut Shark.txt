@@ -1,0 +1,18 @@
+Bahamut Shark
+Card Type: XYZ Monster
+
+Description: 2 Level 4 WATER monsters
+Once per turn: You can detach 1 material from this card; Special Summon 1 Rank 3 or lower WATER Xyz Monster from your Extra Deck. This card cannot attack for the rest of this turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 2600
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Legendary Duelists: Duels From the Deep
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Premium Gold: Infinite Gold

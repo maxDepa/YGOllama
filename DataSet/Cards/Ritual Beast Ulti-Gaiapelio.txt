@@ -1,0 +1,17 @@
+Ritual Beast Ulti-Gaiapelio
+Card Type: Fusion Monster
+
+Description: 1 "Ritual Beast Ulti" monster + 1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
+Must be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) If Summoned this way, this card gains this effect.
+● During either player's turn, when a Spell/Trap Card, or monster effect, is activated: You can banish 1 "Ritual Beast" card from your hand; negate the activation, and if you do, destroy it.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 10
+Attack: 3200
+Defence: 2100
+Archetype: Ritual Beast
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Crossed Souls
+- Crossed Souls

@@ -1,0 +1,13 @@
+Resonance Device
+Card Type: Spell Card
+
+Description: Target 2 face-up monsters you control with the same Type and Attribute; change one of their Levels to the current Level of the other, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

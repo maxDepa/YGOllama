@@ -1,0 +1,17 @@
+Performapal Parrotrio
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, if you control a "Performapal", "Magician", or "Odd-Eyes" card in your other Pendulum Zone, except "Performapal Parrotrio": You can make this card's Pendulum Scale become 7 until the end of this turn.
+
+[ Monster Effect ] 
+When this card is destroyed by battle: You can Special Summon 1 "Performapal" monster from your Deck, except a Pendulum Monster.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: Performapal
+Present in Sets:
+- Starter Deck: Yuya

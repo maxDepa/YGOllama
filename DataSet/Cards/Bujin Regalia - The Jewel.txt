@@ -1,0 +1,14 @@
+Bujin Regalia - The Jewel
+Card Type: Trap Card
+
+Description: Target 1 Rank 4 Xyz Monster you control; equip this card to that target. It gains 300 ATK for each Xyz Material attached to it. Once per turn, while this card is equipped to a monster by this effect: You can attach 1 "Bujin" monster from your hand to the equipped monster as an Xyz Material.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

@@ -1,0 +1,14 @@
+Night Dragolich
+Card Type: Effect Monster
+
+Description: Change all non-Wyrm-Type Attack Position monsters that were Special Summoned from the Main or Extra Deck to Defense Position. All non-Wyrm-Type monsters that were Special Summoned from the Main or Extra Deck lose DEF equal to their original DEF.
+
+Type: Wyrm
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

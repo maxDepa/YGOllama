@@ -1,0 +1,14 @@
+Brotherhood of the Fire Fist - Hawk
+Card Type: Effect Monster
+
+Description: If this card in its owner's possession is destroyed by an opponent's card (either by battle or by card effect): You can Set 1 "Fire Formation" Spell Card directly from your Deck. While you control a "Fire Formation" Spell/Trap Card, all "Fire Fist" monsters you control gain 500 ATK and DEF.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 3
+Attack: 200
+Defence: 1500
+Archetype: Fire Fist
+Present in Sets:
+- Astral Pack Two
+- Cosmo Blazer

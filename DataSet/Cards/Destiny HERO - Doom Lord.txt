@@ -1,0 +1,17 @@
+Destiny HERO - Doom Lord
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 monster your opponent controls; banish that target. You cannot declare an attack the turn you activate this effect. You must control this face-up Attack Position card to activate and to resolve this effect. The banished monster returns to the opponent's side of the field, in the same battle position, during your 2nd Standby Phase after activation.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 800
+Archetype: Destiny HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Aster Phoenix
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duel Academy Box

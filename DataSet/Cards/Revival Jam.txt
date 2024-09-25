@@ -1,0 +1,21 @@
+Revival Jam
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 Life Points; Special Summon it in face-up Defense Position during your next turn's Standby Phase.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 500
+Archetype: Slime
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 4: Joey's World Mega Pack
+- Retro Pack 2
+- Speed Duel: Streets of Battle City

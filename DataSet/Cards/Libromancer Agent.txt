@@ -1,0 +1,14 @@
+Libromancer Agent
+Card Type: Effect Monster
+
+Description: You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. You can target 1 "Libromancer" card in your GY, except "Libromancer Agent"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of "Libromancer Agent" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 2500
+Archetype: Libromancer
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

@@ -1,0 +1,13 @@
+Reptilianne Servant
+Card Type: Effect Monster
+
+Description: Destroy this card if there are face-up monsters on the field other than this card. Destroy this card when it is targeted by the effect of a Spell or Trap Card. Neither player can Normal Summon a monster while this card is face-up on the field.
+
+Type: Reptile
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Reptilianne
+Present in Sets:
+- Absolute Powerforce

@@ -1,0 +1,14 @@
+Energy-Absorbing Monolith
+Card Type: Trap Card
+
+Description: Chain this card to an opponent's card effect that would inflict damage to you. That damage is negated, and you gain Life Points equal to the amount you would have taken.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gladiator's Assault
+- Gladiator's Assault

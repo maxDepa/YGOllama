@@ -1,0 +1,13 @@
+Ice Barrier
+Card Type: Trap Card
+
+Description: When an attack is declared involving your opponent's monster: Change that opponent's monster's ATK to 0, negate its effects, also it cannot change its battle position. You can banish this card from your GY; send 1 Level 5 or higher WATER monster from your Deck to the GY, then, you can add 1 WATER monster from your GY to your hand, also, until the end of your next turn after this effect resolves, you cannot Special Summon monsters, except WATER monsters. You can only use this effect of "Ice Barrier" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ice Barrier
+Present in Sets:
+- Brothers of Legend

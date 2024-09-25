@@ -1,0 +1,13 @@
+Face Card Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 LIGHT Warrior Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you control "Queen's Knight", "King's Knight", or "Jack's Knight", you can use 1 monster from your Deck as Fusion Material. You can only activate 1 "Face Card Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Polymerization
+Present in Sets:
+- King's Court

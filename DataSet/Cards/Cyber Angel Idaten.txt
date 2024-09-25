@@ -1,0 +1,19 @@
+Cyber Angel Idaten
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Machine Angel Ritual". If this card is Ritual Summoned: You can add 1 Ritual Spell from your Deck or GY to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK/DEF.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 1600
+Defence: 2000
+Archetype: Cyber Angel
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Pack: Dimensional Guardians
+- Legendary Duelists: Sisters of the Rose
+- Speed Duel GX: Duel Academy Box
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2022

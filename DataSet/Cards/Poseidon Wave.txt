@@ -1,0 +1,16 @@
+Poseidon Wave
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict 800 damage to your opponent for each Fish, Sea Serpent, or Aqua-Type monster you control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Generation Force
+- Realm of the Sea Emperor Structure Deck

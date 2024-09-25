@@ -1,0 +1,16 @@
+Giltia the D. Knight
+Card Type: Fusion Monster
+
+Description: "Guardian of the Labyrinth" + "Protector of the Throne"
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 1850
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Streets of Battle City

@@ -1,0 +1,12 @@
+Giant Scorpion of the Tundra
+Card Type: Normal Monster
+
+Description: An extraordinary blue scorpion found in the tundra, not in the desert.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 1100
+Defence: 1000
+Archetype: //
+Present in Sets:

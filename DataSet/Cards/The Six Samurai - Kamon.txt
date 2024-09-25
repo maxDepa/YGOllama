@@ -1,0 +1,17 @@
+The Six Samurai - Kamon
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up Spell/Trap Card; destroy that target. You must control a face-up "Six Samurai" monster with a different name to activate and to resolve this effect. This card cannot declare an attack during the turn this effect is activated. If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead.
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: Six Samurai
+Present in Sets:
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck
+- Strike of Neos

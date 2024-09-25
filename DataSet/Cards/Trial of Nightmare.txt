@@ -1,0 +1,15 @@
+Trial of Nightmare
+Card Type: Normal Monster
+
+Description: This fiend passes judgment on enemies that are locked in coffins.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 900
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

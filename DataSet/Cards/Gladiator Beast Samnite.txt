@@ -1,0 +1,15 @@
+Gladiator Beast Samnite
+Card Type: Effect Monster
+
+Description: If this card was Special Summoned by the effect of a "Gladiator Beast" monster, when this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 "Gladiator Beast" card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Samnite".
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 1200
+Archetype: Gladiator Beast
+Present in Sets:
+- Crimson Crisis
+- OTS Tournament Pack 12 (POR)
+- Turbo Pack: Booster One

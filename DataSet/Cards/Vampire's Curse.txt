@@ -1,0 +1,18 @@
+Vampire's Curse
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.
+
+Type: Zombie
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 800
+Archetype: Vampire
+Present in Sets:
+- Duelist League 16 participation cards
+- Legendary Collection 4: Joey's World Mega Pack
+- Magnificent Mavens
+- Phantom Darkness
+- Phantom Darkness
+- Speed Duel GX: Duelists of Shadows

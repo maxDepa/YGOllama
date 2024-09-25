@@ -1,0 +1,14 @@
+Mooyan Curry
+Card Type: Spell Card
+
+Description: Choose 1 player; that player gains 200 Life Points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

@@ -1,0 +1,24 @@
+Necro Gardna
+Card Type: Effect Monster
+
+Description: During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Champion Pack: Game Eight
+- Duel Terminal 5a
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Gold
+- Ra Yellow Mega Pack
+- Realm of Light Structure Deck
+- Tactical Evolution
+- Tactical Evolution
+- The Secret Forces

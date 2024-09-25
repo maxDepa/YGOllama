@@ -1,0 +1,13 @@
+Dark Spider
+Card Type: Effect Monster
+
+Description: Once per turn, you can increase the Level of 1 face-up Insect-Type monster you control by 2, until the End Phase.
+
+Type: Insect
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Stardust Overdrive

@@ -1,0 +1,14 @@
+Gagagigo the Risen
+Card Type: XYZ Monster
+
+Description: 3 Level 4 monsters
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 2950
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Duelist League 17 participation cards

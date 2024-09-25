@@ -1,0 +1,15 @@
+Photon Wyvern
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: Destroy all Set cards your opponent controls.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Photon
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Premium Collection Tin

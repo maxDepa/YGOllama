@@ -1,0 +1,13 @@
+Pandaborg
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to Special Summon 1 Level 4 Psychic-Type monster from your Deck.
+
+Type: Psychic
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

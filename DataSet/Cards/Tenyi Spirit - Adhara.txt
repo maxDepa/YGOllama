@@ -1,0 +1,17 @@
+Tenyi Spirit - Adhara
+Card Type: Tuner Monster
+
+Description: If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of "Tenyi Spirit - Adhara" once per turn.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Rising Rampage

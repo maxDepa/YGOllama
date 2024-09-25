@@ -1,0 +1,15 @@
+Linkmail Archfiend
+Card Type: Link Monster
+
+Description: 2+ monsters, including a Ritual, Fusion, Synchro, or Xyz Monster
+If this card is Special Summoned: You can target 1 Ritual, Fusion, Synchro, or Xyz Monster you control or in your GY; all monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, until the end of this turn. Your opponent cannot target monsters you control, that were Special Summoned from the Extra Deck, with monster effects. If this card would be destroyed by battle or card effect, you can banish 1 Ritual, Fusion, Synchro, or Xyz Monster from your GY instead.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2800
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Rising Rampage

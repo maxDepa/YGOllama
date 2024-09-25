@@ -1,0 +1,14 @@
+Dark Cat with White Tail
+Card Type: Flip Effect Monster
+
+Description: FLIP: Return 2 Monster Cards on your opponent's side of the field and 1 Monster Card on your side of the field to their owners' hands.
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

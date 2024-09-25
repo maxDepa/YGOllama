@@ -1,0 +1,16 @@
+Assault Beast
+Card Type: Effect Monster
+
+Description: You can discard this card to the GY; add 1 "Assault Mode Activate" from your Deck to your hand.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Structure Deck: The Crimson King

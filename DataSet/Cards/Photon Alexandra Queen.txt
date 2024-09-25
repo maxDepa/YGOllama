@@ -1,0 +1,14 @@
+Photon Alexandra Queen
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Butterspy" monsters
+You can detach 1 Xyz Material from this card; return all monsters on the field to the hand, then inflict 300 damage to each player for each card returned to their hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2400
+Defence: 1200
+Archetype: Butterspy
+Present in Sets:
+- Number Hunters

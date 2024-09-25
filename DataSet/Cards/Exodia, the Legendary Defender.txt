@@ -1,0 +1,13 @@
+Exodia, the Legendary Defender
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. You can Tribute 5 monsters to Tribute Summon (but not Set) this card. This card's ATK/DEF become the combined original ATK/DEF of the Tributed monsters. If this card Summoned this way destroys a DARK Fiend monster owned by your opponent, you win the Duel at the end of the Damage Step.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 10
+Attack: -1
+Defence: -1
+Archetype: Exodia
+Present in Sets:
+- 2019 Gold Sarcophagus Tin

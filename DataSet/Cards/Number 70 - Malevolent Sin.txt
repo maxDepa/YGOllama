@@ -1,0 +1,14 @@
+Number 70: Malevolent Sin
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; banish it until your opponent's next Standby Phase. At the end of the Damage Step, if this card attacked: You can make this card gain 300 ATK, and if you do, increase its Rank by 3.
+
+Type: Insect
+Attribute: DARK
+Level: 4
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Saga

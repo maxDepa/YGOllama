@@ -1,0 +1,15 @@
+Mokomoko
+Card Type: Flip Effect Monster
+
+Description: FLIP: Draw 1 card.
+During your Main Phase: You can change this card to face-down Defense Position.
+You can only use each of the preceding effects of "Mokomoko" once per turn. If this card battles a monster, neither can be destroyed by that battle.
+
+Type: Illusion
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Phantom Nightmare

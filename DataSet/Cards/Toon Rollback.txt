@@ -1,0 +1,16 @@
+Toon Rollback
+Card Type: Spell Card
+
+Description: Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Toon
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Match of the Millennium

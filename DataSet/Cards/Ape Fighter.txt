@@ -1,0 +1,17 @@
+Ape Fighter
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle: This card gains 300 ATK. If this card does not attack during your turn, the ATK gained from this effect returns to 0 during the End Phase of that turn.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Yu-Gi-Oh! 5D's Duel Transer promotional cards

@@ -1,0 +1,17 @@
+Fulfillment of the Contract
+Card Type: Spell Card
+
+Description: Activate this card by paying 800 LP, then target 1 Ritual Monster in your GY; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Hidden Summoners
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel: Attack from the Deep

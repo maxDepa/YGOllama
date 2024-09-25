@@ -1,0 +1,13 @@
+Ushi Oni
+Card Type: Normal Monster
+
+Description: A bull fiend restored by the dark arts, this monster appears out of a jar.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2150
+Defence: 1950
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards

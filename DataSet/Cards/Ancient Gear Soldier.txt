@@ -1,0 +1,17 @@
+Ancient Gear Soldier
+Card Type: Effect Monster
+
+Description: If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1300
+Archetype: Ancient Gear
+Present in Sets:
+- Dark Revelation Volume 3
+- Machine Reactor Structure Deck
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Machine Re-Volt
+- The Lost Millennium

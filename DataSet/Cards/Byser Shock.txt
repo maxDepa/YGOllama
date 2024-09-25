@@ -1,0 +1,16 @@
+Byser Shock
+Card Type: Effect Monster
+
+Description: If this card is Summoned: Return all Set cards on the field to the hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 800
+Defence: 600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- OTS Tournament Pack 24
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Twisted Nightmares

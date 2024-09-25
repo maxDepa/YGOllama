@@ -1,0 +1,16 @@
+Ghost Mourner & Moonlit Chill
+Card Type: Tuner Monster
+
+Description: If your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can discard this card, then target 1 of those face-up monsters; negate its effects until the end of this turn, also if that face-up monster leaves the field this turn, its controller takes damage equal to its original ATK. You can only use this effect of "Ghost Mourner & Moonlit Chill" once per turn.
+
+Type: Zombie
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code
+- Eternity Code
+- Maximum Gold: El Dorado

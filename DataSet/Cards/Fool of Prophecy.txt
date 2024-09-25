@@ -1,0 +1,13 @@
+Fool of Prophecy
+Card Type: Effect Monster
+
+Description: Once per turn: You can send 1 "Spellbook" Spell Card from your Deck to the Graveyard. During the End Phase of the turn this card activated this effect: You can Tribute this card; Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck. You must have 5 or more "Spellbook" Spell Cards with different names in your Graveyard to activate and to resolve this effect.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 900
+Archetype: Spellbook
+Present in Sets:
+- Cosmo Blazer

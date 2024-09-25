@@ -1,0 +1,14 @@
+Darklord Nurse Reficule
+Card Type: Effect Monster
+
+Description: Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.
+
+Type: Fairy
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 600
+Archetype: Darklord
+Present in Sets:
+- Destiny Soldiers
+- Yu-Gi-Oh! GX Tag Force Evolution promotional cards

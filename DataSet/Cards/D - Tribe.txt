@@ -1,0 +1,15 @@
+D. Tribe
+Card Type: Trap Card
+
+Description: All monsters on your side of the field are treated as Dragon-Type until the End Phase of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Starter Deck: Kaiba Evolution

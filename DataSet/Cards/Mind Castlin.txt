@@ -1,0 +1,13 @@
+Mind Castlin
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can target 1 face-up monster your opponent controls; switch control of that monster and this card. If this Synchro Summoned card is sent to the GY: You can target 1 face-up monster on each field; switch control of those monsters. You can only use each effect of "Mind Castlin" once per turn.
+
+Type: Psychic
+Attribute: DARK
+Level: 6
+Attack: 1500
+Defence: 2600
+Archetype: //
+Present in Sets:

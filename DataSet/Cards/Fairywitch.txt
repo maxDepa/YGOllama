@@ -1,0 +1,12 @@
+Fairywitch
+Card Type: Normal Monster
+
+Description: Though destined to be a fairy, this creature chose the way of the witch instead.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:

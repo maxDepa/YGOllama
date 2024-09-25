@@ -1,0 +1,14 @@
+Trance the Magic Swordsman
+Card Type: Normal Monster
+
+Description: A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 6
+Attack: 2600
+Defence: 200
+Archetype: //
+Present in Sets:
+- Return of the Duelist
+- Super Starter: V for Victory

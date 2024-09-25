@@ -1,0 +1,14 @@
+Xyz Change Tactics
+Card Type: Spell Card
+
+Description: When a "Utopia" monster is Xyz Summoned to your field: You can pay 500 LP; draw 1 card. You can only control 1 "Xyz Change Tactics".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Utopia
+Present in Sets:
+- Duel Power
+- The New Challengers

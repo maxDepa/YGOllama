@@ -1,0 +1,14 @@
+Subterror Behemoth Voltelluric
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can target 1 Set monster your opponent controls; take control of it until your next End Phase. You can only use this effect of "Subterror Behemoth Voltelluric" once per turn.
+When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.
+
+Type: Thunder
+Attribute: EARTH
+Level: 9
+Attack: 1900
+Defence: 3000
+Archetype: Subterror
+Present in Sets:
+- Raging Tempest

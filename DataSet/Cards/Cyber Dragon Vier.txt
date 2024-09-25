@@ -1,0 +1,15 @@
+Cyber Dragon Vier
+Card Type: Effect Monster
+
+Description: This card's name becomes "Cyber Dragon" while on the field or in the GY. If you Normal or Special Summon "Cyber Dragon", except during the Damage Step: You can Special Summon this card from your hand in Defense Position. You can only use this effect of "Cyber Dragon Vier" once per turn. Each "Cyber Dragon" you control gains 500 ATK/DEF.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 1600
+Archetype: Cyber Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- Structure Deck: Cyber Strike

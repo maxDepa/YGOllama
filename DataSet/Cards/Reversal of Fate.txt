@@ -1,0 +1,14 @@
+Reversal of Fate
+Card Type: Trap Card
+
+Description: Select 1 "Arcana Force" monster you control. That monster's effect is now treated as the opposite coin toss result.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction
+- OTS Tournament Pack 14 (POR)

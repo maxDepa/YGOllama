@@ -1,0 +1,13 @@
+Dynatherium
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand). You can only Special Summon "Dynatherium" once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player's Graveyard; they Special Summon that target to their side of the field.
+
+Type: Beast
+Attribute: WIND
+Level: 4
+Attack: 1600
+Defence: 600
+Archetype: //
+Present in Sets:
+- Premium Gold

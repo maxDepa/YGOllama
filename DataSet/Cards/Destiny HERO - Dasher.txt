@@ -1,0 +1,20 @@
+Destiny HERO - Dasher
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. One time only, when you draw a Monster Card during your Draw Phase while this card is in your Graveyard: You can reveal it; Special Summon it. This card must be in the Graveyard to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: DARK
+Level: 6
+Attack: 2100
+Defence: 1000
+Archetype: Destiny HERO
+Present in Sets:
+- Duelist Pack: Aster Phoenix
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Power of the Duelist
+- Power of the Duelist
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duel Academy Box

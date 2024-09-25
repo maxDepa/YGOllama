@@ -1,0 +1,16 @@
+Anti-Magic Arrows
+Card Type: Spell Card
+
+Description: At the start of the Battle Phase: For the rest of this turn after this card resolves, Spell/Trap Cards, and their effects, cannot be activated. Cards and effects cannot be activated in response to this card's activation.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Anti
+Present in Sets:
+- Duelist Pack: Battle City
+- Maximum Gold
+- Speed Duel: Streets of Battle City
+- Speed Duel: Streets of Battle City

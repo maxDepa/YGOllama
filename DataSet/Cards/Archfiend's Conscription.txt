@@ -1,0 +1,13 @@
+Archfiend's Conscription
+Card Type: Skill Card
+
+Description: You cannot Summon/Set non-Fiend monsters. Once per turn, during your Main Phase, you can roll a six-sided die. If you do, you lose LP equal to the result x 200, but if the result is 2, 3, or 4, you can Special Summon 1 "Archfiend" monster with a Level equal to the result from your hand, Deck, or GY.
+
+Type: Titan
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

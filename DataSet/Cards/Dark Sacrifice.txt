@@ -1,0 +1,13 @@
+Dark Sacrifice
+Card Type: Trap Card
+
+Description: When your opponent activates a card or effect that would destroy a card(s) on the field: Negate the effect, then send 1 Level 3 or lower DARK monster from your Deck to your GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Hero's Revenge

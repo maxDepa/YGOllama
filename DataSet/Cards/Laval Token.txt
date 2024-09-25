@@ -1,0 +1,12 @@
+Laval Token
+Card Type: Token
+
+Description: This card can be used as any Token.
+
+Type: Pyro
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Laval
+Present in Sets:

@@ -1,0 +1,14 @@
+Aquaactress Tetra
+Card Type: Effect Monster
+
+Description: Once per turn: You can add 1 "Aquarium" card from your Deck to your hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 300
+Archetype: Aquaactress
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

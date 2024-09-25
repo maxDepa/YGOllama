@@ -1,0 +1,14 @@
+Number 102: Star Seraph Sentry
+Card Type: XYZ Monster
+
+Description: 3 Level 4 LIGHT monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; halve its ATK, also, negate its effects. If this face-up card on the field would be destroyed, you can detach all of its Xyz Materials instead. If you do, any battle damage you take this turn is halved.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 2500
+Defence: 2000
+Archetype: Star Seraph
+Present in Sets:
+- Judgment of the Light

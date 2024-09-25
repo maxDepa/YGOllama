@@ -1,0 +1,18 @@
+Dark Eye Nightmare
+Card Type: Effect Monster
+
+Description: Once per turn, if this card would be destroyed by battle, you can banish 1 Trap from your GY instead. You can banish up to 3 Traps from your GY; apply this effect, based on the number banished.
+● 1: Draw 1 card, then place 1 card from your hand on top of the Deck.
+● 2: Draw 1 card.
+● 3: Draw 2 cards, then discard 1 card.
+You can only use this effect of "Dark Eye Nightmare" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1700
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Lightning Overdrive

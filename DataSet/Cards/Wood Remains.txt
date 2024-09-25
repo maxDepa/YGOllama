@@ -1,0 +1,12 @@
+Wood Remains
+Card Type: Normal Monster
+
+Description: A living corpse of wood re-animated by the power of darkness.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 900
+Archetype: //
+Present in Sets:

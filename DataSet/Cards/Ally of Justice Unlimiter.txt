@@ -1,0 +1,16 @@
+Ally of Justice Unlimiter
+Card Type: Effect Monster
+
+Description: You can Tribute this card to select 1 face-up "Ally of Justice" monster you control. Double its original ATK until the End Phase.
+
+Type: Machine
+Attribute: DARK
+Level: 2
+Attack: 600
+Defence: 200
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

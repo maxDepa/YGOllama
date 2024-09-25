@@ -1,0 +1,15 @@
+Phantom Beast Wild-Horn
+Card Type: Effect Monster
+
+Description: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series 2009
+- Speed Duel: Battle City Box
+- Yu-Gi-Oh! GX Tag Force promotional cards

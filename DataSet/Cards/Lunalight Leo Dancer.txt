@@ -1,0 +1,15 @@
+Lunalight Leo Dancer
+Card Type: Fusion Monster
+
+Description: "Lunalight Panther Dancer" + 2 "Lunalight" monsters
+Must be Fusion Summoned with the above Fusion Materials. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. This card can make a second attack during each Battle Phase. Once per turn, at the end of the Damage Step, if this card attacked a monster: You can destroy all Special Summoned monsters your opponent controls.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 10
+Attack: 3500
+Defence: 3000
+Archetype: Lunalight
+Present in Sets:
+- Legendary Duelists: Sisters of the Rose
+- Shining Victories

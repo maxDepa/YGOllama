@@ -1,0 +1,13 @@
+Dinosaur Kingdom
+Card Type: Skill Card
+
+Description: All Dinosaur monsters gain 300 ATK/DEF. 
+
+Type: Rex
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Ultimate Predators

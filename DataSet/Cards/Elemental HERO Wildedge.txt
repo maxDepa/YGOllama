@@ -1,0 +1,19 @@
+Elemental HERO Wildedge
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Wildheart" + "Elemental HERO Bladedge"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack every monster your opponent controls (one attack on each monster per Battle Phase).
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 2600
+Defence: 2300
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Elemental Energy
+- Elemental Energy
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 2

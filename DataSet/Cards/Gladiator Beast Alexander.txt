@@ -1,0 +1,14 @@
+Gladiator Beast Alexander
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned except by the effect of "Gladiator Beast Dimacari". If this card was Special Summoned, it is unaffected by the effects of Spell Cards. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Alexander".
+
+Type: Beast
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 600
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault
+- Gladiator's Assault

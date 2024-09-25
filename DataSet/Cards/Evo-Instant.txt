@@ -1,0 +1,13 @@
+Evo-Instant
+Card Type: Trap Card
+
+Description: Tribute 1 Reptile-Type monster; Special Summon 1 "Evolsaur" monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evolsaur
+Present in Sets:
+- Order of Chaos

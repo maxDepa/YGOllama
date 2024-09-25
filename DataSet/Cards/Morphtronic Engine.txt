@@ -1,0 +1,13 @@
+Morphtronic Engine
+Card Type: Spell Card
+
+Description: Equip only to a Level 3 "Morphtronic" monster. Its ATK becomes double its original ATK. During your second Standby Phase after this card's activation, destroy this card, and take damage equal to the original ATK of the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crossroads of Chaos

@@ -1,0 +1,15 @@
+Gaiarmor Dragonshell
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+You can Tribute this card, then target 3 other Synchro Monsters in your GY; return them to the Extra Deck. You can target 1 monster you control Special Summoned from the Extra Deck; equip this card from your GY to it. When an attack is declared involving the monster equipped with this card: You can draw 1 card. You can only use each effect of "Gaiarmor Dragonshell" once per turn.
+
+Type: Dragon
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 1300
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

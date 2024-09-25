@@ -1,0 +1,15 @@
+Violet Witch
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle and sent to the Graveyard: Add 1 Plant-Type monster with 1500 or less DEF from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis
+- Legendary Collection 5D's Mega Pack

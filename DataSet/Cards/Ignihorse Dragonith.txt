@@ -1,0 +1,12 @@
+Ignihorse Dragonith
+Card Type: Normal Monster
+
+Description: ''A draco-horse racing around freely upon the boiling sea. It continues to run on the water surface today in order to prevent its own flames from extinguishing. It dreams of one day setting foot upon its homeland.''
+
+Type: Sea Serpent
+Attribute: FIRE
+Level: 7
+Attack: 2400
+Defence: 1000
+Archetype: //
+Present in Sets:

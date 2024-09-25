@@ -1,0 +1,13 @@
+Tyrant's Throes
+Card Type: Trap Card
+
+Description: Activate by Tributing 2 Normal Monsters (except Tokens). Neither player can Normal or Special Summon Effect Monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

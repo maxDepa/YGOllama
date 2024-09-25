@@ -1,0 +1,15 @@
+Code Talker
+Card Type: Link Monster
+
+Description: 2 Effect Monsters
+Gains 500 ATK for each monster this card points to. Cannot be destroyed by battle or your opponent's card effects, while this card points to a monster.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Fists of the Gadgets
+- Maximum Gold: El Dorado

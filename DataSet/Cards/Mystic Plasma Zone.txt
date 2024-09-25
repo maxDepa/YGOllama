@@ -1,0 +1,18 @@
+Mystic Plasma Zone
+Card Type: Spell Card
+
+Description: Increase the ATK of all DARK monsters by 500 points and decreases their DEF by 400 points.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Yugi Evolution

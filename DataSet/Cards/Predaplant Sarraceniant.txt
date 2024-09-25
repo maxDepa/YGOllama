@@ -1,0 +1,13 @@
+Predaplant Sarraceniant
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. After damage calculation, if this card battled an opponent's monster: You can destroy that opponent's monster. If this card is destroyed by battle, or if this card on the field is sent to the Graveyard by a card effect: You can add 1 "Predap" card from your Deck to your hand, except "Predaplant Sarraceniant". You can only use this effect of "Predaplant Sarraceniant" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 600
+Archetype: Predaplant
+Present in Sets:
+- Fusion Enforcers

@@ -1,0 +1,13 @@
+Moray of Avarice
+Card Type: Spell Card
+
+Description: Banish 1 face-up Fish, Sea Serpent, or Aqua monster you control; draw 2 cards. You can only activate 1 "Moray of Avarice" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Power of the Elements

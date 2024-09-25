@@ -1,0 +1,17 @@
+Performapal Gumgumouton
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.
+
+[ Monster Effect ] 
+Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 900
+Defence: 2400
+Archetype: Performapal
+Present in Sets:
+- The Dark Illusion

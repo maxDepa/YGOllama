@@ -1,0 +1,15 @@
+Broken Bamboo Sword
+Card Type: Spell Card
+
+Description: The equipped monster gains 0 ATK.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bamboo Sword
+Present in Sets:
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Tactical Evolution

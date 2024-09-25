@@ -1,0 +1,15 @@
+Tribe-Infecting Virus
+Card Type: Effect Monster
+
+Description: Discard 1 card from your hand and declare 1 Type of monster. Destroy all face-up monsters of the declared Type on the field.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Structure Deck: Fury from the Deep

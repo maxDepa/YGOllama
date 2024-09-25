@@ -1,0 +1,15 @@
+Borrel Cooling
+Card Type: Trap Card
+
+Description: Tribute 1 "Rokket" monster, then target 1 "Borrel" Link Monster you control; equip it with this card. If this card is equipped to a monster by this effect, the equipped monster gains this effect.
+● Once per turn (Quick Effect): You can target 1 monster you control; it cannot be destroyed by battle or card effect this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rokket
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

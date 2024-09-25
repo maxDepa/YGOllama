@@ -1,0 +1,13 @@
+Ancient Warriors Saga - Deception and Betrayal
+Card Type: Spell Card
+
+Description: During your Main Phase: You can Special Summon 1 "Ancient Warriors" monster from your hand, and if you do, take damage equal to its Level x 100. You can send this face-up card from the Spell & Trap Zone to the GY, then target 1 "Ancient Warriors" monster on the field; change it to any Attribute, then, if you targeted an opponent's monster, you can take control of it. You can only use each effect of "Ancient Warriors Saga - Deception and Betrayal" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ancient Warriors
+Present in Sets:
+- Dimension Force

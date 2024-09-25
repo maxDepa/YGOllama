@@ -1,0 +1,13 @@
+Chachaka Archer
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.
+
+Type: Warrior
+Attribute: WIND
+Level: 6
+Attack: 1200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Zexal Collection Tin

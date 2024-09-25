@@ -1,0 +1,12 @@
+Dark Chimera
+Card Type: Normal Monster
+
+Description: A fire-breathing monster that dwells in the netherworld.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1610
+Defence: 1460
+Archetype: //
+Present in Sets:

@@ -1,0 +1,13 @@
+Glass Slippers
+Card Type: Spell Card
+
+Description: If this card is equipped to a Fairy monster, it gains 1000 ATK. If this card is equipped to a non-Fairy monster, it cannot attack, also it loses 1000 ATK. If this card is sent to the GY because the equipped monster is destroyed: You can target 1 "Prinzessin" you control; equip this card to that target. You can only use this effect of "Glass Slippers" once per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Relentless Revenge

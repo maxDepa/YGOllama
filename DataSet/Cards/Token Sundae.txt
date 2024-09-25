@@ -1,0 +1,15 @@
+Token Sundae
+Card Type: Spell Card
+
+Description: Destroy all Tokens you control, then destroy cards on the field up to the number of Tokens destroyed by this effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Rage of Ra
+- Speed Duel: Streets of Battle City
+- Storm of Ragnarok

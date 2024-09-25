@@ -1,0 +1,12 @@
+Boo Koo
+Card Type: Normal Monster
+
+Description: A book-like wizard with a wealth of magic written inside.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 650
+Defence: 500
+Archetype: //
+Present in Sets:

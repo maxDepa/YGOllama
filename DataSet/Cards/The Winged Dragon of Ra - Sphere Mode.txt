@@ -1,0 +1,18 @@
+The Winged Dragon of Ra - Sphere Mode
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 "The Winged Dragon of Ra" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.
+
+Type: Divine-Beast
+Attribute: DIVINE
+Level: 10
+Attack: -1
+Defence: -1
+Archetype: Egyptian God
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Circuit Break Special Edition
+- Duel Power
+- Duelist Pack: Battle City
+- Ghosts From the Past: The 2nd Haunting

@@ -1,0 +1,16 @@
+Malfunction
+Card Type: Trap Card
+
+Description: Pay 500 Life Points. Negate the activation of a Trap Card and return it to its original position.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity
+- Structure Deck: Dinosaur's Rage

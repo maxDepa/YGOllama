@@ -1,0 +1,16 @@
+Machine King Prototype
+Card Type: Effect Monster
+
+Description: This card gains 100 ATK and DEF for each Machine-Type monster on the field, except this card.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 4
+- Shadow of Infinity

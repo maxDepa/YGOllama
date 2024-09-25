@@ -1,0 +1,14 @@
+Constellar Pollux
+Card Type: Effect Monster
+
+Description: During the turn this card was Normal Summoned, you can Normal Summon 1 "Constellar" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 600
+Archetype: Constellar
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

@@ -1,0 +1,15 @@
+Aquarian Alessa
+Card Type: Gemini Monster
+
+Description: This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
+● When this card destroys an opponent's monster by battle and sends it to the Graveyard, they discard 1 random card.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Tactical Evolution
+- Tactical Evolution

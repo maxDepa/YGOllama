@@ -1,0 +1,12 @@
+Ancient Tree of Enlightenment
+Card Type: Normal Monster
+
+Description: This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 600
+Defence: 1500
+Archetype: //
+Present in Sets:

@@ -1,0 +1,16 @@
+Aleister the Invoker of Madness
+Card Type: Link Monster
+
+Description: 2 monsters with different Types and different Attributes
+This card's name becomes "Aleister the Invoker" while on the field or in the GY. If a monster is Fusion Summoned while you control this monster (except during the Damage Step): You can discard 1 card, and if you do, add 1 "Invocation" or "The Book of the Law" from your Deck to your hand. If this face-up card you control leaves the field because of an opponent's card effect: You can add 1 "Omega Summon" from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 1800
+Defence: 0
+Archetype: Invoked
+Present in Sets:
+- Genesis Impact
+- Genesis Impact
+- Shadows in Valhalla

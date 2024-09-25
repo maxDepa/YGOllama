@@ -1,0 +1,15 @@
+Cyberse Witch
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+If a monster is Special Summoned to a zone this card points to (except during the Damage Step): You can banish 1 Spell from your GY; add 1 Cyberse Ritual Monster and 1 "Cynet Ritual" from your Deck to your hand. During your Main Phase, if this effect was activated this turn: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it. You can only use each effect of "Cyberse Witch" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

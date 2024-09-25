@@ -1,0 +1,15 @@
+The Weather Auroral Canvas
+Card Type: Trap Card
+
+Description: "The Weather" Effect Monsters in your Main Monster Zones of this card's column and its adjacent columns gain this effect.
+● When exactly 1 card is added to one player's hand (except during the Damage Step): You can banish this card; banish the added card, and if you do, that player draws 1 card.
+You can only control 1 "The Weather Auroral Canvas".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: The Weather
+Present in Sets:
+- Spirit Warriors

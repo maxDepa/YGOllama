@@ -1,0 +1,16 @@
+The Fabled Kokkator
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can discard 1 "Fabled" monster to draw 1 card.
+
+Type: Beast
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1500
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

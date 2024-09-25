@@ -1,0 +1,20 @@
+Silent Swordsman LV3
+Card Type: Effect Monster
+
+Description: Negate your opponent's Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 "Silent Swordsman LV5" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Silent Swordsman
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 5a
+- Duelist Pack: Rivals of the Pharaoh
+- Legendary Collection 3: Yugi's World Mega Pack
+- Rise of Destiny
+- Rise of Destiny
+- Starter Deck: Yugi Reloaded
+- Yugi's Legendary Decks

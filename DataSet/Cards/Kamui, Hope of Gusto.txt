@@ -1,0 +1,14 @@
+Kamui, Hope of Gusto
+Card Type: Flip Effect Monster
+
+Description: FLIP: Special Summon 1 "Gusto" Tuner monster from your Deck.
+
+Type: Psychic
+Attribute: WIND
+Level: 2
+Attack: 200
+Defence: 1000
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

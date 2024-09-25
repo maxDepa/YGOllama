@@ -1,0 +1,14 @@
+Junk Converter
+Card Type: Effect Monster
+
+Description: You can discard this card and 1 Tuner; add 1 "Synchron" monster from your Deck to your hand. If this card is sent to the GY as Synchro Material: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but it cannot activate its effects this turn. You can only use each effect of "Junk Converter" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 400
+Defence: 200
+Archetype: Junk
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

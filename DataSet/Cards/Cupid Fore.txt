@@ -1,0 +1,13 @@
+Cupid Fore
+Card Type: Effect Monster
+
+Description: If all monsters you control are monsters with 600 DEF (min. 1): You can Special Summon this card from your hand. (Quick Effect): You can discard 1 card, then target 1 LIGHT Fairy monster you control and 1 face-up monster on the field; the Level of your monster becomes the other monster's Level, until the end of this turn. You can only use each effect of "Cupid Fore" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 600
+Archetype: Cupid
+Present in Sets:
+- Phantom Rage

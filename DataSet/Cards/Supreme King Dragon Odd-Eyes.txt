@@ -1,0 +1,19 @@
+Supreme King Dragon Odd-Eyes
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can Tribute 1 "Supreme King Dragon" monster; destroy this card, and if you do, add 1 Pendulum Monster with 1500 or less ATK from your Deck to your hand.
+
+[ Monster Effect ] 
+You can Tribute 2 "Supreme King Dragon" monsters; Special Summon this card from your hand. If your Pendulum Monster battles an opponent's monster, any battle damage it inflicts to your opponent is doubled. During the Battle Phase (Quick Effect): You can Tribute this card; Special Summon up to 2 face-up "Supreme King Dragon" and/or "Supreme King Gate" Pendulum Monsters from your Extra Deck in Defense Position, except "Supreme King Dragon Odd-Eyes".
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2500
+Defence: 2000
+Archetype: Odd-Eyes
+Present in Sets:
+- Code of the Duelist
+- Legendary Dragon Decks
+- Maze of Millennia

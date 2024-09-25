@@ -1,0 +1,17 @@
+Number F0: Utopic Draco Future
+Card Type: XYZ Monster
+
+Description: 3 Xyz Monsters with the same Rank, except "Number" monsters
+(This card's original Rank is always treated as 1. This card is always treated as a "Utopic Future" card.)
+You can also Xyz Summon this card by using "Number F0: Utopic Future" you control as material. (Transfer its materials to this card.) Cannot be destroyed by battle or card effects. Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, then, if that monster is on the field, gain control of it.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 0
+Attack: 3000
+Defence: 2000
+Archetype: Utopia
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- King's Court
+- King's Court

@@ -1,0 +1,14 @@
+Amazoness Princess
+Card Type: Effect Monster
+
+Description: This card's name becomes "Amazoness Queen" while on the field or in the GY. If this card is Normal or Special Summoned: You can add 1 "Amazoness" Spell/Trap from your Deck to your hand. You can only use this effect of "Amazoness Princess" once per turn. When this card declares an attack: You can send 1 other card from your hand or field to the GY; Special Summon 1 "Amazoness" monster from your Deck in Defense Position, except "Amazoness Princess".
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1200
+Defence: 900
+Archetype: Amazoness
+Present in Sets:
+- Legendary Duelists
+- Legendary Duelists: Season 1

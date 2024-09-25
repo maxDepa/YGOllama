@@ -1,0 +1,16 @@
+Branded in High Spirits
+Card Type: Spell Card
+
+Description: Reveal 1 monster in your hand and send 1 Level 8 Fusion Monster from your Extra Deck to the GY with the same Type that has 2500 ATK or DEF, then you can apply this effect.
+● Discard the revealed monster, and if you do, add 1 "Fallen of Albaz", or 1 monster that mentions it, from your Deck to your hand.
+During the End Phase, if a Fusion Monster was sent to your GY this turn: You can add this card from the GY to your hand. You can only use 1 "Branded in High Spirits" effect per turn, and only once that turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Branded
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

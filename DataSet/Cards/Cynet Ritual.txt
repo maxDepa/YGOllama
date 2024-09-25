@@ -1,0 +1,14 @@
+Cynet Ritual
+Card Type: Spell Card
+
+Description: This card can be used to Ritual Summon any Cyberse Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If you control no monsters: You can banish this card and 1 Ritual Monster from the GY; Special Summon 2 "Cynet Tokens" (Cyberse/LIGHT/Level 4/ATK 0/DEF 0). You cannot activate this effect the turn this card is sent to the GY.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

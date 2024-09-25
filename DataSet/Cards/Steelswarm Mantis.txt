@@ -1,0 +1,14 @@
+Steelswarm Mantis
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned by Tributing a "Steelswarm" monster: You can pay 1000 Life Points to target 1 "Steelswarm" monster in your Graveyard; Special Summon that target.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Fake Feather
+Card Type: Trap Card
+
+Description: Send 1 "Blackwing" monster from your hand to the Graveyard and select 1 Normal Trap Card in your opponent's Graveyard. The effect of this card will be same as the selected Normal Trap Card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- Raging Battle

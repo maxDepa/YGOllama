@@ -1,0 +1,18 @@
+Legendary Fiend
+Card Type: Effect Monster
+
+Description: Once per turn, during your Standby Phase: This card gains 700 ATK.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Phantom Darkness
+- Speed Duel Starter Decks: Twisted Nightmares
+- Structure Deck: Marik (TCG)
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

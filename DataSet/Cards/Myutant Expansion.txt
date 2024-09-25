@@ -1,0 +1,13 @@
+Myutant Expansion
+Card Type: Trap Card
+
+Description: When you activate this card: You can take 1 Level 4 or lower "Myutant" monster from your Deck, and either add it to your hand or Special Summon it. If a Level 8 or higher "Myutant" monster(s) you control would be destroyed by card effect, you can banish this card you control instead. You can only activate 1 "Myutant Expansion" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Myutant
+Present in Sets:
+- Phantom Rage

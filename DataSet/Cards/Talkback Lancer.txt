@@ -1,0 +1,14 @@
+Talkback Lancer
+Card Type: Link Monster
+
+Description: 1 Level 2 or lower Cyberse monster
+You can Tribute 1 other Cyberse monster, then target 1 "Code Talker" monster in your GY with a different original name from that monster; Special Summon it to your zone this card points to. You can only use this effect of "Talkback Lancer" once per turn.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 1200
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Fists of the Gadgets

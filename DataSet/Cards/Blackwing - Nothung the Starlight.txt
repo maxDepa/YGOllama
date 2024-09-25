@@ -1,0 +1,15 @@
+Blackwing - Nothung the Starlight
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is Special Summoned: Inflict 800 damage to your opponent, then 1 face-up monster your opponent controls loses 800 ATK and DEF. You can only use this effect of "Blackwing - Nothung the Starlight" once per turn. During your Main Phase, you can Normal Summon 1 "Blackwing" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
+
+Type: Winged Beast
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1600
+Archetype: Blackwing
+Present in Sets:
+- Legendary Duelists: Season 2
+- Premium Gold: Return of the Bling

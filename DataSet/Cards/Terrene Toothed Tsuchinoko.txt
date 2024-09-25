@@ -1,0 +1,13 @@
+Terrene Toothed Tsuchinoko
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: Change all other Special Summoned monsters on the field to face-down Defense Position. You can only use the effect of "Terrene Toothed Tsuchinoko" once per turn.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 500
+Archetype: //
+Present in Sets:
+- Shadow Specters

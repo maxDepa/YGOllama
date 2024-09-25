@@ -1,0 +1,14 @@
+Archnemeses Eschatos
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 monsters with different Types from your GY and/or face-up field. Cannot be destroyed by card effects. You can declare 1 Monster Type on the field; destroy all monsters on the field with that Type, also until the end of the next turn, neither player can Special Summon monsters with that Type. You can only use this effect of "Archnemeses Eschatos" once per turn.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 11
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Eternity Code
+- Valiant Smashers

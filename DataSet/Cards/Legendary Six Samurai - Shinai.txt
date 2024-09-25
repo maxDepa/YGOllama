@@ -1,0 +1,14 @@
+Legendary Six Samurai - Shinai
+Card Type: Effect Monster
+
+Description: If you control "Legendary Six Samurai - Mizuho", you can Special Summon this card (from your hand). If this card on the field is Tributed: Target 1 "Six Samurai" monster in your GY, except "Legendary Six Samurai - Shinai"; add it to your hand.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 1500
+Defence: 1500
+Archetype: Six Samurai
+Present in Sets:
+- Spirit Warriors
+- Storm of Ragnarok

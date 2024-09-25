@@ -1,0 +1,14 @@
+Iron Chain Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+You can remove from play all "Iron Chain" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.
+
+Type: Dragon
+Attribute: EARTH
+Level: 6
+Attack: 2500
+Defence: 1300
+Archetype: Iron Chain
+Present in Sets:
+- Crossroads of Chaos

@@ -1,0 +1,18 @@
+Confiscation
+Card Type: Spell Card
+
+Description: Pay 1000 Life Points. Look at your opponent's hand, select 1 card in it and discard that card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

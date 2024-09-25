@@ -1,0 +1,16 @@
+Gernia
+Card Type: Effect Monster
+
+Description: During your next Standby Phase, after this face-up card you control was destroyed and sent to your Graveyard by an opponent's card effect: Special Summon it.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Gold Series: Haunted Mine
+- Legendary Duelists: Season 3
+- Zombie World Structure Deck

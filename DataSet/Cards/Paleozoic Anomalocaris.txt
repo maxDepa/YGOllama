@@ -1,0 +1,15 @@
+Paleozoic Anomalocaris
+Card Type: XYZ Monster
+
+Description: 3 or more Level 2 monsters
+This card is unaffected by other monsters' effects. Once per turn, if a Trap Card(s) is sent from your Spell & Trap Zone to the Graveyard (except during the Damage Step): You can excavate the top card of your Deck, and if it is a Trap Card, add it to your hand. Otherwise, send it to the Graveyard. Once per turn, during either player's turn, if this card has a Trap Card as Xyz Material: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 2400
+Defence: 0
+Archetype: Paleozoic
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- The Dark Illusion

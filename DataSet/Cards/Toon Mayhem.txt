@@ -1,0 +1,15 @@
+Toon Mayhem!
+Card Type: Skill Card
+
+Description: [At the start of the Duel, flip this card over.]
+
+The first time each "Toon World" in your Spell & Trap Zone would be destroyed each turn, it is not destroyed.
+
+Type: Pegasus
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Match of the Millennium

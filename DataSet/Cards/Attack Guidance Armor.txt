@@ -1,0 +1,16 @@
+Attack Guidance Armor
+Card Type: Trap Card
+
+Description: When a monster declares an attack: Activate 1 of these effects;
+● Destroy the attacking monster.
+● Target 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.
+You can only activate 1 "Attack Guidance Armor" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set

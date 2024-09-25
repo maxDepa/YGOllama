@@ -1,0 +1,18 @@
+Mask of the Accursed
+Card Type: Spell Card
+
+Description: The equipped monster cannot attack. Once per turn, during your Standby Phase: Inflict 500 damage to the controller of the equipped monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mask
+Present in Sets:
+- 2-Player Starter Set
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Attack from the Deep

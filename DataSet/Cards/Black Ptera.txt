@@ -1,0 +1,16 @@
+Black Ptera
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the GY, except by being destroyed by battle: Return it to the hand.
+
+Type: Dinosaur
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Power of the Duelist
+- Speed Duel: Trials of the Kingdom
+- Structure Deck: Dinosaur's Rage

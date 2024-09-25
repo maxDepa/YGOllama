@@ -1,0 +1,14 @@
+Warm Worm
+Card Type: Effect Monster
+
+Description: If this card is destroyed, send the top 3 cards of your opponent's Deck to the Graveyard.
+
+Type: Insect
+Attribute: FIRE
+Level: 3
+Attack: 600
+Defence: 1400
+Archetype: Worm
+Present in Sets:
+- Yu-Gi-Oh! 5D's Tag Force 4 promotional cards
+- Yu-Gi-Oh! 5D's Tag Force 4 promotional cards

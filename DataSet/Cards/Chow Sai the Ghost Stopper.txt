@@ -1,0 +1,14 @@
+Chow Sai the Ghost Stopper
+Card Type: Effect Monster
+
+Description: Neither player can activate the effects of Spell/Trap Cards in the GY. If this card is sent from the field to your GY: You can target 1 Spell/Trap in your opponent's GY; banish it.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dimension Force
+- Speed Duel: Streets of Battle City

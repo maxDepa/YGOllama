@@ -1,0 +1,13 @@
+Demise, Agent of Armageddon
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Cycle of the World". This card's name becomes "Demise, King of Armageddon" while in the hand or on the field. If this card is Ritual Summoned: Destroy 1 face-up monster on the field. If this card is sent to the GY: You can target 1 Ritual Monster you control; while it is face-up on your field, your opponent cannot activate cards or effects in response to the activation of your Ritual Monsters' effects.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Demise
+Present in Sets:
+- Cybernetic Horizon

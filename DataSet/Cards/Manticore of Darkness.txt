@@ -1,0 +1,18 @@
+Manticore of Darkness
+Card Type: Effect Monster
+
+Description: During the End Phase of the turn this card was sent to the Graveyard: You can send to the Graveyard 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or your side of the field; Special Summon this card from your Graveyard.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Onslaught of the Fire Kings Structure Deck
+- Speed Duel: Battle City Box

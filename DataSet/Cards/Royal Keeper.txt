@@ -1,0 +1,15 @@
+Royal Keeper
+Card Type: Effect Monster
+
+Description: Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian
+- Zombie World Structure Deck

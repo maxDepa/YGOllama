@@ -1,0 +1,19 @@
+Mataza the Zapper
+Card Type: Effect Monster
+
+Description: This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Starter Deck: Jaden Yuki
+- Structure Deck: Warrior's Triumph

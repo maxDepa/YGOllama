@@ -1,0 +1,13 @@
+Nomadic Force
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card to target 1 face-down Defense Position monster your opponent controls; destroy that target.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Galactic Overlord

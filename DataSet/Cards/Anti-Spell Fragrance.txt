@@ -1,0 +1,24 @@
+Anti-Spell Fragrance
+Card Type: Trap Card
+
+Description: Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Anti
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Champion Pack: Game Five
+- Duel Devastator
+- Duel Terminal 4
+- Magnificent Mavens
+- OTS Tournament Pack 1
+- Structure Deck: Zombie Horde
+- Tactical Masters
+- Tactical Masters
+- Turbo Pack: Booster Two
+- Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards
+- Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards

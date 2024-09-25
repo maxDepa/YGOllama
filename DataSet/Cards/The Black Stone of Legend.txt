@@ -1,0 +1,15 @@
+The Black Stone of Legend
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon 1 Level 7 or lower "Red-Eyes" monster from your Deck, except "Red-Eyes B. Chick". If this card is in your Graveyard: You can target 1 Level 7 or lower "Red-Eyes" monster in your Graveyard, except "Red-Eyes B. Chick"; shuffle it into the Deck, and if you do, add this card to your hand. You can only use 1 "The Black Stone of Legend" effect per turn, and only once that turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Clash of Rebellions
+- Legendary Decks II
+- Legendary Duelists: Season 1

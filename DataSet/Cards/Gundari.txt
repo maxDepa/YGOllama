@@ -1,0 +1,13 @@
+Gundari
+Card Type: Spirit Monster
+
+Description: This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card battles a Synchro Monster, return both monsters to their owners' hands at the start of the Damage Step (without damage calculation).
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 200
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

@@ -1,0 +1,13 @@
+Trickstar Noble Angel
+Card Type: Link Monster
+
+Description: 2 "Trickstar" monsters
+If this card is Link Summoned: You can add 1 "Blue Tears" card from your Deck to your hand. If you have a Fusion Monster on your field or in your GY: You can target 1 "Trickstar" monster in your GY; Special Summon it. If effect damage is inflicted (except during the Damage Step): You can target 1 face-up card on the field; destroy it. You can only use each effect of "Trickstar Noble Angel" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 0
+Attack: 2000
+Defence: 0
+Archetype: Trickstar
+Present in Sets:

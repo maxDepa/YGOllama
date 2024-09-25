@@ -1,0 +1,16 @@
+Evigishki Merrowgeist
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+ After damage calculation, if this card destroys an opponent's monster by battle: You can detach 1 Xyz Material from this card; shuffle the destroyed monster into the Deck instead of sending it to the Graveyard.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 2100
+Defence: 1600
+Archetype: Gishki
+Present in Sets:
+- Battle Pack 3: Monster League
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

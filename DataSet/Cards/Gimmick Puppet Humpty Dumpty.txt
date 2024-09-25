@@ -1,0 +1,14 @@
+Gimmick Puppet Humpty Dumpty
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can Special Summon 1 "Gimmick Puppet" monster from your hand. You can only use this effect of "Gimmick Puppet Humpty Dumpty" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 100
+Archetype: Gimmick Puppet
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Premium Gold

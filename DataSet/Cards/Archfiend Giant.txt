@@ -1,0 +1,14 @@
+Archfiend Giant
+Card Type: Effect Monster
+
+Description: If this face-up card on the field would be destroyed by a card effect, you can pay 500 LP instead. This effect can only be used once while this card is face-up on the field. If this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 "Archfiend" monster from your hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 1600
+Archetype: Archfiend
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

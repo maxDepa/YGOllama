@@ -1,0 +1,15 @@
+Steam Synchron
+Card Type: Tuner Monster
+
+Description: During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon using this card you control (this is a Quick Effect).
+
+Type: Machine
+Attribute: WATER
+Level: 3
+Attack: 600
+Defence: 800
+Archetype: Synchron
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Legendary Collection 5D's Mega Pack

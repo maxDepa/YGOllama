@@ -1,0 +1,15 @@
+Extinction on Schedule
+Card Type: Trap Card
+
+Description: During the Main Phase: Pay 2000 LP; make both players send all cards they control to the Graveyard at the end of the 3rd Battle Phase after this card's activation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Dinosmasher's Fury Structure Deck

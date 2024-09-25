@@ -1,0 +1,12 @@
+Wicked Dragon with the Ersatz Head
+Card Type: Normal Monster
+
+Description: A two-headed dragon with a pair of jaws that can tear an enemy to shreds.
+
+Type: Dragon
+Attribute: WIND
+Level: 3
+Attack: 900
+Defence: 900
+Archetype: //
+Present in Sets:

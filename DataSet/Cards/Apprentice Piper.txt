@@ -1,0 +1,16 @@
+Apprentice Piper
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 monster from your hand.
+If this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster from your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 100
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

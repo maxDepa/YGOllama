@@ -1,0 +1,13 @@
+Sorcerous Spell Wall
+Card Type: Spell Card
+
+Description: All monsters you control gain 300 ATK during your turn only. All monsters you control gain 300 DEF during your opponent's turn only.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Super Starter: Space-Time Showdown

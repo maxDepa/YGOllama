@@ -1,0 +1,14 @@
+Flyfang
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. At the end of the Battle Phase, if this card inflicted Battle Damage to your opponent: Banish this card until your next Standby Phase.
+
+Type: Fish
+Attribute: WIND
+Level: 3
+Attack: 1600
+Defence: 300
+Archetype: //
+Present in Sets:
+- Generation Force
+- Speed Duel: Streets of Battle City

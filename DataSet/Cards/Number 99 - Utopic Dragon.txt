@@ -1,0 +1,15 @@
+Number 99: Utopic Dragon
+Card Type: XYZ Monster
+
+Description: 3 Level 10 monsters
+You can also Xyz Summon this card by discarding 1 "Rank-Up-Magic" Spell Card and using a "Utopia" monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn: You can target 1 "Number" monster in your Graveyard; Special Summon it in Defense Position, but its effects are negated. During either player's turn, when a monster effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 10
+Attack: 4000
+Defence: 2000
+Archetype: Utopia
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- The New Challengers

@@ -1,0 +1,14 @@
+Pikari @Ignister
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "A.I." Spell/Trap from your Deck to your hand. You can target 1 "@Ignister" monster you control; its Level becomes 4 until the end of this turn. You can only use each effect of "Pikari @Ignister" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 600
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

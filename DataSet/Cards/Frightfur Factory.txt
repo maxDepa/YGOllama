@@ -1,0 +1,14 @@
+Frightfur Factory
+Card Type: Spell Card
+
+Description: You can banish 1 "Polymerization" Spell Card or "Fusion" Spell Card from your Graveyard, except "Diffusion Wave-Motion"; Fusion Summon 1 "Frightfur" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If this card is sent to the Graveyard: You can target 1 of your banished "Frightfur Fusion"; add it to your hand. You can only use each effect of "Frightfur Factory" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Frightfur
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls

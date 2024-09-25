@@ -1,0 +1,14 @@
+Thunder Dragonhawk
+Card Type: Effect Monster
+
+Description: You can discard this card; Special Summon 1 of your "Thunder Dragon" monsters that is banished or in your GY, except "Thunder Dragonhawk". If this card is banished, or sent from the field to the GY: You can shuffle any number of cards from your hand into the Deck, then draw the same number of cards. You can only use 1 "Thunder Dragonhawk" effect per turn, and only once that turn.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 2200
+Archetype: Thunder Dragon
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

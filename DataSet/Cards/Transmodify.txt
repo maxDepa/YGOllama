@@ -1,0 +1,16 @@
+Transmodify
+Card Type: Spell Card
+
+Description: Send 1 face-up monster you control to the GY; Special Summon from your Deck, 1 monster with the same Type and Attribute as that monster in the GY, but 1 Level higher. You can only activate 1 "Transmodify" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battles of Legend: Light's Revenge
+- Judgment of the Light
+- Structure Deck: Soulburner

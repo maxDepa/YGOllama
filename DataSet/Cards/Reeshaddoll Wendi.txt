@@ -1,0 +1,15 @@
+Reeshaddoll Wendi
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 "Shaddoll" monster from your Deck in face-up or face-down Defense Position, except "Reeshaddoll Wendi".
+If this card is sent to the GY by a card effect: You can Special Summon 1 "Shaddoll" monster from your Deck in face-down Defense Position, except "Reeshaddoll Wendi". You can only use 1 "Reeshaddoll Wendi" effect per turn, and only once that turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: Shaddoll
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Structure Deck: Shaddoll Showdown

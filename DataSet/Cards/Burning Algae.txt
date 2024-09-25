@@ -1,0 +1,15 @@
+Burning Algae
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard, increase your opponent's Life Points by 1000 points.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos

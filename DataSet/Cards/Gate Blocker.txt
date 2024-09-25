@@ -1,0 +1,15 @@
+Gate Blocker
+Card Type: Effect Monster
+
+Description: Negate the effects of your opponent's Field Spells. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control with card effects.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Duel Devastator

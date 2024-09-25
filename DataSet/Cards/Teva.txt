@@ -1,0 +1,13 @@
+Teva
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned successfully, your opponent cannot declare an attack during his/her next turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Capsule Monster Coliseum promotional cards

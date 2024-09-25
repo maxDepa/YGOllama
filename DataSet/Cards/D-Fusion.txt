@@ -1,0 +1,14 @@
+D-Fusion
+Card Type: Trap Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material, and if you do, it cannot be destroyed by battle or card effects this turn. Only "Destiny HERO" monsters can be used as Fusion Material for a Fusion Summon using this card's effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Destiny Soldiers
+- Legendary Hero Decks

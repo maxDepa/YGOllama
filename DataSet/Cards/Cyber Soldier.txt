@@ -1,0 +1,12 @@
+Cyber Soldier
+Card Type: Normal Monster
+
+Description: Guardian of the Machine Master, it crushes opposition by rolling over them.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1500
+Defence: 1700
+Archetype: //
+Present in Sets:

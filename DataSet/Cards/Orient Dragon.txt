@@ -1,0 +1,15 @@
+Orient Dragon
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card is Synchro Summoned: Target 1 Synchro Monster your opponent controls; banish that target.
+
+Type: Dragon
+Attribute: WIND
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Generation Force
+- Legendary Collection 5D's Mega Pack

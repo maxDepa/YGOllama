@@ -1,0 +1,14 @@
+Masked HERO Acid
+Card Type: Fusion Monster
+
+Description: Must be Special Summoned with "Mask Change". When this card is Special Summoned: Destroy as many Spells and Traps your opponent controls as possible, and if you do, all monsters they control lose 300 ATK.
+
+Type: Warrior
+Attribute: WATER
+Level: 8
+Attack: 2600
+Defence: 2100
+Archetype: Masked HERO
+Present in Sets:
+- Premium Collection Tin
+- Toon Chaos

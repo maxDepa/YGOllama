@@ -1,0 +1,16 @@
+Space Gift
+Card Type: Spell Card
+
+Description: Draw 1 card for each different "Neo-Spacian" name on the monsters you control.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Neo-Spacian
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Light of Destruction
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)

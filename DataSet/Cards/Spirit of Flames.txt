@@ -1,0 +1,18 @@
+Spirit of Flames
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 FIRE monster from your Graveyard. This card gains 300 ATK during your Battle Phase only.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Onslaught of the Fire Kings Structure Deck
+- Speed Duel GX: Duel Academy Box
+- Structure Deck: Fire Kings

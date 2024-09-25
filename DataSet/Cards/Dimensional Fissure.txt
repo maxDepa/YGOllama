@@ -1,0 +1,20 @@
+Dimensional Fissure
+Card Type: Spell Card
+
+Description: Any monster sent to the Graveyard is banished instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Champion Pack: Game Eight
+- Dark Revelation Volume 4
+- Duelist Saga
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- The Dark Emperor Structure Deck

@@ -1,0 +1,16 @@
+Getsu Fuhma
+Card Type: Effect Monster
+
+Description: If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Zombie World Structure Deck

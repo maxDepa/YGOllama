@@ -1,0 +1,13 @@
+Wattsychic Fighter
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can target 1 card in your opponent's Graveyard; place it on either the top or bottom of their Deck. You can only use this effect of "Wattsychic Fighter" once per turn.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 3
+Attack: 1500
+Defence: 300
+Archetype: Watt
+Present in Sets:
+- World Superstars

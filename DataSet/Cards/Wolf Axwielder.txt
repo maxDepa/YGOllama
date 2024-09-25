@@ -1,0 +1,14 @@
+Wolf Axwielder
+Card Type: Normal Monster
+
+Description: Once it has started battle, this monster attacks fiercely and cannot stop.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1650
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legacy of Darkness
+- Legacy of Darkness

@@ -1,0 +1,12 @@
+Mech Bass
+Card Type: Normal Monster
+
+Description: A mechanized bass with a large mouth and a cannon on its back. The cannon fires blinding plasma rays.
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:

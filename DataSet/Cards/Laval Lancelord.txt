@@ -1,0 +1,14 @@
+Laval Lancelord
+Card Type: Effect Monster
+
+Description: You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard. When this card on the field is destroyed and sent to the Graveyard: You can target 1 of your banished FIRE monsters; add that target to your hand.
+
+Type: Warrior
+Attribute: FIRE
+Level: 6
+Attack: 2100
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Onslaught of the Fire Kings Structure Deck
+- Photon Shockwave

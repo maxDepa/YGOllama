@@ -1,0 +1,19 @@
+Foolish Burial Goods
+Card Type: Spell Card
+
+Description: Send 1 Spell/Trap from your Deck to the GY. You can only activate 1 "Foolish Burial Goods" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Battles of Legend: Relentless Revenge
+- Dark Saviors
+- Maximum Gold
+- Raging Tempest
+- Structure Deck: Lair of Darkness
+- Structure Deck: Legend of the Crystal Beasts

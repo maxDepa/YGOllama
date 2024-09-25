@@ -1,0 +1,13 @@
+Yellow-Bellied Oni
+Card Type: Effect Monster
+
+Description: When you Xyz Summon a monster: You can Special Summon this card from your hand. Once per turn: You can detach 1 Xyz Material from a monster you control, then target 1 face-up Xyz Monster on the field; reduce its Rank by 1, and if you do, it loses 300 ATK.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Shadow Specters

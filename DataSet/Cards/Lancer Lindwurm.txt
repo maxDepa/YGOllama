@@ -1,0 +1,14 @@
+Lancer Lindwurm
+Card Type: Effect Monster
+
+Description: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Legion Starter Deck
+- Extreme Victory

@@ -1,0 +1,16 @@
+Defense Draw
+Card Type: Trap Card
+
+Description: During your opponent's turn, at damage calculation: Make the battle damage you take from this battle 0, and if you do, draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Demo Deck 2016
+- Duelist Pack: Yusei
+- Starter Deck: Duelist Toolbox
+- The Duelist Genesis

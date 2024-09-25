@@ -1,0 +1,14 @@
+Cat's Ear Tribe
+Card Type: Effect Monster
+
+Description: The original ATK of your opponent's monster(s) that battles with this card during his/her turn becomes 200 points during the Damage Step.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 1
+Attack: 200
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

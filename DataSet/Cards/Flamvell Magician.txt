@@ -1,0 +1,16 @@
+Flamvell Magician
+Card Type: Tuner Monster
+
+Description: While you control an "Ally of Justice" monster(s), this card gains 400 ATK.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 4
+Attack: 1400
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,15 @@
+Zeman the Ape King
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1 non-Tuner Beast-Type monster
+If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Duelist Pack Collection Tin 2011

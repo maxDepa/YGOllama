@@ -1,0 +1,14 @@
+Elemental HERO Solid Soldier
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower "HERO" monster from your hand. If this card is sent from the Monster Zone to the GY by a Spell effect: You can target 1 "HERO" monster in your GY, except "Elemental HERO Solid Soldier"; Special Summon it in Defense Position. You can only use this effect of "Elemental HERO Solid Soldier" once per turn.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1300
+Defence: 1100
+Archetype: Elemental HERO
+Present in Sets:
+- 2018 Mega-Tins
+- Toon Chaos

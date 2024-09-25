@@ -1,0 +1,14 @@
+Infernity Patriarch
+Card Type: Effect Monster
+
+Description: If this is the only card in your hand, you can Special Summon it (from your hand). You can only Special Summon "Infernity Patriarch" once per turn this way. While you have no cards in your hand, if an "Infernity" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Infernity
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

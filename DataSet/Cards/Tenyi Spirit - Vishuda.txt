@@ -1,0 +1,18 @@
+Tenyi Spirit - Vishuda
+Card Type: Effect Monster
+
+Description: If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 card your opponent controls; return it to the hand. You can only use each effect of "Tenyi Spirit - Vishuda" once per turn.
+
+Type: Wyrm
+Attribute: DARK
+Level: 7
+Attack: 1500
+Defence: 2500
+Archetype: Tenyi
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Egyptian God Deck: Slifer the Sky Dragon
+- Ghosts From the Past: The 2nd Haunting
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- Rising Rampage

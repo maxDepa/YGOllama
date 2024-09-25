@@ -1,0 +1,14 @@
+Floowandereeze & Robina
+Card Type: Effect Monster
+
+Description: If this face-up card would leave the field, banish it instead. You can only use each of the following effects of "Floowandereeze & Robina" once per turn, and cannot Special Summon during the turn you activate either effect. If this card is Normal Summoned: You can add 1 Level 4 or lower Winged Beast monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 Winged Beast monster. If a Winged Beast monster is Normal Summoned to your field while this card is banished: You can add this card to your hand.
+
+Type: Winged Beast
+Attribute: WATER
+Level: 1
+Attack: 600
+Defence: 1200
+Archetype: Floowandereeze
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

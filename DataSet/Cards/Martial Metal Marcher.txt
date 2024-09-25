@@ -1,0 +1,15 @@
+Martial Metal Marcher
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but negate its effects. You can only use this effect of "Martial Metal Marcher" once per turn. A Synchro Monster that used this card as material is treated as a Tuner while face-up on the field.
+
+Type: Machine
+Attribute: WIND
+Level: 3
+Attack: 500
+Defence: 2200
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tins
+- Maximum Gold

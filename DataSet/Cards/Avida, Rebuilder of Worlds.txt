@@ -1,0 +1,13 @@
+Avida, Rebuilder of Worlds
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by there being at least 8 or more Link Monsters with different names on the field and/or in the GYs. You cannot Special Summon other monsters the turn you Special Summon this card. This card's Special Summon cannot be negated. If this card is Special Summoned: Shuffle all other monsters that are banished, on the field, and in the GYs into the Decks. Neither player can activate cards or effects in response to this effect's activation.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 11
+Attack: 3500
+Defence: 3500
+Archetype: World Legacy
+Present in Sets:
+- Rising Rampage

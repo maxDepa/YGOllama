@@ -1,0 +1,12 @@
+Xyz Poseidon Splash
+Card Type: Trap Card
+
+Description: If you control an Xyz Monster that has an Xyz Monster as material: Declare 1 monster Attribute on the field; destroy all monsters on the field with that Attribute that are not equipped with an Equip Spell. You can banish this card from your GY and detach 1 Xyz Material from a monster you control; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your GY to either field. You can only use 1 "Xyz Poseidon Splash" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Xyz
+Present in Sets:

@@ -1,0 +1,13 @@
+Sentinel of the Seas
+Card Type: Normal Monster
+
+Description: A merman warrior that relentlessly attacks those who pollute the seas with their presence.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1300
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Six

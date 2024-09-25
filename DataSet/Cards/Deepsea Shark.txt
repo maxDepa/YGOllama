@@ -1,0 +1,15 @@
+Deepsea Shark
+Card Type: Fusion Monster
+
+Description: "Bottom Dweller" + "Tongyo"
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1900
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

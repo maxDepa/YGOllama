@@ -1,0 +1,13 @@
+Depth Shark
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Normal Summon this card without Tributing. Once per turn, during your opponent's Standby Phase: This card's ATK becomes double its current ATK until the end of this turn.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 1400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Saga

@@ -1,0 +1,13 @@
+Calming Magic
+Card Type: Spell Card
+
+Description: This card can only be activated at the start of Main Phase 1. During the Main Phases and Battle Phase of this turn, neither player can Summon monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Raging Battle

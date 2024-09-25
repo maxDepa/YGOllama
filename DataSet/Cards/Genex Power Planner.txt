@@ -1,0 +1,15 @@
+Genex Power Planner
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can add 1 Level 3 "Genex" Effect Monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Duel Terminal 1
+- Duelist Revolution

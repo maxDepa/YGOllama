@@ -1,0 +1,18 @@
+Frightfur Chimera
+Card Type: Fusion Monster
+
+Description: 3 "Frightfur" monsters
+Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field, but its ATK is halved. You can only use this effect of "Frightfur Chimera" once per turn. This card gains 300 ATK for each monster you control that is owned by your opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: Frightfur
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Crossed Souls
+- Crossed Souls
+- Star Pack Battle Royal
+- Star Pack Battle Royal

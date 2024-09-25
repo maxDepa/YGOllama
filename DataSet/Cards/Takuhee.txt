@@ -1,0 +1,14 @@
+Takuhee
+Card Type: Normal Monster
+
+Description: This bird is known far and wide as a harbinger of doom.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 4
+Attack: 1450
+Defence: 1000
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 2
+- Tournament Pack: 2nd Season

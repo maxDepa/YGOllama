@@ -1,0 +1,14 @@
+Hi-Speedroid Hagoita
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+During either player's turn: You can Tribute this card; increase the Levels of all monsters currently on the field by 1, until the end of this turn. If this card is in your Graveyard and you control a "Speedroid" Tuner monster: You can Special Summon this card, also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of "Hi-Speedroid Hagoita" once per turn.
+
+Type: Machine
+Attribute: WIND
+Level: 5
+Attack: 2000
+Defence: 1000
+Archetype: Hi-Speedroid
+Present in Sets:
+- Breakers of Shadow

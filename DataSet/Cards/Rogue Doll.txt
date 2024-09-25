@@ -1,0 +1,19 @@
+Rogue Doll
+Card Type: Normal Monster
+
+Description: A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Event Pack Speed Duel
+- Speed Duel Starter Decks: Destiny Masters
+- Speed Duel Starter Decks: Destiny Masters
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus

@@ -1,0 +1,13 @@
+Photon Caesar
+Card Type: Effect Monster
+
+Description: When this card is Normal or Flip Summoned: You can Special Summon 1 "Photon Caesar" from your hand or Deck.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 8
+Attack: 2000
+Defence: 2800
+Archetype: Photon
+Present in Sets:
+- Return of the Duelist

@@ -1,0 +1,16 @@
+Stumbling
+Card Type: Spell Card
+
+Description: Any monster that is Normal Summoned, Flip Summoned or Special Summoned is changed to Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos

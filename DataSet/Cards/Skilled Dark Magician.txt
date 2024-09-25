@@ -1,0 +1,23 @@
+Skilled Dark Magician
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 "Dark Magician" from your hand, Deck, or GY.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 1700
+Archetype: Dark Magician
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist League 15 participation cards
+- Legendary Dragon Decks
+- Magician's Force
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Yugi Muto
+- Tournament Pack 7
+- Yugi's Legendary Decks

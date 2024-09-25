@@ -1,0 +1,19 @@
+Fusion Substitute
+Card Type: Spell Card
+
+Description: (This card's name is always treated as "Polymerization".)
+Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Material. You can banish this card from your GY, then target 1 Fusion Monster in your GY; return it to the Extra Deck, then draw 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Fusion Enforcers
+- Legendary Decks II
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Structure Deck: Albaz Strike
+- The New Challengers

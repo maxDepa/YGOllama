@@ -1,0 +1,14 @@
+Victory Dragon
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 2400
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Retro Pack 2
+- Shonen Jump Vol. 5, Issue 1 promotional card

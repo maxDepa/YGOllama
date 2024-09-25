@@ -1,0 +1,15 @@
+D.D. Trainer
+Card Type: Normal Monster
+
+Description: A poor goblin that was sucked into a different dimension. However, he's doing his best with his new destiny.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 2000
+Archetype: D.D.
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

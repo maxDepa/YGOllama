@@ -1,0 +1,17 @@
+Exodius the Ultimate Forbidden Lord
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different "Forbidden One" cards in your Graveyard that were sent there by this card's effect, you win the Duel.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 10
+Attack: -1
+Defence: 0
+Archetype: Exodia
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Collectible Tins 2010 Wave 2
+- Millennium Pack
+- Shonen Jump May 2008 subscription bonus

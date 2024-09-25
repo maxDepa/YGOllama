@@ -1,0 +1,14 @@
+Valkyrie Vierte
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can excavate the top cards of your Deck equal to the number of other "Valkyrie" monsters you control, and if you do, add 1 excavated Normal Spell/Trap to your hand, also send the remaining cards to the GY. Otherwise, shuffle all excavated cards into the Deck. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 "Valkyrie" monster from your Deck. You can only use each effect of "Valkyrie Vierte" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1400
+Defence: 1400
+Archetype: Valkyrie
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

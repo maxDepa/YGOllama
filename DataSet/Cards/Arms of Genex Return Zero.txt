@@ -1,0 +1,14 @@
+Arms of Genex Return Zero
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1+ non-Tuner monsters
+When your opponent activates a monster effect (Quick Effect): You can banish 1 monster from your GY with the same Attribute; negate the activation, and if you do, destroy that monster. (You can only banish each Attribute once per turn to activate this effect of "Arms of Genex Return Zero".) Once per turn: You can target up to 6 of your "Genex" monsters with different Attributes that are banished and/or in your GY; shuffle them into the Deck, then you can destroy up to that many cards in the Spell & Trap Zones.
+
+Type: Machine
+Attribute: DARK
+Level: 10
+Attack: 3100
+Defence: 2950
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge

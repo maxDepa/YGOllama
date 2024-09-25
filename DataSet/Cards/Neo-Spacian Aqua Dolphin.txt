@@ -1,0 +1,19 @@
+Neo-Spacian Aqua Dolphin
+Card Type: Effect Monster
+
+Description: Once per turn: You can discard 1 card; look at your opponent's hand and choose 1 monster. If you control a monster with ATK greater than or equal to the ATK of the chosen card, destroy the chosen card, and if you do, inflict 500 damage to your opponent. Otherwise, take 500 damage.
+
+Type: Warrior
+Attribute: WATER
+Level: 3
+Attack: 600
+Defence: 800
+Archetype: Neo-Spacian
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Power of the Duelist
+- Power of the Duelist

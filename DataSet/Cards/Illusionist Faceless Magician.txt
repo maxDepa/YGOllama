@@ -1,0 +1,15 @@
+Illusionist Faceless Magician
+Card Type: Effect Monster
+
+Description: If a face-up "Eyes Restrict" Fusion Monster(s) or "Relinquished" you control is destroyed by battle or card effect: You can Special Summon this card from the GY (if it was there when that monster was destroyed) or hand (even if not). If this card is sent from the field to the GY: You can target 1 "Eyes Restrict" Fusion Monster or "Relinquished" in your GY; Special Summon it. You can only use each effect of "Illusionist Faceless Magician" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 1200
+Defence: 2200
+Archetype: Eyes Restrict
+Present in Sets:
+- Legendary Duelists: Ancient Millennium
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Match of the Millennium

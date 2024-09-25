@@ -1,0 +1,12 @@
+Weather Control
+Card Type: Normal Monster
+
+Description: This creature controls weather and is often the cause of mountain storms.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 600
+Defence: 400
+Archetype: //
+Present in Sets:

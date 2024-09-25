@@ -1,0 +1,14 @@
+Abyss Actor - Hyper Director
+Card Type: Link Monster
+
+Description: 1 "Abyss Actor" Pendulum Monster
+You can target 1 card in your Pendulum Zone; Special Summon it, then place 1 "Abyss Actor" Pendulum Monster with a different name, from your Deck or face-up Extra Deck, to your Pendulum Zone, also you cannot Normal or Special Summon monsters for the rest of this turn, except "Abyss Actor" monsters. You can only use this effect of "Abyss Actor - Hyper Director" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 800
+Defence: 0
+Archetype: Abyss Actor
+Present in Sets:
+- Duel Overload

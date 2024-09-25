@@ -1,0 +1,14 @@
+Dyna, Hero Fur Hire
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can banish cards from your opponent's GY, up to the number of monsters "Fur Hire" you control with different names. You can only use this effect of "Dyna, Hero Fur Hire" once per turn. Monsters your opponent controls cannot target monsters "Fur Hire" you control for attacks, except this one.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2500
+Defence: 1400
+Archetype: Fur Hire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

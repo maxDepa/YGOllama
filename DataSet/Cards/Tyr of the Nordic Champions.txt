@@ -1,0 +1,15 @@
+Tyr of the Nordic Champions
+Card Type: Effect Monster
+
+Description: Your opponent's monsters cannot target "Nordic" monsters for attacks, except "Tyr of the Nordic Champions". If there is no other "Nordic" monster on the field, destroy this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- Storm of Ragnarok

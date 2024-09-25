@@ -1,0 +1,17 @@
+Offering to the Snake Deity
+Card Type: Trap Card
+
+Description: Target 1 face-up Reptile-Type monster you control and 2 cards your opponent controls; destroy all three targets.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Guardians
+- Duel Terminal 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Phantom Darkness
+- Ra Yellow Mega Pack

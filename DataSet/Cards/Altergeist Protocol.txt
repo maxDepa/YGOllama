@@ -1,0 +1,18 @@
+Altergeist Protocol
+Card Type: Trap Card
+
+Description: The activation and effects of "Altergeist" cards activated on your field cannot be negated. When your opponent activates a monster effect: You can send 1 other face-up "Altergeist" card you control to the GY; negate the activation, and if you do, destroy it. You can only use this effect of "Altergeist Protocol" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Altergeist
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Maze of Millennia
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

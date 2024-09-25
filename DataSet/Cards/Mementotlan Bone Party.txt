@@ -1,0 +1,13 @@
+Mementotlan Bone Party
+Card Type: Spell Card
+
+Description: Destroy 1 "Memento" monster in your hand or face-up field, take 1 "Memento" monster from your Deck with a different name, and either add it to your hand or Special Summon it in Defense Position. During your Main Phase: You can banish this card from your GY, then target 1 "Memento" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use each effect of "Mementotlan Bone Party" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Memento
+Present in Sets:
+- Valiant Smashers

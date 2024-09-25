@@ -1,0 +1,15 @@
+Fire King Avatar Garunix
+Card Type: Effect Monster
+
+Description: If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can Special Summon 1 "Fire King Avatar" monster from your Deck.
+
+Type: Winged Beast
+Attribute: FIRE
+Level: 3
+Attack: 700
+Defence: 1700
+Archetype: Fire King
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Lord of the Tachyon Galaxy
+- Structure Deck: Fire Kings

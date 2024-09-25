@@ -1,0 +1,14 @@
+Hyper Psychic Blaster/Assault Mode
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Assault Mode Activate". If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 "Hyper Psychic Blaster" from your Graveyard.
+
+Type: Psychic
+Attribute: EARTH
+Level: 11
+Attack: 3500
+Defence: 3000
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- Crimson Crisis

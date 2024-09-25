@@ -1,0 +1,14 @@
+Beetrooper Assault Roller
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by banishing 1 Insect monster from your GY. You can only Special Summon "Beetrooper Assault Roller" once per turn this way. Gains 200 ATK for each Insect monster you control, except this card. When this card is destroyed by battle: You can add 1 "Beetrooper" monster from your Deck to your hand, except "Beetrooper Assault Roller". You can only use this effect of "Beetrooper Assault Roller" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1400
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

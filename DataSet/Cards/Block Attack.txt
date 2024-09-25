@@ -1,0 +1,19 @@
+Block Attack
+Card Type: Spell Card
+
+Description: Target 1 face-up Attack Position monster your opponent controls; change that target to face-up Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Demo Deck 2020
+- Speed Duel: Arena of Lost Souls
+- Starter Deck: Joey

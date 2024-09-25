@@ -1,0 +1,17 @@
+Worm Drake
+Card Type: Normal Monster
+
+Description: Once this monster wraps itself around a victim, there is no escape.
+
+Type: Reptile
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1500
+Archetype: Worm
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Streets of Battle City

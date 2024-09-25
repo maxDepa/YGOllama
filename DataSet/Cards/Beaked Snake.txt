@@ -1,0 +1,12 @@
+Beaked Snake
+Card Type: Normal Monster
+
+Description: This monster wraps itself around an opponent and pecks away with its huge beak.
+
+Type: Reptile
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 900
+Archetype: //
+Present in Sets:

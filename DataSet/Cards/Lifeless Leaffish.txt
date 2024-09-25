@@ -1,0 +1,14 @@
+Lifeless Leaffish
+Card Type: Effect Monster
+
+Description: When this card is Summoned: You can send 1 Fish monster from your Deck to the GY, except "Lifeless Leaffish". You can banish this card from your GY, then target 3 Fish monsters in your GY; shuffle those monsters into your Deck, then draw 1 card. You can only use each effect of "Lifeless Leaffish" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1600
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

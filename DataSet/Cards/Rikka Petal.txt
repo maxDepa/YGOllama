@@ -1,0 +1,14 @@
+Rikka Petal
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can take 1 "Rikka" monster from your Deck, except "Rikka Petal", and either add it to your hand or send it to the GY, also you cannot Special Summon for the rest of this turn, except Plant monsters. During your opponent's End Phase, while this card is in your GY, if you control no monsters or all monsters you control are Plant monsters: You can Special Summon this card. You can only use each effect of "Rikka Petal" once per turn.
+
+Type: Plant
+Attribute: WATER
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Rikka
+Present in Sets:
+- Maze of Memories
+- Secret Slayers

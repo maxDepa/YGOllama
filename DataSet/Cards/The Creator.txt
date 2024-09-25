@@ -1,0 +1,18 @@
+The Creator
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 8
+Attack: 2300
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Elemental Energy: Special Edition
+- Legendary Collection 3: Yugi's World Mega Pack
+- Rise of Destiny
+- Rise of Destiny
+- Rise of the Dragon Lords Structure Deck

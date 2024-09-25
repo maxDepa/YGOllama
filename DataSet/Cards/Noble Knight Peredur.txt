@@ -1,0 +1,14 @@
+Noble Knight Peredur
+Card Type: Effect Monster
+
+Description: While equipped with a "Noble Arms" Equip Spell Card, this card becomes DARK and its Level is increased by 1. If this card is sent to the Graveyard while equipped with a "Noble Arms" Equip Spell Card: Target 1 "Noble Arms" card in your Graveyard; add that target to your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 300
+Archetype: Noble Knight
+Present in Sets:
+- Legacy of the Valiant
+- Noble Knights of the Round Table Box Set

@@ -1,0 +1,13 @@
+Koa'ki Meiru Ice
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Continuous Spell Card in your hand. You can send 1 card from your hand to the Graveyard to destroy 1 Special Summoned monster on the field.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1900
+Defence: 1200
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Raging Battle

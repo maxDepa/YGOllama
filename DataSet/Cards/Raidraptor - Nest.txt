@@ -1,0 +1,19 @@
+Raidraptor - Nest
+Card Type: Spell Card
+
+Description: If you control 2 or more "Raidraptor" monsters: You can add 1 "Raidraptor" monster from your Deck or Graveyard to your hand. You can only use this effect of "Raidraptor - Nest" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Raidraptor
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V
+- Wing Raiders

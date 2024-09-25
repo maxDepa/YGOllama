@@ -1,0 +1,16 @@
+Insect Knight
+Card Type: Normal Monster
+
+Description: Of all Insect fighters, he is the paragon of the Indestructible Insect Invaders, which only the elite of the elite can join. We can no longer ignore their unmatched battle prowess.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 3
+- Flaming Eternity

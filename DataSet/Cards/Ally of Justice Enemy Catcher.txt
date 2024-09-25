@@ -1,0 +1,16 @@
+Ally of Justice Enemy Catcher
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.
+
+Type: Machine
+Attribute: DARK
+Level: 6
+Attack: 1800
+Defence: 1800
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

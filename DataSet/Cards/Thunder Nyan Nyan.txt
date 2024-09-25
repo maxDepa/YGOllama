@@ -1,0 +1,16 @@
+Thunder Nyan Nyan
+Card Type: Effect Monster
+
+Description: If there is a non-LIGHT monster on your side of the field, destroy this face-up card.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness
+- Tournament Pack 6

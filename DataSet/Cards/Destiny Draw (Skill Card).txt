@@ -1,0 +1,16 @@
+Destiny Draw (Skill Card)
+Card Type: Skill Card
+
+Description: [If you lose 2000 or more LP, you can activate this Skill during your next Draw Phase.]
+
+During your Draw Phase, you may search your Deck for any card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.
+
+Type: Yugi
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Destiny Masters
+- Yu-Gi-Oh! Day April 2019 promotional card

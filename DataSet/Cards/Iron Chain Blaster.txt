@@ -1,0 +1,13 @@
+Iron Chain Blaster
+Card Type: Effect Monster
+
+Description: Once per turn, you can send 1 "Iron Chain" monster you control to the Graveyard to inflict 800 damage to your opponent.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 1100
+Defence: 0
+Archetype: Iron Chain
+Present in Sets:
+- Crossroads of Chaos

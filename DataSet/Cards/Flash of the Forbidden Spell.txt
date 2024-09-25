@@ -1,0 +1,15 @@
+Flash of the Forbidden Spell
+Card Type: Spell Card
+
+Description: Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact
+- Speed Duel GX: Duelists of Shadows

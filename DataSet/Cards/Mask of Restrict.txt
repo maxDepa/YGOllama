@@ -1,0 +1,20 @@
+Mask of Restrict
+Card Type: Trap Card
+
+Description: Neither player can Tribute cards.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mask
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 2
+- Retro Pack 2
+- Structure Deck: Zombie Horde

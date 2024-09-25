@@ -1,0 +1,17 @@
+Elemental HERO Honest Neos
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard this card, then target 1 "HERO" monster on the field; it gains 2500 ATK until the end of this turn. (Quick Effect): You can discard 1 "HERO" monster; this card gains ATK equal to the discarded monster's ATK until the end of this turn. You can only use each effect of "Elemental HERO Honest Neos" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Relentless Revenge
+- Duelist Saga
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

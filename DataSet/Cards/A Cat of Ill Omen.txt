@@ -1,0 +1,15 @@
+A Cat of Ill Omen
+Card Type: Flip Effect Monster
+
+Description: FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if "Necrovalley" is on the field, you can add that Trap to your hand instead.
+
+Type: Beast
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Speed Duel Starter Decks: Destiny Masters

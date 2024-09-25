@@ -1,0 +1,13 @@
+Ten Thousand Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by Tributing monsters you control whose combined ATK & DEF is 10,000 or more. If Summoned this way, the ATK/DEF of this card becomes 10,000.
+
+Type: Dragon
+Attribute: DARK
+Level: 10
+Attack: -1
+Defence: -1
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon

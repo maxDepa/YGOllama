@@ -1,0 +1,13 @@
+Royal Swamp Eel
+Card Type: Tuner Monster
+
+Description: If this card is used as a Synchro Material Monster, all the other Synchro Material Monsters must be Fish-Type.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Crimson Crisis

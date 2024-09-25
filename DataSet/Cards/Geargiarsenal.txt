@@ -1,0 +1,15 @@
+Geargiarsenal
+Card Type: Effect Monster
+
+Description: This card gains 200 ATK for each "Geargia" monster you control. You can Tribute this card; Special Summon 1 "Geargia" monster from your Deck in Defense Position, except "Geargiarsenal".
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 500
+Archetype: Geargia
+Present in Sets:
+- Astral Pack Five
+- Geargia Rampage Structure Deck
+- Return of the Duelist

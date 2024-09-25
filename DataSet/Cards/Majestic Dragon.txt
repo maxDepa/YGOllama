@@ -1,0 +1,16 @@
+Majestic Dragon
+Card Type: Tuner Monster
+
+Description: Cannot be used as a Synchro Material, except for the Synchro Summon of a "Majestic" monster.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Majestic
+Present in Sets:
+- Duelist Pack: Yusei 2
+- King's Court
+- Legendary Collection 5D's Mega Pack
+- Stardust Overdrive

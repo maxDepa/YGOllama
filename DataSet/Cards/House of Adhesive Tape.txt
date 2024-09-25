@@ -1,0 +1,16 @@
+House of Adhesive Tape
+Card Type: Trap Card
+
+Description: If the DEF of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

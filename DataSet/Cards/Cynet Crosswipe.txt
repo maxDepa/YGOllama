@@ -1,0 +1,14 @@
+Cynet Crosswipe
+Card Type: Spell Card
+
+Description: Tribute 1 Cyberse monster, then target 1 card on the field; destroy it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

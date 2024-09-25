@@ -1,0 +1,14 @@
+Arcane Apprentice
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard for a Synchro Summon, you can add 1 "Assault Mode Activate" from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 2
+Attack: 1000
+Defence: 400
+Archetype: Assault Mode
+Present in Sets:
+- Crimson Crisis
+- OTS Tournament Pack 10 (POR)

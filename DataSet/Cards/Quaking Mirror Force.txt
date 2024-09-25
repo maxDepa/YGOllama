@@ -1,0 +1,15 @@
+Quaking Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Change all your opponent's Attack Position monsters to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Breakers of Shadow
+- Dinosmasher's Fury Structure Deck
+- Legendary Dragon Decks

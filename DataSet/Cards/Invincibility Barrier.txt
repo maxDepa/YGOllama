@@ -1,0 +1,14 @@
+Invincibility Barrier
+Card Type: Trap Card
+
+Description: Once per turn: You can banish 1 face-up Ritual, Fusion, Synchro, Xyz, Pendulum, or Link Monster you control; this turn, the effects of monsters with the same card type as that banished monster (Ritual, Fusion, Synchro, Xyz, Pendulum, or Link) are negated.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

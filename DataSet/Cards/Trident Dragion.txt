@@ -1,0 +1,16 @@
+Trident Dragion
+Card Type: Synchro Monster
+
+Description: 1 Dragon-Type Tuner + 1 or more non-Tuner Dragon-Type monsters
+Must be Synchro Summoned, and cannot be Special Summoned by other ways. When this card is Synchro Summoned: You can target up to 2 other cards you control; destroy those targets, and if you do, for each destroyed card, this card gains 1 additional attack during each Battle Phase this turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 10
+Attack: 3000
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Raging Battle
+- Raging Battle

@@ -1,0 +1,14 @@
+Rose Fairy
+Card Type: Effect Monster
+
+Description: If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.
+
+Type: Plant
+Attribute: WIND
+Level: 3
+Attack: 600
+Defence: 1200
+Archetype: Rose Dragon
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 5D's Mega Pack

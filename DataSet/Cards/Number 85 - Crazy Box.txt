@@ -1,0 +1,18 @@
+Number 85: Crazy Box
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+This card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.
+1: Halve your Life Points. 2: Draw 1 card.
+3: Your opponent discards 1 card.
+4: Negate the effects of 1 face-up card on the field until the end of this turn.
+5: Destroy 1 card on the field. 6: Destroy this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 3000
+Defence: 300
+Archetype: //
+Present in Sets:
+- Number Hunters

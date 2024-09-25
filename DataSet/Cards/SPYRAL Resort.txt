@@ -1,0 +1,13 @@
+SPYRAL Resort
+Card Type: Spell Card
+
+Description: Your opponent cannot target other "SPYRAL" cards you control with card effects. Once per turn: You can add 1 "SPYRAL" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Deck or destroy this card.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: SPYRAL
+Present in Sets:
+- Invasion: Vengeance

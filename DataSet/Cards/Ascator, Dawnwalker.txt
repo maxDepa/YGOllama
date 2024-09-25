@@ -1,0 +1,15 @@
+Ascator, Dawnwalker
+Card Type: Effect Monster
+
+Description: You can discard 1 card; Special Summon this card from your hand in Defense Position, then you can Special Summon 1 "Fire Ant Ascator" from your hand or Deck. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Synchro Monsters. You can only use this effect of "Ascator, Dawnwalker" once per turn.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 5
+Attack: 2300
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Structure Deck: The Crimson King

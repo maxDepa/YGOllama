@@ -1,0 +1,14 @@
+Flare Resonator
+Card Type: Tuner Monster
+
+Description: A Synchro Monster that used this card as a Synchro Material gains 300 ATK.
+
+Type: Fiend
+Attribute: FIRE
+Level: 3
+Attack: 300
+Defence: 1300
+Archetype: Resonator
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- The Shining Darkness

@@ -1,0 +1,15 @@
+That Six
+Card Type: Trap Card
+
+Description: Each time a player rolls a die (or dice), you can choose 1 die result, and apply the appropriate effect, based on the result.
+● 1, 3, or 5: The die result is treated as 6.
+● 2, 4, or 6: The die result is treated as 1.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Alliance

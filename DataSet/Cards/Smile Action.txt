@@ -1,0 +1,15 @@
+Smile Action
+Card Type: Spell Card
+
+Description: When this card is activated: Each player can banish up to 5 Spells from their own GY, face-down. If a monster declares an attack: The attacked player activates this effect;
+● You (the attacked player) can randomly add 1 of your cards banished by this card's effect to your hand, then you can discard it and negate that attack, but if you do not discard that added card, any battle damage you take this turn is doubled (even if this card leaves the field).
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3

@@ -1,0 +1,19 @@
+Dark World Dealings
+Card Type: Spell Card
+
+Description: Each player draws 1 card, then each player discards 1 card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Champion Pack: Game Seven
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Mystic Fighters
+- Strike of Neos
+- Strike of Neos
+- Structure Deck: Dark World

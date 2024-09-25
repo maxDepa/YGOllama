@@ -1,0 +1,15 @@
+Legendary Black Belt
+Card Type: Spell Card
+
+Description: Equip only to "Chu-Ske the Mouse Fighter", "Monk Fighter", or "Master Monk". When the equipped monster destroys your opponent's monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

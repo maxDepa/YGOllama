@@ -1,0 +1,14 @@
+Fortune Lady Dark
+Card Type: Effect Monster
+
+Description: This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When a face-up "Fortune Lady" monster you control destroys an opponent's monster by battle and sends it to the Graveyard, you can select and Special Summon 1 "Fortune Lady" monster from your Graveyard.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: -1
+Defence: -1
+Archetype: Fortune Lady
+Present in Sets:
+- OTS Tournament Pack 11 (POR)
+- Stardust Overdrive

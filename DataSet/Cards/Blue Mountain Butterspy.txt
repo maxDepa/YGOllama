@@ -1,0 +1,14 @@
+Blue Mountain Butterspy
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. When you Normal Summon a Warrior monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 0
+Defence: 1700
+Archetype: Butterspy
+Present in Sets:
+- Legendary Hero Decks
+- Number Hunters

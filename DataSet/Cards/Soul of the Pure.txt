@@ -1,0 +1,14 @@
+Soul of the Pure
+Card Type: Spell Card
+
+Description: Increase your Life Points by 800 points.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Tournament Pack: 2nd Season

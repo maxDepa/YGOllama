@@ -1,0 +1,16 @@
+Spellbook Magician of Prophecy
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned or flipped face-up: Add 1 "Spellbook" Spell from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 400
+Archetype: Spellbook
+Present in Sets:
+- Battles of Legend: Light's Revenge
+- Return of the Duelist
+- Return of the Duelist
+- Structure Deck: Order of the Spellcasters

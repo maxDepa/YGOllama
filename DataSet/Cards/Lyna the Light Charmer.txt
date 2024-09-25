@@ -1,0 +1,14 @@
+Lyna the Light Charmer
+Card Type: Flip Effect Monster
+
+Description: FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- OTS Tournament Pack 13 (POR)
+- The Shining Darkness

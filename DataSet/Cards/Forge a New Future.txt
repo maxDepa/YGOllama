@@ -1,0 +1,17 @@
+Forge a New Future
+Card Type: Trap Card
+
+Description: Once per Chain, if a Link-4 monster is Link Summoned: You can place 1 counter on this card (max. 3), then you can apply the following effect based on the number of counters on it.
+● 1: Declare 1 card name, and if you do, the activated effects and effects on the field of cards with that original name, are negated this turn.
+● 2: Special Summon 1 Level 4 or lower monster from your GY.
+● 3: Send this card to the GY, and if you do, Special Summon 1 Link-4 monster from your Extra Deck.
+You can only activate 1 "Forge a New Future" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Maze of Memories

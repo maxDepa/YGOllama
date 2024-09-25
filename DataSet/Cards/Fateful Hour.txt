@@ -1,0 +1,13 @@
+Fateful Hour
+Card Type: Trap Card
+
+Description: Target 1 monster that cannot be Normal Summoned/Set in either GY; Special Summon it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Shiranui
+Present in Sets:
+- Savage Strike

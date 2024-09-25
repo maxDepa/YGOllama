@@ -1,0 +1,17 @@
+Starliege Lord Galaxion
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "Photon" monsters
+Once per turn: You can detach 1 or 2 Xyz Materials from this card; apply this effect, depending on the number you detached.
+● 1: Special Summon 1 "Galaxy-Eyes Photon Dragon" from your hand.
+● 2: Special Summon 1 "Galaxy-Eyes Photon Dragon" from your Deck.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 2100
+Archetype: Galaxy-Eyes
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

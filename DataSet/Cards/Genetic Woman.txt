@@ -1,0 +1,13 @@
+Genetic Woman
+Card Type: Effect Monster
+
+Description: Once per turn, you can pay 1000 Life Points and select 1 of your removed from play Psychic-Type monsters. Add it to your hand.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

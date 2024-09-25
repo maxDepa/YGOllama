@@ -1,0 +1,15 @@
+Madolche Messengelato
+Card Type: Effect Monster
+
+Description: When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. When this card is Special Summoned: You can add 1 "Madolche" Spell/Trap Card from your Deck to your hand. You must control a face-up Beast-Type "Madolche" monster to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1000
+Archetype: Madolche
+Present in Sets:
+- Abyss Rising
+- OTS Tournament Pack 14
+- OTS Tournament Pack 14 (POR)

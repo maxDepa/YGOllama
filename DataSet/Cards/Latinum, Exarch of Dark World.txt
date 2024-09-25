@@ -1,0 +1,15 @@
+Latinum, Exarch of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, target 1 Fiend-Type monster on the field; Special Summon this card from the Graveyard, then that target (if any) gains 500 ATK.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 1500
+Defence: 2400
+Archetype: Dark World
+Present in Sets:
+- Photon Shockwave
+- Photon Shockwave
+- Structure Deck: Dark World

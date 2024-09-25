@@ -1,0 +1,13 @@
+Leodrake's Mane
+Card Type: Spell Card
+
+Description: Select 1 face-up "Naturia" monster you control. Its ATK becomes 3000, and its effects are negated, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Naturia
+Present in Sets:
+- Starstrike Blast

@@ -1,0 +1,15 @@
+Thermal Genex
+Card Type: Synchro Monster
+
+Description: "Genex Controller" + 1 or more non-Tuner FIRE monsters
+This card gains 200 ATK for each FIRE monster in your Graveyard. If this card destroys an opponent's monster by battle, inflict 200 damage to your opponent for each "Genex" monster in your Graveyard.
+
+Type: Machine
+Attribute: FIRE
+Level: 8
+Attack: 2400
+Defence: 1200
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

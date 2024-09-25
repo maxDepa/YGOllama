@@ -1,0 +1,13 @@
+Unacceptable Result
+Card Type: Spell Card
+
+Description: If you control a Spellcaster monster: Special Summon 1 "Fortune Fairy" monster from your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Fairy
+Present in Sets:
+- Battles of Legend: Hero's Revenge

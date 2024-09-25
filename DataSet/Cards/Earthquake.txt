@@ -1,0 +1,21 @@
+Earthquake
+Card Type: Spell Card
+
+Description: Change all face-up monsters on the field to Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Dark Revelation Volume 2
+- Duel Terminal 2
+- Speed Duel GX: Duel Academy Box
+- Starter Deck: Syrus Truesdale

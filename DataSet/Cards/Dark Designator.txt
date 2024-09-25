@@ -1,0 +1,15 @@
+Dark Designator
+Card Type: Spell Card
+
+Description: Declare 1 Monster Card name. If the declared card is in your opponent's Deck, add 1 of that card to your opponent's hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian
+- Tournament Pack 5

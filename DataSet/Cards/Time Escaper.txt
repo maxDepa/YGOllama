@@ -1,0 +1,15 @@
+Time Escaper
+Card Type: Effect Monster
+
+Description: During either player's turn: You can discard this card, then target 1 Psychic-Type monster you control; banish it until your next Standby Phase.
+
+Type: Psychic
+Attribute: EARTH
+Level: 2
+Attack: 500
+Defence: 100
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Generation Force

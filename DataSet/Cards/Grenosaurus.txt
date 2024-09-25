@@ -1,0 +1,20 @@
+Grenosaurus
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 3
+Attack: 2000
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Star Pack 2013
+- Star Pack 2013
+- Starter Deck: Dawn of the Xyz
+- Super Starter Power-Up Pack

@@ -1,0 +1,14 @@
+Man-Thro' Tro'
+Card Type: Effect Monster
+
+Description: By Tributing 1 Normal Monster (except a Token) on your side of the field, inflict 800 points of damage to your opponent's Life Points.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

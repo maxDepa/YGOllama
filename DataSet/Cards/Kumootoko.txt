@@ -1,0 +1,16 @@
+Kumootoko
+Card Type: Normal Monster
+
+Description: A massive, intelligent spider that traps enemies with webbing.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Speed Duel Starter Decks: Ultimate Predators

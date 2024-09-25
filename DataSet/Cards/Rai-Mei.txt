@@ -1,0 +1,13 @@
+Rai-Mei
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 2 or lower LIGHT monster from your Deck to your hand.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

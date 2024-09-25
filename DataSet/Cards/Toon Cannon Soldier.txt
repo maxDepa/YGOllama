@@ -1,0 +1,16 @@
+Toon Cannon Soldier
+Card Type: Toon Monster
+
+Description: This card cannot attack the turn it is Summoned. If "Toon World" on the field is destroyed, destroy this card. While you control "Toon World" and your opponent controls no Toon Monsters, this card can attack your opponent directly. You can Tribute 1 monster; inflict 500 damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: Toon
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Season 1
+- Tournament Pack 6

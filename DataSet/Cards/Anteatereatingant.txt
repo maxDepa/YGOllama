@@ -1,0 +1,14 @@
+Anteatereatingant
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 5
+Attack: 2000
+Defence: 500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity

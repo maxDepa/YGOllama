@@ -1,0 +1,15 @@
+Psi-Beast
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned, you can remove from play 1 Psychic-Type monster from your Deck. This card's Level becomes the Level of that monster.
+
+Type: Psychic
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 500
+Archetype: //
+Present in Sets:
+- Extreme Victory
+- Maze of Memories
+- Maze of Memories

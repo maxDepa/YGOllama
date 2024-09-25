@@ -1,0 +1,14 @@
+Trading Places
+Card Type: Spell Card
+
+Description: If your LP is higher than your opponent's, switch your LP with your opponent.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

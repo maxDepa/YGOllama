@@ -1,0 +1,14 @@
+Jurrac Ptera
+Card Type: Effect Monster
+
+Description: If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster's Level x 100.
+
+Type: Dinosaur
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 1500
+Archetype: Jurrac
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3

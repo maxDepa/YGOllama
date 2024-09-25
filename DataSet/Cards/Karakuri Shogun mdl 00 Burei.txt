@@ -1,0 +1,16 @@
+Karakuri Shogun mdl 00 "Burei"
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Machine-Type monsters
+When this card is Synchro Summoned: You can Special Summon 1 "Karakuri" monster from your Deck. Once per turn: You can target 1 monster on the field; change its battle position.
+
+Type: Machine
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1900
+Archetype: Karakuri
+Present in Sets:
+- 2013 Collectible Tins Wave 1
+- Starstrike Blast
+- Starstrike Blast

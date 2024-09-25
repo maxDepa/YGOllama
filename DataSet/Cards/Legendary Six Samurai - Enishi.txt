@@ -1,0 +1,16 @@
+Legendary Six Samurai - Enishi
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's turn: You can banish 2 "Six Samurai" monsters from your Graveyard to target 1 face-up monster on the field; return that target to the hand. You must control a face-up "Six Samurai" monster with a different name to activate and to resolve this effect. While you control 2 or more face-up "Six Samurai" monsters except "Legendary Six Samurai - Enishi", this card gains 500 ATK and DEF.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 700
+Archetype: Six Samurai
+Present in Sets:
+- OTS Tournament Pack 12 (POR)
+- Samurai Warlords Structure Deck
+- Storm of Ragnarok
+- Storm of Ragnarok

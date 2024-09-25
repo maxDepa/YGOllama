@@ -1,0 +1,14 @@
+Ritual Beast Ambush
+Card Type: Trap Card
+
+Description: Target 1 of your "Ritual Beast Tamer" monsters and 1 of your "Spiritual Beast" monsters that are banished and/or in your Graveyard; Special Summon them in Defense Position. After this card is activated, you cannot Special Summon monsters, except "Ritual Beast" monsters, for the rest of this turn. You can only activate 1 "Ritual Beast Ambush" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ritual Beast
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Secrets of Eternity

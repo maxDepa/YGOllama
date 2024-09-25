@@ -1,0 +1,13 @@
+Vanity's Call
+Card Type: Trap Card
+
+Description: Activate only as Chain Link 4 or higher. Pay half your Life Points. Negate the activation and effects of all other cards in the same Chain, and destroy them.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

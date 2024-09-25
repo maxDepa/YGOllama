@@ -1,0 +1,15 @@
+Double Snare
+Card Type: Spell Card
+
+Description: Destroy 1 face-up card on the field that has an effect that negates Trap Cards' effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legacy of Darkness
+- Legacy of Darkness

@@ -1,0 +1,13 @@
+Moon Dance Ritual
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 WIND Xyz Monster you control that has no Xyz Materials. While that monster is on the field, negate the effects of all face-up monsters on the field. When that monster leaves the field, destroy this card. During the End Phase of the turn this card was activated: Attach this card to that monster as an Xyz Material.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light

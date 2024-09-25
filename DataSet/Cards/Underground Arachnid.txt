@@ -1,0 +1,15 @@
+Underground Arachnid
+Card Type: Synchro Monster
+
+Description: 1 DARK Tuner + 1 non-Tuner Insect-Type monster
+If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. Once per turn, you can select 1 face-up monster your opponent controls, and equip it to this card. If this card would be destroyed by battle, you can destroy the monster equipped to this card by its effect instead. (You can only equip 1 monster at a time to this card.)
+
+Type: Insect
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Duelist Pack Collection Tin 2011

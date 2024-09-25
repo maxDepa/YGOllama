@@ -1,0 +1,16 @@
+Spell Proof Armor
+Card Type: Skill Card
+
+Description: [Activate this Skill during your Main Phase.] 
+
+All Machine monsters you control are unaffected by your opponent's Spell effects. You can Normal Summon Machine Normal Monsters with 1 less Tribute. If a non-Machine monster is in your GY, flip this Skill over. This Skill can only be used once per Duel.
+
+Type: Keith
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 4
+- Speed Duel: Scars of Battle

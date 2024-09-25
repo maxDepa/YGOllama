@@ -1,0 +1,13 @@
+Wind-Up Snail
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can target 1 Set card on the field; return that target to the hand. This effect can be used only once while this card is face-up on the field.
+
+Type: Aqua
+Attribute: WATER
+Level: 2
+Attack: 100
+Defence: 2000
+Archetype: Wind-Up
+Present in Sets:
+- Generation Force

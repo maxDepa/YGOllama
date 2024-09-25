@@ -1,0 +1,14 @@
+Transforming Sphere
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Shonen Jump May 2010 subscription bonus
+- Turbo Pack: Booster Six

@@ -1,0 +1,15 @@
+Wattgiraffe
+Card Type: Effect Monster
+
+Description: This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Your opponent cannot activate cards or effects until the end of this turn.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1200
+Defence: 100
+Archetype: Watt
+Present in Sets:
+- Duel Overload
+- OTS Tournament Pack 23
+- The Shining Darkness

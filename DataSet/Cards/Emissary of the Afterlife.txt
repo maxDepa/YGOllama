@@ -1,0 +1,16 @@
+Emissary of the Afterlife
+Card Type: Effect Monster
+
+Description: When this card is sent from the field to the Graveyard: Each player adds 1 Level 3 or lower Normal Monster from their Deck to their hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 600
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Champion Pack: Game One
+- Dark Revelation Volume 2
+- Legendary Collection 3: Yugi's World Mega Pack

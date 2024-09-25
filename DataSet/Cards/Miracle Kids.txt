@@ -1,0 +1,16 @@
+Miracle Kids
+Card Type: Trap Card
+
+Description: Target 1 monster your opponent controls; that target loses 400 ATK for each "Hero Kid" in your Graveyard, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Shadow of Infinity

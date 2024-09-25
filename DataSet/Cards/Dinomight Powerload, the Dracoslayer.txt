@@ -1,0 +1,19 @@
+Dinomight Powerload, the Dracoslayer
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You can target 1 "Dracoslayer" or "Dinomist" card in your other Pendulum Zone; Special Summon it. You can only use this effect of "Dinomight Powerload, the Dracoslayer" once per turn.
+
+[ Monster Effect ] 
+(This card is always treated as a "Dinomist" card.)
+If this card is Tributed: You can add 1 face-up "Dracoslayer" or "Dinomist" Pendulum Monster from your Extra Deck to your hand, except "Dinomight Powerload, the Dracoslayer". You can only use this effect of "Dinomight Powerload, the Dracoslayer" once per turn.
+
+Type: Machine
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1800
+Archetype: Dracoslayer
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

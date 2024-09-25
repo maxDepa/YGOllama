@@ -1,0 +1,20 @@
+Robbin' Goblin
+Card Type: Trap Card
+
+Description: Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Beginning 2
+- Gold Series 4: Pyramids Edition
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Pegasus
+- Structure Deck: Invincible Fortress

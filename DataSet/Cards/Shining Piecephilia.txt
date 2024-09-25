@@ -1,0 +1,17 @@
+Shining Piecephilia
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can place 1 Piece Counter on this card (max. 4), then you can apply the following effect, based on the number of Piece Counters on it.
+● 1: Place 1 monster from your Deck on top of your Deck.
+● 2: Draw 1 card.
+● 3: Add 1 monster from your Deck to your hand.
+● 4: Add 1 card from your Deck to your hand.
+
+Type: Rock
+Attribute: LIGHT
+Level: 4
+Attack: 700
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Battle of Chaos

@@ -1,0 +1,14 @@
+CXyz N.As.Ch. Knight
+Card Type: XYZ Monster
+
+Description: 3 Level 6 monsters
+You can also Xyz Summon this card by using "N.As.H. Knight" you control. (Transfer its materials to this card.) Cannot be destroyed by card effects. You can detach 1 material from this card; Special Summon from your Extra Deck, 1 "Number" Xyz Monster that has a number between "101" and "107" in its name, using this face-up card you control as material, but destroy it during your opponent's next End Phase. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) You can only use this effect of "CXyz N.As.Ch. Knight" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

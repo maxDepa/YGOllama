@@ -1,0 +1,13 @@
+Earth Effigy
+Card Type: Effect Monster
+
+Description: This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Phantom Darkness

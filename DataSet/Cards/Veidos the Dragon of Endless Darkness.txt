@@ -1,0 +1,13 @@
+Veidos the Dragon of Endless Darkness
+Card Type: Fusion Monster
+
+Description: "Veidos the Eruption Dragon of Extinction" + 2+ Level 9 or lower Pyro monsters
+Cannot be destroyed by card effects, also your opponent cannot target it with monster effects. If this card is Fusion Summoned: You can destroy all Spells and Traps your opponent controls. When your opponent activates a card or effect on the field (Quick Effect): You can send 1 face-up "Ashened" card you control to the GY; destroy that card. You can only use this effect of "Veidos the Dragon of Endless Darkness" once per turn.
+
+Type: Pyro
+Attribute: DARK
+Level: 10
+Attack: 3000
+Defence: 1700
+Archetype: //
+Present in Sets:

@@ -1,0 +1,14 @@
+Kashtira Birth
+Card Type: Spell Card
+
+Description: You can Normal Summon Level 7 monsters without Tributing. During your Main Phase: You can Special Summon 1 of your non-Xyz "Kashtira" monsters that is banished or in your GY. If your opponent activates a Spell Card or effect, and you control a "Kashtira" monster: You can target 3 cards in your opponent's GY; banish them, face-down. You can only use each effect of "Kashtira Birth" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kashtira
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

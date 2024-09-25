@@ -1,0 +1,14 @@
+Stellarknight Alpha
+Card Type: Spell Card
+
+Description: Equip only to a "tellarknight" monster you control. It gains 500 ATK and DEF, also it is unaffected by your opponent's card effects. If you control a face-up monster that is not a "tellarknight" monster, destroy this card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Stellarknight
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

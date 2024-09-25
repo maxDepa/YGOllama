@@ -1,0 +1,13 @@
+Sinful Spoils of Betrayal - Silvera
+Card Type: Trap Card
+
+Description: Send 1 "Diabellstar" monster from your hand or face-up field to the GY, then target 1 face-up card on the field; negate its effects. When your opponent activates a card or effect in response to your "Diabellstar" monster effect or your "Sinful Spoils" Spell/Trap Card or effect activation: You can banish this card from your GY; negate that opponent's effect. You can only use 1 "Sinful Spoils of Betrayal - Silvera" effect per turn, and only once that turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Sinful Spoils
+Present in Sets:
+- Age of Overlord

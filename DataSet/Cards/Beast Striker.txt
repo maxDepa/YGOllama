@@ -1,0 +1,13 @@
+Beast Striker
+Card Type: Effect Monster
+
+Description: Once per turn, you can discard 1 card to Special Summon 1 "Moja" from your Deck.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1850
+Defence: 400
+Archetype: //
+Present in Sets:
+- Raging Battle

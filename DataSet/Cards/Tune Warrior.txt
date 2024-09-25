@@ -1,0 +1,14 @@
+Tune Warrior
+Card Type: Normal Tuner Monster
+
+Description: The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 200
+Archetype: //
+Present in Sets:
+- Starter Deck: Duelist Toolbox
+- Starter Deck: Yu-Gi-Oh! 5D's

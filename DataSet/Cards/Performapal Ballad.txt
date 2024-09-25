@@ -1,0 +1,17 @@
+Performapal Ballad
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, at the start of the Damage Step, when your "Performapal" monster battles an opponent's face-up monster: You can make that opponent's monster lose 600 ATK (even if this card leaves the field).
+
+[ Monster Effect ] 
+If your "Performapal" monster attacked, after damage calculation: You can target 1 face-up monster your opponent controls; that target loses ATK equal to the ATK of that "Performapal" monster.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1100
+Archetype: Performapal
+Present in Sets:
+- Duelist Pack: Dimensional Guardians

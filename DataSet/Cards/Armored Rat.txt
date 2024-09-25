@@ -1,0 +1,12 @@
+Armored Rat
+Card Type: Normal Monster
+
+Description: The fur on this monster rat is tough enough to repel swords.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 950
+Defence: 1100
+Archetype: //
+Present in Sets:

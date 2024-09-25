@@ -1,0 +1,17 @@
+Mesmeric Control
+Card Type: Spell Card
+
+Description: During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Shadow of Infinity: Special Edition
+- Shadow of Infinity: Special Edition
+- Structure Deck: Dinosaur's Rage
+- Yu-Gi-Oh! The Dawn of Destiny promotional cards

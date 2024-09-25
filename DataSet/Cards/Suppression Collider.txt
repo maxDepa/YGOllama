@@ -1,0 +1,13 @@
+Suppression Collider
+Card Type: Normal Monster
+
+Description: ''All data crushed by this network warrior's hammer is irretrievably compressed.''
+
+Type: Cyberse
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Chaos Impact

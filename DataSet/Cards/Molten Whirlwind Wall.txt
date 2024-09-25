@@ -1,0 +1,14 @@
+Molten Whirlwind Wall
+Card Type: Trap Card
+
+Description: All face-up "Laval" monsters you control gain 100 ATK for each "Laval" monster in your Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Turbo Cannon
+Card Type: Synchro Monster
+
+Description: "Turbo Rocket" + 1 or more non-Tuner monsters
+Once per turn, you can destroy 1 face-up monster on the field and inflict damage to its controller equal to half of its ATK.
+
+Type: Machine
+Attribute: FIRE
+Level: 3
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy

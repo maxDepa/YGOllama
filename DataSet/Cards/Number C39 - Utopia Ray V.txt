@@ -1,0 +1,17 @@
+Number C39: Utopia Ray V
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+When this card in its owner's possession is destroyed by an opponent's card (either by battle or by card effect): You can target 1 Xyz Monster in your Graveyard; return that target to the Extra Deck. If this card has a "Utopia" monster as an Xyz Material, it gains this effect.
+● Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy that monster, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 5
+Attack: 2600
+Defence: 2000
+Archetype: Utopia
+Present in Sets:
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Super Starter Power-Up Pack

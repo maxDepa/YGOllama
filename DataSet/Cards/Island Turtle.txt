@@ -1,0 +1,17 @@
+Island Turtle
+Card Type: Normal Monster
+
+Description: A huge turtle that is often mistaken for an island.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Pharaoh's Servant
+- Starter Deck: Joey

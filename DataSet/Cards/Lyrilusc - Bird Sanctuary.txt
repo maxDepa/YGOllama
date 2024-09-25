@@ -1,0 +1,13 @@
+Lyrilusc - Bird Sanctuary
+Card Type: Spell Card
+
+Description: You can target 2 Winged Beast Xyz Monsters you control; attach 1 of those monsters to the other as material. (Transfer its materials to that monster.) If you control an Xyz Monster with 3 or more materials: You can draw 1 card. You can only use each effect of "Lyrilusc - Bird Sanctuary" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lyrilusc
+Present in Sets:
+- Legendary Duelists: Synchro Storm

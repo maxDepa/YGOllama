@@ -1,0 +1,14 @@
+Assault Blackwing - Kunai the Drizzle
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 1 "Blackwing" monster. If Summoned this way, this card is treated as a Tuner monster. Once per turn: You can target 1 Synchro Monster you control, and declare a Level from 1 to 8; it becomes that Level until the end of this turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 5
+Attack: 2100
+Defence: 1600
+Archetype: Blackwing
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

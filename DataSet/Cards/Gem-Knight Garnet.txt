@@ -1,0 +1,15 @@
+Gem-Knight Garnet
+Card Type: Normal Monster
+
+Description: The Gem-Knight Warrior who carries the Garnet Soul. His Flaming Iron Fist crushes all enemies.
+
+Type: Pyro
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: Gem-
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion
+- OTS Tournament Pack 6

@@ -1,0 +1,13 @@
+Corruption Cell "A"
+Card Type: Spell Card
+
+Description: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Cyberdark Impact

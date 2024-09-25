@@ -1,0 +1,15 @@
+Iron Core of Koa'ki Meiru
+Card Type: Spell Card
+
+Description: During your Draw Phase, if this card is in your Graveyard, you can add this card to your hand instead of drawing, and/or send 1 "Koa'ki Meiru" monster from your hand to your Graveyard to add this card to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Duelist Pack Collection Tin 2009
+- Raging Battle
+- Turbo Pack: Booster Two

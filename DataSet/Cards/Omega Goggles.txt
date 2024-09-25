@@ -1,0 +1,13 @@
+Omega Goggles
+Card Type: Spell Card
+
+Description: Equip only to a monster you control. Once per turn, you can look at 1 random card in your opponent's hand. The equipped monster cannot attack the turn you activate this effect.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

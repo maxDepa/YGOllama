@@ -1,0 +1,14 @@
+Queen's Pawn
+Card Type: Trap Card
+
+Description: Activate only when an "Amazoness" monster you control destroys an opponent's monster by battle and sends it to the Graveyard. Special Summon 1 Level 4 or lower "Amazoness" monster from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Amazoness
+Present in Sets:
+- Duelist Revolution
+- Speed Duel GX: Duelists of Shadows

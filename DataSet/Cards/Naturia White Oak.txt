@@ -1,0 +1,16 @@
+Naturia White Oak
+Card Type: Effect Monster
+
+Description: When this card is targeted by an opponent's card effect, you can send this face-up card you control to the Graveyard to Special Summon 2 Level 4 or lower "Naturia" monsters from your Deck. They cannot declare an attack, and are destroyed during your End Phase.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

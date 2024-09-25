@@ -1,0 +1,19 @@
+Hitotsu-Me Giant
+Card Type: Normal Monster
+
+Description: A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 1
+- Duelist Pack: Kaiba
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler
+- Starter Deck: Kaiba

@@ -1,0 +1,20 @@
+Ancient Gear Gadjiltron Dragon
+Card Type: Effect Monster
+
+Description: If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.
+● Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. 
+● Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. 
+● Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: Ancient Gear
+Present in Sets:
+- Geargia Rampage Structure Deck
+- Machine Reactor Structure Deck
+- Structure Deck: Machine Re-Volt
+- World Championship 2010 Card Pack
+- World Championship 2010 Card Pack

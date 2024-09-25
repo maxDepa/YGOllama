@@ -1,0 +1,16 @@
+Desert Twister
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 2 WIND and 1 EARTH monsters from your GY. Once per turn: You can discard 1 card, then target 1 Spell/Trap on the field; destroy it.
+
+Type: Fiend
+Attribute: WIND
+Level: 6
+Attack: 2300
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Speed Duel Tournament Pack 5
+- Speed Duel: Arena of Lost Souls
+- Tactical Evolution
+- Tactical Evolution

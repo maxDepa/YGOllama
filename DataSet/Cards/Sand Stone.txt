@@ -1,0 +1,15 @@
+Sand Stone
+Card Type: Normal Monster
+
+Description: Appears from underground and attacks with long, snake-like tentacles.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 1300
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

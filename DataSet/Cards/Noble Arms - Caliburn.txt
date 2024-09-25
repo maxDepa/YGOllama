@@ -1,0 +1,17 @@
+Noble Arms - Caliburn
+Card Type: Spell Card
+
+Description: You can only control 1 "Noble Arms - Caliburn". Equip only to a Warrior-Type monster. It gains 500 ATK. Once per turn: You can gain 500 LP. If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type "Noble Knight" monster you control; equip this card to that target. You can only use this effect of "Noble Arms - Caliburn" once per turn.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Noble Knight
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Cosmo Blazer
+- Cosmo Blazer Sneak Peek Participation Card
+- Noble Knights of the Round Table Box Set

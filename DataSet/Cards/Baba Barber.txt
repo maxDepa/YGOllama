@@ -1,0 +1,14 @@
+Baba Barber
+Card Type: Link Monster
+
+Description: 2 monsters
+At the start of each Battle Phase: You can target this card or 1 monster this card points to; banish it until the End Phase. You can only use this effect of "Baba Barber" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 0
+Attack: 200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Rising Rampage

@@ -1,0 +1,15 @@
+Cyber Shark
+Card Type: Effect Monster
+
+Description: If you control a WATER monster, you can Normal Summon this card without Tributing.
+
+Type: Fish
+Attribute: WATER
+Level: 5
+Attack: 2100
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Legendary Duelists: Duels From the Deep
+- The Duelist Genesis

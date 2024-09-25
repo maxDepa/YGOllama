@@ -1,0 +1,13 @@
+Bayonater, the Baneful Barrel
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each monster your opponent controls.
+
+Type: Zombie
+Attribute: DARK
+Level: 1
+Attack: 500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Chaos Impact

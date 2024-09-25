@@ -1,0 +1,16 @@
+Nutrient Z
+Card Type: Trap Card
+
+Description: During damage calculation, when you are about to take 2000 or more battle damage: Gain 4000 LP first.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of Darkness
+- Legacy of Darkness
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)

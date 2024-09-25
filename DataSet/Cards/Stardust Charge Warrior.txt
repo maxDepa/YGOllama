@@ -1,0 +1,15 @@
+Stardust Charge Warrior
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: You can draw 1 card. You can only use this effect of "Stardust Charge Warrior" once per turn. This card can attack all Special Summoned monsters your opponent controls, once each.
+
+Type: Warrior
+Attribute: WIND
+Level: 6
+Attack: 2000
+Defence: 1300
+Archetype: Stardust
+Present in Sets:
+- Maximum Gold
+- Premium Gold: Infinite Gold

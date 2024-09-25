@@ -1,0 +1,17 @@
+Infernoble Knight Captain Roland
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can activate this effect; during the End Phase of this turn, send 1 Equip Spell from your Deck to the GY, then add 1 Warrior monster from your Deck to your hand. During the Main Phase, if this card is in your GY (Quick Effect): You can target 1 Warrior monster you control; equip this card to that monster you control as an Equip Spell that gives it 500 ATK. You can only use each effect of "Infernoble Knight Captain Roland" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 500
+Archetype: Noble Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Rise of the Duelist

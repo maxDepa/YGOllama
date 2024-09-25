@@ -1,0 +1,13 @@
+Twin-Shield Defender
+Card Type: Effect Monster
+
+Description: When this card you control is destroyed by battle and sent to your Graveyard, you can halve the current ATK of 1 face-up monster your opponent controls, until the End Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 700
+Defence: 1600
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

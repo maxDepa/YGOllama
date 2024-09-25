@@ -1,0 +1,15 @@
+Super War-Lion
+Card Type: Ritual Monster
+
+Description: You can Ritual Summon this card with "War-Lion Ritual".
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 2300
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)
+- Speed Duel: Trials of the Kingdom

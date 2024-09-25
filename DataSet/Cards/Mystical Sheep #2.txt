@@ -1,0 +1,15 @@
+Mystical Sheep #2
+Card Type: Normal Monster
+
+Description: A monstrous sheep with a long tail for hypnotizing enemies.
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Magic Ruler

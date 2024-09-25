@@ -1,0 +1,17 @@
+Needle Worm
+Card Type: Flip Effect Monster
+
+Description: FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 750
+Defence: 600
+Archetype: Worm
+Present in Sets:
+- Dark Beginning 2
+- Gold Series
+- Legendary Collection 3: Yugi's World Mega Pack
+- Tournament Pack 5
+- Tournament Pack: 3rd Season

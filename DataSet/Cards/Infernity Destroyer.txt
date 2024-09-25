@@ -1,0 +1,15 @@
+Infernity Destroyer
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1600 damage to your opponent. You must have no cards in your hand to activate and to resolve this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1000
+Archetype: Infernity
+Present in Sets:
+- The Shining Darkness
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

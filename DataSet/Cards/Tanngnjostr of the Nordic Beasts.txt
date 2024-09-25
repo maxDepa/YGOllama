@@ -1,0 +1,17 @@
+Tanngnjostr of the Nordic Beasts
+Card Type: Effect Monster
+
+Description: When a monster you control is destroyed by battle and sent to your GY: You can Special Summon this card from your hand. Once per turn, when this Defense Position card on the field is changed to face-up Attack Position: You can Special Summon 1 "Nordic Beast" monster from your Deck in Defense Position, except "Tanngnjostr of the Nordic Beasts".
+
+Type: Beast
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1100
+Archetype: Nordic
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Hero Decks
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Storm of Ragnarok

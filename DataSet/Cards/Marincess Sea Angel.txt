@@ -1,0 +1,17 @@
+Marincess Sea Angel
+Card Type: Link Monster
+
+Description: 1 Level 4 or lower "Marincess" monster
+If this card is Link Summoned: You can add 1 "Marincess" Spell from your Deck to your hand. You can only Link Summon "Marincess Sea Angel" once per turn.
+
+Type: Cyberse
+Attribute: WATER
+Level: 0
+Attack: 1000
+Defence: 0
+Archetype: Marincess
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Chaos Impact
+- Legendary Duelists: Duels From the Deep
+- Rising Rampage Special Edition

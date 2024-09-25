@@ -1,0 +1,17 @@
+Fossil Dyna Pachycephalo
+Card Type: Effect Monster
+
+Description: If this card is flipped face-up: Destroy all Special Summoned monsters on the field. Neither player can Special Summon monsters.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Astral Pack Four
+- Collectible Tins 2011 Wave 2
+- Duelist Saga
+- Light of Destruction
+- Maximum Gold: El Dorado

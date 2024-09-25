@@ -1,0 +1,17 @@
+Inspector Boarder
+Card Type: Effect Monster
+
+Description: Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.)
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Duel Devastator
+- Extreme Force

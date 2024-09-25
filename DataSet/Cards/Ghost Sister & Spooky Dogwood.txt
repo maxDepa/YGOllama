@@ -1,0 +1,20 @@
+Ghost Sister & Spooky Dogwood
+Card Type: Tuner Monster
+
+Description: During either turn, except the End Phase (Quick Effect): You can discard this card; apply this effect this turn. You can only use this effect of "Ghost Sister & Spooky Dogwood" once per turn.
+● Each time your opponent Special Summons an Effect Monster(s) during the Main Phase or Battle Phase, you gain LP equal to that monster's ATK. If you did not gain LP by this effect, your LP are halved during the End Phase.
+
+Type: Zombie
+Attribute: WATER
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dark Neostorm
+- Duel Devastator
+- Maximum Gold
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2020 L
+- Valiant Smashers

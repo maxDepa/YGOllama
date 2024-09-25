@@ -1,0 +1,18 @@
+Elemental HERO Ocean
+Card Type: Effect Monster
+
+Description: Once per turn, during your Standby Phase: You can target 1 "HERO" monster you control or in your Graveyard; return that target to the hand.
+
+Type: Warrior
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: Elemental HERO
+Present in Sets:
+- Champion Pack: Game Seven
+- Collectible Tins 2010 Wave 2
+- Duel Terminal 5a
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Shonen Jump Vol. 5, Issue 6 promotional card

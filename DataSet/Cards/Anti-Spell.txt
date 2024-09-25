@@ -1,0 +1,15 @@
+Anti-Spell
+Card Type: Trap Card
+
+Description: Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Anti
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Turbo Pack: Booster Two

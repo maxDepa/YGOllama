@@ -1,0 +1,19 @@
+Water Dragon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned with "Bonding - H2O". The ATK of FIRE monsters and Pyro monsters on the field becomes 0. When this card is destroyed and sent to the GY: You can target 2 "Hydrogeddon" and 1 "Oxygeddon" in your GY; Special Summon them.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: Bonding
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Legendary Duelists
+- Mattel Action Figure promotional cards: Series 2
+- Speed Duel GX: Midterm Paradox
+- Speed Duel GX: Midterm Paradox

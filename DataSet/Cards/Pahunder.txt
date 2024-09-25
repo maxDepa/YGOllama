@@ -1,0 +1,13 @@
+Pahunder
+Card Type: Effect Monster
+
+Description: Once per turn: You can Normal Summon 1 Level 4 LIGHT Thunder-Type monster from your hand, except "Pahunder", as an additional Normal Summon.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1300
+Defence: 600
+Archetype: //
+Present in Sets:
+- Return of the Duelist

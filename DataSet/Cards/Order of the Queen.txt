@@ -1,0 +1,13 @@
+Order of the Queen
+Card Type: Skill Card
+
+Description: While you control "Amazoness Queen", negate the effects of Effect Monsters destroyed by battle with attacking "Amazoness" monsters you control.
+
+Type: Tania
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

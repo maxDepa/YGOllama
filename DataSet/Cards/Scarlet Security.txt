@@ -1,0 +1,14 @@
+Scarlet Security
+Card Type: Spell Card
+
+Description: If you control a "Red Dragon Archfiend": Destroy all Spell and Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

@@ -1,0 +1,16 @@
+Chewbone
+Card Type: Flip Effect Monster
+
+Description: FLIP: Special Summon 3 "Chewbone Jr. Tokens" (Zombie-Type/EARTH/Level 1/ATK 100/DEF 300) to your opponent's field in Defense Position.
+
+Type: Zombie
+Attribute: EARTH
+Level: 3
+Attack: 300
+Defence: 300
+Archetype: //
+Present in Sets:
+- Dinosmasher's Fury Structure Deck
+- Return of the Duelist
+- Star Pack 2013
+- Star Pack 2013

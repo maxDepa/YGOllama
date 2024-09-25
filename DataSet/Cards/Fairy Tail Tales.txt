@@ -1,0 +1,13 @@
+Fairy Tail Tales
+Card Type: Spell Card
+
+Description: You can reveal 1 Spellcaster monster in your hand with 1850 ATK and a different name than the monsters you control; immediately after this effect resolves, Normal Summon/Set it. You can only use this effect of "Fairy Tail Tales" once per turn. The first time each turn you would take battle or effect damage while you control a Spellcaster monster(s) with 1850 original ATK, you take no damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fairy Tail
+Present in Sets:
+- Ghosts From the Past

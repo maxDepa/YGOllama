@@ -1,0 +1,15 @@
+The World's Greatest Fisherman
+Card Type: Skill Card
+
+Description: [Flip this card over when you activate this Skill.]
+
+Once per turn, you can pay 500 LP and discard 1 WATER monster, then add 1 WATER monster from your GY to your hand, with a different name and with a Level no more than twice the discarded monster's Level. If you do that, flip this card over.
+
+Type: Mako
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Attack from the Deep

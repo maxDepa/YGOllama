@@ -1,0 +1,14 @@
+Iris, the Earth Mother
+Card Type: Effect Monster
+
+Description: After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Cyberdark Impact
+- Cyberdark Impact

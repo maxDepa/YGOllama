@@ -1,0 +1,15 @@
+Dinowrestler Giga Spinosavate
+Card Type: Synchro Monster
+
+Description: 1 Dinosaur Tuner + 1+ non-Tuner monsters
+If this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. Once per turn: You can target 1 monster your opponent controls; destroy it. If this card would be destroyed by battle or card effect, you can destroy 1 card you control instead.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 0
+Archetype: Dinowrestler
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

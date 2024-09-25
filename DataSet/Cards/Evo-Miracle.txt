@@ -1,0 +1,13 @@
+Evo-Miracle
+Card Type: Spell Card
+
+Description: Target 1 monster that was Special Summoned by the effect of an "Evoltile" monster; this turn, it cannot be destroyed by battle or by card effects.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evoltile
+Present in Sets:
+- Photon Shockwave

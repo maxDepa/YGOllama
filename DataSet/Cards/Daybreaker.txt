@@ -1,0 +1,16 @@
+Daybreaker
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned: You can Special Summon 1 "Daybreaker" from your hand.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 7a
+- Photon Shockwave
+- Star Pack 2014
+- Star Pack 2014

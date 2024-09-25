@@ -1,0 +1,29 @@
+Brain Control
+Card Type: Spell Card
+
+Description: Pay 800 LP, then target 1 face-up monster your opponent controls that can be Normal Summoned/Set; take control of that target until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 3
+- Duelist Pack: Yugi
+- Duelist Saga
+- Egyptian God Deck: Obelisk the Tormentor
+- Gold Series
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Duelists: Rage of Ra
+- Rise of the Dragon Lords Structure Deck
+- Starter Deck 2006
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Structure Deck: Invincible Fortress
+- The Dark Emperor Structure Deck
+- The Lost Millennium
+- The Lost Millennium
+- Yugi's Legendary Decks

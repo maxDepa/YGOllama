@@ -1,0 +1,14 @@
+Realm of Light
+Card Type: Spell Card
+
+Description: Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All "Lightsworn" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Light of Destruction
+- Realm of Light Structure Deck

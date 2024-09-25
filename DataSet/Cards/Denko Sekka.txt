@@ -1,0 +1,18 @@
+Denko Sekka
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge
+- Duel Devastator
+- Structure Deck: Spirit Charmers
+- The New Challengers

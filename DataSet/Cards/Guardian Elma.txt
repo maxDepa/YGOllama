@@ -1,0 +1,16 @@
+Guardian Elma
+Card Type: Effect Monster
+
+Description: Cannot be Summoned unless you control a face-up "Butterfly Dagger - Elma". When this card is Normal or Special Summoned: You can target 1 appropriate Equip Spell Card in your Graveyard; equip that target to this card.
+
+Type: Fairy
+Attribute: WIND
+Level: 3
+Attack: 1300
+Defence: 1200
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

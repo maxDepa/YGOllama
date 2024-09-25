@@ -1,0 +1,18 @@
+Sun Dragon Inti
+Card Type: Synchro Monster
+
+Description: "Fire Ant Ascator" + 1+ non-Tuner monsters
+If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field. Once per turn, during the Standby Phase of the next turn after this card on the field was destroyed: You can target 1 "Moon Dragon Quilla" in your GY; Special Summon that target.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2800
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Absolute Powerforce
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

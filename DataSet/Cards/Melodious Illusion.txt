@@ -1,0 +1,13 @@
+Melodious Illusion
+Card Type: Trap Card
+
+Description: Target 1 "Melodious" monster you control; this turn, that face-up monster you control is unaffected by your opponent's Spell/Trap effects, and it can make a second attack during each Battle Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Melodious
+Present in Sets:
+- Crossed Souls

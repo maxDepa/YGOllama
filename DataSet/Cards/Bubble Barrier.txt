@@ -1,0 +1,14 @@
+Bubble Barrier
+Card Type: Spell Card
+
+Description: Each "Performapal" and "Performage" monster you control cannot be destroyed by battle or card effect once per turn. You take no battle damage from attacks involving "Performapal" and "Performage" monsters you control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Performage
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

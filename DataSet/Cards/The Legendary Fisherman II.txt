@@ -1,0 +1,18 @@
+The Legendary Fisherman II
+Card Type: Effect Monster
+
+Description: This card's name becomes "The Legendary Fisherman" while on the field or in the GY. While "Umi" is on the field, this card is unaffected by other monsters' effects. If this face-up card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can add 1 Level 7 WATER monster from your Deck to your hand.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 2200
+Defence: 1800
+Archetype: Umi
+Present in Sets:
+- Legendary Duelists
+- Legendary Duelists: Duels From the Deep
+- Legendary Duelists: Season 1
+- Speed Duel Tournament Pack 4
+- Speed Duel: Streets of Battle City
+- Speed Duel: Trials of the Kingdom

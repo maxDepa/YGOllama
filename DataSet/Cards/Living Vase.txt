@@ -1,0 +1,12 @@
+Living Vase
+Card Type: Normal Monster
+
+Description: A living vase that bites enemies and blinds them with a blast of pollen from its flower.
+
+Type: Plant
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 1100
+Archetype: //
+Present in Sets:

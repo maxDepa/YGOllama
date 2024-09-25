@@ -1,0 +1,17 @@
+Fairy Tail - Snow
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; change it to face-down Defense Position. If this card is in your GY (Quick Effect): You can banish 7 other cards from your hand, field, and/or GY; Special Summon this card.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1850
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- OTS Tournament Pack 5
+- The Dark Illusion

@@ -1,0 +1,15 @@
+Pain Painter
+Card Type: Tuner Monster
+
+Description: While this card is face-up on the field, its name is treated as "Plaguespreader Zombie". Once per turn: You can target up to 2 face-up Zombie-Type monsters you control, except this card; they become Level 2 until the End Phase. They cannot be used as Synchro Material Monsters, except for the Synchro Summon of a Zombie-Type monster.
+
+Type: Zombie
+Attribute: DARK
+Level: 2
+Attack: 400
+Defence: 200
+Archetype: //
+Present in Sets:
+- Generation Force
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)

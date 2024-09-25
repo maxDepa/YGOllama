@@ -1,0 +1,12 @@
+Horseytail Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Horseytail". When this Token is destroyed by battle with a Plant-Type monster, its controller sends 1 card from their hand to the Graveyard.
+
+Type: Plant
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

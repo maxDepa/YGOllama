@@ -1,0 +1,14 @@
+Whirlwind of Gusto
+Card Type: Trap Card
+
+Description: If you control no monsters: Target 2 "Gusto" monsters in your Graveyard; shuffle both targets into the Deck, then Special Summon 1 "Gusto" monster with 1000 or less DEF from your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

@@ -1,0 +1,14 @@
+Commander Gottoms, Swordmaster
+Card Type: Effect Monster
+
+Description: All face-up "Saber" monsters you control gain 400 ATK.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2100
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal

@@ -1,0 +1,13 @@
+S-Force Professor DiGamma
+Card Type: Effect Monster
+
+Description: Each of your opponent's monsters in the same column as one of your "S-Force" monsters cannot change its battle position. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; change its battle position. You can only use this effect of "S-Force Professor DiGamma" once per turn.
+
+Type: Psychic
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1500
+Archetype: S-Force
+Present in Sets:
+- Blazing Vortex

@@ -1,0 +1,52 @@
+Dark Hole
+Card Type: Spell Card
+
+Description: Destroy all monsters on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- 2-Player Starter Set
+- Battles of Legend: Monstrous Revenge
+- Battles of Legend: Monstrous Revenge
+- Dark Beginning 1
+- Dark Beginning 1
+- Dark Legion Starter Deck
+- Demo Deck 2016
+- Destiny Soldiers
+- Gold Series: Haunted Mine
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Hero Decks
+- Legendary Hero Decks
+- Noble Knights of the Round Table Box Set
+- OTS Tournament Pack 12
+- OTS Tournament Pack 12 (POR)
+- OTS Tournament Pack 23
+- Premium Gold: Return of the Bling
+- Realm of the Sea Emperor Structure Deck
+- Saber Force Starter Deck
+- Samurai Warlords Structure Deck
+- Space-Time Showdown Power-Up Pack
+- Starter Deck: Codebreaker
+- Starter Deck: Joey
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Reloaded
+- Starter Deck: Link Strike
+- Starter Deck: Pegasus
+- Starter Deck: Yugi
+- Starter Deck: Yugi
+- Starter Deck: Yugi Evolution
+- Starter Deck: Yugi Reloaded
+- Structure Deck: Fire Kings
+- Turbo Pack: Booster Five
+- Turbo Pack: Booster Four

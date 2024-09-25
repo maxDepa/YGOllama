@@ -1,0 +1,14 @@
+Vylon Polytope
+Card Type: Spell Card
+
+Description: Target any number of "Vylon" Monster Cards you control that are Equip Cards; Special Summon them in face-up Defense Position. Banish them when they leave the field.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vylon
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

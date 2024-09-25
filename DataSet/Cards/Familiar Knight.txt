@@ -1,0 +1,14 @@
+Familiar Knight
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: Each player can Special Summon 1 Level 4 monster from their hand.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Duelist Pack: Kaiba
+- Exclusive Pack

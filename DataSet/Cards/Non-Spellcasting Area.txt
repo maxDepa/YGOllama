@@ -1,0 +1,17 @@
+Non-Spellcasting Area
+Card Type: Spell Card
+
+Description: All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Gold Series
+- Legendary Collection 3: Yugi's World Mega Pack

@@ -1,0 +1,13 @@
+Shogi Lance
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 other Level 3 Beast-Warrior-Type monster you control; the Levels of that monster and this card become the combined Levels of those monsters.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- The New Challengers

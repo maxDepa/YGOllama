@@ -1,0 +1,18 @@
+Evil HERO Infernal Prodigy
+Card Type: Effect Monster
+
+Description: If you control no monsters, you can Special Summon this card (from your hand) in Attack Position. Once per turn, during the End Phase, if this card was Tributed this turn to Tribute Summon a "HERO" monster: Draw 1 card.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 300
+Defence: 600
+Archetype: Evil HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 6

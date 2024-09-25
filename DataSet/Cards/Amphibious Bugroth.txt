@@ -1,0 +1,13 @@
+Amphibious Bugroth
+Card Type: Fusion Monster
+
+Description: "Ground Attacker Bugroth" + "Defender of the Sea"
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1850
+Defence: 1300
+Archetype: //
+Present in Sets:
+- McDonald's Promotional Cards 2

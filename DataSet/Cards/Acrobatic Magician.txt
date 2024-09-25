@@ -1,0 +1,17 @@
+Acrobatic Magician
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of "Acrobatic Magician" once per turn.
+
+[ Monster Effect ] 
+If the activation of a Spell/Trap Card is negated (except during the Damage Step): You can Special Summon this card from your hand. When this card is destroyed by battle: You can place this card in your Pendulum Zone.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 800
+Defence: 2300
+Archetype: Magician
+Present in Sets:
+- The Dark Illusion

@@ -1,0 +1,15 @@
+Lesser Dragon
+Card Type: Normal Monster
+
+Description: A minor dragon incapable of breathing fire.
+
+Type: Dragon
+Attribute: WIND
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

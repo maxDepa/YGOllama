@@ -1,0 +1,17 @@
+Performapal Odd-Eyes Minitaurus
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If your "Performapal" or "Odd-Eyes" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+
+[ Monster Effect ] 
+During damage calculation, if your Pendulum Monster attacks an opponent's monster: You can make that opponent's monster lose 100 ATK for each "Performapal" and "Odd-Eyes" card you control, during damage calculation only.
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 4
+Attack: 1200
+Defence: 1600
+Archetype: Odd-Eyes
+Present in Sets:
+- Battles of Legend: Light's Revenge

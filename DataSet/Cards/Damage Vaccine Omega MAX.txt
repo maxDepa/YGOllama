@@ -1,0 +1,13 @@
+Damage Vaccine Omega MAX
+Card Type: Trap Card
+
+Description: When you take damage by battle or by a card effect: Gain Life Points equal to the damage you took.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

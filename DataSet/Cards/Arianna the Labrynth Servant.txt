@@ -1,0 +1,17 @@
+Arianna the Labrynth Servant
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Labrynth" card from your Deck to your hand, except "Arianna the Labrynth Servant". If another monster(s) leaves the field by your Normal Trap effect (except during the Damage Step): You can draw 1 card, then you can apply this effect.
+● From your hand, either Special Summon 1 Fiend monster, or Set 1 Spell/Trap.
+You can only use 1 "Arianna the Labrynth Servant" effect per turn, and only once that turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 2100
+Archetype: Labrynth
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Tactical Masters
+- Tactical Masters

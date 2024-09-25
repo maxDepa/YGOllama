@@ -1,0 +1,13 @@
+Nimble Sunfish
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, send 1 Fish-Type monster from your Deck to the Graveyard. Then, you can Special Summon 1 "Nimble Sunfish" from your Deck.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 1000
+Defence: 100
+Archetype: Nimble
+Present in Sets:
+- The Shining Darkness

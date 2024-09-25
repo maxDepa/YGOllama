@@ -1,0 +1,13 @@
+Barrier Wave
+Card Type: Trap Card
+
+Description: Activate by Tributing 1 Synchro Monster when an opponent's monster declares an attack. Change all Attack Position monsters your opponent controls to Defense Position. Then, inflict damage to your opponent equal to the attacking monster's DEF.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

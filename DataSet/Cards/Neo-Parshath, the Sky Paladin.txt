@@ -1,0 +1,15 @@
+Neo-Parshath, the Sky Paladin
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 1 "Airknight Parshath". If this card attacks a Defense Position monster, inflict piercing battle damage. If this card inflicts battle damage to your opponent: Draw 1 card. While "The Sanctuary in the Sky" is on the field and your LP is higher than your opponent's, this card gains ATK/DEF equal to the difference in LP.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 7
+Attack: 2300
+Defence: 2000
+Archetype: Parshath
+Present in Sets:
+- Collectible Tins 2011 Wave 1
+- Strike of Neos
+- Structure Deck: Wave of Light

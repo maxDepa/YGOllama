@@ -1,0 +1,13 @@
+Amazement Attendant Comica
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Set 1 "Attraction" Trap directly from your Deck. (Quick Effect): You can target 1 of your "Attraction" Traps equipped to a monster; equip it to 1 "Amazement" monster you control or 1 face-up monster your opponent controls. You can only use this effect of "Amazement Attendant Comica" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 1800
+Archetype: Amazement
+Present in Sets:
+- Lightning Overdrive

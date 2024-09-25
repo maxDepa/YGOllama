@@ -1,0 +1,14 @@
+Black Wing Revenge
+Card Type: Trap Card
+
+Description: When a Winged Beast-Type monster you control is destroyed by battle and sent to the Graveyard: Special Summon 2 "Blackwing - Black Crest Tokens" (Winged Beast-Type/DARK/Level 2/ATK 0/DEF 800).
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series

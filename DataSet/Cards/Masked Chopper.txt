@@ -1,0 +1,13 @@
+Masked Chopper
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.
+
+Type: Fiend
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! GX Spirit Caller promotional cards

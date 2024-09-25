@@ -1,0 +1,14 @@
+A Man with Wdjat
+Card Type: Effect Monster
+
+Description: When you Normal Summon this card, and during each of your Standby Phases, select 1 Set card on your opponent's side of the field. Pick it up and look at it, then return it to its original position.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Pharaonic Guardian

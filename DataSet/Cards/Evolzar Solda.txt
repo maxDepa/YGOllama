@@ -1,0 +1,16 @@
+Evolzar Solda
+Card Type: XYZ Monster
+
+Description: 2 Level 6 Dinosaur-Type monsters
+This card cannot be destroyed by card effects while it has Xyz Material. When your opponent Special Summons a monster(s): You can detach 1 Xyz Material from this card; destroy that monster(s).
+
+Type: Dragon
+Attribute: FIRE
+Level: 6
+Attack: 2600
+Defence: 1000
+Archetype: Evolzar
+Present in Sets:
+- Order of Chaos
+- Order of Chaos
+- Wild Survivors

@@ -1,0 +1,13 @@
+Egotistical Ape
+Card Type: Tuner Monster
+
+Description: This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending 1 Beast-Type monster from your hand to the Graveyard. When this card is Special Summoned this way, you can activate 1 of these effects: ● Increase the Level of this card by the Level of the Beast-Type monster. ● Decrease the Level of this card by the Level of the Beast-Type monster.
+
+Type: Beast
+Attribute: EARTH
+Level: 5
+Attack: 1200
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Duelist Revolution

@@ -1,0 +1,15 @@
+Arcana Force XXI - The World
+Card Type: Effect Monster
+
+Description: When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 3100
+Defence: 3100
+Archetype: Arcana Force
+Present in Sets:
+- Light of Destruction
+- Light of Destruction
+- OTS Tournament Pack 14 (POR)

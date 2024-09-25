@@ -1,0 +1,17 @@
+Resonance Insect
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the Graveyard: You can add 1 Level 5 or higher Insect-Type monster from your Deck to your hand. If this card is banished: You can send 1 Insect-Type monster from your Deck to the Graveyard, except "Resonance Insect".
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 700
+Archetype: //
+Present in Sets:
+- Duelist Alliance
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Speed Duel: Streets of Battle City
+- Structure Deck: Beware of Traptrix

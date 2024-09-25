@@ -1,0 +1,14 @@
+Bururu @Ignister
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 "@Ignister" monster from your Deck to the GY. If this card is sent to the GY as material for the Synchro Summon of a Cyberse monster: You can target 1 monster in your GY that was used for that Synchro Summon, except "Bururu @Ignister"; Special Summon that monster. You can only use each effect of "Bururu @Ignister" once per turn.
+
+Type: Cyberse
+Attribute: WIND
+Level: 3
+Attack: 600
+Defence: 1000
+Archetype: @Ignister
+Present in Sets:
+- Ignition Assault
+- Magnificent Mavens

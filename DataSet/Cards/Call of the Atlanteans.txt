@@ -1,0 +1,15 @@
+Call of the Atlanteans
+Card Type: Spell Card
+
+Description: Target 3 Level 3 or lower Sea Serpent-Type monsters in your Graveyard; Special Summon all 3 of them. You cannot Special Summon any other monsters during the turn you activate this card.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Atlantean
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Realm of the Sea Emperor Structure Deck

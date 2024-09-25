@@ -1,0 +1,13 @@
+Ghost Fusion
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Fusion Monster from your Extra Deck, using only Zombie monsters you control as material. If your LP are lower than your opponent's, you can also banish up to 1 Zombie monster from your hand, Deck, or GY as material. You can only activate 1 "Ghost Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fusion
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

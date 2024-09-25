@@ -1,0 +1,19 @@
+Spirit Message "N"
+Card Type: Spell Card
+
+Description: This card can only be placed on the field by the effect of "Destiny Board".
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spirit Message
+Present in Sets:
+- Dark Beginning 2
+- Duelist Pack: Rivals of the Pharaoh
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Duelists: Season 3
+- Retro Pack 2

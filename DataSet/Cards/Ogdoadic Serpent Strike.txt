@@ -1,0 +1,13 @@
+Ogdoadic Serpent Strike
+Card Type: Spell Card
+
+Description: You can send 1 monster from your hand or field to the GY, then target 1 Reptile monster in your GY with a different original Attribute than that monster; Special Summon it. During the Main Phase, if a monster is sent to your opponent's GY: You can send 1 Reptile monster from your Deck to the GY. You can only use each effect of "Ogdoadic Serpent Strike" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ogdoadic
+Present in Sets:
+- Battle of Chaos

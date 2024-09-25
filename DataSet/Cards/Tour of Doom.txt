@@ -1,0 +1,13 @@
+Tour of Doom
+Card Type: Trap Card
+
+Description: During your opponent's Standby Phase, toss a coin. ● Heads: Your opponent cannot Normal Summon or Flip Summon until the End Phase. ● Tails: You cannot Normal Summon or Flip Summon during your next turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction

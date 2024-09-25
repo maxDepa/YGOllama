@@ -1,0 +1,15 @@
+Maju Garzett
+Card Type: Effect Monster
+
+Description: The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: -1
+Defence: 0
+Archetype: Maju
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

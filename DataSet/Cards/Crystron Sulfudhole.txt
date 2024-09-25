@@ -1,0 +1,12 @@
+Crystron Sulfudhole
+Card Type: Effect Monster
+
+Description: If this card is in your hand or GY: You can target 1 "Crystron" card you control; destroy it, and if you do, Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters. If this card is Normal or Special Summoned: You can send up to 2 "Crystron" cards with different names from your Deck to the GY, except "Crystron Sulfudhole". You can only use each effect of "Crystron Sulfudhole" once per turn.
+
+Type: Machine
+Attribute: WATER
+Level: 5
+Attack: 1900
+Defence: 2250
+Archetype: Crystron
+Present in Sets:

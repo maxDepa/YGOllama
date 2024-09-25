@@ -1,0 +1,13 @@
+Stray Asmodian
+Card Type: Effect Monster
+
+Description: When this card is destroyed and sent to the Graveyard by battle, both players gain 800 Life Points.
+
+Type: Fiend
+Attribute: FIRE
+Level: 3
+Attack: 1300
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Cyberdark Impact

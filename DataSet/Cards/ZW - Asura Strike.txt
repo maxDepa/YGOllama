@@ -1,0 +1,13 @@
+ZW - Asura Strike
+Card Type: Effect Monster
+
+Description: You can target 1 "Utopia" monster you control; equip this monster from your hand or your side of the field to that target. It gains 1000 ATK. While this card is equipped to a monster, that monster can attack all monsters your opponent controls once each. You can only control 1 "ZW - Asura Strike".
+
+Type: Fairy
+Attribute: FIRE
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Utopia
+Present in Sets:
+- Legacy of the Valiant

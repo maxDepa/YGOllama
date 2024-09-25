@@ -1,0 +1,15 @@
+Defensive Tactics
+Card Type: Trap Card
+
+Description: If you control a face-up "Gladiator Beast" monster: For the rest of this turn, monsters you control cannot be destroyed by battle, and any Battle Damage you take is reduced to 0. After this card resolves, put it on the bottom of your Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Gladiator's Assault
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack

@@ -1,0 +1,13 @@
+Subterror Behemoth Burrowing
+Card Type: Trap Card
+
+Description: You can banish 1 "Subterror" monster from your Graveyard; for the rest of this turn, face-down monsters you control cannot be destroyed by card effects, and your opponent cannot target them with card effects. If this card on the field is destroyed by a card effect: You can add 1 "Subterror" monster from your Deck to your hand. You can banish this card from your Graveyard, then target 1 "Subterror" monster you control; change it to face-down Defense Position.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Subterror
+Present in Sets:
+- Invasion: Vengeance

@@ -1,0 +1,15 @@
+Woodborg Inpachi
+Card Type: Normal Monster
+
+Description: The new form of the enigmatic Inpachi, remodeled by cutting-edge Dark World technology. Maneuverability has been sacrificed for strong armor, which is considered more important.
+
+Type: Machine
+Attribute: FIRE
+Level: 5
+Attack: 500
+Defence: 2500
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Starter Deck: Yu-Gi-Oh! 5D's

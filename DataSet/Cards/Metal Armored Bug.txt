@@ -1,0 +1,16 @@
+Metal Armored Bug
+Card Type: Normal Monster
+
+Description: A gigantic insect-like creature covered by thick armor. Everything in his path is destroyed.
+
+Type: Insect
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Speed Duel: Streets of Battle City
+- Speed Duel: Trials of the Kingdom

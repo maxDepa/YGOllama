@@ -1,0 +1,17 @@
+Aether, the Evil Empowering Dragon
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can banish 1 "Empowered Warrior" monster from your Graveyard, then target 1 card on the field; destroy it.
+
+[ Monster Effect ] 
+When this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2300
+Defence: 1600
+Archetype: Empower
+Present in Sets:
+- 2016 Mega-Tins

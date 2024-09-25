@@ -1,0 +1,17 @@
+Performapal Secondonkey
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can send 1 "Performapal" monster from your Deck to the Graveyard, except "Performapal Secondonkey". If you have 2 cards in your Pendulum Zones, you can add it to your hand instead.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Star Pack Battle Royal
+- Star Pack Battle Royal
+- Starter Deck: Yuya

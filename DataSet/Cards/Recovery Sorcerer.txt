@@ -1,0 +1,15 @@
+Recovery Sorcerer
+Card Type: Link Monster
+
+Description: 2 Cyberse monsters
+(Quick Effect): You can target 1 Cyberse Link Monster in your GY that was destroyed this turn; Special Summon it, but it has its effects negated, also destroy it during the End Phase. You can only use this effect of "Recovery Sorcerer" once per turn.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 0
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Extreme Force

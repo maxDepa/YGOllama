@@ -1,0 +1,15 @@
+Koa'ki Meiru Doom
+Card Type: Effect Monster
+
+Description: During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Fiend-Type monster in your hand. Negate the effects of LIGHT and DARK monsters that activate during the Main Phase.
+
+Type: Fiend
+Attribute: WIND
+Level: 3
+Attack: 1700
+Defence: 800
+Archetype: Koa'ki Meiru
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Raging Battle

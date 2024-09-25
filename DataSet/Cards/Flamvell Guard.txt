@@ -1,0 +1,18 @@
+Flamvell Guard
+Card Type: Normal Tuner Monster
+
+Description: A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.
+
+Type: Dragon
+Attribute: FIRE
+Level: 1
+Attack: 100
+Defence: 2000
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Starter Deck: Codebreaker

@@ -1,0 +1,15 @@
+Treaty on Uniform Nomenclature
+Card Type: Trap Card
+
+Description: If you control 2 or more face-up monsters with the same name, except Tokens: Apply this effect, depending on how many you control.
+● Exactly 2: Destroy 1 Spell/Trap Card your opponent controls.
+● Exactly 3: Destroy all Spell/Trap Cards your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force

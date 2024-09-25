@@ -1,0 +1,15 @@
+Starliege Paladynamo
+Card Type: XYZ Monster
+
+Description: 2 Level 4 LIGHT monsters
+Once per turn: You can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, it has its effects negated. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your Graveyard: Draw 1 card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- Zexal Collection Tin

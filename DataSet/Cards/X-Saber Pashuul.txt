@@ -1,0 +1,15 @@
+X-Saber Pashuul
+Card Type: Tuner Monster
+
+Description: This card cannot be destroyed by battle. During each of your opponent's Standby Phases: You take 1000 damage. You must control this card in face-up Defense Position to activate and to resolve this effect.
+
+Type: Warrior
+Attribute: EARTH
+Level: 2
+Attack: 100
+Defence: 0
+Archetype: X-Saber
+Present in Sets:
+- Duel Terminal 1
+- The Shining Darkness
+- Turbo Pack: Booster Seven

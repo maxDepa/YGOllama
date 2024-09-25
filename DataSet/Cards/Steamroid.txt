@@ -1,0 +1,18 @@
+Steamroid
+Card Type: Effect Monster
+
+Description: If this card attacks an opponent's monster, this card gains 500 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1800
+Archetype: Roid
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Speed Duel GX: Midterm Paradox
+- Starter Deck: Syrus Truesdale

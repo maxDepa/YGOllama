@@ -1,0 +1,19 @@
+Shocktopus
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle with an opponent's monster and sent to the Graveyard: You can equip this card to that opponent's monster. That monster's ATK becomes 0, also it cannot change its battle position.
+
+Type: Fish
+Attribute: WATER
+Level: 4
+Attack: 1600
+Defence: 800
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014

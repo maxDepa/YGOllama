@@ -1,0 +1,14 @@
+Unleash Your Power!
+Card Type: Spell Card
+
+Description: All Gemini Monsters that were on your side of the field when this card was activated are treated as Effect Monsters, and gain their effect(s). During the End Phase of this turn, Set all monsters affected by this card's effect.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness
+- Warriors' Strike Structure Deck

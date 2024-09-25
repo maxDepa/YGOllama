@@ -1,0 +1,17 @@
+Elemental HERO Captain Gold
+Card Type: Effect Monster
+
+Description: You can discard this card to the Graveyard; add 1 "Skyscraper" from your Deck to your hand. If "Skyscraper" is not face-up on the field, destroy this card.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 2100
+Defence: 800
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Force of the Breaker
+- Force of the Breaker
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack

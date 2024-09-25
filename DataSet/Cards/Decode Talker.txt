@@ -1,0 +1,19 @@
+Decode Talker
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters
+Gains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.
+
+Type: Cyberse
+Attribute: DARK
+Level: 0
+Attack: 2300
+Defence: 0
+Archetype: Code Talker
+Present in Sets:
+- Duel Devastator
+- Duel Power
+- OTS Tournament Pack 6
+- Star Pack VRAINS
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike

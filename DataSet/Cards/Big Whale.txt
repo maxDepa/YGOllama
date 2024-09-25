@@ -1,0 +1,13 @@
+Big Whale
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned: You can Tribute this card; Special Summon 3 Level 3 WATER monsters from your Deck. Their effects are negated.
+
+Type: Fish
+Attribute: WATER
+Level: 9
+Attack: 1000
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

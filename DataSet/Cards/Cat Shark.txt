@@ -1,0 +1,15 @@
+Cat Shark
+Card Type: XYZ Monster
+
+Description: 2 Level 2 monsters
+While this card has an Xyz Material attached that was originally WATER, it cannot be destroyed by battle. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Rank 4 or lower Xyz Monster you control; its ATK and DEF each become double its original ATK and DEF until the end of this turn.
+
+Type: Beast
+Attribute: WATER
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Magnificent Mavens
+- Premium Gold: Return of the Bling

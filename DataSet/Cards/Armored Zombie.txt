@@ -1,0 +1,18 @@
+Armored Zombie
+Card Type: Normal Monster
+
+Description: This warrior blindly swings a deadly blade with devastating force.
+
+Type: Zombie
+Attribute: DARK
+Level: 3
+Attack: 1500
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel: Arena of Lost Souls

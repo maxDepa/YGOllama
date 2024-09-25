@@ -1,0 +1,14 @@
+Follow Wing
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 Synchro Monster you control; it cannot be destroyed by battle or your opponent's card effects. At the start of the Damage Step, if it battles an opponent's Level 5 or higher monster: You can destroy that opponent's monster, and if you do, the targeted Synchro Monster gains ATK equal to the original ATK of the destroyed monster, until the end of this turn. When that monster leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Breakers of Shadow

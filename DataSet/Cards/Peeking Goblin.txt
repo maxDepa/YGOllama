@@ -1,0 +1,14 @@
+Peeking Goblin
+Card Type: Spell Card
+
+Description: Your opponent reveals the top 3 cards of their Deck. Choose one to place on the bottom of the Deck and place the other two on top of the Deck in any order.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- Generation Force

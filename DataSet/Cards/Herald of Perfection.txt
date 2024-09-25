@@ -1,0 +1,16 @@
+Herald of Perfection
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Dawn of the Herald". During either player's turn, when your opponent activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 2800
+Archetype: Herald
+Present in Sets:
+- Gold Series: Haunted Mine
+- Premium Gold: Return of the Bling
+- The Shining Darkness
+- The Shining Darkness

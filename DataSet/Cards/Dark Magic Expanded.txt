@@ -1,0 +1,18 @@
+Dark Magic Expanded
+Card Type: Spell Card
+
+Description: Apply these effects in sequence, based on the number of "Dark Magician" and/or "Dark Magician Girl" on the field and in the GYs.
+● 1+: 1 DARK Spellcaster monster on the field gains 1000 ATK until the end of this turn.
+● 2+: This turn, your opponent cannot activate cards and effects in response to your Spell/Trap Card or effect activation, also Spells/Traps you control cannot be destroyed by your opponent's card effects.
+● 3+: DARK Spellcaster monsters you currently control are unaffected by your opponent's card effects, until the end of this turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Dragon Decks
+- The Dark Illusion

@@ -1,0 +1,14 @@
+Ogdoadic Water Lily
+Card Type: Spell Card
+
+Description: Send 1 Reptile monster from your Deck to the GY, then if you have 5 or more Reptile monsters with different names in your GY, you can Special Summon 1 Reptile monster from your GY. You can only activate 1 "Ogdoadic Water Lily" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ogdoadic
+Present in Sets:
+- Ancient Guardians
+- OTS Tournament Pack 23

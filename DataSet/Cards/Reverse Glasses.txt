@@ -1,0 +1,15 @@
+Reverse Glasses
+Card Type: Trap Card
+
+Description: Halve the ATK of all face-up monsters currently on the field, until the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Judgment of the Light
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

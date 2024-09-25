@@ -1,0 +1,14 @@
+Kayenn, the Master Magma Blacksmith
+Card Type: Effect Monster
+
+Description: You can banish this card from your Graveyard; all face-up "Laval" monsters you currently control gain 400 ATK.
+
+Type: Rock
+Attribute: FIRE
+Level: 3
+Attack: 1200
+Defence: 200
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

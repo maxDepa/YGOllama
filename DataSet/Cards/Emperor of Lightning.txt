@@ -1,0 +1,13 @@
+Emperor of Lightning
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. This card must be Tribute Summoned by Tributing 3 Thunder-Type monsters on your side of the field. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 8
+Attack: 2600
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! World Championship 2007 prize cards

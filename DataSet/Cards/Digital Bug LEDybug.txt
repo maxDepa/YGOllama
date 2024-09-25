@@ -1,0 +1,15 @@
+Digital Bug LEDybug
+Card Type: Effect Monster
+
+Description: Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of an Insect monster. Once per turn, when this face-up card is changed from Attack Position to Defense Position: You can add 1 Level 3 Insect monster from your Deck to your hand. An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.
+● When this card destroys a monster by battle, draw 1 card.
+
+Type: Insect
+Attribute: LIGHT
+Level: 3
+Attack: 500
+Defence: 0
+Archetype: Digital Bug
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Maximum Crisis

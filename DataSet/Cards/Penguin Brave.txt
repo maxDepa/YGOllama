@@ -1,0 +1,17 @@
+Penguin Brave
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Your opponent cannot target face-down Defense Position monsters you control with card effects. You can only use each of the following effects of "Penguin Brave" once per turn. If this card is Synchro Summoned: You can Special Summon 1 "Penguin" monster from your Deck in face-down Defense Position. When your opponent activates a monster effect (Quick Effect): You can flip 1 face-down Defense Position WATER monster you control face-up.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 2400
+Defence: 1200
+Archetype: Penguin
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Phantom Rage

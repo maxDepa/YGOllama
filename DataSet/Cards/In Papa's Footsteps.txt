@@ -1,0 +1,13 @@
+In Papa's Footsteps
+Card Type: Spell Card
+
+Description: If a card(s) is sent to the GY, except "In Papa's Footsteps": Banish up to 5 cards from your GY, face-down, then if 7 or more of your cards are currently banished face-down, your opponent banishes as many cards as possible from their GY (max. 5) face-down.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legacy of Destruction

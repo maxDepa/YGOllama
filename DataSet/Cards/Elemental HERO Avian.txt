@@ -1,0 +1,27 @@
+Elemental HERO Avian
+Card Type: Normal Monster
+
+Description: A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.
+
+Type: Warrior
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist Pack: Jaden Yuki
+- HERO Strike Structure Deck
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Mattel Action Figure promotional cards: Series 3
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duel Academy Box
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Midterm Paradox
+- Starter Deck 2006
+- Starter Deck: Jaden Yuki
+- The Lost Millennium
+- Yu-Gi-Oh! Elemental Hero Collection 1

@@ -1,0 +1,15 @@
+Dreadscythe Harvester
+Card Type: Effect Monster
+
+Description: You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.
+
+Type: Insect
+Attribute: WIND
+Level: 8
+Attack: 2300
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Collectible Tins 2010 Wave 2
+- Retro Pack 2
+- Shonen Jump 2007 subscription bonus

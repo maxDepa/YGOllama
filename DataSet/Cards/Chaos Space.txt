@@ -1,0 +1,17 @@
+Chaos Space
+Card Type: Spell Card
+
+Description: Send 1 LIGHT or DARK monster from your hand to the GY; add 1 LIGHT or DARK monster that cannot be Normal Summoned/Set from your Deck to your hand, with a Level from 4 to 8, and with a different Attribute than that monster. You can banish this card from your GY, then target 1 of your banished LIGHT or DARK monsters that cannot be Normal Summoned/Set; place that monster on the bottom of the Deck, then draw 1 card. You can only use each effect of "Chaos Space" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chaos
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battles of Legend: Crystal Revenge
+- Toon Chaos
+- Toon Chaos

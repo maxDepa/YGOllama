@@ -1,0 +1,14 @@
+Swiftstrike Armor
+Card Type: Trap Card
+
+Description: During your Draw Phase, each time you draw a "Six Samurai" Monster Card(s): You can reveal it; Special Summon it.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack

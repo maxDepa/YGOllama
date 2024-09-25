@@ -1,0 +1,16 @@
+Harpie Girl
+Card Type: Normal Monster
+
+Description: A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: Harpie
+Present in Sets:
+- Dark Revelation Volume 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Rise of Destiny
+- Structure Deck: Lord of the Storm

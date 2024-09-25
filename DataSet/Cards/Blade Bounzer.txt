@@ -1,0 +1,13 @@
+Blade Bounzer
+Card Type: Effect Monster
+
+Description: Once per turn, if this card attacks and your opponent controls a monster at the end of the Damage Step: You can discard 1 card; this card can attack an opponent's monster once again during this Battle Phase.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1400
+Archetype: Bounzer
+Present in Sets:
+- Galactic Overlord

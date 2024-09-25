@@ -1,0 +1,20 @@
+Dark Requiem Xyz Dragon
+Card Type: XYZ Monster
+
+Description: 3 Level 5 monsters
+If this card has "Dark Rebellion Xyz Dragon" as material, it gains these effects.
+● Once per turn: You can detach 1 material from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, this card gains ATK equal to that monster's original ATK.
+● When your opponent activates a monster effect (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card, then you can Special Summon 1 Xyz Monster from your GY.
+
+Type: Dragon
+Attribute: DARK
+Level: 5
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Ghosts From the Past
+- Invasion: Vengeance
+- Legendary Hero Decks
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)

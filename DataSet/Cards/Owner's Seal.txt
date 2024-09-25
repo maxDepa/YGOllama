@@ -1,0 +1,14 @@
+Owner's Seal
+Card Type: Spell Card
+
+Description: Return control of all monsters on the field to their original owners.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Light of Destruction
+- Structure Deck: Sacred Beasts

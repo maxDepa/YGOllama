@@ -1,0 +1,15 @@
+Skreech
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 1500
+Defence: 400
+Archetype: //
+Present in Sets:
+- Gladiator's Assault
+- Realm of the Sea Emperor Structure Deck
+- Speed Duel: Scars of Battle

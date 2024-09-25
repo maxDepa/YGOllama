@@ -1,0 +1,16 @@
+Arcane Barrier
+Card Type: Spell Card
+
+Description: Each time a face-up Spellcaster monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). You can send this card and 1 face-up Spellcaster monster you control to the GY; draw 1 card for each Spell Counter that was on this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crimson Crisis
+- Duelist League 14 participation cards
+- Speed Duel: Attack from the Deep
+- Structure Deck: Order of the Spellcasters

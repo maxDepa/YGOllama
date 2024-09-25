@@ -1,0 +1,16 @@
+Evilswarm Thanatos
+Card Type: XYZ Monster
+
+Description: 2 Level 4 DARK monsters
+Once per turn (Quick Effect): You can detach 1 material from this card; this face-up card is unaffected by other monster effects this turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 2350
+Defence: 1350
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars
+- Legendary Hero Decks

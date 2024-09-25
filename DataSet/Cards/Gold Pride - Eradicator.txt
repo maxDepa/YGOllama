@@ -1,0 +1,15 @@
+Gold Pride - Eradicator
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+During your opponent's turn (Quick Effect): You can target 1 Fusion, Synchro, Xyz, or Link Monster on the field, or if your LP are lower than your opponent's, you can target 2; destroy them. You can only use this effect of "Gold Pride - Eradicator" once per turn. Once per turn, during the End Phase, if the previous effect was activated this turn: Return this card to the Extra Deck, and if you do, Special Summon 1 "Gold Pride - Eliminator" from your Deck or GY.
+
+Type: Warrior
+Attribute: DARK
+Level: 8
+Attack: 2700
+Defence: 1700
+Archetype: Gold Pride
+Present in Sets:
+- Legacy of Destruction
+- Legacy of Destruction

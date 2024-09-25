@@ -1,0 +1,14 @@
+Evil Eye Awakening
+Card Type: Spell Card
+
+Description: Special Summon 1 "Evil Eye" monster from your hand or GY, or, if "Evil Eye of Selene" is in your Spell & Trap Zone, you can Special Summon 1 "Evil Eye" monster from your Deck instead. You can only activate 1 "Evil Eye Awakening" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Evil Eye
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

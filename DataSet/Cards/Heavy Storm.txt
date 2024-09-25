@@ -1,0 +1,36 @@
+Heavy Storm
+Card Type: Spell Card
+
+Description: Destroy all Spell and Trap Cards on the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Dark Legends
+- Gold Series
+- Hobby League 2 participation card D
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Starter Deck 2006
+- Starter Deck: Jaden Yuki
+- Starter Deck: Syrus Truesdale
+- Structure Deck: Blaze of Destruction
+- Structure Deck: Dinosaur's Rage
+- Structure Deck: Dragon's Roar
+- Structure Deck: Fury from the Deep
+- Structure Deck: Lord of the Storm
+- Structure Deck: Machine Re-Volt
+- Structure Deck: Spellcaster's Judgment
+- Structure Deck: Warrior's Triumph
+- Structure Deck: Zombie Madness

@@ -1,0 +1,14 @@
+Red Dragon Vase
+Card Type: Spell Card
+
+Description: If you control a "Red Dragon Archfiend": Draw 2 cards. You cannot Normal or Special Summon monsters the turn you activate this card, and until the end of your opponent's turn after this card is activated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

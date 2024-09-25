@@ -1,0 +1,14 @@
+Brotherhood of the Fire Fist - Caribou
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card is in the Graveyard because it was destroyed by a card effect and sent there this turn: You can Special Summon 1 Level 4 "Fire Fist" monster from your Deck, except "Brotherhood of the Fire Fist - Caribou". If this card is sent to the Graveyard for the Synchro Summon of a "Fire Fist" monster: You can Set 1 "Fire Formation" Spell Card directly from your Deck.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1100
+Defence: 2000
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

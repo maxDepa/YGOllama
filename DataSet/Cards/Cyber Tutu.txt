@@ -1,0 +1,15 @@
+Cyber Tutu
+Card Type: Effect Monster
+
+Description: If the ATK of each monster your opponent controls is higher than the ATK of this card, this card can attack your opponent directly.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 1000
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Speed Duel GX: Duel Academy Box

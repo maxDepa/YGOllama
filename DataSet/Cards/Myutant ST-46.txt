@@ -1,0 +1,15 @@
+Myutant ST-46
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Myutant" Spell/Trap from your Deck to your hand. You can Tribute this card, then banish 1 card from your hand or face-up field; Special Summon 1 monster from your hand or Deck, based on the banished card.
+● Monster: "Myutant Beast" ● Spell: "Myutant Mist" ● Trap: "Myutant Arsenal"
+You can only use each effect of "Myutant ST-46" once per turn.
+
+Type: Psychic
+Attribute: WATER
+Level: 3
+Attack: 500
+Defence: 0
+Archetype: Myutant
+Present in Sets:
+- Phantom Rage

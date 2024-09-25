@@ -1,0 +1,13 @@
+Light Spiral
+Card Type: Trap Card
+
+Description: Each time a card(s) is sent from your Deck to the Graveyard by the effect of a "Lightsworn" monster, remove from play the top card of your opponent's Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Lightsworn
+Present in Sets:
+- Light of Destruction

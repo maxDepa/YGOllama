@@ -1,0 +1,17 @@
+Defender of the Ice Barrier
+Card Type: Tuner Monster
+
+Description: While you control another face-up "Ice Barrier" monster, monsters your opponent controls cannot declare an attack if their ATK is greater than or equal to this card's DEF.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 200
+Defence: 1600
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

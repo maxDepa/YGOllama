@@ -1,0 +1,20 @@
+Lucky Iron Axe
+Card Type: Spell Card
+
+Description: The equipped monster gains 500 ATK. If this face-up card you control is destroyed by your opponent's card effect and sent to your Graveyard: Draw 1 card.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Jaden Yuki
+- Starter Deck: Yuya
+- Super Starter: Space-Time Showdown
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

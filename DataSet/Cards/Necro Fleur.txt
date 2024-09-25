@@ -1,0 +1,15 @@
+Necro Fleur
+Card Type: Effect Monster
+
+Description: If this card is destroyed by a card effect and sent to the Graveyard, you can Special Summon 1 "Sorciere de Fleur" from your Deck.
+
+Type: Plant
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Legendary Duelists: Synchro Storm
+- Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards
+- Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards

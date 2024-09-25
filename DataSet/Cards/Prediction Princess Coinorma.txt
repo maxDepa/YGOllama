@@ -1,0 +1,15 @@
+Prediction Princess Coinorma
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 Level 3 or higher Flip monster from your hand or Deck in face-down Defense Position, also you cannot activate monster effects for the rest of this turn, except "Prediction Princess" monsters'.
+
+Type: Fairy
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1400
+Archetype: Prediction Princess
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series
+- OTS Tournament Pack 2

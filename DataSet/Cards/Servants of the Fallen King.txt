@@ -1,0 +1,13 @@
+Servants of the Fallen King
+Card Type: Skill Card
+
+Description: Once per turn, you can send 1 Level 3 or lower Zombie Normal Monster from your Deck to the GY. 
+
+Type: Bonz
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel: Scars of Battle

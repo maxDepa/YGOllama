@@ -1,0 +1,17 @@
+Homunculus the Alchemic Being
+Card Type: Effect Monster
+
+Description: Once per turn: You can change the Attribute of this card.
+
+Type: Plant
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven
+- Dark Revelation Volume 3
+- Fusion Enforcers
+- HERO Strike Structure Deck
+- Rise of Destiny

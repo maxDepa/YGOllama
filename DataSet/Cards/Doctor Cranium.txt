@@ -1,0 +1,13 @@
+Doctor Cranium
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to add 1 Psychic-Type monster from your Deck to your hand.
+
+Type: Psychic
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- The Duelist Genesis

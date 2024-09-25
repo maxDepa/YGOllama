@@ -1,0 +1,16 @@
+And the Band Played On
+Card Type: Trap Card
+
+Description: Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- OTS Tournament Pack 20
+- Primal Origin
+- Primal Origin: Deluxe Edition

@@ -1,0 +1,16 @@
+Evilswarm Obliviwisp
+Card Type: Effect Monster
+
+Description: If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).
+
+Type: Pyro
+Attribute: DARK
+Level: 4
+Attack: 450
+Defence: 2050
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

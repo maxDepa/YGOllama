@@ -1,0 +1,19 @@
+Soul Charge
+Card Type: Spell Card
+
+Description: Target any number of monsters in your GY; Special Summon them, and if you do, you lose 1000 LP for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 "Soul Charge" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend
+- Dragons of Legend: The Complete Series
+- Dragons of Legend: Unleashed
+- Duelist Saga
+- Emperor of Darkness Structure Deck
+- Legendary Hero Decks
+- Structure Deck: Cyberse Link

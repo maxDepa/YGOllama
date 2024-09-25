@@ -1,0 +1,19 @@
+Little Chimera
+Card Type: Effect Monster
+
+Description: All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.
+
+Type: Beast
+Attribute: FIRE
+Level: 2
+Attack: 600
+Defence: 550
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Onslaught of the Fire Kings Structure Deck
+- Structure Deck: Blaze of Destruction
+- Tournament Pack: 3rd Season

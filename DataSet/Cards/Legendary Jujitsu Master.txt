@@ -1,0 +1,21 @@
+Legendary Jujitsu Master
+Card Type: Effect Monster
+
+Description: If this Defense Position card battled a monster, at the end of the Damage Step: Place that monster on the top of the Deck.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 1300
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Champion Pack: Game Seven
+- Dark Revelation Volume 2
+- Duel Terminal 6b
+- Duelist League 2010 participation cards
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

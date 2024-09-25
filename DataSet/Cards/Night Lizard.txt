@@ -1,0 +1,12 @@
+Night Lizard
+Card Type: Normal Monster
+
+Description: A lizard warrior protected by a hide of very tough emerald scales.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1150
+Defence: 1300
+Archetype: //
+Present in Sets:

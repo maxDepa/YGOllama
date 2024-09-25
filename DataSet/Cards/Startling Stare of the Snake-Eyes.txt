@@ -1,0 +1,16 @@
+Startling Stare of the Snake-Eyes
+Card Type: Trap Card
+
+Description: If the total Levels of "Snake-Eye" monsters you control are 2 or higher: Activate 1 of these effects;
+● Target 1 face-up monster your opponent controls or in their GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell.
+● Target 1 Monster Card treated as a Continuous Spell on the field; Special Summon it to your field.
+You can only activate 1 "Startling Stare of the Snake-Eyes" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Snake-Eye
+Present in Sets:
+- Age of Overlord

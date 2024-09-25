@@ -1,0 +1,13 @@
+Chaos Grepher
+Card Type: Effect Monster
+
+Description: While face-up on the field, this card is also DARK-Attribute. You can discard 1 LIGHT or DARK monster; send 1 LIGHT or DARK monster with a different Attribute from your Deck to the GY, but for the rest of this turn, you cannot Special Summon monsters with the same name the sent monster had in the GY. You can only use this effect of "Chaos Grepher" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1600
+Archetype: Chaos
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

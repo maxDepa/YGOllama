@@ -1,0 +1,14 @@
+Rinyan, Lightsworn Rogue
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 "Lightsworn" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.
+
+Type: Beast
+Attribute: LIGHT
+Level: 2
+Attack: 100
+Defence: 100
+Archetype: Lightsworn
+Present in Sets:
+- Astral Pack Five
+- Stardust Overdrive

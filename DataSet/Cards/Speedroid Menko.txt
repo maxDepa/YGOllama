@@ -1,0 +1,13 @@
+Speedroid Menko
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares a direct attack while this card is in your hand: You can Special Summon this card in Attack Position, and if you do, change all face-up monsters your opponent controls to Defense Position.
+
+Type: Machine
+Attribute: WIND
+Level: 4
+Attack: 100
+Defence: 2000
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders

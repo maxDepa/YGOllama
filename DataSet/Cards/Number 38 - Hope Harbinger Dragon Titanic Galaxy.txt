@@ -1,0 +1,16 @@
+Number 38: Hope Harbinger Dragon Titanic Galaxy
+Card Type: XYZ Monster
+
+Description: 2 Level 8 monsters
+Once per turn, when a Spell Card or effect is activated on the field (Quick Effect): You can negate that effect, and if you do, attach that card to this card as material. When an opponent's monster declares an attack: You can detach 1 material from this card; change the attack target to this card and perform damage calculation. If a face-up Xyz Monster(s) you control is destroyed by battle or card effect: You can target 1 face-up Xyz Monster you control; it gains ATK equal to 1 of those destroyed monster's original ATK.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Cybernetic Horizon Special Edition
+- Ghosts From the Past: The 2nd Haunting
+- Premium Gold: Infinite Gold

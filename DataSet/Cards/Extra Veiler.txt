@@ -1,0 +1,14 @@
+Extra Veiler
+Card Type: Effect Monster
+
+Description: When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 600
+Defence: 200
+Archetype: //
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Starstrike Blast

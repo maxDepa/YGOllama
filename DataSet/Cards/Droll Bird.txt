@@ -1,0 +1,14 @@
+Droll Bird
+Card Type: Normal Monster
+
+Description: This monster stuns its enemies with a massive beak and ear-piercing wails.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 2
+Attack: 600
+Defence: 500
+Archetype: //
+Present in Sets:
+- World Championship 2010 Card Pack
+- World Championship 2011 Card Pack

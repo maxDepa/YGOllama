@@ -1,0 +1,15 @@
+Fire King Avatar Yaksha
+Card Type: Effect Monster
+
+Description: If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card is destroyed and sent to the Graveyard: You can destroy 1 card in your hand or that you control. You can only use this effect of "Fire King Avatar Yaksha" once per turn.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: Fire King
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light
+- Structure Deck: Fire Kings

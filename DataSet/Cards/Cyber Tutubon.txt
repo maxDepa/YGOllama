@@ -1,0 +1,15 @@
+Cyber Tutubon
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 1 Warrior or Fairy-Type monster from your hand or field. If this card is Tributed for a Ritual Summon: You can target 1 Ritual Spell Card in your Graveyard; add it to your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- Raging Tempest

@@ -1,0 +1,14 @@
+Valkyrie Erda
+Card Type: Effect Monster
+
+Description: You can only control 1 "Valkyrie Erda". While you control this card, Special Summoned by the effect of a "Valkyrie" card, all face-up monsters your opponent controls lose 1000 ATK. Any card destroyed by battle or card effect that would be sent to your opponent's GY is banished instead.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2000
+Defence: 2200
+Archetype: Valkyrie
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Dark Neostorm

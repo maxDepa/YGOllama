@@ -1,0 +1,17 @@
+Spright Double Cross
+Card Type: Trap Card
+
+Description: Target 1 monster on the field or in either GY, then activate 1 of these appropriate effects;
+● Attach the targeted monster to 1 Rank 2 monster you control as material.
+● Place the targeted monster your opponent controls in your zone your Link-2 monster points to, and take control of it.
+● Special Summon the targeted monster from either GY to your zone your Link-2 monster points to.
+You can only activate 1 "Spright Double Cross" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spright
+Present in Sets:
+- Darkwing Blast

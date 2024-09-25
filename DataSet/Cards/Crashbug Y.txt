@@ -1,0 +1,13 @@
+Crashbug Y
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Crashbug X" from your Deck. You must control a face-up "Crashbug Z" to activate and to resolve this effect.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Generation Force

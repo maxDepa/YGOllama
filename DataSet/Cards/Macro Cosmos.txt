@@ -1,0 +1,23 @@
+Macro Cosmos
+Card Type: Trap Card
+
+Description: When this card resolves: You can Special Summon 1 "Helios - The Primordial Sun" from your hand or Deck. While this card is face-up on the field, any card sent to the Graveyard is banished instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Dark Revelation Volume 4
+- Duel Terminal 6b
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- The Dark Emperor Structure Deck
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023

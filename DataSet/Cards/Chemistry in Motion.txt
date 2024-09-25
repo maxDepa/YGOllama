@@ -1,0 +1,17 @@
+Chemistry in Motion
+Card Type: Skill Card
+
+Description: Once per turn, you can place 1 counter on this card, then apply the appropriate effect depending on the number of counters on this card.
+1: Discard 1 Dinosaur monster, then add 1 Dinosaur monster with a different Attribute from your Deck to your hand.
+2: Normal Summon 1 WIND or WATER Dinosaur monster from your hand.
+3: The names of all WATER Dinosaur monsters you currently control become "Hydrogeddon" (until the end of this turn), then add 1 "Bonding - H2O" from your Deck or GY to your hand.
+4: Remove all counters from this card, then change the Attributes/Types of all face-up monsters your opponent currently controls to FIRE/Pyro, until the end of this turn.
+
+Type: Bastion Misaw
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Midterm Paradox

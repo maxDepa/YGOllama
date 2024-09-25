@@ -1,0 +1,13 @@
+Spell Card "Monster Reborn"
+Card Type: Spell Card
+
+Description: Target 1 monster in either GY; Special Summon it to your field, but for the rest of this turn, it cannot attack and neither player can activate its effects. You can only activate 1 "Spell Card "Monster Reborn"" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

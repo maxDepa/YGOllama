@@ -1,0 +1,15 @@
+Metal Dragon
+Card Type: Fusion Monster
+
+Description: "Steel Ogre Grotto #1" + "Lesser Dragon"
+
+Type: Machine
+Attribute: WIND
+Level: 6
+Attack: 1850
+Defence: 1700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

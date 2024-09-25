@@ -1,0 +1,15 @@
+Periallis, Empress of Blossoms
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+Gains 400 ATK for each Plant monster you control, except this card. During your Main Phase: You can Special Summon 1 Level 5 or higher Plant monster from your hand or GY in Defense Position, except "Periallis, Empress of Blossoms". You can only use this effect of "Periallis, Empress of Blossoms" once per turn.
+
+Type: Plant
+Attribute: LIGHT
+Level: 7
+Attack: 1600
+Defence: 2400
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Phantom Rage

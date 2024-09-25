@@ -1,0 +1,15 @@
+Decayed Commander
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 "Zombie Tiger" from your hand. If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.
+
+Type: Zombie
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Speed Duel: Arena of Lost Souls

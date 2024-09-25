@@ -1,0 +1,15 @@
+TGX1-HL
+Card Type: Spell Card
+
+Description: Target 1 "T.G." monster you control; its ATK and DEF each become half its current ATK and DEF, and if they do, destroy 1 other Spell/Trap Card on the field.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 23

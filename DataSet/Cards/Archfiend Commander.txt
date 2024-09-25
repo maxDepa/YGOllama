@@ -1,0 +1,14 @@
+Archfiend Commander
+Card Type: Effect Monster
+
+Description: If you control an "Archfiend" card, you can Special Summon this card (from your hand), but it cannot attack this turn. You can only Special Summon "Archfiend Commander" once per turn this way. When Special Summoned this way: Target 1 "Archfiend" card you control; destroy that target. When this card is Tribute Summoned: You can target 1 Level 6 "Archfiend" monster in your Graveyard; Special Summon that target in face-up Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: Archfiend
+Present in Sets:
+- 2014 Mega-Tins
+- Weekly Shonen Jump December 2013 membership promotional card

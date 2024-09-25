@@ -1,0 +1,14 @@
+Witchcrafter Edel
+Card Type: Effect Monster
+
+Description: (Quick Effect): You can discard 1 Spell; Special Summon 1 "Witchcrafter" monster from your hand, except "Witchcrafter Edel". You can Tribute this card, then target 1 Spellcaster monster in your GY, except "Witchcrafter Edel"; Special Summon it. You can only use each effect of "Witchcrafter Edel" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 2000
+Defence: 2300
+Archetype: Witchcrafter
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

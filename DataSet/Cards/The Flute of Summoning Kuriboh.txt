@@ -1,0 +1,18 @@
+The Flute of Summoning Kuriboh
+Card Type: Spell Card
+
+Description: Take 1 "Kuriboh" or 1 "Winged Kuriboh" from your Deck, and either add it to your hand or Special Summon it.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kuriboh
+Present in Sets:
+- Duel Terminal 4
+- Ghosts From the Past: The 2nd Haunting
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- McDonald's Promotional Cards 2
+- Ra Yellow Mega Pack
+- Yu-Gi-Oh! Advent Calendar (2019)

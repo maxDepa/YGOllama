@@ -1,0 +1,14 @@
+Feedback Warrior
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can target 1 face-up monster you control; it becomes Level 3.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 700
+Archetype: //
+Present in Sets:
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony

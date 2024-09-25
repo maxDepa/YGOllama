@@ -1,0 +1,14 @@
+Master's Diploman
+Card Type: Effect Monster
+
+Description: If this card is Tribute Summoned: You can target 1 monster in your GY and 1 face-up monster your opponent controls; equip the monster from your GY to that opponent's monster. While equipped by this effect, the equipped monster loses ATK equal to the ATK of that monster equipped to it. Your opponent cannot activate the effects of monsters they control that are equipped with Equip Cards in your Spell & Trap Zones.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 2000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

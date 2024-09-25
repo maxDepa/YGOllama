@@ -1,0 +1,13 @@
+Red Arrows
+Card Type: Spell Card
+
+Description: Target up to 2 face-up monsters in the Extra Monster Zone(s); banish them until the End Phase. You can only activate 1 "Red Arrows" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rose
+Present in Sets:
+- Age of Overlord

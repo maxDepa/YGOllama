@@ -1,0 +1,13 @@
+Electric Jellyfish
+Card Type: Effect Monster
+
+Description: You can send 1 "Umi" from your hand, Deck, or face-up field to the GY; Special Summon 1 WATER monster from your hand. When your opponent activates a monster effect, or Spell Card or effect, while "Umi" is on the field (Quick Effect): You can negate that effect, then, you can make this card gain 600 ATK/DEF. You can only use each effect of "Electric Jellyfish" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1400
+Defence: 1700
+Archetype: Umi
+Present in Sets:
+- Legendary Duelists: Duels From the Deep

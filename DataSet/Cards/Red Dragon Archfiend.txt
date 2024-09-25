@@ -1,0 +1,25 @@
+Red Dragon Archfiend
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+After damage calculation, if this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must be face-up on the field to activate and to resolve this effect.
+
+Type: Dragon
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 2000
+Archetype: Archfiend
+Present in Sets:
+- Collectible Tins 2008 Wave 1
+- Collectible Tins 2010 Wave 2
+- Ghosts From the Past: The 2nd Haunting
+- Ghosts From the Past: The 2nd Haunting
+- High-Speed Riders
+- Legendary Collection 5D's Mega Pack
+- Legendary Collection 5D's Mega Pack
+- OTS Tournament Pack 10 (POR)
+- Structure Deck: The Crimson King
+- The Duelist Genesis
+- The Duelist Genesis
+- Turbo Pack: Booster Six

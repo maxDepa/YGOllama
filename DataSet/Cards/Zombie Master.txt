@@ -1,0 +1,19 @@
+Zombie Master
+Card Type: Effect Monster
+
+Description: Once per turn: You can send 1 monster from your hand to the GY, then target 1 Level 4 or lower Zombie monster in either GY; Special Summon that target. This monster must be face-up on the field to activate and to resolve this effect.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Gold Series: Haunted Mine
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Zombie Horde
+- Tactical Evolution
+- Tactical Evolution
+- Turbo Pack: Booster Six
+- Zombie World Structure Deck

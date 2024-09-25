@@ -1,0 +1,15 @@
+Performapal Gatlinghoul
+Card Type: Fusion Monster
+
+Description: 1 "Performapal" monster + 1 Level 5 or higher DARK monster
+If this card is Fusion Summoned: You can inflict 200 damage to your opponent for each card on the field, then, if this card was Fusion Summoned using a Pendulum Monster as Material, destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to that monster's original ATK. You can only use this effect of "Performapal Gatlinghoul" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 900
+Archetype: Performapal
+Present in Sets:
+- Legendary Dragon Decks
+- Maximum Crisis

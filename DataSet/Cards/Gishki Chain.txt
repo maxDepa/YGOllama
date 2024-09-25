@@ -1,0 +1,15 @@
+Gishki Chain
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion
+- The Secret Forces

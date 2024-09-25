@@ -1,0 +1,24 @@
+Power Bond
+Card Type: Spell Card
+
+Description: Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material, and it gains ATK equal to its original ATK. During the End Phase of the turn this card is activated, you take damage equal to the amount of ATK gained from this effect at the time of the Summon.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Zane Truesdale
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Dragon Decks
+- Legendary Duelists: White Dragon Abyss
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- Ra Yellow Mega Pack
+- Structure Deck: Cyber Strike

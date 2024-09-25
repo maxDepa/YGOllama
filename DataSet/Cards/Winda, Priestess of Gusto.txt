@@ -1,0 +1,14 @@
+Winda, Priestess of Gusto
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 "Gusto" Tuner monster from your Deck.
+
+Type: Psychic
+Attribute: WIND
+Level: 2
+Attack: 1000
+Defence: 400
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Subterror Behemoth Stalagmo
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can discard 1 "Subterror" monster, and if you do, draw 2 cards. You can only use this effect of "Subterror Behemoth Stalagmo" once per turn.
+When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.
+
+Type: Rock
+Attribute: EARTH
+Level: 10
+Attack: 2800
+Defence: 2100
+Archetype: Subterror
+Present in Sets:
+- The Dark Illusion

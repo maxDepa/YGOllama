@@ -1,0 +1,17 @@
+Eternal Soul
+Card Type: Trap Card
+
+Description: Every "Dark Magician" in your Monster Zone is unaffected by your opponent's card effects. If this face-up card leaves the field: Destroy all monsters you control. You can only use the following effect of "Eternal Soul" once per turn. You can activate 1 of these effects;
+● Special Summon 1 "Dark Magician" from your hand or GY.
+● Add 1 "Dark Magic Attack" or "Thousand Knives" from your Deck to your hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Duel Power
+- Legendary Decks II
+- Legendary Dragon Decks

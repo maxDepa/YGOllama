@@ -1,0 +1,13 @@
+Elemental Training
+Card Type: Trap Card
+
+Description: Your opponent cannot target "Palace of the Elemental Lords" you control with card effects, also it cannot be destroyed by card effects. Once per turn: You can Tribute 1 monster; Special Summon 1 "Elementsaber" monster from your Deck with a different original Attribute than that monster's. You can send this face-up card from the field to the GY; discard your entire hand, then add "Elemental Lord" monsters from your GY to your hand, equal to the number of cards discarded.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elementsaber
+Present in Sets:
+- Flames of Destruction

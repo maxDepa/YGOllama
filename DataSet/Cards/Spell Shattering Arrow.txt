@@ -1,0 +1,20 @@
+Spell Shattering Arrow
+Card Type: Spell Card
+
+Description: Destroy as many face-up Spells your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack Seven
+- Legendary Collection 3: Yugi's World Mega Pack
+- Premium Gold: Infinite Gold
+- Speed Duel Starter Decks: Match of the Millennium
+- Structure Deck: Yugi Muto
+- Turbo Pack: Booster Five
+- Yugi's Legendary Decks
+- Zombie World Structure Deck

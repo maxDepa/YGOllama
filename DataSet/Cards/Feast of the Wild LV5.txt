@@ -1,0 +1,16 @@
+Feast of the Wild LV5
+Card Type: Spell Card
+
+Description: Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also, for the rest of this turn, they cannot attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Star Pack ARC-V
+- Star Pack ARC-V

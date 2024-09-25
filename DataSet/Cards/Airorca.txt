@@ -1,0 +1,16 @@
+Airorca
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish 1 Fish, Sea Serpent, or Aqua-Type monster from your hand, then target 1 face-up card your opponent controls; destroy that target, then banish this card until your next Standby Phase.
+
+Type: Sea Serpent
+Attribute: WIND
+Level: 3
+Attack: 1400
+Defence: 300
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Generation Force
+- Speed Duel: Streets of Battle City

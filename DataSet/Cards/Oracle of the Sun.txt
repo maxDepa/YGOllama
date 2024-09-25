@@ -1,0 +1,18 @@
+Oracle of the Sun
+Card Type: Effect Monster
+
+Description: If only your opponent controls a monster, you can Special Summon this card (from your hand). When this card on the field is destroyed and sent to the GY: You can add 1 "Fire Ant Ascator" or "Supay" from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

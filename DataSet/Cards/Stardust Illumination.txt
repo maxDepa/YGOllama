@@ -1,0 +1,14 @@
+Stardust Illumination
+Card Type: Spell Card
+
+Description: Send 1 "Stardust" monster from your Deck to the GY, or if you control "Stardust Dragon" or a Synchro Monster that mentions it, you can Special Summon it instead. You can banish this card from your GY, then target 1 "Stardust" monster you control; increase or decrease its Level by 1 until the end of this turn. You can only use each effect of "Stardust Illumination" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Stardust
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

@@ -1,0 +1,15 @@
+Noble Knight Pellinore
+Card Type: Effect Monster
+
+Description: You can target 1 "Noble Arms" Equip Spell equipped to this card and 1 face-up monster your opponent controls; destroy them, then draw 1 card, also, this card cannot attack for the rest of this turn. You can only use this effect of "Noble Knight Pellinore" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1900
+Defence: 500
+Archetype: Noble Knight
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon
+- Maximum Gold

@@ -1,0 +1,14 @@
+Link Bound
+Card Type: Spell Card
+
+Description: Target 1 Link Monster you control or in your GY; return it to the Extra Deck, and if you do, draw cards equal to its Link Rating, then place cards from your hand on the bottom of the Deck, in any order, equal to the number of cards you drew. You can only activate 1 "Link Bound" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Flames of Destruction
+- Structure Deck: Soulburner

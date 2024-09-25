@@ -1,0 +1,15 @@
+Cubic Mandala
+Card Type: Trap Card
+
+Description: If you control a "Cubic" monster: Activate this card by targeting any number of monsters that are in your opponent's Graveyard because they were destroyed and sent there this turn; Special Summon them to your opponent's field, but each becomes ATK 0 and has 1 Cubic Counter placed on it. (Monsters with a Cubic Counter cannot attack, also negate their effects.) While your opponent controls any of the monsters Summoned by this effect, negate any monster effects your opponent activates. When the last of these monsters leaves the field, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cubic
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

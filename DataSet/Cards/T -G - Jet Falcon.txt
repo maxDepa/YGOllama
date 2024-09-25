@@ -1,0 +1,14 @@
+T.G. Jet Falcon
+Card Type: Tuner Monster
+
+Description: If this card is sent to the Graveyard as a Synchro Material: Inflict 500 damage to your opponent.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1400
+Defence: 1200
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

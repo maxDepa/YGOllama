@@ -1,0 +1,15 @@
+Volcanic Emission
+Card Type: Trap Card
+
+Description: Activate 1 of these effects (but you can only use each effect of "Volcanic Emission" once per turn);
+● Take 1 "Volcanic" monster from your Deck, and either add it to your hand or Special Summon it, ignoring its Summoning conditions, but return it to the hand during the End Phase.
+● Target 1 Pyro monster on the field; inflict damage to your opponent equal to that monster's original ATK, or if you targeted a monster you control, the damage is halved.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Volcanic
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano

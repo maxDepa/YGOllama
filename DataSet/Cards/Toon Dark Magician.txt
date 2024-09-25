@@ -1,0 +1,19 @@
+Toon Dark Magician
+Card Type: Toon Monster
+
+Description: Cannot attack the turn it is Summoned. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can discard 1 "Toon" card, then activate 1 of these effects;
+● Special Summon 1 Toon monster from your Deck, except "Toon Dark Magician", ignoring its Summoning conditions.
+● Add 1 "Toon" Spell/Trap from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2100
+Archetype: Toon
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Duelists: Season 1
+- Speed Duel Starter Decks: Match of the Millennium
+- Speed Duel Tournament Pack 3
+- The Dark Illusion

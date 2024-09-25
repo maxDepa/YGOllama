@@ -1,0 +1,19 @@
+Gouki Thunder Ogre
+Card Type: Link Monster
+
+Description: 2+ "Gouki" monsters
+If a monster(s) this card points to is destroyed by battle or card effect: You can make this card gain 400 ATK. The turn player applies the following effect while this monster is on the field.
+● During their Main Phase, they can Normal Summon 1 monster from their hand to their zone this card points to, in addition to their Normal Summon/Set. (They can only gain this effect once per turn.)
+
+Type: Warrior
+Attribute: EARTH
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

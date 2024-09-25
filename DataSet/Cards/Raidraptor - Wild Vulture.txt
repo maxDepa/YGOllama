@@ -1,0 +1,14 @@
+Raidraptor - Wild Vulture
+Card Type: Effect Monster
+
+Description: During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute this card; Special Summon 2 "Raidraptor" monsters from your hand and/or Graveyard whose total Levels equal 6.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 6
+Attack: 1600
+Defence: 2000
+Archetype: Raidraptor
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos

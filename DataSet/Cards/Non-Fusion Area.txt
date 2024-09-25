@@ -1,0 +1,16 @@
+Non-Fusion Area
+Card Type: Trap Card
+
+Description: Neither player can Fusion Summon.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Magnificent Mavens

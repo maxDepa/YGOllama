@@ -1,0 +1,17 @@
+Inzektor Dragonfly
+Card Type: Effect Monster
+
+Description: Once per turn: You can equip 1 "Inzektor" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 "Inzektor" monster from your Deck, except "Inzektor Dragonfly". While this card is equipped to a monster, that monster's Level is increased by 3.
+
+Type: Insect
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1800
+Archetype: Inzektor
+Present in Sets:
+- Order of Chaos
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)
+- The Grand Creators
+- The Grand Creators

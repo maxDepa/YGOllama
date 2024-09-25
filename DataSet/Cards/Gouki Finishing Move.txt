@@ -1,0 +1,14 @@
+Gouki Finishing Move
+Card Type: Spell Card
+
+Description: Target 1 "Gouki" Link Monster you control; it gains ATK equal to its Link Rating x 1000 until the end of this turn, also if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. For the rest of this turn after this card resolves, you cannot declare attacks, except with "Gouki" monsters. You can only activate 1 "Gouki Finishing Move" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gouki
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

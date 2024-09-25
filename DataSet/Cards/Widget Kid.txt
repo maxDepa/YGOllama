@@ -1,0 +1,13 @@
+Widget Kid
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can Special Summon 1 Cyberse monster from your hand in Defense Position. You can only use this effect of "Widget Kid" once per turn.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 3
+Attack: 1500
+Defence: 900
+Archetype: //
+Present in Sets:
+- Starter Deck: Codebreaker

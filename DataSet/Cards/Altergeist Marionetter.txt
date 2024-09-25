@@ -1,0 +1,19 @@
+Altergeist Marionetter
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Set 1 "Altergeist" Trap directly from your Deck to your Spell & Trap Zone. You can target 1 "Altergeist" card you control and 1 "Altergeist" monster in your GY; send that card on the field to the GY, and if you do, Special Summon that other monster from your GY. You can only use this effect of "Altergeist Marionetter" once per turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1700
+Archetype: Altergeist
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Maximum Gold: El Dorado
+- Maze of Millennia
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

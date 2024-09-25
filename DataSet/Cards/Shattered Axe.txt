@@ -1,0 +1,17 @@
+Shattered Axe
+Card Type: Trap Card
+
+Description: Activate this card by targeting 1 face-up monster on the field. During each of your Standby Phases: It loses 500 ATK. When that target is destroyed, destroy this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Yugi's Legendary Decks

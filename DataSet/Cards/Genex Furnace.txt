@@ -1,0 +1,14 @@
+Genex Furnace
+Card Type: Effect Monster
+
+Description: If you control a face-up "Genex Controller", you can Normal Summon this card without Tributing.
+
+Type: Pyro
+Attribute: FIRE
+Level: 5
+Attack: 2000
+Defence: 1300
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

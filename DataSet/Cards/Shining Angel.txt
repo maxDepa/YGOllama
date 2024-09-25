@@ -1,0 +1,27 @@
+Shining Angel
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1400
+Defence: 800
+Archetype: //
+Present in Sets:
+- Cyber Dragon Revolution Structure Deck
+- Dark Beginning 1
+- Dark Legends
+- Duelist League 13 participation cards
+- Hobby League 6 participation card F
+- Legendary Collection 3: Yugi's World Mega Pack
+- Lost Sanctuary Structure Deck
+- Magic Ruler
+- Magic Ruler
+- Retro Pack
+- Saga of Blue-Eyes White Dragon Structure Deck
+- Spell Ruler
+- Spell Ruler
+- Starter Deck: Dawn of the Xyz
+- Starter Deck: Xyz Symphony

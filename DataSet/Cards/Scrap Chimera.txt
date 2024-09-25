@@ -1,0 +1,15 @@
+Scrap Chimera
+Card Type: Effect Monster
+
+Description: This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a "Scrap" monster, and all other Synchro Material Monsters must also be "Scrap" monsters. When this card is Normal Summoned, you can select 1 "Scrap" Tuner monster in your Graveyard and Special Summon it.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 500
+Archetype: Scrap
+Present in Sets:
+- Duelist Revolution
+- Maximum Gold: El Dorado
+- OTS Tournament Pack 9 (POR)

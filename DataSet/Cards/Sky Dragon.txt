@@ -1,0 +1,13 @@
+Sky Dragon
+Card Type: Normal Monster
+
+Description: A flying dragon with four wings housing some very dangerous blades.
+
+Type: Dragon
+Attribute: WIND
+Level: 6
+Attack: 1900
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Tournament Pack: 2nd Season

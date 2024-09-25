@@ -1,0 +1,13 @@
+Soul Levy
+Card Type: Trap Card
+
+Description: You can only control 1 "Soul Levy". Each time your opponent Special Summons a monster(s), send the top 3 cards of your opponent's Deck to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Chaos Impact

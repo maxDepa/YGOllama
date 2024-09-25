@@ -1,0 +1,16 @@
+Blackwing - Breeze the Zephyr
+Card Type: Tuner Monster
+
+Description: If this card is added from your Deck to your hand by a card effect: You can Special Summon this card from your hand. Cannot be used as a Synchro Material, except for the Synchro Summon of a "Blackwing" monster.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 300
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Legendary Collection 5D's Mega Pack
+- The Shining Darkness
+- The Shining Darkness

@@ -1,0 +1,15 @@
+Obedience Schooled
+Card Type: Spell Card
+
+Description: If you control no monsters: Special Summon 3 Level 2 or lower Beast-Type Effect Monsters with different names from your Deck. Their effects are negated, and they are destroyed during the End Phase. If you activate this card, you cannot Special Summon for the rest of this turn, except Beast-Type monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Battles of Legend: Armageddon
+- Legacy of the Valiant

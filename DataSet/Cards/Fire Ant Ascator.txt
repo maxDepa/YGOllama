@@ -1,0 +1,17 @@
+Fire Ant Ascator
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can target 1 Level 5 monster in your GY; Special Summon that target, but its effects are negated, also send it to the GY during the End Phase of this turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 700
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Structure Deck: The Crimson King

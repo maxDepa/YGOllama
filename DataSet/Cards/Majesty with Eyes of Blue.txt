@@ -1,0 +1,15 @@
+Majesty with Eyes of Blue
+Card Type: Spell Card
+
+Description: Send 1 "Blue-Eyes" monster from your hand or Deck to the GY, then target 1 face-up monster on the field; it cannot attack while it is face-up on the field. You can only activate 1 "Majesty with Eyes of Blue" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- Legendary Collection Kaiba Mega Pack
+- Legendary Duelists: Season 2
+- Structure Deck: Seto Kaiba

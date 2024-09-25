@@ -1,0 +1,13 @@
+Ocean's Keeper
+Card Type: Effect Monster
+
+Description: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. When this card is destroyed by battle, add 1 "Thousand-Eyes Jellyfish" or 1 "Cranium Fish" from your Deck to your hand.
+
+Type: Fish
+Attribute: WATER
+Level: 3
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Tactical Evolution

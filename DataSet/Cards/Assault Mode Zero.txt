@@ -1,0 +1,13 @@
+Assault Mode Zero
+Card Type: Spell Card
+
+Description: Tribute 1 Synchro Monster; Special Summon 1 "/Assault Mode" monster from your hand whose name includes the Tributed monster's name. (This is treated as a Special Summon with "Assault Mode Activate".) During your Main Phase: You can banish this card from your GY; Set 1 "Assault Mode Activate" directly from your hand or Deck. It can be activated this turn. You can only use each effect of "Assault Mode Zero" once per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Assault Mode
+Present in Sets:
+- Dark Neostorm

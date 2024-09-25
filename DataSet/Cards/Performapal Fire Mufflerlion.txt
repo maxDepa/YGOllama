@@ -1,0 +1,20 @@
+Performapal Fire Mufflerlion
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+When a Pendulum Monster you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone.
+
+[ Monster Effect ] 
+Once per turn, if a Pendulum Monster you control destroys an opponent's monster by battle, after damage calculation: You can make that monster you control gain 200 ATK until the end of the Battle Phase, and if you do, it can make a second attack in a row.
+
+Type: Beast
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 800
+Archetype: Performapal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Secrets of Eternity
+- Star Pack ARC-V
+- Star Pack ARC-V

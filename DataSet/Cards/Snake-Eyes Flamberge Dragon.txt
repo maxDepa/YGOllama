@@ -1,0 +1,14 @@
+Snake-Eyes Flamberge Dragon
+Card Type: Effect Monster
+
+Description: You can target 1 face-up monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. During your opponent's turn (Quick Effect): You can target 1 Monster Card treated as a Continuous Spell on the field; Special Summon it to your field. If this card is sent from the hand or field to the GY: You can Special Summon 2 Level 1 FIRE monsters from your GY. You can only use each effect of "Snake-Eyes Flamberge Dragon" once per turn.
+
+Type: Dragon
+Attribute: FIRE
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Snake-Eye
+Present in Sets:
+- Age of Overlord
+- Age of Overlord

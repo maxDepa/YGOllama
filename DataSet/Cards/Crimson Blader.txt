@@ -1,0 +1,16 @@
+Crimson Blader
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner monsters
+If this card destroys an opponent's monster by battle and sends it to the Graveyard: Your opponent cannot Normal or Special Summon Level 5 or higher monsters during their next turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 8
+Attack: 2800
+Defence: 2600
+Archetype: //
+Present in Sets:
+- Astral Pack Four
+- Cosmo Blazer
+- Legendary Collection 5D's Mega Pack

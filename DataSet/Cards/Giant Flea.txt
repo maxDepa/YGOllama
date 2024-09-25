@@ -1,0 +1,14 @@
+Giant Flea
+Card Type: Normal Monster
+
+Description: A massive flea that feeds on the blood of its enemies.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season

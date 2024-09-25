@@ -1,0 +1,15 @@
+Rubisapphirus the Jewel of Maximum Mohs
+Card Type: XYZ Monster
+
+Description: 2+ Level 9 monsters
+If this card would be destroyed, you can detach 1 material from this card instead. This card gains effects based on its attached materials' Attributes.
+● FIRE: When this card declares an attack on a monster with higher ATK: You can make this card's ATK become doubled until the end of the Damage Step.
+● WATER: Once per opponent's turn (Quick Effect): You can target 1 card you control; negate any card or effect your opponent activates this turn that targets that card.
+
+Type: Rock
+Attribute: EARTH
+Level: 9
+Attack: 2700
+Defence: 1600
+Archetype: //
+Present in Sets:

@@ -1,0 +1,13 @@
+Big-Winged Berfomet
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 Level 4 Beast monster and/or 1 "Chimera Fusion" from your Deck to your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Fusion Monsters. If this card is sent to the GY as material for a Fusion Summon: You can target 1 Illusion monster in your GY; Special Summon it. You can only use each effect of "Big-Winged Berfomet" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 1400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Duelist Nexus

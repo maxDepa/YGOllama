@@ -1,0 +1,16 @@
+Vaalmonica Invitare
+Card Type: Spell Card
+
+Description: Apply 1 of these effects.
+● Special Summon 1 "Vaalmonica" monster from your Deck, also for the rest of this turn after this card resolves, you cannot activate the effects of monsters on the field, except "Vaalmonica" monsters.
+● If you control a non-Pendulum "Vaalmonica" monster, take 2 "Vaalmonica" Pendulum Monsters with different names from your Deck, add 1 of them to your hand, and add the other to your face-up Extra Deck.
+You can only activate 1 "Vaalmonica Invitare" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vaalmonica
+Present in Sets:
+- Legacy of Destruction

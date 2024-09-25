@@ -1,0 +1,16 @@
+D Cubed
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: It is also treated as a "Destiny HERO" monster while face-up on the field. You can only use each of the following effects of "D Cubed" once per turn.
+● You can discard up to 2 cards; Special Summon "D Cubed" from your hand, Deck, and/or GY, equal to the number discarded, also for the rest of this turn, you cannot Normal or Special Summon other monsters, except "Destiny HERO" monsters.
+● If this card is destroyed by battle or card effect: You can send 1 "Destiny HERO" monster from your Deck to the GY.
+
+Type: Machine
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Destiny HERO
+Present in Sets:
+- Destiny Soldiers
+- Legendary Hero Decks

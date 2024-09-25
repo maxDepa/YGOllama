@@ -1,0 +1,20 @@
+Ninja Grandmaster Sasuke
+Card Type: Effect Monster
+
+Description: At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 3
+- Soul of the Duelist
+- Soul of the Duelist
+- Starter Deck: Jaden Yuki
+- Structure Deck: Warrior's Triumph
+- Turbo Pack: Booster Seven

@@ -1,0 +1,21 @@
+Goldd, Wu-Lord of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 1400
+Archetype: Dark World
+Present in Sets:
+- Champion Pack: Game Three
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Gold Series
+- Legendary Collection 4: Joey's World Mega Pack
+- Premium Gold
+- Structure Deck: Dark World

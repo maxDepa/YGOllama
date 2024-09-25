@@ -1,0 +1,17 @@
+Fairy of the Spring
+Card Type: Spell Card
+
+Description: Target 1 Equip Spell Card in your Graveyard; add that target to your hand. That Equip Spell Card cannot be activated this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Duelist League 17 participation cards
+- Structure Deck: Warrior's Triumph

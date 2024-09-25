@@ -1,0 +1,16 @@
+Day-Breaker the Shining Magical Warrior
+Card Type: Link Monster
+
+Description: 2 Spellcaster monsters
+If this card is Link Summoned: Place 1 Spell Counter on it. Gains 300 ATK for each Spell Counter on it. You can only activate each of the following effects of "Day-Breaker the Shining Magical Warrior" once per turn.
+● If a Spellcaster monster(s) is Special Summoned to a zone(s) this card points to: Place 1 Spell Counter on this card.
+● You can remove 2 Spell Counters from this card, then target 1 card on the field; destroy it.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 0
+Attack: 1600
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Order of the Spellcasters

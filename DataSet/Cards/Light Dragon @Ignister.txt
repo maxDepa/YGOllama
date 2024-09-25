@@ -1,0 +1,17 @@
+Light Dragon @Ignister
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+If a monster(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. You can only use each of the following effects of "Light Dragon @Ignister" once per turn.
+● You can detach 1 material from this card; destroy face-up monsters your opponent controls, up to the number of "@Ignister" monsters you control.
+● When another Cyberse monster you control inflicts battle damage to your opponent: You can Special Summon 1 Link Monster from your GY.
+
+Type: Cyberse
+Attribute: LIGHT
+Level: 4
+Attack: 2300
+Defence: 1500
+Archetype: @Ignister
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Ignition Assault

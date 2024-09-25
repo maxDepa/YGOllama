@@ -1,0 +1,13 @@
+Boompoline!!
+Card Type: Trap Card
+
+Description: Activate this card by choosing 1 unused Monster Zone. If an Effect Monster is Special Summoned to that zone: Return both the monster in that zone and this card to the hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Chaos Impact

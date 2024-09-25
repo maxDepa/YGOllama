@@ -1,0 +1,15 @@
+Angelica, Princess of Noble Arms
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+If this card is Special Summoned: You can add 1 "Horn of Olifant", or 1 card that mentions "Infernoble Knight Emperor Charles", from your Deck to your hand. When a card or effect is activated that targets this card on the field, or when this card is targeted for an attack (Quick Effect): You can send 1 FIRE Warrior monster from your Deck to the GY, and if you do, banish this card (until the End Phase), then you can Special Summon 1 "Roland" monster from your Deck or Extra Deck. You can only use each effect of "Angelica, Princess of Noble Arms" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 5
+Attack: 1200
+Defence: 2400
+Archetype: Noble Arms
+Present in Sets:
+- Duelist Nexus
+- Duelist Nexus

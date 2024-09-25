@@ -1,0 +1,17 @@
+Saambell the Star Bonder
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+If you have a Pendulum Monster Card with the same Level as this card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card. You can only use this effect of "Saambell the Star Bonder" once per turn.
+
+[ Monster Effect ] 
+If a monster is Special Summoned to your field while you control this monster (except during the Damage Step): You can Special Summon 1 monster from your hand with the same Level as this card. You can only use this effect of "Saambell the Star Bonder" once per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 3
+Attack: 1400
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Dawn of Majesty

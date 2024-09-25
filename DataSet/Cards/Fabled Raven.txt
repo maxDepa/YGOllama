@@ -1,0 +1,18 @@
+Fabled Raven
+Card Type: Tuner Monster
+
+Description: Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 2
+Attack: 1300
+Defence: 1000
+Archetype: Fabled
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 7a
+- Duelist Revolution
+- Realm of Light Structure Deck
+- Structure Deck: Dark World

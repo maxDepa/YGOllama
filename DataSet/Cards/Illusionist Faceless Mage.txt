@@ -1,0 +1,18 @@
+Illusionist Faceless Mage
+Card Type: Normal Monster
+
+Description: Manipulates enemy attacks with the power of illusion.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 1200
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Starter Decks: Match of the Millennium
+- Starter Deck: Pegasus

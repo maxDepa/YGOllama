@@ -1,0 +1,16 @@
+Union Attack
+Card Type: Spell Card
+
+Description: Target 1 face-up monster you control; add up the total ATK of all other face-up Attack Position monsters you currently control, then during the Battle Phase of this turn only, the monster gains that much ATK, but cannot inflict battle damage to your opponent, also other face-up Attack Position monsters cannot attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Legendary Collection 3: Yugi's World Mega Pack
+- Light of Destruction

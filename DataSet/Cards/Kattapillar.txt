@@ -1,0 +1,12 @@
+Kattapillar
+Card Type: Normal Monster
+
+Description: Attacks enemies by spitting thin, sticky webs.
+
+Type: Insect
+Attribute: EARTH
+Level: 1
+Attack: 250
+Defence: 300
+Archetype: //
+Present in Sets:

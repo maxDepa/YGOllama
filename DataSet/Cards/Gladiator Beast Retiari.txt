@@ -1,0 +1,14 @@
+Gladiator Beast Retiari
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of a "Gladiator Beast" monster, you can remove from play 1 card from your opponent's Graveyard. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Retiari".
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Gladiator Beast
+Present in Sets:
+- Crossroads of Chaos
+- Turbo Pack: Booster Three

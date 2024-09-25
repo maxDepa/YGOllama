@@ -1,0 +1,13 @@
+Scrap Hunter
+Card Type: Effect Monster
+
+Description: Once per turn, you can select 1 face-up "Scrap" monster you control, except this card. Destroy it and send 1 Tuner monster from your Deck to the Graveyard.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 1600
+Defence: 400
+Archetype: Scrap
+Present in Sets:
+- Duelist Revolution

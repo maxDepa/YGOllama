@@ -1,0 +1,16 @@
+Draconnet
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can Special Summon 1 Level 2 or lower Normal Monster from your hand or Deck in Defense Position.
+
+Type: Cyberse
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Starter Deck: Link Strike

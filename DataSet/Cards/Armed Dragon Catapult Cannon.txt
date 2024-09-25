@@ -1,0 +1,14 @@
+Armed Dragon Catapult Cannon
+Card Type: Fusion Monster
+
+Description: "VWXYZ-Dragon Catapult Cannon" + "Armed Dragon LV7"
+Must first be Special Summoned (from your Extra Deck) during a Duel you Special Summoned both the above cards, by banishing the above cards from your field and/or GY. (You do not use "Polymerization".) Your opponent cannot activate cards or effects with the same name as any banished card. Once per turn, during your opponent's turn (Quick Effect): You can banish 1 card from your Deck or Extra Deck, face-up; banish all cards your opponent controls and in their GY.
+
+Type: Machine
+Attribute: LIGHT
+Level: 10
+Attack: 3500
+Defence: 3000
+Archetype: Armed Dragon
+Present in Sets:
+- Legendary Duelists: Ancient Millennium

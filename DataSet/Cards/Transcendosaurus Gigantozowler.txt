@@ -1,0 +1,14 @@
+Transcendosaurus Gigantozowler
+Card Type: Fusion Monster
+
+Description: 1 Dinosaur monster + 1 Normal Monster
+If this card is Special Summoned: You can target 1 Dinosaur monster in your GY; add it to your hand, then, if this card was Special Summoned from the GY, you can destroy 2 cards (1 from your hand or field, and 1 your opponent controls). If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card. You can only use each effect of "Transcendosaurus Gigantozowler" once per turn.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 12
+Attack: 3800
+Defence: 2000
+Archetype: Transcendosaurus
+Present in Sets:
+- Wild Survivors

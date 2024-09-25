@@ -1,0 +1,15 @@
+Kidmodo Dragon
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: You can Special Summon 1 Dragon-Type monster from your hand. You cannot Special Summon monsters, except Dragon-Type monsters, nor conduct your Battle Phase, the turn you activate this effect. You can only use this effect of "Kidmodo Dragon" once per turn.
+
+Type: Dragon
+Attribute: EARTH
+Level: 3
+Attack: 100
+Defence: 200
+Archetype: //
+Present in Sets:
+- Legendary Decks II
+- Rise of the True Dragons Structure Deck
+- Shadow Specters

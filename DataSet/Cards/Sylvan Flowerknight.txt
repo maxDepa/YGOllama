@@ -1,0 +1,14 @@
+Sylvan Flowerknight
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can choose 1 "Sylvan" card from your Deck and place it on top of your Deck.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: Sylvan
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

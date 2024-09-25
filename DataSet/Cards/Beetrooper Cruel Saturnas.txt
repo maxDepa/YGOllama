@@ -1,0 +1,14 @@
+Beetrooper Cruel Saturnas
+Card Type: Fusion Monster
+
+Description: 1 "Beetrooper" monster + 1 Insect monster
+You cannot Special Summon monsters, except Insect monsters. You can only use each of the following effects of "Beetrooper Cruel Saturnas" once per turn. If this card is Special Summoned: You can add 1 "Beetrooper" card from your Deck to your hand. If an Insect monster(s) is banished face-up (except during the Damage Step): You can target 1 of your banished "Beetrooper" monsters; Special Summon it.
+
+Type: Insect
+Attribute: DARK
+Level: 5
+Attack: 2400
+Defence: 2000
+Archetype: Beetrooper
+Present in Sets:
+- Cyberstorm Access

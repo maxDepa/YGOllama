@@ -1,0 +1,17 @@
+Freed the Brave Wanderer
+Card Type: Effect Monster
+
+Description: Once per turn: You can banish 2 LIGHT monsters from your Graveyard to target 1 face-up monster on the field with higher ATK than this face-up card; destroy that target.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Revelation Volume 2
+- Duel Terminal 6a
+- Invasion of Chaos
+- Invasion of Chaos

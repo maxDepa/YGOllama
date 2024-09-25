@@ -1,0 +1,15 @@
+Thunder Hand
+Card Type: Effect Monster
+
+Description: If a face-up monster(s) you control with 1600 original ATK or DEF is destroyed by battle or an opponent's card effect and sent to the GY, while this card is in your hand or GY: You can Special Summon this card (but banish it when it leaves the field), and if you do, destroy 1 card your opponent controls. You can only use this effect of "Thunder Hand" once per turn.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1600
+Archetype: //
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist
+- Structure Deck: Beware of Traptrix

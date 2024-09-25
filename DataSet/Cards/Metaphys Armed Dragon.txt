@@ -1,0 +1,15 @@
+Metaphys Armed Dragon
+Card Type: Normal Monster
+
+Description: Usually visible despite its phantom existence.
+
+Type: Wyrm
+Attribute: LIGHT
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: Armed Dragon
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance
+- Master of Pendulum Structure Deck

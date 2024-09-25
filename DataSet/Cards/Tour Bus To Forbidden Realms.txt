@@ -1,0 +1,14 @@
+Tour Bus To Forbidden Realms
+Card Type: Flip Effect Monster
+
+Description: FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 600
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Judgment of the Light
+- Maximum Gold

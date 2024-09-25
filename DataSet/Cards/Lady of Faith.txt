@@ -1,0 +1,15 @@
+Lady of Faith
+Card Type: Normal Monster
+
+Description: Soothes the souls of others by chanting a mysterious spell.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 1100
+Defence: 800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

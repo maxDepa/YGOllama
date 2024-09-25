@@ -1,0 +1,13 @@
+Land of the Ojamas (Skill Card)
+Card Type: Skill Card
+
+Description: Once per turn: You can send 1 "Ojama" card from your hand to the GY; Special Summon 1 "Ojama" monster from your GY. While you control an "Ojama" monster, switch the original ATK/DEF of all monsters on the field.
+
+Type: Chazz Princet
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:
+- Speed Duel GX: Duel Academy Box

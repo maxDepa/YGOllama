@@ -1,0 +1,14 @@
+Patchwork Fluffal
+Card Type: Effect Monster
+
+Description: This card is also treated as a "Frightfur" monster while face-up on the field. This card on the field can be used as a substitute for any 1 Fusion Material whose name is specifically listed on a "Frightfur" Fusion Monster, but the other Fusion Material(s) must be correct.
+
+Type: Fairy
+Attribute: EARTH
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Fluffal
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Soul Fusion

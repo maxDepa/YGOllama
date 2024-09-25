@@ -1,0 +1,13 @@
+Earthquake Giant
+Card Type: Effect Monster
+
+Description: Once per turn, when the battle position of this card is changed, you can select 1 monster your opponent controls and change its battle position.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Duelist Revolution

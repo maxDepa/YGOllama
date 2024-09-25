@@ -1,0 +1,13 @@
+Cactus Fighter
+Card Type: Effect Monster
+
+Description: If this card destroys an opponent's monster by battle, Special Summon 1 "Needle Token" (Plant-Type/EARTH/Level 1/ATK 500/DEF 500) to your opponent's side of the field in Defense Position.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1900
+Defence: 400
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

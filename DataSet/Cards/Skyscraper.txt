@@ -1,0 +1,21 @@
+Skyscraper
+Card Type: Spell Card
+
+Description: If an "Elemental HERO" monster attacks a monster that has a higher ATK, the attacking monster gains 1000 ATK during damage calculation only.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Cybernetic Revolution
+- Cybernetic Revolution
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Gold Series 2009
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- Speed Duel GX: Duel Academy Box

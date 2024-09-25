@@ -1,0 +1,15 @@
+Clock Wyvern
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can halve this card's ATK, and if you do, Special Summon 1 "Clock Token" (Cyberse/WIND/Level 1/ATK 0/DEF 0). You can only use this effect of "Clock Wyvern" once per turn.
+
+Type: Cyberse
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Egyptian God Deck: Slifer the Sky Dragon
+- Soul Fusion

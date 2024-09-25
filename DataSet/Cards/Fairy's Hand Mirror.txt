@@ -1,0 +1,18 @@
+Fairy's Hand Mirror
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell Card that targets exactly 1 monster (and no other cards) on the field: Target another card that would be an appropriate target; that Spell now targets the new target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

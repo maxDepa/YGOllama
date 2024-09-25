@@ -1,0 +1,14 @@
+Worm Queen
+Card Type: Effect Monster
+
+Description: You can Tribute Summon this card in face-up Attack Position by Tributing 1 Reptile-Type "Worm" monster. Once per turn, you can Tribute 1 Reptile-Type "Worm" monster to Special Summon 1 Reptile-Type "Worm" monster from your Deck with a Level less than or equal to the Tributed monster.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 8
+Attack: 2700
+Defence: 1100
+Archetype: Worm
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

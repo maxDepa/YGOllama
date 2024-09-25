@@ -1,0 +1,18 @@
+Magical Exemplar
+Card Type: Effect Monster
+
+Description: Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn: You can remove any number of Spell Counters from this card; Special Summon 1 Spellcaster monster from your hand or GY whose Level is equal to the number of Spell Counters you removed.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Legendary Dragon Decks
+- Light of Destruction
+- Spellcaster's Command Structure Deck
+- Structure Deck: Order of the Spellcasters

@@ -1,0 +1,13 @@
+Predaplant Darlingtonia Cobra
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned by the effect of a "Predaplant" monster: You can add 1 "Polymerization" Spell Card or "Fusion" Spell Card from your Deck to your hand. You can only use this effect of "Predaplant Darlingtonia Cobra" once per Duel.
+
+Type: Plant
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 1500
+Archetype: Predaplant
+Present in Sets:
+- Maximum Crisis

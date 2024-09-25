@@ -1,0 +1,13 @@
+Inherited Fortune
+Card Type: Trap Card
+
+Description: Activate during the turn a face-up "Fortune Lady" monster you control was destroyed. Special Summon up to 2 "Fortune Lady" monsters from your hand during your next Standby Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Lady
+Present in Sets:
+- Stardust Overdrive

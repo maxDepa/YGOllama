@@ -1,0 +1,34 @@
+Bottomless Trap Hole
+Card Type: Trap Card
+
+Description: When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Hole
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Champion Pack: Game Four
+- Dark Beginning 2
+- Dark Beginning 2
+- Dragunity Legion Structure Deck
+- Genesis Impact
+- Gold Series 2009
+- HERO Strike Structure Deck
+- Legacy of Darkness
+- Legacy of Darkness
+- Legendary Collection 3: Yugi's World Mega Pack
+- Legendary Collection 4: Joey's World Mega Pack
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- Premium Gold
+- Retro Pack 2
+- Starter Deck: Codebreaker
+- Starter Deck: Link Strike
+- Structure Deck: Beware of Traptrix
+- The Dark Emperor Structure Deck
+- Wing Raiders
+- Zombie World Structure Deck

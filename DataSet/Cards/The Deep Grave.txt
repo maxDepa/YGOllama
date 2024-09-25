@@ -1,0 +1,14 @@
+The Deep Grave
+Card Type: Trap Card
+
+Description: Target 1 monster in either player's GY; during your next Standby Phase, Special Summon it from the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Cybernetic Horizon

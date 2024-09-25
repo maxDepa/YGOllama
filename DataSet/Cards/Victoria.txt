@@ -1,0 +1,15 @@
+Victoria
+Card Type: Effect Monster
+
+Description: Once per turn: You can target 1 Dragon-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field. Your opponent cannot target face-up Fairy-Type monsters for attacks, except this one.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1800
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Duelist League 16 participation cards
+- Lost Sanctuary Structure Deck
+- Stardust Overdrive

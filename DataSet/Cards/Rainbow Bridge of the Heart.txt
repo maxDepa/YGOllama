@@ -1,0 +1,13 @@
+Rainbow Bridge of the Heart
+Card Type: Spell Card
+
+Description: During your Main Phase, you can Normal Summon 1 "Crystal Beast" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can only use each of the following effects of "Rainbow Bridge of the Heart" once per turn. During your Main Phase: You can destroy 1 "Crystal Beast" card you control or in your hand, and if you do, add 1 "Crystal" Spell/Trap from your Deck to your hand. If a "Crystal Beast" card(s) is placed in your Spell & Trap Zone, even during the Damage Step: You can target 1 card your opponent controls; return both that card and this card to the hand.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rainbow Bridge
+Present in Sets:
+- Structure Deck: Legend of the Crystal Beasts

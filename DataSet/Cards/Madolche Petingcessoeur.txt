@@ -1,0 +1,17 @@
+Madolche Petingcessoeur
+Card Type: Effect Monster
+
+Description: If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. You can only use each of the following effects of "Madolche Petingcessoeur" once per turn.
+● If you have no monsters in your GY: You can Special Summon this card from your hand.
+● If this card is Special Summoned: You can Special Summon 1 "Madolche" monster from your hand or Deck, except "Madolche Petingcessoeur", and if you do, reduce its Level by 1, also you cannot Special Summon monsters for the rest of this turn, except "Madolche" monsters.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1400
+Defence: 1400
+Archetype: Madolche
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past
+- Savage Strike

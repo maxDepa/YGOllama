@@ -1,0 +1,18 @@
+Performapal Seal Eel
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can target 1 face-up monster your opponent controls; that face-up monster has its effects negated until the end of this turn (even if this card leaves the field).
+
+[ Monster Effect ] 
+When this card is Normal or Special Summoned: You can target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated this turn. Neither player can activate cards or effects in response to this effect's activation.
+
+Type: Fish
+Attribute: WATER
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Performapal
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

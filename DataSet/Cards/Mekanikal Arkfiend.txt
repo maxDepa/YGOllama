@@ -1,0 +1,14 @@
+Mekanikal Arkfiend
+Card Type: Effect Monster
+
+Description: When this card inflicts battle damage to your opponent: You can Special Summon 1 Normal Monster from your hand or Graveyard.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 100
+Defence: 2100
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

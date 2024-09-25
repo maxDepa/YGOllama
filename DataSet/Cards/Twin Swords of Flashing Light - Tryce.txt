@@ -1,0 +1,16 @@
+Twin Swords of Flashing Light - Tryce
+Card Type: Spell Card
+
+Description: Send 1 card from your hand to the Graveyard; equip this card to a monster. It loses 500 ATK, but it can make a second attack during each Battle Phase.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardian
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack

@@ -1,0 +1,16 @@
+Aussa the Earth Charmer
+Card Type: Flip Effect Monster
+
+Description: FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1500
+Archetype: Charmer
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 5a
+- Structure Deck: Spirit Charmers
+- The Lost Millennium

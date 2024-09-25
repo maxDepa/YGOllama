@@ -1,0 +1,14 @@
+Kaminote Blow
+Card Type: Spell Card
+
+Description: Activate only if there is at least 1 face-up "Chu-Ske the Mouse Fighter", "Monk Fighter", or "Master Monk" on your side of the field. Destroy the monster(s) that battle with these monsters on your side of the field this turn, at the end of each Damage Step.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

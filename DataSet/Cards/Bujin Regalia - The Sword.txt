@@ -1,0 +1,16 @@
+Bujin Regalia - The Sword
+Card Type: Trap Card
+
+Description: Activate 1 of these effects.
+● Target 1 "Bujin" monster in your Graveyard; add that target to your hand.
+● Target 1 of your banished "Bujin" monsters; send that target to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Bujin
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

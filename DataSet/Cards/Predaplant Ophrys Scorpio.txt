@@ -1,0 +1,15 @@
+Predaplant Ophrys Scorpio
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can send 1 monster from your hand to the GY; Special Summon 1 "Predaplant" monster from your Deck, except "Predaplant Ophrys Scorpio". You can only use this effect of "Predaplant Ophrys Scorpio" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 3
+Attack: 1200
+Defence: 800
+Archetype: Predaplant
+Present in Sets:
+- Duel Power
+- Maximum Crisis
+- OTS Tournament Pack 6

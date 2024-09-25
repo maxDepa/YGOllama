@@ -1,0 +1,13 @@
+Guard Penguin
+Card Type: Effect Monster
+
+Description: When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.
+
+Type: Winged Beast
+Attribute: WATER
+Level: 4
+Attack: 0
+Defence: 1200
+Archetype: Penguin
+Present in Sets:
+- Duelist Saga

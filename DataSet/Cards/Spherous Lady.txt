@@ -1,0 +1,15 @@
+Spherous Lady
+Card Type: Normal Monster
+
+Description: Many have been deceived by the beauty of this vampire.
+
+Type: Rock
+Attribute: EARTH
+Level: 3
+Attack: 400
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

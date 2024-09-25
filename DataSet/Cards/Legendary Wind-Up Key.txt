@@ -1,0 +1,13 @@
+Legendary Wind-Up Key
+Card Type: Spell Card
+
+Description: Change all face-up "Wind-Up" monsters you control to face-down Defense Position.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Wind-Up
+Present in Sets:
+- Generation Force

@@ -1,0 +1,13 @@
+Cry Havoc!
+Card Type: Trap Card
+
+Description: You can remove from play 1 monster from your Graveyard to Normal Summon or Set 1 Normal Monster from your hand. You can only activate this effect during your Main Phase.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Phantom Darkness

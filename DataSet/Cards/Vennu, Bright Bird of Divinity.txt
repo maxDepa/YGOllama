@@ -1,0 +1,13 @@
+Vennu, Bright Bird of Divinity
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Primal Cry". Once per turn: You can reveal 1 monster in your hand, then target 1 face-up monster on the field; that target's Level becomes equal to the Level the revealed monster had, until the end of this turn. Once per turn, if another monster is Tributed from your hand or field (except during the Damage Step): You can target 1 monster in your Graveyard; add it to your hand.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Maximum Crisis

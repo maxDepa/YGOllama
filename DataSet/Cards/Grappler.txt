@@ -1,0 +1,13 @@
+Grappler
+Card Type: Normal Monster
+
+Description: A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.
+
+Type: Reptile
+Attribute: WATER
+Level: 4
+Attack: 1300
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set

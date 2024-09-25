@@ -1,0 +1,16 @@
+Checkmate
+Card Type: Spell Card
+
+Description: Tribute 1 Archfiend monster on your side of the field. During this turn, 1 "Terrorking Archfiend" on your side of the field can attack your opponent's Life Points directly.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Speed Duel GX: Duelists of Shadows

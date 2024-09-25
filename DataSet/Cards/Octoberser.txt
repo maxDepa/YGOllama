@@ -1,0 +1,16 @@
+Octoberser
+Card Type: Normal Monster
+
+Description: With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.
+
+Type: Aqua
+Attribute: WATER
+Level: 5
+Attack: 1600
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

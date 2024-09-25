@@ -1,0 +1,13 @@
+Ogdoadic Hollow
+Card Type: Trap Card
+
+Description: During the Main Phase: You can Tribute 1 Reptile Effect Monster, then target 1 monster in your opponent's GY; Special Summon it to your field, but send it to the GY during the End Phase. You can only use this effect of "Ogdoadic Hollow" once per turn. If this face-up card is sent from the Spell & Trap Zone to the GY: Send all face-up non-Reptile monsters you control to the GY.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ogdoadic
+Present in Sets:
+- Ancient Guardians

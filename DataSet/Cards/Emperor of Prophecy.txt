@@ -1,0 +1,13 @@
+Emperor of Prophecy
+Card Type: Effect Monster
+
+Description: You can banish both 1 face-up Spellcaster-Type monster you control, except this card, and 1 "Spellbook" card from your Graveyard to target 1 face-up monster your opponent controls; take control of that target until the End Phase. You can only use the effect of "Emperor of Prophecy" once per turn. This card cannot attack during the turn you activate this effect.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 2000
+Archetype: Spellbook
+Present in Sets:
+- Abyss Rising

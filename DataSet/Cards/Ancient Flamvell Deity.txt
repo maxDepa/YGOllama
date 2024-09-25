@@ -1,0 +1,17 @@
+Ancient Flamvell Deity
+Card Type: Synchro Monster
+
+Description: 1 FIRE Tuner + 1 or more non-Tuner Pyro-Type monsters
+When this card is Synchro Summoned, remove from play cards from your opponent's Graveyard up to the number of cards in their hand. This card gains 200 ATK for each card removed from play by this effect.
+
+Type: Pyro
+Attribute: FIRE
+Level: 7
+Attack: 2500
+Defence: 200
+Archetype: Flamvell
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

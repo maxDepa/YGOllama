@@ -1,0 +1,13 @@
+Interdimensional Warp
+Card Type: Trap Card
+
+Description: Select a monster you control and a monster with an A-Counter(s) your opponent controls. Switch control of those monsters.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Alien
+Present in Sets:
+- Gladiator's Assault

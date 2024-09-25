@@ -1,0 +1,14 @@
+Last Counter
+Card Type: Trap Card
+
+Description: When an attack is declared involving a "Battlin' Boxer" monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the Graveyard, then 1 "Battlin' Boxer" monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Battlin' Boxer
+Present in Sets:
+- Legendary Duelists: Soulburning Volcano
+- Primal Origin

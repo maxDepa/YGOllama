@@ -1,0 +1,15 @@
+Gravelstorm
+Card Type: Trap Card
+
+Description: Target 1 Spell/Trap Card on each side of the field; return them to the hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Generation Force
+- Generation Force
+- Speed Duel GX: Duel Academy Box

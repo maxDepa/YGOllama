@@ -1,0 +1,14 @@
+Archfiend's Call
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner monsters
+This card's name becomes "Summoned Skull" on the field, but is still treated as an "Archfiend" card. Your opponent cannot target any "Summoned Skull" you control with card effects. If this Synchro Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 "Summoned Skull" from your hand, Deck, or GY.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 1200
+Archetype: Archfiend
+Present in Sets:
+- Fists of the Gadgets

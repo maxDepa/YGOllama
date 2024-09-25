@@ -1,0 +1,15 @@
+Gift of the Martyr
+Card Type: Spell Card
+
+Description: Send 1 monster on your side of the field to the Graveyard. Select 1 monster on your side of the field. The selected monster gains ATK equal to the ATK of the sent monster until the end of this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Speed Duel: Streets of Battle City
+- The Lost Millennium

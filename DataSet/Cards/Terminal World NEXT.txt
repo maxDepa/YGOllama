@@ -1,0 +1,14 @@
+Terminal World NEXT
+Card Type: Spell Card
+
+Description: Activate this card if your opponent controls 3 or fewer monsters and 3 or fewer Spell/Trap Cards, while you control no other cards. Cards cannot be placed on the field if it would give any player more than 3 monsters or more than 3 Spell/Trap Cards on their field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

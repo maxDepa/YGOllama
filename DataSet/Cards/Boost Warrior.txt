@@ -1,0 +1,14 @@
+Boost Warrior
+Card Type: Effect Monster
+
+Description: If you control a face-up Tuner monster, you can Special Summon this card from your hand in face-up Defense Position. All Warrior-Type monsters you control gain 300 ATK.
+
+Type: Warrior
+Attribute: FIRE
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon
+- Duelist Pack: Yusei 3

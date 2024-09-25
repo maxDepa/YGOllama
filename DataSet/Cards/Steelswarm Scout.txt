@@ -1,0 +1,14 @@
+Steelswarm Scout
+Card Type: Effect Monster
+
+Description: At the start of your Main Phase 1, if you control no Spell/Trap Cards: You can Special Summon this card from your Graveyard. You cannot Special Summon another monster(s) the turn you activate this effect. While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a "Steelswarm" monster, and cannot be used as a Synchro Material Monster.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 200
+Defence: 0
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

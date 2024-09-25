@@ -1,0 +1,13 @@
+Mementotlan Ghattic
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 "Memento" card in your GY, except "Mementotlan Ghattic"; add it to your hand. If this card is sent to the GY by a "Memento" monster's effect: You can Special Summon this card. You can only use each effect of "Mementotlan Ghattic" once per turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 550
+Defence: 400
+Archetype: Memento
+Present in Sets:
+- Phantom Nightmare

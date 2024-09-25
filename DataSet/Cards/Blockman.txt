@@ -1,0 +1,17 @@
+Blockman
+Card Type: Effect Monster
+
+Description: You can Tribute this card; Special Summon in Defense Position, a number of "Block Tokens" (Rock-Type/EARTH/Level 4/ATK 1000/DEF 1500) equal to the number of your turns this card has been face-up on your field. These Tokens cannot declare an attack.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duelist Pack: Special Edition
+- Legendary Decks II
+- Yugi's Legendary Decks

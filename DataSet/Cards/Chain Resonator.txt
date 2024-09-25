@@ -1,0 +1,14 @@
+Chain Resonator
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned while a Synchro Monster is on the field: You can Special Summon 1 "Resonator" monster from your Deck, except "Chain Resonator".
+
+Type: Fiend
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Resonator
+Present in Sets:
+- Duelist Pack: Dimensional Guardians
+- High-Speed Riders

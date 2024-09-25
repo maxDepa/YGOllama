@@ -1,0 +1,16 @@
+Pride of the Plunder Patroll
+Card Type: Trap Card
+
+Description: If your "Plunder Patroll" monster destroys an opponent's monster by battle: Draw 1 card. If you control a "Plunder Patroll" monster: You can send this face-up card from your field to the GY, then activate 1 of these effects;
+● Your opponent draws 1 card, then you look at their hand and send 1 monster from it to the GY.
+● Look at your opponent's Extra Deck and send 1 monster from it to the GY.
+You can only use each effect of "Pride of the Plunder Patroll" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Plunder Patroll
+Present in Sets:
+- Eternity Code

@@ -1,0 +1,13 @@
+Cocoon Rebirth
+Card Type: Spell Card
+
+Description: You can Tribute 1 face-up "Chrysalis" monster you control to Special Summon 1 "Neo-Spacian" monster written in the card text of that card from either player's Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chrysalis
+Present in Sets:
+- Tactical Evolution

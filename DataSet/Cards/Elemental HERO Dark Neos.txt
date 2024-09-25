@@ -1,0 +1,17 @@
+Elemental HERO Dark Neos
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Neos" + "Neo-Spacian Dark Panther"
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) If this card is not already targeting a monster with its effect: You can target 1 face-up Effect Monster on the field; while you control this face-up card, that target's effect on the field is negated. During the End Phase: Shuffle this card into the Extra Deck.
+
+Type: Warrior
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki 2
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Power of the Duelist
+- Power of the Duelist

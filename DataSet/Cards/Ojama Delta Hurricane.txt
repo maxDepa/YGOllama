@@ -1,0 +1,18 @@
+Ojama Delta Hurricane!!
+Card Type: Spell Card
+
+Description: You can only activate this card while "Ojama Green", "Ojama Yellow" and "Ojama Black" are face-up on your side of the field. Destroy all cards on your opponent's side of the field.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:
+- Dark Revelation Volume 2
+- Duelist Pack: Chazz Princeton
+- Invasion of Chaos
+- Invasion of Chaos
+- Invasion of Chaos
+- Speed Duel GX: Duel Academy Box

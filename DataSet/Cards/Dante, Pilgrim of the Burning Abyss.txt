@@ -1,0 +1,15 @@
+Dante, Pilgrim of the Burning Abyss
+Card Type: Fusion Monster
+
+Description: 3 "Burning Abyss" monsters with different names
+Must be Fusion Summoned and cannot be Special Summoned by other ways. Cannot be targeted by an opponent's card effects. Once per turn, during either player's turn: You can send 1 "Burning Abyss" card from your hand to the Graveyard; draw 1 card. If this card is destroyed by battle and sent to the Graveyard, or if this card you control is sent to your Graveyard by an opponent's card effect: You can send 1 random card from your opponent's hand to the Graveyard.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 9
+Attack: 2800
+Defence: 2500
+Archetype: Burning Abyss
+Present in Sets:
+- Crossed Souls
+- Premium Gold: Infinite Gold

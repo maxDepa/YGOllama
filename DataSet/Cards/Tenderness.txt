@@ -1,0 +1,12 @@
+Tenderness
+Card Type: Normal Monster
+
+Description: An adorable fairy that celebrates the gift of love.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 700
+Defence: 1400
+Archetype: //
+Present in Sets:

@@ -1,0 +1,14 @@
+Synthetic Seraphim
+Card Type: Trap Card
+
+Description: Each time a Counter Trap Card is activated, immediately after it resolves, Special Summon 1 "Synthetic Seraphim Token" (Fairy/LIGHT/Level 1/ATK 300/DEF 300).
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Power of the Duelist
+- Structure Deck: Wave of Light

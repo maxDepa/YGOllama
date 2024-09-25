@@ -1,0 +1,16 @@
+D.D. Esper Star Sparrow
+Card Type: Effect Monster
+
+Description: There can only be 1 "D.D. Esper Star Sparrow" on the field. Your opponent cannot target other monsters you control with effects or for attacks. When an opponent's monster declares a direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Defense Position. If Summoned this way, banish it when it leaves the field.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 1500
+Archetype: D.D.
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

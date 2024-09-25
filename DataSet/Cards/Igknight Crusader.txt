@@ -1,0 +1,17 @@
+Igknight Crusader
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+If you have an "Igknight" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.
+
+[ Monster Effect ] 
+''This impulsive Igknight warrior is fanatical about the causes he fights for. Because of this passion, his comrades try to keep him at arm's length.''
+
+Type: Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1600
+Defence: 300
+Archetype: Igknight
+Present in Sets:
+- Clash of Rebellions

@@ -1,0 +1,14 @@
+Libromancer Realized
+Card Type: Spell Card
+
+Description: You can reveal 1 "Libromancer" Ritual Monster in your hand: Special Summon 1 "Fire Token" (Cyberse/FIRE/ATK 0/DEF 0) with the same Level as the revealed monster. While you control that Token, you cannot Special Summon monsters, except "Libromancer" monsters. You can only use this effect of "Libromancer Realized" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Libromancer
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Dimension Force

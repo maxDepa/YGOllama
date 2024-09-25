@@ -1,0 +1,16 @@
+Vaalmonica Disarmonia
+Card Type: Spell Card
+
+Description: Place 1 Resonance Counter on 1 card in your Pendulum Zone that you can place a Resonance Counter on, then apply 1 of these effects.
+● Gain 500 LP, then you can add 1 of your banished "Vaalmonica" cards to your hand, except "Vaalmonica Disarmonia".
+● Take 500 damage, then you can add 1 "Vaalmonica" card from your GY to your hand, except "Vaalmonica Disarmonia".
+You can only activate 1 "Vaalmonica Disarmonia" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Vaalmonica
+Present in Sets:
+- Legacy of Destruction

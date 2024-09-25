@@ -1,0 +1,15 @@
+Malice Dispersion
+Card Type: Spell Card
+
+Description: Discard 1 card from your hand. Destroy all face-up Continuous Trap Cards.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Rise of Destiny
+- Speed Duel: Streets of Battle City

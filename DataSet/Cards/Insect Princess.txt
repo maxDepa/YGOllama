@@ -1,0 +1,19 @@
+Insect Princess
+Card Type: Effect Monster
+
+Description: All Insect monsters your opponent controls are changed to Attack Position. If this card destroys an Insect monster by battle: This card gains 500 ATK.
+
+Type: Insect
+Attribute: WIND
+Level: 6
+Attack: 1900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- OTS Tournament Pack 7
+- OTS Tournament Pack 7 (POR)
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel: Streets of Battle City

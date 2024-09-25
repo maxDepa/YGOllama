@@ -1,0 +1,13 @@
+Bicorn Re'em
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard as a Synchro Material Monster for a Synchro Summon, send the top 2 cards from your opponent's Deck to the Graveyard.
+
+Type: Beast
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1600
+Archetype: //
+Present in Sets:
+- Duelist Revolution

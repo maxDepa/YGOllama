@@ -1,0 +1,13 @@
+Rescue-ACE Monitor
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Rescue-ACE" Trap from your Deck to your hand. When your opponent activates a monster effect on the field (Quick Effect): You can Tribute this card from your hand or face-up field, then target 1 "Rescue-ACE" monster in your GY, except "Rescue-ACE Monitor"; Special Summon it. You can only use each effect of "Rescue-ACE Monitor" once per turn.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1800
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders

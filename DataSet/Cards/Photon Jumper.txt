@@ -1,0 +1,13 @@
+Photon Jumper
+Card Type: Effect Monster
+
+Description: When an opponent's monster declares an attack: You can activate this effect; skip your next Battle Phase, also Special Summon this card from your hand, then end this Battle Phase. If this card is sent to the GY: You can add 1 "Photon" or "Galaxy" Spell/Trap from your Deck to your hand. You can only use each effect of "Photon Jumper" once per turn.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Photon
+Present in Sets:
+- Battles of Legend: Monstrous Revenge

@@ -1,0 +1,15 @@
+Time Thief Regulator
+Card Type: Effect Monster
+
+Description: If you control no other monsters: You can Tribute this card; Special Summon 2 "Time Thief" monsters with different names from your Deck in Defense Position, except "Time Thief Regulator". When an Xyz Monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Time Thief Regulator" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 600
+Defence: 200
+Archetype: Time Thief
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Ghosts From the Past
+- Savage Strike

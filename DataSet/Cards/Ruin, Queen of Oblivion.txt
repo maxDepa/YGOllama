@@ -1,0 +1,16 @@
+Ruin, Queen of Oblivion
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "End of the World". When this attacking card destroys an opponent's monster by battle: You can activate this effect; this card can make a second attack in a row.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 2300
+Defence: 2000
+Archetype: Demise
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity

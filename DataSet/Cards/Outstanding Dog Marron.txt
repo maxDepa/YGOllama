@@ -1,0 +1,18 @@
+Outstanding Dog Marron
+Card Type: Effect Monster
+
+Description: When this card is sent to your Graveyard, add it to your Deck and shuffle it.
+
+Type: Beast
+Attribute: LIGHT
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- OTS Tournament Pack 17
+- OTS Tournament Pack 17 (POR)

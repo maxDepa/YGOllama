@@ -1,0 +1,17 @@
+Blue-Eyes Twin Burst Dragon
+Card Type: Fusion Monster
+
+Description: "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
+Must be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY (in which case you do not use "Polymerization"). Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase. At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 2500
+Archetype: Blue-Eyes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Collection Kaiba Mega Pack
+- Legendary Duelists: Season 2
+- Shining Victories

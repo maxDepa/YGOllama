@@ -1,0 +1,15 @@
+Spirit Caller
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can Special Summon 1 Level 3 or lower Normal Monster from your Graveyard to your side of the field.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Starter Deck 2006

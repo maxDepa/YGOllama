@@ -1,0 +1,14 @@
+Bystial Magnamhut
+Card Type: Effect Monster
+
+Description: You can target 1 LIGHT or DARK monster in either GY; banish it, and if you do, Special Summon this card from your hand. This is a Quick Effect if your opponent controls a monster. If this card is Special Summoned: You can activate this effect; during the End Phase of this turn, add 1 Dragon monster from your Deck or GY to your hand, except "Bystial Magnamhut". You can only use each effect of "Bystial Magnamhut" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2500
+Defence: 2000
+Archetype: Bystial
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

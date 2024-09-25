@@ -1,0 +1,13 @@
+Stray Purrely Street
+Card Type: Spell Card
+
+Description: Your opponent cannot target "Purrely" monsters you control with card effects, the turn they are Special Summoned. Once per turn, if a face-up "Purrely" Xyz Monster(s) you control leaves the field because of an opponent's card: Special Summon 1 Level 1 "Purrely" monster from your Deck or GY. Once per turn, during the End Phase: You can target 1 "Purrely" Xyz Monster on the field; attach 1 "Purrely" Quick-Play Spell from your Deck or GY to that monster as material.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Purrely
+Present in Sets:
+- Amazing Defenders

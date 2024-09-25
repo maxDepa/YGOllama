@@ -1,0 +1,15 @@
+Ultra Beetrooper Absolute Hercules
+Card Type: Fusion Monster
+
+Description: 4 Insect monsters
+After this card is Fusion Summoned, it is unaffected by other cards' effects until the end of your next turn. At the end of the Battle Phase: You can target 1 Insect monster with 3000 or less ATK in your GY; Special Summon it. You can only use this effect of "Ultra Beetrooper Absolute Hercules" once per turn.
+
+Type: Insect
+Attribute: EARTH
+Level: 11
+Attack: 4000
+Defence: 4000
+Archetype: Beetrooper
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

@@ -1,0 +1,15 @@
+Destiny HERO - Denier
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can take 1 of your "Destiny HERO" monsters from your Deck, GY, or that is banished, and place it on top of your Deck. You can only use this effect of "Destiny HERO - Denier" once per turn. If you have a "Destiny HERO" monster on your field or in your GY, other than "Destiny HERO - Denier": You can Special Summon this card from your GY. You can only use this effect of "Destiny HERO - Denier" once per Duel.
+
+Type: Warrior
+Attribute: DARK
+Level: 3
+Attack: 1100
+Defence: 600
+Archetype: Destiny HERO
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Battles of Legend: Chapter 1
+- Burst of Destiny

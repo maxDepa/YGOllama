@@ -1,0 +1,15 @@
+Chthonian Polymer
+Card Type: Trap Card
+
+Description: Activate only when your opponent Fusion Summons a Fusion Monster. Tribute 1 monster to take control of that Fusion Monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Chazz Princeton
+- Elemental Energy

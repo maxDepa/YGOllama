@@ -1,0 +1,13 @@
+Rebound
+Card Type: Trap Card
+
+Description: When your opponent activates a Spell Card, Trap Card, or monster effect that returns a card(s) from the field to the hand: Negate that effect, and if you do, send 1 card from your opponent's hand (at random) or from their side of the field to the Graveyard. When this Set card is destroyed by your opponent's card effect and sent to the Graveyard: Draw 1 card.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Return of the Duelist

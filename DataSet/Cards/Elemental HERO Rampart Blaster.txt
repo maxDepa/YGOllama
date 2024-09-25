@@ -1,0 +1,19 @@
+Elemental HERO Rampart Blaster
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Clayman" + "Elemental HERO Burstinatrix"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only.
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2000
+Defence: 2500
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Duelist Pack: Jaden Yuki
+- Elemental Energy
+- Elemental Energy
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Duel Academy Box

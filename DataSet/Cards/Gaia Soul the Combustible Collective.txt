@@ -1,0 +1,17 @@
+Gaia Soul the Combustible Collective
+Card Type: Effect Monster
+
+Description: Once per turn: You can Tribute up to 2 Pyro-Type monsters; this card gains 1000 ATK for each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. During the End Phase: Destroy this card.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 2000
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Duelist League 15 participation cards
+- Rise of Destiny
+- Rise of Destiny
+- Structure Deck: Blaze of Destruction

@@ -1,0 +1,13 @@
+Six Scrolls of the Samurai
+Card Type: Spell Card
+
+Description: Tribute 2 face-up "Six Samurai" monsters. Special Summon 1 "Great Shogun Shien" from your Deck.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Crimson Crisis

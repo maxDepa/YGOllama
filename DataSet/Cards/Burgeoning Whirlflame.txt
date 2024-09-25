@@ -1,0 +1,13 @@
+Burgeoning Whirlflame
+Card Type: Trap Card
+
+Description: When a Trap Card is activated: Send 1 "Laval" monster from your hand to the Graveyard; negate the activation and destroy it. If this card is in the Graveyard: You can banish 2 FIRE monsters from your Graveyard; add this card to your hand.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Laval
+Present in Sets:
+- Generation Force

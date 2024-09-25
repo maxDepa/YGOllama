@@ -1,0 +1,14 @@
+Carpiponica, Mystical Beast of the Forest
+Card Type: Effect Monster
+
+Description: If this card is sent from the hand to the GY: You can target 2 other Beast, Beast-Warrior, Winged Beast, Insect, and/or Plant monsters with different Types in your GY; shuffle them into the Deck, and if you do, Special Summon this card. If this card is Normal or Special Summoned: You can add 1 "Mystical Beast of the Forest" monster or 1 "Mystical Spirit of the Forest" monster from your Deck to your hand, except "Carpiponica, Mystical Beast of the Forest". You can only use each effect of "Carpiponica, Mystical Beast of the Forest" once per turn.
+
+Type: Beast
+Attribute: EARTH
+Level: 7
+Attack: 1000
+Defence: 2600
+Archetype: Mystical Beast of the Forest
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

@@ -1,0 +1,24 @@
+Witch of the Black Forest
+Card Type: Effect Monster
+
+Description: If this card is sent from the field to the GY: Add 1 monster with 1500 or less DEF from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of "Witch of the Black Forest" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Battles of Legend: Light's Revenge
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Kaiba Evolution
+- Starter Deck: Pegasus
+- Structure Deck: Spirit Charmers
+- Structure Deck: The Crimson King
+- Toon Chaos

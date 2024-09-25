@@ -1,0 +1,17 @@
+Swarm of Locusts
+Card Type: Effect Monster
+
+Description: Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+
+Type: Insect
+Attribute: DARK
+Level: 3
+Attack: 1000
+Defence: 500
+Archetype: //
+Present in Sets:
+- Astral Pack Three
+- Dark Beginning 2
+- Gold Series
+- Pharaonic Guardian
+- Speed Duel: Battle City Box

@@ -1,0 +1,14 @@
+Sea Monster of Theseus
+Card Type: Fusion Monster
+
+Description: 2 Tuners
+
+Type: Zombie
+Attribute: WATER
+Level: 5
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Raging Tempest

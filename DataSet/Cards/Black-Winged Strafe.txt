@@ -1,0 +1,14 @@
+Black-Winged Strafe
+Card Type: Spell Card
+
+Description: Send 1 "Blackwing" monster from your hand to the Graveyard to select 1 Defense Position monster your opponent controls. Send that monster to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Duelist Pack: Crow
+- The Shining Darkness

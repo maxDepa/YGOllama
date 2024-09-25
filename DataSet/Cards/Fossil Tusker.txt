@@ -1,0 +1,13 @@
+Fossil Tusker
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 400 damage to your opponent.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 0
+Archetype: //
+Present in Sets:
+- Tactical Evolution

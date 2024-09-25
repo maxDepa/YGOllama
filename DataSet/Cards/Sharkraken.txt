@@ -1,0 +1,13 @@
+Sharkraken
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by Tributing 1 WATER monster.
+
+Type: Fish
+Attribute: WATER
+Level: 6
+Attack: 2400
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Lord of the Tachyon Galaxy

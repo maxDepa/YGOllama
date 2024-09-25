@@ -1,0 +1,13 @@
+Nemeses Adrastea
+Card Type: Spell Card
+
+Description: Target 1 of your "Nemeses" monsters that is banished or in your GY; Special Summon it, but if its original Level is 11 or higher, it cannot activate its effects this turn. You can only activate 1 "Nemeses Adrastea" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Nemeses
+Present in Sets:
+- Eternity Code

@@ -1,0 +1,15 @@
+Elemental HERO Poison Rose
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned or Set. Must be Special Summoned with "Rose Bud" and cannot be Special Summoned by other ways. Each time this card inflicts Battle Damage to your opponent: It gains 200 ATK and loses 200 DEF. Your opponent can only target "Elemental HERO Poison Rose" for attacks.
+
+Type: Plant
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 2000
+Archetype: Elemental HERO
+Present in Sets:
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Premium Pack 2 (TCG)
+- Premium Pack 2 (TCG)

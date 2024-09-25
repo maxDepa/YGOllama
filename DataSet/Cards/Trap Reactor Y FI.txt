@@ -1,0 +1,13 @@
+Trap Reactor Y FI
+Card Type: Effect Monster
+
+Description: Once per turn, when your opponent activates a Trap Card, you can destroy the Trap Card and inflict 800 damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Crimson Crisis

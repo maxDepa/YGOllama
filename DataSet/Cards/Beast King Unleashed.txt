@@ -1,0 +1,14 @@
+Beast King Unleashed
+Card Type: Trap Card
+
+Description: Once per turn, at the start of the Damage Step, if your monster battles an opponent's monster in the same column: You can return your monster and any other cards in its column to the hand. You can only activate the effect of "Beast King Unleashed" once per Chain.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

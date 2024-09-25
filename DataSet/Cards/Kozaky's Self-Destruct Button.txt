@@ -1,0 +1,15 @@
+Kozaky's Self-Destruct Button
+Card Type: Trap Card
+
+Description: Inflict 1000 damage to the player who destroyed this Set card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium
+- The Lost Millennium

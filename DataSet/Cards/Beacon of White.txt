@@ -1,0 +1,18 @@
+Beacon of White
+Card Type: Spell Card
+
+Description: If you do not control another "Beacon of White", and you have 3 or more "Blue-Eyes" monsters in your GY: Target 1 of them; Special Summon it, but it has its effects negated, also equip it with this card. When this card leaves the field, banish the equipped monster. Other monsters you control cannot attack, also if you have any number of "Blue-Eyes" monster(s) in your GY, the equipped monster can attack up to that number of times during each Battle Phase.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blue-Eyes
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Breakers of Shadow: Special Edition
+- Legendary Collection Kaiba Mega Pack
+- Legendary Decks II
+- Legendary Duelists: Season 2
+- Shining Victories

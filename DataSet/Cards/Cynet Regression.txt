@@ -1,0 +1,14 @@
+Cynet Regression
+Card Type: Trap Card
+
+Description: If you Special Summon a Link Monster(s): Target 1 card on the field; destroy it, then draw 1 card. You can only activate 1 "Cynet Regression" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Genesis Impact
+- Starter Deck: Codebreaker

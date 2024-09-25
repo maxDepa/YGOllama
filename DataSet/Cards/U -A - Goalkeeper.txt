@@ -1,0 +1,13 @@
+U.A. Goalkeeper
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand) by returning 1 "U.A." monster you control to the hand, except "U.A. Goalkeeper". You can only Special Summon "U.A. Goalkeeper" once per turn this way. Once per turn, during your opponent's turn: You can target 1 "U.A." monster you control; once during this turn, it cannot be destroyed by battle or card effects (this is a Quick Effect).
+
+Type: Warrior
+Attribute: EARTH
+Level: 6
+Attack: 1000
+Defence: 2800
+Archetype: U.A.
+Present in Sets:
+- The New Challengers

@@ -1,0 +1,16 @@
+Ally of Justice Quarantine
+Card Type: Effect Monster
+
+Description: Neither player can Special Summon LIGHT monsters.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 1200
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

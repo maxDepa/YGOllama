@@ -1,0 +1,16 @@
+Spirit of the Breeze
+Card Type: Effect Monster
+
+Description: As long as this card remains in face-up Attack Position on your side of the field, increase your Life Points by 1000 points during each of your Standby Phases.
+
+Type: Fairy
+Attribute: WIND
+Level: 3
+Attack: 0
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare

@@ -1,0 +1,17 @@
+Fabled Leviathan
+Card Type: Synchro Monster
+
+Description: 1 "Fabled" Tuner + 1 or more non-Tuner monsters
+When this card on the field is destroyed and sent to the Graveyard, you can select up to 3 "Fabled" monsters in your Graveyard. Add them to your hand.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 10
+Attack: 3000
+Defence: 2000
+Archetype: Fabled
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

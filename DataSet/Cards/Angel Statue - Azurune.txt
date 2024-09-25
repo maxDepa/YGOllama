@@ -1,0 +1,14 @@
+Angel Statue - Azurune
+Card Type: Trap Card
+
+Description: Special Summon this card as an Effect Monster (Fairy/LIGHT/Level 4/ATK 1800/DEF 1800). (This card is also still a Trap.) Once per turn, when your opponent would Special Summon a monster(s) while this card is in your Monster Zone: You can send to the GY, 1 Continuous Trap in your Monster Zone that was Special Summoned from the Spell & Trap Zone; negate the Summon, and if you do, destroy that monster(s). When this card in the Monster Zone is destroyed by battle: You can destroy the monster that destroyed this card.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Trap Monster
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

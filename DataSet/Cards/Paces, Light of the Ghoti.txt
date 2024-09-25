@@ -1,0 +1,13 @@
+Paces, Light of the Ghoti
+Card Type: Tuner Monster
+
+Description: You can banish this card you control; Special Summon 1 Fish monster from your hand, except "Paces, Light of the Ghoti". During the Standby Phase of the next turn after this card was banished: You can Special Summon this banished card. During your opponent's Main Phase, if this card was Special Summoned this turn, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon 1 Fish Synchro Monster using this card you control. You can only use each effect of "Paces, Light of the Ghoti" once per turn.
+
+Type: Fish
+Attribute: WATER
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Ghoti
+Present in Sets:
+- Power of the Elements

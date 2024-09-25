@@ -1,0 +1,17 @@
+Shining Abyss
+Card Type: Normal Monster
+
+Description: This monster employs the powers of both Light and Darkness.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Speed Duel: Battle City Box

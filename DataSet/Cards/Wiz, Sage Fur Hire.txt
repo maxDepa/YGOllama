@@ -1,0 +1,14 @@
+Wiz, Sage Fur Hire
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can gain 500 LP for each monster "Fur Hire" you control with a different name, except "Wiz, Sage Fur Hire". When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can discard 1 card "Fur Hire"; negate the activation. You can only use each effect of "Wiz, Sage Fur Hire" once per turn.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 7
+Attack: 1600
+Defence: 2800
+Archetype: Fur Hire
+Present in Sets:
+- 2019 Gold Sarcophagus Tin Mega Pack
+- Dark Saviors

@@ -1,0 +1,16 @@
+Lunalight Black Sheep
+Card Type: Effect Monster
+
+Description: You can discard this card, then activate 1 of these effects;
+● Add 1 "Lunalight" monster from your Graveyard to your hand, except "Lunalight Black Sheep".
+● Add 1 "Polymerization" from your Deck to your hand.
+If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can add to your hand, 1 face-up "Lunalight" Pendulum Monster from your Extra Deck or 1 "Lunalight" monster from your Graveyard, except "Lunalight Black Sheep".
+
+Type: Beast-Warrior
+Attribute: DARK
+Level: 2
+Attack: 100
+Defence: 600
+Archetype: Lunalight
+Present in Sets:
+- Shining Victories

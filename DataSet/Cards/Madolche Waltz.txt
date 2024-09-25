@@ -1,0 +1,13 @@
+Madolche Waltz
+Card Type: Trap Card
+
+Description: Each time a "Madolche" monster you control attacks or is attacked, after damage calculation: Inflict 300 damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Madolche
+Present in Sets:
+- Return of the Duelist

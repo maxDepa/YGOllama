@@ -1,0 +1,13 @@
+Galaxy Storm
+Card Type: Spell Card
+
+Description: Target 1 face-up Xyz Monster on the field that has no Xyz Material; destroy that target.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Order of Chaos

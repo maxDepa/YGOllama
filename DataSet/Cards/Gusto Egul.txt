@@ -1,0 +1,14 @@
+Gusto Egul
+Card Type: Tuner Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower non-Tuner "Gusto" monster from your Deck.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 1
+Attack: 200
+Defence: 400
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

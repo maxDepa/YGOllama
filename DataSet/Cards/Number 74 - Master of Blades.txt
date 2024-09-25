@@ -1,0 +1,15 @@
+Number 74: Master of Blades
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+During either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.
+
+Type: Psychic
+Attribute: EARTH
+Level: 7
+Attack: 2700
+Defence: 2100
+Archetype: //
+Present in Sets:
+- Maximum Gold
+- Number Hunters

@@ -1,0 +1,17 @@
+Level Limit - Area B
+Card Type: Spell Card
+
+Description: Change all face-up Level 4 or higher monsters to Defense Position.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Astral Pack Seven
+- Dark Revelation Volume 2
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Blaze of Destruction

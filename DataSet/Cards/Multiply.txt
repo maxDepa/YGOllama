@@ -1,0 +1,17 @@
+Multiply
+Card Type: Spell Card
+
+Description: Tribute 1 face-up "Kuriboh"; Special Summon as many "Kuriboh Tokens" (Fiend/DARK/Level 1/ATK 300/DEF 200) as possible, in Defense Position. They cannot be Tributed for a Tribute Summon.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Kuriboh
+Present in Sets:
+- Crimson Crisis
+- Legendary Collection 3: Yugi's World Mega Pack
+- Yu-Gi-Oh! Advent Calendar (2019)
+- Yugi's Legendary Decks
+- Yugi's Legendary Decks

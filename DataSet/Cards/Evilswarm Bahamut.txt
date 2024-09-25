@@ -1,0 +1,15 @@
+Evilswarm Bahamut
+Card Type: XYZ Monster
+
+Description: 2 Level 4 "lswarm" monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; discard 1 "lswarm" monster, and if you do, take control of that opponent's monster.
+
+Type: Dragon
+Attribute: DARK
+Level: 4
+Attack: 2350
+Defence: 1350
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7a
+- Hidden Arsenal 7: Knight of Stars

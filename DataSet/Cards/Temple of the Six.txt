@@ -1,0 +1,15 @@
+Temple of the Six
+Card Type: Spell Card
+
+Description: Each time a "Six Samurai" monster(s) is Normal or Special Summoned, place 1 Bushido Counter on this card. Monsters your opponent controls lose 100 ATK for each Bushido Counter on this card.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Six Samurai
+Present in Sets:
+- Maximum Gold
+- Samurai Warlords Structure Deck
+- Storm of Ragnarok

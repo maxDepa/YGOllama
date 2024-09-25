@@ -1,0 +1,15 @@
+Magi Magi ☆ Magician Gal
+Card Type: XYZ Monster
+
+Description: 2 Level 6 Spellcaster monsters
+Once per turn: You can detach 1 material from this card and banish 1 card from your hand to activate 1 of these effects.
+● Target 1 monster your opponent controls; take control of that target until the End Phase of this turn.
+● Target 1 monster in your opponent's GY; Special Summon that target.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 2000
+Archetype: //
+Present in Sets:

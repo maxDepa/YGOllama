@@ -1,0 +1,14 @@
+S-Force Lapcewell
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can target 1 "S-Force" monster in your GY, except "S-Force Lapcewell"; Special Summon it. You can banish 1 "S-Force" card from your hand; destroy all of your opponent's monsters in the same columns as your "S-Force" monsters. You can only use each effect of "S-Force Lapcewell" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 2500
+Archetype: S-Force
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

@@ -1,0 +1,15 @@
+Reactor Slime
+Card Type: Effect Monster
+
+Description: During your Main Phase: You can activate this effect; Special Summon 2 "Slime Tokens" (Aqua/WATER/Level 1/ATK 500/DEF 500), also you cannot Normal or Special Summon monsters for the rest of this turn, except Divine-Beast monsters. During the Battle Phase (Quick Effect): You can Tribute this card; Set 1 "Metal Reflect Slime" from your hand, Deck, or GY. It can be activated this turn. You can only use each effect of "Reactor Slime" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 500
+Defence: 500
+Archetype: Egyptian God
+Present in Sets:
+- Egyptian God Deck: Slifer the Sky Dragon
+- Legendary Duelists: Rage of Ra
+- Speed Duel: Streets of Battle City

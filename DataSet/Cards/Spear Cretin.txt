@@ -1,0 +1,18 @@
+Spear Cretin
+Card Type: Flip Effect Monster
+
+Description: FLIP: When this card is sent to the Graveyard after being flipped, each player selects 1 monster from their Graveyard, and Special Summons it in face-up Attack Position or face-down Defense Position.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Duel Terminal 5a
+- Magic Ruler
+- Magic Ruler
+- Rise of the Dragon Lords Structure Deck
+- Spell Ruler
+- Spell Ruler

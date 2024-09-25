@@ -1,0 +1,18 @@
+Dragunity Brandistock
+Card Type: Tuner Monster
+
+Description: While this card is equipped to a monster, that monster can attack twice during each Battle Phase.
+
+Type: Dragon
+Attribute: WIND
+Level: 1
+Attack: 600
+Defence: 400
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- OTS Tournament Pack 8 (POR)

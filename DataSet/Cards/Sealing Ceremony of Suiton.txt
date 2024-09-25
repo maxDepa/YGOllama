@@ -1,0 +1,14 @@
+Sealing Ceremony of Suiton
+Card Type: Trap Card
+
+Description: Once per turn: You can send 1 WATER monster from your hand to the GY, then target 1 card in your opponent's GY; banish that target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave
+- Speed Duel: Trials of the Kingdom

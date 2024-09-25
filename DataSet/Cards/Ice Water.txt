@@ -1,0 +1,12 @@
+Ice Water
+Card Type: Normal Monster
+
+Description: A very aggressive mermaid that attacks enemies with the spikes growing from its body.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1150
+Defence: 900
+Archetype: //
+Present in Sets:

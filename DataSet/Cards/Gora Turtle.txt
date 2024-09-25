@@ -1,0 +1,14 @@
+Gora Turtle
+Card Type: Effect Monster
+
+Description: As long as this card remains face-up on the field, monsters with an ATK equal to 1900 or more cannot declare an attack.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 1100
+Defence: 1100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Pharaonic Guardian

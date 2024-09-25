@@ -1,0 +1,15 @@
+Musician King
+Card Type: Fusion Monster
+
+Description: "Witch of the Black Forest" + "Lady of Faith"
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 5
+Attack: 1750
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

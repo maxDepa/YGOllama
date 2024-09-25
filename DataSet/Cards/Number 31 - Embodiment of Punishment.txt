@@ -1,0 +1,16 @@
+Number 31: Embodiment of Punishment
+Card Type: XYZ Monster
+
+Description: 2 Level 1 monsters
+Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; change all monsters your opponent controls to face-up Attack Position, also all monsters your opponent currently controls must attack this card this turn, if able. While you control "Number 13: Embodiment of Crime", this card gains these effects.
+● This card cannot be destroyed by battle or by card effects while it has Xyz Material.
+● Your opponent takes any battle damage you would have taken from attacks on this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- Premium Gold

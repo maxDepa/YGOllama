@@ -1,0 +1,13 @@
+Ruthless Denial
+Card Type: Spell Card
+
+Description: Select 1 monster you control and send it to the Graveyard, and send 1 random card in your opponent's hand to the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Zane Truesdale

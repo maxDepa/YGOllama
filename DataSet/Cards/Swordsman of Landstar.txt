@@ -1,0 +1,18 @@
+Swordsman of Landstar
+Card Type: Normal Monster
+
+Description: An amateur with a sword, this fairy warrior relies on its mysterious powers.
+
+Type: Warrior
+Attribute: EARTH
+Level: 3
+Attack: 500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 4: Joey's World Mega Pack
+- Starter Deck: Joey

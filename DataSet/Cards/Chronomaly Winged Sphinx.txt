@@ -1,0 +1,14 @@
+Chronomaly Winged Sphinx
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 Level 5 "Chronomaly" monster in your Graveyard; Special Summon that target. You cannot Special Summon monsters the turn you activate this effect, except "Chronomaly" monsters.
+
+Type: Rock
+Attribute: EARTH
+Level: 5
+Attack: 1600
+Defence: 1900
+Archetype: Chronomaly
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Legacy of the Valiant

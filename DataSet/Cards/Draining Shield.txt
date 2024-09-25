@@ -1,0 +1,25 @@
+Draining Shield
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: Target the attacking monster; negate that attack, and if you do, gain LP equal to that target's ATK.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Ancient Sanctuary
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Revelation Volume 2
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 3: Yugi's World Mega Pack
+- Rise of the Dragon Lords Structure Deck
+- Speed Duel: Battle City Box
+- Speed Duel: Streets of Battle City
+- Starter Deck: Jaden Yuki
+- Starter Deck: Xyz Symphony
+- Starter Deck: Yuya

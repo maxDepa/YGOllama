@@ -1,0 +1,18 @@
+Gunkan Suship Shirauo-class Carrier
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+If this card is Xyz Summoned: You can apply these effects, in sequence, based on the materials used. You can only use this effect of "Gunkan Suship Shirauo-class Carrier" once per turn.
+● "Gunkan Suship Shari": Draw 1 card.
+● "Gunkan Suship Shirauo": Add 1 "Gunkan" Spell/Trap from your Deck to your hand.
+While a face-up card is in a Field Zone, "Gunkan" monsters you control Special Summoned from the Extra Deck cannot be destroyed by your opponent's card effects, and gain ATK equal to their original DEF.
+
+Type: Aqua
+Attribute: FIRE
+Level: 4
+Attack: 2200
+Defence: 250
+Archetype: Gunkan
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

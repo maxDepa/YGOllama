@@ -1,0 +1,14 @@
+Finite Cards
+Card Type: Spell Card
+
+Description: The hand size limit of each player becomes 3.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Shining Victories

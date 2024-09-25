@@ -1,0 +1,22 @@
+Inferno Fire Blast
+Card Type: Spell Card
+
+Description: Target 1 "Red-Eyes B. Dragon" in your Monster Zone; inflict damage to your opponent equal to its original ATK. "Red-Eyes B. Dragon" cannot attack the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Red-Eyes
+Present in Sets:
+- Dark Revelation Volume 3
+- Dragons Collide Structure Deck
+- Duel Terminal - Preview Wave 1
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Legendary Decks II
+- Legendary Duelists
+- Legendary Duelists: Season 1
+- Soul of the Duelist
+- Soul of the Duelist

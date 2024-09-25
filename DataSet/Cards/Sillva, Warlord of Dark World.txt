@@ -1,0 +1,19 @@
+Sillva, Warlord of Dark World
+Card Type: Effect Monster
+
+Description: If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, your opponent returns exactly 2 cards from their hand to the bottom of their Deck, in any order.
+
+Type: Fiend
+Attribute: DARK
+Level: 5
+Attack: 2300
+Defence: 1400
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Gold Series
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

@@ -1,0 +1,16 @@
+Typhoon
+Card Type: Trap Card
+
+Description: Target 1 face-up Spell/Trap on the field; destroy it. If your opponent controls 2 or more Spells/Traps and you control no Spells/Traps, you can activate this card from your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Devastator
+- OTS Tournament Pack 1

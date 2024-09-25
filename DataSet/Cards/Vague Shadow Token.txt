@@ -1,0 +1,12 @@
+Vague Shadow Token
+Card Type: Token
+
+Description: Special Summoned by the effect of "Blackwing - Gofu the Vague Shadow". This Token cannot be Tributed or used as as Synchro Material Monster.
+
+Type: Winged Beast
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blackwing
+Present in Sets:

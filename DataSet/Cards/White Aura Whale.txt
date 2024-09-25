@@ -1,0 +1,15 @@
+White Aura Whale
+Card Type: Synchro Monster
+
+Description: 1 WATER Tuner + 1+ non-Tuner WATER monsters
+When this card is Synchro Summoned: You can destroy all your opponent's Attack Position monsters. This card can make up to 2 attacks on monsters during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing battle damage. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can banish 1 other WATER monster from your GY; Special Summon this card, and if you do, it is treated as a Tuner.
+
+Type: Fish
+Attribute: WATER
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: White
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge

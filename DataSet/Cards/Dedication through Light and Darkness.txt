@@ -1,0 +1,18 @@
+Dedication through Light and Darkness
+Card Type: Spell Card
+
+Description: Tribute 1 "Dark Magician"; Special Summon 1 "Dark Magician of Chaos" from your hand, Deck, or Graveyard.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark Magician
+Present in Sets:
+- Dark Revelation Volume 2
+- Duelist Pack: Rivals of the Pharaoh
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- Yugi's Legendary Decks

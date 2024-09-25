@@ -1,0 +1,15 @@
+Queen of Thorns
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Plant-Type monsters
+Each player must pay 1000 LP for each monster Normal or Special Summoned from their hand, except for Plant-Type monsters.
+
+Type: Plant
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Astral Pack Five
+- Crossroads of Chaos

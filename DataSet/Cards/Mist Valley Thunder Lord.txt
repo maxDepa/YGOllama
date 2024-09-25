@@ -1,0 +1,17 @@
+Mist Valley Thunder Lord
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "Mist Valley" monsters
+Once per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player's turn.
+
+Type: Thunder
+Attribute: WIND
+Level: 7
+Attack: 2600
+Defence: 2400
+Archetype: Mist Valley
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

@@ -1,0 +1,14 @@
+Samurai Skull
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send 1 Zombie monster from your Deck to the GY. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 4 or lower Zombie monster from your Deck, except "Samurai Skull".
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1700
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Code of the Duelist

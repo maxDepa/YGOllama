@@ -1,0 +1,15 @@
+Gishki Vision
+Card Type: Effect Monster
+
+Description: If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 "Gishki" Ritual Monster from your Deck to your hand.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 2
+Attack: 700
+Defence: 500
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz
+- The Secret Forces

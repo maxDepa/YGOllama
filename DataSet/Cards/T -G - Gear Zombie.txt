@@ -1,0 +1,14 @@
+T.G. Gear Zombie
+Card Type: Tuner Monster
+
+Description: You can target 1 "T.G." monster you control; Special Summon this card from your hand, then the targeted monster loses 1000 ATK. You can only use this effect of "T.G. Gear Zombie" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 1
+Attack: 600
+Defence: 0
+Archetype: T.G.
+Present in Sets:
+- Battles of Legend: Chapter 1
+- Battles of Legend: Hero's Revenge

@@ -1,0 +1,13 @@
+Gogogo Ghost
+Card Type: Effect Monster
+
+Description: If this card is Special Summoned: You can target 1 "Gogogo Golem" in your Graveyard; Special Summon that target in face-up Defense Position, then change this card to Defense Position. You can only use the effect of "Gogogo Ghost" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 4
+Attack: 1900
+Defence: 0
+Archetype: Gogogo
+Present in Sets:
+- Cosmo Blazer

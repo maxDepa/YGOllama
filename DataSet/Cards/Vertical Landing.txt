@@ -1,0 +1,14 @@
+Vertical Landing
+Card Type: Spell Card
+
+Description: Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of "Mecha Phantom Beast Tokens" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 "Vertical Landing" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Mecha Phantom Beast
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

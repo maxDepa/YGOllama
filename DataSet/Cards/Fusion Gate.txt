@@ -1,0 +1,25 @@
+Fusion Gate
+Card Type: Spell Card
+
+Description: While this card is on the field: The turn player can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their hand or field.
+
+Type: Field
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Duelist League 2 participation cards
+- Fusion Enforcers
+- Hobby League 1 participation cards C
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 3
+- Structure Deck: Albaz Strike
+- Turbo Pack: Booster Six

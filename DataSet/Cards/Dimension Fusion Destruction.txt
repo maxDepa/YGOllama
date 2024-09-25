@@ -1,0 +1,13 @@
+Dimension Fusion Destruction
+Card Type: Spell Card
+
+Description: Banish from your hand, field, and/or GY, the Fusion Materials that are listed on a "Phantasm" Fusion Monster, then Special Summon that Fusion Monster from your Extra Deck, ignoring its Summoning conditions. You take no battle damage from attacks involving the monster Special Summoned by this effect. If you control "Uria, Lord of Searing Flames", "Hamon, Lord of Striking Thunder", or "Raviel, Lord of Phantasms", your opponent cannot activate cards or effects in response to this card's activation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Chaos Phantom
+Present in Sets:
+- Structure Deck: Sacred Beasts

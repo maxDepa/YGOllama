@@ -1,0 +1,19 @@
+Artifact Durendal
+Card Type: XYZ Monster
+
+Description: 2 Level 5 monsters
+Once per turn, during either player's turn, you can activate 1 of these effects.
+● When a monster effect is activated on the field OR when a Normal Spell/Trap Card is activated: You can detach 1 Xyz Material from this card; the activated effect becomes "Destroy 1 Spell/Trap Card your opponent controls".
+● You can detach 1 Xyz Material from this card; each player with a hand shuffles their entire hand into the Deck, then draws the same number of cards they shuffled into the Deck.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 2400
+Defence: 2100
+Archetype: Artifact
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Ghosts From the Past
+- Primal Origin
+- Primal Origin

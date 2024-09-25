@@ -1,0 +1,19 @@
+Enishi, Shien's Chancellor
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 "Six Samurai" monsters from your GY. Once per turn: You can target 1 face-up monster; destroy that target. This card cannot attack the turn this effect is activated.
+
+Type: Warrior
+Attribute: LIGHT
+Level: 6
+Attack: 2200
+Defence: 1200
+Archetype: Six Samurai
+Present in Sets:
+- Duelist League 3 participation cards
+- Gladiator's Assault
+- Gladiator's Assault
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- OTS Tournament Pack 6
+- Ra Yellow Mega Pack
+- Samurai Warlords Structure Deck

@@ -1,0 +1,15 @@
+Punished Eagle
+Card Type: Fusion Monster
+
+Description: "Blue-Winged Crown" + "Niwatori"
+
+Type: Winged Beast
+Attribute: WIND
+Level: 6
+Attack: 2100
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

@@ -1,0 +1,14 @@
+Blackwing - Boreas the Sharp
+Card Type: Effect Monster
+
+Description: During your Main Phase 1: You can banish this card from the Graveyard, then target 1 "Blackwing" monster you control; if that monster attacks this turn, you take no battle damage from that attack, it is not destroyed by that battle, also destroy the opponent's monster that it battled, after damage calculation.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 5
+Attack: 1300
+Defence: 900
+Archetype: Blackwing
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Storm of Ragnarok

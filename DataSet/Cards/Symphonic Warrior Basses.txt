@@ -1,0 +1,14 @@
+Symphonic Warrior Basses
+Card Type: Tuner Monster
+
+Description: Once per turn, you can select 1 face-up "Symphonic Warrior" monster on the field. Increase its Level by the number of cards in your hand; this increase lasts until the End Phase. You can remove from play this card from your Graveyard to select 1 face-up "Symphonic Warrior" monster you control, and increase its Level by the number of cards in your hand; this increase lasts until the End Phase.
+
+Type: Machine
+Attribute: WIND
+Level: 1
+Attack: 600
+Defence: 400
+Archetype: Symphonic Warrior
+Present in Sets:
+- OTS Tournament Pack 19 (POR)
+- Storm of Ragnarok

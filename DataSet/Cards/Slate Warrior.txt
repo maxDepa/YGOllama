@@ -1,0 +1,24 @@
+Slate Warrior
+Card Type: Flip Effect Monster
+
+Description: FLIP: This card gains 500 ATK and DEF.
+If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
+
+Type: Fiend
+Attribute: WIND
+Level: 4
+Attack: 1900
+Defence: 400
+Archetype: //
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal 5a
+- Structure Deck: Lord of the Storm
+- Tournament Pack 8
+- Yu-Gi-Oh! The Falsebound Kingdom promotional cards
+- Yu-Gi-Oh! World Championship Tournament 2004 promotional cards

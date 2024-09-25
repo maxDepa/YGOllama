@@ -1,0 +1,15 @@
+Traptrix Mantis
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can add 1 "Traptrix" monster from your Deck to your hand. Unaffected by the effects of "Hole" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1300
+Archetype: Traptrix
+Present in Sets:
+- Code of the Duelist
+- Maximum Gold
+- Structure Deck: Beware of Traptrix

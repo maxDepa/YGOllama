@@ -1,0 +1,13 @@
+Majespecter Wind
+Card Type: Spell Card
+
+Description: When you activate this card, you can also Tribute 1 WIND Spellcaster monster; Special Summon 1 "Majespecter" monster from your hand or GY, or if you Tributed a monster at activation, you can Special Summon 1 "Majespecter" monster from your Deck instead. You can only activate 1 "Majespecter Wind" per turn.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Majespecter
+Present in Sets:
+- Phantom Nightmare

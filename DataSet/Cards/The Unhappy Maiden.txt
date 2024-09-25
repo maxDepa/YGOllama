@@ -1,0 +1,16 @@
+The Unhappy Maiden
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 100
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders

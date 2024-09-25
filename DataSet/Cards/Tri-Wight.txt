@@ -1,0 +1,16 @@
+Tri-Wight
+Card Type: Spell Card
+
+Description: Target 3 Level 2 or lower Normal Monsters in your Graveyard; Special Summon them from the Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 15
+- OTS Tournament Pack 15 (POR)
+- Photon Shockwave
+- Speed Duel GX: Duel Academy Box

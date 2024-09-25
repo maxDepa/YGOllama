@@ -1,0 +1,13 @@
+Sword of Sparkles
+Card Type: Spell Card
+
+Description: Equip only to an "X-Saber" monster. If it destroys an opponent's monster by battle, you can destroy 1 card your opponent controls. You can Tribute 1 monster you control to return this card from your Graveyard to the top of your Deck.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: X-Saber
+Present in Sets:
+- Ancient Prophecy

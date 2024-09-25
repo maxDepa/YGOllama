@@ -1,0 +1,14 @@
+Summon Gate
+Card Type: Trap Card
+
+Description: Each player can Special Summon a maximum of 3 monsters from the Extra Deck each turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Invasion: Vengeance

@@ -1,0 +1,14 @@
+Super Quantal Mech Beast Lusterrex
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+Cannot attack unless it has material. Once per turn: You can detach 1 material from this card, then target 1 Effect Monster on the field; negate that face-up monster's effects until the end of this turn. This is a Quick Effect if this card has "Super Quantum White Layer" as material. Once per turn: You can attach 1 "Super Quantum" monster from your hand or field to this card as material.
+
+Type: Machine
+Attribute: LIGHT
+Level: 7
+Attack: 2700
+Defence: 1900
+Archetype: Super Quant
+Present in Sets:
+- Dark Neostorm

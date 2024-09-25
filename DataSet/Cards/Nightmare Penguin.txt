@@ -1,0 +1,17 @@
+Nightmare Penguin
+Card Type: Effect Monster
+
+Description: All face-up WATER monsters you control gain 200 ATK. When this card is flipped face-up: Target 1 card your opponent controls; return that target to the hand.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 900
+Defence: 1800
+Archetype: Penguin
+Present in Sets:
+- Dark Revelation Volume 3
+- Duel Terminal 4
+- Gold Series
+- Realm of the Sea Emperor Structure Deck
+- Rise of Destiny

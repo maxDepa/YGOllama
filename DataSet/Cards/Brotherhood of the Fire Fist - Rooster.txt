@@ -1,0 +1,15 @@
+Brotherhood of the Fire Fist - Rooster
+Card Type: Effect Monster
+
+Description: When this card is Special Summoned by the effect of a "Fire Fist" monster: You can add 1 "Fire Fist" monster from your Deck to your hand. You can only use this effect of "Brotherhood of the Fire Fist - Rooster" once per turn. Once per turn: You can send 1 face-up "Fire Formation" Spell/Trap you control to the GY; Set 1 "Fire Formation" Spell/Trap directly from your Deck.
+
+Type: Beast-Warrior
+Attribute: FIRE
+Level: 3
+Attack: 1500
+Defence: 100
+Archetype: Fire Fist
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Fists of the Gadgets
+- Judgment of the Light

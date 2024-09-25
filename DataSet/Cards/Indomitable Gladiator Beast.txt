@@ -1,0 +1,13 @@
+Indomitable Gladiator Beast
+Card Type: Spell Card
+
+Description: Target face-up "Gladiator Beast" monster you control gains 500 ATK until the End Phase. While this card is in your Graveyard, you can return 2 "Gladiator Beast" cards from your Graveyard to the Deck to return this card to your hand.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gladiator Beast
+Present in Sets:
+- Crimson Crisis

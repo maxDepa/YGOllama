@@ -1,0 +1,14 @@
+Risebell the Star Psycher
+Card Type: Effect Monster
+
+Description: Once per turn, during either player's turn: You can target 1 face-up monster on the field; increase its Level by 1.
+
+Type: Psychic
+Attribute: WIND
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Shadow Specters

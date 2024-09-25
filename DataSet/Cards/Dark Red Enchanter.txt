@@ -1,0 +1,17 @@
+Dark Red Enchanter
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 6
+Attack: 1700
+Defence: 2200
+Archetype: //
+Present in Sets:
+- Phantom Darkness
+- Speed Duel Tournament Pack 5
+- Speed Duel: Scars of Battle
+- Speed Duel: Streets of Battle City
+- Spellcaster's Command Structure Deck

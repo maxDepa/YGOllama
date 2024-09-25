@@ -1,0 +1,13 @@
+Yosenju Magat
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: You can Special Summon 1 "Yosenju" monster from your Deck, except "Yosenju Magat". During the End Phase, if this card was Special Summoned this turn: Return it to the hand.
+
+Type: Beast
+Attribute: WIND
+Level: 6
+Attack: 2000
+Defence: 100
+Archetype: Yosenju
+Present in Sets:
+- Secrets of Eternity

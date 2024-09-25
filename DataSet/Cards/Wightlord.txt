@@ -1,0 +1,13 @@
+Wightlord
+Card Type: Effect Monster
+
+Description: This card's name becomes "Skull Servant" while in the GY. You can only use each of the following effects of "Wightlord" once per turn. If you have "Skull Servant" or "King of the Skull Servants" in your GY: You can send this card from your hand or field to the GY; send cards from the top of your Deck to the GY, up to the number of "Skull Servant" and "King of the Skull Servants" in your GY. You can banish this card from your GY, then target 1 "Skull Servant" or "King of the Skull Servants" in your GY; Special Summon it.
+
+Type: Zombie
+Attribute: LIGHT
+Level: 1
+Attack: 300
+Defence: 200
+Archetype: Wight
+Present in Sets:
+- Legacy of Destruction

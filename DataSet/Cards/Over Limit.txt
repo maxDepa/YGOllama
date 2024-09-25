@@ -1,0 +1,14 @@
+Over Limit
+Card Type: Trap Card
+
+Description: Pay 500 Life Points. Special Summon from both players' Graveyards as many Normal Monsters as possible with 1000 or less ATK that were destroyed by battle this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Jaden Yuki 3
+- Gladiator's Assault

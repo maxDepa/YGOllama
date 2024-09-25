@@ -1,0 +1,17 @@
+Blackwing - Blizzard the Far North
+Card Type: Tuner Monster
+
+Description: Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower "Blackwing" monster in your Graveyard; Special Summon that target in Defense Position.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 2
+Attack: 1300
+Defence: 0
+Archetype: Blackwing
+Present in Sets:
+- Battles of Legend: Crystal Revenge
+- Duelist Pack: Crow
+- Gold Series 3
+- Legendary Collection 5D's Mega Pack
+- Raging Battle

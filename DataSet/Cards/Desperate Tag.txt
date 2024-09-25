@@ -1,0 +1,14 @@
+Desperate Tag
+Card Type: Trap Card
+
+Description: If a face-up Attack Position monster you control is destroyed by battle, during damage calculation, you can reduce the Battle Damage from this battle to 0 and Special Summon 1 Level 4 or lower Warrior-Type monster from your hand at the end of the Damage Step.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Pack: Yusei 3
+- Duelist Revolution

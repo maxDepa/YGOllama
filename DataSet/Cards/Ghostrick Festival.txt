@@ -1,0 +1,14 @@
+Ghostrick Festival
+Card Type: Link Monster
+
+Description: 1 non-Link "Ghostrick" monster
+You can also use a face-down "Ghostrick" monster you control as material to Link Summon this card. While a "Ghostrick" card is in a Field Zone, your "Ghostrick" monsters can attack directly. When an opponent's monster declares an attack: You can Tribute this card; Special Summon 1 "Ghostrick" monster from your Deck in face-down Defense Position. You can only use this effect of "Ghostrick Festival" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ghostrick
+Present in Sets:
+- Battle of Chaos

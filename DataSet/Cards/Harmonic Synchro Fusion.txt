@@ -1,0 +1,16 @@
+Harmonic Synchro Fusion
+Card Type: Spell Card
+
+Description: Send 1 Tuner and 1 non-Tuner from your face-up field to the GY; Special Summon both of the following monsters from your Extra Deck.
+● 1 Synchro Monster that could be Synchro Summoned using just those 2 monsters in the GY as material.
+● 1 Fusion Monster that could be Fusion Summoned using just those 2 monsters in the GY as material.
+You cannot Special Summon from the Extra Deck the turn you activate this card, except Fusion or Synchro Monsters. You can only activate 1 "Harmonic Synchro Fusion" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fusion
+Present in Sets:
+- Maze of Millennia

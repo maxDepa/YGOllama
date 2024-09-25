@@ -1,0 +1,18 @@
+Abyss Actor - Superstar
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn: You can Tribute 1 "Abyss Actor" monster, then target 1 "Abyss Script" Spell in your GY; add it to your hand.
+
+[ Monster Effect ] 
+When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 "Abyss Script" Spell directly from your Deck, but it is sent to the GY during the End Phase.
+
+Type: Fiend
+Attribute: DARK
+Level: 7
+Attack: 2500
+Defence: 1800
+Archetype: Abyss Actor
+Present in Sets:
+- Destiny Soldiers
+- Legendary Duelists: White Dragon Abyss

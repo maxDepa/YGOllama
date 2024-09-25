@@ -1,0 +1,18 @@
+Ceremonial Bell
+Card Type: Effect Monster
+
+Description: Both players must keep their hands revealed.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 3
+Attack: 0
+Defence: 1850
+Archetype: //
+Present in Sets:
+- Dark Beginning 1
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Yu-Gi-Oh! Advent Calendar (2018)

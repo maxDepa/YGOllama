@@ -1,0 +1,13 @@
+Drytron Nova
+Card Type: Spell Card
+
+Description: Special Summon 1 "Drytron" monster from your Deck, but destroy it during the End Phase. You can only activate 1 "Drytron Nova" per turn. You cannot Special Summon monsters, except monsters that cannot be Normal Summoned/Set, the turn you activate this card.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Drytron
+Present in Sets:
+- Genesis Impact

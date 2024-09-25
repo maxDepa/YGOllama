@@ -1,0 +1,13 @@
+Void Cauldron
+Card Type: Trap Card
+
+Description: This card is sent to the GY if you have any cards in your hand. If an "Infernity" monster(s) and/or a Level 8 DARK Dragon Synchro Monster(s) you control would be destroyed by your opponent's card effect, you can banish 1 "Infernity" card from your GY instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Void
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting

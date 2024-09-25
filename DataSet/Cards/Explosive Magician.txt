@@ -1,0 +1,17 @@
+Explosive Magician
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner Spellcaster monsters
+You can remove 2 Spell Counters from your field, then target 1 Spell/Trap your opponent controls; destroy that target.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 6
+Attack: 2500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 10
+- OTS Tournament Pack 10 (POR)
+- Stardust Overdrive
+- Stardust Overdrive

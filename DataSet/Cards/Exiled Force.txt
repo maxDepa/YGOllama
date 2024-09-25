@@ -1,0 +1,25 @@
+Exiled Force
+Card Type: Effect Monster
+
+Description: You can Tribute this card to target 1 monster on the field; destroy that target.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Beginning 2
+- Demo Pack
+- Hobby League 4 participation card A
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel: Battle City Box
+- Starter Deck: Jaden Yuki
+- Starter Deck: Yu-Gi-Oh! 5D's
+- Structure Deck: Warrior's Triumph
+- The Dark Emperor Structure Deck
+- Warriors' Strike Structure Deck

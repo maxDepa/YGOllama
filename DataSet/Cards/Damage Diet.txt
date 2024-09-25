@@ -1,0 +1,13 @@
+Damage Diet
+Card Type: Trap Card
+
+Description: Halve all damage you take this turn. You can banish this card from your Graveyard; halve all effect damage you take this turn. (You cannot halve the same damage twice with this effect.)
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Photon Shockwave

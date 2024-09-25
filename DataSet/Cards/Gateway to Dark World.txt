@@ -1,0 +1,17 @@
+Gateway to Dark World
+Card Type: Spell Card
+
+Description: Target 1 "Dark World" monster in your Graveyard; Special Summon that target. You cannot Summon other monsters the turn you activate this card (but you can Set).
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Dark World
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Gates of the Underworld Structure Deck
+- Legendary Collection 4: Joey's World Mega Pack
+- Structure Deck: Dark World

@@ -1,0 +1,13 @@
+Lycanthrope
+Card Type: Ritual Effect Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Synthesis Spell". When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Normal Monster in your Graveyard.
+
+Type: Beast-Warrior
+Attribute: EARTH
+Level: 6
+Attack: 2400
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Strike of Neos

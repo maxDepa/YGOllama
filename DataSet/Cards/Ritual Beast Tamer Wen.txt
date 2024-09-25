@@ -1,0 +1,13 @@
+Ritual Beast Tamer Wen
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: You can target 1 of your banished "Ritual Beast" monsters; Special Summon it. You can only Special Summon "Ritual Beast Tamer Wen(s)" once per turn.
+
+Type: Psychic
+Attribute: WIND
+Level: 3
+Attack: 1500
+Defence: 1000
+Archetype: Ritual Beast
+Present in Sets:
+- The Secret Forces

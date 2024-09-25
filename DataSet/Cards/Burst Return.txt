@@ -1,0 +1,14 @@
+Burst Return
+Card Type: Spell Card
+
+Description: If you control a face-up "Elemental HERO Burstinatrix": Return all face-up "Elemental HERO" monsters on the field to the hand, except "Elemental HERO Burstinatrix".
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Elemental HERO
+Present in Sets:
+- Duelist Pack: Jaden Yuki
+- Legendary Collection 2: The Duel Academy Years Mega Pack

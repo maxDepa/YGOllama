@@ -1,0 +1,19 @@
+Cannon Soldier
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster; inflict 500 damage to your opponent.
+
+Type: Machine
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1300
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Dark Legends
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Retro Pack
+- Structure Deck: Machine Re-Volt

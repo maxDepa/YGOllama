@@ -1,0 +1,15 @@
+Windwitch - Diamond Bell
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1+ non-Tuner WIND monsters
+If this card is Synchro Summoned: You can target 1 "Windwitch" monster in your GY; inflict damage to your opponent equal to half its ATK. You can only use this effect of "Windwitch - Diamond Bell" once per turn. Once per turn, if your opponent takes battle or effect damage: You can target 1 card on the field; destroy it. If you control this card that was Synchro Summoned using only "Windwitch" monsters as material, you can use this effect up to twice per turn.
+
+Type: Spellcaster
+Attribute: WIND
+Level: 8
+Attack: 2800
+Defence: 2400
+Archetype: Windwitch
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Blazing Vortex

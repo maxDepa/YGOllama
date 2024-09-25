@@ -1,0 +1,14 @@
+Pixie Knight
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard as a result of battle, your opponent selects 1 Spell Card from your Graveyard, and places that card on the top of your Deck.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 2
+Attack: 1300
+Defence: 200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force

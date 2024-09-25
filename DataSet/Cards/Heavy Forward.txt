@@ -1,0 +1,17 @@
+Heavy Forward
+Card Type: Spell Card
+
+Description: When this card is activated: You can add 1 "Infinitrack" monster from your Deck to your hand. Once per turn: You can target 1 Machine Xyz Monster you control, then activate 1 of these effects;
+● Change its battle position.
+● Attach this card to it as material.
+You can only activate 1 "Heavy Forward" per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Infinitrack
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Eternity Code

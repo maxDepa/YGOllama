@@ -1,0 +1,20 @@
+Abyss Dweller
+Card Type: XYZ Monster
+
+Description: 2 Level 4 monsters
+While this card has a material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn (Quick Effect): You can detach 1 material from this card; your opponent cannot activate any card effects in their GY this turn.
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- Abyss Rising
+- Duel Devastator
+- OTS Tournament Pack 13
+- OTS Tournament Pack 13 (POR)
+- OTS Tournament Pack 20
+- Premium Gold: Infinite Gold
+- The Secret Forces

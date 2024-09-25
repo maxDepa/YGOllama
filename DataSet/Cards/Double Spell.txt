@@ -1,0 +1,17 @@
+Double Spell
+Card Type: Spell Card
+
+Description: Discard 1 Spell Card, then target 1 Spell Card in your opponent's Graveyard; place that target in the appropriate Zone on your side of the field, and as this card's effect resolution, follow its card text as if you had used it yourself.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows
+- Yugi's Legendary Decks

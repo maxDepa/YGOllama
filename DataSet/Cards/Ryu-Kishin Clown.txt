@@ -1,0 +1,15 @@
+Ryu-Kishin Clown
+Card Type: Effect Monster
+
+Description: When this card is Summoned (including Flip Summon and Special Summon), select 1 face-up monster on the field and change its battle position.
+
+Type: Fiend
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 500
+Archetype: //
+Present in Sets:
+- Legacy of Darkness
+- Legacy of Darkness
+- Speed Duel GX: Midterm Paradox

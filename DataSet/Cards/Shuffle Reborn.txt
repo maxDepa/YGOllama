@@ -1,0 +1,15 @@
+Shuffle Reborn
+Card Type: Spell Card
+
+Description: If you control no monsters: Target 1 monster in your GY; Special Summon it, but it has its effects negated, also banish it during the End Phase. You can banish this card from your GY, then target 1 card you control; shuffle it into the Deck, then draw 1 card, also during the End Phase of this turn, banish 1 card from your hand. You can only use this effect of "Shuffle Reborn" once per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Dimension of Chaos
+- Structure Deck: Cyberse Link

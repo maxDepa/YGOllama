@@ -1,0 +1,24 @@
+Dark Resonator
+Card Type: Tuner Monster
+
+Description: The first time this card would be destroyed by battle each turn, it is not destroyed.
+
+Type: Fiend
+Attribute: DARK
+Level: 3
+Attack: 1300
+Defence: 300
+Archetype: Resonator
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Duelist Pack: Dimensional Guardians
+- High-Speed Riders
+- Legendary Collection 5D's Mega Pack
+- Structure Deck: The Crimson King
+- The Duelist Genesis

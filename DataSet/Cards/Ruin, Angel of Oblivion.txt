@@ -1,0 +1,13 @@
+Ruin, Angel of Oblivion
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Cycle of the World". This card's name becomes "Ruin, Queen of Oblivion" while in the hand or on the field. If this card is Ritual Summoned: It can make up to 2 attacks on monsters during each Battle Phase this turn. If this card is sent to the GY: You can target 1 Ritual Monster you control; while it is face-up on your field, your opponent cannot activate cards or effects when your Ritual Monsters declare an attack.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: Demise
+Present in Sets:
+- Cybernetic Horizon

@@ -1,0 +1,15 @@
+Box of Friends
+Card Type: Effect Monster
+
+Description: If this card is destroyed and sent to the GY: You can Special Summon from your Deck, 2 Normal Monsters with different names whose ATK or DEF is 0, in face-up Defense Position, but they cannot be used as Synchro Material, also they are destroyed during your next End Phase. You can only use this effect of "Box of Friends" once per turn.
+
+Type: Machine
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ghosts From the Past: The 2nd Haunting
+- Number Hunters
+- Yu-Gi-Oh! Advent Calendar (2018)

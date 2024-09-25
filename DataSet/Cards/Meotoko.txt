@@ -1,0 +1,13 @@
+Meotoko
+Card Type: Normal Monster
+
+Description: Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!
+
+Type: Beast
+Attribute: EARTH
+Level: 2
+Attack: 700
+Defence: 600
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack

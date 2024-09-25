@@ -1,0 +1,13 @@
+Inzektor Earwig
+Card Type: Effect Monster
+
+Description: Once per turn: You can equip 1 "Inzektor" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster gains ATK and DEF equal to this card's ATK and DEF. When this card is sent to the Graveyard while equipped to a monster: The monster this card was equipped to gains 1000 ATK, until the End Phase.
+
+Type: Insect
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Inzektor
+Present in Sets:
+- Galactic Overlord

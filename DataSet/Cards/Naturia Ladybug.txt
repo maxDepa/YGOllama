@@ -1,0 +1,16 @@
+Naturia Ladybug
+Card Type: Effect Monster
+
+Description: When you Synchro Summon a "Naturia" Synchro Monster, you can Special Summon this card from your Graveyard. During your Main Phase, you can Tribute this card to select 1 face-up "Naturia" monster you control. It gains 1000 ATK until the End Phase.
+
+Type: Insect
+Attribute: EARTH
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 4
+- Hidden Arsenal 4: Trishula's Triumph
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

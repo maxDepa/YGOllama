@@ -1,0 +1,15 @@
+Cipher Etranger
+Card Type: Effect Monster
+
+Description: If this card is in your hand or Graveyard: You can target 1 "Cipher" Xyz Monster you control; attach this card to it as an Xyz Material. If this card is sent to the Graveyard: You can add 1 "Cipher" Spell/Trap Card from your Deck to your hand. You can only use 1 "Cipher Etranger" effect per turn, and only once that turn.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Cipher
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Duelist Pack: Dimensional Guardians
+- Raging Tempest

@@ -1,0 +1,14 @@
+Xing Zhen Hu Replica
+Card Type: Trap Card
+
+Description: Select 1 Set Spell/Trap Card on the field. It cannot be activated. Cards and effects cannot be activated in response to this card's activation.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok
+- Storm of Ragnarok

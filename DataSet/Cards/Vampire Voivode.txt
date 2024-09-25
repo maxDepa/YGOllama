@@ -1,0 +1,13 @@
+Vampire Voivode
+Card Type: Effect Monster
+
+Description: If this card is Normal Summoned: You can target up to 2 monsters in your opponent's GY; Special Summon those monsters to your field in Defense Position, but their effects are negated. When a monster's effect is activated, while a monster(s) with its same name is in the GY(s) (Quick Effect): You can negate the activation. If a monster(s) is Special Summoned from your opponent's GY: You can Tribute 2 monsters; Special Summon this card from your GY. You can only use each effect of "Vampire Voivode" once per turn.
+
+Type: Zombie
+Attribute: DARK
+Level: 8
+Attack: 2800
+Defence: 2100
+Archetype: Vampire
+Present in Sets:
+- Ghosts From the Past

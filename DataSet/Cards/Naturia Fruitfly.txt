@@ -1,0 +1,16 @@
+Naturia Fruitfly
+Card Type: Effect Monster
+
+Description: All face-up monsters your opponent controls lose 300 ATK and DEF for each face-up "Naturia" monster you control. Once per turn, you can select 1 face-up monster your opponent controls with 0 DEF, and take control of it until the End Phase.
+
+Type: Insect
+Attribute: EARTH
+Level: 3
+Attack: 800
+Defence: 1500
+Archetype: Naturia
+Present in Sets:
+- Duel Terminal 3
+- Hidden Arsenal 3
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

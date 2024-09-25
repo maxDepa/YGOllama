@@ -1,0 +1,12 @@
+Poisonous Snake Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Cobra Jar". When this Token is destroyed as a result of battle, inflict 500 points of damage to your opponent's Life Points.
+
+Type: Reptile
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

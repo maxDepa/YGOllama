@@ -1,0 +1,18 @@
+Ojama Trio
+Card Type: Trap Card
+
+Description: Special Summon 3 "Ojama Tokens" (Beast-Type/LIGHT/Level 2/ATK 0/DEF 1000) to your opponent's field in Defense Position. They cannot be Tributed for a Tribute Summon, and each time 1 is destroyed, its controller takes 300 damage.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Ojama
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Dinosmasher's Fury Structure Deck
+- Duelist Pack: Chazz Princeton

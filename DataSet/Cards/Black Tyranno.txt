@@ -1,0 +1,18 @@
+Black Tyranno
+Card Type: Effect Monster
+
+Description: If the only cards your opponent controls are Defense Position monsters, this card can attack directly.
+
+Type: Dinosaur
+Attribute: EARTH
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 4: Joey's World Mega Pack
+- Speed Duel Starter Decks: Ultimate Predators
+- Structure Deck: Dinosaur's Rage

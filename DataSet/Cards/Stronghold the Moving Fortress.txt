@@ -1,0 +1,22 @@
+Stronghold the Moving Fortress
+Card Type: Trap Card
+
+Description: Special Summon this card in Defense Position as an Effect Monster (Machine/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap.) While you control "Green Gadget", "Red Gadget", and "Yellow Gadget", this card gains 3000 ATK.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gadget
+Present in Sets:
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Duelist Pack: Rivals of the Pharaoh
+- Duelist Pack: Yugi
+- Geargia Rampage Structure Deck
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 11
+- OTS Tournament Pack 11 (POR)
+- Structure Deck: Machine Re-Volt
+- Yugi's Legendary Decks

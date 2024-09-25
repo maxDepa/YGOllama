@@ -1,0 +1,20 @@
+Serpent Night Dragon
+Card Type: Normal Monster
+
+Description: A dragon created from the soul of a wicked knight.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2350
+Defence: 2400
+Archetype: //
+Present in Sets:
+- Legendary Collection 4: Joey's World Mega Pack
+- Magic Ruler
+- Magic Ruler
+- Speed Duel Starter Decks: Ultimate Predators
+- Speed Duel Tournament Pack 2
+- Spell Ruler
+- Spell Ruler
+- Turbo Pack: Booster Seven

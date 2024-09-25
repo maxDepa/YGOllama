@@ -1,0 +1,14 @@
+Magnum the Reliever
+Card Type: Fusion Monster
+
+Description: 1 monster Special Summoned from the Extra Deck + 1 monster in the hand
+You can target 1 "Polymerization" Spell or "Fusion" Spell in your GY; place that card on the bottom of the Deck, then draw 1 card. When another card, or its effect, is activated (Quick Effect): You can banish 1 "Polymerization" Spell or "Fusion" Spell from your GY, then target 1 card on the field; destroy it. You can only use each effect of "Magnum the Reliever" once per turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 8
+Attack: 2800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Duelist Nexus

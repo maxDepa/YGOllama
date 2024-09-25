@@ -1,0 +1,21 @@
+Red-Eyes Flare Metal Dragon
+Card Type: XYZ Monster
+
+Description: 2 Level 7 monsters
+Cannot be destroyed by card effects while it has Xyz Material. While this card has Xyz Material, each time your opponent activates a card or effect, inflict 500 damage to your opponent immediately after it resolves. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 "Red-Eyes" Normal Monster in your Graveyard; Special Summon it.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 2400
+Archetype: Red-Eyes
+Present in Sets:
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Clash of Rebellions
+- Clash of Rebellions
+- Clash of Rebellions
+- Legendary Decks II
+- Legendary Duelists: Season 1
+- Premium Gold: Infinite Gold

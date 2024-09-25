@@ -1,0 +1,30 @@
+Allure of Darkness
+Card Type: Spell Card
+
+Description: Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Brothers of Legend
+- Dark Saviors
+- Destiny Soldiers
+- Gates of the Underworld Structure Deck
+- OTS Tournament Pack 1
+- Pendulum Domination Structure Deck
+- Phantom Darkness
+- Phantom Darkness
+- Raging Battle: Special Edition
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Starter Decks: Twisted Nightmares
+- Speed Duel Tournament Pack 3
+- Speed Duel: Streets of Battle City
+- Structure Deck: Lair of Darkness
+- Structure Deck: Marik (TCG)
+- Structure Deck: Shaddoll Showdown
+- Wild Survivors

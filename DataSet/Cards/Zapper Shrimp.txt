@@ -1,0 +1,14 @@
+Zapper Shrimp
+Card Type: Synchro Tuner Monster
+
+Description: 1 Tuner + 1 non-Tuner monster
+If this card is Special Summoned: You can send 1 other card from your hand or field to the GY, then target 1 Spell/Trap your opponent controls; destroy it. You can only use this effect of "Zapper Shrimp" once per turn. Once per Chain, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control.
+
+Type: Fish
+Attribute: LIGHT
+Level: 2
+Attack: 1000
+Defence: 1200
+Archetype: //
+Present in Sets:
+- The Infinite Forbidden

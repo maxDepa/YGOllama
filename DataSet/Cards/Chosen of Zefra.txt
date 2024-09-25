@@ -1,0 +1,18 @@
+Chosen of Zefra
+Card Type: Trap Card
+
+Description: This card gains these effects depending on the number of face-up "Zefra" monsters with different names in your Extra Deck.
+● 3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.
+● 5 or more: Monsters you control cannot be destroyed by an opponent's card effects.
+● 8 or more: Monsters you control cannot be targeted by an opponent's card effects.
+● 10: You can send this card to the Graveyard; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Zefra
+Present in Sets:
+- Crossed Souls
+- Crossed Souls: Advance Edition

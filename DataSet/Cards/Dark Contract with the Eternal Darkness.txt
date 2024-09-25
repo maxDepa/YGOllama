@@ -1,0 +1,13 @@
+Dark Contract with the Eternal Darkness
+Card Type: Trap Card
+
+Description: While you have 2 "D/D" cards in your Pendulum Zones, your opponent cannot target monsters on the field with Spell/Trap effects, Tribute them for a Tribute Summon, nor use them as Materials for a Fusion, Synchro, or Xyz Summon. Once per turn, during your Standby Phase: Take 1000 damage.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: D/D
+Present in Sets:
+- Maximum Crisis

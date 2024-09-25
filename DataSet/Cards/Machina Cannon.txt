@@ -1,0 +1,14 @@
+Machina Cannon
+Card Type: Effect Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 1 or more other Machine monsters from your hand to the GY. Gains 800 ATK for each monster sent to the GY for this Special Summon.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 0
+Defence: 2200
+Archetype: Machina
+Present in Sets:
+- Premium Collection Tin
+- Structure Deck: Mechanized Madness

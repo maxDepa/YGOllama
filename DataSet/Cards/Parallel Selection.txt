@@ -1,0 +1,13 @@
+Parallel Selection
+Card Type: Trap Card
+
+Description: Activate only when a Synchro Monster you control is destroyed by your opponent's card (either by battle or by card effect) and sent to the Graveyard. Select 1 of your removed from play Spell Cards and add it to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Revolution

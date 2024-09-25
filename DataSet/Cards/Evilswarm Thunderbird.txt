@@ -1,0 +1,16 @@
+Evilswarm Thunderbird
+Card Type: Effect Monster
+
+Description: During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use this effect of "Evilswarm Thunderbird" once per turn.
+
+Type: Thunder
+Attribute: DARK
+Level: 4
+Attack: 1650
+Defence: 1050
+Archetype: Lswarm
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

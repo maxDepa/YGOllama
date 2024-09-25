@@ -1,0 +1,15 @@
+Blade Armor Ninja
+Card Type: XYZ Monster
+
+Description: 2 Level 4 Warrior-Type monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 "Ninja" monster you control; it can make a second attack during each Battle Phase this turn.
+
+Type: Warrior
+Attribute: WIND
+Level: 4
+Attack: 2200
+Defence: 1000
+Archetype: Ninja
+Present in Sets:
+- Cosmo Blazer: Special Edition
+- Order of Chaos

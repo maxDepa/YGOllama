@@ -1,0 +1,14 @@
+Master & Expert
+Card Type: Normal Monster
+
+Description: A deadly duo consisting of a beast master and its loyal servant.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

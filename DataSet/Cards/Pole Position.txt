@@ -1,0 +1,14 @@
+Pole Position
+Card Type: Trap Card
+
+Description: The face-up monster(s) with the highest ATK on the field is unaffected by the effects of Spell Cards. When "Pole Position" is removed from the field, destroy the face-up monster(s) with the highest ATK on the field.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

@@ -1,0 +1,13 @@
+Doppelganger
+Card Type: Trap Card
+
+Description: When you take damage from the effect of a monster your opponent controls, inflict the same amount of damage to your opponent.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Crossroads of Chaos

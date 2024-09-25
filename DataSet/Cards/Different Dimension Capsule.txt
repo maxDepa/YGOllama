@@ -1,0 +1,17 @@
+Different Dimension Capsule
+Card Type: Spell Card
+
+Description: Select 1 card from your Deck and remove it from play face-down. During your 2nd Standby Phase after activation, destroy this card and add the removed card to your hand.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Duelist Pack: Zane Truesdale
+- Egyptian God Deck: Obelisk the Tormentor
+- Pharaonic Guardian
+- Speed Duel GX: Duel Academy Box

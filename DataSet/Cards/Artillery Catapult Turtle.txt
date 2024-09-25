@@ -1,0 +1,14 @@
+Artillery Catapult Turtle
+Card Type: Effect Monster
+
+Description: You can Tribute 1 monster; Special Summon 1 "Gaia The Fierce Knight" monster, or 1 Level 5 Dragon monster, from your hand or Deck. You can only use this effect of "Artillery Catapult Turtle" once per turn.
+
+Type: Aqua
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: Gaia The Fierce Knight
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

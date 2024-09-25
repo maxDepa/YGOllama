@@ -1,0 +1,16 @@
+Gyakutenno Megami
+Card Type: Normal Monster
+
+Description: This fairy uses her mystical power to protect the weak and provide spiritual support.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 6
+Attack: 1800
+Defence: 2000
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Anniversary Pack
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

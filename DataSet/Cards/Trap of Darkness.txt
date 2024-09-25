@@ -1,0 +1,14 @@
+Trap of Darkness
+Card Type: Trap Card
+
+Description: If your LP is 3000 or less: Pay 1000 LP, then target 1 Normal Trap in your GY, except "Trap of Darkness"; this card's effect becomes that target's activated effect, then banish that target.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Lair of Darkness
+- The Duelist Genesis

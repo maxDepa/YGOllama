@@ -1,0 +1,13 @@
+Gusto Codor
+Card Type: Effect Monster
+
+Description: When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.
+
+Type: Winged Beast
+Attribute: WIND
+Level: 3
+Attack: 1000
+Defence: 400
+Archetype: Gusto
+Present in Sets:
+- Generation Force

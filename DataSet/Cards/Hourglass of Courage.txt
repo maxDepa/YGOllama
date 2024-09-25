@@ -1,0 +1,13 @@
+Hourglass of Courage
+Card Type: Effect Monster
+
+Description: If this card is Normal or Flip Summoned, its original ATK and DEF are halved until the End Phase of your next turn. After that, the original ATK and DEF are doubled.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1100
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Storm of Ragnarok

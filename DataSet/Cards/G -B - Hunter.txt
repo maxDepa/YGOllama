@@ -1,0 +1,13 @@
+G.B. Hunter
+Card Type: Effect Monster
+
+Description: Cards on the field cannot be returned to the Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1200
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Raging Battle

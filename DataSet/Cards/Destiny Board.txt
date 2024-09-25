@@ -1,0 +1,20 @@
+Destiny Board
+Card Type: Trap Card
+
+Description: When this card and all 4 "Spirit Message" cards with different names are placed on your field, you win the Duel. Once per turn, during your opponent's End Phase: Place 1 "Spirit Message" card from your hand or Deck in your Spell & Trap Zone face-up, in the proper order of "I", "N", "A", and "L". When any "Spirit Message" card or "Destiny Board" you control leaves the field, send all "Spirit Message" cards and "Destiny Board" you control to the Graveyard.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Spirit Message
+Present in Sets:
+- Dark Beginning 2
+- Dark Beginning 2
+- Duelist Pack: Rivals of the Pharaoh
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Labyrinth of Nightmare
+- Legendary Duelists: Season 3
+- Retro Pack 2

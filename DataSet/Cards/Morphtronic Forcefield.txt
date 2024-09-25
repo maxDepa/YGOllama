@@ -1,0 +1,13 @@
+Morphtronic Forcefield
+Card Type: Trap Card
+
+Description: Negate the activation of a Spell or Trap Card that would destroy a face-up "Morphtronic" monster you control and destroy it. Add 1 "Morphtronic" card from your Deck to your hand.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Morphtronic
+Present in Sets:
+- Crimson Crisis

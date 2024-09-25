@@ -1,0 +1,15 @@
+Zoroa, the Magistus Conflagrant Calamity
+Card Type: Synchro Monster
+
+Description: 1 Spellcaster Tuner + 1+ non-Tuner monsters
+If this card is Synchro Summoned: You can equip 1 "Magistus" monster from your Extra Deck to this card. Your opponent cannot activate the effects of monsters with the same card type (Fusion, Synchro, Xyz, or Link) as a "Magistus" Monster Card in your Spell & Trap Zone. If this card is in your GY: You can target 1 "Magistus" card you control; destroy it, and if you do, Special Summon this card. You can only use this effect of "Zoroa, the Magistus Conflagrant Calamity" once per turn.
+
+Type: Spellcaster
+Attribute: FIRE
+Level: 8
+Attack: 2900
+Defence: 1500
+Archetype: Magistus
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

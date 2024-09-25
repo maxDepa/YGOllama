@@ -1,0 +1,14 @@
+Black Luster Soldier - Legendary Swordsman
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Chaos Form" or "Super Soldier Ritual". Must be Ritual Summoned. During your Draw Phase, before you draw: You can reveal this card in your hand; give up your normal draw this turn, and if you do, add 1 Ritual Spell from your Deck to your hand. Your opponent cannot activate cards or effects during your Battle Phase. When this attacking card, that was Ritual Summoned using a Normal Monster, destroys an opponent's monster by battle: You can shuffle all cards your opponent controls into the Deck.
+
+Type: Warrior
+Attribute: EARTH
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Black Luster Soldier
+Present in Sets:
+- Maze of Memories
+- Maze of Memories

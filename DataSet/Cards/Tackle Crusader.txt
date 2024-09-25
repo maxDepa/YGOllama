@@ -1,0 +1,18 @@
+Tackle Crusader
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard: You can activate 1 of these effects.
+● Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.
+● Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.
+
+Type: Rock
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1800
+Archetype: //
+Present in Sets:
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Ghosts From the Past
+- Legacy of the Valiant

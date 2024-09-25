@@ -1,0 +1,13 @@
+Genta, Gateman of Dark World
+Card Type: Effect Monster
+
+Description: You can only Special Summon "Genta, Gateman of Dark World" once per turn. You can discard this card to the GY; add 1 "The Gates of Dark World" from your Deck to your hand. If this card is banished and you control a "Dark World" card: You can Special Summon this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Dark World
+Present in Sets:
+- Structure Deck: Dark World

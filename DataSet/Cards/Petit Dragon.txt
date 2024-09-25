@@ -1,0 +1,15 @@
+Petit Dragon
+Card Type: Normal Monster
+
+Description: A very small dragon known for its vicious attacks.
+
+Type: Dragon
+Attribute: WIND
+Level: 2
+Attack: 600
+Defence: 700
+Archetype: //
+Present in Sets:
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon

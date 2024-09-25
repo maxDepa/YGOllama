@@ -1,0 +1,14 @@
+Tokusano Shinkyojin
+Card Type: Spell Card
+
+Description: Send monster(s) from your hand and/or face-up field to the GY whose total Levels equal 10; draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duelist Nexus
+- Duelist Nexus

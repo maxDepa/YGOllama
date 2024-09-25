@@ -1,0 +1,15 @@
+Invoked Elysium
+Card Type: Fusion Monster
+
+Description: 1 "Invoked" monster + 1 monster that was Special Summoned from the Extra Deck
+Must first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn, during either player's turn: You can target 1 "Invoked" monster you control or in your Graveyard; banish it and all monsters your opponent controls with the same Attribute as that monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 10
+Attack: 3200
+Defence: 4000
+Archetype: Invoked
+Present in Sets:
+- Battles of Legend: Armageddon
+- Fusion Enforcers

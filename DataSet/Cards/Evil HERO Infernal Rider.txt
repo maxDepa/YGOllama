@@ -1,0 +1,12 @@
+Evil HERO Infernal Rider
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Dark Fusion" from your Deck or GY to your hand. You can banish this card and 4 other monsters from your GY; Set 1 "Super Polymerization" from your Deck, also, until the end of your opponent's turn, you cannot Special Summon, except "HERO" monsters, also you can Fusion Summon Fusion Monsters that must be Special Summoned with "Dark Fusion", with effects other than "Dark Fusion". You can only use each effect of "Evil HERO Infernal Rider" once per turn.
+
+Type: Fiend
+Attribute: WIND
+Level: 6
+Attack: 2100
+Defence: 800
+Archetype: Evil HERO
+Present in Sets:

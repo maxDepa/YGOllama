@@ -1,0 +1,14 @@
+Toon Briefcase
+Card Type: Trap Card
+
+Description: When your opponent Summons a monster(s) while you control a Toon monster: Shuffle that monster(s) into the Deck.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Toon
+Present in Sets:
+- Dragons of Legend 2
+- Dragons of Legend: The Complete Series

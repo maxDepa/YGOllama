@@ -1,0 +1,14 @@
+Searing Fire Wall
+Card Type: Spell Card
+
+Description: Banish any number of "Laval" monsters from your Graveyard; Special Summon an equal number of "Laval Tokens" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Laval
+Present in Sets:
+- Duel Terminal 5a
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Danger! Ogopogo!
+Card Type: Effect Monster
+
+Description: You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not "Danger! Ogopogo!", Special Summon 1 "Danger! Ogopogo!" from your hand, and if you do, draw 1 card. If this card is discarded: You can send 1 "Danger!" card from your Deck to the GY, except "Danger! Ogopogo!". You can only use this effect of "Danger! Ogopogo!" once per turn.
+
+Type: Sea Serpent
+Attribute: DARK
+Level: 8
+Attack: 1200
+Defence: 3000
+Archetype: Danger!
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

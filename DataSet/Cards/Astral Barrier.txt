@@ -1,0 +1,15 @@
+Astral Barrier
+Card Type: Trap Card
+
+Description: If your opponent's monster attacks a monster you control: You can make the attack a direct attack instead.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Astral Pack One
+- Dark Revelation Volume 3
+- Rise of Destiny

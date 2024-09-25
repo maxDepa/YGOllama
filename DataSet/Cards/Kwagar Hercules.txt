@@ -1,0 +1,17 @@
+Kwagar Hercules
+Card Type: Fusion Monster
+
+Description: "Kuwagata α" + "Hercules Beetle"
+
+Type: Insect
+Attribute: EARTH
+Level: 6
+Attack: 1900
+Defence: 1700
+Archetype: //
+Present in Sets:
+- OTS Tournament Pack 18
+- OTS Tournament Pack 18 (POR)
+- Tournament Pack: 1st Season
+- Tournament Pack: 1st Season
+- Tournament Pack: 3rd Season

@@ -1,0 +1,14 @@
+Orcustrion
+Card Type: Link Monster
+
+Description: 2+ Effect Monsters, including an "Orcust" monster
+This linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; shuffle them into the Deck, and if you do, the ATK/DEF of any linked monster(s) your opponent currently controls become 0, also their effects are negated. You can only use this effect of "Orcustrion" once per turn.
+
+Type: Machine
+Attribute: DARK
+Level: 0
+Attack: 3000
+Defence: 0
+Archetype: Orcust
+Present in Sets:
+- Soul Fusion

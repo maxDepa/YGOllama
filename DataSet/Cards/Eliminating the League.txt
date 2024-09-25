@@ -1,0 +1,15 @@
+Eliminating the League
+Card Type: Trap Card
+
+Description: Discard 1 Spell, then target 1 face-up monster your opponent controls; destroy that target, then look at your opponent's hand and send all cards in their hand with the same name as that destroyed card to the GY.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Match of the Millennium
+- Strike of Neos
+- Strike of Neos

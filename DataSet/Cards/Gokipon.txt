@@ -1,0 +1,16 @@
+Gokipon
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the GY: You can add 1 Insect monster with 1500 or less ATK from your Deck to your hand.
+
+Type: Insect
+Attribute: EARTH
+Level: 2
+Attack: 800
+Defence: 800
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Speed Duel Starter Decks: Ultimate Predators
+- Turbo Pack: Booster Seven

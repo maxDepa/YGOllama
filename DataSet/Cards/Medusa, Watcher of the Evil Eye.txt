@@ -1,0 +1,14 @@
+Medusa, Watcher of the Evil Eye
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can target 1 "Evil Eye" card in your GY, except "Medusa, Watcher of the Evil Eye"; add it to your hand. If this card is equipped with "Evil Eye of Selene" (Quick Effect): You can target 1 monster in your opponent's GY; banish it. You can only use this effect of "Medusa, Watcher of the Evil Eye" once per turn. Once per turn, during the next Standby Phase after this effect was activated: Banish 1 card in your GY.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 1600
+Archetype: Evil Eye
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- The Infinity Chasers

@@ -1,0 +1,12 @@
+Boulder Tortoise
+Card Type: Normal Monster
+
+Description: A stone turtle that is nearly indestructible.
+
+Type: Aqua
+Attribute: WATER
+Level: 6
+Attack: 1450
+Defence: 2200
+Archetype: //
+Present in Sets:

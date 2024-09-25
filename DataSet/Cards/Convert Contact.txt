@@ -1,0 +1,15 @@
+Convert Contact
+Card Type: Spell Card
+
+Description: If you control no monsters: Send 2 "Neo-Spacian" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Neo-Spacian
+Present in Sets:
+- Battles of Legend: Relentless Revenge
+- Duelist Pack: Jaden Yuki 3
+- Tactical Evolution

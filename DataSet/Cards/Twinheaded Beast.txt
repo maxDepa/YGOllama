@@ -1,0 +1,13 @@
+Twinheaded Beast
+Card Type: Effect Monster
+
+Description: This card can attack twice during the same Battle Phase.
+
+Type: Beast
+Attribute: FIRE
+Level: 6
+Attack: 1700
+Defence: 1900
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! Destiny Board Traveler promotional cards

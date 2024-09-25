@@ -1,0 +1,14 @@
+Superheavy Samurai Blue Brawler
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can change its battle position. Cannot be destroyed by battle.
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 0
+Defence: 2000
+Archetype: Superheavy
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Duelist Alliance

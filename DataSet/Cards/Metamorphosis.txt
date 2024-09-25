@@ -1,0 +1,15 @@
+Metamorphosis
+Card Type: Spell Card
+
+Description: Tribute 1 monster. Special Summon 1 Fusion Monster from your Extra Deck with the same Level as the Tributed monster.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Champion Pack: Game One
+- Dark Revelation Volume 1
+- Pharaonic Guardian

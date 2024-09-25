@@ -1,0 +1,13 @@
+Legacy of a HERO
+Card Type: Spell Card
+
+Description: Return 2 Fusion Monsters from your Graveyard to the Extra Deck that list a "HERO" monster as Material; draw 3 cards. You can only activate 1 "Legacy of a HERO" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: HERO
+Present in Sets:
+- Duelist Saga

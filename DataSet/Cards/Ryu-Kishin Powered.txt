@@ -1,0 +1,21 @@
+Ryu-Kishin Powered
+Card Type: Normal Monster
+
+Description: A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Dark Beginning 2
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba Evolution

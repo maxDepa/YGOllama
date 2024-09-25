@@ -1,0 +1,14 @@
+Mispolymerization
+Card Type: Trap Card
+
+Description: Activate only when a Fusion Monster is Special Summoned. Return all face-up Fusion Monsters to their respective Extra Decks.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

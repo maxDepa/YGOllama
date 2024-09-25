@@ -1,0 +1,17 @@
+Karakuri Steel Shogun mdl 00X "Bureido"
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner Machine-Type monsters
+When this card is Synchro Summoned: You can Special Summon 1 "Karakuri" monster from your Deck. Once per turn, when the battle position of a face-up "Karakuri" monster you control is changed (and remains face-up): Draw 1 card.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 2800
+Defence: 1700
+Archetype: Karakuri
+Present in Sets:
+- Gold Series: Haunted Mine
+- OTS Tournament Pack 15 (POR)
+- Storm of Ragnarok
+- Storm of Ragnarok

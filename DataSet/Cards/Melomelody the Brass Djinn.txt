@@ -1,0 +1,16 @@
+Melomelody the Brass Djinn
+Card Type: XYZ Monster
+
+Description: 2 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card, then target 1 "Djinn" Xyz Monster you control; it can make a second attack during each Battle Phase this turn.
+
+Type: Fiend
+Attribute: LIGHT
+Level: 3
+Attack: 1400
+Defence: 1600
+Archetype: Djinn
+Present in Sets:
+- Star Pack 2014
+- Star Pack 2014
+- Starter Deck: Xyz Symphony

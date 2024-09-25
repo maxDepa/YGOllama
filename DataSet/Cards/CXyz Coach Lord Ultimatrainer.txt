@@ -1,0 +1,15 @@
+CXyz Coach Lord Ultimatrainer
+Card Type: XYZ Monster
+
+Description: 4 Level 9 monsters
+This card cannot be targeted by card effects. If this card has an Xyz Monster as an Xyz Material, it gains this effect.
+● Once per turn: You can detach 1 Xyz Material from this card; draw 1 card and reveal it, then if it was a monster, inflict 800 damage to your opponent.
+
+Type: Warrior
+Attribute: FIRE
+Level: 9
+Attack: 3800
+Defence: 2300
+Archetype: CXyz
+Present in Sets:
+- Number Hunters

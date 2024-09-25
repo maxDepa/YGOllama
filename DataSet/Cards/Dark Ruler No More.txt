@@ -1,0 +1,20 @@
+Dark Ruler No More
+Card Type: Spell Card
+
+Description: Negate the effects of all face-up monsters your opponent currently controls, until the end of this turn, also, for the rest of this turn after this card resolves, your opponent takes no damage. Neither player can activate monster effects in response to this card's activation.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 2019 Gold Sarcophagus Tin
+- 2022 Tin of the Pharaoh's Gods
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Structure Deck: Albaz Strike
+- Structure Deck: Spirit Charmers
+- The Lost Art Promotion (series)
+- The Lost Art Promotion 2023

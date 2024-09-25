@@ -1,0 +1,14 @@
+Battery Charger
+Card Type: Spell Card
+
+Description: Pay 500 Life Points. Special Summon 1 "Batteryman" monster from your Graveyard.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Batteryman
+Present in Sets:
+- Dark Revelation Volume 3
+- The Lost Millennium

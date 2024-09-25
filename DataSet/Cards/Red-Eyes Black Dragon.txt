@@ -1,0 +1,43 @@
+Red-Eyes Black Dragon
+Card Type: Normal Monster
+
+Description: ''A ferocious dragon with a deadly attack.''
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2400
+Defence: 2000
+Archetype: Red-Eyes
+Present in Sets:
+- Anniversary Pack
+- Booster Pack Collectors Tins 2002
+- Dark Beginning 1
+- Dark Legends
+- Dragons Collide Structure Deck
+- Duel Terminal - Preview Wave 1
+- Duel Terminal - Preview Wave 2
+- Duel Terminal 1
+- Duelist Pack: Battle City
+- Hidden Arsenal: Chapter 1
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legendary Collection
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Decks II
+- Legendary Duelists
+- Legendary Duelists: Season 1
+- Maximum Gold
+- Maximum Gold: El Dorado
+- Millennium Pack
+- Retro Pack
+- Shonen Jump Vol. 2, Issue 1 promotional card
+- Speed Duel Starter Decks: Duelists of Tomorrow
+- Speed Duel Tournament Pack 1
+- Speed Duel: Battle City Box
+- Speed Duel: Battle City Box
+- Starter Deck: Joey
+- Structure Deck: Dragon's Roar
+- Swedish Shonen Jump 2005, Issue 12 promotional card
+- Yu-Gi-Oh! Power of Chaos: Joey the Passion promotional cards

@@ -1,0 +1,17 @@
+Hysteric Party
+Card Type: Trap Card
+
+Description: Activate this card by discarding 1 card; Special Summon as many copies of "Harpie Lady" as possible from your Graveyard. When this face-up card leaves the field, destroy those monsters.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Harpie
+Present in Sets:
+- Astral Pack Two
+- Duelist Pack: Battle City
+- Legendary Collection 4: Joey's World Mega Pack
+- Legendary Duelists: Season 2
+- Structure Deck: Lord of the Storm

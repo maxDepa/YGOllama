@@ -1,0 +1,14 @@
+Laughing Puffin
+Card Type: Effect Monster
+
+Description: If a face-up Spell/Trap is on the field: You can Special Summon this card from your hand. You can Tribute 1 Winged Beast monster, then target 1 face-up Spell/Trap on the field; return that face-up card to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name that card had once it returned to the hand. This is a Quick Effect if all monsters you control are Winged Beast monsters (min. 1). You can only use each effect of "Laughing Puffin" once per turn.
+
+Type: Winged Beast
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1700
+Archetype: //
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Darkwing Blast

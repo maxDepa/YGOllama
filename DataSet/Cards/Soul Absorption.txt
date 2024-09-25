@@ -1,0 +1,16 @@
+Soul Absorption
+Card Type: Spell Card
+
+Description: If a card(s) is banished: Gain 500 LP for each.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- The Secret Forces

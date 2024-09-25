@@ -1,0 +1,15 @@
+Mystik Wok
+Card Type: Spell Card
+
+Description: Tribute 1 monster. Select either its ATK or DEF and gain that many Life Points.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Rise of the Dragon Lords Structure Deck

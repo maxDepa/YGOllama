@@ -1,0 +1,12 @@
+Gift Fiend Token
+Card Type: Token
+
+Description: Special Summoned with the effect of "Revival Gift".
+
+Type: Fiend
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:

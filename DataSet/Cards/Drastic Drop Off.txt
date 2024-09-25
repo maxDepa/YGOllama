@@ -1,0 +1,16 @@
+Drastic Drop Off
+Card Type: Trap Card
+
+Description: When your opponent adds a card(s) from their Deck to their hand, including drawing: They must discard 1 of those cards.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Duel Terminal 6a
+- Phantom Darkness
+- Phantom Darkness
+- Structure Deck: Wave of Light

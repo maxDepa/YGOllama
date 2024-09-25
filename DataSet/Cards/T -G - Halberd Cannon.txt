@@ -1,0 +1,16 @@
+T.G. Halberd Cannon
+Card Type: Synchro Monster
+
+Description: 1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
+Must be Synchro Summoned, and cannot be Special Summoned by other ways. Once per turn, during either player's turn, when a monster(s) would be Summoned: You can negate the Summon, and if you do, destroy that monster. This card must be face-up on the field to activate and to resolve this effect. When this card is sent from the field to the Graveyard: You can target 1 "T.G." monster in your Graveyard; Special Summon that target.
+
+Type: Machine
+Attribute: EARTH
+Level: 12
+Attack: 4000
+Defence: 4000
+Archetype: T.G.
+Present in Sets:
+- Extreme Victory
+- Extreme Victory
+- Legendary Collection 5D's Mega Pack

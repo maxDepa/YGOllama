@@ -1,0 +1,15 @@
+Rose Tentacles
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. At the start of your Battle Phase, for each Plant-Type monster your opponent currently controls, this card gains 1 additional attack during each Battle Phase this turn. Each time this card destroys a Plant-Type monster by battle: Inflict 300 damage to your opponent.
+
+Type: Plant
+Attribute: EARTH
+Level: 6
+Attack: 2200
+Defence: 1200
+Archetype: Rose Dragon
+Present in Sets:
+- Legendary Collection 5D's Mega Pack
+- Legendary Duelists: Season 2
+- Raging Battle

@@ -1,0 +1,14 @@
+Umbral Horror Will o' the Wisp
+Card Type: Effect Monster
+
+Description: When this card is Normal or Special Summoned: You can target 1 "Umbral Horror" monster you control or in your Graveyard, except this card; this card's Level becomes the current Level of that monster. When this Attack Position card is destroyed by battle and sent to the Graveyard, and was in face-up Attack Position at the start of the Damage Step: Destroy the monster that destroyed this card.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Umbral Horror
+Present in Sets:
+- 2014 Mega-Tin Mega Pack
+- Judgment of the Light

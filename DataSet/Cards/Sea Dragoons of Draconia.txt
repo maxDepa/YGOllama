@@ -1,0 +1,18 @@
+Sea Dragoons of Draconia
+Card Type: Pendulum Normal Monster
+
+Description: [ Pendulum Effect ] 
+When a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand. You can only use this effect of "Sea Dragoons of Draconia" once per turn.
+
+[ Monster Effect ] 
+''Silently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea's opposite shores.''
+
+Type: Sea Serpent
+Attribute: WATER
+Level: 3
+Attack: 200
+Defence: 2100
+Archetype: Draconia
+Present in Sets:
+- Crossed Souls
+- Crossed Souls Sneak Peek Participation Card

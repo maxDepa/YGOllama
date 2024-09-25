@@ -1,0 +1,17 @@
+Oxygeddon
+Card Type: Effect Monster
+
+Description: If this card is destroyed by battle with a Pyro monster and sent to the GY: Each player takes 800 damage.
+
+Type: Dinosaur
+Attribute: WIND
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Bonding
+Present in Sets:
+- Dark Revelation Volume 4
+- Elemental Energy
+- Legendary Duelists
+- Speed Duel GX: Midterm Paradox
+- Structure Deck: Dinosaur's Rage

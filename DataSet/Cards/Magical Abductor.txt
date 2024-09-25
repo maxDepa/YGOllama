@@ -1,0 +1,20 @@
+Magical Abductor
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn: You can remove 3 Spell Counters from this card; add 1 Pendulum Monster from your Deck to your hand.
+
+[ Monster Effect ] 
+Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1400
+Archetype: //
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions
+- Pendulum Evolution
+- Structure Deck: Order of the Spellcasters

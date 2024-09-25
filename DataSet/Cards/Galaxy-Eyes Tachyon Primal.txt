@@ -1,0 +1,12 @@
+Galaxy-Eyes Tachyon Primal
+Card Type: Effect Monster
+
+Description: When a Dragon Xyz Monster declares an attack: Attach this card on the field to it as material. You can only use each of the following effects of "Galaxy-Eyes Tachyon Primal" once per turn. If a Dragon Xyz Monster is on the field (Quick Effect): You can Special Summon this card from your hand to either field. If this card is Normal or Special Summoned: Its owner adds 1 "Tachyon" Spell/Trap from their Deck to their hand.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 3000
+Defence: 2500
+Archetype: Galaxy
+Present in Sets:

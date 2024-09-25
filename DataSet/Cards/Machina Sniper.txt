@@ -1,0 +1,15 @@
+Machina Sniper
+Card Type: Effect Monster
+
+Description: Monsters cannot attack "Machina" monsters, except "Machina Sniper".
+
+Type: Machine
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 800
+Archetype: Machina
+Present in Sets:
+- Legendary Collection 3: Yugi's World Mega Pack
+- Machina Mayhem Structure Deck
+- Structure Deck: Mechanized Madness

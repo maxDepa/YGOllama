@@ -1,0 +1,19 @@
+Tribal Synergy
+Card Type: Skill Card
+
+Description: [At the start of the Duel, flip this card over.]
+
+If you have an “Amazoness” monster and a “Harpie” monster in your hand, reveal them and draw 1 card.
+
+If you control an “Amazoness” monster and a “Harpie” monster, draw 2 cards.
+
+Each of these Skills can only be used once per Duel.
+
+Type: Mai
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel Starter Decks: Duelists of Tomorrow

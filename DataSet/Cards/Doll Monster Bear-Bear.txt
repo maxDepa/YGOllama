@@ -1,0 +1,15 @@
+Doll Monster Bear-Bear
+Card Type: Normal Monster
+
+Description: ''Even if we get damaged, it's okay.
+Grandpa Demetto can patch us up!''
+
+Type: Beast
+Attribute: WIND
+Level: 4
+Attack: 0
+Defence: 0
+Archetype: Doll Monster
+Present in Sets:
+- 25th Anniversary Tin: Dueling Heroes Mega Pack
+- Battle of Chaos

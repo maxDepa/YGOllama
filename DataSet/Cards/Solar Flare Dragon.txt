@@ -1,0 +1,17 @@
+Solar Flare Dragon
+Card Type: Effect Monster
+
+Description: While you control another Pyro-Type monster, this card cannot be attacked. During each of your End Phases: Inflict 500 damage to your opponent.
+
+Type: Pyro
+Attribute: FIRE
+Level: 4
+Attack: 1500
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2
+- Gold Series
+- Legendary Collection 3: Yugi's World Mega Pack
+- Structure Deck: Blaze of Destruction

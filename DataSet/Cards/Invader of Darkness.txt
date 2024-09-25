@@ -1,0 +1,22 @@
+Invader of Darkness
+Card Type: Effect Monster
+
+Description: Your opponent cannot activate Quick-Play Spell Cards.
+
+Type: Fiend
+Attribute: DARK
+Level: 8
+Attack: 2900
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 2
+- Invasion of Chaos
+- Invasion of Chaos
+- Legendary Collection 3: Yugi's World Mega Pack
+- OTS Tournament Pack 8
+- OTS Tournament Pack 8 (POR)
+- Tactical Masters
+- The Lost Millennium: Special Edition
+- War of the Giants Reinforcements
+- War of the Giants: Round 2

@@ -1,0 +1,17 @@
+Sniffer Dragon
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can add 1 "Sniffer Dragon" from your Deck to your hand. You can only use this effect of "Sniffer Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 2
+Attack: 800
+Defence: 400
+Archetype: //
+Present in Sets:
+- 2018 Mega-Tin Mega Pack
+- Circuit Break
+- Star Pack VRAINS
+- Star Pack VRAINS
+- Star Pack VRAINS

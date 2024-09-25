@@ -1,0 +1,16 @@
+Fluffal Leo
+Card Type: Effect Monster
+
+Description: When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1600
+Defence: 1200
+Archetype: Fluffal
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- Star Pack Battle Royal
+- Star Pack Battle Royal
+- The New Challengers

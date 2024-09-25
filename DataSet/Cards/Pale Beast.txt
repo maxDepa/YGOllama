@@ -1,0 +1,17 @@
+Pale Beast
+Card Type: Normal Monster
+
+Description: With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Metal Raiders
+- Metal Raiders
+- Metal Raiders
+- Starter Deck: Kaiba

@@ -1,0 +1,14 @@
+Celestial Apparatus Tesea
+Card Type: Effect Monster
+
+Description: If you control an "Adventurer Token": You can Special Summon this card from your hand. You can reveal 1 card in your hand that mentions an "Adventurer Token"; add 1 Spell that mentions an "Adventurer Token" from your Deck to your hand, except a Normal Spell. You cannot Special Summon monsters the turn you activate this effect, except an "Adventurer Token" or monsters that mention it. You can only use each effect of "Celestial Apparatus Tesea" once per turn.
+
+Type: Fairy
+Attribute: EARTH
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Adventurer Token
+Present in Sets:
+- Battles of Legend: Monstrous Revenge
+- Darkwing Blast

@@ -1,0 +1,14 @@
+Urgent Ritual Art
+Card Type: Trap Card
+
+Description: If you control no Ritual Monsters: Banish 1 Ritual Spell from your hand or GY; this card's effect becomes that card's effect that Ritual Summons a monster when the card is activated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dimension of Chaos
+- Shadows in Valhalla

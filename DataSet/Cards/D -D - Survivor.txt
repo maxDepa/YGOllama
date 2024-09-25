@@ -1,0 +1,21 @@
+D.D. Survivor
+Card Type: Effect Monster
+
+Description: During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 200
+Archetype: D.D.
+Present in Sets:
+- Champion Pack: Game Four
+- Dark Revelation Volume 3
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Ra Yellow Mega Pack
+- Speed Duel GX: Duelists of Shadows
+- Speed Duel Tournament Pack 6
+- The Dark Emperor Structure Deck
+- The Lost Millennium
+- The Lost Millennium

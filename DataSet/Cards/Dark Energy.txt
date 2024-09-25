@@ -1,0 +1,18 @@
+Dark Energy
+Card Type: Spell Card
+
+Description: Increase the ATK and DEF of a Fiend-Type monster equipped with this card by 300 points.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- 25th Anniversary Ultimate Kaiba Set
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Legend of Blue Eyes White Dragon
+- Starter Deck: Kaiba
+- Starter Deck: Kaiba

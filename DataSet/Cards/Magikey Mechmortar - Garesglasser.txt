@@ -1,0 +1,14 @@
+Magikey Mechmortar - Garesglasser
+Card Type: Ritual Effect Monster
+
+Description: You can Ritual Summon this card with "Magikey Maftea". Gains 300 ATK for each different Attribute in your GY. You can only use each of the following effects of "Magikey Mechmortar - Garesglasser" once per turn. When your opponent activates an effect of a monster with the same Attribute as a monster in your GY, if at least 2 Attributes of monsters were used for this card's Ritual Summon (Quick Effect): You can negate the activation, and if you do, destroy that card. If this Ritual Summoned card is sent to the GY: You can add 1 "Magikey" monster from your Deck to your hand.
+
+Type: Machine
+Attribute: EARTH
+Level: 8
+Attack: 2000
+Defence: 2800
+Archetype: Magikey
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

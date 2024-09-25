@@ -1,0 +1,18 @@
+Blizzed, Defender of the Ice Barrier
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, draw 1 card.
+
+Type: Aqua
+Attribute: WATER
+Level: 1
+Attack: 300
+Defence: 500
+Archetype: Ice Barrier
+Present in Sets:
+- Duel Terminal 1
+- Duel Terminal 1
+- Hidden Arsenal
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1
+- Structure Deck: Freezing Chains

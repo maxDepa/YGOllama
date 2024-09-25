@@ -1,0 +1,14 @@
+Dogmatika Adin, the Enlightened
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle with a monster Special Summoned from the Extra Deck. You can only use each of the following effects of "Dogmatika Adin, the Enlightened" once per turn. If a monster Special Summoned from the Extra Deck is on the field: You can Special Summon this card from your hand. If this card on the field is destroyed by battle or card effect: You can Special Summon 1 "Dogmatika" monster from your Deck, except "Dogmatika Adin, the Enlightened".
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Dogmatika
+Present in Sets:
+- 2021 Tin of Ancient Battles
+- Rise of the Duelist

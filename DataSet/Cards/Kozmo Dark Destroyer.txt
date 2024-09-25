@@ -1,0 +1,15 @@
+Kozmo Dark Destroyer
+Card Type: Effect Monster
+
+Description: If this card is Normal or Special Summoned: You can target 1 monster on the field; destroy it. Cannot be targeted by an opponent's card effects. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 7 or lower "Kozmo" monster from your Deck.
+
+Type: Machine
+Attribute: DARK
+Level: 8
+Attack: 3000
+Defence: 1800
+Archetype: Kozmo
+Present in Sets:
+- Dimension of Chaos
+- Maximum Gold
+- Premium Gold: Infinite Gold

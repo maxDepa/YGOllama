@@ -1,0 +1,18 @@
+Number 34: Terror-Byte
+Card Type: XYZ Monster
+
+Description: 3 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 Level 4 or lower Attack Position monster your opponent controls; gain control of it until the End Phase.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 0
+Defence: 2900
+Archetype: //
+Present in Sets:
+- Generation Force
+- Generation Force
+- Premium Collection Tin
+- Star Pack 2013
+- Star Pack 2013

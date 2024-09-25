@@ -1,0 +1,17 @@
+Twin Photon Lizard
+Card Type: Fusion Monster
+
+Description: 2 "Photon" monsters
+You can Tribute this card; Special Summon, from your Graveyard, both of the Fusion Material Monsters used for the Fusion Summon of this card.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 6
+Attack: 2400
+Defence: 1000
+Archetype: Photon
+Present in Sets:
+- Order of Chaos
+- Order of Chaos
+- Star Pack 2014
+- Star Pack 2014

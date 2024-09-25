@@ -1,0 +1,16 @@
+Genex Controller
+Card Type: Normal Tuner Monster
+
+Description: As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.
+
+Type: Machine
+Attribute: DARK
+Level: 3
+Attack: 1400
+Defence: 1200
+Archetype: Genex
+Present in Sets:
+- Battles of Legend: Terminal Revenge
+- Duel Terminal 1
+- Structure Deck: Freezing Chains
+- The Shining Darkness

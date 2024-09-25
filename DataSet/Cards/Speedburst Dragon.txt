@@ -1,0 +1,14 @@
+Speedburst Dragon
+Card Type: Effect Monster
+
+Description: When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, then inflict damage to your opponent equal to the damage you took, and if you do, you gain LP equal to half that damage you inflicted. When this card is Tribute Summoned: You can add 2 "Rokket" monsters with different names from your Deck to your hand. You can only use each effect of "Speedburst Dragon" once per turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 600
+Archetype: //
+Present in Sets:
+- 2020 Tin of Lost Memories Mega Pack
+- Savage Strike

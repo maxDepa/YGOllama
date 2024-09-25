@@ -1,0 +1,12 @@
+Binding Chain
+Card Type: Normal Monster
+
+Description: The mystic links of this chain can rob enemies of their power.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 3
+Attack: 1000
+Defence: 1100
+Archetype: //
+Present in Sets:

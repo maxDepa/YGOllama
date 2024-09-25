@@ -1,0 +1,14 @@
+Scrap Soldier
+Card Type: Tuner Monster
+
+Description: This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a "Scrap" monster. If this face-up Defense Position card is selected as an attack target, destroy this card at the end of the Battle Phase. If this card is destroyed by the effect of a "Scrap" card and sent to the Graveyard, you can select 1 "Scrap" monster in your Graveyard, except "Scrap Soldier", and add it to your hand.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 2100
+Defence: 700
+Archetype: Scrap
+Present in Sets:
+- OTS Tournament Pack 9 (POR)
+- Starstrike Blast

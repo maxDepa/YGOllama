@@ -1,0 +1,14 @@
+Genex Army
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned by Tributing a "Genex" monster, you can destroy 1 card your opponent controls.
+
+Type: Machine
+Attribute: EARTH
+Level: 6
+Attack: 2300
+Defence: 1300
+Archetype: Genex
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2

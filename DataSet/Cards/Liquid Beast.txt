@@ -1,0 +1,16 @@
+Liquid Beast
+Card Type: Normal Monster
+
+Description: A liquid life form that thrives on water.
+
+Type: Aqua
+Attribute: WATER
+Level: 3
+Attack: 950
+Defence: 800
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler

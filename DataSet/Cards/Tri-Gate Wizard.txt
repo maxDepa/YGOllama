@@ -1,0 +1,17 @@
+Tri-Gate Wizard
+Card Type: Link Monster
+
+Description: 2+ monsters, except Tokens
+This card gains these effects based on the number of monsters co-linked to this card.
+● 1+: If a monster co-linked to this card battles your opponent's monster, any battle damage it inflicts to your opponent is doubled.
+● 2+: Once per turn: You can target 1 card on the field; banish it.
+● 3: Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, banish that card.
+
+Type: Cyberse
+Attribute: EARTH
+Level: 0
+Attack: 2200
+Defence: 0
+Archetype: //
+Present in Sets:
+- Structure Deck: Cyberse Link

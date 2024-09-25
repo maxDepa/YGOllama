@@ -1,0 +1,15 @@
+Scrap Orthros
+Card Type: Tuner Monster
+
+Description: Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control a "Scrap" monster. If Summoned this way: Target 1 "Scrap" monster you control; destroy that target. If this card is destroyed by the effect of a "Scrap" card and sent to the GY: You can target 1 "Scrap" monster in your GY, except "Scrap Orthros"; add that target to your hand.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 1100
+Archetype: Scrap
+Present in Sets:
+- Duel Overload
+- Extreme Victory
+- OTS Tournament Pack 9 (POR)

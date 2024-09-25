@@ -1,0 +1,17 @@
+Hamburger Recipe
+Card Type: Spell Card
+
+Description: This card is used to Ritual Summon "Hungry Burger". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.
+
+Type: Ritual
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Magic Ruler
+- Magic Ruler
+- Spell Ruler
+- Spell Ruler
+- Wild Survivors

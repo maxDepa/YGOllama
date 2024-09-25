@@ -1,0 +1,14 @@
+Delta Attacker
+Card Type: Spell Card
+
+Description: You can only activate this card while there are 3 Normal Monsters of the same name (except Tokens) on your side of the field. The 3 Normal Monsters of the same name can attack your opponent's Life Points directly during the turn this card is activated.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Sanctuary
+- Dark Revelation Volume 2

@@ -1,0 +1,13 @@
+Shovel Crusher
+Card Type: Normal Monster
+
+Description: Armed with a pair of shovels, this monster will destroy anything that stands in its way.
+
+Type: Machine
+Attribute: EARTH
+Level: 3
+Attack: 900
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Champion Pack: Game Seven

@@ -1,0 +1,15 @@
+Cactus Bouncer
+Card Type: Effect Monster
+
+Description: Cannot be Special Summoned. While another Plant monster is on the field, neither player can Special Summon monsters.
+
+Type: Plant
+Attribute: EARTH
+Level: 4
+Attack: 1800
+Defence: 300
+Archetype: //
+Present in Sets:
+- Absolute Powerforce
+- Battles of Legend: Chapter 1
+- Battles of Legend: Light's Revenge

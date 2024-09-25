@@ -1,0 +1,17 @@
+Elemental HERO Mariner
+Card Type: Fusion Monster
+
+Description: "Elemental HERO Bubbleman" + "Elemental HERO Avian"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. While you have any face-down card(s) in your Spell & Trap Card Zones, this card can attack your opponent directly.
+
+Type: Warrior
+Attribute: WATER
+Level: 5
+Attack: 1400
+Defence: 1000
+Archetype: Elemental HERO
+Present in Sets:
+- Dark Revelation Volume 4
+- Enemy of Justice
+- Legendary Collection 2: The Duel Academy Years Mega Pack
+- Speed Duel GX: Midterm Paradox

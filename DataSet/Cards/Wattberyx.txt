@@ -1,0 +1,13 @@
+Wattberyx
+Card Type: Tuner Monster
+
+Description: When this card inflicts Battle Damage to your opponent by a direct attack, discard 1 random card from your opponent's hand.
+
+Type: Thunder
+Attribute: LIGHT
+Level: 3
+Attack: 300
+Defence: 0
+Archetype: Watt
+Present in Sets:
+- Storm of Ragnarok

@@ -1,0 +1,15 @@
+Dark Scorpion Burglars
+Card Type: Effect Monster
+
+Description: When this card inflicts Battle Damage to your opponent: Your opponent sends 1 Spell Card from their Deck to the Graveyard.
+
+Type: Warrior
+Attribute: DARK
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: Dark Scorpion
+Present in Sets:
+- Dark Beginning 2
+- Gold Series: Haunted Mine
+- Pharaonic Guardian

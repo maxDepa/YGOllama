@@ -1,0 +1,14 @@
+Steelswarm Moth
+Card Type: Effect Monster
+
+Description: When this card is Tribute Summoned by Tributing a "Steelswarm" monster: You can pay 1000 Life Points to target up to 2 cards your opponent controls; return those targets to the hand.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2400
+Defence: 0
+Archetype: Steelswarm
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

@@ -1,0 +1,14 @@
+Flip Frozen
+Card Type: Effect Monster
+
+Description: If this card is sent to the GY: Change all Attack Position monsters your opponent controls to Defense Position.
+
+Type: Cyberse
+Attribute: WATER
+Level: 1
+Attack: 500
+Defence: 500
+Archetype: //
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Burst of Destiny

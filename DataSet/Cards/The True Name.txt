@@ -1,0 +1,16 @@
+The True Name
+Card Type: Spell Card
+
+Description: Declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand, then you can add to your hand, or Special Summon, 1 DIVINE monster from your Deck. Otherwise, send it to the Graveyard. You can only activate 1 "The True Name" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Egyptian God Deck: Slifer the Sky Dragon
+- Legendary Duelists: Rage of Ra
+- Magnificent Mavens
+- Millennium Pack

@@ -1,0 +1,14 @@
+Aquamirror Illusion
+Card Type: Trap Card
+
+Description: Special Summon 1 "Gishki" Ritual Monster from your hand. It cannot attack, and is returned to the hand during the End Phase.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 6b
+- Hidden Arsenal 6: Omega Xyz

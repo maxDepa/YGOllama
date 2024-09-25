@@ -1,0 +1,13 @@
+Ulevo
+Card Type: Effect Monster
+
+Description: This card cannot be Special Summoned. This card must be Tribute Summoned by offering 3 Winged Beast-Type monsters on your side of the field as Tributes. If this card attacks your opponent's Life Points directly and makes them 0, the controller of this card wins the Match.
+
+Type: Winged Beast
+Attribute: EARTH
+Level: 10
+Attack: 3000
+Defence: 2500
+Archetype: //
+Present in Sets:
+- Yu-Gi-Oh! World Championship 2004 prize cards

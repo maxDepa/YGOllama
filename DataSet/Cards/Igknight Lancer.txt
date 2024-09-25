@@ -1,0 +1,13 @@
+Igknight Lancer
+Card Type: Effect Monster
+
+Description: While this card is in your hand: You can target 3 "Igknight" cards you control; destroy them, and if you do, Special Summon this card. Once per turn: You can target 1 other "Igknight" monster you control; return it to the hand, and if you do, place 1 Spell/Trap Card your opponent controls on the bottom of the Deck.
+
+Type: Warrior
+Attribute: FIRE
+Level: 7
+Attack: 2600
+Defence: 1800
+Archetype: Igknight
+Present in Sets:
+- Clash of Rebellions

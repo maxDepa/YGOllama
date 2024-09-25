@@ -1,0 +1,14 @@
+Dragon Dowser
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, or when this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 EARTH Pendulum Monster from your Deck in Defense Position, but destroy it during the End Phase. You can only use this effect of "Dragon Dowser" once per turn.
+
+Type: Wyrm
+Attribute: EARTH
+Level: 4
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Secrets of Eternity
+- Starter Deck: Yuya

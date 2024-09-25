@@ -1,0 +1,14 @@
+Evilswarm Azzathoth
+Card Type: Flip Effect Monster
+
+Description: FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.
+
+Type: Reptile
+Attribute: DARK
+Level: 4
+Attack: 750
+Defence: 1950
+Archetype: Lswarm
+Present in Sets:
+- Duel Terminal 7b
+- Hidden Arsenal 7: Knight of Stars

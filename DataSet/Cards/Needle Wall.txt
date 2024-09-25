@@ -1,0 +1,15 @@
+Needle Wall
+Card Type: Trap Card
+
+Description: Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent's Main Monster Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Main Monster Zone as the result. If the result is 6, roll again.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Beginning 2
+- Legendary Collection 4: Joey's World Mega Pack
+- Pharaonic Guardian

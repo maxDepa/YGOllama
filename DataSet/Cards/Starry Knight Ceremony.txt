@@ -1,0 +1,13 @@
+Starry Knight Ceremony
+Card Type: Spell Card
+
+Description: During your Main Phase: You can reveal 1 LIGHT Fairy monster in your hand, and if you do, add 1 Level 7 LIGHT Dragon monster from your Deck to your hand, then place that revealed monster on the bottom of your Deck. If your opponent activates a card or effect: You can Special Summon 1 Level 7 LIGHT Dragon monster from your hand. You can only use 1 "Starry Knight Ceremony" effect per turn, and only once that turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Starry Knight
+Present in Sets:
+- Ghosts From the Past

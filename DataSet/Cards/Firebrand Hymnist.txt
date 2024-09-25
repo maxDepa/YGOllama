@@ -1,0 +1,14 @@
+Firebrand Hymnist
+Card Type: Effect Monster
+
+Description: When this card is Normal Summoned: You can send cards from the top of your opponent's Deck to the GY, equal to the number of cards they control. If this card is Special Summoned: You can send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls. You can only use this effect of "Firebrand Hymnist" once per turn.
+
+Type: Pyro
+Attribute: FIRE
+Level: 3
+Attack: 800
+Defence: 200
+Archetype: //
+Present in Sets:
+- Duel Overload
+- Structure Deck: Fire Kings

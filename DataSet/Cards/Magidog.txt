@@ -1,0 +1,13 @@
+Magidog
+Card Type: Effect Monster
+
+Description: If this card is sent to the Graveyard for the Synchro Summon of a Spellcaster-Type monster, you can select and add 1 Field Spell Card from your Graveyard to your hand.
+
+Type: Spellcaster
+Attribute: LIGHT
+Level: 4
+Attack: 1700
+Defence: 1000
+Archetype: //
+Present in Sets:
+- The Shining Darkness

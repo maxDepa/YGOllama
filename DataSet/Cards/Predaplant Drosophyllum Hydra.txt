@@ -1,0 +1,15 @@
+Predaplant Drosophyllum Hydra
+Card Type: Effect Monster
+
+Description: You can Special Summon this card (from your hand or GY) by Tributing 1 monster on either player's field with a Predator Counter. You can only Special Summon "Predaplant Drosophyllum Hydra" once per turn this way. If this card is on the field or in your GY (Quick Effect): You can banish 1 other "Predaplant" monster from your GY, then target 1 face-up monster on the field; it loses 500 ATK. You can only use this effect of "Predaplant Drosophyllum Hydra" once per turn.
+
+Type: Plant
+Attribute: DARK
+Level: 5
+Attack: 800
+Defence: 2300
+Archetype: Predaplant
+Present in Sets:
+- Fusion Enforcers
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3

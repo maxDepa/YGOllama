@@ -1,0 +1,14 @@
+Bending Destiny
+Card Type: Trap Card
+
+Description: Activate only if all face-up monsters you control are "Fortune Lady" monsters. Negate the activation of a Spell or Trap Card, or the Normal Summon of a monster, and remove that card from play. The card removed from play by this effect is returned to its owner's hand during the End Phase.
+
+Type: Counter
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Fortune Lady
+Present in Sets:
+- OTS Tournament Pack 11 (POR)
+- Stardust Overdrive

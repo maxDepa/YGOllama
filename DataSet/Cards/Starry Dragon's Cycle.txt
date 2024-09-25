@@ -1,0 +1,18 @@
+Starry Dragon's Cycle
+Card Type: Trap Card
+
+Description: Target 1 Fusion, Synchro, Xyz, or Link Monster on the field; return that face-up monster to the Extra Deck, then, based on its card type, you can Special Summon 1 appropriate monster from either GY to your field.
+● Fusion: Monster with the same Attribute.
+● Synchro: Monster with a lower Level.
+● Xyz: Monster with the same Level as its Rank.
+● Link: Monster with the same Type.
+You can only activate 1 "Starry Dragon's Cycle" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Age of Overlord

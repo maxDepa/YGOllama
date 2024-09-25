@@ -1,0 +1,14 @@
+Mecha-Dog Marron
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, inflict 1000 damage to both players. When this card on the field is destroyed and sent to the Graveyard except by battle, inflict 1000 damage to your opponent.
+
+Type: Machine
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity

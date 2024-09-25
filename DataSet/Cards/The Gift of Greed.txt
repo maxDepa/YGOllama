@@ -1,0 +1,13 @@
+The Gift of Greed
+Card Type: Trap Card
+
+Description: Your opponent draws 2 cards.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Greed
+Present in Sets:
+- Tactical Evolution

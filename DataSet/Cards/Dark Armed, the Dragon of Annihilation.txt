@@ -1,0 +1,16 @@
+Dark Armed, the Dragon of Annihilation
+Card Type: XYZ Monster
+
+Description: 2+ Level 7 monsters
+Once per turn, if you have exactly 5 DARK monsters in your GY, you can also Xyz Summon "Dark Armed, the Dragon of Annihilation" by using 1 Level 5 or higher DARK Dragon monster you control as material. You can detach 1 material from this card, then target 1 card your opponent controls; destroy it, then banish 1 card from your GY, also, this card cannot attack for the rest of this turn.
+
+Type: Dragon
+Attribute: DARK
+Level: 7
+Attack: 2800
+Defence: 1000
+Archetype: //
+Present in Sets:
+- Battles of Legend: Armageddon
+- Battles of Legend: Chapter 1
+- Weekly Shonen Jump December 2018 membership promotional cards

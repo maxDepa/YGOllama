@@ -1,0 +1,15 @@
+Vijam the Cubic Seed
+Card Type: Effect Monster
+
+Description: Cannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can place this card face-up in your Spell & Trap Zone as a Continuous Spell Card, and if you do, place 1 Cubic Counter on that opponent's monster. (Monsters with a Cubic Counter cannot attack, also negate their effects.) If this card is treated as a Continuous Spell Card by this effect, during your Main Phase: You can Special Summon this card from your Spell & Trap Zone.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 0
+Defence: 0
+Archetype: Cubic
+Present in Sets:
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Secret Edition
+- Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition

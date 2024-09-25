@@ -1,0 +1,20 @@
+Artifact Lancea
+Card Type: Effect Monster
+
+Description: You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. During your opponent's turn (Quick Effect): You can Tribute this card from your hand or face-up field; neither player can banish cards for the rest of this turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1700
+Defence: 2300
+Archetype: Artifact
+Present in Sets:
+- 2015 Mega-Tin Mega Pack
+- 25th Anniversary Rarity Collection
+- 25th Anniversary Rarity Collection
+- Battles of Legend: Hero's Revenge
+- Duel Devastator
+- Duelist Alliance
+- Maximum Gold
+- OTS Tournament Pack 4

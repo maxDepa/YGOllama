@@ -1,0 +1,13 @@
+Natural Disaster
+Card Type: Trap Card
+
+Description: Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a "Cloudian" monster.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Cloudian
+Present in Sets:
+- Gladiator's Assault

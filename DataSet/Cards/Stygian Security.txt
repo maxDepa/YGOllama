@@ -1,0 +1,15 @@
+Stygian Security
+Card Type: Tuner Monster
+
+Description: If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.
+
+Type: Fiend
+Attribute: DARK
+Level: 1
+Attack: 100
+Defence: 600
+Archetype: //
+Present in Sets:
+- Pendulum Domination Structure Deck
+- Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards
+- Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards

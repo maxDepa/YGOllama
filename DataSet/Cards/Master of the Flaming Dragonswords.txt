@@ -1,0 +1,13 @@
+Master of the Flaming Dragonswords
+Card Type: Effect Monster
+
+Description: When a monster is Normal Summoned to your side of the field, except "Master of the Flaming Dragonswords": You can increase that monster's Level by 1, and this card gains 300 ATK until the End Phase.
+
+Type: Warrior
+Attribute: FIRE
+Level: 4
+Attack: 1800
+Defence: 1200
+Archetype: //
+Present in Sets:
+- Generation Force

@@ -1,0 +1,14 @@
+Radiant Jeral
+Card Type: Effect Monster
+
+Description: When this card is sent to the Graveyard (except if destroyed by battle), gain 1000 Life Points if "The Sanctuary in the Sky" is on the field.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 4
+Attack: 1000
+Defence: 2000
+Archetype: //
+Present in Sets:
+- Gold Series 4: Pyramids Edition
+- Strike of Neos

@@ -1,0 +1,15 @@
+CONTAIN!
+Card Type: Trap Card
+
+Description: (This card is always treated as a "Rescue-ACE" card.)
+If you control a "Rescue-ACE" monster: Target 1 Effect Monster your opponent controls; this turn, that Effect Monster cannot attack, also its effects are negated. If you control "Rescue-ACE Hydrant" at resolution of this effect, that monster also cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon this turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Rescue-ACE
+Present in Sets:
+- Amazing Defenders
+- Maze of Millennia

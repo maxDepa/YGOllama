@@ -1,0 +1,17 @@
+PSY-Framegear Gamma
+Card Type: Tuner Monster
+
+Description: Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. When your opponent activates a monster effect while you control no monsters (Quick Effect): You can Special Summon both this card from your hand and 1 "PSY-Frame Driver" from your hand, Deck, or GY, and if you do, negate that activation, and if you do that, destroy that monster. During the End Phase, banish the face-up monsters Special Summoned by this effect.
+
+Type: Psychic
+Attribute: LIGHT
+Level: 2
+Attack: 1000
+Defence: 0
+Archetype: PSY-Frame
+Present in Sets:
+- Extreme Force Special Edition
+- High-Speed Riders
+- Maximum Gold: El Dorado
+- Toon Chaos
+- Toon Chaos

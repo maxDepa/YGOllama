@@ -1,0 +1,14 @@
+Gunkan Suship Ikura
+Card Type: Effect Monster
+
+Description: If you control "Gunkan Suship Shari", you can Special Summon this card (from your hand). You can only Special Summon "Gunkan Suship Ikura" once per turn this way. During your Main Phase: You can excavate the top 3 cards from your Deck, and if you do, you can either add to your hand or Special Summon 1 excavated "Gunkan Suship Shari", also shuffle the rest into your Deck. You can only use this effect of "Gunkan Suship Ikura" once per turn.
+
+Type: Aqua
+Attribute: FIRE
+Level: 4
+Attack: 200
+Defence: 300
+Archetype: Gunkan
+Present in Sets:
+- 2022 Tin of the Pharaoh's Gods
+- Dawn of Majesty

@@ -1,0 +1,13 @@
+Red Supremacy
+Card Type: Trap Card
+
+Description: Banish 1 "Red Dragon Archfiend" Synchro Monster from your Graveyard, then target 1 "Red Dragon Archfiend" Synchro Monster you control; its name becomes the banished monster's original name, and replace its effects with the banished monster's original effects.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Premium Gold: Infinite Gold

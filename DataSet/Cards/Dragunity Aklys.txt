@@ -1,0 +1,14 @@
+Dragunity Aklys
+Card Type: Tuner Monster
+
+Description: When this card is Normal Summoned, you can Special Summon 1 "Dragunity" monster from your hand, then equip it with this card. When this card is sent to the Graveyard while equipped to a monster, select 1 card on the field, and destroy it.
+
+Type: Dragon
+Attribute: WIND
+Level: 2
+Attack: 1000
+Defence: 800
+Archetype: Dragunity
+Present in Sets:
+- Dragunity Legion Structure Deck
+- OTS Tournament Pack 8 (POR)

@@ -1,0 +1,16 @@
+Ally Mind
+Card Type: Normal Tuner Monster
+
+Description: A high-performance unit developed to enhance the Artificial Intelligence program of the Allies of Justice. Loaded with elements collected from a meteor found in the Worm Nebula, it allows for highly tuned processing. But its full capacity is not yet determined.
+
+Type: Machine
+Attribute: DARK
+Level: 5
+Attack: 1800
+Defence: 1400
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

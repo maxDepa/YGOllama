@@ -1,0 +1,17 @@
+Couplet the Melodious Songstress
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon, except LIGHT monsters (this effect cannot be negated). If you do not control any face-up monsters, other than "Melodious" monsters: You can add 1 "Melodious" Spell/Trap from your Deck to your hand. You can only use this effect of "Couplet the Melodious Songstress" once per turn.
+
+[ Monster Effect ] 
+If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon 1 Level 4 or lower "Melodious" monster from your hand or GY. If a "Melodious" Fusion Monster(s) is Special Summoned to your field, while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of "Couplet the Melodious Songstress" once per turn.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 5
+Attack: 1200
+Defence: 2000
+Archetype: Melodious
+Present in Sets:
+- Legacy of Destruction

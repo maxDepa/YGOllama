@@ -1,0 +1,21 @@
+Gravity Axe - Grarl
+Card Type: Spell Card
+
+Description: The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.
+
+Type: Equip
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Guardian
+Present in Sets:
+- 2-Player Starter Set
+- Battle Pack 2: War of the Giants
+- Battle Pack 2: War of the Giants
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1
+- Legendary Collection 3: Yugi's World Mega Pack
+- Speed Duel: Scars of Battle
+- Starter Deck: Xyz Symphony

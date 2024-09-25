@@ -1,0 +1,14 @@
+Forged Steel
+Card Type: Skill Card
+
+Description: Once per Duel, during your Main Phase, you can change the name of 1 "Red-Eyes" monster or 1 Dragon Normal Monster you control to "Red-Eyes Black Dragon" while it's face-up on the field. Each "Red-Eyes Darkness Dragon" you control gains the following effect.
+● Once per turn, during your Main Phase: You can Special Summon 1 Dragon monster from your GY that can be Normal Summoned/Set.
+
+Type: Nightshroud
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Speed Duel GX: Duelists of Shadows

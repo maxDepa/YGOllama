@@ -1,0 +1,13 @@
+UFOLight
+Card Type: Effect Monster
+
+Description: Your opponent cannot target this card on the field with card effects, except during the Battle Phase. If this card battles a monster, neither can be destroyed by that battle. During the End Phase: You can draw 1 card, then you must banish any number of cards from your hand (min. 1), and if you do, this card gains 500 ATK for each. You can only use this effect of "UFOLight" once per turn.
+
+Type: Illusion
+Attribute: FIRE
+Level: 8
+Attack: 1500
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Age of Overlord

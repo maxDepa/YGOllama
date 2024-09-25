@@ -1,0 +1,18 @@
+Jet Synchron
+Card Type: Tuner Monster
+
+Description: If this card is sent to the GY as Synchro Material: You can add 1 "Junk" monster from your Deck to your hand. If this card is in your GY: You can send 1 card from your hand to the GY; Special Summon this card, but banish it when it leaves the field. You can only use 1 "Jet Synchron" effect per turn, and only once that turn.
+
+Type: Machine
+Attribute: FIRE
+Level: 1
+Attack: 500
+Defence: 0
+Archetype: Junk
+Present in Sets:
+- Legendary Duelists: Magical Hero
+- Maze of Millennia
+- Maze of Millennia
+- OTS Tournament Pack 9
+- OTS Tournament Pack 9 (POR)
+- Synchron Extreme Structure Deck

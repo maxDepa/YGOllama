@@ -1,0 +1,15 @@
+Call of the Earthbound
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack: You choose the target of the attack.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Earthbound
+Present in Sets:
+- Legendary Duelists: Immortal Destiny
+- Legendary Duelists: Season 3
+- Phantom Darkness

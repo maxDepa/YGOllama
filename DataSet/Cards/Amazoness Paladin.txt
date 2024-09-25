@@ -1,0 +1,17 @@
+Amazoness Paladin
+Card Type: Effect Monster
+
+Description: This card gains 100 ATK for each "Amazoness" monster you control.
+
+Type: Warrior
+Attribute: EARTH
+Level: 4
+Attack: 1700
+Defence: 300
+Archetype: Amazoness
+Present in Sets:
+- Dark Revelation Volume 1
+- Gold Series 3
+- Legendary Collection 4: Joey's World Mega Pack
+- Magician's Force
+- Speed Duel GX: Duelists of Shadows

@@ -1,0 +1,15 @@
+Rabidragon
+Card Type: Normal Monster
+
+Description: It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.
+
+Type: Dragon
+Attribute: LIGHT
+Level: 8
+Attack: 2950
+Defence: 2900
+Archetype: //
+Present in Sets:
+- 2-Player Starter Set
+- Photon Shockwave
+- Saga of Blue-Eyes White Dragon Structure Deck

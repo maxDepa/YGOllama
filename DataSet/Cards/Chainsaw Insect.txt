@@ -1,0 +1,19 @@
+Chainsaw Insect
+Card Type: Effect Monster
+
+Description: At the end of the Damage Step, if this card attacked or was attacked: Your opponent draws 1 card.
+
+Type: Insect
+Attribute: EARTH
+Level: 4
+Attack: 2400
+Defence: 0
+Archetype: //
+Present in Sets:
+- Battle Pack: Epic Dawn
+- Battle Pack: Epic Dawn
+- Dark Revelation Volume 4
+- Shadow of Infinity
+- Shadow of Infinity
+- Speed Duel: Streets of Battle City
+- Starter Deck: Duelist Toolbox

@@ -1,0 +1,18 @@
+Machine Assembly Line
+Card Type: Spell Card
+
+Description: All Machine-Type monsters on the field gain 200 ATK. Each time a face-up Machine-Type monster(s) on the field is destroyed by battle or card effect, place 2 Junk Counters on this card. You can send this card to the Graveyard, then target 1 Machine-Type monster in your Graveyard whose Level is less than or equal to the number of Junk Counters that were on this card; Special Summon that target.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Junk
+Present in Sets:
+- Absolute Powerforce
+- Battle Pack 3: Monster League
+- Battle Pack 3: Monster League
+- Duelist League 16 participation cards
+- Geargia Rampage Structure Deck
+- Speed Duel: Battle City Box

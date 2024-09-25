@@ -1,0 +1,15 @@
+Daigusto Sphreez
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 1 or more non-Tuner "Gusto" monsters
+ When this card is Synchro Summoned: You can target 1 "Gusto" card in your Graveyard; add that target to your hand. Your opponent takes any Battle Damage you would have taken from battles involving a face-up "Gusto" monster you control. This card cannot be destroyed by battle.
+
+Type: Psychic
+Attribute: WIND
+Level: 6
+Attack: 2000
+Defence: 1300
+Archetype: Gusto
+Present in Sets:
+- Duel Terminal 6a
+- Hidden Arsenal 6: Omega Xyz

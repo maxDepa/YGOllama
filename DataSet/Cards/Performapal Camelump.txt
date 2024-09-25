@@ -1,0 +1,18 @@
+Performapal Camelump
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+Once per turn, during your Main Phase 1: You can target 1 face-up monster you control; the monsters your opponent currently controls lose 800 DEF until the end of this turn, and if they do, if the targeted monster attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. (These effects remain even if this card leaves the field.)
+
+[ Monster Effect ] 
+If this card is destroyed by battle: You can make the monster that destroyed this card lose 800 ATK.
+
+Type: Beast
+Attribute: EARTH
+Level: 4
+Attack: 800
+Defence: 1800
+Archetype: Performapal
+Present in Sets:
+- 2016 Mega-Tin Mega Pack
+- Clash of Rebellions

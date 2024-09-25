@@ -1,0 +1,13 @@
+Reptilianne Medusa
+Card Type: Effect Monster
+
+Description: Send 1 card from your hand to the Graveyard and select 1 face-up monster your opponent controls. The ATK of the selected monster becomes 0, and it cannot change its battle position.
+
+Type: Reptile
+Attribute: DARK
+Level: 6
+Attack: 2200
+Defence: 800
+Archetype: Reptilianne
+Present in Sets:
+- Stardust Overdrive

@@ -1,0 +1,13 @@
+Berserk Archfiend
+Card Type: Effect Monster
+
+Description: You can target up to 2 face-up monsters you control, including a Fiend monster; Special Summon this card from your hand, and if you do, destroy those monsters. You can only use this effect of "Berserk Archfiend" once per turn. When a monster(s) is destroyed by this card's effect: You can target face-up monsters your opponent controls equal to the number destroyed; this card gains ATK equal to their combined original ATK, until the end of your next turn.
+
+Type: Fiend
+Attribute: DARK
+Level: 6
+Attack: 2000
+Defence: 0
+Archetype: Archfiend
+Present in Sets:
+- Phantom Nightmare

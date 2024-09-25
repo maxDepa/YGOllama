@@ -1,0 +1,18 @@
+Shaddoll Zefranaga
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Shaddoll" and "Zefra" monsters. This effect cannot be negated.
+
+[ Monster Effect ] 
+If this card is Pendulum Summoned or sent to the GY: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a "Zefra" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of "Shaddoll Zefranaga" once per turn.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 2
+Attack: 900
+Defence: 100
+Archetype: Shaddoll
+Present in Sets:
+- Crossed Souls
+- Structure Deck: Shaddoll Showdown

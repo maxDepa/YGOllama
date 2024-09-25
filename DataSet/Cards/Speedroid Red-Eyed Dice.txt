@@ -1,0 +1,15 @@
+Speedroid Red-Eyed Dice
+Card Type: Tuner Monster
+
+Description: When this card is Normal or Special Summoned: You can target 1 "Speedroid" monster you control, except "Speedroid Red-Eyed Dice", and declare a Level from 1 to 6; it becomes that Level until the end of this turn.
+
+Type: Machine
+Attribute: WIND
+Level: 1
+Attack: 100
+Defence: 100
+Archetype: Roid
+Present in Sets:
+- High-Speed Riders
+- Legendary Duelists: Synchro Storm
+- Maximum Gold

@@ -1,0 +1,16 @@
+Void Breach
+Card Type: Spell Card
+
+Description: "Infernoid" monsters you control gain 100 ATK for each of your banished "Infernoid" monsters. If you control no monsters, or all monsters you control are Fiend monsters: You can activate 1 of these effects;
+● Add 1 of your banished "Infernoid" monsters to your hand.
+● Special Summon 1 "Infernoid" monster from your hand, ignoring its Summoning conditions.
+You can only use this effect of "Void Breach" once per turn.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Void
+Present in Sets:
+- Battles of Legend: Terminal Revenge

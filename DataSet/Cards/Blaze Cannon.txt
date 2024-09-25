@@ -1,0 +1,17 @@
+Blaze Cannon
+Card Type: Spell Card
+
+Description: (This card is also always treated as a "Blaze Accelerator" card.)
+One "The Winged Dragon of Ra" you control gains the following effects until the end of this turn. This card's activation and effect cannot be negated.
+● This card is unaffected by your opponent's card effects.
+● When an attack is declared involving this card: You can Tribute any number of other monsters that did not declare an attack this turn; this card gains ATK equal to the Tributed monsters' combined original ATK, until the end of this turn.
+● After damage calculation, if this card attacked: You can send all monsters your opponent controls to the GY.
+
+Type: Quick-Play
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Blaze Accelerator
+Present in Sets:
+- Legendary Duelists: Rage of Ra

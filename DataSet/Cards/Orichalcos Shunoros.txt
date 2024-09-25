@@ -1,0 +1,15 @@
+Orichalcos Shunoros
+Card Type: Effect Monster
+
+Description: This card cannot be Normal Summoned or Set. If a Normal Monster you control is destroyed by battle, you can Special Summon this card from your hand. This card gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.
+
+Type: Machine
+Attribute: DARK
+Level: 10
+Attack: -1
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dragons of Legend: The Complete Series
+- Gold Series 4: Pyramids Edition
+- Shonen Jump March 2010 subscription bonus

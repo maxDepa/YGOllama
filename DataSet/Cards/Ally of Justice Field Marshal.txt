@@ -1,0 +1,17 @@
+Ally of Justice Field Marshal
+Card Type: Synchro Monster
+
+Description: 1 Tuner + 2 or more non-Tuner monsters
+This card cannot be Special Summoned except by Synchro Summon. When this card attacks a face-down Defense Position monster, destroys it by battle, and sends it to the Graveyard, draw 1 card.
+
+Type: Machine
+Attribute: DARK
+Level: 9
+Attack: 2900
+Defence: 2600
+Archetype: Ally of Justice
+Present in Sets:
+- Duel Terminal 2
+- Hidden Arsenal 2
+- Hidden Arsenal: Chapter 1
+- Hidden Arsenal: Chapter 1

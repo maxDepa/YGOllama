@@ -1,0 +1,14 @@
+Gishki Ariel
+Card Type: Flip Effect Monster
+
+Description: FLIP: You can add 1 "Gishki" monster from your Deck to your hand.
+
+Type: Spellcaster
+Attribute: WATER
+Level: 4
+Attack: 1000
+Defence: 1800
+Archetype: Gishki
+Present in Sets:
+- Duel Terminal 5b
+- Hidden Arsenal 5: Steelswarm Invasion

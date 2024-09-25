@@ -1,0 +1,12 @@
+Zanki
+Card Type: Normal Monster
+
+Description: His swiftly drawn blade delivers quick and fatal damage.
+
+Type: Warrior
+Attribute: EARTH
+Level: 5
+Attack: 1500
+Defence: 1700
+Archetype: //
+Present in Sets:

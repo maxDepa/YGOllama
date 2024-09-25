@@ -1,0 +1,15 @@
+Shinato, King of a Higher Plane
+Card Type: Ritual Effect Monster
+
+Description: This card can only be Ritual Summoned with the Ritual Spell Card, "Shinato's Ark". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand. When this card destroys a Defense Position monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the original ATK of the destroyed monster.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 8
+Attack: 3300
+Defence: 3000
+Archetype: //
+Present in Sets:
+- Dark Crisis
+- Dark Crisis
+- Dark Revelation Volume 1

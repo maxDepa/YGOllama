@@ -1,0 +1,22 @@
+Performapal Skullcrobat Joker
+Card Type: Pendulum Effect Monster
+
+Description: [ Pendulum Effect ] 
+You cannot Pendulum Summon monsters, except "Performapal" monsters, "Magician" Pendulum Monsters, and "Odd-Eyes" monsters. This effect cannot be negated.
+
+[ Monster Effect ] 
+When this card is Normal Summoned: You can add 1 "Performapal" monster, "Magician" Pendulum Monster, or "Odd-Eyes" monster from your Deck to your hand, except "Performapal Skullcrobat Joker".
+
+Type: Spellcaster
+Attribute: DARK
+Level: 4
+Attack: 1800
+Defence: 100
+Archetype: Magician
+Present in Sets:
+- Legendary Dragon Decks
+- Master of Pendulum Structure Deck
+- OTS Tournament Pack 1
+- OTS Tournament Pack 19
+- OTS Tournament Pack 19 (POR)
+- Pendulum Evolution

@@ -1,0 +1,18 @@
+Pendulum Scale
+Card Type: Trap Card
+
+Description: If you have 2 cards in your Pendulum Zone, apply this effect based on the difference between their current Pendulum Scales.
+● 0: Destroy 2 Spells/Traps on the field.
+● 1 to 3: Add 1 Level 2, 3, or 4 Pendulum Monster from your Deck to your hand.
+● 4 to 6: Add 1 Level 5, 6, or 7 Pendulum Monster from your Deck to your hand.
+● 7+: Return up to 2 cards from your Pendulum Zone to the hand, then you can Special Summon 1 Pendulum Monster from your hand.
+You can only activate 1 "Pendulum Scale" per turn.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: Pendulum
+Present in Sets:
+- Dimension Force

@@ -1,0 +1,15 @@
+Remove Brainwashing
+Card Type: Trap Card
+
+Description: The control of all monsters on the field returns to the owners.
+
+Type: Continuous
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 1
+- Magician's Force
+- Premium Gold: Infinite Gold

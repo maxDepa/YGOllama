@@ -1,0 +1,16 @@
+Fairy Wind
+Card Type: Trap Card
+
+Description: Destroy as many face-up Spell/Trap Cards on the field as possible (other than this card), and if you do, each player takes damage equal to the total number of cards destroyed by this effect x 300.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Ancient Prophecy
+- Astral Pack Seven
+- Premium Gold: Infinite Gold
+- Speed Duel: Battle City Box

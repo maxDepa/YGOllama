@@ -1,0 +1,13 @@
+Radiant Spirit
+Card Type: Effect Monster
+
+Description: When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.
+
+Type: Reptile
+Attribute: LIGHT
+Level: 7
+Attack: 2000
+Defence: 1500
+Archetype: //
+Present in Sets:
+- Strike of Neos

@@ -1,0 +1,13 @@
+Evil Blast
+Card Type: Trap Card
+
+Description: Activate only when a monster is Special Summoned to your opponent's side of the field. Equip this card to that monster. It gains 500 ATK. During each of your opponent's Standby Phases, inflict 500 damage to your opponent.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Absolute Powerforce

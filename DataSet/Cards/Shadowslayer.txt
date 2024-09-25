@@ -1,0 +1,16 @@
+Shadowslayer
+Card Type: Effect Monster
+
+Description: If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.
+
+Type: Fiend
+Attribute: DARK
+Level: 4
+Attack: 1400
+Defence: 200
+Archetype: //
+Present in Sets:
+- Dark Revelation Volume 3
+- Flaming Eternity
+- Flaming Eternity
+- Starter Deck: Jaden Yuki

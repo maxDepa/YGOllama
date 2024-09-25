@@ -1,0 +1,17 @@
+Skelengel
+Card Type: Flip Effect Monster
+
+Description: FLIP: Draw 1 card.
+
+Type: Fairy
+Attribute: LIGHT
+Level: 2
+Attack: 900
+Defence: 400
+Archetype: //
+Present in Sets:
+- 2-Player Starter Deck: Yuya & Declan
+- Saber Force Starter Deck
+- Speed Duel: Battle City Box
+- Starter Deck 2006
+- Starter Deck: Yu-Gi-Oh! 5D's 2009

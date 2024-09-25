@@ -1,0 +1,15 @@
+Radiant Mirror Force
+Card Type: Trap Card
+
+Description: When an opponent's monster declares an attack while they control 3 or more Attack Position monsters: Destroy all Attack Position monsters your opponent controls.
+
+Type: Normal
+Attribute: //
+Level: 0
+Attack: 0
+Defence: 0
+Archetype: //
+Present in Sets:
+- Force of the Breaker
+- Force of the Breaker
+- Premium Gold: Infinite Gold

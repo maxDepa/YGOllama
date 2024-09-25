@@ -1,0 +1,18 @@
+Magician of Dark Illusion
+Card Type: Effect Monster
+
+Description: This card's name becomes "Dark Magician" while on the field. You can only use each of these effects of "Magician of Dark Illusion" once per turn.
+● During your opponent's turn, if you activate a Spell/Trap Card or effect (except during the Damage Step): You can Special Summon this card from your hand.
+● If you activate a Spell/Trap Card or effect while this card is face-up on your field (except during the Damage Step): You can target 1 "Dark Magician" in your GY; Special Summon it. This effect can only be used once while this card is face-up on the field.
+
+Type: Spellcaster
+Attribute: DARK
+Level: 7
+Attack: 2100
+Defence: 2500
+Archetype: Dark Magician
+Present in Sets:
+- 2017 Mega-Tin Mega Pack
+- Legendary Duelists: Magical Hero
+- Legendary Duelists: Season 3
+- The Dark Illusion

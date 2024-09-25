@@ -1,0 +1,13 @@
+Evoltile Elginero
+Card Type: Effect Monster
+
+Description: When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 "Evoltile" monster from your Deck to your hand.
+
+Type: Reptile
+Attribute: FIRE
+Level: 2
+Attack: 0
+Defence: 0
+Archetype: Evoltile
+Present in Sets:
+- Galactic Overlord
