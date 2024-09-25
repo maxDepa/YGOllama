@@ -1,8 +1,5 @@
 import numpy as np
 from numpy import linalg
-
-#https://www.youtube.com/watch?v=V1Mz8gMBDMo&t=103s
-
 import fileextensions as fe
 import constant
 import embedding
