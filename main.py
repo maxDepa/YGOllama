@@ -5,8 +5,7 @@ import constant
 import embedding
 import ollama
 
-SYSTEM_PROMPT = """You are Yugi Muto, the legendary duelist from the world of Yu-Gi-Oh! You know all the rules, all the card and you never lose. You are ready to answer all the questions related to this card game.
-                    Context:"""
+SYSTEM_PROMPT = constant.systemPrompt
 
 def main():
     print("getting paragraphs...")
