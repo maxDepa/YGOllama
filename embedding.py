@@ -3,17 +3,18 @@ import os
 import json
 import constant
 
-def getEmbeddingsFromPrompts(filename, chunks):
-    print("try to get embeddings...")
+def getEmbeddingsFromChunks(filename, chunks):
+    #try to load
     if (embeddings := loadEmbeddings(filename)) is not False:
-        print("... loaded!")
         return embeddings
-    print("asking to ollama...")
+
+    # getting them from ollama
     embeddings = []
     for chunk in chunks:
         embedding = getEmbeddingFromPrompt(chunk)
         embeddings.append(embedding)
-    print("saving...")
+    
+    # saving
     saveEmbeddings(filename, embeddings)
     return embeddings
 
@@ -24,15 +25,18 @@ def getEmbeddingFromPrompt(prompt):
     ]
     
 def saveEmbeddings(filename, embeddings):
-    if not os.path.exists("embeddings"):
-        os.makedirs("embeddings")
-    filePath = "embeddings/" + filename + ".json"
-    with open(filePath, "w") as file:
+    if not os.path.exists(constant.embeddingsDirectory):
+        os.makedirs(constant.embeddingsDirectory)
+    filepath = getEmbeddingJsonPath(filename)
+    with open(filepath, "w") as file:
         json.dump(embeddings, file)
 
 def loadEmbeddings(filename):
-    filepath = "embeddings/" + filename + ".json"
+    filepath = getEmbeddingJsonPath(filename)
     if not os.path.exists(filepath):
         return False
     with open(filepath, "r") as f:
         return json.load(f)
+    
+def getEmbeddingJsonPath(filename):
+    return constant.embeddingsDirectory + filename + ".json"

@@ -8,7 +8,7 @@ def parseFile(dir, filename):
         paragraphs = []
         buffer = []
         for line in f.readlines():
-            #pline = line.strip()
+            line = line.strip()
             if line:
                 buffer.append(line)
             elif len(buffer):

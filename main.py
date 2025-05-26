@@ -4,24 +4,22 @@ import fileextensions as fe
 import constant
 import embedding
 import ollama
+from integration import message as msg
 
 SYSTEM_PROMPT = constant.systemPrompt
 
 def main():
-    print("getting paragraphs...")
+    print("loading data set...")
     # paragraphs = getCardParagraphs()
-    # embeddings = embedding.getEmbeddingsFromPrompts("cards", paragraphs)
+    # embeddings = embedding.getEmbeddingsFromChunks("cards", paragraphs)
     
     paragraphs = getMechanicsParagraphs()
-    embeddings = embedding.getEmbeddingsFromPrompts("mechanics", paragraphs)
+    embeddings = embedding.getEmbeddingsFromChunks("mechanics", paragraphs)
     
     while(True):
-        print("asking prompt...")
         prompt = input("How can I help you? ")
         promptEmbedding = embedding.getEmbeddingFromPrompt(prompt)
-
-        print("evaluating...")
-        most_similar_chunks = find_most_similar(promptEmbedding, embeddings)[:5]
+        most_similar_chunks = findMostSimilarChunk(promptEmbedding, embeddings)[:10]
         
         print("create context")
         context = "\n"
@@ -29,23 +27,26 @@ def main():
             similarityScore = item[0]
             index = item[1]
             context.join(paragraphs[index])
-            #print(similarityScore, paragraphs[index])
+            print("Score: " + str(similarityScore) + "\n" + str(paragraphs[index]))
         
         print("asking response")
-        response = ollama.chat(model=constant.model,
-            messages=[
-                {
-                    "role": "system",
-                    "content":SYSTEM_PROMPT + context
-                },
-                {
-                    "role": "user",
-                    "content": prompt
-                }
+        response = ollama.chat(
+            model=constant.model,
+            temperature=0,
+            messages=[ 
+                    msg.create("system",SYSTEM_PROMPT + context),
+                    msg.create("user", prompt)
             ]
         )
-        
-        print(response["message"]["content"])
+        # response = ollama.generate(
+        #     #model="llama2",
+        #     model=constant.model,
+        #     prompt=f"Using this data: {context}. Respond to this prompt: {prompt}",
+        #     temperature=0
+        #     )
+
+        #print(response["message"]["content"])
+        print(response['response'])
 
 def getCardParagraphs():
     dir = constant.cardDirectory
@@ -63,7 +64,7 @@ def getMechanicsParagraphs():
         paragraphs.append(fe.parseFile(dir, file))
     return paragraphs
 
-def find_most_similar(needle, haystack):
+def findMostSimilarChunk(needle, haystack):
     needle_norm = linalg.norm(needle)
     similarity_scores = [
         np.dot(needle, item) / (needle_norm * linalg.norm(item)) for item in haystack        
